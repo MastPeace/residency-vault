@@ -17,8 +17,8 @@ if [ -z "${GH_TOKEN:-}" ]; then
   exit 1
 fi
 
-# Commit if there are changes
-if git diff --quiet HEAD; then
+# Commit if there are changes (tracked OR untracked/new files)
+if git diff --quiet HEAD && [ -z "$(git status --porcelain)" ]; then
   echo "No changes to push on $(date -u +%Y-%m-%dT%H:%MZ)"
   exit 0
 fi
