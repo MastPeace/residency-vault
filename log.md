@@ -48,3 +48,12 @@
 ### Index and schema
 - index.md — updated with all 29 pages + one-line summaries | Total pages: 32
 - log.md — this entry
+
+## [2026-09-13] update | Weekly monitor — manual live run
+- Runtime: manual foreground run (cron `run` spawn is broken on this box — see note).
+- Collected 81 raw items (7-day window), Stage A flagged 13 NEW countries (no pages created).
+- Analyzed on deepseek-v4-pro: 1 grounded item survived 7-day window (cyprus — citizenship rule for spouses).
+- Validated 1/1 OK.
+- DB delta: NO change (cyprus fact already present; anti-duplicate per SCHEMA Update Policy).
+- Alerts file: alerts/2026-09-13.md written, pushed to GitHub (commit e7202ab).
+- Fixed scripts/auto-sync.sh: now also commits untracked/new files (was ignoring new alerts/).
