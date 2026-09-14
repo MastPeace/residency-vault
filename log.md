@@ -10,7 +10,14 @@
 - WIKI_PATH set to /home/vovka/wiki
 - Phase 1 (seed) pending: build country condition pages from collected monitor data + authoritative sources
 
-## [2026-09-13] ingest | Seed country conditions (22 countries + concepts)
+## [2026-09-14] update | Weekly monitor run — 5 country pages + alerts
+- conditions/armenia.md — Added Nov 1, 2026 comprehensive reform details (work visas, labor market test abolition, business thresholds AMD 2M/1M, employer notification). Bumped updated.
+- conditions/croatia.md — Added DN visa-hopping crackdown (in-country status switching prohibited without exit). Bumped updated.
+- conditions/cyprus.md — Updated marriage citizenship bill: 3→6 months for spouses abroad, marriage ≥5 years (corrected from ≥3). Bumped updated.
+- conditions/georgia.md — Three major updates: (1) marriage residence restructured Sep 1 2026 (temp 1yr→5yr→PR, commission, criminal liability); (2) student residence tightened (school students excluded, presence monitoring, Jan 1 2027 deadline); (3) NEW C5 Digital Nomad Visa added (adopted Apr 16, 2026). Bumped updated.
+- conditions/germany.md — Added EES biometrics date (Apr 10, 2026), family reunification suspension for subsidiary protection, CDU/CSU citizenship rollback rumor. Bumped updated.
+- alerts/2026-09-14.md — Delta report: 8 changed, 0 new, 2 unchanged, 13 discovered countries
+- Status: Collector 87 items, Analyzer 10 items (validated OK), 12 watchlist countries with zero news
 
 ### Country pages (22 files — conditions/)
 - conditions/armenia.md — confidence: high (evidence-rich; 11 snapshot items + MFA sources)

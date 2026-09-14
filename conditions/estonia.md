@@ -3,50 +3,90 @@ title: Estonia — Estonia
 created: 2026-09-13
 updated: 2026-09-13
 type: entity
-tags: [residence, citizenship, digital-nomad, work-visa, it_friendly]
+tags: [residence, citizenship, digital-nomad, startup-visa, e-residency, it_friendly]
 category: it_friendly
 confidence: high
-sources: [raw/articles/monitor-snapshot-2026-09-13.json]
+sources:
+  - https://cairo.mfa.ee/digital-nomad-visa
+  - https://www.e-resident.gov.ee/nomadvisa
+  - https://www.e-resident.gov.ee/es/blog/posts/estonian-startup-visa-vs-e-residency
 country_code: EE
 ---
 
 ## Overview
-Estonia is an EU/Schengen/NATO member and arguably the world's most digitally advanced government. It pioneered the e-Residency programme (2014), digital nomad visa (2020), and runs a Startup Visa programme. Citizenship requires 8 years of residence. ^[raw/articles/monitor-snapshot-2026-09-13.json]
+Estonia is an EU/Schengen/NATO/Eurozone member and widely recognized as the world's most digitally advanced government. It pioneered **e-Residency** (2014, digital identity for business), the **Digital Nomad Visa** (2020, one of the world's first), and runs a **Startup Visa** programme. Citizenship requires 8 years of residence. Estonia generally does NOT permit dual citizenship (exceptions for birthright). ^[https://cairo.mfa.ee/digital-nomad-visa]
 
-## Residence
-**Temporary residence permit**: issued for up to 5 years for employment, study, family reunification, or entrepreneurship. Non-EU nationals must apply before entering Estonia.
+## Residency Programs
 
-**Startup Visa**: for founders and employees of qualifying startups. Valid for up to 18 months (extendable by 183 days). Applicants must have an approved startup from the Startup Committee. ^[raw/articles/monitor-snapshot-2026-09-13.json]
+| Type | Official Program | Key Conditions | Duration |
+|------|-----------------|----------------|----------|
+| [[investment-residency]] | Not available as passive investment route | — | — |
+| [[passive-income-residency]] | Not available as dedicated program | — | — |
+| [[digital-nomad-visa]] | Digital Nomad Visa (Type D) | €4,500/mo income (6mo preceding); remote work for non-EE employer | 1 year |
+| [[highly-skilled-employment]] | EU Blue Card | University degree; job offer; salary ≥ 1.5× Estonian average | ≤2yr 3mo |
+| [[startup-entrepreneur]] | Startup Visa | Startup Committee approval; innovative business | 18 months (+183 days) |
+| [[employment-residency]] | Temporary residence for employment | Job offer from Estonian employer; salary ≥ national average | ≤5 years |
+| [[student_residency]] | Student residence permit | Enrollment in Estonian institution | Duration of studies |
+| [[family_reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
+| [[retired_residency]] | Not available as dedicated program | — | — |
+| [[citizenship-by-investment]] | Not available | — | — |
 
-**EU Blue Card**: available for highly qualified workers with a binding job offer and salary meeting the threshold.
+## Per-Program Detail
 
-**e-Residency**: Estonia's digital identity programme allows non-residents to register and manage an EU-based company online. Note: e-Residency does NOT grant the right to reside in Estonia; it is purely a business tool. ^[raw/articles/monitor-snapshot-2026-09-13.json]
+### Digital Nomad Visa
+- **Official name**: Digital Nomad Visa (Type D visa or short-stay C visa)
+- **Conditions**: Non-EU citizen working remotely using ICT for foreign-registered companies or freelancing for foreign clients. **Income ≥ €4,500/month (gross)** in the 6 months preceding application. ^[https://cairo.mfa.ee/digital-nomad-visa] Employment contract or proof of business activity. Valid health insurance.
+- **Duration / renewal**: Type D visa: up to **1 year**. Type C visa: up to **90 days** within 180-day period. No direct renewal — reapply. ^[https://www.e-resident.gov.ee/nomadvisa]
+- **Path to citizenship**: Does NOT lead to permanent residence. Must switch to work permit or business route for long-term path.
+- **Official source**: https://www.e-resident.gov.ee/nomadvisa
+- **Community verdict**: Works well — pioneer DN visa, transparent process, fully digital application. Income threshold is high (€4,500/mo).
+
+### Startup Visa
+- **Official name**: Startup Visa (Estonian Startup Visa)
+- **Conditions**: Startup must be approved by the Estonian Startup Committee. Innovative, scalable business model with global growth potential. For founders AND employees of qualifying startups. ^[https://www.e-resident.gov.ee/es/blog/posts/estonian-startup-visa-vs-e-residency]
+- **Duration / renewal**: **18 months** initial, extendable by **183 days**. After that: standard TRP if business is active.
+- **Path to citizenship**: 5 years residence → permanent residence → citizenship eligibility at 8 years.
+- **Official source**: https://www.startupestonia.ee/visa
+- **Community verdict**: Works well — transparent, fast, supports both founders and employees. Requires genuine innovative startup.
+
+### e-Residency (note: NOT a residence permit)
+- **Official name**: E-Residency
+- **Conditions**: Digital identity for non-residents. Allows company registration and management 100% online. **Does NOT grant right to reside** in Estonia or any EU country. Purely a business tool. ^[https://www.e-resident.gov.ee/]
+- **Duration**: 5 years (digital ID card), renewable.
+- **Official source**: https://www.e-resident.gov.ee/
+
+### Highly Skilled Employment — EU Blue Card
+- **Official name**: EL Sinine Kaart
+- **Conditions**: University degree. Job offer from Estonian employer. Salary ≥ 1.5× Estonian average gross annual salary.
+- **Duration / renewal**: Duration of contract + 3 months, max 2 years 3 months.
+- **Path to citizenship**: After 5 years residence + B1 Estonian → permanent residence → citizenship at 8 years.
+- **Official source**: https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-estonia_en
+- **Community verdict**: Works well — Estonia is recruitment-friendly.
 
 ## Citizenship
-- 8 years of legal residence (5 years of permanent residence)
-- Estonian language proficiency (B1)
-- Knowledge of the Estonian Constitution and Citizenship Act exam
-- Estonia generally does NOT permit dual citizenship (exceptions for birthright)
+- **Standard**: 8 years of legal residence (5 years of permanent residence) ^[https://www.expatfocus.com/estonia/guide/estonia-citizenship]
+- **Language**: B1 Estonian proficiency (demanding — Finno-Ugric language)
+- **Constitution and Citizenship Act exam**
+- **Dual citizenship**: generally NOT permitted (exceptions for birthright citizens) ^[https://www.expatfocus.com/estonia/guide/estonia-citizenship]
+- Clean criminal record
 
 ## Tax
-Estonia has a unique corporate tax system: 0% tax on reinvested profits; 20% tax only on distributed profits. Personal income tax is a flat 20%. This makes Estonia attractive for entrepreneurs who retain earnings in the company.
+- Corporate: **0% tax on reinvested profits**; 20% (22% from 2025) only on distributed profits — unique in the EU
+- Personal income tax: flat **20%**
+- Social tax: 33% (paid by employer)
+- No wealth tax, no inheritance tax
+- e-Residency company: taxed where managed (may be Estonia if managed from there)
 
 ## IT / Digital Nomad
-Estonia's [[digital-nomad]] visa (introduced 2020) was one of the world's first, complemented by the [[blue-card]] for employed professionals and the e-Residency programme. Key details:
-- **Type D visa** or **short-stay C visa** for remote workers
-- **Income requirement**: €4,500/month (gross) in the 6 months preceding application ^[raw/articles/monitor-snapshot-2026-09-13.json]
-- **Validity**: up to 1 year (D visa) or 90 days (C visa)
-- **Permits work** for foreign-registered companies and freelancing
-- **Application**: at Estonian embassies abroad
-- Estonia was ranked among the top digital nomad destinations in 2026 rankings ^[raw/articles/monitor-snapshot-2026-09-13.json]
+Estonia was a pioneer: Digital Nomad Visa (2020), Startup Visa, and e-Residency (2014). The DN visa requires €4,500/mo — among the highest in Europe. Tallinn is a major tech hub with a thriving startup ecosystem (Skype, Bolt, Wise roots). Fully digital government — everything from company registration to tax filing is online. Tallinn is ranked among top global digital nomad destinations.
 
 ## Yacht / Maritime
-Estonia has a coastline on the Baltic Sea and Gulf of Finland. Yacht registration is available under the Estonian flag. The maritime sector is small compared to Mediterranean countries but growing.
+Baltic Sea coastline (Tallinn, Paldiski). Small yachting infrastructure. Yacht registration under Estonian flag available. Not a major yachting destination.
 
-## Notes for RU citizens
-Estonia has taken a restrictive stance towards Russian citizens since 2022. Visa issuance to Russian nationals is limited. Residence permits for Russian citizens face enhanced scrutiny. Estonian language requirement (B1) for citizenship is demanding. The significant Russian-speaking minority (~25% of population) provides some cultural familiarity, but the political environment is unwelcoming for new Russian applicants.
+## Notes for RU Citizens
+Estonia has one of the most restrictive stances toward Russian citizens since 2022. Visa issuance severely limited. Residence permit applications face enhanced scrutiny. Estonian language (Finno-Ugric, unrelated to Russian) is one of Europe's hardest. However, ~25% of the population is Russian-speaking, providing cultural familiarity. The political environment is unwelcoming for new Russian applicants.
 
 ## Status
 - **Last monitored**: 2026-09-13
-- **Recent changes**: Digital nomad visa and e-Residency programmes are mature and stable. No major policy shifts in 2026.
-- **Watch items**: Monitor any further restrictions on Russian citizens.
+- **Recent changes**: Corporate tax rate on distributions increased to 22% from 2025. DN visa and Startup Visa programmes are mature and stable.
+- **Watch items**: Monitor any further restrictions on Russian citizens. Track Startup Visa policy.

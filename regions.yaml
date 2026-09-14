@@ -1,0 +1,124 @@
+# Global country registry for the residency database.
+# Grouped by region. The build dispatches a v4-pro subagent per region; each writes
+# its own conditions/<country>.md files per SCHEMA v2 (generalized residency taxonomy).
+# 'category' = the dominant market category for frontmatter (may be multi).
+
+regions:
+  eu_western:
+    - {country: portugal,     category: [strong_passport, it_friendly, clear_pathway]}
+    - {country: spain,        category: [strong_passport, it_friendly, clear_pathway]}
+    - {country: france,       category: [strong_passport, clear_pathway]}
+    - {country: italy,        category: [strong_passport, clear_pathway]}
+    - {country: germany,      category: [strong_passport, it_friendly]}
+    - {country: austria,      category: [strong_passport, it_friendly]}
+    - {country: netherlands,  category: [strong_passport, it_friendly]}
+    - {country: belgium,      category: [strong_passport, clear_pathway]}
+    - {country: luxembourg,   category: [strong_passport, it_friendly]}
+    - {country: denmark,      category: [strong_passport, it_friendly]}
+    - {country: sweden,       category: [strong_passport, it_friendly]}
+    - {country: finland,      category: [strong_passport, it_friendly]}
+    - {country: ireland,      category: [strong_passport, it_friendly]}
+    - {country: united-kingdom, category: [strong_passport, it_friendly]}
+    - {country: switzerland,  category: [strong_passport, it_friendly]}
+    - {country: norway,       category: [strong_passport, it_friendly]}
+    - {country: iceland,      category: [strong_passport, clear_pathway]}
+
+  eu_eastern:
+    - {country: poland,       category: [it_friendly, popular_ru]}
+    - {country: czechia,      category: [it_friendly, popular_ru]}
+    - {country: slovakia,     category: [clear_pathway, popular_ru]}
+    - {country: hungary,      category: [clear_pathway]}
+    - {country: romania,      category: [clear_pathway]}
+    - {country: bulgaria,     category: [clear_pathway, popular_ru]}
+    - {country: estonia,      category: [it_friendly]}
+    - {country: latvia,       category: [popular_ru]}
+    - {country: lithuania,    category: [popular_ru]}
+    - {country: slovenia,     category: [clear_pathway]}
+    - {country: croatia,      category: [yacht_captain, it_friendly]}
+    - {country: greece,       category: [strong_passport, clear_pathway]}
+    - {country: cyprus,       category: [strong_passport, yacht_captain]}
+    - {country: malta,        category: [strong_passport, yacht_captain]}
+
+  balkans_caucasus:
+    - {country: serbia,       category: [popular_ru]}
+    - {country: montenegro,   category: [popular_ru, yacht_captain]}
+    - {country: bosnia-herzegovina, category: [clear_pathway]}
+    - {country: north-macedonia, category: [clear_pathway]}
+    - {country: albania,      category: [clear_pathway]}
+    - {country: kosovo,       category: [clear_pathway]}
+    - {country: turkey,       category: [popular_ru]}
+    - {country: georgia,      category: [popular_ru, it_friendly]}
+    - {country: armenia,      category: [popular_ru]}
+    - {country: azerbaijan,   category: [popular_ru]}
+
+  middle_east_gulf:
+    - {country: uae,          category: [it_friendly, popular_ru]}
+    - {country: saudi-arabia, category: [it_friendly]}
+    - {country: qatar,        category: [it_friendly]}
+    - {country: oman,         category: [clear_pathway]}
+    - {country: kuwait,       category: [it_friendly]}
+    - {country: bahrain,      category: [it_friendly]}
+    - {country: israel,       category: [it_friendly]}
+    - {country: jordan,       category: [clear_pathway]}
+
+  africa_north:
+    - {country: morocco,      category: [clear_pathway]}
+    - {country: algeria,      category: [clear_pathway]}
+    - {country: tunisia,      category: [clear_pathway]}
+    - {country: egypt,        category: [clear_pathway]}
+
+  africa_west:
+    - {country: senegal,      category: [clear_pathway]}
+    - {country: cote-divoire, category: [clear_pathway]}
+    - {country: ghana,        category: [clear_pathway]}
+    - {country: nigeria,      category: [clear_pathway]}
+
+  africa_east_south:
+    - {country: kenya,        category: [it_friendly]}
+    - {country: tanzania,     category: [clear_pathway]}
+    - {country: uganda,       category: [clear_pathway]}
+    - {country: rwanda,       category: [it_friendly]}
+    - {country: ethiopia,     category: [clear_pathway]}
+    - {country: south-africa, category: [it_friendly, clear_pathway]}
+    - {country: namibia,      category: [clear_pathway]}
+    - {country: botswana,     category: [clear_pathway]}
+    - {country: mauritius,    category: [it_friendly]}
+    - {country: seychelles,   category: [yacht_captain]}
+
+  latin_america:
+    - {country: mexico,       category: [it_friendly, clear_pathway]}
+    - {country: brazil,       category: [clear_pathway]}
+    - {country: argentina,    category: [clear_pathway]}
+    - {country: chile,        category: [it_friendly, clear_pathway]}
+    - {country: colombia,     category: [it_friendly, clear_pathway]}
+    - {country: peru,         category: [clear_pathway]}
+    - {country: ecuador,      category: [clear_pathway]}
+    - {country: uruguay,      category: [clear_pathway]}
+    - {country: paraguay,     category: [clear_pathway]}
+    - {country: bolivia,      category: [clear_pathway]}
+    - {country: costa-rica,   category: [it_friendly, popular_ru]}
+    - {country: panama,       category: [it_friendly, clear_pathway]}
+
+  caribbean_central:
+    - {country: dominican-republic, category: [clear_pathway]}
+    - {country: barbados,     category: [clear_pathway]}
+    - {country: bahamas,      category: [yacht_captain]}
+    - {country: jamaica,      category: [clear_pathway]}
+    - {country: guatemala,    category: [clear_pathway]}
+    - {country: honduras,     category: [clear_pathway]}
+    - {country: el-salvador,  category: [clear_pathway]}
+    - {country: nicaragua,    category: [clear_pathway]}
+    - {country: belize,       category: [clear_pathway, yacht_captain]}
+    - {country: antigua,      category: [clear_pathway]}
+    - {country: grenada,      category: [clear_pathway]}
+    - {country: st-kitts,     category: [clear_pathway]}
+
+  north_america_oceania:
+    - {country: canada,       category: [it_friendly, clear_pathway]}
+    - {country: united-states, category: [it_friendly]}
+    - {country: australia,    category: [it_friendly, clear_pathway]}
+    - {country: new-zealand,  category: [it_friendly, clear_pathway]}
+    - {country: singapore,    category: [it_friendly, strong_passport]}
+    - {country: japan,        category: [it_friendly]}
+    - {country: south-korea,  category: [it_friendly]}
+    - {country: vietnam,      category: [clear_pathway]}

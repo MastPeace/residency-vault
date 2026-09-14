@@ -1,110 +1,112 @@
-# Wiki Schema — Residency & Citizenship Conditions
+# Wiki Schema — Residency & Citizenship Conditions (v2, generalized taxonomy)
 
 ## Domain
-Living conditions for residency / citizenship / tax programs across countries, with
-focus on strong passports, IT-worker-friendly routes, and routes popular with Russian
-citizens. The wiki is the single source of truth that a weekly monitor updates in
-place; it is NEVER re-derived from scratch.
+Cross-country living conditions for **every kind of residency program**, plus citizenship
+and tax, for a broad country set. Each residency *type* is a canonical row applied
+identically to every country page, so programs are comparable across countries
+(e.g. Portugal D7 and Italy Elective Residence are BOTH `passive_income_residency`).
+
+This wiki is the single source of truth that a weekly monitor updates in place.
+It is NEVER re-derived from scratch.
 
 ## Conventions
-- File names: lowercase, hyphens, no spaces (e.g. `portugal.md`, `golden-visa.md`)
-- Every wiki page starts with YAML frontmatter (see below)
-- Use `[[wikilinks]]` to link between pages (minimum 2 outbound links per page)
-- When updating a page, always bump `updated`
-- Every new page must be added to `index.md` under the correct section
-- Every action must be appended to `log.md`
-- Provenance: pages that synthesize 3+ sources append `^[raw/articles/<file>]` at the
-  end of paragraphs whose claims come from that source. Single-source pages rely on
-  `sources:` frontmatter.
-- Language: wiki content is written in ENGLISH (analysis summaries may keep official
-  program names in original language). In the weekly monitor, deltas are reported
-  against these English pages.
+- File names: lowercase, hyphens (`portugal.md`, `passive-income-residency.md`).
+- Every page starts with YAML frontmatter. Use `[[wikilinks]]` (min 2 outbound).
+- Bump `updated` on edit. New pages go to index.md. Every action logged in log.md.
+- Language: page content in ENGLISH; official program names kept in original language.
+- **Every residency-type row MUST carry**: official program name, conditions
+  (income/investment/thresholds as exact numbers), duration, path to citizenship,
+  an OFFICIAL source URL (verified), and a community-verdict field.
+- **Provenance**: numeric/conditional facts carry `^[url]` or `^[raw/...]`.
+- **Community verdict**: cite a SPECIFIC source (Reddit thread, NomadGate, expat
+  forum, Telegram channel) per verdict — not an anonymous "people say".
 
-## Frontmatter (condition / country pages)
+## Cannical Residency Type Taxonomy
+Every country page uses this fixed set of row-types. Each type = one row per country
+page. `category` in the taxonomy below marks the market each type serves best.
+
+| type_slug                 | meaning                                                       | typical category   |
+|---------------------------|---------------------------------------------------------------|--------------------|
+| investment_residency      | residence in exchange for investment (Golden Visa, RBI)       | strong_passport    |
+| passive_income_residency  | residence on passive income — PT D7, ES NLV, IT Elective...   | clear_pathway      |
+| digital_nomad_visa        | remote work / nomad visa — PT D8, ES DNV, HR, ME DNV...       | it_friendly        |
+| highly_skilled_employment | EU Blue Card, DE §18a/51a, NL Highly Skilled Migrant...        | it_friendly        |
+| startup_entrepreneur      | startup / founder visa                                        | it_friendly        |
+| employment_residency      | standard work permit / residence for employees                | clear_pathway      |
+| student_residency         | student visa + residence                                      | clear_pathway      |
+| family_reunification      | residence through family tie                                  | clear_pathway      |
+| retired_residency         | pension / retirement residence (PT D7-retire, ES Non-Lucr.)   | clear_pathway      |
+| citizenship_by_investment | DIRECT citizenship for investment (TR, UAE... rare)           | strong_passport    |
+
+Rule: EVERY country page that has residence programs fills in a row for each type
+that exists there, with the SAME row schema. If a type does not exist in a country,
+write "Not available" — do not omit the row.
+
+## Tag Taxonomy
+- Type tags: use the type slugs above plus: citizenship, tax, visa
+- Market tags: strong_passport, it_friendly, yacht_captain, popular_ru, clear_pathway
+- Status tags: new_program, rule_change, suspension, processing_update, fee_change, deadline, rumor
+
+## Frontmatter (per country page)
 ```yaml
 ---
-title: Country — (e.g. Portugal)
+title: Country — Name
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 type: entity
-tags: [from taxonomy below]
-category: [strong_passport | it_friendly | yacht_captain | popular_ru | clear_pathway | multi]
+tags: [residence, citizenship, tax]
+category: strong_passport | it_friendly | yacht_captain | popular_ru | multi
 confidence: high | medium | low
 sources: [raw/articles/<source>.md]
-country_code: PT
+country_code: XX
 ---
 ```
 
-## Tag Taxonomy
-- Program type: residence, citizenship, golden-visa, digital-nomad, work-visa, tax
-- Category (market): strong_passport, it_friendly, yacht_captain, popular_ru, clear_pathway
-- Status: new_program, rule_change, suspension, processing_update, fee_change, deadline, rumor
-- Meta: comparison, timeline, controversy
+## Country Page Structure (conditions/<country>.md)
+Fixed sections, in order. Numbers carry provenance.
 
-Rule: every tag on a page must appear in this taxonomy. Add new tags HERE first, then use them.
+1. **Overview** — passport strength, why it matters, overall accessibility.
+2. **Residency Programs** — a table of residency types that exist here, one row per
+   canonical type, with columns: Type | Official program | Key conditions
+   (income/investment/threshold) | Duration | Inline detail links.
+3. **Per-Program Detail** — for EACH active residency type, a subsection:
+   - **Official name** (native) + English
+   - **Conditions**: exact income/investment/thresholds, age, degree, job offer
+   - **Duration / renewal**
+   - **Path to citizenship** (years counted, language, exam)
+   - **Official source** (verified gov/agency URL)
+   - **Community verdict**: rating (Works well / Mixed / Problematic) + cited source
+4. **Citizenship** — years of residence, language, exam, timeline, dual-citizenship.
+5. **Tax** — relevant regimes (flat tax, NHR, non-dom), rates, conditions.
+6. **IT / Digital Nomad** — shortcut notes, if applicable.
+7. **Yacht / Maritime** — if applicable (registration, captain licensing).
+8. **Notes for RU citizens** — practical notes for Russian applicants.
+9. **Community pulse** — aggregate: what expats actually report (backlog, rejections,
+   ease), with linked sources.
+10. **Status** — last change, last monitored, open watch items.
 
-## Page Thresholds
-- Create a country page when it is in the watchlist OR has 2+ distinct sources
-- Create a concept page when a program (e.g. Golden Visa, D7, NHR) appears across 2+ countries
-- DON'T create pages for passing mentions
-- Split pages over ~200 lines into sub-topics with cross-links
-- Archive superseded pages to `_archive/`
+## Concept Pages (concepts/<type>.md or <program>.md)
+THESE are the generalizers. Create one concept page PER CANONICAL TYPE slug:
+- `concepts/investment-residency.md`, `concepts/passive-income-residency.md`,
+  `concepts/digital-nomad-residency.md`, `concepts/highly-skilled-employment.md`,
+  `concepts/startup-residency.md`, `concepts/employment-residency.md`,
+  `concepts/student-residency.md`, `concepts/family-reunification.md`,
+  `concepts/retired-residency.md`, `concepts/citizenship-by-investment.md`.
+Each: definition, cross-country comparison TABLE (country | program | threshold |
+duration | citizenship path | community verdict), provenance, links back to country pages.
 
-## Country Page Structure (`conditions/<country>.md`)
-Each country page has fixed sections. Empty sections are shown as "Not available / no data".
+## Page Thresholds & Size
+- Create a country page for EVERY country in the configured country set.
+- Create a type concept page when the type exists in 3+ countries (or is a headline
+  program). A page over ~250 lines → split by section.
 
-1. **Overview** — passport strength, why it matters (one paragraph)
-2. **Residence** — routes to a residence permit: names, income thresholds, timelines, fees
-3. **Citizenship** — years of residence required, language/exam requirements, timeline to passport
-4. **Tax** — relevant regimes (flat tax, NHR, non-habitual), rates, conditions
-5. **IT / Digital Nomad** — if applicable: visa type, income bar, tax treatment
-6. **Yacht / Maritime** — if applicable: registration, licensing recognition (captain)
-7. **Sommary for RU citizens** — practical notes relevant to Russian applicants
-8. **Status** — current "snapshot" line: what changed last, last monitored date, open watch items
+## Update Policy (weekly monitor)
+Same as v1: match news item to country page + canonical type; if value DIFFERS →
+update, bump `updated`, add Status line, log. If IDENTICAL → no change (anti-dup).
+If contradictory → record both + `contradictions:` frontmatter + flag for review.
 
-Every fact in sections 2-7 carries an inline source reference `^[raw/...]` when it is
-numeric or program-specific, and a `confidence` in the frontmatter.
+## Raw Layer
+Immutable web extracts in `raw/articles/` with frontmatter (source_url, ingested, sha256).
 
-## Concept Pages (`concepts/<program>.md`)
-One page per program, e.g. golden-visa, d7-visa, nhr, non-lucrative-visa, blue-card.
-Structure: definition, current-state, per-country table (where available), open questions, sources.
-
-## Update Policy (how the weekly monitor edits the wiki)
-When new watched news arrives:
-1. Match it to an existing country page + section. If the fact differs from what the page
-   says: update the value, bump `updated`, append a log entry, and (if the change is
-   material) add a delta note in the page's **Status** section.
-2. If the news introduces a new condition not in the page: add it, set `confidence`
-   based on source strength, mark `new_program`/`rule_change` as appropriate.
-3. If the news is identical to what the page already states: make NO change — this is the
-   anti-duplicate behavior that keeps the weekly digest fresh.
-4. If genuinely contradictory to existing content: record BOTH claims with dates and
-   sources, set frontmatter `contradictions: [page]`.
-5. Log every change (add/update/contradiction) in log.md.
-
-## Raw / Layer 1
-`raw/articles/` holds immutable web extracts. Each gets frontmatter:
-```yaml
----
-source_url: https://...
-ingested: YYYY-MM-DD
-sha256: <hex of body>
----
-```
-Do not edit files under raw/. Corrections go into the wiki pages.
-
-## Delivered Weekly Artifact (`alerts/YYYY-MM-DD.md`)
-The monitor's only delivery: a delta report. Format:
-```markdown
-# Residency Weekly — YYYY-MM-DD
-Variance vs database snapshot as of <last-monitored-date>.
-
-## Changed
-- Portugal citizenship: 10 → 7 years (updated 2026-09-13) ^[raw/...]
-
-## New
-- <new condition added to database>
-
-## Unchanged (silently skipped)
-N items matched existing knowledge and did NOT change the database.
-```
+## Weekly Alert (alerts/YYYY-MM-DD.md)
+Deltas only: Changed / New / Unchanged(count) / Discovered-countries / validation status.
