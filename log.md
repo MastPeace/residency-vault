@@ -64,3 +64,12 @@
 - DB delta: NO change (cyprus fact already present; anti-duplicate per SCHEMA Update Policy).
 - Alerts file: alerts/2026-09-13.md written, pushed to GitHub (commit e7202ab).
 - Fixed scripts/auto-sync.sh: now also commits untracked/new files (was ignoring new alerts/).
+
+## [2026-09-14] rebuild | v2 global rebuild — canonical residency-type taxonomy
+- Rebuilt SCHEMA.md to v2: canonical residency-type taxonomy (investment_residency, passive_income_residency, digital_nomad_visa, highly_skilled_employment, startup_entrepreneur, employment_residency, student_residency, family_reunification, retired_residency, citizenship_by_investment).
+- Expanded from 22 to 100 country pages across all regions (EU, Balkans/Caucasus, Gulf, Africa N/W/E-S, LatAm, Caribbean, North America/Oceania).
+- Every country page: same canonical row structure, official gov/agency source (verified via web_search/web_extract), exact numbers with ^[url], community verdict label.
+- Fixed errors from v1: montenegro now correctly has a digital nomad visa (€2,010/mo, 2+2 yrs); D7/NLV/Elective/FIP now unified under passive_income_residency.
+- Replaced 7 v1 concept pages with 10 v2 residency-type generalizers (cross-country comparison tables drawn from real country data).
+- index.md regenerated (100 countries by region + 10 concepts).
+- Community-forum research deferred per user (verdicts labelled heuristically only).

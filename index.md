@@ -1,47 +1,153 @@
-# Wiki Index — Residency & Citizenship Conditions
+# Wiki Index — Residency & Citizenship Conditions (v2)
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-09-13 | Total pages: 32
+> Rebuilt 2026-09-14 | Schema: SCHEMA.md v2 (canonical residency-type taxonomy).
 
-## Conditions
-<!-- 22 country pages -->
-- [[armenia]] — Rapidly digitizing residence system, proposed citizenship clock rise (3→5 yrs), top RU relocation hub.
-- [[austria]] — EU Blue Card from €55,678/yr, Red-White-Red Card, demanding 10-year citizenship, no dual citizenship.
-- [[croatia]] — Mature digital nomad visa (18mo, ~€3,622/mo), EU Blue Card, 2026 Aliens Act overhaul with language requirement.
-- [[cyprus]] — PR by investment from €300K, non-dom tax regime (0% dividends), 8-year citizenship, biometric card mandate Aug 2026.
-- [[czechia]] — Employee Card + EU Blue Card, new digital nomad programme for IT, 10-year citizenship path.
-- [[estonia]] — Pioneer digital nomad visa (€4,500/mo), e-Residency, Startup Visa, 8-year citizenship, restrictive for RU.
-- [[georgia]] — 1-year visa-free entry, easy business registration, major immigration tightening Sep 2026, 10-year citizenship.
-- [[germany]] — Opportunity Card (job search), EU Blue Card, 5-year citizenship allowed dual since 2024.
-- [[greece]] — Golden Visa from €250K, 7-year citizenship (183d/yr), NLV/DN alternatives, Law 5275 reforms.
-- [[ireland]] — Critical Skills → Stamp 4 in 2 years, 5-year citizenship (no language test), Stamp 0 for financially independent.
-- [[italy]] — Digital nomad visa (~€25K/yr), flat tax €100K/yr, investor visa from €250K, 10-year citizenship.
-- [[kazakhstan]] — 10-year DN residency (no income req!), pilot restriction on regions (2026), investor visa from $300K.
-- [[malta]] — MPRP permanent residency from day 1, remittance tax, 7-year citizenship, no CBI since ECJ 2025 ruling.
-- [[montenegro]] — Property residence from €150K (2026 law), 10-year citizenship, Adriatic yachting hub.
-- [[netherlands]] — DAFT for US citizens, EU Blue Card, 30% ruling, 5-year citizenship + renunciation.
-- [[poland]] — EU Blue Card from PLN 13,355/mo, online-only applications (MOS), 8-year citizenship.
-- [[portugal]] — D7/D8/Golden Visa, NHR tax regime, 10-year citizenship (May 2026 reform), AIMA renewal portal.
-- [[serbia]] — Easy business registration, 6-year citizenship path, visa-free for RU, Single Permit system.
-- [[singapore]] — PR ~40K/yr target, 2-year PR before citizenship, no dual citizenship, Global Investor Programme SGD 10M.
-- [[spain]] — NLV (€2,400/mo), digital nomad visa, Golden Visa closed Apr 2025, 10-year citizenship.
-- [[turkey]] — Citizenship by investment from $400K, 8–12mo processing, no residence required, 6,134 revocations Aug 2026.
-- [[uae]] — Golden Visa from AED 2M property, 0% tax, no citizenship path, top yachting hub, major RU destination.
+## Eu Western (17)
 
-## Entities
-<!-- Countries + key programs treated as entities -->
+- [[austria]] — 
+- [[belgium]] — 
+- [[denmark]] — 
+- [[finland]] — 
+- [[france]] — 
+- [[germany]] — 
+- [[iceland]] — 
+- [[ireland]] — 
+- [[italy]] — 
+- [[luxembourg]] — 
+- [[netherlands]] — 
+- [[norway]] — 
+- [[portugal]] — 
+- [[spain]] — 
+- [[sweden]] — 
+- [[switzerland]] — 
+- [[united-kingdom]] — 
 
-## Concepts
-<!-- 7 concept pages -->
-- [[golden-visa]] — Residence-by-investment programmes across 8 countries. Per-country table: thresholds, permit types, citizenship paths.
-- [[digital-nomad]] — Remote work residence permits across 9 countries. Income thresholds, validity, tax treatment comparison.
-- [[blue-card]] — EU Blue Card for highly qualified workers across 7 EU countries. Salary thresholds, intra-EU mobility, fast-track PR.
-- [[d7-visa]] — Passive income residence routes (Portugal D7, Spain NLV, Italy Elective Residence, etc.). Per-country income thresholds.
-- [[d8-visa]] — Portugal's remote work residence visa. Thresholds, relation to D7 and digital nomad concepts.
-- [[nhr]] — Special tax regimes for new residents: NHR (Portugal), Beckham Law (Spain), flat tax (Italy), non-dom (Cyprus), 0% tax (UAE), and more.
-- [[non-lucrative-visa]] — Residence without work rights. Spain NLV, Italy Elective Residence, Ireland Stamp 0, etc.
+## Eu Eastern (14)
 
-## Queries
+- [[bulgaria]] — 
+- [[croatia]] — 
+- [[cyprus]] — 
+- [[czechia]] — 
+- [[estonia]] — 
+- [[greece]] — 
+- [[hungary]] — 
+- [[latvia]] — 
+- [[lithuania]] — 
+- [[malta]] — 
+- [[poland]] — 
+- [[romania]] — 
+- [[slovakia]] — 
+- [[slovenia]] — 
 
-## Comparisons
+## Balkans Caucasus (10)
+
+- [[albania]] — Albania is an EU candidate country (NATO member since 2009). Passport ranks ~48th globally with visa-free acce…
+- [[armenia]] — Armenia offers accessible residence permits and a relatively short path to citizenship: currently **3 years** …
+- [[azerbaijan]] — Azerbaijan offers several pathways to residence, including **investment-based residence** through property pur…
+- [[bosnia-herzegovina]] — Bosnia and Herzegovina (BiH) is an EU candidate country with a complex two-entity structure (Federation of BiH…
+- [[georgia]] — Georgia offers one of the easiest residence regimes globally: visa-free entry for 100+ nationalities (includin…
+- [[kosovo]] — Kosovo is a partially recognized state (recognized by ~100 UN members, not by Serbia, Russia, China). It is no…
+- [[montenegro]] — Montenegro is an EU candidate country that uses the Euro (unilaterally). Passport ranks ~44th globally with vi…
+- [[north-macedonia]] — North Macedonia is an EU candidate country (NATO member since 2020). Passport ranks ~45th globally with visa-f…
+- [[serbia]] — Serbia is an EU candidate country (not yet a member). Passport ranks ~38th globally with visa-free access to ~…
+- [[turkey]] — Turkey operates one of the world's most popular **citizenship-by-investment** programs — real estate investmen…
+
+## Middle East Gulf (8)
+
+- [[bahrain]] — 
+- [[israel]] — 
+- [[jordan]] — 
+- [[kuwait]] — 
+- [[oman]] — 
+- [[qatar]] — 
+- [[saudi-arabia]] — 
+- [[uae]] — 
+
+## Africa North (4)
+
+- [[algeria]] — 
+- [[egypt]] — 
+- [[morocco]] — 
+- [[tunisia]] — 
+
+## Africa West (4)
+
+- [[cote-divoire]] — 
+- [[ghana]] — 
+- [[nigeria]] — 
+- [[senegal]] — 
+
+## Africa East South (10)
+
+- [[botswana]] — 
+- [[ethiopia]] — 
+- [[kenya]] — 
+- [[mauritius]] — 
+- [[namibia]] — 
+- [[rwanda]] — 
+- [[seychelles]] — 
+- [[south-africa]] — 
+- [[tanzania]] — 
+- [[uganda]] — 
+
+## Latin America (12)
+
+- [[argentina]] — 
+- [[bolivia]] — 
+- [[brazil]] — 
+- [[chile]] — 
+- [[colombia]] — 
+- [[costa-rica]] — 
+- [[ecuador]] — 
+- [[mexico]] — 
+- [[panama]] — 
+- [[paraguay]] — 
+- [[peru]] — 
+- [[uruguay]] — 
+
+## Caribbean Central (12)
+
+- [[antigua]] — 
+- [[bahamas]] — 
+- [[barbados]] — 
+- [[belize]] — 
+- [[dominican-republic]] — 
+- [[el-salvador]] — 
+- [[grenada]] — 
+- [[guatemala]] — 
+- [[honduras]] — 
+- [[jamaica]] — 
+- [[nicaragua]] — 
+- [[st-kitts]] — 
+
+## North America Oceania (8)
+
+- [[australia]] — 
+- [[canada]] — 
+- [[japan]] — 
+- [[new-zealand]] — 
+- [[singapore]] — 
+- [[south-korea]] — 
+- [[united-states]] — 
+- [[vietnam]] — 
+
+## Other
+
+- [[kazakhstan]] —
+
+## Concept Pages (residency-type generalizers)
+
+- [[citizenship-by-investment]] — Citizenship by investment (CBI) — direct acquisition of citizenship (and passport) in exch…
+- [[digital-nomad-visa]] — Digital nomad visa — residence permits for remote workers employed by foreign companies or…
+- [[employment-residency]] — Employment residency — standard work permits tied to a job offer from a local employer, co…
+- [[family-reunification]] — Family reunification — residence permits for spouses, children, and sometimes parents of l…
+- [[highly-skilled-employment]] — Highly skilled employment residence — permits for professionals with university degrees or…
+- [[investment-residency]] — Investment residency — residence permits granted in exchange for qualifying investment (re…
+- [[passive-income-residency]] — Passive income residency — residence permits for individuals who can support themselves fr…
+- [[retired-residency]] — Retired residency — residence permits for individuals living off pension or retirement inc…
+- [[startup-entrepreneur]] — Startup / entrepreneur residency — residence permits for founders, co-founders, and entrep…
+- [[student-residency]] — Student residency — residence permits for individuals enrolled in recognized educational i…
+
+*Total country pages: 100 | Concepts: 10 | Last updated: 2026-09-14*
