@@ -13,6 +13,8 @@ It is NEVER re-derived from scratch.
 - File names: lowercase, hyphens (`portugal.md`, `passive-income-residency.md`).
 - Every page starts with YAML frontmatter. Use `[[wikilinks]]` (min 2 outbound).
 - Bump `updated` on edit. New pages go to index.md. Every action logged in log.md.
+- **Every material change MUST also update CHANGELOG.md and README.md** (if structure
+  or features change). See CONTRIBUTING.md.
 - Language: page content in ENGLISH; official program names kept in original language.
 - **Every residency-type row MUST carry**: official program name, conditions
   (income/investment/thresholds as exact numbers), duration, path to citizenship,
