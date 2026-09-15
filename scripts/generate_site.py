@@ -67,6 +67,34 @@ def parse_frontmatter(text):
                 current_key = key if val == "" else None
     return meta, body
 
+# ── Relative URL Helper ───────────────────────────────────────────────────────
+
+def relative_url(abs_path, depth, current_dir):
+    """Convert absolute path to relative URL based on page depth and directory.
+    abs_path: '/conditions/x.html', '/', '/search-index.json', '/#anchor'
+    depth: 0 for root (index), 1 for subdirectory (conditions/ or concepts/)
+    current_dir: 'conditions', 'concepts', or None (for index)
+    """
+    if depth == 0:
+        # Index page at root: strip leading slash
+        if abs_path == '/':
+            return 'index.html'
+        if abs_path.startswith('/#'):
+            return abs_path[1:]  # '#anchor'
+        return abs_path.lstrip('/')
+    
+    # depth == 1: in conditions/ or concepts/
+    if abs_path == '/':
+        return '../index.html'
+    if abs_path.startswith('/#'):
+        return '..' + abs_path  # '../#anchor'
+    
+    path = abs_path.lstrip('/')
+    if current_dir and path.startswith(current_dir + '/'):
+        return path.split('/', 1)[1]  # same dir, just filename
+    return '../' + path
+
+
 
 # ── Markdown to HTML Converter ───────────────────────────────────────────────
 
@@ -123,7 +151,24 @@ def md_to_html(body, page_type="entity", current_slug=""):
                 href = f"concepts/{slug}.html"
             else:
                 href = f"conditions/{slug}.html"
-            return f'<a href="/{href}{fragment}" class="wikilink">{html.escape(label)}</a>'
+            # Build relative wikilink based on page type
+            if page_type == "entity":
+                if slug in CONCEPT_SLUGS:
+                    # Cross-dir: conditions page linking to concept
+                    rel_href = f"../concepts/{slug}.html"
+                else:
+                    # Same dir: conditions to conditions
+                    rel_href = f"{slug}.html"
+            elif page_type == "concept":
+                if slug in CONCEPT_SLUGS:
+                    # Same dir: concept to concept
+                    rel_href = f"{slug}.html"
+                else:
+                    # Cross-dir: concept page linking to condition
+                    rel_href = f"../conditions/{slug}.html"
+            else:
+                rel_href = f"{href}.html"
+            return f'<a href="{rel_href}{fragment}" class="wikilink">{html.escape(label)}</a>'
         text = re.sub(r'\[\[([^\]|]+)(?:\|([^\]]+))?\]\]', replace_wikilink, text)
         
         # Regular markdown links [text](url)
@@ -795,7 +840,7 @@ a.wikilink:hover { color: #c0b8ff; }
 """
 
 
-def render_page(page):
+def render_page(page, sidebar_html):
     """Render a single page as complete HTML."""
     slug = page["slug"]
     title = page["title"]
@@ -822,9 +867,9 @@ def render_page(page):
     
     # Breadcrumb
     if page["type"] == "entity":
-        breadcrumb = f'<a href="/">Home</a><span class="sep">›</span><span>{html.escape(title)}</span>'
+        breadcrumb = f'<a href="../index.html">Home</a><span class="sep">›</span><span>{html.escape(title)}</span>'
     else:
-        breadcrumb = f'<a href="/">Home</a><span class="sep">›</span><a href="/#concepts">Concepts</a><span class="sep">›</span><span>{html.escape(title)}</span>'
+        breadcrumb = f'<a href="../index.html">Home</a><span class="sep">›</span><a href="../index.html#concepts">Concepts</a><span class="sep">›</span><span>{html.escape(title)}</span>'
     
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -837,7 +882,7 @@ def render_page(page):
 </head>
 <body>
 <div class="app">
-{SIDEBAR_HTML}
+{sidebar_html}
 <div class="main">
 <header class="topbar">
   <button class="mobile-menu-btn" onclick="document.querySelector('.sidebar').classList.toggle('open')" aria-label="Toggle menu">☰</button>
@@ -864,7 +909,7 @@ document.addEventListener('DOMContentLoaded', function() {{
 </html>"""
 
 
-def render_index(regions, concept_pages):
+def render_index(regions, concept_pages, sidebar_html):
     """Render the index/home page."""
     # Build region sections
     region_sections = []
@@ -884,7 +929,7 @@ def render_index(regions, concept_pages):
                 display_title = title.split(" — ", 1)[0]
             cc = page.get("country_code", "")
             cc_html = f'<span class="cc">{html.escape(cc)}</span>' if cc else ""
-            items_html.append(f'<div class="index-item"><a href="/conditions/{country_slug}.html" data-slug="{country_slug}">{html.escape(display_title)}{cc_html}</a></div>')
+            items_html.append(f'<div class="index-item"><a href="conditions/{country_slug}.html" data-slug="{country_slug}">{html.escape(display_title)}{cc_html}</a></div>')
         region_sections.append(f'<section class="index-region"><h3>{label} ({len(countries)})</h3><div class="index-grid">{"".join(items_html)}</div></section>')
     
     # Concept cards
@@ -901,7 +946,7 @@ def render_index(regions, concept_pages):
                 if len(stripped) > 160:
                     summary += "…"
                 break
-        concept_cards.append(f'<div class="concept-card"><h4><a href="/concepts/{slug}.html">{html.escape(page["title"])}</a></h4><p style="font-size:0.82rem;color:var(--text-muted)">{html.escape(summary)}</p></div>')
+        concept_cards.append(f'<div class="concept-card"><h4><a href="concepts/{slug}.html">{html.escape(page["title"])}</a></h4><p style="font-size:0.82rem;color:var(--text-muted)">{html.escape(summary)}</p></div>')
     
     meta_html = f'<div class="page-meta"><div class="meta-item"><span class="meta-label">Total countries:</span><span class="meta-value">{len(all_pages) - len(concept_pages)}</span></div><div class="meta-item"><span class="meta-label">Concept pages:</span><span class="meta-value">{len(concept_pages)}</span></div><div class="meta-item"><span class="meta-label">Built:</span><span class="meta-value">{datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")}</span></div></div>'
     
@@ -916,7 +961,7 @@ def render_index(regions, concept_pages):
 </head>
 <body>
 <div class="app">
-{SIDEBAR_HTML}
+{sidebar_html}
 <div class="main">
 <header class="topbar">
   <button class="mobile-menu-btn" onclick="document.querySelector('.sidebar').classList.toggle('open')" aria-label="Toggle menu">☰</button>
@@ -949,10 +994,24 @@ document.addEventListener('DOMContentLoaded', function() {{
 
 # ── Sidebar Generation ───────────────────────────────────────────────────────
 
-SIDEBAR_HTML = ""  # Set during build
 
-def build_sidebar(regions, concept_pages):
-    """Generate the shared sidebar HTML."""
+def build_sidebar(regions, concept_pages, depth=0, current_dir=None):
+    """Generate sidebar HTML with relative links for the given page depth/directory.
+    depth: 0 for root (index.html), 1 for pages in conditions/ or concepts/
+    current_dir: 'conditions', 'concepts', or None (for index)
+    """
+    home_url = 'index.html' if depth == 0 else '../index.html'
+    search_index_url = 'search-index.json' if depth == 0 else '../search-index.json'
+
+    def side_link(abs_path):
+        """Build a relative link for the sidebar navigation."""
+        if depth == 0:
+            return abs_path.lstrip('/')
+        p = abs_path.lstrip('/')
+        if current_dir and p.startswith(current_dir + '/'):
+            return p.split('/', 1)[1]  # same dir: just filename
+        return '../' + p
+
     nav_items = []
     for region_key, countries in regions.items():
         label = REGION_LABELS.get(region_key, region_key.replace("_", " ").title())
@@ -964,17 +1023,21 @@ def build_sidebar(regions, concept_pages):
             title = page["title"]
             if " — " in title:
                 title = title.split(" — ", 1)[0]
-            items.append(f'<div class="nav-item"><a href="/conditions/{country_slug}.html" data-slug="{country_slug}">{html.escape(title)}</a></div>')
+            url = side_link(f'/conditions/{country_slug}.html')
+            items.append(f'<div class="nav-item"><a href="{url}" data-slug="{country_slug}">{html.escape(title)}</a></div>')
         nav_items.append(f'<div class="region-group"><div class="region-label">{label}</div>{"".join(items)}</div>')
     
     concept_items = []
     for slug, page in concept_pages.items():
-        concept_items.append(f'<div class="nav-item"><a href="/concepts/{slug}.html" data-slug="{slug}">{html.escape(page["title"])}</a></div>')
+        url = side_link(f'/concepts/{slug}.html')
+        concept_items.append(f'<div class="nav-item"><a href="{url}" data-slug="{slug}">{html.escape(page["title"])}</a></div>')
+    
+    search_js = SEARCH_JS.replace('__SEARCH_INDEX_URL__', search_index_url)
     
     return f"""
 <aside class="sidebar">
   <div class="sidebar-header">
-    <h2><a href="/" style="color:inherit;text-decoration:none">{SITE_TITLE}</a></h2>
+    <h2><a href="{home_url}" style="color:inherit;text-decoration:none">{SITE_TITLE}</a></h2>
     <div class="subtitle">{SITE_SUBTITLE}</div>
   </div>
   <div class="sidebar-search">
@@ -992,7 +1055,7 @@ def build_sidebar(regions, concept_pages):
     Built {datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")} · {len(all_pages)} pages
   </div>
 </aside>
-<script>{SEARCH_JS}</script>"""
+<script>{search_js}</script>"""
 
 
 # ── Search JSON index generation ─────────────────────────────────────────────
@@ -1013,7 +1076,7 @@ def generate_search_index():
                 "full_title": title,
                 "country_code": page.get("country_code", ""),
                 "type": "entity",
-                "url": f"/conditions/{slug}.html",
+                "url": f"conditions/{slug}.html",
             })
         else:
             index.append({
@@ -1022,7 +1085,7 @@ def generate_search_index():
                 "full_title": page["title"],
                 "country_code": "",
                 "type": "concept",
-                "url": f"/concepts/{slug}.html",
+                "url": f"concepts/{slug}.html",
             })
     return json.dumps(index, ensure_ascii=False, sort_keys=True)
 
@@ -1035,7 +1098,7 @@ SEARCH_JS = r"""
   
   var index = [];
   var xhr = new XMLHttpRequest();
-  xhr.open('GET', '/search-index.json', true);
+  xhr.open('GET', '__SEARCH_INDEX_URL__', true);
   xhr.onload = function() {
     if (xhr.status === 200) {
       index = JSON.parse(xhr.responseText);
@@ -1101,7 +1164,7 @@ SEARCH_JS = r"""
 
 def build():
     """Main build function."""
-    global SIDEBAR_HTML, CONCEPT_SLUGS, all_pages
+    global CONCEPT_SLUGS, all_pages
     
     print(f"🔨 Building static site: {SITE_TITLE}")
     print(f"   Source: {WIKI_DIR}")
@@ -1124,8 +1187,10 @@ def build():
         )
     )
     
-    # Build sidebar
-    SIDEBAR_HTML = build_sidebar(regions, concept_pages)
+    # Build sidebars for each page depth
+    sidebar_root = build_sidebar(regions, concept_pages, depth=0, current_dir=None)
+    sidebar_conditions = build_sidebar(regions, concept_pages, depth=1, current_dir='conditions')
+    sidebar_concepts = build_sidebar(regions, concept_pages, depth=1, current_dir='concepts')
     
     # Clean output directory
     if OUTPUT_DIR.exists():
@@ -1139,7 +1204,7 @@ def build():
     for slug, page in all_pages.items():
         if page["type"] != "entity":
             continue
-        html_content = render_page(page)
+        html_content = render_page(page, sidebar_conditions)
         out_path = OUTPUT_DIR / "conditions" / f"{slug}.html"
         out_path.write_text(html_content, encoding="utf-8")
         file_count += 1
@@ -1148,7 +1213,7 @@ def build():
     # Generate concept pages
     concept_file_count = 0
     for slug, page in concept_pages.items():
-        html_content = render_page(page)
+        html_content = render_page(page, sidebar_concepts)
         out_path = OUTPUT_DIR / "concepts" / f"{slug}.html"
         out_path.write_text(html_content, encoding="utf-8")
         file_count += 1
@@ -1156,7 +1221,7 @@ def build():
     print(f"   Generated {concept_file_count} concept pages")
     
     # Generate index
-    index_html = render_index(regions, concept_pages)
+    index_html = render_index(regions, concept_pages, sidebar_root)
     (OUTPUT_DIR / "index.html").write_text(index_html, encoding="utf-8")
     file_count += 1
     print(f"   Generated index page")
