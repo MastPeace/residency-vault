@@ -6,6 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+## [2026-09-15] — v3: Country Snapshot + Country Card schema
+
+### Added
+- **SCHEMA v3**: two new required country-page sections:
+  - `## Country Snapshot` — 19-row quantitative table (population, main religion/language/city, coastline, tourism impact, GDP/capita PPP, median net salary, cost-of-living, 1-bed rent, effective tax for remote workers, remote-work residence availability, years to citizenship, max permitted absence, passport strength, Rule of Law Index, Freedom House score, sunshine hours, average temperature). Hard fields MUST be official-sourced (World Bank / IMF / stat agency / official gov); soft fields (salary, cost-of-living, rent, effective tax) MAY use market estimates (Numbeo-type) tagged `[soft/estimate]` with source.
+  - `## Country Card` — general description + well-known strong points + well-known problems (factual, balanced).
+- `scripts/generate_site.py`: renders Country Snapshot as a Key/Value table with source annotations and Country Card as a styled strong-points (green) / problems (orange) box; dark theme.
+
+### Pending
+- Per-country data (Snapshot + Card) to be added to all 100 `conditions/*.md` (data-gathering wave in progress).
+
 ## [2026-09-15] — static website + GitHub Pages
 
 ### Added
@@ -35,6 +46,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   `passive-income-residency`, `digital-nomad-visa`, `highly-skilled-employment`,
   `startup-entrepreneur`, `employment-residency`, `student-residency`,
   `family-reunification`, `retired-residency`, `citizenship-by-investment`.
+- Each country page now has a canonical residency-type structure (SCHEMA v2) with
+  verified official source URLs, exact thresholds, and community verdict labels.
 
 ### Changed
 - **SCHEMA.md v2**: canonical residency-type taxonomy (10 types) replacing v1's

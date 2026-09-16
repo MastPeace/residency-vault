@@ -366,6 +366,182 @@ def md_to_html(body, page_type="entity", current_slug=""):
     return "\n".join(out_lines)
 
 
+# ── Country Snapshot & Country Card Extraction ────────────────────────────────
+
+def extract_snapshot_card(text):
+    """Extract Country Snapshot and Country Card sections from body text.
+    Returns (clean_body, snapshot_html, card_html).
+    snapshot_html and card_html are None if not found."""
+    # Extract Country Card first to get its position right
+    clean, card_text = extract_section(text, '## Country Card')
+    card_html = render_card_html(card_text) if card_text else None
+
+    # Extract Country Snapshot from the cleaned body
+    clean, snap_text = extract_section(clean, '## Country Snapshot')
+    snapshot_html = render_snapshot_html(snap_text) if snap_text else None
+
+    return clean, snapshot_html, card_html
+
+
+def extract_section(text, heading):
+    """Extract a markdown section from `## heading` to the next `## ` or EOF.
+    Returns (clean_text, section_text) or (text, None) if not found."""
+    pattern = re.compile(r'^' + re.escape(heading) + r'\s*$', re.MULTILINE)
+    m = pattern.search(text)
+    if not m:
+        return text, None
+    start = m.start()
+    # Find next ## heading (not ###, not ####)
+    next_h = re.search(r'\n## ', text[m.end():])
+    if next_h:
+        end = m.end() + next_h.start()
+    else:
+        end = len(text)
+    section_text = text[start:end].strip()
+    # Remove from body, preserving blank lines
+    clean = text[:start] + text[end:]
+    return clean, section_text
+
+
+def parse_snapshot_table(content):
+    """Parse snapshot in 3-column markdown table form.
+    Returns [(field, value, source), ...]."""
+    rows = []
+    lines = content.strip().split('\n')
+    for line in lines:
+        if not line.strip() or '---' in line:
+            continue
+        if '|' in line:
+            cells = [c.strip() for c in line.strip().strip('|').split('|')]
+            if len(cells) >= 2:
+                field = cells[0]
+                value = cells[1] if len(cells) > 1 else ''
+                source = cells[2] if len(cells) > 2 else ''
+                rows.append((field, value, source))
+    return rows
+
+
+def parse_snapshot_list(content):
+    """Parse snapshot in markdown list form: `- **Field**: Value ^[source] confidence`.
+    Returns [(field, value, source), ...]."""
+    rows = []
+    for line in content.split('\n'):
+        line = line.strip()
+        m = re.match(r'^[-*+]\s+\*\*(.+?)\*\*\s*:\s*(.+)$', line)
+        if m:
+            field = m.group(1).strip()
+            rest = m.group(2).strip()
+            fn_match = re.findall(r'\^\[([^\]]*)\]', rest)
+            source = '; '.join(fn_match) if fn_match else ''
+            value = re.sub(r'\^\[[^\]]*\]', '', rest).strip()
+            rows.append((field, value, source))
+    return rows
+
+
+def render_snapshot_html(section_text):
+    """Parse a Country Snapshot markdown section and return styled HTML table."""
+    # Strip the heading line
+    lines = section_text.split('\n')
+    content_start = 0
+    for i, line in enumerate(lines):
+        if line.strip().startswith('## Country Snapshot'):
+            content_start = i + 1
+            break
+    content = '\n'.join(lines[content_start:]).strip()
+    if not content:
+        return '<div class="snapshot-section"><h2 id="country-snapshot">Country Snapshot</h2><p class="snapshot-empty">No data yet.</p></div>'
+
+    # Detect format: table or list
+    if '|' in content and any('---' in l for l in content.split('\n')):
+        rows = parse_snapshot_table(content)
+    else:
+        rows = parse_snapshot_list(content)
+
+    if not rows:
+        return '<div class="snapshot-section"><h2 id="country-snapshot">Country Snapshot</h2><p class="snapshot-empty">No data yet.</p></div>'
+
+    html_parts = [
+        '<div class="snapshot-section">',
+        '<h2 id="country-snapshot">Country Snapshot</h2>',
+        '<div class="table-wrapper"><table class="snapshot-table">',
+        '<thead><tr><th>Field</th><th>Value</th></tr></thead>',
+        '<tbody>'
+    ]
+    for field, value, source in rows:
+        val_html = html.escape(value)
+        if source:
+            val_html += f' <span class="snapshot-source">{html.escape(source)}</span>'
+        html_parts.append(f'<tr><td class="snap-field">{html.escape(field)}</td><td class="snap-value">{val_html}</td></tr>')
+    html_parts.append('</tbody></table></div></div>')
+    return '\n'.join(html_parts)
+
+
+def render_card_html(section_text):
+    """Parse a Country Card markdown section and return styled HTML box."""
+    lines = section_text.split('\n')
+    content_start = 0
+    for i, line in enumerate(lines):
+        if line.strip().startswith('## Country Card'):
+            content_start = i + 1
+            break
+    lines = lines[content_start:]
+
+    desc_lines = []
+    strong_points = []
+    problems = []
+    section = 'desc'
+
+    for line in lines:
+        stripped = line.strip()
+        if stripped.startswith('### Well-known strong points'):
+            section = 'strong'
+            continue
+        elif stripped.startswith('### Well-known problems'):
+            section = 'problems'
+            continue
+        elif stripped.startswith('###'):
+            section = 'other'
+            continue
+
+        if section == 'desc' and stripped:
+            desc_lines.append(stripped)
+        elif section == 'strong':
+            m = re.match(r'^[-*+]\s+(.+)$', stripped)
+            if m:
+                strong_points.append(m.group(1))
+        elif section == 'problems':
+            m = re.match(r'^[-*+]\s+(.+)$', stripped)
+            if m:
+                problems.append(m.group(1))
+
+    description = ' '.join(desc_lines).strip()
+
+    html_parts = ['<div class="country-card">',
+                  '<h2 id="country-card">Country Card</h2>']
+
+    if description:
+        html_parts.append(f'<p class="card-description">{html.escape(description)}</p>')
+
+    if strong_points:
+        html_parts.append('<div class="card-strong-points">')
+        html_parts.append('<h3>✅ Well-known strong points</h3>')
+        html_parts.append('<ul>')
+        for sp in strong_points:
+            html_parts.append(f'<li>{html.escape(sp)}</li>')
+        html_parts.append('</ul></div>')
+
+    if problems:
+        html_parts.append('<div class="card-problems">')
+        html_parts.append('<h3>⚠️ Well-known problems</h3>')
+        html_parts.append('<ul>')
+        for p in problems:
+            html_parts.append(f'<li>{html.escape(p)}</li>')
+        html_parts.append('</ul></div>')
+
+    html_parts.append('</div>')
+    return '\n'.join(html_parts)
+
+
 # ── Region Data ──────────────────────────────────────────────────────────────
 
 def parse_regions_yaml(filepath):
@@ -442,7 +618,9 @@ def collect_pages():
         slug = md_file.stem
         text = md_file.read_text(encoding="utf-8")
         frontmatter, body = parse_frontmatter(text)
-        html_body = md_to_html(body, "entity", slug)
+        # Extract Country Snapshot and Country Card before normal rendering
+        clean_body, snapshot_html, card_html = extract_snapshot_card(body)
+        html_body = md_to_html(clean_body, "entity", slug)
         all_pages[slug] = {
             "slug": slug,
             "title": frontmatter.get("title", slug.replace("-", " ").title()),
@@ -455,6 +633,8 @@ def collect_pages():
             "frontmatter": frontmatter,
             "body": body,
             "html_body": html_body,
+            "snapshot_html": snapshot_html,
+            "card_html": card_html,
             "source_file": str(md_file.relative_to(WIKI_DIR)),
         }
 
@@ -776,6 +956,89 @@ a.wikilink:hover { color: #c0b8ff; }
 .footnote-ref a { font-size: 0.75rem; text-decoration: none; }
 .footnote-back { text-decoration: none; margin-left: 4px; }
 
+/* ── Country Snapshot ───────────────────────────────────────────────────────── */
+.snapshot-table { font-size: 0.85rem; }
+.snapshot-table .snap-field {
+  font-weight: 600;
+  color: var(--text-secondary);
+  white-space: nowrap;
+  width: 40%;
+}
+.snapshot-table .snap-value {
+  color: var(--text-primary);
+}
+.snapshot-source {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  margin-left: 6px;
+  font-style: italic;
+}
+.snapshot-empty {
+  color: var(--text-muted);
+  font-style: italic;
+  padding: 12px 0;
+}
+
+/* ── Country Card ───────────────────────────────────────────────────────────── */
+.country-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 20px 24px;
+  margin: 24px 0;
+}
+.country-card h2 {
+  margin-top: 0;
+  border-bottom: 1px solid var(--border);
+}
+.card-description {
+  color: var(--text-secondary);
+  line-height: 1.7;
+  margin: 12px 0 20px;
+}
+.card-strong-points {
+  border-left: 3px solid var(--success);
+  padding: 4px 16px;
+  margin: 12px 0;
+  background: rgba(76, 175, 80, 0.08);
+  border-radius: 0 6px 6px 0;
+}
+.card-strong-points h3 {
+  color: var(--success);
+  margin-top: 0;
+  font-size: 0.95rem;
+}
+.card-strong-points ul { list-style: none; padding-left: 0; }
+.card-strong-points li {
+  padding: 3px 0;
+  color: var(--text-primary);
+}
+.card-strong-points li::before {
+  content: "✅ ";
+  margin-right: 6px;
+}
+.card-problems {
+  border-left: 3px solid var(--warning);
+  padding: 4px 16px;
+  margin: 12px 0;
+  background: rgba(255, 152, 0, 0.08);
+  border-radius: 0 6px 6px 0;
+}
+.card-problems h3 {
+  color: var(--warning);
+  margin-top: 0;
+  font-size: 0.95rem;
+}
+.card-problems ul { list-style: none; padding-left: 0; }
+.card-problems li {
+  padding: 3px 0;
+  color: var(--text-primary);
+}
+.card-problems li::before {
+  content: "⚠️ ";
+  margin-right: 6px;
+}
+
 /* Index page */
 .index-region { margin-bottom: 24px; }
 .index-region h3 {
@@ -864,6 +1127,21 @@ def render_page(page, sidebar_html):
             meta_parts.append(f'<span class="tag">{html.escape(tag)}</span>')
     
     meta_html = f'<div class="page-meta">{"".join(meta_parts)}</div>' if meta_parts else ""
+
+    # Build the body HTML with snapshot + card injected before Status
+    body_html = page["html_body"]
+    extra_html = ""
+    if page.get("snapshot_html"):
+        extra_html += page["snapshot_html"] + "\n"
+    if page.get("card_html"):
+        extra_html += page["card_html"] + "\n"
+    if extra_html:
+        # Insert before the Status heading if present, otherwise append
+        status_marker = '<h2 id="status">'
+        if status_marker in body_html:
+            body_html = body_html.replace(status_marker, extra_html + status_marker)
+        else:
+            body_html += "\n" + extra_html
     
     # Breadcrumb
     if page["type"] == "entity":
@@ -891,7 +1169,7 @@ def render_page(page, sidebar_html):
 <main class="content">
 <h1>{html.escape(title)}</h1>
 {meta_html}
-{page["html_body"]}
+{body_html}
 </main>
 </div>
 </div>
