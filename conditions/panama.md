@@ -155,4 +155,47 @@ Panama is one of the world's largest vessel registries (Panama Ship Registry). Y
 - Last major change: Qualified Investor real estate threshold increase from USD 300K to USD 500K — effective 15 October 2026. ^[https://startabroad.com/resource/panama-visa-residency-and-citizenship-options]
 - Friendly Nations tightened August 2021 (provisional not direct PR; genuine economic connection required).
 - Last monitored: 2026-09-14.
-- Watch: QIV threshold deadline; potential further Friendly Nations tightening.
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~4,500,000 (2024) | [World Bank](https://data.worldbank.org/country/panama) — hard/official |
+| Main religion | Roman Catholicism (~63%); Protestant/Evangelical (~25%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/panama/) — hard/official |
+| Main language | Spanish (official) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/panama/) — hard/official |
+| Main city (capital or largest) | Panama City (capital; ~1.9M metro) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/panama/) — hard/official |
+| On the coast? | Yes — Caribbean (north) and Pacific (south); ~2,490 km coastline; Panama Canal | Geographical fact [soft/estimate] |
+| Tourism impact in season | Medium — Panama City year-round; Bocas del Toro, San Blas peak Dec–Apr | [soft/estimate] |
+| GDP per capita (PPP) | ~$42,000 (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=PA) — hard/official |
+| Median net monthly salary | ~$700–800 USD (dollarized economy) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Panama) [soft/estimate] |
+| Cost of living index | 41.0 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$700 (Panama City centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Panama) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% on foreign-source income (territorial tax system); Panama-source income 0%–25% | [DGI Panama](https://www.dgi.gob.pa) [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Short-Stay DN Visa ($36,000/yr, 9+9 months, does not count toward residency); Friendly Nations Visa ($200K CD or real estate + employment, 50+ qualifying nationalities); Qualified Investor ($300K→$500K real estate Oct 2026, direct PR) | See [[#digital-nomad-visa]] |
+| Years to citizenship | 5 years of permanent residency (3 years for spouses/parents of Panamanians) | See [[#citizenship]] |
+| Maximum permitted absence during residence | At least 1 visit every 2 years to maintain permanent residency | See [[#citizenship]] |
+| Passport strength after citizenship | 148 visa-free destinations (Henley Q3 2025, rank 28) | [Henley & Partners](https://www.henleyglobal.com/publications/global-mobility-report/2025-july) — hard/official |
+| Rule of Law Index | 0.54 (rank 73/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 83/100 (Free) | [Freedom House](https://freedomhouse.org/country/panama/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,400 h (Panama City) | [Current Results](https://www.currentresults.com/Weather/Panama/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~27 °C (Panama City); tropical — hot and humid year-round; cooler in highlands (Boquete) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/panama/) — hard/official |
+
+## Country Card
+
+### General description
+Panama is a narrow isthmus connecting North and South America, best known for the Panama Canal — a critical global shipping route. It has the highest GDP per capita in Central America (~$42,000 PPP), uses the US dollar as legal tender, and operates a territorial tax system (0% foreign income). Panama offers three flagship residency routes: the Qualified Investor Visa (direct PR from $300K real estate — rising to $500K in October 2026), the Friendly Nations Visa (50+ qualifying countries, $200K CD or employment), and the legendary Pensionado Visa ($1,000/mo lifetime pension). Panama City is a major international banking and business hub.
+
+### Well-known strong points
+- Territorial tax: 0% on foreign-source income — combined with dollarized economy, ideal for international earners
+- Qualified Investor Visa: direct permanent residency in 30–45 business days (from $300K real estate)
+- Legendary Pensionado program: $1,000/mo → permanent residency + extensive discount benefits
+- Dollarized economy since 1904 — no exchange-rate risk
+- Panama City is a modern business hub with excellent infrastructure, fiber internet, Tocumen airport hub
+- MERCOSUR-friendly: Friendly Nations Visa covers 50+ countries including most of the Americas and EU
+
+### Well-known problems
+- Dual citizenship NOT recognized — naturalized citizens must renounce prior nationality (enforcement varies)
+- Qualified Investor real estate threshold rising from $300K to $500K on 15 October 2026 — confirmed deadline
+- Digital Nomad visa is mediocre: $36K/yr income threshold (high), 18 months max, no PR path
+- Friendly Nations Visa tightened since 2021: provisional (not direct PR), genuine economic connection scrutinized
+- Russian citizens excluded from Friendly Nations; must use Qualified Investor or standard routes
+- Banking compliance for non-residents and certain nationalities (RU) is increasingly restrictive post-2022

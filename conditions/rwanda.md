@@ -77,3 +77,47 @@ Rwanda offers visa-free entry for 30 days (or eVisa). Russian citizens can apply
 - **Last monitored**: 2026-09-13
 - **Recent changes**: DN visa reported on Irembo as of 2026; some aggregator sites dispute formal existence — check migration.gov.rw directly. 15-year citizenship clock confirmed under Organic Law.
 - **Watch items**: Verify DN visa remains on Irembo portal directly. Track any citizenship law amendments.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~14,100,000 (2024) | ^[https://data.worldbank.org/country/RW] hard/official |
+| Main religion | Christianity (~95%; Catholic ~44%, Protestant ~38%) | ^[https://www.cia.gov/the-world-factbook/countries/rwanda/] hard/official |
+| Main language | Kinyarwanda, English, French, Swahili (all official) | ^[https://www.cia.gov/the-world-factbook/countries/rwanda/] hard/official |
+| Main city (capital or largest) | Kigali (~1.7M metro) | ^[https://www.cia.gov/the-world-factbook/countries/rwanda/] hard/official |
+| On the coast? | No — landlocked | hard/official |
+| Tourism impact in season | Medium — gorilla trekking (year-round), peak Jun–Sep and Dec–Feb | [soft/estimate] |
+| GDP per capita (PPP) | ~$3,200 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=RW] hard/official |
+| Median net monthly salary | ~$250–350 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Rwanda] |
+| Cost of living index (relative) | ~30 (NYC=100) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Rwanda] |
+| Monthly rent, 1‑bedroom apartment | ~$250–450 (Kigali) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Rwanda] |
+| Effective personal tax rate for remote workers | 0%–30% progressive (top rate on RWF 7.2M+/yr) | [soft/estimate] |
+| Remote‑work / self‑employment residence available? | Yes — Digital Nomad Visa (1 yr USD 100 / 5 yr USD 500) | ^[https://www.migration.gov.rw/visa] |
+| Years to citizenship | 15 years continuous legal residence | ^[https://www.migration.gov.rw/our-services/citizenshipss] |
+| Maximum permitted absence during residence | Not clearly defined; continuous residence expected | [soft/estimate] |
+| Passport strength after citizenship (visa‑free count) | ~65 destinations | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.56 (rank 72/142, 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/country/2024/Rwanda] hard/official |
+| Freedom House score | 23/100 — Not Free (2025) | ^[https://freedomhouse.org/country/rwanda/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,200 (Kigali) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Kigali,Rwanda] hard/official |
+| Average annual temperature | ~21°C (Kigali, tropical highland) | ^[https://en.climate-data.org/africa/rwanda/kigali/kigali-1079/] hard/official |
+
+## Country Card
+
+Rwanda is a small, landlocked East African nation that has undergone a remarkable transformation since the 1994 genocide, becoming one of the continent's safest, cleanest, and most digitally progressive countries. Kigali is a growing regional tech hub. The government actively courts foreign investment and remote workers, offering the world's most affordable Digital Nomad Visa (5 years for USD 500). Citizenship requires 15 years of residence. English and French are official alongside Kinyarwanda.
+
+### Well-known strong points
+- World's cheapest DN visa — 1 year USD 100, 5 years USD 500 (via Irembo, fully online)
+- Kigali is exceptionally safe and clean by African standards; strict anti-corruption enforcement
+- Dual citizenship permitted since 2003
+- English is widely spoken in government, business, and education
+- Pro-business environment with growing co-working spaces and tech infrastructure (4G/5G, fibre)
+- EAC membership with free movement; Kigali International Airport connects to major African/ME hubs
+
+### Well-known problems
+- Citizenship path is very long (15+ years continuous residence); DN visa time does not count
+- Landlocked — no ocean access; limited maritime options
+- Freedom House score 23/100 (Not Free) — political space is tightly controlled
+- Personal income tax up to 30%; tax residence triggers at 183+ days
+- Small domestic market; limited job opportunities outside government/NGOs/tech
+- High cost relative to regional neighbours for certain imported goods

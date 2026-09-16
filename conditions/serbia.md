@@ -119,3 +119,47 @@ Expats report generally smooth processes. Main complaints: bureaucratic delays, 
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Single Permit system operational. Online application portal (Foreign Nationals' Portal) functioning.
 - **Watch items**: EU accession progress. Potential changes to 3-year temporary residence requirement.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~6,549,000 (2025) | ^[https://data.worldbank.org/country/serbia] hard/official |
+| Main religion | Orthodox Christianity (Serbian Orthodox) | ^[https://www.cia.gov/the-world-factbook/countries/serbia/] hard/official |
+| Main language | Serbian (official) | ^[https://www.cia.gov/the-world-factbook/countries/serbia/] hard/official |
+| Main city (capital) | Belgrade (pop. ~1,400,000) | ^[https://data.worldbank.org/country/serbia] hard/official |
+| On the coast? | No (landlocked) | Geography — hard |
+| Tourism impact in season | Medium — Belgrade city-breaks, mountain resorts; not overwhelmed | [soft/estimate] |
+| GDP per capita (PPP) | ~$27,400 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=RS] hard/official |
+| Median net monthly salary | ~€850 (2025) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Serbia] [soft/estimate] |
+| Cost of living index | Low (~40, Numbeo; ~60% cheaper than Western Europe) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Serbia] [soft/estimate] |
+| Monthly rent, 1-bedroom apt | ~€450 (Belgrade center) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Serbia] [soft/estimate] |
+| Effective tax for remote workers | ~15–25% (10% flat PIT + ~14% social on salary from DOO) | ^[https://www.globalcitizensolutions.com/serbia-residence-permit] [soft/estimate] |
+| Remote-work / self-employment residence? | De facto via DOO (business registration); no formal DN visa | From page — [soft/estimate] |
+| Years to citizenship | ~6 (3 temp + 3 PR) | ^[https://legalclarity.org/serbia-citizenship-requirements-descent-and-naturalization] hard/official |
+| Maximum permitted absence | >10 months in any 3 years breaks continuity for PR | ^[https://www.globalcitizensolutions.com/serbia-residence-permit] hard/official |
+| Passport visa-free count | 85 (Passport Index 2026) | ^[https://www.passportindex.org/passport/serbia] hard/official |
+| Rule of Law Index (WJP 2024) | 0.51 (rank 78/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score (2025) | 56/100 — Partly Free | ^[https://freedomhouse.org/country/serbia/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,100 | ^[https://en.wikipedia.org/wiki/Belgrade#Climate] hard/official |
+| Average annual temperature | ~12°C | ^[https://en.wikipedia.org/wiki/Belgrade#Climate] hard/official |
+
+## Country Card
+
+Serbia is a Balkan country at the crossroads of Central and Southeast Europe, landlocked but positioned on the Danube River corridor. An EU candidate country (not yet a member), it operates a flat 10% personal income tax and a straightforward business-registration pathway to residence (~6 years to citizenship). Serbian and Russian are mutually intelligible, making Serbia the #1 relocation hub for Russian-speaking IT professionals and entrepreneurs since 2022.
+
+### Well-known strong points
+- Fastest citizenship path in the Balkans (~6 years) with no formal language test
+- Flat 10% income tax + 15% corporate tax — among the lowest in Europe
+- Business registration (DOO) takes 1–3 days; de-facto digital nomad pathway
+- Russian visa-free (30 days), widely spoken Russian, no sanctions
+- Vibrant tech hubs in Belgrade and Novi Sad; growing startup/VC ecosystem
+- Dual citizenship permitted in practice
+
+### Well-known problems
+- Bureaucratic delays in residence permit processing (MUP)
+- Bank account opening for non-residents can be difficult and slow
+- No formal digital nomad visa — business registration is the only independent pathway
+- Belgrade cost of living has risen sharply post-2022 (rents up 30–50%)
+- Landlocked — no coastline access
+- EU accession stalled; political erosion of media and civil liberties (Freedom House: Partly Free, 56/100)

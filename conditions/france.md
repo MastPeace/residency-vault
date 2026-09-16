@@ -137,6 +137,51 @@ French consulates in Russia may have reduced operations. The VLS-TS Visiteur rou
 ## Community Pulse
 France's lack of a digital nomad visa is a notable gap compared to Spain, Portugal, and Italy. The confirmed remote-work ban under VLS-TS Visiteur (April 2026) closed a widely used loophole. Talent Passport is excellent for highly skilled employees and entrepreneurs — fast processing (90 days max, 30 for intra-EU Blue Card holders), spouse gets immediate work rights. The 5-year citizenship path is competitive. France remains attractive for retirees on passive income (low threshold, ~€1,843/mo).
 
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~68,200,000 (2024) | [World Bank](https://data.worldbank.org/country/france) — hard/official |
+| Main religion | Christianity (Catholic majority; secular state) | [Wikipedia](https://en.wikipedia.org/wiki/France#Religion) — hard/official |
+| Main language | French | [Wikipedia](https://en.wikipedia.org/wiki/France) — hard/official |
+| Main city (capital or largest) | Paris | [Wikipedia](https://en.wikipedia.org/wiki/Paris) — hard/official |
+| On the coast? | Yes (Mediterranean + Atlantic + Channel, ~3,427 km mainland) | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — world's most visited country; Paris and Riviera heavily seasonal; peak Jun–Aug | [soft/estimate] |
+| GDP per capita (PPP) | ~$58,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=FR) — hard/official |
+| Median net monthly salary | ~€2,450 (~$2,650) | [Numbeo](https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105) [soft/estimate] |
+| Cost of living index | 58.0 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | €768 (city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=France) [soft/estimate] |
+| Effective personal tax rate for remote workers | Progressive 0%–45%; impatriate regime: 30% exemption on salary for up to 8 years | See [[#tax]] [soft/estimate] |
+| Remote-work / self-employment residence available? | No — no dedicated digital nomad visa; remote work banned under VLS-TS Visiteur | See [[#digital-nomad-visa]] |
+| Years to citizenship | 5 years (2 for French higher-education graduates) | See [[#citizenship]] |
+| Maximum permitted absence during residence | Generally 6 months continuous absence breaks residence continuity | See [[#citizenship]] |
+| Passport strength after citizenship | 189 visa-free destinations (Henley Q3 2025, rank 3) | [Henley & Partners](https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025) — hard/official |
+| Rule of Law Index | 0.73 (rank 22/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 89/100 (Free) | [Freedom House](https://freedomhouse.org/country/france/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~1,700 h (Paris ~1,660; Mediterranean coast ~2,700) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~12 °C (Paris; Mediterranean coast ~16 °C) | [Wikipedia / Météo-France](https://en.wikipedia.org/wiki/France#Climate) — hard/official |
+
+## Country Card
+
+### General description
+France is Western Europe's largest country by area and the EU's second-largest economy. It has a highly developed mixed economy with strong industrial, agricultural, and services sectors, and hosts major global corporations. France offers a competitive 5-year path to citizenship — among the fastest in the EU — and its Talent Passport program provides excellent routes for highly skilled workers, startup founders, and investors. However, France lacks a digital nomad visa and explicitly bans remote work under its visitor visa, limiting options for self-employed remote workers.
+
+### Well-known strong points
+- World-class passport (189 visa-free destinations, joint 3rd)
+- Fast citizenship path: 5 years (2 for French university graduates)
+- Talent Passport: streamlined 4-year permits with fast processing (90 days max)
+- Dual citizenship permitted without restrictions
+- Excellent public healthcare, infrastructure, and education
+- Impatriate tax regime (30% salary exemption for up to 8 years)
+
+### Well-known problems
+- No digital nomad visa; remote work banned under visitor visa (confirmed Apr 2026)
+- High tax burden: progressive rates to 45% + social charges; no flat-tax regime
+- Complex bureaucracy and administrative procedures
+- B1 French language requirement for citizenship (raised from A2 in Jan 2026)
+- Relatively high cost of living (Numbeo index 58.0), especially in Paris
+- Labor market rigidities and high social charges on employment
+
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Remote work ban under VLS-TS Visiteur confirmed (April 2026). Citizenship language bar raised to B1 (Jan 2026). ANEF digital platform fully operational for online applications.

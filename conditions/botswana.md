@@ -77,3 +77,47 @@ Visa-free for 30 days for Russian citizens. Work and investor permits accessible
 - **Last monitored**: 2026-09-13
 - **Recent changes**: No significant immigration policy changes reported. System remains strict and employer-driven.
 - **Watch items**: Monitor any introduction of DN visa or investment residency scheme.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~2,700,000 (2024) | ^[https://data.worldbank.org/country/BW] hard/official |
+| Main religion | Christianity (~79%); traditional beliefs (~5%) | ^[https://www.cia.gov/the-world-factbook/countries/botswana/] hard/official |
+| Main language | English (official), Setswana (national) | ^[https://www.cia.gov/the-world-factbook/countries/botswana/] hard/official |
+| Main city (capital or largest) | Gaborone (~420,000 metro) | ^[https://www.cia.gov/the-world-factbook/countries/botswana/] hard/official |
+| On the coast? | No — landlocked | hard/official |
+| Tourism impact in season | Medium — safari peak May–October (Okavango Delta, Chobe) | [soft/estimate] |
+| GDP per capita (PPP) | ~$19,500 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=BW] hard/official |
+| Median net monthly salary | ~$800–1,100 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Botswana] |
+| Cost of living index (relative) | ~37 (NYC=100) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Botswana] |
+| Monthly rent, 1‑bedroom apartment | ~$250–450 (Gaborone centre) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Botswana] |
+| Effective personal tax rate for remote workers | 0%–25% progressive (top rate on BWP 144K+/yr, ~USD 10,500) | [soft/estimate] |
+| Remote‑work / self‑employment residence available? | No — no dedicated digital nomad visa | |
+| Years to citizenship | 10 years minimum lawful residence; dual citizenship NOT permitted | ^[https://www.gov.bw/taxonomy/term/115?page=1] |
+| Maximum permitted absence during residence | Not clearly defined | [soft/estimate] |
+| Passport strength after citizenship (visa‑free count) | ~85 destinations (incl. UK, Russia visa-free) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.62 (rank 45/142, 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/country/2024/Botswana] hard/official |
+| Freedom House score | 75/100 — Free (2025) | ^[https://freedomhouse.org/country/botswana/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~3,300 (Gaborone) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Gaborone,Botswana] hard/official |
+| Average annual temperature | ~21°C (Gaborone, semi-arid subtropical) | ^[https://en.climate-data.org/africa/botswana/south-east/gaborone-560/] hard/official |
+
+## Country Card
+
+Botswana is one of Africa's most stable democracies and an upper-middle-income country, transformed by diamond wealth since independence in 1966. It's a premier safari destination (Okavango Delta, Chobe National Park) with strict conservation policies. Gaborone is the capital. The immigration system is employer-driven — work permits require local job advertising (6 months) and BQA qualification evaluation. Permanent residence requires 5+ years; citizenship 10+ years. Dual citizenship is not permitted.
+
+### Well-known strong points
+- Exceptional governance: Rule of Law 0.62 (rank 45/142), Freedom House 75/100 (Free)
+- Low personal income tax (max 25% at BWP 144K/yr, ~USD 10,500 — very low threshold)
+- World-class safari tourism (Okavango Delta — UNESCO World Heritage) with high-value, low-volume model
+- English is the official language; strong democratic traditions and political stability
+- Relatively high GDP per capita (~$19,500 PPP) for sub-Saharan Africa
+- No capital gains tax (generally); low corporate tax (22%)
+
+### Well-known problems
+- No digital nomad visa, no retirement visa — limited residency options beyond employment
+- Dual citizenship is NOT permitted — naturalised citizens must renounce original nationality
+- Small, landlocked economy heavily dependent on diamonds; limited economic diversification
+- Work permits require employer sponsorship and 6-month local advertising — stringent process
+- 10-year citizenship path + dual citizenship ban make naturalisation unattractive
+- Small population (~2.7M) and market limits economic opportunities

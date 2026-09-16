@@ -139,4 +139,47 @@ Not a major yachting hub. Standard foreign-flag vessel rules apply. No special y
 - Last change: Law 21.325 (2022) restructured all visa categories into 16 subcategories under Residencia Temporal.
 - Planned: civics/culture exam for naturalization (announced 2024, not yet implemented).
 - Last monitored: 2026-09-14.
-- Watch: civics exam implementation timeline.
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~19,765,000 (2024) | [World Bank](https://data.worldbank.org/country/chile) — hard/official |
+| Main religion | Roman Catholicism (~42%); Protestant/Evangelical (~18%); Unaffiliated (~38%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/chile/) — hard/official |
+| Main language | Spanish (official) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/chile/) — hard/official |
+| Main city (capital or largest) | Santiago (capital; ~7M metro) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/chile/) — hard/official |
+| On the coast? | Yes — Pacific coastline, ~6,435 km | Geographical fact [soft/estimate] |
+| Tourism impact in season | Medium — Patagonia (Dec–Feb), ski resorts (Jun–Aug), Santiago year-round | [soft/estimate] |
+| GDP per capita (PPP) | ~$32,000 (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=CL) — hard/official |
+| Median net monthly salary | ~$700–800 USD (CLP ~650,000) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Chile) [soft/estimate] |
+| Cost of living index | 40.5 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$500 (Santiago city centre, CLP ~480,000) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Chile) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0%–40% progressive (worldwide taxation); no territorial option | [SII Chile](https://www.sii.cl) [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Rentista (~$1,000–1,500/mo passive income only); no dedicated digital nomad visa; remote workers use tourist (90+90 days) or Rentista | See [[#passive-income-residency]] |
+| Years to citizenship | 5 years from first Estampado Electrónico (2 years for qualified family route) | See [[#citizenship]] |
+| Maximum permitted absence during residence | Not strictly defined; continuous residence expected; extended absences may reset citizenship clock | See [[#citizenship]] |
+| Passport strength after citizenship | 176 visa-free destinations (Henley Q3 2025, rank 14) — only Latin American passport with US ESTA | [Henley & Partners](https://www.henleyglobal.com/publications/global-mobility-report/2025-july) — hard/official |
+| Rule of Law Index | 0.66 (rank 36/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 94/100 (Free) | [Freedom House](https://freedomhouse.org/country/chile/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,500 h (Santiago) | [Current Results](https://www.currentresults.com/Weather/Chile/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~15 °C (Santiago); extreme variation: Atacama desert to Patagonian ice fields | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/chile/) — hard/official |
+
+## Country Card
+
+### General description
+Chile is a long, narrow country on South America's Pacific coast, stretching from the Atacama Desert to Patagonia. It has the highest GDP per capita in Latin America (~$32,000 PPP) and is the only Latin American country with US ESTA access. Chile's immigration system under Law 21.325 (2022) offers a Rentista visa (~$1,000–1,500/mo passive income), an Investor visa (~$500,000), and work visas — but no dedicated digital nomad visa. The Chilean passport is the strongest in Latin America (176 visa-free, rank 14). Citizenship requires 5 years from the first residency stamp.
+
+### Well-known strong points
+- Strongest passport in Latin America: 176 visa-free destinations, US ESTA eligible
+- Highest GDP per capita in the region and strong institutions (WJP 0.66, FH 94/100)
+- Political stability and reliable rule of law — best in Latin America alongside Uruguay and Costa Rica
+- OECD member; modern infrastructure, healthcare, and banking
+- Geographic diversity: Atacama Desert, Lake District, Patagonia, wine regions
+- Moderate cost of living relative to developed-world quality of life
+
+### Well-known problems
+- No digital nomad visa — remote workers lack a clear legal framework (Rentista excludes active freelance income)
+- Long processing times: temporary residence 6–8 months, permanent ~18 months, citizenship 2–3 years
+- High inequality and cost of living relative to local salaries (Numbeo index 40.5)
+- Worldwide taxation with no territorial option — 0%–40% progressive
+- Spanish-only bureaucracy; no English-language government services
+- Investor visa threshold is high (~$500,000) compared to regional peers like Paraguay ($70,000)

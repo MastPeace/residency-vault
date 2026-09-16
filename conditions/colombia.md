@@ -138,4 +138,47 @@ Not a major yachting hub. Cartagena has marina facilities. No special yacht/capt
 ## Status
 - Last change: Resolution 5477 of 2022 restructured visa categories. Digital nomad visa introduced.
 - Last monitored: 2026-09-14.
-- Watch: safe-conduct rule changes; potential R visa by investment elimination was proposed but not enacted.
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~52,886,000 (2024) | [World Bank](https://data.worldbank.org/country/colombia) — hard/official |
+| Main religion | Roman Catholicism (~79%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/colombia/) — hard/official |
+| Main language | Spanish (official) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/colombia/) — hard/official |
+| Main city (capital or largest) | Bogotá (capital; ~11M metro) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/colombia/) — hard/official |
+| On the coast? | Yes — Caribbean (north) and Pacific (west); ~3,208 km | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — Cartagena, Medellín, Caribbean coast; peak Dec–Mar, Jun–Jul | [soft/estimate] |
+| GDP per capita (PPP) | ~$21,000 (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=CO) — hard/official |
+| Median net monthly salary | ~$350–450 USD (COP ~1,700,000) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Colombia) [soft/estimate] |
+| Cost of living index | 22.5 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$350 (Medellín/Bogotá city centre, COP ~1,500,000) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Colombia) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0%–39% progressive (worldwide taxation for residents) | [DIAN](https://www.dian.gov.co) [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Type V Digital Nomad ($1,042/mo, up to 2 years, visa-exempt only, does NOT count toward residency); Type M for permanent path | See [[#digital-nomad-visa]] |
+| Years to citizenship | 5 years on R (Resident) visa (standard); 2 years R for spouses/parents of Colombians; 1 year R for LATAM nationals | See [[#citizenship]] |
+| Maximum permitted absence during residence | Safe-conduct periods and visa lapses break residency continuity; continuous M → R time required | See [[#citizenship]] |
+| Passport strength after citizenship | 132 visa-free destinations (Henley Q3 2025, rank 37) | [Henley & Partners](https://www.henleyglobal.com/publications/global-mobility-report/2025-july) — hard/official |
+| Rule of Law Index | 0.49 (rank 91/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 70/100 (Free) | [Freedom House](https://freedomhouse.org/country/colombia/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~1,800 h (Bogotá, high-altitude equatorial); 2,400+ h (Medellín, Caribbean) | [Current Results](https://www.currentresults.com/Weather/Colombia/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~14 °C (Bogotá — cool highland); 24–28 °C (Medellín, coast, lowlands) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/colombia/) — hard/official |
+
+## Country Card
+
+### General description
+Colombia is South America's third-most populous country, located at the continent's northwestern tip with both Caribbean and Pacific coastlines. Its 3-tier visa system (Type V — Visitor / Type M — Migrant / Type R — Resident) offers clear pathways but requires patience: the digital nomad visa (Type V, up to 2 years) does not count toward residency, and citizenship requires 5 years on the R visa after accumulating M time. Medellín, Bogotá, and the Caribbean coast are major expat and digital-nomad hubs with very low costs of living. Colombia has transformed significantly since the 2016 peace accord, though security concerns persist in some regions.
+
+### Well-known strong points
+- Very low cost of living (Numbeo index 22.5) — among the cheapest in Latin America
+- Well-structured digital nomad visa (Type V): $1,042/mo, up to 2 years, straightforward
+- Medellín is one of the world's most famous nomad hubs — strong community, coworking, "eternal spring" climate
+- Caribbean and Pacific coastlines, Amazon rainforest, Andes — exceptional geographic/cultural diversity
+- Friendly, welcoming culture; large English-speaking expat communities in major cities
+- Investment residency threshold is moderate (~$120,000 real estate for Type M)
+
+### Well-known problems
+- Type V (digital nomad) time does NOT count toward permanent residency or citizenship
+- Weak passport (132 visa-free) compared to MERCOSUR peers (Brazil 170, Argentina 170, Chile 176)
+- Safety concerns: petty crime in cities, no-go zones in some rural departments
+- Complex 3-tier system: V → M → R → citizenship can take 10+ years total for non-LATAM nationals
+- Safe-conduct periods and visa lapses break residency continuity — strict rules
+- Russian citizens cannot access the digital nomad visa (visa-exempt only)

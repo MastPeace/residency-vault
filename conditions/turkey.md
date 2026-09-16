@@ -125,3 +125,47 @@ CBI program is well-established and fast. Main risk: fraud in the application ch
 - **Last monitored**: 2026-09-13
 - **Recent changes**: August 2026 — 6,134 fraudulently obtained citizenships revoked. 2026 tax reform: 20-year foreign income exemption for relocating individuals.
 - **Watch items**: Potential CBI threshold increase (rumored to $600,000). Post-revocation due diligence tightening. Impact of tax reform on relocant inflow.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~87,685,000 (2025) | ^[https://data.worldbank.org/country/turkey] hard/official |
+| Main religion | Islam (~99%, mostly Sunni) | ^[https://www.cia.gov/the-world-factbook/countries/turkey/] hard/official |
+| Main language | Turkish (official) | ^[https://www.cia.gov/the-world-factbook/countries/turkey/] hard/official |
+| Main city (largest) | Istanbul (pop. ~15,800,000) | ^[https://data.worldbank.org/country/turkey] hard/official |
+| On the coast? | Yes — Mediterranean, Aegean, Black Sea (~7,200 km total) | Geography — hard |
+| Tourism impact in season | High — Antalya, Bodrum, Istanbul heavily touristed; massive industry | [soft/estimate] |
+| GDP per capita (PPP) | ~$43,000 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=TR] hard/official |
+| Median net monthly salary | ~€500 (2025; varies widely — Istanbul higher) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Turkey] [soft/estimate] |
+| Cost of living index | Low (~30, Numbeo; significantly cheaper than Western Europe) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Turkey] [soft/estimate] |
+| Monthly rent, 1-bedroom apt | ~€350 (Istanbul avg); €250–300 (Antalya) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Turkey] [soft/estimate] |
+| Effective tax for remote workers | 15–40% progressive PIT (2026: 20-yr foreign-income exemption for qualifying relocants) | ^[https://www.globalcitizensolutions.com/turkey-citizenship-by-investment] [soft/estimate] |
+| Remote-work / self-employment residence? | Not available — no formal DN visa; de facto via property residence or CBI | From page — [soft/estimate] |
+| Years to citizenship | 5 years (standard); 3–4 months (CBI via $400K real estate) | ^[https://www.visaverge.com/visa/turkey-citizenship-by-investment-400-500k-routes-and-timeline] hard/official |
+| Maximum permitted absence | Not specified (standard continuous residence for naturalization; none for CBI) | From page — [soft/estimate] |
+| Passport visa-free count | 71 (Passport Index 2026) | ^[https://www.passportindex.org/passport/turkey] hard/official |
+| Rule of Law Index (WJP 2024) | 0.41 (rank 117/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score (2025) | 33/100 — Not Free | ^[https://freedomhouse.org/country/turkey/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,700 (Antalya); ~2,200 (Istanbul) | ^[https://en.wikipedia.org/wiki/Istanbul#Climate] hard/official |
+| Average annual temperature | ~18°C (Antalya); ~14°C (Istanbul) | ^[https://en.wikipedia.org/wiki/Istanbul#Climate] hard/official |
+
+## Country Card
+
+Turkey is a transcontinental country spanning Europe and Asia with ~88 million people, operating one of the world's most popular citizenship-by-investment programs: $400,000 in real estate yields a passport in 3–4 months with no residence requirement and no language test. The passport grants visa-free access to ~71 destinations and US E-2 Investor Visa eligibility. A 2026 tax reform introduced a 20-year exemption on foreign-source income for qualifying relocants — a de-facto NHR equivalent. The August 2026 revocation of 6,134 fraudulently obtained citizenships underscores the importance of proper legal representation.
+
+### Well-known strong points
+- Fastest CBI globally: citizenship in 3–4 months via $400K real estate
+- No residence requirement, no language test for CBI; dual citizenship permitted
+- US E-2 Investor Visa eligibility with Turkish passport
+- 2026 tax reform: 20-year exemption on foreign-source income for qualifying relocants
+- Large, liquid real estate market (Istanbul, Antalya); 3-year hold period
+- Massive tourism infrastructure; world-class Mediterranean/Aegean coastline
+
+### Well-known problems
+- Rule of Law very weak (WJP 0.41, rank 117/142); Freedom House: Not Free (33/100)
+- High inflation (40–50% in recent years); currency depreciation risk
+- CBI fraud risk: 6,134 citizenships revoked (Aug 2026) — due diligence is critical
+- No formal digital nomad visa; standard naturalization requires 5 years + Turkish language
+- Progressive income tax up to 40% for high earners (unless qualifying for new exemption)
+- Political authoritarianism; media censorship; internet restrictions

@@ -77,3 +77,47 @@ Visa required for Russian citizens (e-visa or embassy). Nigeria maintains cordia
 - **Last monitored**: 2026-09-13
 - **Recent changes**: NIS fully online knowledge base with all visa classes documented. No major policy shifts.
 - **Watch items**: Track any citizenship timeline reduction or DN visa introduction.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~232,700,000 (2024) | ^[https://data.worldbank.org/country/NG] hard/official |
+| Main religion | Islam (~53%), Christianity (~46%) | ^[https://www.cia.gov/the-world-factbook/countries/nigeria/] hard/official |
+| Main language | English (official); Hausa, Yoruba, Igbo widely spoken | ^[https://www.cia.gov/the-world-factbook/countries/nigeria/] hard/official |
+| Main city (capital or largest) | Lagos (~16.5M metro); capital: Abuja | ^[https://www.cia.gov/the-world-factbook/countries/nigeria/] hard/official |
+| On the coast? | Yes — Atlantic Ocean (Gulf of Guinea: Lagos, Port Harcourt, Calabar) | hard/official |
+| Tourism impact in season | Low — dominated by business travel; tourism infrastructure underdeveloped | [soft/estimate] |
+| GDP per capita (PPP) | ~$5,700 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=NG] hard/official |
+| Median net monthly salary | ~$200–350 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Nigeria] |
+| Cost of living index (relative) | ~28 (NYC=100) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Nigeria] |
+| Monthly rent, 1‑bedroom apartment | ~$400–900 (Lagos expat areas: Victoria Island, Ikoyi) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Nigeria] |
+| Effective personal tax rate for remote workers | 7%–24% progressive (top rate on NGN 3.2M+/yr, ~USD 4,000) | [soft/estimate] |
+| Remote‑work / self‑employment residence available? | No — no dedicated digital nomad visa | |
+| Years to citizenship | 15 years continuous lawful residence | ^[https://immigration.gov.ng/knowledge-base] |
+| Maximum permitted absence during residence | Not clearly defined; continuous residence required | [soft/estimate] |
+| Passport strength after citizenship (visa‑free count) | ~45 destinations (ECOWAS free movement) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.42 (rank 115/142, 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/country/2024/Nigeria] hard/official |
+| Freedom House score | 44/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/nigeria/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,200 (Lagos); ~2,800 (Abuja) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Lagos,Nigeria] hard/official |
+| Average annual temperature | ~27°C (Lagos, tropical coastal) / ~26°C (Abuja, inland) | ^[https://en.climate-data.org/africa/nigeria/lagos/lagos-552/] hard/official |
+
+## Country Card
+
+Nigeria is Africa's most populous nation (~233M) and its largest economy by GDP, with a structured residency-by-investment framework through the Nigeria Immigration Service (NIS). The visa system includes dedicated investor visas (N3A–N3E scaled by investment size), a Highly Skilled Immigrant Visa (N4A), retirement visas (N5A/N5B), and expatriate employment visas (R2A). Lagos is Africa's largest tech hub ("Yabacon Valley"), home to unicorns like Paystack and Flutterwave. Citizenship requires 15 years. Dual citizenship is not permitted for naturalised foreigners.
+
+### Well-known strong points
+- Most structured residency framework in Africa: dedicated investor (N3A–E), skilled (N4A), retirement (N5A/B) visas
+- Lagos is Africa's premier tech hub with vibrant startup ecosystem and large market
+- English is the official language — no language barrier
+- Investor visas range from small enterprise (N3A) to ultra-large (N3D, USD 10M+) with 6-year residence
+- Low personal income tax ceiling (24% top rate) compared to regional peers
+- Massive domestic market (~233M consumers) — unmatched business opportunity in Africa
+
+### Well-known problems
+- 15-year citizenship timeline + prohibition on dual citizenship for naturalised citizens
+- No digital nomad visa; remote workers need employer or investor sponsorship
+- Security challenges: insurgency (Northeast), kidnapping, and crime in some areas
+- Passport is one of Africa's weakest (~45 visa-free); not a passport-shopping destination
+- Infrastructure gaps: unreliable power, traffic congestion (Lagos), limited public transport
+- Cost of living in Lagos expat areas (VI, Ikoyi) can be very high — USD 400–900 for 1-bed rent

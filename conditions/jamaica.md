@@ -87,6 +87,52 @@ Jamaica has an international ship registry (Maritime Authority of Jamaica). Yach
 - Work permits employer-driven; 80/20 local-foreign labour ratio considerations.
 - Popular with returning Jamaicans and long-stay retirees.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~2,800,000 (2024) | [World Bank](https://data.worldbank.org/country/jamaica) — hard/official |
+| Main religion | Christianity (Protestant ~65%, Roman Catholic ~2%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/jamaica/) — hard/official |
+| Main language | English (official); Jamaican Patois widely spoken | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/jamaica/) — hard/official |
+| Main city (capital or largest) | Kingston | [Wikipedia](https://en.wikipedia.org/wiki/Kingston,_Jamaica) — hard/official |
+| On the coast? | Yes (island nation; Caribbean Sea) | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — peak Dec–Apr; Montego Bay, Ocho Rios, Negril heavily seasonal | [soft/estimate] |
+| GDP per capita (PPP) | ~$12,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=JM) — hard/official |
+| Median net monthly salary | ~JMD 120,000 (~$780) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Jamaica) [soft/estimate] |
+| Cost of living index | 47.6 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$500 (Kingston) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Jamaica) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% on foreign-source income for non-domiciled (territorial system) | See [[#tax]] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; permanent residence (independent means) for passive income | See [[#passive-income-residency]] |
+| Years to citizenship | 5 years residency (last 12 months continuous) | See [[#citizenship]] |
+| Maximum permitted absence during residence | Must maintain continuous residency; aggregate 4 years in 5 years before application | See [[#citizenship]] |
+| Passport strength after citizenship | ~90 visa-free destinations (Henley Q3 2025) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.53 (rank 62/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 80/100 (Free) | [Freedom House](https://freedomhouse.org/country/jamaica/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,800 h | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Jamaica#Climate) — hard/official |
+| Average annual temperature | ~27 °C (coastal) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Jamaica#Climate) — hard/official |
+
+## Country Card
+
+### General description
+Jamaica is the third-largest Caribbean island, known globally for its cultural influence (reggae, cuisine, athletics) and tourism brand. Its economy is service-driven with tourism as the dominant sector, supplemented by mining (bauxite) and agriculture. Jamaica offers permanent residence routes for retirees and independent-means applicants, with a moderate 5-year path to naturalization. The country operates a territorial tax system, has no capital gains or inheritance tax, and English is the official language. Dual citizenship is fully recognized since 1999.
+
+### Well-known strong points
+- English-speaking with no language barrier for most expats
+- Territorial tax system: foreign-source income not taxed for non-domiciled residents
+- Moderate 5-year path to citizenship with dual citizenship fully recognized
+- Visa-free access to ~90 destinations including UK, EU Schengen, China
+- Rich cultural heritage and lifestyle; large diaspora communities
+- No capital gains tax, inheritance tax, or wealth tax
+
+### Well-known problems
+- High crime rate; violent crime concentrated in certain urban areas
+- Bureaucratic immigration processing: 6–8 months for permanent residence
+- No dedicated digital nomad visa; remote-work framework absent
+- Limited economic opportunities; high youth unemployment
+- Healthcare infrastructure limited outside Kingston and tourist zones
+- Permanent residence is discretionary with no published minimum income
 ## Status
 - Last change: No significant policy change in monitored period.
 - Last monitored: 2026-09-14.

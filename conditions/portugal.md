@@ -133,6 +133,51 @@ Consulates in Russia may have reduced operations — apply via third-country con
 ## Community Pulse
 AIMA backlogs are the dominant complaint across forums: 6–9 months for initial D7/D8 processing, renewal queues. The 10-year citizenship reform (May 2026) was a shock but still among the shortest in Western Europe. Golden Visa fund route is smooth and well-established. D7 income threshold (€920/mo) is the lowest in Western Europe — heavily used by retirees and passive-income holders.
 
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~10,400,000 (2023) | [World Bank](https://data.worldbank.org/country/portugal) — hard/official |
+| Main religion | Roman Catholicism | [Wikipedia](https://en.wikipedia.org/wiki/Portugal#Religion) — hard/official |
+| Main language | Portuguese | [Wikipedia](https://en.wikipedia.org/wiki/Portugal) — hard/official |
+| Main city (capital or largest) | Lisbon | [Wikipedia](https://en.wikipedia.org/wiki/Lisbon) — hard/official |
+| On the coast? | Yes (extensive Atlantic coastline, ~1,794 km) | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — Algarve, Lisbon, Porto heavily seasonal; peak Jun–Sep | [soft/estimate] |
+| GDP per capita (PPP) | ~$47,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=PT) — hard/official |
+| Median net monthly salary | ~€1,150 (~$1,250) | [Numbeo](https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105) [soft/estimate] |
+| Cost of living index | 41.2 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | €917 (city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Portugal) [soft/estimate] |
+| Effective personal tax rate for remote workers | 20% under IFICI (NHR 2.0), or progressive 14.5%–48% | [Portutax](https://www.portutax.com/news/nhr-20-in-portugal-what-the-ifici-regime-means-for-expats-in-2026-81) [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — D8 Digital Nomad Visa (€3,680/mo) | See [[#digital-nomad-visa]] |
+| Years to citizenship | 10 years (7 for EU/CPLP nationals) | See [[#citizenship]] |
+| Maximum permitted absence during residence | Golden Visa: 7 days/yr1 + 14 days/2yr; D7/D8: generally 6–8 months continuous absence breaks PR clock | See [[#investment-residency]] and [[#passive-income-residency]] |
+| Passport strength after citizenship | 188 visa-free destinations (Henley Q3 2025, rank 4) | [Henley & Partners](https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025) — hard/official |
+| Rule of Law Index | 0.69 (rank 28/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 96/100 (Free) | [Freedom House](https://freedomhouse.org/country/portugal/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | 2,799 h (Lisbon) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~16 °C (Lisbon; cooler inland north) | [Wikipedia / IPMA](https://en.wikipedia.org/wiki/Portugal#Climate) — hard/official |
+
+## Country Card
+
+### General description
+Portugal is a southern European country on the Iberian Peninsula, bordered by Spain and the Atlantic Ocean. It has a service-based economy with strong tourism, a growing tech sector, and one of the lowest costs of living in Western Europe. Portugal is among the most popular EU destinations for expats and remote workers, offering multiple residence pathways (D7 passive income, D8 digital nomad, Golden Visa investment fund route) with moderate income thresholds and a clear — if recently lengthened — path to citizenship.
+
+### Well-known strong points
+- Lowest passive-income residence threshold in Western Europe (D7: €920/mo)
+- High visa-free passport strength (188 destinations)
+- Safe, politically stable parliamentary democracy (FH 96/100)
+- Very high sunshine hours (2,799h Lisbon) and mild climate
+- Moderate cost of living (Numbeo index 41.2) with good quality of life
+- A2 Portuguese language requirement for citizenship — lowest in EU
+
+### Well-known problems
+- Citizenship now requires 10 years of residence (up from 5, reformed May 2026)
+- AIMA immigration agency backlogs: 6–9 month processing times common
+- Bureaucratic inefficiency and slow public administration
+- Rising housing costs in Lisbon, Porto, and Algarve driven by foreign demand
+- Low median salary (~€1,150/mo net) relative to EU average
+- NHR tax regime closed to new applicants (replaced by narrower IFICI)
+
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Nationality law 10-year clock (Lei Orgânica 1/2026, 19 May 2026). AIMA Portal de Renovações operational (Jul 2026). NHR closed, IFICI active. Golden Visa real estate closed since Oct 2023.

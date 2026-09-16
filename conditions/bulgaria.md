@@ -87,6 +87,52 @@ Black Sea coastline (Varna, Burgas). Danube River. Yacht registration under Bulg
 ## Notes for RU Citizens
 Bulgaria is one of the most RU-friendly EU countries: Cyrillic alphabet, cultural/historical ties, significant Russian-speaking community (especially in coastal areas and Sofia). The Golden Visa fund route (€512K) is accessible. The new DN visa (€2,300/mo) is also open. Bulgarian language (Slavic) is relatively accessible for Russian speakers. Banking for RU nationals may face enhanced due diligence but is generally more accessible than in Western EU.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~6,465,000 | ^[https://freedomhouse.org/country/bulgaria/freedom-world/2025] hard/official |
+| Main religion | Bulgarian Orthodox Christianity (60%) | ^[https://www.cia.gov/the-world-factbook/countries/bulgaria/] hard/official |
+| Main language | Bulgarian (official; Cyrillic script) | ^[https://www.cia.gov/the-world-factbook/countries/bulgaria/] hard/official |
+| Main city | Sofia (capital, ~1.3 million) | ^[https://en.wikipedia.org/wiki/Bulgaria] hard/official |
+| On the coast? | Yes — Black Sea coastline (Varna, Burgas) | [soft/estimate] |
+| Tourism impact in season | Medium–high — Black Sea resorts (summer); ski tourism (winter); Sofia year-round | [soft/estimate] |
+| GDP per capita (PPP) | $41,520 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=BG] hard/official |
+| Median net monthly salary | ~€1,100 | ^[https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105] [soft/estimate] |
+| Cost of living index (relative, base note) | 35.4 (Numbeo 2025; 64.6% below NYC baseline) | ^[https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~€350–500 (Sofia city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Bulgaria] [soft/estimate] |
+| Effective personal tax rate for remote workers | 10% flat income tax (joint EU-lowest); 14% employee social; 19% employer; 5% dividend tax | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Bulgaria] [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Digital Nomad Residence Permit (since Dec 2025; ~€2,300/mo — lowest EU threshold) | Consistent with [[#digital-nomad-visa]]; [soft/estimate] |
+| Years to citizenship | 5 years of permanent residence (fastest EU path via investment) | Consistent with [[#citizenship]]; hard/official |
+| Maximum permitted absence during residence | Standard PR requirements; Golden Visa fund route has no minimum stay | Consistent with [[#investment-residency]]; [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 177 destinations | ^[https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025] hard/official |
+| Rule of Law Index | 0.56 (rank 59/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 77/100 Free | ^[https://freedomhouse.org/country/bulgaria/freedom-world/2025] hard/official |
+| Average annual sunshine hours | 2,035 (Sofia) | ^[https://en.wikipedia.org/wiki/List_of_cities_in_Europe_by_sunshine_duration] hard/official |
+| Average annual temperature | ~10.6°C (Sofia) | ^[https://en.wikipedia.org/wiki/Sofia#Climate] hard/official |
+
+## Country Card
+
+Bulgaria is an EU member (since 2007) and full Schengen member since January 2025. It offers the EU's joint-lowest income tax (10% flat) and cost of living, with one of the fastest citizenship paths: 5 years of permanent residence. Its Golden Visa fund route (€512,000) grants immediate permanent residence, while a €312,000 property route provides temporary residence. The digital nomad visa launched in December 2025 has the EU's lowest income threshold (~€2,300/month). Bulgarian uses the Cyrillic script — a barrier for Latin-alphabet users but accessible for Russian speakers. The country ranks among the EU's weakest on rule of law (0.56) and Freedom House (77).
+
+### Well-known strong points
+- Joint-lowest EU income tax (10% flat) and corporate tax (10%); 5% dividend tax
+- Fastest EU citizenship path: 5 years PR (via Golden Visa fund route)
+- Golden Visa fund route (€512K) grants immediate permanent residence from day one
+- Digital Nomad visa with EU's lowest income threshold (~€2,300/month)
+- Lowest cost of living in the EU (65% below NYC); Sofia rent among Europe's cheapest
+- Cyrillic script and Slavic language — accessible for Russian/Ukrainian/Belarusian speakers
+
+### Well-known problems
+- Lowest GDP per capita in the EU ($41,520 PPP); lowest average wages
+- Weak rule of law (WJP 0.56, rank 59) and corruption concerns (Freedom House 77)
+- Bulgarian language (Cyrillic alphabet) challenging for non-Slavic speakers; B1 required for citizenship
+- DN visa launched December 2025 — very limited track record; no PR path from DN alone
+- Dual citizenship for naturalized citizens may require renunciation
+- Golden Visa fund route (€512K) is more expensive than comparable programs
+
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Digital Nomad Visa launched Dec 2025. Full Schengen membership Jan 2025. Golden Visa thresholds unchanged.

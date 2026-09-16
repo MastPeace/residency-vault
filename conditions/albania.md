@@ -126,3 +126,47 @@ Albania is an up-and-coming destination, particularly among digital nomads attra
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Unique Permit framework in place. Albania's EU accession negotiations formally opened.
 - **Watch items**: EU accession progress. Potential formalization of a standalone digital nomad visa category separate from the Unique Permit.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~2,350,000 (2025) | ^[https://data.worldbank.org/country/albania] hard/official |
+| Main religion | Islam (~59%), Christianity (~17% Catholic, ~7% Orthodox) | ^[https://www.cia.gov/the-world-factbook/countries/albania/] hard/official |
+| Main language | Albanian (official) | ^[https://www.cia.gov/the-world-factbook/countries/albania/] hard/official |
+| Main city (capital) | Tirana (pop. ~520,000) | ^[https://data.worldbank.org/country/albania] hard/official |
+| On the coast? | Yes — Adriatic and Ionian Seas (~450 km coastline) | Geography — hard |
+| Tourism impact in season | Medium — Albanian Riviera growing; not yet mass-tourism | [soft/estimate] |
+| GDP per capita (PPP) | ~$18,900 (2025 CIA) | ^[https://worldfactbookarchive.org/archive/2025/AL] hard/official |
+| Median net monthly salary | ~€450 (2025) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Albania] [soft/estimate] |
+| Cost of living index | Very low (~35, Numbeo; among cheapest in Europe) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Albania] [soft/estimate] |
+| Monthly rent, 1-bedroom apt | ~€300 (Tirana) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Albania] [soft/estimate] |
+| Effective tax for remote workers | ~13–23% progressive PIT + ~28% social (Unique Permit holders) | ^[https://wise.com/gb/blog/albania-digital-nomad-visa] [soft/estimate] |
+| Remote-work / self-employment residence? | Yes — Unique Permit (Leje Unike) for remote workers, income ≥€9,800/yr | From page — hard |
+| Years to citizenship | 5 years | ^[https://ybcase.com/en/company-services/visa/polucit-digital-nomad-vizu-v-albanii] hard/official |
+| Maximum permitted absence | Not specified (standard continuous residence applies) | From page — [soft/estimate] |
+| Passport visa-free count | 75 (Passport Index 2026) | ^[https://www.passportindex.org/passport/albania] hard/official |
+| Rule of Law Index (WJP 2024) | 0.49 (rank 85/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score (2025) | 68/100 — Partly Free | ^[https://freedomhouse.org/country/albania/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,500 (Tirana / coast) | ^[https://en.wikipedia.org/wiki/Tirana#Climate] hard/official |
+| Average annual temperature | ~16°C (Tirana / coast) | ^[https://en.wikipedia.org/wiki/Tirana#Climate] hard/official |
+
+## Country Card
+
+Albania is a Mediterranean Balkan country with ~450 km of Adriatic and Ionian coastline, an EU candidate and NATO member. Its standout residency feature is the Unique Permit (Leje Unike) — a combined residence + work authorization that functions as Europe's most affordable digital nomad visa: income threshold of just €9,800/year, renewable up to 5 years, leading to citizenship in just 5 years (the fastest in Europe alongside Kosovo). Dual citizenship is permitted.
+
+### Well-known strong points
+- Europe's lowest DN visa income threshold (~€9,800/year) — highly accessible
+- Fastest citizenship path along with Kosovo: 5 years; dual citizenship permitted
+- Very low cost of living (~€800–1,200/month for comfortable lifestyle)
+- Mediterranean climate with ~2,500 sunshine hours/year
+- Growing DN community in Tirana; beautiful Albanian Riviera coastline
+- Euro widely accepted alongside Albanian Lek
+
+### Well-known problems
+- Very low domestic wages and limited local job market
+- Bureaucracy and infrastructure gaps outside Tirana
+- Rule of Law weak (WJP 0.49); corruption perception remains high
+- No formal golden visa or separate investment-residence category
+- Type D visa usually required before arrival for long-term stay
+- Limited international flight connectivity compared to regional hubs

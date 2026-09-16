@@ -93,6 +93,52 @@ El Salvador has a Pacific coastline but no significant yacht registration framew
 - No standout "easy" programme — temporary chain required; naturalization 5+ years for non-Latin Americans.
 - Expat communities growing in El Tunco, Santa Ana, and San Salvador.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~6,400,000 (2024) | [World Bank](https://data.worldbank.org/country/el-salvador) — hard/official |
+| Main religion | Christianity (Roman Catholic ~44%, Evangelical Protestant ~37%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/el-salvador/) — hard/official |
+| Main language | Spanish (official); Nawat (Pipil) spoken by small minority | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/el-salvador/) — hard/official |
+| Main city (capital or largest) | San Salvador | [Wikipedia](https://en.wikipedia.org/wiki/San_Salvador) — hard/official |
+| On the coast? | Yes (Pacific Ocean; ~307 km coastline) | Geographical fact [soft/estimate] |
+| Tourism impact in season | Medium — surf tourism (El Tunco, La Libertad); growing since security improvements | [soft/estimate] |
+| GDP per capita (PPP) | ~$12,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=SV) — hard/official |
+| Median net monthly salary | ~$450 (dollarized economy) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=El+Salvador) [soft/estimate] |
+| Cost of living index | 34.6 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$400 (San Salvador) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=El+Salvador) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% on foreign-source income (territorial system) | See [[#tax]] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; Pensionado/Rentista ($1,224+/mo) covers passive income | See [[#passive-income-residency]] |
+| Years to citizenship | 5+ years (1 year for Spanish/Latin Americans after permanent residence) | See [[#citizenship]] |
+| Maximum permitted absence during residence | 5 consecutive years absence revokes naturalization; 2 years residence in origin country may revoke | See [[#citizenship]] |
+| Passport strength after citizenship | ~131 visa-free destinations (Henley Q3 2025) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.44 (rank 96/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 56/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/el-salvador/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,900 h | [Wikipedia / Climate](https://en.wikipedia.org/wiki/El_Salvador#Climate) — hard/official |
+| Average annual temperature | ~25 °C (coastal lowlands; cooler in highlands) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/El_Salvador#Climate) — hard/official |
+
+## Country Card
+
+### General description
+El Salvador is the smallest and most densely populated country in Central America, with a Pacific coastline known for world-class surf breaks. It made global headlines in 2021 by adopting Bitcoin as legal tender alongside the US dollar (the economy is fully dollarized). The dramatic security improvements under President Bukele since 2022 have transformed the country's reputation, boosting tourism and expat interest. El Salvador offers a territorial tax system and pensionado/rentista residence at US$1,224+/month, though residency is temporary (not permanent on first grant). The citizenship path varies significantly by nationality: 5+ years for most, but Spanish and Latin Americans benefit from accelerated timelines (as little as 2 years).
+
+### Well-known strong points
+- Bitcoin legal tender (alongside USD) — crypto-friendly legal framework
+- Dramatic security improvements since 2022; homicide rate dropped precipitously
+- Territorial tax system: no tax on foreign-source income
+- Dollarized economy eliminates currency risk
+- Accelerated citizenship path for Spanish and Latin Americans (2 years total)
+- Good passport: ~131 visa-free destinations including Schengen
+
+### Well-known problems
+- Residency is temporary-only (not permanent on first grant); requires chain of renewals
+- Dual bureaucracy: DGME (residence) + Ministry of Labor (work permit) — two separate processes
+- Constitutional concerns: state of exception powers, judicial independence questioned
+- Weak rule of law (WJP 0.44); Freedom House downgraded to Partly Free (56/100)
+- Spanish essential; very limited English outside tourist surf towns
+- No dedicated digital nomad visa despite crypto-friendly positioning
 ## Status
 - Last change: March 2026 — bill to amend Special Law on Migration and Foreigners submitted to Legislative Assembly; proposed changes to temporary residence and naturalization provisions pending.
 - Last monitored: 2026-09-14.

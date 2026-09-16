@@ -113,3 +113,47 @@ Algeria is effectively closed to individual residency seekers. There are no inve
 - **Last monitored**: 2026-09-13
 - **Recent changes**: No significant residency reform. Investment code updated but does not address residency. Visa policy unchanged.
 - **Watch items**: Potential investment law reforms (unlikely to impact residency significantly). Dinar convertibility — no timeline.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~47,435,000 | ^[https://data.worldbank.org/country/algeria] hard/official |
+| Main religion | Islam (Sunni; ~99%) | ^[https://www.cia.gov/the-world-factbook/countries/algeria/] hard/official |
+| Main language | Arabic (official); Tamazight (national); French widely used | ^[https://www.cia.gov/the-world-factbook/countries/algeria/] hard/official |
+| Main city | Algiers (capital and largest) | ^[https://www.cia.gov/the-world-factbook/countries/algeria/] hard/official |
+| On the coast? | Yes — Mediterranean Sea | hard/official |
+| Tourism impact in season | Low — underdeveloped tourism sector; limited foreign visitors | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Algeria] [soft/estimate] |
+| GDP per capita (PPP) | ~$17,000 (2024) | ^[https://www.imf.org/en/Publications/WEO] hard/official |
+| Median net monthly salary | ~$250–$400 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Algeria] [soft/estimate] |
+| Cost of living index | 20.8 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Algeria] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$150–$300 (Algiers city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Algeria] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~0–35% (progressive; top bracket 35% above ~$25K) | ^[https://www.mfdgi.gov.dz/] [soft/estimate] |
+| Remote-work / self-employment residence available? | Not available — no dedicated DN visa; self-employment extremely restricted for foreigners | ^[https://www.mae.gov.dz/] [soft/estimate] |
+| Years to citizenship | 7 years continuous residence; Arabic proficiency; discretionary | ^[https://www.mae.gov.dz/] [soft/estimate] |
+| Maximum permitted absence during residence | Varies; generally 6 months | ^[https://www.mae.gov.dz/] [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 55 (Henley, 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | ~0.49 (2024 est.) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 31/100 — Not Free (2025) | ^[https://freedomhouse.org/country/algeria/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,800 (coastal); ~3,500 (Sahara) | ^[https://weatherspark.com/countries/DZ] hard/official |
+| Average annual temperature | ~18°C (coastal); hotter inland | ^[https://weatherspark.com/countries/DZ] hard/official |
+
+## Country Card
+
+Algeria is Africa's largest country by area and the continent's fourth-largest economy, driven by hydrocarbons (oil and gas). The population of ~47 million is concentrated along the Mediterranean coast. Despite its size and resource wealth, Algeria remains one of the world's most closed economies: strict currency controls, an opaque business environment, and virtually no self-employment pathways for foreigners. Citizenship is technically possible after 7 years of residence but is rarely granted in practice. French is widely spoken in business and education. The dinar is non-convertible, and capital controls are severe.
+
+### Well-known strong points
+- Very low cost of living — among the cheapest in the Mediterranean and Arab world
+- Massive hydrocarbon wealth funds generous state subsidies (fuel, food, housing)
+- Large domestic market (~47M population) — the biggest in North Africa
+- Mediterranean coastline with significant undeveloped tourist potential
+- French widely spoken — accessible to Francophone professionals and businesses
+- Relatively stable security situation compared to Libya/Sahel neighbours
+
+### Well-known problems
+- Extremely closed economy — non-convertible dinar, strict capital controls, import restrictions
+- No remote-work or self-employment visa — one of the least accessible countries for independent foreigners
+- Citizenship rarely granted in practice despite 7-year legal pathway
+- Heavy bureaucracy and opaque decision-making; widespread corruption
+- Freedom House 31/100 — restricted political freedoms, controlled media, weak civil society
+- Underdeveloped tourism and services sector — limited expatriate amenities outside Algiers

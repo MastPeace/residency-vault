@@ -84,6 +84,52 @@ Not applicable — Slovakia is landlocked.
 ## Notes for RU Citizens
 Russian citizens need a Schengen visa. Blue Card and work permit routes are formally open but face enhanced scrutiny. Slovak language requirement for citizenship is demanding (B1+ level). Small Russian-speaking community, mostly in Bratislava. Slovakia's political stance toward Russia is aligned with EU/NATO.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~5,460,000 | ^[https://www.cia.gov/the-world-factbook/countries/slovakia/] hard/official |
+| Main religion | Roman Catholicism (56%) | ^[https://www.cia.gov/the-world-factbook/countries/slovakia/] hard/official |
+| Main language | Slovak (official) | ^[https://www.cia.gov/the-world-factbook/countries/slovakia/] hard/official |
+| Main city | Bratislava (capital, ~660,000 metro) | ^[https://en.wikipedia.org/wiki/Slovakia] hard/official |
+| On the coast? | No — landlocked | [soft/estimate] |
+| Tourism impact in season | Low–medium — High Tatras, Bratislava; less seasonal pressure than Mediterranean | [soft/estimate] |
+| GDP per capita (PPP) | $47,181 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=SK] hard/official |
+| Median net monthly salary | ~€1,250 | ^[https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105] [soft/estimate] |
+| Cost of living index (relative, base note) | 42.1 (Numbeo 2025; 57.9% below NYC baseline) | ^[https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~€550–700 (Bratislava city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Slovakia] [soft/estimate] |
+| Effective personal tax rate for remote workers | 19% (up to ~€41,500) / 25% above; 13.4% social+health; 7% dividend tax | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Slovakia] [soft/estimate] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; trade license (živnosť) route for self-employed; EU Blue Card | Consistent with [[#digital-nomad-visa]]; [soft/estimate] |
+| Years to citizenship | 8 years of permanent residence (after 5 years to obtain PR) | Consistent with [[#citizenship]]; hard/official |
+| Maximum permitted absence during residence | Continuous permanent residence required for citizenship clock | Consistent with [[#citizenship]]; [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 183 destinations | ^[https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025] hard/official |
+| Rule of Law Index | 0.66 (rank 34/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 89/100 Free | ^[https://freedomhouse.org/country/slovakia/freedom-world/2025] hard/official |
+| Average annual sunshine hours | 2,056 (Bratislava) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Bratislava,Slovakia] hard/official |
+| Average annual temperature | ~10.5°C (Bratislava) | ^[https://en.wikipedia.org/wiki/Bratislava#Climate] hard/official |
+
+## Country Card
+
+Slovakia is a landlocked EU/Schengen/Eurozone member in Central Europe with a strong automotive manufacturing sector and growing IT industry. It offers the EU's longest Blue Card validity (5 years) with fast 30-day processing and no labor market test since July 2024. There is no dedicated digital nomad visa, but the trade license (živnosť) route provides a self-employment path. Citizenship requires 8 years of permanent residence plus Slovak language proficiency, and dual citizenship is generally not permitted. Slovakia adopted the euro in 2009 and has one of the EU's most competitive tax systems: 19% flat rate up to ~€41,500.
+
+### Well-known strong points
+- EU Blue Card with 5-year validity — the longest in the EU; 30-day processing
+- Flat income tax: 19% up to ~€41,500, 25% above; 7% dividend tax
+- No labor market test for Blue Card since July 2024
+- Low cost of living (58% below NYC); competitive rent in Bratislava
+- Eurozone member; strong automotive and manufacturing export base
+- Central European location; good connectivity to Vienna, Budapest, Prague
+
+### Well-known problems
+- No dedicated digital nomad or passive-income visa — limited options for remote workers
+- 8 years of permanent residence for citizenship (effectively ~13 years total from arrival)
+- Slovak language proficiency required for citizenship — a West Slavic language
+- Dual citizenship generally not permitted — renunciation required
+- Landlocked — no coastline; no yachting infrastructure
+- Trade license route requires Slovak-language business setup
+
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: July 2024 — no labor market test for Blue Card (only vacancy reporting). July 2025 — changes to visa/residence legislation.

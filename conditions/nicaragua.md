@@ -87,6 +87,52 @@ Nicaragua has both Caribbean and Pacific coasts. Maritime infrastructure limited
 - Expat sentiment: significantly disappointed. Many considering alternatives (Guatemala rentista, Panama pensionado).
 - Processing time for initial residency: 2–8 months depending on route.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~7,000,000 (2024) | [World Bank](https://data.worldbank.org/country/nicaragua) — hard/official |
+| Main religion | Christianity (Roman Catholic ~50%, Evangelical Protestant ~33%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/nicaragua/) — hard/official |
+| Main language | Spanish (official); indigenous languages on Caribbean coast | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/nicaragua/) — hard/official |
+| Main city (capital or largest) | Managua | [Wikipedia](https://en.wikipedia.org/wiki/Managua) — hard/official |
+| On the coast? | Yes (Pacific Ocean + Caribbean Sea; ~910 km coastline) | Geographical fact [soft/estimate] |
+| Tourism impact in season | Low–Medium — Granada, San Juan del Sur, Corn Islands are modest seasonal destinations | [soft/estimate] |
+| GDP per capita (PPP) | ~$7,600 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=NI) — hard/official |
+| Median net monthly salary | ~C$ 10,000 (~$275) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Nicaragua) [soft/estimate] |
+| Cost of living index | 28.4 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$250 (Granada/Managua) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Nicaragua) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% on foreign-source income (territorial system) | See [[#tax]] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; Rentista ($750/mo, age 45+) available | See [[#passive-income-residency]] |
+| Years to citizenship | 7 years permanent residence (up from 4 years pre-2024 reform) | See [[#citizenship]] |
+| Maximum permitted absence during residence | Annual renewal required; absence rules tightening under 2024 reform | [soft/estimate] |
+| Passport strength after citizenship | ~122 visa-free destinations (Henley Q3 2025) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.35 (rank 131/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 25/100 (Not Free) | [Freedom House](https://freedomhouse.org/country/nicaragua/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,700 h | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Nicaragua#Climate) — hard/official |
+| Average annual temperature | ~27 °C (lowlands; cooler in highlands) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Nicaragua#Climate) — hard/official |
+
+## Country Card
+
+### General description
+Nicaragua is the largest country in Central America by area, with both Caribbean and Pacific coastlines. It was once considered the world's best-value pensionado destination, offering permanent residence with a US$600/month pension threshold and a 4-year citizenship path. However, the November 2024 immigration reform (Law No. 1228) fundamentally downgraded the programme: pensionado and rentista residencies are now TEMPORARY only, tax benefits were repealed, and naturalization was extended to 7 years. The country still offers the lowest income thresholds ($600 pensionado / $750 rentista) and has a territorial tax system, but the programme's attractiveness has significantly diminished.
+
+### Well-known strong points
+- Lowest pensionado threshold in the world: US$600/month
+- Visa-free entry for many nationalities including Russia (90-day tourist card $10)
+- Very low cost of living (Numbeo index 28.4)
+- Territorial tax system: foreign-source income generally not taxed
+- Beautiful colonial cities (Granada, León) and Pacific surf (San Juan del Sur)
+- Dual citizenship de facto recognized
+
+### Well-known problems
+- November 2024 reform (Law No. 1228) eliminated permanent residence for pensionados/rentistas — temporary only now
+- Tax benefits under Law No. 694 repealed; naturalization extended from 4 to 7 years
+- Very weak rule of law (WJP 0.35, rank 131/142); Freedom House rated "Not Free" (25/100)
+- Authoritarian political environment; risk of further programme restrictions
+- No digital nomad visa; rentista requires age 45+
+- Healthcare quality poor; medical evacuation may be needed
 ## Status
 - Last change: November 2024 — Law No. 1228 (Immigration Reform): pensionado/rentista → temporary only; permanent residence pathway via 3 consecutive years eliminated; naturalization extended to 7 years; Law No. 694 (tax benefits) repealed.
 - Last monitored: 2026-09-14.

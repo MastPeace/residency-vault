@@ -107,3 +107,47 @@ Iceland applies EEA-aligned sanctions against Russia. The extremely small size o
 - **Last monitored**: 2026-09-13
 - **Recent changes**: New residence and work permit rules took effect (announced 2026). Updated processing procedures. No major immigration reform.
 - **Watch items**: Monitor the "legitimate and special purpose" permit usage trends. Track any expansion of work permit categories. Watch for citizenship residence requirement changes.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~393,000 (2024) | ^[https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IS] hard/official |
+| Main religion | Christianity (Lutheran — Church of Iceland) | ^[https://www.cia.gov/the-world-factbook/countries/iceland/] hard/official |
+| Main language | Icelandic | ^[https://www.cia.gov/the-world-factbook/countries/iceland/] hard/official |
+| Main city (capital or largest) | Reykjavík | ^[https://www.cia.gov/the-world-factbook/countries/iceland/] hard/official |
+| On the coast? | Yes — island nation, extensive coastline | geographical fact |
+| Tourism impact in season | High — overtourism May–Sep, concentrated in Reykjavík/Golden Circle/South Coast | [soft/estimate] |
+| GDP per capita (PPP) | ~$73,700 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=IS] hard/official |
+| Median net monthly salary | ~ISK 550,000 (~€3,650) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Iceland] [soft/estimate] |
+| Cost of living index (relative to NYC=100) | ~88 (Numbeo) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Iceland] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~ISK 180,000 (city centre) / ~ISK 150,000 (outside) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Iceland] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~31–38% progressive; 25% tax deduction for foreign experts (3 yr) | ^[https://www.skatturinn.is/english/individuals/foreign-experts] [soft/estimate] |
+| Remote-work / self-employment residence available? | No — remote work for foreign employers is not a basis for residence | per page residency sections |
+| Years to citizenship | 7 years | ^[https://island.is/en/citizenship] hard/official |
+| Maximum permitted absence during residence | Not explicitly stated; continuous residence required | per page residency sections |
+| Passport strength after citizenship (visa-free count) | 181 destinations (Henley 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.85 (WJP 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/global] hard/official |
+| Freedom House score | 94/100 (Free) | ^[https://freedomhouse.org/country/iceland/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~1,268 (Reykjavík) | ^[https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php] hard/official |
+| Average annual temperature | ~4.5°C (Reykjavík) | ^[https://en.vedur.is/] hard/official |
+
+## Country Card
+
+Iceland is a sparsely populated North Atlantic island nation with a very small but high-income economy, powered by renewable geothermal and hydroelectric energy. It is an EEA/Schengen member but not EU, with a strong passport (181 visa-free destinations). Immigration is work-centric with very limited pathways: no golden visa, digital nomad visa, or passive-income route exists. The 7-year citizenship path requires Icelandic language proficiency — one of Europe's most difficult languages for learners. Iceland offers dramatic natural beauty, very low crime, and one of the world's highest qualities of life, but its tiny labour market and geographic isolation limit practical immigration options.
+
+### Well-known strong points
+- Exceptional natural environment: volcanoes, glaciers, geothermal springs, Northern Lights
+- Very low crime rate and high social trust
+- 100% renewable electricity (geothermal + hydro)
+- Low tuition for university (ISK ~75,000/year registration fee for all students, including non-EEA)
+- Foreign expert tax deduction: 25% of salary tax-exempt for first 3 years
+- Dual citizenship permitted since 2003
+
+### Well-known problems
+- Extremely limited residence pathways — no golden visa, nomad visa, passive-income, or formal entrepreneur route
+- Icelandic language is exceptionally difficult (A2/B1 required for citizenship)
+- Very high cost of living — among the highest in Europe
+- Tiny labour market (~200,000 workers) with limited job opportunities outside tourism/fishing/energy
+- Harsh climate: cold, dark winters (~1,268 sunshine hours/year in Reykjavík)
+- Overtourism pressure in peak season strains infrastructure and housing

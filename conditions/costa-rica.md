@@ -147,4 +147,47 @@ Pacific and Caribbean coastlines make Costa Rica a notable yachting destination 
 ## Status
 - Last change: Digital Nomad Visa (Law No. 10008) enacted 2021, fully operational.
 - Last monitored: 2026-09-14.
-- Watch: DGME processing delays; potential Caja contribution reform.
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~5,200,000 (2024) | [World Bank](https://data.worldbank.org/country/costa-rica) — hard/official |
+| Main religion | Roman Catholicism (~47%); Protestant/Evangelical (~25%); Unaffiliated (~25%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/costa-rica/) — hard/official |
+| Main language | Spanish (official) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/costa-rica/) — hard/official |
+| Main city (capital or largest) | San José (capital; ~1.4M metro) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/costa-rica/) — hard/official |
+| On the coast? | Yes — Pacific (west) and Caribbean (east); ~1,290 km coastline | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — eco-tourism, beaches; peak Dec–Apr (dry season), Jul–Aug | [soft/estimate] |
+| GDP per capita (PPP) | ~$28,000 (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=CR) — hard/official |
+| Median net monthly salary | ~$600–700 USD (CRC ~380,000) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Costa+Rica) [soft/estimate] |
+| Cost of living index | 47.5 (NYC=100, Numbeo 2025) — highest in Central America | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$550 (San José city centre, CRC ~320,000) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Costa+Rica) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% on foreign-source income (territorial tax system); Caja (CCSS) mandatory contributions ~7–12% of declared income | [Hacienda CR](https://www.hacienda.go.cr) [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Digital Nomad Visa (Estancia para Trabajadores Remotos): $3,000/mo solo/$4,000 family, 1+1 year, tax-free foreign income; does NOT count toward residency; Pensionado ($1,000/mo) and Rentista ($2,500/mo) for permanent path | See [[#digital-nomad-visa]] |
+| Years to citizenship | 5 years (Ibero-American/Spanish by birth); 7 years (others); 2 years (spouses of Costa Ricans) | See [[#citizenship]] |
+| Maximum permitted absence during residence | Not strictly defined; continuous residence expected for naturalization | See [[#citizenship]] |
+| Passport strength after citizenship | 149 visa-free destinations (Henley Q3 2025, rank 27) | [Henley & Partners](https://www.henleyglobal.com/publications/global-mobility-report/2025-july) — hard/official |
+| Rule of Law Index | 0.70 (rank 29/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 91/100 (Free) | [Freedom House](https://freedomhouse.org/country/costa-rica/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,000 h (San José, Central Valley); 2,500+ h (Pacific coast, Guanacaste) | [Current Results](https://www.currentresults.com/Weather/Costa-Rica/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~22 °C (San José, Central Valley — "eternal spring"); 27–30 °C (coastal lowlands) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/costa-rica/) — hard/official |
+
+## Country Card
+
+### General description
+Costa Rica is a small Central American country between the Pacific and Caribbean, known for its political stability, biodiversity, and "pura vida" lifestyle. It is the only country in the world without a standing military (abolished 1948). Costa Rica offers a well-structured residency system: the legendary Pensionado visa ($1,000/mo — one of the world's best-known retiree programs), Rentista ($2,500/mo), Inversionista ($200,000), and a Digital Nomad Visa ($3,000/mo, 1+1 year). Citizenship takes 5 years (Ibero-Americans/Spanish) or 7 years (others). Costa Rica has a territorial tax system (0% foreign income) and consistently ranks among the region's best in rule of law and freedom.
+
+### Well-known strong points
+- No military since 1948 — long history of peace, stability, and democratic governance
+- Territorial tax system: 0% tax on foreign-source income
+- Legendary Pensionado visa: $1,000/mo lifetime pension → residency, with extensive senior discounts
+- High rule of law (WJP 0.70) and freedom (FH 91/100) — top tier in Latin America
+- Exceptional biodiversity and eco-tourism — 25% of territory is protected
+- Strong passport: 149 visa-free destinations, Schengen access
+
+### Well-known problems
+- Highest cost of living in Central America (Numbeo 47.5) — comparable to southern Europe
+- Digital Nomad visa income thresholds are high ($3,000/mo solo, $4,000 family) and DN time does NOT count toward residency
+- Caja (CCSS) mandatory contributions: ~7–12% of declared income — a significant hidden cost for residents
+- Bureaucracy is slow: residency approvals take 12–15 months on average
+- Long citizenship timeline for non-Ibero-Americans: 7 years
+- Internet and infrastructure quality variable outside Central Valley and tourist zones

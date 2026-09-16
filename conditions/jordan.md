@@ -139,3 +139,47 @@ Jordan's investment residency and citizenship programmes are functional and well
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Cabinet amended investor citizenship/residency bylaws (Jul 2026). New routes: JD 500K project outside Amman; JD 700K in Amman. Property residency thresholds adjusted. 681 total naturalizations since 2018 programme launch.
 - **Watch items**: Continued reform of investment thresholds. Potential introduction of digital nomad or retirement visa.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~11,520,000 | ^[https://data.worldbank.org/country/jordan] hard/official |
+| Main religion | Islam (Sunni; ~97%) | ^[https://www.cia.gov/the-world-factbook/countries/jordan/] hard/official |
+| Main language | Arabic | ^[https://www.cia.gov/the-world-factbook/countries/jordan/] hard/official |
+| Main city | Amman (capital and largest) | ^[https://www.cia.gov/the-world-factbook/countries/jordan/] hard/official |
+| On the coast? | Yes — small Red Sea coastline (Aqaba, ~27 km) | hard/official |
+| Tourism impact in season | Medium — Petra and Dead Sea draw year-round; peak spring and autumn | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Jordan] [soft/estimate] |
+| GDP per capita (PPP) | ~$13,000 (2024) | ^[https://www.imf.org/en/Publications/WEO] hard/official |
+| Median net monthly salary | ~$500–$700 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Jordan] [soft/estimate] |
+| Cost of living index | 36.2 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Jordan] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$250–$450 (Amman city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Jordan] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~5–25% (progressive; top bracket 25%) | ^[https://www.istd.gov.jo/] [soft/estimate] |
+| Remote-work / self-employment residence available? | Partially — investor residency (JD 500K+ project); property residency; no dedicated DN visa yet | ^[https://www.moi.gov.jo/] [soft/estimate] |
+| Years to citizenship | 15 years residence (non-Arab); 4 years for Arab nationals; investment route available | ^[https://www.moi.gov.jo/] [soft/estimate] |
+| Maximum permitted absence during residence | Typically 6 months/year | ^[https://www.moi.gov.jo/] [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 49 (Henley, Sep 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.55 (rank 61/142, 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 34/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/jordan/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~3,100 | ^[https://weatherspark.com/countries/JO] hard/official |
+| Average annual temperature | ~18°C (Amman; varies with elevation) | ^[https://weatherspark.com/countries/JO] hard/official |
+
+## Country Card
+
+Jordan is a stable constitutional monarchy in the Levant, bordered by Israel, Syria, Iraq, and Saudi Arabia. It lacks oil wealth but has positioned itself as a regional hub for IT, medical tourism, and expatriate living. The cost of living is among the lowest in the Middle East, and Amman has a growing startup scene. Jordan offers citizenship pathways — 15 years for non-Arabs, 4 years for Arab nationals, and investment-based routes (JD 500K–700K). The country hosts a large refugee population (Palestinian, Syrian, Iraqi) that shapes its demographic and economic landscape.
+
+### Well-known strong points
+- Low cost of living — one of the most affordable countries in the Middle East
+- Citizenship pathway exists: naturalization possible (15 years) and investment routes available
+- Political stability in a volatile region — constitutional monarchy with relative predictability
+- Strategic location: access to Gulf, Levant, and North African markets
+- English widely spoken among educated population; strong IT/BPO sector
+- Rich history and tourism: Petra, Wadi Rum, Dead Sea, Jerash
+
+### Well-known problems
+- Weak passport (49 visa-free) — Jordanian citizenship adds limited mobility
+- Low salaries (median ~$500–700/mo) — limited domestic earning potential for professionals
+- High unemployment (~22%), especially among youth and graduates
+- Water scarcity is severe — one of the world's most water-poor countries
+- Heavy refugee burden strains infrastructure, education, and labour market
+- Bureaucracy and wasta (connections) culture impede business efficiency

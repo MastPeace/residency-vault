@@ -91,6 +91,52 @@ The Bahamas is a major yacht and maritime hub — one of the world's largest shi
 - Bahamas is a tax haven — popular with those who have substantial offshore wealth and don't need local citizenship.
 - Expats generally satisfied with quality of life but frustrated with immigration bureaucracy.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~403,000 (2024) | [World Bank](https://data.worldbank.org/country/bahamas-the) — hard/official |
+| Main religion | Christianity (Protestant ~69%, Roman Catholic ~12%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/bahamas-the/) — hard/official |
+| Main language | English (official); Bahamian Creole widely spoken | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/bahamas-the/) — hard/official |
+| Main city (capital or largest) | Nassau | [Wikipedia](https://en.wikipedia.org/wiki/Nassau,_Bahamas) — hard/official |
+| On the coast? | Yes (archipelago of 700+ islands; extensive coastline) | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — peak Dec–Apr; cruise tourism dominant; Nassau/Paradise Island highly seasonal | [soft/estimate] |
+| GDP per capita (PPP) | ~$43,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=BS) — hard/official |
+| Median net monthly salary | ~BSD 2,500 (~$2,500) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Bahamas) [soft/estimate] |
+| Cost of living index | 85.1 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$1,200 (Nassau) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Bahamas) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% (no personal income tax; no DN visa framework) | See [[#tax]] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; remote workers use tourist entry or annual residence permit | See [[#passive-income-residency]] |
+| Years to citizenship | 20+ years (10 years permanent residence + 6 years physical presence) | See [[#citizenship]] |
+| Maximum permitted absence during residence | Physical presence of 6+ years required during PR period for naturalization | [soft/estimate] |
+| Passport strength after citizenship | ~153 visa-free destinations (Henley Q3 2025) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.62 (rank 43/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 91/100 (Free) | [Freedom House](https://freedomhouse.org/country/bahamas/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~3,000 h | [Wikipedia / Climate](https://en.wikipedia.org/wiki/The_Bahamas#Climate) — hard/official |
+| Average annual temperature | ~25 °C | [Wikipedia / Climate](https://en.wikipedia.org/wiki/The_Bahamas#Climate) — hard/official |
+
+## Country Card
+
+### General description
+The Bahamas is an archipelagic nation of over 700 islands stretching from near Florida to the Caribbean. It is a high-income country with a GDP per capita among the highest in the Americas, driven by tourism (over 60% of GDP) and offshore financial services. The Bahamas combines zero personal income tax with a strong passport (~153 visa-free destinations), making it attractive to high-net-worth individuals. However, residency is reserved for the wealthy: permanent residence requires $1M+ in real estate investment, and the path to citizenship is among the longest in the region at 20+ years. Dual citizenship is not recognized, requiring renunciation of prior nationality.
+
+### Well-known strong points
+- Zero personal income tax, zero capital gains tax, zero inheritance tax
+- Strong passport: ~153 visa-free destinations including Schengen, UK, Canada
+- High GDP per capita (~$43,000 PPP) and developed infrastructure
+- English-speaking with British common-law traditions
+- World-class tourism and maritime hub; major yachting destination
+- Politically stable democracy (FH 91/100, Free)
+
+### Well-known problems
+- One of the most expensive countries in the Caribbean (Numbeo index 85.1)
+- Permanent residence requires $1M+ investment; no accessible mid-tier residency
+- Path to citizenship is extremely long: 20+ years total
+- Dual citizenship NOT recognized — naturalization requires renouncing prior nationality
+- No digital nomad visa; no legal framework for remote workers beyond tourist entry
+- Annual residence permits are discretionary with 8–12 week processing
 ## Status
 - Last change: September 1, 2025 — Labour Certificate now required for all Scale 8 work permits.
 - Last monitored: 2026-09-14.

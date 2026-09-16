@@ -79,3 +79,47 @@ Kenya offers eTA for Russian citizens (tourist, up to 90 days). The Class N perm
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Class N Digital Nomad Permit launched (announced Oct 2024, operational by mid-2025). eTA system replaced eVisa for short stays. 90-day regularisation window opened Sept 2026 for those without proper permits.
 - **Watch items**: Monitor Class N permit experiences and any published income thresholds. Track citizenship path clarification for DN permit holders.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~55,100,000 (2024) | ^[https://data.worldbank.org/country/KE] hard/official |
+| Main religion | Christianity (~85%; Protestant ~48%, Catholic ~23%) | ^[https://www.cia.gov/the-world-factbook/countries/kenya/] hard/official |
+| Main language | Swahili, English (both official) | ^[https://www.cia.gov/the-world-factbook/countries/kenya/] hard/official |
+| Main city (capital or largest) | Nairobi (~5.3M metro) | ^[https://www.cia.gov/the-world-factbook/countries/kenya/] hard/official |
+| On the coast? | Yes — Indian Ocean (Mombasa, Malindi, Lamu) | hard/official |
+| Tourism impact in season | High — peak June–October (safari), December–February (beach) | [soft/estimate] ^[https://www.tourism.go.ke/] |
+| GDP per capita (PPP) | ~$6,500 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=KE] hard/official |
+| Median net monthly salary | ~$400–500 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Kenya] |
+| Cost of living index (relative) | ~35 (NYC=100) — 57% lower than US | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Kenya] |
+| Monthly rent, 1‑bedroom apartment | ~$250–400 (Nairobi centre) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Kenya] |
+| Effective personal tax rate for remote workers | 10%–30% progressive (resident); territorial issues may apply | [soft/estimate] |
+| Remote‑work / self‑employment residence available? | Yes — Class N Digital Nomad Permit (1–2 years, renewable) | ^[https://fns.immigration.go.ke/infopack/permits/classN] |
+| Years to citizenship | 7 years continuous lawful residence | ^[https://kenyalaw.org/akn/ke/act/2011/12/eng@2022-12-31] |
+| Maximum permitted absence during residence | Not clearly defined; continuous residence required | [soft/estimate] |
+| Passport strength after citizenship (visa‑free count) | ~75 destinations | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.46 (rank 101/142, 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/country/2024/Kenya] hard/official |
+| Freedom House score | 51/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/kenya/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,500 (Nairobi) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Nairobi,Kenya] hard/official |
+| Average annual temperature | ~19°C (Nairobi, high-altitude) | ^[https://en.climate-data.org/africa/kenya/nairobi/nairobi-542/] hard/official |
+
+## Country Card
+
+East Africa's largest economy and a regional tech hub ("Silicon Savannah"), Kenya offers a diverse landscape from Indian Ocean beaches to savannah and highlands. Nairobi is the political and economic centre with a growing startup scene. The 2010 Constitution introduced a devolved system of government. Kenya is an EAC member with free movement within the bloc, and dual citizenship is permitted.
+
+### Well-known strong points
+- Class N Digital Nomad Permit provides a legal remote-work framework (USD 1,200/yr)
+- Nairobi is East Africa's leading tech and startup hub with reliable internet
+- English and Swahili are both official — English is widely spoken in business
+- Dual citizenship permitted (since 2010 Constitution)
+- Major safari tourism destination (Masai Mara, Amboseli) with strong expat infrastructure
+- Moderate cost of living (USD 1,000–2,000/month for a comfortable lifestyle)
+
+### Well-known problems
+- Bureaucracy can be significant — work permits require employer sponsorship
+- Political instability during election cycles; sporadic unrest
+- Traffic congestion in Nairobi is severe; infrastructure gaps remain
+- Personal income tax up to 30% applies to tax residents (183+ days)
+- Class N permit path to citizenship is unclear (new programme, untested)
+- Security concerns in some border regions and parts of Nairobi

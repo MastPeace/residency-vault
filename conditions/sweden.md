@@ -108,3 +108,47 @@ Sweden is among the stricter EU states for Russian applicants. Full EU sanctions
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Stricter citizenship rules effective 6 June 2026 (residence 5→8 years; language + civics tests; self-sufficiency). Enhanced good-conduct rules from 13 July 2026. New family immigration rules from 1 October 2026. EU Migration Pact implementation July 2026.
 - **Watch items**: Track the exact language level requirement announcement. Monitor Migrationsverket processing backlog.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~10,550,000 (2024) | ^[https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SE] hard/official |
+| Main religion | Christianity (Lutheran — Church of Sweden) | ^[https://www.cia.gov/the-world-factbook/countries/sweden/] hard/official |
+| Main language | Swedish | ^[https://www.cia.gov/the-world-factbook/countries/sweden/] hard/official |
+| Main city (capital or largest) | Stockholm | ^[https://www.cia.gov/the-world-factbook/countries/sweden/] hard/official |
+| On the coast? | Yes — extensive Baltic/North Sea coastline, vast archipelagos | geographical fact |
+| Tourism impact in season | Medium — Stockholm/Gothenburg busy Jun–Aug; not mass tourism | [soft/estimate] |
+| GDP per capita (PPP) | ~$70,200 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=SE] hard/official |
+| Median net monthly salary | ~SEK 33,000 (~€2,850) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Sweden] [soft/estimate] |
+| Cost of living index (relative to NYC=100) | ~65 (Numbeo) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Sweden] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~SEK 10,000 (city centre) / ~SEK 7,500 (outside) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Sweden] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~32% municipal + 20% state above SEK 643K; expert tax relief: 25% salary tax-free (7 yr) | ^[https://www.bdo.se/sv-se/artiklar-insikter/sweden%E2%80%99s-expert-tax-regime-current-rules,-proposed-changes-and-practical-implications] [soft/estimate] |
+| Remote-work / self-employment residence available? | No dedicated visa; self-employed permit requires active Swedish business | per page residency sections |
+| Years to citizenship | 8 years (as of June 2026) | ^[https://www.migrationsverket.se/English] hard/official |
+| Maximum permitted absence during residence | Not explicitly stated; habitual residence required | per page residency sections |
+| Passport strength after citizenship (visa-free count) | 186 destinations (Henley 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.88 (WJP 2024, rank 4/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global] hard/official |
+| Freedom House score | 100/100 (Free) | ^[https://freedomhouse.org/country/sweden/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~1,821 (Stockholm) | ^[https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php] hard/official |
+| Average annual temperature | ~6.5°C (Stockholm) | ^[https://www.smhi.se/en] hard/official |
+
+## Country Card
+
+Sweden is the largest Nordic country by population and economy, with a world-class tech ecosystem that has produced global companies like Spotify, Klarna, and Ericsson. It offers a high standard of living, strong social protections, and progressive values, but its immigration system tightened significantly in 2026: citizenship now requires 8 years of habitual residence, a language test, and a civic knowledge exam. No golden visa, passive-income route, or digital nomad visa exists — entry is almost entirely employment-based. Stockholm is a major European tech hub, and the self-employed route provides a narrow path for entrepreneurs with Swedish business ties.
+
+### Well-known strong points
+- World-class tech ecosystem — Stockholm produces more unicorns per capita than any region outside Silicon Valley
+- High quality of life, excellent public services, and strong social safety net
+- Expert tax relief: 25% of salary tax-free for foreign experts (up to 7 years)
+- Strong worker protections, generous parental leave (480 days), and work-life balance
+- Clean environment, vast nature access, and extensive archipelagos
+- Dual citizenship permitted since 2001
+
+### Well-known problems
+- Citizenship tightened to 8 years (2026) + language test + civic exam — a moving target for long-term planners
+- High personal tax burden (~32% municipal + 20% state on upper incomes)
+- No digital nomad, passive-income, or golden visa routes — limited entry options
+- SEK 200,000 capital requirement for self-employed route + customer-network-in-Sweden test
+- Housing shortage in Stockholm and major cities with long rental queues
+- Long, dark winters with limited daylight in much of the country

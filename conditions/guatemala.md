@@ -87,6 +87,52 @@ Not applicable — Guatemala has Caribbean and Pacific coasts but no significant
 - New digital nomad regulations (October 2025) modernize the system but lack implementation track record.
 - Overall: English not widely spoken outside expat zones/Guatemala City — Spanish competence is a practical necessity.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~18,700,000 (2024) | [World Bank](https://data.worldbank.org/country/guatemala) — hard/official |
+| Main religion | Christianity (Roman Catholic ~45%, Evangelical Protestant ~42%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/guatemala/) — hard/official |
+| Main language | Spanish (official); 23 Mayan languages recognized | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/guatemala/) — hard/official |
+| Main city (capital or largest) | Guatemala City | [Wikipedia](https://en.wikipedia.org/wiki/Guatemala_City) — hard/official |
+| On the coast? | Yes (Pacific Ocean + Caribbean Sea; ~400 km total coastline) | Geographical fact [soft/estimate] |
+| Tourism impact in season | Medium — Antigua Guatemala, Lake Atitlán popular; peak Nov–Apr dry season | [soft/estimate] |
+| GDP per capita (PPP) | ~$11,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=GT) — hard/official |
+| Median net monthly salary | ~Q 4,000 (~$520) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Guatemala) [soft/estimate] |
+| Cost of living index | 33.1 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$350 (Antigua/Guatemala City) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Guatemala) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% on foreign-source income (territorial system) | See [[#tax]] |
+| Remote-work / self-employment residence available? | Yes — new DN/remote-worker temporary residence (IGM-016-2025, Oct 2025) | See [[#digital-nomad-visa]] |
+| Years to citizenship | 10+ years permanent residence | See [[#citizenship]] |
+| Maximum permitted absence during residence | No specific published absence limit for permanent residents; continuous residence expected | [soft/estimate] |
+| Passport strength after citizenship | ~130 visa-free destinations (Henley Q3 2025) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.40 (rank 113/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 53/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/guatemala/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,500 h (Guatemala City; varies by altitude) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Guatemala#Climate) — hard/official |
+| Average annual temperature | ~20 °C (central highlands; warmer on coasts) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Guatemala#Climate) — hard/official |
+
+## Country Card
+
+### General description
+Guatemala is the most populous country in Central America, with a diverse geography spanning Pacific and Caribbean coasts, volcanic highlands, and tropical lowlands. It has the region's standout residency programme: the Rentista/Pensionado route grants PERMANENT residence from day one with a US$1,250/month income threshold and no guarantor requirement — one of the best-value programmes in Latin America. Guatemala operates a territorial tax system and introduced a new digital nomad/remote-worker temporary residence category in October 2025. The citizenship path is long (10+ years) but Spanish proficiency is the only substantive requirement.
+
+### Well-known strong points
+- Rentista/Pensionado: permanent residency from day one — no annual renewals
+- Low income threshold: US$1,250/month (+$300/dependent); no local guarantor required
+- Territorial tax system: no tax on foreign-source income
+- Very low cost of living (Numbeo index 33.1); one of the cheapest in Latin America
+- New digital nomad/remote worker temporary residence (IGM-016-2025)
+- No capital gains, inheritance, or wealth tax
+
+### Well-known problems
+- Long path to citizenship: 10+ years of permanent residence
+- Weak rule of law (WJP 0.40); high crime rate and corruption
+- Spanish essential for daily life; English not widely spoken outside tourist zones
+- Healthcare quality uneven; private facilities concentrated in Guatemala City/Antigua
+- Infrastructure challenges: roads, power, water outside urban areas
+- Bureaucratic processes can be slow and inconsistent; lawyer recommended
 ## Status
 - Last change: October 8, 2025 — new residency regulation IGM-016-2025 effective, including digital nomad/remote worker categories.
 - Last monitored: 2026-09-14.

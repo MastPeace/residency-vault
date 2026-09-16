@@ -138,6 +138,51 @@ Germany's immigration system is overwhelmingly employment-oriented: the EU Blue 
 
 **2026 operational changes**: EES biometric system active on all Schengen external borders since April 10, 2026 (4 fingerprints + photo). Family reunification partially suspended for subsidiary protection holders from July 1, 2026. Bürgergeld replaced by Neue Grundsicherung. ^[https://msingermany.com/blog/germany-immigration-rules-2026-changes] Ausländerbehörde (foreigners' office) processing times are a chronic pain point — varies enormously by city (Berlin worst, smaller cities faster).
 
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~84,500,000 (2024) | [World Bank](https://data.worldbank.org/country/germany) — hard/official |
+| Main religion | Christianity (~50%: Catholic ~26%, Protestant ~24%); large non-religious population | [Wikipedia](https://en.wikipedia.org/wiki/Germany#Religion) — hard/official |
+| Main language | German | [Wikipedia](https://en.wikipedia.org/wiki/Germany) — hard/official |
+| Main city (capital or largest) | Berlin | [Wikipedia](https://en.wikipedia.org/wiki/Berlin) — hard/official |
+| On the coast? | Yes (North Sea + Baltic, short coastline ~2,389 km) | Geographical fact [soft/estimate] |
+| Tourism impact in season | Medium — Berlin, Munich, Oktoberfest; less seasonal than Mediterranean destinations | [soft/estimate] |
+| GDP per capita (PPP) | ~$66,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=DE) — hard/official |
+| Median net monthly salary | ~€2,860 (~$3,100) | [Numbeo](https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105) [soft/estimate] |
+| Cost of living index | 58.4 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | €804 (city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Germany) [soft/estimate] |
+| Effective personal tax rate for remote workers | Progressive 14%–45% + solidarity surcharge + social security ~20% | See [[#tax]] [soft/estimate] |
+| Remote-work / self-employment residence available? | No — no dedicated digital nomad visa; freelancer visa city-specific | See [[#digital-nomad-visa]] |
+| Years to citizenship | 5 years | See [[#citizenship]] |
+| Maximum permitted absence during residence | Generally 6 months; Blue Card holders up to 12 months without losing status | See [[#highly-skilled-employment]] |
+| Passport strength after citizenship | 189 visa-free destinations (Henley Q3 2025, rank 3) | [Henley & Partners](https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025) — hard/official |
+| Rule of Law Index | 0.83 (rank 5/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 95/100 (Free) | [Freedom House](https://freedomhouse.org/country/germany/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | 1,625 h (Berlin) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~9 °C | [Wikipedia / DWD](https://en.wikipedia.org/wiki/Germany#Climate) — hard/official |
+
+## Country Card
+
+### General description
+Germany is the EU's largest economy and most populous member state, with a highly developed industrial base (automotive, engineering, chemicals) and a strong export orientation. Its immigration system is overwhelmingly employment-oriented, anchored by the EU Blue Card (IT specialists qualify without a degree via 3+ years experience) and the Skilled Worker Visa. The 2024 citizenship reform (5 years, dual citizenship permitted) was transformative, though the 3-year fast-track was scrapped in 2026. Germany has no passive-income, digital nomad, or retirement visa — immigration runs almost exclusively through employment.
+
+### Well-known strong points
+- Largest EU economy with strong job market and high salaries (~€2,860/mo net)
+- EU Blue Card: IT specialists qualify without a degree (3+ years experience — unique in EU)
+- Fast permanent residence: 21 months with B1 German on Blue Card
+- Citizenship in 5 years with dual citizenship permitted (since 2024)
+- Strong Rule of Law (WJP 0.83, rank 5/142) and political stability
+- Excellent public infrastructure, healthcare, and education
+
+### Well-known problems
+- No digital nomad visa, passive-income route, or retirement visa
+- High tax and social-security burden (effective rate ~40%+ for mid/high earners)
+- Ausländerbehörde (foreigners' office) processing times vary enormously — Berlin worst
+- Housing crisis in major cities (Berlin, Munich, Hamburg)
+- B1 German language requirement for citizenship; integration course required
+- Political pushback (CDU/CSU) to roll back citizenship reform creates uncertainty
+
 ## Status
 - **Last monitored**: 2026-09-14
 - **Recent changes**: 2026 Blue Card thresholds raised (€50,700 general, €45,934 shortage). 3-year citizenship fast-track scrapped (2026). Dual citizenship fully normalized. Opportunity Card digital processing launched (May 2026). EES biometrics active on Schengen borders (Apr 10, 2026). Family reunification partially suspended for subsidiary protection holders (Jul 1, 2026). CDU/CSU push to roll back citizenship reform (rumor/watching).

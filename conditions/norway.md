@@ -112,3 +112,47 @@ Norway applies EU-aligned sanctions via EEA membership. The land border with Rus
 - **Last monitored**: 2026-09-13
 - **Recent changes**: New requirements for sponsor's language training and social studies for family reunification (2026). Non-EU tuition fees introduced 2023. Dual citizenship law implemented 2020.
 - **Watch items**: Monitor any increase in the skilled worker salary threshold. Track credential verification reforms for vocational applicants. Watch for citizenship residence period adjustments.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~5,520,000 (2024) | ^[https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NO] hard/official |
+| Main religion | Christianity (Lutheran — Church of Norway) | ^[https://www.cia.gov/the-world-factbook/countries/norway/] hard/official |
+| Main language | Norwegian (Bokmål / Nynorsk) | ^[https://www.cia.gov/the-world-factbook/countries/norway/] hard/official |
+| Main city (capital or largest) | Oslo | ^[https://www.cia.gov/the-world-factbook/countries/norway/] hard/official |
+| On the coast? | Yes — extensive coastline, fjords, 50,000+ islands | geographical fact |
+| Tourism impact in season | Medium–High — fjords/coastal cruises May–Sep; Oslo year-round; manageable volumes | [soft/estimate] |
+| GDP per capita (PPP) | ~$94,700 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=NO] hard/official |
+| Median net monthly salary | ~NOK 39,400 (~€3,400) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Norway] [soft/estimate] |
+| Cost of living index (relative to NYC=100) | ~81 (Numbeo) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Norway] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~NOK 12,000 (city centre) / ~NOK 9,500 (outside) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Norway] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~22–47% progressive; PAYE flat 25% for first-year foreign workers | ^[https://www.skatteetaten.no/en/person/taxes/tax-deduction-card-and-advance-tax/i-am-a-foreign-employee/paye] [soft/estimate] |
+| Remote-work / self-employment residence available? | No — remote work for foreign employers is not a valid residence basis | per page residency sections |
+| Years to citizenship | 8 years | ^[https://www.udi.no/en/want-to-apply/norwegian-citizenship] hard/official |
+| Maximum permitted absence during residence | Not explicitly stated; max 6-month gaps for permanent residence | per page residency sections |
+| Passport strength after citizenship (visa-free count) | 185 destinations (Henley 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.89 (WJP 2024, rank 2/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global] hard/official |
+| Freedom House score | 100/100 (Free) | ^[https://freedomhouse.org/country/norway/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~1,630 (Oslo) | ^[https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php] hard/official |
+| Average annual temperature | ~6°C (Oslo) | ^[https://www.met.no/en] hard/official |
+
+## Country Card
+
+Norway is a wealthy EEA/Schengen country with the world's largest sovereign wealth fund (Government Pension Fund Global), built on decades of oil and gas revenues. It offers an exceptionally high standard of living, dramatic natural scenery (fjords, mountains, Arctic landscapes), and strong social protections. Immigration is employment-centric: the skilled worker route is the primary pathway, with permanent residence possible after just 3 years. No golden visa, digital nomad visa, or passive-income route exists. Citizenship takes 8 years and requires Norwegian language proficiency. The 1.1% wealth tax on net assets above NOK 1.7 million is a notable consideration for high-net-worth individuals.
+
+### Well-known strong points
+- Permanent residence available after only 3 years of work-based residence (among the fastest in Europe)
+- Sovereign wealth fund guarantees long-term fiscal stability and generous public services
+- PAYE flat 25% tax for first-year foreign workers — simple, attractive entry rate
+- World-class natural environment: fjords, Northern Lights, midnight sun, extensive wilderness
+- Strong passport (185 visa-free), EEA membership with right to live/work across EU/EEA
+- Dual citizenship permitted since 2020
+
+### Well-known problems
+- Very high cost of living — among the highest in Europe
+- Wealth tax of 1.1% on net assets above NOK 1.7M — a significant burden for high-net-worth residents
+- No digital nomad, passive-income, or golden visa routes; entry is almost purely employment-based
+- 8-year citizenship path + Norwegian language requirement
+- Cold, dark winters with short daylight hours in much of the country
+- Small, relatively insular labour market outside Oslo; Norwegian language often expected for employment

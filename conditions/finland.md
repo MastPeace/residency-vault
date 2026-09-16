@@ -111,3 +111,47 @@ Finland fully closed its land border with Russia in late 2023 (remaining closed 
 - **Last monitored**: 2026-09-13
 - **Recent changes**: 2026 tax changes for foreign companies. EU Migration Pact implementation. No major immigration law changes in 2026.
 - **Watch items**: Monitor any reopening of Finland-Russia border (unlikely in 2026). Track citizenship processing times.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~5,580,000 (2024) | ^[https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FI] hard/official |
+| Main religion | Christianity (Lutheran — Evangelical Lutheran Church) | ^[https://www.cia.gov/the-world-factbook/countries/finland/] hard/official |
+| Main language | Finnish (Swedish also official) | ^[https://www.cia.gov/the-world-factbook/countries/finland/] hard/official |
+| Main city (capital or largest) | Helsinki | ^[https://www.cia.gov/the-world-factbook/countries/finland/] hard/official |
+| On the coast? | Yes — Baltic Sea coastline, vast archipelago | geographical fact |
+| Tourism impact in season | Low–Medium — Helsinki/Lapland seasonal; not mass tourism | [soft/estimate] |
+| GDP per capita (PPP) | ~$62,800 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=FI] hard/official |
+| Median net monthly salary | ~€2,700 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Finland] [soft/estimate] |
+| Cost of living index (relative to NYC=100) | ~69 (Numbeo) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Finland] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~€770 (city centre) / ~€610 (outside) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Finland] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~20–57% progressive; 32% flat for foreign experts (max 7 yr) | ^[https://1office.co/blog/finland-tax-changes-2026-foreign-companies] [soft/estimate] |
+| Remote-work / self-employment residence available? | No dedicated visa; remote work ≤90 days without permit if no Finnish clients | per page residency sections |
+| Years to citizenship | 5 years (continuous A permit) | ^[https://migri.fi/en/citizenship] hard/official |
+| Maximum permitted absence during residence | Max 6 months interruption for permanent residency; continuous A permit for citizenship | per page residency sections |
+| Passport strength after citizenship (visa-free count) | 185 destinations (Henley 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.87 (WJP 2024, rank 3/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global] hard/official |
+| Freedom House score | 100/100 (Free) | ^[https://freedomhouse.org/country/finland/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~1,780 (Helsinki) | ^[https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php] hard/official |
+| Average annual temperature | ~5.5°C (Helsinki) | ^[https://en.ilmatieteenlaitos.fi/] hard/official |
+
+## Country Card
+
+Finland is a stable Nordic EU member known for its world-class education system, high trust in public institutions, and strong technology sector built on the legacy of Nokia and the rise of gaming giants like Supercell. Its immigration system is relatively accessible: a 5-year citizenship path is among the shortest in the Nordics, and the start-up entrepreneur route backed by Business Finland is a credible entry point for founders. Finland is unique in allowing short-term remote work (up to 90 days) without a residence permit, though no full digital nomad visa exists. The country offers a high quality of life balanced by a cold climate and a difficult language.
+
+### Well-known strong points
+- Shortest citizenship path in the Nordics (5 years continuous A permit)
+- 32% flat expert tax for foreign key employees and researchers (up to 7 years)
+- Start-up entrepreneur permit with Business Finland endorsement — credible pathway for founders
+- World-class education system and high social trust
+- Unique 90-day remote-work allowance without residence permit for non-Finnish clients
+- Dual citizenship permitted since 2003
+
+### Well-known problems
+- High personal tax burden (effective rates ~55–57% on high incomes)
+- No digital nomad, passive-income, or golden visa routes for long-term residence
+- Finnish language is exceptionally difficult (B1 required for citizenship)
+- Cold, dark winters with limited daylight (~1,780 sunshine hours in Helsinki)
+- Land border with Russia fully closed since 2023; visa processing for Russians severely restricted
+- Small population and limited job market outside Helsinki/Tampere/Turku

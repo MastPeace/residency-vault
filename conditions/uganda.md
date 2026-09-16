@@ -75,3 +75,47 @@ eVisa for Russian citizens (single entry, 90 days). Uganda maintains neutral rel
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Online e-visa/permit system fully operational. No dedicated DN visa introduced. EAC fee exemptions for Kenya/Rwanda nationals.
 - **Watch items**: Monitor for DN visa introduction (East African trend).
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~48,600,000 (2024) | ^[https://data.worldbank.org/country/UG] hard/official |
+| Main religion | Christianity (~84%; Anglican ~35%, Catholic ~33%), Islam (~14%) | ^[https://www.cia.gov/the-world-factbook/countries/uganda/] hard/official |
+| Main language | English (official), Swahili (official), Luganda (widely spoken) | ^[https://www.cia.gov/the-world-factbook/countries/uganda/] hard/official |
+| Main city (capital or largest) | Kampala (~3.8M metro) | ^[https://www.cia.gov/the-world-factbook/countries/uganda/] hard/official |
+| On the coast? | No — landlocked, but Lake Victoria shoreline (inland) | hard/official |
+| Tourism impact in season | Medium — gorilla trekking (year-round), safaris (dry seasons Jun–Sep, Dec–Feb) | [soft/estimate] |
+| GDP per capita (PPP) | ~$2,800 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=UG] hard/official |
+| Median net monthly salary | ~$200–300 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Uganda] |
+| Cost of living index (relative) | ~28 (NYC=100) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Uganda] |
+| Monthly rent, 1‑bedroom apartment | ~$200–350 (Kampala) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Uganda] |
+| Effective personal tax rate for remote workers | 10%–40% progressive (top rate on UGX 120M+/yr) | [soft/estimate] |
+| Remote‑work / self‑employment residence available? | No dedicated DN visa; Class H (assured income) permit may work for remote workers | ^[https://www.immigration.go.ug/permit/entry-permit] |
+| Years to citizenship | ~20+ years continuous residence (constitutional requirement) | ^[https://www.immigration.go.ug] |
+| Maximum permitted absence during residence | Not clearly defined | [soft/estimate] |
+| Passport strength after citizenship (visa‑free count) | ~65 destinations | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.46 (rank 104/142, 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/country/2024/Uganda] hard/official |
+| Freedom House score | 34/100 — Not Free (2025) | ^[https://freedomhouse.org/country/uganda/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,400 (Kampala) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Kampala,Uganda] hard/official |
+| Average annual temperature | ~22°C (Kampala, tropical highland) | ^[https://en.climate-data.org/africa/uganda/central-region/kampala-4506/] hard/official |
+
+## Country Card
+
+Uganda is a fertile, landlocked East African nation on the shores of Lake Victoria, known for its biodiversity — including mountain gorillas in Bwindi — and its relatively open immigration system. Kampala is the political and commercial centre with a lively expat community (NGOs, tech startups). The detailed Entry Permit system (Classes A–H) covers investors, employees, and independent-means residents. Dual citizenship has been permitted since 2005. Citizenship is theoretically possible but requires 20+ years.
+
+### Well-known strong points
+- Class H (assured income) permit provides a basis for passive-income residence without local employment
+- Dual citizenship permitted (since 2005 Constitutional Amendment)
+- Low cost of living; Kampala is affordable and relatively safe
+- English is an official language and widely used in business and administration
+- Online e-visa/permit system (visas.immigration.go.ug) — 2–3 working days processing
+- EAC membership enables free movement with neighbouring countries
+
+### Well-known problems
+- Citizenship requires 20+ years of continuous residence — impractical for most
+- No dedicated digital nomad visa; remote workers operate in a grey area
+- Personal income tax reaches 40% at relatively low thresholds (UGX 120M/yr, ~USD 32K)
+- Landlocked — no direct ocean access; limited yacht/maritime options
+- Political environment restricts freedoms; Freedom House score: Not Free (34/100)
+- Infrastructure gaps — electricity reliability and road quality vary

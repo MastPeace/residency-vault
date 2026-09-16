@@ -141,3 +141,47 @@ Egypt is the most accessible residency/CBI destination in MENA for Russian natio
 - **Last monitored**: 2026-09-13
 - **Recent changes**: CBI programme amended under March 2023 decree — formalized real estate and bank deposit routes for residency. CBI thresholds unchanged since 2019. Currency devaluation (EGP float) continued through 2024–2026.
 - **Watch items**: Potential CBI threshold adjustment (inflation erosion). Currency regime developments. EGP trajectory.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~118,370,000 | ^[https://data.worldbank.org/country/egypt] hard/official |
+| Main religion | Islam (Sunni; ~90%); Coptic Christian minority (~10%) | ^[https://www.cia.gov/the-world-factbook/countries/egypt/] hard/official |
+| Main language | Arabic | ^[https://www.cia.gov/the-world-factbook/countries/egypt/] hard/official |
+| Main city | Cairo (capital and largest; metro ~22M) | ^[https://www.cia.gov/the-world-factbook/countries/egypt/] hard/official |
+| On the coast? | Yes — Mediterranean Sea and Red Sea | hard/official |
+| Tourism impact in season | High — Red Sea resorts year-round; peak Oct–Apr; pyramids/Luxor draw 10M+ annually | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Egypt] [soft/estimate] |
+| GDP per capita (PPP) | ~$18,000 (2024) | ^[https://www.imf.org/en/Publications/WEO] hard/official |
+| Median net monthly salary | ~$150–$300 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Egypt] [soft/estimate] |
+| Cost of living index | 18.5 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Egypt] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$120–$250 (Cairo city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Egypt] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~0–25% (progressive; top bracket 25% above ~$40K) | ^[https://www.eta.gov.eg/] [soft/estimate] |
+| Remote-work / self-employment residence available? | Partially — investor residency (real estate $300K+); freelancer company registration possible; no dedicated DN visa | ^[https://www.egyptvisa.com/] [soft/estimate] |
+| Years to citizenship | 10 years continuous residence; Arabic proficiency; discretionary; rarely granted | ^[https://www.mfa.gov.eg/] [soft/estimate] |
+| Maximum permitted absence during residence | Varies; generally 6 months | ^[https://www.mfa.gov.eg/] [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 49 (Henley, Sep 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | ~0.37 (2024 est.) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 18/100 — Not Free (2025) | ^[https://freedomhouse.org/country/egypt/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~3,450 | ^[https://weatherspark.com/countries/EG] hard/official |
+| Average annual temperature | ~22°C (Cairo); hotter in south (Luxor/Aswan) | ^[https://weatherspark.com/countries/EG] hard/official |
+
+## Country Card
+
+Egypt is the Arab world's most populous country (~118 million) and its cultural heartland, straddling North Africa and the Middle East. The economy is large and diversified: Suez Canal revenues, tourism, agriculture, manufacturing, and remittances. The cost of living is among the lowest in the world, and Cairo is a megacity with a vibrant, chaotic energy. Citizenship is legally possible after 10 years of continuous residence but is rarely granted in practice. The Egyptian pound has undergone severe devaluation (2016, 2022–2024, 2025), creating currency instability. Digital nomads are drawn to low costs, Red Sea diving (Dahab, Sharm el-Sheikh), and year-round sunshine.
+
+### Well-known strong points
+- Extremely low cost of living — among the cheapest destinations globally
+- Rich history and culture: pyramids, Luxor, Aswan, Islamic Cairo — unparalleled heritage tourism
+- Large domestic market (~118M) with a young, growing population
+- Year-round warm climate and Red Sea destinations popular with digital nomads
+- Strategic location: Suez Canal, proximity to Europe/Gulf/Africa
+- Large, English-speaking educated class concentrated in Cairo and Alexandria
+
+### Well-known problems
+- Citizenship rarely granted in practice — 10-year legal pathway is discretionary and slow
+- Severe currency instability — EGP has devalued repeatedly; inflation is high (~30%+)
+- Freedom House 18/100 — authoritarian regime, restricted press, widespread political repression
+- Weak passport (49 visa-free) — limited global mobility
+- Infrastructure strain: traffic, pollution, power cuts, and overcrowding in Cairo
+- Bureaucratic complexity — starting a business or obtaining residency is paperwork-intensive

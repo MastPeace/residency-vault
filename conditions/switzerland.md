@@ -123,3 +123,47 @@ Switzerland applies EU-equivalent sanctions against Russia. Non-EU quota applies
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Non-EU/EFTA permit quotas for 2026 maintained at 8,500. New biometric residence permits fully rolled out. No major citizenship reform.
 - **Watch items**: Monitor cantonal lump-sum taxation minimum increases (some cantons are raising thresholds). Track naturalisation reform proposals (federal government may reduce commune-level discretion).
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~8,920,000 (2024) | ^[https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CH] hard/official |
+| Main religion | Christianity (Catholic/Protestant) | ^[https://www.cia.gov/the-world-factbook/countries/switzerland/] hard/official |
+| Main language | German (French, Italian, Romansh also official) | ^[https://www.cia.gov/the-world-factbook/countries/switzerland/] hard/official |
+| Main city (capital or largest) | Zurich (largest); Bern (capital) | ^[https://www.cia.gov/the-world-factbook/countries/switzerland/] hard/official |
+| On the coast? | No — landlocked | geographical fact |
+| Tourism impact in season | High — Alps year-round; cities/culture Jun–Sep and Dec–Mar | [soft/estimate] |
+| GDP per capita (PPP) | ~$92,400 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=CH] hard/official |
+| Median net monthly salary | ~CHF 6,000 (~€6,200) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Switzerland] [soft/estimate] |
+| Cost of living index (relative to NYC=100) | ~109 (Numbeo, above NYC) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Switzerland] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~CHF 1,660 (city centre) / ~CHF 1,330 (outside) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Switzerland] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~12–45% total (federal + cantonal + communal), highly variable by canton; lump-sum option for non-working wealthy | ^[https://steuern.lu.ch/natuerlichepersonen/Wissenswertes_NP/besteuerung_aufwand/lump_sum_taxation] [soft/estimate] |
+| Remote-work / self-employment residence available? | No dedicated visa; self-employed B permit requires Swiss business with Swiss economic benefit | per page residency sections |
+| Years to citizenship | 10 years | ^[https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden/ordentlich.html] hard/official |
+| Maximum permitted absence during residence | Not explicitly stated; continuous residence with max 6-month gaps | per page residency sections |
+| Passport strength after citizenship (visa-free count) | 186 destinations (Henley 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.85 (WJP 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/global] hard/official |
+| Freedom House score | 96/100 (Free) | ^[https://freedomhouse.org/country/switzerland/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~1,566 (Zurich) | ^[https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php] hard/official |
+| Average annual temperature | ~9°C (Zurich) | ^[https://www.meteoswiss.admin.ch/] hard/official |
+
+## Country Card
+
+Switzerland is a landlocked, non-EU Schengen country with one of the world's highest standards of living, a uniquely decentralised political system, and an exceptionally competitive tax environment due to inter-cantonal tax competition. Its immigration system is quota-constrained for non-EU nationals (8,500 permits/year) and heavily employment-driven, with the notable exception of the lump-sum taxation regime (forfait fiscal) for wealthy non-working residents. Citizenship is among Europe's most demanding: 10 years of residence plus approval at federal, cantonal, and communal levels. The Swiss passport is one of the strongest globally (186 visa-free destinations).
+
+### Well-known strong points
+- Very low personal income tax in competitive cantons (Zug, Schwyz: ~12% total effective rate)
+- Lump-sum taxation regime for wealthy non-working foreign residents — globally unique
+- World-class financial centre, political stability, and strong currency (CHF)
+- Exceptionally high wages: median net salary ~CHF 6,000/month
+- Top-tier infrastructure, healthcare, education (ETH Zurich/EPFL), and public transport
+- No capital gains tax on private securities
+
+### Well-known problems
+- Extremely high cost of living — Numbeo index above NYC (109)
+- 10-year citizenship path with three-level approval (communal vote can reject)
+- Strict non-EU quotas (8,500/year) create real barriers to entry
+- No digital nomad or passive-income visa; remote work for foreign employers not a residence basis
+- Housing shortage and very high rents in Zurich, Geneva, and major cities
+- Landlocked — no maritime access; cantonal wealth tax applies (0.1%–1% on net assets)

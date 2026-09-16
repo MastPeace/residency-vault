@@ -95,6 +95,52 @@ Malta has the **largest ship registry in the EU** and a premier maritime jurisdi
 ## Notes for RU Citizens
 The MPRP (permanent residency, ~€100K+ total outlay) is accessible to Russian nationals subject to enhanced due diligence screening. Banking in Malta for RU passport holders may require additional documentation. The remittance-based tax system is favorable for RU citizens with income sources outside Malta. English as an official language removes the language barrier hurdle that exists in most other EU states. The Russian-speaking community in Malta is small but present.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~549,000 (2026 est.) | ^[https://www.worldometers.info/world-population/malta-population/] hard/official |
+| Main religion | Roman Catholicism (83%) | ^[https://www.cia.gov/the-world-factbook/countries/malta/] hard/official |
+| Main language | Maltese, English (both official) | ^[https://www.cia.gov/the-world-factbook/countries/malta/] hard/official |
+| Main city | Valletta (capital); Birkirkara and Sliema are larger urban areas | ^[https://www.worldometers.info/world-population/malta-population/] hard/official |
+| On the coast? | Yes — island nation; entirely coastal | [soft/estimate] |
+| Tourism impact in season | High — densely populated island; severe tourism pressure in summer (June–September) | [soft/estimate] |
+| GDP per capita (PPP) | $69,832 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=MT] hard/official |
+| Median net monthly salary | ~€1,700 | ^[https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105] [soft/estimate] |
+| Cost of living index (relative, base note) | 48.0 (Numbeo 2025; 52% below NYC baseline) | ^[https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~€1,050 (city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Malta] [soft/estimate] |
+| Effective personal tax rate for remote workers | 0–35% progressive; remittance-based for non-doms (0% on unremitted foreign income) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Malta] [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Nomad Residence Permit (€2,700/mo) | Consistent with [[#digital-nomad-visa]]; [soft/estimate] |
+| Years to citizenship | 7 years of legal residence | Consistent with [[#citizenship]]; hard/official |
+| Maximum permitted absence during residence | Standard residence requirements apply for citizenship; MPRP has no minimum stay for permit | Consistent with [[#investment-residency]]; [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 186 destinations | ^[https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025] hard/official |
+| Rule of Law Index | 0.67 (rank 30/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 87/100 Free | ^[https://freedomhouse.org/country/malta/freedom-world/2025] hard/official |
+| Average annual sunshine hours | 2,957 (Valletta) | ^[https://en.wikipedia.org/wiki/List_of_cities_in_Europe_by_sunshine_duration] hard/official |
+| Average annual temperature | ~18.8°C (Valletta) | ^[https://en.wikipedia.org/wiki/Valletta#Climate] hard/official |
+
+## Country Card
+
+Malta is the smallest EU member state — a Mediterranean island nation with full Schengen membership and a strong passport. It operates the Malta Permanent Residence Programme (MPRP), one of the rare EU golden visas that grants permanent residency from day one (~€100K+ total outlay). Its citizenship-by-investment programme was terminated by ECJ ruling in April 2025. English is an official language, making Malta uniquely accessible for Anglophone expats. The economy is service-driven with strengths in gaming, financial services, and maritime. As a densely populated micro-state, space and infrastructure are limited.
+
+### Well-known strong points
+- MPRP grants permanent residency from day one — rare in EU golden visa programmes
+- English as an official language — no language barrier for citizenship (English accepted alongside Maltese)
+- 7-year citizenship path with genuine integration assessment
+- Remittance-based taxation: 0% on foreign-source income not remitted to Malta
+- Largest EU ship registry; premier maritime and yachting jurisdiction
+- 2,900+ sunshine hours annually; strong expat community
+
+### Well-known problems
+- Citizenship-by-investment terminated by ECJ (April 2025) — existing holders' status under evaluation
+- Very high population density; limited housing supply drives up rents (€1,050+ for 1-bed)
+- Nomad Residence Permit does not lead to permanent residence — must switch routes
+- Small domestic market limits business growth opportunities
+- Nomad permit income threshold of €2,700/mo is relatively high compared to cost of living
+- Infrastructure strain and construction pressure from rapid population growth
+
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: ECJ struck down citizenship-by-investment (April 2025). MPRP (permanent residency) remains operational and unaffected by CBI ruling. No major 2026 changes to MPRP.

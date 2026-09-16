@@ -103,3 +103,47 @@ North Macedonia is not a popular expat destination. Low cost of living is the pr
 - **Last monitored**: 2026-09-13
 - **Recent changes**: No significant recent changes. EU accession negotiations ongoing (screening phase).
 - **Watch items**: EU accession progress. Potential introduction of digital nomad visa as part of EU alignment.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~1,823,000 (2024) | ^[https://data.worldbank.org/country/north-macedonia] hard/official |
+| Main religion | Orthodox Christianity (~65%), Islam (~33%) | ^[https://www.cia.gov/the-world-factbook/countries/north-macedonia/] hard/official |
+| Main language | Macedonian (official); Albanian co-official in municipalities | ^[https://www.cia.gov/the-world-factbook/countries/north-macedonia/] hard/official |
+| Main city (capital) | Skopje (pop. ~550,000) | ^[https://data.worldbank.org/country/north-macedonia] hard/official |
+| On the coast? | No (landlocked) | Geography — hard |
+| Tourism impact in season | Low — Skopje and Lake Ohrid draw visitors but not overcrowded | [soft/estimate] |
+| GDP per capita (PPP) | ~$24,000 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=MK] hard/official |
+| Median net monthly salary | ~€450 (2025) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Macedonia] [soft/estimate] |
+| Cost of living index | Very low (~32, Numbeo; among cheapest in Europe) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Macedonia] [soft/estimate] |
+| Monthly rent, 1-bedroom apt | ~€250 (Skopje) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Macedonia] [soft/estimate] |
+| Effective tax for remote workers | ~10% flat PIT + ~28% social (high burden on salary) | ^[https://investnorthmacedonia.gov.mk/] [soft/estimate] |
+| Remote-work / self-employment residence? | Not available — no formal DN visa; de facto via business registration | From page — [soft/estimate] |
+| Years to citizenship | 8 years | ^[https://www.refworld.org/sites/default/files/2024-05/1_law_on_citizenship_2022_consolidated_eng.pdf] hard/official |
+| Maximum permitted absence | Not specified (standard continuous residence applies) | From page — [soft/estimate] |
+| Passport visa-free count | 79 (Passport Index 2026) | ^[https://www.passportindex.org/passport/north-macedonia] hard/official |
+| Rule of Law Index (WJP 2024) | 0.52 (rank 72/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score (2025) | 67/100 — Partly Free | ^[https://freedomhouse.org/country/north-macedonia/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,300 (Skopje) | ^[https://en.wikipedia.org/wiki/Skopje#Climate] hard/official |
+| Average annual temperature | ~13°C (Skopje) | ^[https://en.wikipedia.org/wiki/Skopje#Climate] hard/official |
+
+## Country Card
+
+North Macedonia is a small, landlocked Balkan country of ~1.8 million people, an EU candidate and NATO member since 2020. It has no golden visa, digital nomad visa, or CBI program — residence is obtained through employment, business registration, education, or family ties (8 years to citizenship). Flat 10% personal and corporate tax is attractive, but social-security contributions (~28% total) add significant cost. The country's very low cost of living is its primary draw.
+
+### Well-known strong points
+- Flat 10% income and corporate tax — simple and low
+- Very low cost of living (~€500–700/month for a single person)
+- Lake Ohrid (UNESCO World Heritage) — natural beauty and tourism potential
+- Business registration possible for residence; no minimum capital
+- Visa-free for many nationalities; relaxed entry compared to Schengen
+- NATO member — security guarantee
+
+### Well-known problems
+- No formal digital nomad, golden visa, or passive-income residence pathway
+- Long citizenship timeline (8 years); dual citizenship generally not recognized
+- Very low wages (~€450 net median) — limited domestic economic opportunity
+- Landlocked — no maritime access
+- Bureaucratic residence process; limited international community
+- Geopolitical friction with neighbors (Greece, Bulgaria) slows EU accession

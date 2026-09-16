@@ -151,4 +151,47 @@ Not a major yachting hub. Montevideo and Punta del Este have marinas. No special
 - Last change: Tax Holiday 2.0 (Law 20.446, 2024) — new real estate investment threshold ~USD 2M.
 - Digital nomad permit (Decree 238/022) operative since 2023.
 - Last monitored: 2026-09-14.
-- Watch: citizenship processing backlogs; judicial interpretation of "continuous residence."
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~3,400,000 (2024) | [World Bank](https://data.worldbank.org/country/uruguay) — hard/official |
+| Main religion | Roman Catholicism (~38%); Unaffiliated (~41%); Protestant (~11%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/uruguay/) — hard/official |
+| Main language | Spanish (official) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/uruguay/) — hard/official |
+| Main city (capital or largest) | Montevideo (capital; ~1.7M metro) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/uruguay/) — hard/official |
+| On the coast? | Yes — Atlantic coast + Río de la Plata estuary; ~660 km coastline; Punta del Este resort | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — Punta del Este heavily seasonal; peak Dec–Feb (summer), empty in winter | [soft/estimate] |
+| GDP per capita (PPP) | ~$32,000 (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=UY) — hard/official |
+| Median net monthly salary | ~$800–900 USD (UYU ~35,000) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Uruguay) [soft/estimate] |
+| Cost of living index | 47.0 (NYC=100, Numbeo 2025) — highest in South America | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$600 (Montevideo city centre, UYU ~25,000) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Uruguay) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0%–36% progressive (worldwide taxation for residents); Tax Holiday 2.0 available for ~$2M+ real estate investors | [DGI Uruguay](https://www.dgi.gub.uy) [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Digital Nomad permit (Hoja de Identidad Provisoria): no minimum income, 180+180 days, ~$30 fee, open to all nationalities; does NOT count toward citizenship; can convert to temp residency | See [[#digital-nomad-visa]] |
+| Years to citizenship | 3 years continuous residence (family ties) / 5 years (single); clock starts from residency filing date | See [[#citizenship]] |
+| Maximum permitted absence during residence | At least 183 days/year physical presence during qualifying period | See [[#citizenship]] |
+| Passport strength after citizenship | 157 visa-free destinations (Henley Q3 2025, rank 23) | [Henley & Partners](https://www.henleyglobal.com/publications/global-mobility-report/2025-july) — hard/official |
+| Rule of Law Index | 0.72 (rank 24/142, WJP 2024) — highest in Latin America | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 96/100 (Free) — highest in Latin America | [Freedom House](https://freedomhouse.org/country/uruguay/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,600 h (Montevideo) | [Current Results](https://www.currentresults.com/Weather/Uruguay/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~17 °C (Montevideo); mild temperate, four seasons | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/uruguay/) — hard/official |
+
+## Country Card
+
+### General description
+Uruguay is South America's smallest Spanish-speaking country, wedged between Brazil and Argentina on the Atlantic coast. It is the region's most stable democracy, with the highest rule-of-law and freedom scores in Latin America (WJP 0.72, FH 96/100). Uruguay offers the cheapest and simplest digital nomad permit in the region (~$30, no minimum income, 6+6 months), a discretionary but generally reasonable residency system, and a citizenship path of 3–5 years. The cost of living is the highest in South America (Numbeo index 47.0), comparable to southern Europe. The passport provides ~157 visa-free destinations including Schengen.
+
+### Well-known strong points
+- Highest rule of law (WJP 0.72) and freedom (FH 96/100) scores in Latin America
+- Cheapest digital nomad permit in the region: ~$30, no income minimum, open to all nationalities
+- Fast citizenship: 3 years (family) / 5 years (single) — clock starts from filing date, not card issuance
+- Strong institutions, reliable judiciary, low corruption — a genuine liberal democracy
+- Tax Holiday 2.0: 11-year income tax exemption for ~$2M+ real estate investors
+- MERCOSUR mobility for citizens and permanent residents
+
+### Well-known problems
+- Highest cost of living in South America (Numbeo 47.0) — prices comparable to Portugal or Spain
+- Digital nomad permit is short (12 months max) and does NOT count toward citizenship clock
+- No published investment/residency thresholds — DNM uses case-by-case economic solvency assessment (uncertainty)
+- Worldwide taxation (0%–36% progressive) — no territorial option
+- Small, insular economy — limited job market, few expat services outside Montevideo
+- Naturalized citizens who live abroad 3+ consecutive years may lose voting/holding-office privileges

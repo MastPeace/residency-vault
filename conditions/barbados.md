@@ -93,6 +93,52 @@ Barbados has an international ship registry. Yacht registration possible. Full-s
 - Permanent residence/Special Entry Permit: discretionary, property-focused; slower processing.
 - Overall: expat-friendly, English-speaking, high quality of life.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~282,000 (2024) | [World Bank](https://data.worldbank.org/country/barbados) — hard/official |
+| Main religion | Christianity (Anglican ~24%, Pentecostal ~19%, other Protestant) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/barbados/) — hard/official |
+| Main language | English (official); Bajan Creole widely spoken | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/barbados/) — hard/official |
+| Main city (capital or largest) | Bridgetown | [Wikipedia](https://en.wikipedia.org/wiki/Bridgetown) — hard/official |
+| On the coast? | Yes (island nation; Caribbean Sea + Atlantic Ocean) | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — peak Dec–Apr; cruise ship arrivals seasonal; west coast luxury market | [soft/estimate] |
+| GDP per capita (PPP) | ~$19,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=BB) — hard/official |
+| Median net monthly salary | ~BBD 3,000 (~$1,500) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Barbados) [soft/estimate] |
+| Cost of living index | 72.8 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$900 (city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Barbados) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% on foreign-source income (territorial; Welcome Stamp exempt) | See [[#tax]] |
+| Remote-work / self-employment residence available? | Yes — Welcome Stamp (12 months, $50K income threshold, renewable) | See [[#digital-nomad-visa]] |
+| Years to citizenship | 5–7 years continuous legal residence | See [[#citizenship]] |
+| Maximum permitted absence during residence | Welcome Stamp: no specific absence rule; permanent residence: continuous presence expected | [soft/estimate] |
+| Passport strength after citizenship | ~155 visa-free destinations (Henley Q3 2025) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.66 (rank 34/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 94/100 (Free) | [Freedom House](https://freedomhouse.org/country/barbados/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~3,000 h | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Barbados#Climate) — hard/official |
+| Average annual temperature | ~27 °C | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Barbados#Climate) — hard/official |
+
+## Country Card
+
+### General description
+Barbados is a high-income eastern Caribbean island nation and a stable parliamentary democracy. It has a service-based economy dominated by tourism, international business, and financial services. Barbados is notable among Caribbean jurisdictions for offering both a well-regarded digital nomad programme (the 12-Month Welcome Stamp, $50K income threshold) and a long-established territorial tax regime with no tax on foreign-source income. It is English-speaking, has high Human Development Index scores for the region, and offers a respected passport with strong visa-free access (~155 destinations). Citizenship requires 5–7 years of residence.
+
+### Well-known strong points
+- Welcome Stamp: one of the Caribbean's best digital nomad programmes (7-day approval, zero local tax)
+- Strong passport: ~155 visa-free destinations including UK, Schengen, Singapore
+- English-speaking with British common-law legal system
+- High Freedom House score (94/100 — Free) and strong rule of law (WJP 0.66)
+- Territorial tax: no tax on foreign-source income; no capital gains, inheritance, or wealth tax
+- Stable democracy with high quality of life; good healthcare by Caribbean standards
+
+### Well-known problems
+- Very high cost of living (Numbeo index 72.8); among the most expensive in the Caribbean
+- Welcome Stamp does not count toward permanent residence or citizenship
+- Permanent residence/Special Entry Permit is discretionary — no fixed income threshold published
+- Small economy; limited job market outside tourism and financial services
+- Long naturalization timeline (5–7 years) compared to CBI jurisdictions
+- Hurricane risk (though historically less exposed than northern Caribbean)
 ## Status
 - Last change: October 2025 — CARICOM free movement extended (Belize, Dominica, St Vincent).
 - Last monitored: 2026-09-14.

@@ -77,3 +77,47 @@ Visa-free entry for 90 days for Russian citizens. Direct flights from Moscow res
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Workcation Retreat Program stable since launch. PR investment threshold unchanged.
 - **Watch items**: Monitor any changes to PR investment requirements.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~130,000 (2024) | ^[https://data.worldbank.org/country/SC] hard/official |
+| Main religion | Christianity (~89%; Catholic ~76%, Anglican ~6%) | ^[https://www.cia.gov/the-world-factbook/countries/seychelles/] hard/official |
+| Main language | Seychellois Creole, English, French (all official) | ^[https://www.cia.gov/the-world-factbook/countries/seychelles/] hard/official |
+| Main city (capital or largest) | Victoria (on Mahé; ~30,000) | ^[https://www.cia.gov/the-world-factbook/countries/seychelles/] hard/official |
+| On the coast? | Yes — island archipelago (115 islands, Indian Ocean) | hard/official |
+| Tourism impact in season | High — peak December–January and July–August; heavy seasonal price swings | [soft/estimate] |
+| GDP per capita (PPP) | ~$35,000 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=SC] hard/official |
+| Median net monthly salary | ~$600–800 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Seychelles] |
+| Cost of living index (relative) | ~50 (NYC=100) — higher than most African countries | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Seychelles] |
+| Monthly rent, 1‑bedroom apartment | ~$600–1,000 (Mahé expat areas) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Seychelles] |
+| Effective personal tax rate for remote workers | Territorial system — generally 0% on foreign-sourced income for non-citizens | [soft/estimate] |
+| Remote‑work / self‑employment residence available? | Yes — Workcation Retreat Program (1 year, €45 fee); no PR path | ^[https://www.seychelles.govtas.com] |
+| Years to citizenship | No standard naturalisation route; citizenship by descent or marriage (10+ years) only | ^[https://www.imi.gov.sc] |
+| Maximum permitted absence during residence | — (citizenship effectively closed) | |
+| Passport strength after citizenship (visa‑free count) | ~150 destinations (EU/Schengen, UK, Singapore, Russia) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.63 (rank 43/142, 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/country/2024/Seychelles] hard/official |
+| Freedom House score | 79/100 — Free (2025) | ^[https://freedomhouse.org/country/seychelles/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,700 (Victoria, Mahé) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Victoria,Seychelles] hard/official |
+| Average annual temperature | ~27°C (Victoria, tropical equatorial) | ^[https://en.climate-data.org/africa/seychelles/port-glaud-33895/] hard/official |
+
+## Country Card
+
+Seychelles is a stunning Indian Ocean archipelago of 115 islands with Africa's highest GDP per capita PPP (~$35,000) and one of the continent's strongest passports (~150 visa-free). Victoria (Mahé) is one of the world's smallest capitals. The Workcation Retreat Program offers a 1-year stay for remote workers at minimal cost (€45). Permanent residence is available via USD 1M+ investment. The tax system is territorial — foreign-sourced income is generally not taxed for non-citizens. Citizenship is effectively closed to foreigners.
+
+### Well-known strong points
+- Africa's highest GDP per capita (~$35,000 PPP); strong passport (~150 visa-free destinations)
+- Territorial tax system — no personal income tax on foreign income for non-citizens
+- Workcation Retreat Program: 1-year remote work stay, only €45 fee
+- Rule of Law 0.63 (rank 43/142), Freedom House 79/100 — strong democratic governance
+- English and French are both official; trilingual population
+- World-class yachting destination with growing superyacht infrastructure
+
+### Well-known problems
+- Citizenship is effectively closed — no standard naturalisation route for foreigners
+- Very high cost of living — most goods imported; expat living is expensive
+- Tiny population (~130,000) and economy — extremely limited domestic market
+- Workcation Retreat Program does not lead to PR or citizenship; no long-term DN pathway
+- Permanent residence requires USD 1M+ investment — high entry barrier
+- Infrastructure is limited outside Mahé; internet is improving but can be inconsistent

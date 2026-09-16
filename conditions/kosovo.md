@@ -110,3 +110,47 @@ Kosovo is not a popular expat destination. Those who relocate are typically dipl
 - **Last monitored**: 2026-09-13
 - **Recent changes**: No significant recent changes to immigration framework. EU visa liberalization for Kosovo citizens effective January 2024.
 - **Watch items**: EU visa liberalization implementation. Potential progress toward EU candidate status. Normalization dialogue with Serbia.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~1,600,000 (2025) | ^[https://data.worldbank.org/country/kosovo] hard/official |
+| Main religion | Islam (~96%) | ^[https://www.cia.gov/the-world-factbook/countries/kosovo/] hard/official |
+| Main language | Albanian / Serbian (both official) | ^[https://www.cia.gov/the-world-factbook/countries/kosovo/] hard/official |
+| Main city (capital) | Pristina (pop. ~200,000) | ^[https://data.worldbank.org/country/kosovo] hard/official |
+| On the coast? | No (landlocked) | Geography — hard |
+| Tourism impact in season | Low — not a mass-tourism destination | [soft/estimate] |
+| GDP per capita (PPP) | ~$16,000 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=XK] hard/official |
+| Median net monthly salary | ~€350 (2025) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Kosovo] [soft/estimate] |
+| Cost of living index | Very low (~28, Numbeo; one of the cheapest in Europe) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Kosovo] [soft/estimate] |
+| Monthly rent, 1-bedroom apt | ~€200 (Pristina) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Kosovo] [soft/estimate] |
+| Effective tax for remote workers | 0–10% progressive PIT + ~10% social (very low combined burden) | ^[https://www.pwc.com/ks/en/publications/assets/coming-to-work.pdf] [soft/estimate] |
+| Remote-work / self-employment residence? | Not available — no formal DN visa; de facto via business registration | From page — [soft/estimate] |
+| Years to citizenship | 5 years | ^[https://old.kuvendikosoves.org/common/docs/ligjet/Law%20on%20foreigners.pdf] hard/official |
+| Maximum permitted absence | Not specified (standard continuous residence applies) | From page — [soft/estimate] |
+| Passport visa-free count | 54 (Passport Index 2026; limited recognition) | ^[https://www.passportindex.org/passport/kosovo] hard/official |
+| Rule of Law Index (WJP 2024) | 0.47 (rank 95/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score (2025) | 60/100 — Partly Free | ^[https://freedomhouse.org/country/kosovo/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,200 (Pristina) | ^[https://en.wikipedia.org/wiki/Pristina#Climate] hard/official |
+| Average annual temperature | ~11°C (Pristina) | ^[https://en.wikipedia.org/wiki/Pristina#Climate] hard/official |
+
+## Country Card
+
+Kosovo is a partially recognized Balkan state (~100 UN members recognize it), not an EU candidate but with EU visa liberalization since January 2024. It has no golden visa, digital nomad visa, or CBI program — residence is through employment, business, education, or family ties. Citizenship is fast (5 years) but comes with a severe structural flaw: the Kosovar passport has only ~54 visa-free destinations and no Schengen access. The country uses the Euro unilaterally and has extremely low income taxes (0–10% PIT) and social charges (~10% total).
+
+### Well-known strong points
+- Fast citizenship: 5 years — tied with Albania for fastest in Europe
+- Extremely low taxes: 0–10% PIT + ~10% social — lowest combined burden in the region
+- Very low cost of living (~€400–600/month for a single person)
+- Euro-denominated economy — no currency risk
+- Visa-free entry for Schengen/US/UK visa holders
+- Young population; growing tech/BPO sector in Pristina
+
+### Well-known problems
+- Passport among the weakest in Europe (~54 visa-free, no Schengen); not universally recognized
+- Kosovo's statehood not recognized by Serbia, Russia, China, and ~90 other countries
+- Serbian citizens may face administrative friction; RU citizens face severe banking/entry issues
+- No formal DN visa, golden visa, or investment residence pathway
+- Limited international flight connectivity; landlocked
+- Brain drain — many young Kosovars emigrate for better opportunities

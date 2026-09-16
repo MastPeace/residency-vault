@@ -110,3 +110,47 @@ Kuwait has the smallest expat appeal among GCC states for lifestyle/residency se
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Cabinet Resolution No. 651/2026 (Jun 2026) — new 15-year investor residency programme with KDIPA. KD 5M investment threshold.
 - **Watch items**: Implementation of new investor residency. Potential VAT introduction. Further residency reforms.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~4,865,000 | ^[https://data.worldbank.org/country/kuwait] hard/official |
+| Main religion | Islam (Sunni majority, Shia minority) | ^[https://www.cia.gov/the-world-factbook/countries/kuwait/] hard/official |
+| Main language | Arabic | ^[https://www.cia.gov/the-world-factbook/countries/kuwait/] hard/official |
+| Main city | Kuwait City (capital and largest) | ^[https://www.cia.gov/the-world-factbook/countries/kuwait/] hard/official |
+| On the coast? | Yes — Persian Gulf | hard/official |
+| Tourism impact in season | Low — limited tourism; business travel dominates | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Kuwait] [soft/estimate] |
+| GDP per capita (PPP) | ~$52,000 (2024) | ^[https://www.imf.org/en/Publications/WEO] hard/official |
+| Median net monthly salary | ~$2,000–$3,000 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Kuwait] [soft/estimate] |
+| Cost of living index | 35.7 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Kuwait] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$700–$1,100 (Kuwait City centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Kuwait] [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% (no personal income tax) | ^[https://www.mof.gov.kw/] [soft/estimate] |
+| Remote-work / self-employment residence available? | Limited — new investor residency (KD 5M, 2026); freelancer permits restricted | ^[https://kdipa.gov.kw/] [soft/estimate] |
+| Years to citizenship | No pathway (citizenship restricted to descendants of 1920 residents; extremely rare grants) | ^[https://www.moi.gov.kw/] hard/official |
+| Maximum permitted absence during residence | 6 months | ^[https://www.moi.gov.kw/] [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 97 (Henley, Jul 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.58 (rank 52/142, 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 31/100 — Not Free (2025; declined from 38 in 2024) | ^[https://freedomhouse.org/country/kuwait/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~3,350 | ^[https://weatherspark.com/countries/KW] hard/official |
+| Average annual temperature | ~27°C | ^[https://weatherspark.com/countries/KW] hard/official |
+
+## Country Card
+
+Kuwait is a high-income oil state with the Gulf's most active parliament and some of the world's largest sovereign wealth reserves. Personal income tax is 0%, and the cost of living is moderate. The 2026 Cabinet Resolution No. 651 introduced a new 15-year investor residency programme via KDIPA with a KD 5 million threshold. Expatriates make up approximately two-thirds of the population, mostly in employment-based visas. Kuwait has historically had the most politically engaged citizenry in the Gulf, though Freedom House rates it Not Free (31/100), declining from Partly Free status in 2024.
+
+### Well-known strong points
+- 0% personal income tax backed by substantial oil wealth
+- Moderate cost of living — cheaper than UAE/Qatar for housing and daily expenses
+- Active parliament with more political debate than any other Gulf monarchy
+- Strong Kuwaiti dinar — one of the world's highest-valued currencies
+- Well-established banking sector and deep capital markets
+- Generous state welfare for Kuwaiti citizens; subsidized fuel, electricity, and healthcare
+
+### Well-known problems
+- No pathway to citizenship — restricted to descendants of pre-1920 residents; almost never granted
+- Very limited self-sponsored residency — investor visa requires KD 5M (2026)
+- Political gridlock between parliament and government causes policy stagnation
+- Bureaucracy is notoriously slow and paper-heavy; wasta (connections) culture pervasive
+- Declining civil liberties: Freedom House score dropped from 38 to 31 (2024→2025)
+- Extreme summer heat (May–September) with dust storms; limited outdoor activity

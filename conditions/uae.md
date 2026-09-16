@@ -145,3 +145,47 @@ Largely positive. Golden Visa is well-established and functional. Processing tim
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Property Golden Visa no longer requires 50% paid-up threshold (Feb 2026). Virtual Work programme bank statement requirement increased to 6 months (Jan 2026). Blue Residency (10-year sustainability visa) operational.
 - **Watch items**: Potential Golden Visa tightening. Corporate tax compliance expansion. Russian KYC landscape.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~11,000,000 | ^[https://data.worldbank.org/country/united-arab-emirates] hard/official |
+| Main religion | Islam (Sunni) | ^[https://www.cia.gov/the-world-factbook/countries/united-arab-emirates/] hard/official |
+| Main language | Arabic | ^[https://www.cia.gov/the-world-factbook/countries/united-arab-emirates/] hard/official |
+| Main city | Dubai (largest); Abu Dhabi (capital) | ^[https://www.cia.gov/the-world-factbook/countries/united-arab-emirates/] hard/official |
+| On the coast? | Yes — Persian Gulf and Gulf of Oman | hard/official |
+| Tourism impact in season | High — November to March peak; hotel/rental prices surge; major events (Dubai Shopping Festival) | ^[https://www.numbeo.com/cost-of-living/in/Dubai] [soft/estimate] |
+| GDP per capita (PPP) | ~$88,200 (2024) | ^[https://www.imf.org/en/Publications/WEO] hard/official |
+| Median net monthly salary | ~$4,500–$5,500 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=United+Arab+Emirates] [soft/estimate] |
+| Cost of living index | 62.5 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=United+Arab+Emirates] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$1,500–$2,500 (city centre, Dubai) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=United+Arab+Emirates] [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% (no personal income tax) | ^[https://u.ae/en/information-and-services/finance-and-investment/taxation] [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Virtual Work Programme ($3,500/mo) | ^[https://www.investindubai.gov.ae/en/live-and-work/visas-and-entry/work-remotely-from-dubai] [soft/estimate] |
+| Years to citizenship | No pathway (citizenship by nomination only) | ^[http://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa] hard/official |
+| Maximum permitted absence during residence | No minimum stay (Golden Visa); 180 days for standard visa | ^[http://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa] [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 188 (Henley, Jul 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.64 (rank 39/142, 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 18/100 — Not Free (2025) | ^[https://freedomhouse.org/country/united-arab-emirates/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~3,500 | ^[https://weatherspark.com/countries/AE] hard/official |
+| Average annual temperature | ~27°C | ^[https://weatherspark.com/countries/AE] hard/official |
+
+## Country Card
+
+The United Arab Emirates is a federation of seven emirates on the Arabian Peninsula, dominated by Dubai and Abu Dhabi. With 0% personal income tax, world-class infrastructure, and the strongest passport in the Arab world (188 visa-free destinations), the UAE has positioned itself as the premier global hub for entrepreneurs, IT professionals, and high-net-worth individuals. Expats make up roughly 88% of the population, creating a cosmopolitan, English-friendly environment with few cultural barriers to business. The Golden Visa programme offers 5–10 year renewable residency with no minimum stay requirement.
+
+### Well-known strong points
+- 0% personal income tax — no tax on salary, dividends, capital gains, or inheritance
+- World-class infrastructure: airports, ports, roads, and fastest mobile internet globally
+- Strongest passport in the Middle East (188 visa-free destinations, Henley 2026)
+- High safety and political stability in a volatile region
+- Flexible residency: Golden Visa with no minimum stay, no exit requirements
+- Global business hub with extensive free zones, 100% foreign ownership, and easy company setup
+
+### Well-known problems
+- No path to citizenship for expatriates — permanent residency only, no naturalization
+- Extreme summer heat (May–September) with temperatures regularly exceeding 45°C
+- High and rising cost of living, especially housing in Dubai and Abu Dhabi
+- Limited political freedoms and civil liberties (Freedom House 18/100)
+- Banking and KYC challenges for new residents, especially post-2022 compliance tightening
+- Over-reliance on expatriate labour with residency tied to employment/sponsorship for standard visa holders

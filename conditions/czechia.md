@@ -90,3 +90,47 @@ Russian citizens need a Schengen visa. Employee Card and Blue Card routes open b
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Digital nomad programme launched for IT specialists. Employee Card and Blue Card processes stable.
 - **Watch items**: Monitor Digital Nomad Programme uptake and any processing time trends.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~10,870,000 (2024) | ^[https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CZ] hard/official |
+| Main religion | Christianity (Catholic majority, largely secularised) | ^[https://www.cia.gov/the-world-factbook/countries/czechia/] hard/official |
+| Main language | Czech | ^[https://www.cia.gov/the-world-factbook/countries/czechia/] hard/official |
+| Main city (capital or largest) | Prague | ^[https://www.cia.gov/the-world-factbook/countries/czechia/] hard/official |
+| On the coast? | No — landlocked | geographical fact |
+| Tourism impact in season | High — Prague heavily touristed year-round, peaks Apr–Oct and Dec | [soft/estimate] |
+| GDP per capita (PPP) | ~$52,300 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=CZ] hard/official |
+| Median net monthly salary | ~CZK 35,000 (~€1,400) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Czech+Republic] [soft/estimate] |
+| Cost of living index (relative to NYC=100) | ~48 (Numbeo) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Czech+Republic] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~CZK 17,500 (Prague city centre) / ~CZK 13,000 (outside) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Czech+Republic] [soft/estimate] |
+| Effective personal tax rate for remote workers | 15% flat (23% above ~CZK 1.9M) + ~11% social/health | ^[https://www.mfcr.cz/en] [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Digital Nomad Programme for IT specialists; trade license (živnostenský list) for freelancers | per page residency sections |
+| Years to citizenship | ~10 years (5 years permanent residence) | ^[https://www.mvcr.cz/mvcren/] hard/official |
+| Maximum permitted absence during residence | Not explicitly stated; continuous residence required for permanent residence | per page residency sections |
+| Passport strength after citizenship (visa-free count) | 183 destinations (Henley 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.73 (WJP 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/global] hard/official |
+| Freedom House score | 94/100 (Free) | ^[https://freedomhouse.org/country/czech-republic/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~1,600 (Prague) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Prague,Czech-Republic] hard/official |
+| Average annual temperature | ~9°C (Prague) | ^[https://www.chmi.cz/?l=en] hard/official |
+
+## Country Card
+
+Czechia is a central European EU/Schengen member with the EU's lowest unemployment rate, a strong industrial base, and a growing tech ecosystem centred on Prague and Brno. It is one of the few EU countries with a dedicated digital nomad programme for IT specialists, though this is a newer programme with limited track record. The trade license (živnostenský list) is a well-established freelancer route, complemented by the EU Blue Card for highly skilled employees. Citizenship requires about 10 years total and B1 Czech language proficiency. The 15% flat income tax rate (up to ~CZK 1.9M) makes Czechia one of the most tax-competitive EU destinations for remote workers and freelancers.
+
+### Well-known strong points
+- Dedicated Digital Nomad Programme for IT specialists — rare in the EU
+- 15% flat income tax (23% only above ~CZK 1.9M/~€76,000) — among the lowest in the EU
+- Trade license (živnostenský list) route is a well-established, popular freelancer pathway
+- Prague is a major European tech hub with strong startup ecosystem and excellent infrastructure
+- Very low unemployment rate (EU's lowest) and strong industrial/manufacturing base
+- Dual citizenship permitted since 2014
+
+### Well-known problems
+- Czech language is difficult and B1 is required for citizenship
+- Citizenship path is long (~10 years total: 5 years residence → 5 years PR → naturalisation)
+- Digital Nomad Programme is newer with limited track record; does not lead directly to permanent residence
+- Prague overtourism strains infrastructure and housing; rents rising sharply
+- Bureaucratic initial setup for trade license requires Czech-language paperwork
+- Landlocked — no maritime access

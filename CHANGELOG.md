@@ -5,6 +5,22 @@ All notable changes to this project are documented here. Dates are UTC.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
+## [2026-09-16] — Country Snapshot + Country Card (data) for all 100 countries
+
+### Added
+- **Country Snapshot** (19-row table) + **Country Card** (general description / well-known
+  strong points / well-known problems) added to all 100 `conditions/*.md` pages.
+- Hard fields (population, main religion/language/city, GDP/capita PPP, passport strength,
+  Rule of Law Index, Freedom House score, sunshine hours, avg temperature) sourced from
+  World Bank / IMF / CIA Factbook / official index / climate sources with URLs.
+- Soft fields (median net salary, cost-of-living index, 1-bed rent, effective tax for
+  remote workers) tagged `[soft/estimate]` (Numbeo-type market estimates).
+- Residency rows (years to citizenship, max permitted absence, remote-work residence
+  availability) made consistent with each page's own residency sections.
+
+### Notes
+- Filled over several parallel waves; a few runs hit a transient API-credit ceiling (HTTP 402)
+  and were re-dispatched in smaller batches — final coverage verified at 100/100.
 
 ## [2026-09-15] — v3: Country Snapshot + Country Card schema
 

@@ -134,6 +134,51 @@ The Netherlands maintains strict EU sanctions against Russia. Visa processing fo
 ## Community Pulse
 The Netherlands has an efficient, employer-driven immigration system: HSM is fast (2–8 weeks) and the recognized sponsor scheme is mature. The 30% ruling reduction (8→5 years) and proposed further tightening are points of expat anxiety. The lack of passive-income, digital-nomad, investor, and retiree routes means non-working or self-employed non-EU individuals have few options (DAFT for US citizens only). The housing crisis (extreme shortages, especially in Amsterdam) is a practical barrier dwarfing immigration policy issues. Dutch directness and English proficiency make cultural integration relatively smooth.
 
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~17,900,000 (2024) | [World Bank](https://data.worldbank.org/country/netherlands) — hard/official |
+| Main religion | Christianity (historically Protestant + Catholic); majority non-religious | [Wikipedia](https://en.wikipedia.org/wiki/Netherlands#Religion) — hard/official |
+| Main language | Dutch | [Wikipedia](https://en.wikipedia.org/wiki/Netherlands) — hard/official |
+| Main city (capital or largest) | Amsterdam (capital); The Hague (government seat) | [Wikipedia](https://en.wikipedia.org/wiki/Amsterdam) — hard/official |
+| On the coast? | Yes (North Sea, ~451 km) | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — Amsterdam overtourism, tulip season; seasonal peaks spring/summer | [soft/estimate] |
+| GDP per capita (PPP) | ~$73,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=NL) — hard/official |
+| Median net monthly salary | ~$3,915 (~€3,610) | [Numbeo](https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105) [soft/estimate] |
+| Cost of living index | 60.5 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~€1,500 (Amsterdam city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Netherlands) [soft/estimate] |
+| Effective personal tax rate for remote workers | Progressive 36.93%–49.5%; 30% ruling: 30% of salary tax-free (5 years) | See [[#tax]] [soft/estimate] |
+| Remote-work / self-employment residence available? | No — no digital nomad visa; DAFT (US citizens only, business setup) | See [[#digital-nomad-visa]] |
+| Years to citizenship | 5 years | See [[#citizenship]] |
+| Maximum permitted absence during residence | Generally 6 months maximum continuous absence | See [[#citizenship]] |
+| Passport strength after citizenship | 188 visa-free destinations (Henley Q3 2025, rank 4) | [Henley & Partners](https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025) — hard/official |
+| Rule of Law Index | 0.82 (rank 8/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 97/100 (Free) | [Freedom House](https://freedomhouse.org/country/netherlands/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | 1,662 h (Amsterdam) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~10 °C | [Wikipedia / KNMI](https://en.wikipedia.org/wiki/Netherlands#Climate) — hard/official |
+
+## Country Card
+
+### General description
+The Netherlands is a densely populated, highly developed Western European country with a strong, trade-oriented economy and near-universal English proficiency. Its immigration system is employer-driven: the Highly Skilled Migrant (Kennismigrant) scheme and EU Blue Card are the primary routes, with fast processing (2–8 weeks) and access to the 30% tax ruling. The Netherlands has no dedicated digital nomad, passive-income, investor, or retirement visa — non-working or self-employed non-EU individuals have very limited options (the DAFT treaty is US-exclusive). Citizenship requires 5 years of residence, the Inburgering exam (A2 Dutch), and generally renunciation of previous citizenship.
+
+### Well-known strong points
+- Excellent English proficiency — one of the easiest EU countries to navigate without the local language
+- Highly Skilled Migrant scheme: fast processing (2–8 weeks), recognized sponsor system
+- 30% ruling: 30% of salary tax-free for up to 5 years (major net-income boost)
+- Strong passport (188 destinations) and very high Rule of Law (WJP 0.82, rank 8/142)
+- World-class digital infrastructure, startup ecosystem, and quality of life
+- DAFT treaty: unique low-barrier route for US citizens (€4,500 capital)
+
+### Well-known problems
+- No digital nomad visa, passive-income route, investor visa, or retirement visa
+- Dual citizenship generally NOT permitted (must renounce previous nationality)
+- Severe housing crisis: extreme shortages and high prices, especially in Amsterdam
+- 30% ruling reduced from 8 to 5 years with ongoing political pressure to further cut
+- High cost of living (Numbeo index 60.5) combined with very high rent (~€1,500 for 1-bedroom)
+- Inburgering A2 Dutch requirement for citizenship/permanent residence
+
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: 30% ruling reduced to 5 years (from 8). HSM 2026 salary thresholds: €5,942 (30+), €4,357 (under 30). Proposed tighter HSM rules (July 2025 consultations) not yet implemented. EU Blue Card Directive 2021/1883 implementation ongoing.

@@ -118,3 +118,47 @@ Georgia remains one of the most accessible countries globally for independent re
 - **Last monitored**: 2026-09-14
 - **Recent changes**: Major immigration overhaul Sep 1, 2026 — marriage residence route restructured (temp 1yr → 5yr → PR, inter-agency commission, criminal liability for fake marriages). Student residence tightened (school students excluded, presence monitoring, Jan 1, 2027 deadline). C5 Digital Nomad Visa adopted (Apr 16, 2026). Further amendments Mar 1, 2026 and Sep 1, 2026 — new work permit requirements, stricter enforcement, new D6 visa.
 - **Watch items**: Implementation of Sep 2026 changes. C5 visa uptake. Further tightening expected.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~3,807,000 (2025) | ^[https://data.worldbank.org/country/georgia] hard/official |
+| Main religion | Orthodox Christianity (~83%); Islam (~11%) | ^[https://www.cia.gov/the-world-factbook/countries/georgia/] hard/official |
+| Main language | Georgian (official) | ^[https://www.cia.gov/the-world-factbook/countries/georgia/] hard/official |
+| Main city (capital) | Tbilisi (pop. ~1,200,000) | ^[https://data.worldbank.org/country/georgia] hard/official |
+| On the coast? | Yes — Black Sea coastline (Batumi, Poti) | Geography — hard |
+| Tourism impact in season | Medium-High — Batumi in summer; Tbilisi year-round; significant Russian relocant presence | [soft/estimate] |
+| GDP per capita (PPP) | ~$25,000 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=GE] hard/official |
+| Median net monthly salary | ~€350 (2025) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Georgia] [soft/estimate] |
+| Cost of living index | Very low (~30, Numbeo; among cheapest globally for relocants) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Georgia] [soft/estimate] |
+| Monthly rent, 1-bedroom apt | ~€350 (Tbilisi center; post-2022 surge from ~€200) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Georgia] [soft/estimate] |
+| Effective tax for remote workers | 1% turnover (IE up to GEL 500K); 0% on foreign-source income below GEL 500K | ^[https://pbservices.ge/services/individual-entrepreneur-georgia] hard/official |
+| Remote-work / self-employment residence? | Yes — C5 DN visa (since Apr 2026); de facto via IE + 1% tax (the practical route) | From page — hard |
+| Years to citizenship | 10 years | ^[https://pbservices.ge/blog/residency-rules-work-residence-permit-in-georgia] hard/official |
+| Maximum permitted absence | Not specified (standard continuous residence for naturalization) | From page — [soft/estimate] |
+| Passport visa-free count | 79 (Passport Index 2026) | ^[https://www.passportindex.org/passport/georgia] hard/official |
+| Rule of Law Index (WJP 2024) | 0.60 (rank 48/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score (2025) | 58/100 — Partly Free | ^[https://freedomhouse.org/country/georgia/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,100 (Tbilisi); ~2,300 (Batumi) | ^[https://en.wikipedia.org/wiki/Tbilisi#Climate] hard/official |
+| Average annual temperature | ~13°C (Tbilisi) | ^[https://en.wikipedia.org/wiki/Tbilisi#Climate] hard/official |
+
+## Country Card
+
+Georgia is a Caucasus country at the crossroads of Europe and Asia, not an EU member but with an Association Agreement. It has become the world's #1 hub for Russian-speaking relocants and IT freelancers, driven by visa-free entry (1 year for 100+ nationalities including Russia), a 1-day Individual Entrepreneur (IE) registration, and a 1% turnover tax on income up to GEL 500,000 (~$185,000). The country also has a formal C5 Digital Nomad Visa (since April 2026) and a $300,000 investment residence permit (5 years). The major structural flaw: citizenship requires 10 years of residence + Georgian language + history exam + renunciation of existing citizenship.
+
+### Well-known strong points
+- World-class tax regime: 1% turnover (IE) or 0% on foreign-source income below GEL 500K
+- Visa-free entry for 100+ nationalities including Russia — 1 year without a permit
+- IE registration in 1 day online; banking accessible (Bank of Georgia, TBC)
+- 0% property tax on primary residence; Estonian-model corporate tax (15% on distributions)
+- Best Rule of Law in the region (WJP 0.60, rank 48/142)
+- Large, established expat/relocant community in Tbilisi; Russian widely spoken
+
+### Well-known problems
+- Very difficult citizenship: 10 years + language + history exam + renunciation required
+- Immigration tightening since 2025 (work permits, marriage route restricted, D6 visa)
+- Tbilisi rents surged 50–100% post-2022 due to relocant wave; infrastructure under strain
+- No formal golden visa or passive-income residence; investment route at $300K
+- Political backsliding (Freedom House 58, down from 60); EU accession stalled
+- Banking for RU citizens has become more selective; sanctions screening

@@ -113,3 +113,47 @@ Oman is quiet, safe, and culturally more relaxed than Saudi Arabia. The 2026 res
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Decision No. 87/2026 (Jun 2026) — major reform: sponsor-free property visas, expanded family sponsorship, unregistered property visas, investor residency without sponsor.
 - **Watch items**: Implementation of 2026 reforms in practice. Potential expansion to digital nomad or retirement visas.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~5,495,000 | ^[https://data.worldbank.org/country/oman] hard/official |
+| Main religion | Islam (Ibadi majority, Sunni minority) | ^[https://www.cia.gov/the-world-factbook/countries/oman/] hard/official |
+| Main language | Arabic | ^[https://www.cia.gov/the-world-factbook/countries/oman/] hard/official |
+| Main city | Muscat (capital and largest) | ^[https://www.cia.gov/the-world-factbook/countries/oman/] hard/official |
+| On the coast? | Yes — Arabian Sea, Gulf of Oman, and Persian Gulf (Strait of Hormuz) | hard/official |
+| Tourism impact in season | Medium — winter peak (November–March); Salalah khareef (monsoon) season Jun–Sep draws regional visitors | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Oman] [soft/estimate] |
+| GDP per capita (PPP) | ~$42,000 (2024) | ^[https://www.imf.org/en/Publications/WEO] hard/official |
+| Median net monthly salary | ~$1,800–$2,500 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Oman] [soft/estimate] |
+| Cost of living index | 33.2 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Oman] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$500–$800 (Muscat city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Oman] [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% (no personal income tax) | ^[https://www.tax.gov.om/] [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Investor Residency (no sponsor, property from OMR 100K); freelance permit available; 2026 reforms expanded options | ^[https://www.rop.gov.om/] [soft/estimate] |
+| Years to citizenship | No pathway for expatriates (discretionary; extremely rare) | ^[https://www.rop.gov.om/] hard/official |
+| Maximum permitted absence during residence | 6 months | ^[https://www.rop.gov.om/] [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 85 (Henley, Jul 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | ~0.58 (2024 est.) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 24/100 — Not Free (2025) | ^[https://freedomhouse.org/country/oman/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~3,960 | ^[https://weatherspark.com/countries/OM] hard/official |
+| Average annual temperature | ~28°C (Muscat coastal) | ^[https://weatherspark.com/countries/OM] hard/official |
+
+## Country Card
+
+Oman is the quiet outlier of the Gulf: slower-paced, more traditional, and less glitzy than its neighbors. With 0% personal income tax, stunning coastal and mountain landscapes, and the lowest cost of living among GCC states, it appeals to those seeking authentic Gulf life without Dubai's intensity. The 2026 residency reforms (Decision No. 87/2026) significantly liberalized the system, introducing sponsor-free property visas, expanded family sponsorship, and investor residency without a local sponsor. Expatriates make up roughly 43% of the population. The Ibadhi Islamic tradition gives Oman a distinct, more moderate religious character.
+
+### Well-known strong points
+- 0% personal income tax with the lowest cost of living in the GCC
+- Natural beauty: mountains (Jebel Akhdar), deserts, and 3,000 km of coastline
+- 2026 residency reforms: sponsor-free property and investor visas, simplified pathways
+- Calm, stable political environment with less regional tension exposure
+- Authentic Arab culture preserved — no skyscraper overload, traditional architecture enforced
+- Friendly and welcoming population; strong expat community in Muscat
+
+### Well-known problems
+- No path to citizenship — residence only; naturalization is extraordinarily rare
+- Smaller, less diversified economy than UAE/Qatar; fewer job opportunities for professionals
+- Bureaucracy is slow and paper-heavy; government services lag behind Dubai/Abu Dhabi
+- Limited entertainment and nightlife compared to Dubai/Doha
+- Hot and humid summers (May–September) with temperatures exceeding 45°C inland
+- Weaker passport (85 visa-free) and less global connectivity than neighboring Gulf states

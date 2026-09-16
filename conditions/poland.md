@@ -105,3 +105,47 @@ Polish consulates in Russia have severely reduced operations. Visa issuance for 
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Citizenship tightened to 10 years + civic exam (May 2026). Language may rise from B1 to C1. MOS online-only applications mandatory from April 27, 2026.
 - **Watch items**: Monitor C1 language requirement implementation. Track citizenship reform full details.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~36,820,000 (2024) | ^[https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PL] hard/official |
+| Main religion | Christianity (Catholic majority) | ^[https://www.cia.gov/the-world-factbook/countries/poland/] hard/official |
+| Main language | Polish | ^[https://www.cia.gov/the-world-factbook/countries/poland/] hard/official |
+| Main city (capital or largest) | Warsaw | ^[https://www.cia.gov/the-world-factbook/countries/poland/] hard/official |
+| On the coast? | Yes — Baltic Sea coastline (~440 km) | geographical fact |
+| Tourism impact in season | Medium — Kraków/Warsaw year-round; Baltic coast Jul–Aug; growing | [soft/estimate] |
+| GDP per capita (PPP) | ~$49,500 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=PL] hard/official |
+| Median net monthly salary | ~PLN 5,500 (~€1,200) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Poland] [soft/estimate] |
+| Cost of living index (relative to NYC=100) | ~38 (Numbeo) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Poland] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~PLN 3,000 (city centre) / ~PLN 2,200 (outside) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Poland] [soft/estimate] |
+| Effective personal tax rate for remote workers | 12% up to PLN 120K / 32% above; flat 19% for JDG self-employed | ^[https://www.gov.pl/web/finance] [soft/estimate] |
+| Remote-work / self-employment residence available? | No dedicated digital nomad visa; JDG self-employment route available for IT freelancers | per page residency sections |
+| Years to citizenship | 10 years (2026 tightened rules) | ^[https://www.visaverge.com/news/polands-ministry-of-the-interior-tightens-citizenship-rules-to-curb-immigration] hard/official |
+| Maximum permitted absence during residence | Not explicitly stated for citizenship; continuous residence expected | per page residency sections |
+| Passport strength after citizenship (visa-free count) | 183 destinations (Henley 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.63 (WJP 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/global] hard/official |
+| Freedom House score | 80/100 (Free) | ^[https://freedomhouse.org/country/poland/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~1,598 (Warsaw) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,warsaw,Poland] hard/official |
+| Average annual temperature | ~8.5°C (Warsaw) | ^[https://www.imgw.pl/] hard/official |
+
+## Country Card
+
+Poland is the EU's 5th-largest economy and one of Europe's fastest-growing tech markets, with a competitive cost structure, a large domestic market, and strong engineering talent. Immigration is employment-driven: the EU Blue Card (salary ≥PLN 13,355/mo) is the flagship skilled-worker route, while the JDG sole proprietorship model is popular among IT freelancers for its flat 19% tax rate. No golden visa, passive-income, or dedicated digital nomad visa exists. Citizenship was tightened significantly in 2026 to 10 years with a civic exam and a potential C1 Polish language requirement, making naturalisation a long and demanding journey.
+
+### Well-known strong points
+- Low cost of living — Numbeo index 38 (vs NYC=100), among the lowest in the EU
+- Flat 19% income tax for self-employed (JDG) + 5% IP Box for qualifying software income
+- EU Blue Card route: no labour market test, salary threshold achievable for IT professionals
+- Fast-growing tech hubs: Warsaw, Kraków, Wrocław, Gdańsk with strong engineering talent pool
+- Large domestic market (37M population) and central European location
+- Pole's Card (Karta Polaka) offers fast-track citizenship for those with Polish ancestry
+
+### Well-known problems
+- Citizenship tightened to 10 years (2026) + civic exam + potential C1 Polish language — among EU's toughest
+- Polish language is exceptionally difficult (B1 minimum, rumoured C1 under reform)
+- No dedicated digital nomad visa; B2B/JDG contracts do NOT qualify for EU Blue Card
+- Rule of Law concerns: WJP score 0.63, lowest among major EU economies
+- Bureaucratic processing delays (6–12 months in major cities for residence permits)
+- Visa processing for Russian citizens among the most restricted in the EU

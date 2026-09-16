@@ -111,3 +111,47 @@ BiH is not a popular expat destination. Those who relocate report slow bureaucra
 - **Last monitored**: 2026-09-13
 - **Recent changes**: No significant recent changes to residence/citizenship framework.
 - **Watch items**: EU accession progress (candidate status). Potential simplification of residence procedures as part of EU alignment.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~3,140,000 (2025) | ^[https://data.worldbank.org/country/bosnia-and-herzegovina] hard/official |
+| Main religion | Islam (~51%), Orthodox Christianity (~31%), Catholicism (~15%) | ^[https://www.cia.gov/the-world-factbook/countries/bosnia-and-herzegovina/] hard/official |
+| Main language | Bosnian / Croatian / Serbian (all official) | ^[https://www.cia.gov/the-world-factbook/countries/bosnia-and-herzegovina/] hard/official |
+| Main city (capital) | Sarajevo (pop. ~350,000) | ^[https://data.worldbank.org/country/bosnia-and-herzegovina] hard/official |
+| On the coast? | Yes — tiny Adriatic coastline (~20 km) at Neum | Geography — hard |
+| Tourism impact in season | Low-Medium — Sarajevo growing; Mostar day-trips; not overwhelmed | [soft/estimate] |
+| GDP per capita (PPP) | ~$20,000 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=BA] hard/official |
+| Median net monthly salary | ~€500 (2025) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Bosnia+And+Herzegovina] [soft/estimate] |
+| Cost of living index | Very low (~35, Numbeo; among cheapest in Europe) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Bosnia+And+Herzegovina] [soft/estimate] |
+| Monthly rent, 1-bedroom apt | ~€250 (Sarajevo) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Bosnia+And+Herzegovina] [soft/estimate] |
+| Effective tax for remote workers | ~10% flat PIT + ~41.5% social (very high burden on salary) | ^[https://www.goldenvisas.com/bosnia] [soft/estimate] |
+| Remote-work / self-employment residence? | Not available — no formal DN visa; de facto via business registration | From page — [soft/estimate] |
+| Years to citizenship | ~8 (5 temp + 3 PR) | ^[https://www.goldenvisas.com/bosnia] hard/official |
+| Maximum permitted absence | ≤10 months total or single absence ≤6 months in 5-yr period | ^[https://sps.gov.ba/?lang=en&page_id=2491] hard/official |
+| Passport visa-free count | 77 (Passport Index 2026) | ^[https://www.passportindex.org/passport/bosnia-and-herzegovina] hard/official |
+| Rule of Law Index (WJP 2024) | 0.50 (rank 80/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score (2025) | 52/100 — Partly Free | ^[https://freedomhouse.org/country/bosnia-and-herzegovina/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~1,900 (Sarajevo) | ^[https://en.wikipedia.org/wiki/Sarajevo#Climate] hard/official |
+| Average annual temperature | ~10°C (Sarajevo) | ^[https://en.wikipedia.org/wiki/Sarajevo#Climate] hard/official |
+
+## Country Card
+
+Bosnia and Herzegovina is a post-conflict Balkan state with a complex two-entity structure (Federation of BiH and Republika Srpska), an EU candidate country with a small Adriatic window at Neum. It has no formal golden visa, digital nomad visa, or CBI program — residence is primarily via employment, business, family, or property ownership with demonstrated community ties (~8 years to citizenship). Flat 10% income tax is offset by one of Europe's highest social-security burdens (~41.5% total).
+
+### Well-known strong points
+- Very low cost of living — among the cheapest in Europe
+- Flat 10% PIT and corporate tax; simple tax structure
+- Cultural richness: Ottoman, Austro-Hungarian, and Yugoslav heritage (Sarajevo, Mostar)
+- Property ownership permitted for foreign citizens (no minimum value)
+- Visa-free entry for many nationalities; relaxed visa regime compared to Schengen
+- Natural beauty: Dinaric Alps, Una and Neretva rivers, small Adriatic coast
+
+### Well-known problems
+- No formal digital nomad, golden visa, or passive-income residence pathway
+- Very high social-security burden (~41.5% total) — de-facto high tax on employment income
+- Entity-level fragmentation — residence procedures differ between FBiH and RS
+- Property alone insufficient for residence; must demonstrate additional ties
+- Passport relatively weak (77 visa-free); no Schengen access
+- Bureaucracy is slow; political gridlock between entities hampers reform

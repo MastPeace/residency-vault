@@ -125,3 +125,47 @@ Expats report Montenegro as a friendly, affordable destination. Property-based r
 - **Last monitored**: 2026-09-13
 - **Recent changes**: New Law on Foreigners effective Jan 17, 2026 — formalized €150,000 property route. DN visa operating since 2022 amendments. CBI remains closed.
 - **Watch items**: EU accession progress (will affect property values). Potential changes to DN visa thresholds as minimum wage rises.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~623,000 (2025) | ^[https://data.worldbank.org/country/montenegro] hard/official |
+| Main religion | Orthodox Christianity (72%), Islam (19%) | ^[https://www.cia.gov/the-world-factbook/countries/montenegro/] hard/official |
+| Main language | Montenegrin / Serbian (official) | ^[https://www.cia.gov/the-world-factbook/countries/montenegro/] hard/official |
+| Main city (capital) | Podgorica (pop. ~190,000) | ^[https://data.worldbank.org/country/montenegro] hard/official |
+| On the coast? | Yes — Adriatic Sea, Bay of Kotor, Budva Riviera | Geography — hard |
+| Tourism impact in season | High — coastal towns (Budva, Kotor) heavily crowded in Jul–Aug | [soft/estimate] |
+| GDP per capita (PPP) | ~$29,700 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=ME] hard/official |
+| Median net monthly salary | ~€600 (2025) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Montenegro] [soft/estimate] |
+| Cost of living index | Low-Medium (~38, Numbeo; cheaper than EU average) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Montenegro] [soft/estimate] |
+| Monthly rent, 1-bedroom apt | ~€400 (Podgorica); ~€500–700 (Budva/Kotor in season) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Montenegro] [soft/estimate] |
+| Effective tax for remote workers | 9–11% flat PIT (DN visa: tax-exempt for qualifying freelancers) | ^[https://www.goldenvisas.com/montenegro] [soft/estimate] |
+| Remote-work / self-employment residence? | Yes — formal DN visa (2+2 yr), income ≥3× min wage (~€2,010/mo) | From page — hard |
+| Years to citizenship | 10 years | ^[https://www.goldenvisas.com/montenegro] hard/official |
+| Maximum permitted absence | Not specified (standard continuous residence applies) | From page — [soft/estimate] |
+| Passport visa-free count | 79 (Passport Index 2026) | ^[https://www.passportindex.org/passport/montenegro] hard/official |
+| Rule of Law Index (WJP 2024) | 0.55 (rank 58/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score (2025) | 69/100 — Partly Free | ^[https://freedomhouse.org/country/montenegro/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,500 (coast) | ^[https://en.wikipedia.org/wiki/Podgorica#Climate] hard/official |
+| Average annual temperature | ~15°C (coast); ~10°C (mountains) | ^[https://en.wikipedia.org/wiki/Podgorica#Climate] hard/official |
+
+## Country Card
+
+Montenegro is a small Adriatic country of ~623,000 people, an EU candidate that unilaterally uses the Euro. It punches above its weight in residency options: a €150,000 property-investment route, a dedicated 2+2-year digital nomad visa (tax-exempt possible), and a superyacht marina (Porto Montenegro, Tivat). The 10-year citizenship timeline is the main structural drawback, balanced by flat 9–11% income tax and a Mediterranean lifestyle at moderate cost.
+
+### Well-known strong points
+- Euro-denominated economy — no currency risk for Euro-earners
+- Formal DN visa: 2 years initial, renewable once (4 yr total), income ~€2,010/mo
+- Property residence at €150,000 — low threshold by European standards
+- Flat 9–11% PIT; DN visa holders may qualify for tax exemption
+- Adriatic coastline with world-class yachting (Porto Montenegro, Bay of Kotor)
+- Russian-friendly: visa-free, some Russian spoken, no sanctions
+
+### Well-known problems
+- Very long citizenship path: 10 years minimum
+- Dual citizenship generally requires renunciation of previous citizenship
+- Coastal tourism surge (Jul–Aug) drives up short-term rents dramatically
+- Slow bureaucracy; limited job market outside tourism and real estate
+- Small country — limited urban amenities outside Podgorica and coastal strip
+- EU accession slow; political fragmentation in parliament

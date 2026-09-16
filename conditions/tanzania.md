@@ -75,3 +75,47 @@ Visa on arrival or eVisa for Russian citizens (90 days tourist). Tanzania is a p
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Online Work Permit Application System (OWAIS) integrated with e-Permit system. TISEZA (Tanzania Investment Special Economic Zone Authority) facilitating permits. No major policy shifts.
 - **Watch items**: Monitor any introduction of DN visa (regional trend).
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~67,400,000 (2024) | ^[https://data.worldbank.org/country/TZ] hard/official |
+| Main religion | Christianity (~63%), Islam (~34%) | ^[https://www.cia.gov/the-world-factbook/countries/tanzania/] hard/official |
+| Main language | Swahili (de facto), English (administrative/business) | ^[https://www.cia.gov/the-world-factbook/countries/tanzania/] hard/official |
+| Main city (capital or largest) | Dar es Salaam (~7.4M metro); capital: Dodoma | ^[https://www.cia.gov/the-world-factbook/countries/tanzania/] hard/official |
+| On the coast? | Yes — Indian Ocean (1,424 km coastline, incl. Zanzibar) | hard/official |
+| Tourism impact in season | High — peak June–October and December–February (safari + Zanzibar) | [soft/estimate] |
+| GDP per capita (PPP) | ~$3,300 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=TZ] hard/official |
+| Median net monthly salary | ~$250–350 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Tanzania] |
+| Cost of living index (relative) | ~30 (NYC=100) — 64% lower than US | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Tanzania] |
+| Monthly rent, 1‑bedroom apartment | ~$200–400 (Dar es Salaam) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Tanzania] |
+| Effective personal tax rate for remote workers | 9%–30% progressive (top rate on TZS 8.4M+/mo) | [soft/estimate] |
+| Remote‑work / self‑employment residence available? | No — no dedicated digital nomad visa | |
+| Years to citizenship | Citizenship by presidential grant only — extremely rare; no standard naturalisation | ^[https://www.immigration.go.tz] |
+| Maximum permitted absence during residence | — (citizenship not a realistic path) | |
+| Passport strength after citizenship (visa‑free count) | ~70 destinations | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.47 (rank 96/142, 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/country/2024/Tanzania] hard/official |
+| Freedom House score | 36/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/tanzania/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,800 (Dar es Salaam) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Dar-es-Salaam,Tanzania] hard/official |
+| Average annual temperature | ~26°C (Dar es Salaam, coastal) | ^[https://en.climate-data.org/africa/tanzania/dar-es-salaam/dar-es-salaam-522/] hard/official |
+
+## Country Card
+
+The United Republic of Tanzania, formed by the union of Tanganyika and Zanzibar, is East Africa's largest country by land area and one of its most politically stable. It's a premier safari destination (Serengeti, Ngorongoro, Kilimanjaro) with a long Indian Ocean coastline including the semi-autonomous Zanzibar archipelago. Dar es Salaam is the commercial hub. The immigration system is functional but citizenship is virtually closed to foreigners.
+
+### Well-known strong points
+- Political stability — one of Africa's most peaceful nations; regular peaceful transitions of power
+- World-class safari tourism and Zanzibar's cultural appeal
+- Swahili is a unifying national language spoken across the population
+- Low cost of living by global standards
+- Class A investor permits available (USD 100K+ via TIC)
+- Zanzibar operates a separate immigration regime, offering additional flexibility
+
+### Well-known problems
+- Citizenship is by presidential grant only — effectively closed to foreigners; dual citizenship not permitted
+- No digital nomad visa, no retirement visa — limited residency options
+- Bureaucracy can be slow and opaque; Zanzibar's separate system adds complexity
+- Personal income tax up to 30% for high earners
+- Internet connectivity and infrastructure are improving but still below East African leaders
+- Limited pathway for long-term residence beyond employer-sponsored or investor permits

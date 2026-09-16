@@ -84,6 +84,52 @@ Black Sea coastline (Constanța). Danube River access. Limited yachting infrastr
 ## Notes for RU Citizens
 The digital nomad visa is open to Russian nationals — one of the more accessible EU routes. Romanian language (Latin-based) is significantly easier for Slavs with any Romance-language exposure. No special RU restrictions beyond standard EU sanctions. Small but growing Russian-speaking community in Bucharest.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~19,000,000 | ^[https://www.cia.gov/the-world-factbook/countries/romania/] hard/official |
+| Main religion | Romanian Orthodox Christianity (73%) | ^[https://www.cia.gov/the-world-factbook/countries/romania/] hard/official |
+| Main language | Romanian (official) | ^[https://www.cia.gov/the-world-factbook/countries/romania/] hard/official |
+| Main city | Bucharest (capital, ~1.8 million) | ^[https://en.wikipedia.org/wiki/Romania] hard/official |
+| On the coast? | Yes — Black Sea coastline (Constanța); Danube River access | [soft/estimate] |
+| Tourism impact in season | Medium — Black Sea resorts (summer); Transylvania year-round; Bucharest city tourism | [soft/estimate] |
+| GDP per capita (PPP) | $48,731 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=RO] hard/official |
+| Median net monthly salary | ~€950 | ^[https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105] [soft/estimate] |
+| Cost of living index (relative, base note) | 34.0 (Numbeo 2025; 66% below NYC baseline) | ^[https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~€400–550 (Bucharest city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Romania] [soft/estimate] |
+| Effective personal tax rate for remote workers | 10% flat income tax (EU's lowest personal rate); 35% social (25% employer + 10% employee); 0% under 183 days for DN holders | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Romania] [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Digital Nomad Visa (€3,700/mo; 12 months, max 36 months) | Consistent with [[#digital-nomad-visa]]; [soft/estimate] |
+| Years to citizenship | 8 years of residence (permanent residence mandatory since 2025) | Consistent with [[#citizenship]]; hard/official |
+| Maximum permitted absence during residence | Standard residence requirements; DN visa time does not count toward PR or citizenship | Consistent with [[#digital-nomad-visa]]; [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 177 destinations | ^[https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025] hard/official |
+| Rule of Law Index | 0.62 (rank 41/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 82/100 Free | ^[https://freedomhouse.org/country/romania/freedom-world/2025] hard/official |
+| Average annual sunshine hours | 2,112 (Bucharest) | ^[https://en.wikipedia.org/wiki/List_of_cities_in_Europe_by_sunshine_duration] hard/official |
+| Average annual temperature | ~10.8°C (Bucharest) | ^[https://en.wikipedia.org/wiki/Bucharest#Climate] hard/official |
+
+## Country Card
+
+Romania is an EU member (since 2007) and full Schengen member since January 2025. It has Europe's fastest broadband, the EU's lowest personal income tax (10% flat), and one of the most competitive digital nomad visas (€3,700/mo; DN holders pay 0% tax if staying under 183 days). Citizenship requires 8 years with mandatory permanent residence since a 2025 law reform. Romanian is a Latin-based Romance language — significantly easier for speakers of French, Spanish, Italian, or Portuguese than Slavic languages. A proposed Golden Visa (€400,000) is under discussion but not yet enacted.
+
+### Well-known strong points
+- EU's lowest flat income tax (10%); 0% for DN holders under 183 days
+- Fastest broadband in Europe; strong IT sector in Bucharest, Cluj-Napoca, Timișoara
+- Full Schengen since January 2025 — unrestricted EU travel
+- Very low cost of living (66% below NYC); Bucharest rent among EU's cheapest capitals
+- Romanian is a Romance (Latin) language — accessible for Romance-language speakers
+- Dual citizenship permitted
+
+### Well-known problems
+- Low median net salary (~€950/month); significant income inequality
+- DN visa max 36 months total — no direct path to permanent residence
+- Citizenship requires permanent residence status (mandatory since 2025 law) plus B1 Romanian
+- Freedom House score declining (82 in 2025, down from 83); corruption remains a concern
+- Proposed Golden Visa (€400K) not yet enacted — no passive-investment residency route
+- Limited yachting infrastructure on the Black Sea; not a premier maritime destination
+
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Golden Visa (€400K) proposed, not enacted. Full Schengen since Jan 2025. 2025 citizenship law: permanent residence mandatory before citizenship.

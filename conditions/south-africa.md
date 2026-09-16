@@ -84,3 +84,47 @@ South Africa is visa-free for Russian citizens (90 days tourist). The Remote Wor
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Remote Work Visitor Visa gazetted October 2024, fully operational. New points-based work visa system launched. Trusted Employer Scheme operational.
 - **Watch items**: Track DHA processing times. Monitor load-shedding improvements. Watch for changes to digital nomad tax treatment.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~63,000,000 (2024) | ^[https://data.worldbank.org/country/ZA] hard/official |
+| Main religion | Christianity (~80%; Protestant ~36%, Catholic ~7%, other Christian ~37%) | ^[https://www.cia.gov/the-world-factbook/countries/south-africa/] hard/official |
+| Main language | 11 official languages: Zulu (~25%), Xhosa (~15%), Afrikaans (~12%), English (~10%) | ^[https://www.cia.gov/the-world-factbook/countries/south-africa/] hard/official |
+| Main city (capital or largest) | Johannesburg (~6M metro); Cape Town, Pretoria (admin capital) | ^[https://www.cia.gov/the-world-factbook/countries/south-africa/] hard/official |
+| On the coast? | Yes — Atlantic + Indian Ocean (2,798 km coastline: Cape Town, Durban, PE) | hard/official |
+| Tourism impact in season | High — peak November–March (summer/beach), June–August (safari) | [soft/estimate] |
+| GDP per capita (PPP) | ~$15,300 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=ZA] hard/official |
+| Median net monthly salary | ~$1,400–1,800 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=South+Africa] |
+| Cost of living index (relative) | ~38 (NYC=100) — 56% lower than US | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=South+Africa] |
+| Monthly rent, 1‑bedroom apartment | ~$400–650 (Cape Town/Johannesburg centre) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=South+Africa] |
+| Effective personal tax rate for remote workers | 18%–45% progressive (top bracket at ZAR 1.8M+), foreign income exemption up to ZAR 1.25M | [soft/estimate] |
+| Remote‑work / self‑employment residence available? | Yes — Remote Work Visitor Visa (3 months–3 years); no PR path | ^[https://www.dha.gov.za/index.php/notices/1824-remote-work-visa-requirements-9-oct-2024] |
+| Years to citizenship | 5 years permanent residence + physical presence (realistic: 10+ years total) | ^[https://www.saembassy.org/visas/civic_immigration/citizenship] |
+| Maximum permitted absence during residence | 4/8 years physical presence rule for naturalisation | ^[https://www.saembassy.org/visas/civic_immigration/citizenship] |
+| Passport strength after citizenship (visa‑free count) | ~105 destinations (EU/Schengen, UK, Russia visa-free) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.57 (rank 54/142, 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/country/2024/South+Africa] hard/official |
+| Freedom House score | 81/100 — Free (2025) | ^[https://freedomhouse.org/country/south-africa/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~3,100 (Cape Town) / ~3,200 (Johannesburg) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Cape-Town,South-Africa] hard/official |
+| Average annual temperature | ~17°C (Johannesburg, highveld) / ~16°C (Cape Town, Mediterranean) | ^[https://en.climate-data.org/africa/south-africa/gauteng/johannesburg-544/] hard/official |
+
+## Country Card
+
+South Africa is Africa's most industrialised economy and the continent's premier relocation destination. With three capital cities, 11 official languages, and a diverse geography from Mediterranean Cape Town to subtropical Durban and the highveld Johannesburg, it offers unmatched variety. The October 2024 launch of the Remote Work Visitor Visa has positioned it as a serious digital nomad hub. Permanent residence and citizenship are achievable but slow (realistically 10+ years). Dual citizenship is permitted with prior retention approval.
+
+### Well-known strong points
+- Africa's strongest passport (~105 visa-free) and most developed infrastructure
+- New Remote Work Visitor Visa (2024) — legal framework for up to 3 years, income threshold R650,796/yr
+- Cape Town is a world-class city for lifestyle, tech, and nomad community (Workshop17, Inner City Cartel)
+- Rule of Law 0.57, Freedom House 81/100 — Africa's strongest democratic institutions
+- Moderate cost of living with foreign currency; excellent quality-to-price ratio
+- World-class yachting infrastructure (Cape Town V&A, Royal Cape YC); strategic Atlantic-Indian Ocean gateway
+
+### Well-known problems
+- Remote Work Visa does NOT lead to PR or citizenship; no in-country change of status
+- DHA processing backlogs are significant — work visas can take months/years
+- Load-shedding (scheduled power cuts) remains an intermittent issue, though improving
+- High crime rates in certain areas; personal security awareness essential
+- Top income tax rate of 45% applies to high earners; worldwide income taxed if resident >183 days
+- Inequality and unemployment are among the world's highest

@@ -90,3 +90,48 @@ Estonia has one of the most restrictive stances toward Russian citizens since 20
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Corporate tax rate on distributions increased to 22% from 2025. DN visa and Startup Visa programmes are mature and stable.
 - **Watch items**: Monitor any further restrictions on Russian citizens. Track Startup Visa policy.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~1,366,000 (2025) | [World Bank](https://data.worldbank.org/country/estonia) — hard/official |
+| Main religion | Christianity (Orthodox ~16%, Lutheran ~8%); majority unaffiliated (~60%) | [CIA Factbook](https://www.cia.gov/the-world-factbook/countries/estonia/) — hard/official |
+| Main language | Estonian | [CIA Factbook](https://www.cia.gov/the-world-factbook/countries/estonia/) — hard/official |
+| Main city (capital or largest) | Tallinn | [Wikipedia](https://en.wikipedia.org/wiki/Estonia) — hard/official |
+| On the coast? | Yes (Baltic Sea, ~3,794 km coastline including islands) | Geographical fact [soft/estimate] |
+| Tourism impact in season | Medium — Tallinn Old Town (UNESCO), cruise ships; peak Jun–Aug | [soft/estimate] |
+| GDP per capita (PPP) | ~$51,065 (2025) | [World Economics](https://www.worldeconomics.com/GDP-Per-Capita/Estonia.aspx) — hard/official |
+| Median net monthly salary | ~€1,700 (~US$1,900) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Estonia) [soft/estimate] |
+| Cost of living index | 59.4 (NYC=100, Numbeo 2026 Mid-Year) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2026) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | €600 (city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Estonia) [soft/estimate] |
+| Effective personal tax rate for remote workers | Flat 20% income tax; e-Residency company: 0% on reinvested, 22% on distributed profits; social tax 33% if employed | [Estonian Tax Board](https://www.emta.ee/en) [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Digital Nomad Visa (€4,500/mo); e-Residency for business (not residence); Startup Visa for entrepreneurs | See [[#digital-nomad-visa]] and [[#startup-entrepreneur]] |
+| Years to citizenship | 8 years legal residence (5 years permanent residence) | See [[#citizenship]] |
+| Maximum permitted absence during residence | DN visa: 1 year max, reapply; PR: must maintain continuous residence; citizenship: strict presence requirements | See [[#citizenship]] |
+| Passport strength after citizenship | 183 visa-free destinations (Henley 2026, rank 6) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.82 (rank 10/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 96/100 (Free) | [Freedom House](https://freedomhouse.org/country/estonia/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~1,700–1,900 h (Tallinn ~1,830h) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~5°C annual mean (Tallinn: −3°C Feb, +17°C Jul) | [Estonian Weather Service](https://www.ilmateenistus.ee/) — hard/official |
+
+## Country Card
+
+### General description
+Estonia is a small EU/Schengen/NATO/Eurozone member on the Baltic Sea, globally recognized as the most digitally advanced government. It pioneered e-Residency (2014), one of the world's first Digital Nomad Visas (2020), and runs a mature Startup Visa programme. Estonia has a flat 20% income tax, 0% corporate tax on reinvested profits (unique in the EU), and a fully digital public administration — everything from company registration to tax filing is online. Citizenship requires 8 years of residence and B1 Estonian (a demanding Finno-Ugric language). Dual citizenship is generally not permitted.
+
+### Well-known strong points
+- Pioneer of e-Residency and Digital Nomad Visa — fully digital government
+- 0% corporate tax on reinvested profits (22% only on distributions) — unique in EU
+- Flat 20% personal income tax — simple and predictable
+- Very strong rule of law (WJP #10/142) and high Freedom House score (96/100)
+- Thriving tech/startup ecosystem (Skype, Bolt, Wise roots); Tallinn is a major IT hub
+- EU/Schengen/NATO/Eurozone membership with strong passport (183 visa-free)
+
+### Well-known problems
+- Small population (~1.37M) limits local market and career opportunities
+- High DN visa income threshold (€4,500/mo) — among the highest in Europe
+- Estonian language (Finno-Ugric) is one of Europe's hardest for foreigners
+- Dual citizenship generally not permitted — must renounce original citizenship
+- Long citizenship timeline (8 years) with demanding B1 language requirement
+- Cold, dark winters (Tallinn averages ~−3°C in February, ~6h daylight)

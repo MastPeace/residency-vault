@@ -125,3 +125,47 @@ Irish visas for Russian citizens are available but processing may be delayed. No
 - **Last monitored**: 2026-09-13
 - **Recent changes**: IIP remains closed (since Feb 2023). General Employment Permit minimum salary maintained at €34,000. English-language student Stamp 2 Bridging Permission update in 2026.
 - **Watch items**: Monitor any reopening or replacement of IIP. Track Critical Skills occupation list updates. Watch for remittance basis reform proposals.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~5,310,000 (2024) | ^[https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IE] hard/official |
+| Main religion | Christianity (Catholic majority) | ^[https://www.cia.gov/the-world-factbook/countries/ireland/] hard/official |
+| Main language | English (Irish also official) | ^[https://www.cia.gov/the-world-factbook/countries/ireland/] hard/official |
+| Main city (capital or largest) | Dublin | ^[https://www.cia.gov/the-world-factbook/countries/ireland/] hard/official |
+| On the coast? | Yes — island nation, extensive Atlantic coastline | geographical fact |
+| Tourism impact in season | Medium–High — Dublin/West Coast busy Jun–Sep; manageable | [soft/estimate] |
+| GDP per capita (PPP) | ~$127,600 (2024, distorted by multinationals) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=IE] hard/official |
+| Median net monthly salary | ~€3,000 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ireland] [soft/estimate] |
+| Cost of living index (relative to NYC=100) | ~73 (Numbeo) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ireland] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~€1,600 (city centre) / ~€1,300 (outside) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ireland] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~20% up to €44K / 40% above + USC + PRSI (~52% marginal); non-dom remittance basis available | ^[https://www.rbk.ie/insight/remittance-basis-whats-it-all-about] [soft/estimate] |
+| Remote-work / self-employment residence available? | No dedicated visa; Critical Skills + Stamp 4 path for IT workers | per page residency sections |
+| Years to citizenship | 5 years (reckonable residence) | ^[https://www.irishimmigration.ie/how-to-become-a-citizen] hard/official |
+| Maximum permitted absence during residence | 6 weeks per year allowed for reckonable residence; 1 year continuous before application | per page residency sections |
+| Passport strength after citizenship (visa-free count) | 185 destinations (Henley 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.84 (WJP 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/global] hard/official |
+| Freedom House score | 97/100 (Free) | ^[https://freedomhouse.org/country/ireland/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~1,424 (Dublin) | ^[https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php] hard/official |
+| Average annual temperature | ~9.5°C (Dublin) | ^[https://www.met.ie/] hard/official |
+
+## Country Card
+
+Ireland is an English-speaking EU member with one of the world's strongest passports and a unique position as Europe's tech headquarters hub — hosting the European operations of Google, Meta, Apple, Microsoft, and hundreds of other global tech firms. Its immigration system is anchored by the Critical Skills Employment Permit, which offers a fast track to unrestricted work (Stamp 4) after just 2 years and citizenship after 5 years of reckonable residence — with no language test required, a rare advantage. The Immigrant Investor Programme has been closed since 2023, and no dedicated digital nomad visa exists, though the corporate tax rate of 12.5% and non-domiciled remittance basis of taxation make Ireland particularly attractive for high-net-worth individuals and entrepreneurs.
+
+### Well-known strong points
+- No language test for citizenship — uniquely among major EU countries
+- Critical Skills Employment Permit: Stamp 4 (unrestricted work) after only 2 years
+- 5-year citizenship path is among the shortest in Europe
+- English-speaking with strong rule of law and common-law legal system
+- Europe's tech capital — Dublin hosts EU headquarters of Google, Meta, Apple, Microsoft, Stripe
+- Non-domiciled remittance basis of taxation — significant advantage for wealthy non-dom residents
+
+### Well-known problems
+- Severe housing crisis — Dublin rents among highest in Europe, acute supply shortage
+- GDP per capita figures heavily distorted by multinational profit-shifting; real domestic economy is smaller
+- High personal tax rates with low thresholds (40% kicks in at ~€44,000 single)
+- Stamp 0 for passive-income/retirees offers NO path to permanent residency or citizenship
+- IIP (golden visa) closed since 2023 with no replacement
+- Public healthcare system under strain; many residents rely on private insurance

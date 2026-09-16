@@ -139,6 +139,51 @@ Austrian consulates in Russia may have reduced operations. Residence permit appl
 ## Community Pulse
 Austria is consistently rated as one of the most difficult EU countries for non-EU immigration. The points-based RWR Card system is complex but predictable. The EU Blue Card salary threshold (€55,678) is the highest among EU Blue Card countries. Citizenship (10 years, B2 German, renunciation) is the most demanding package in Western Europe alongside Switzerland. The lack of passive-income, digital-nomad, and retiree routes limits options to employment-based immigration. Quality of life and public services are excellent once residency is obtained.
 
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~9,100,000 (2024) | [World Bank](https://data.worldbank.org/country/austria) — hard/official |
+| Main religion | Christianity (Catholic majority) | [Wikipedia](https://en.wikipedia.org/wiki/Austria#Religion) — hard/official |
+| Main language | German | [Wikipedia](https://en.wikipedia.org/wiki/Austria) — hard/official |
+| Main city (capital or largest) | Vienna | [Wikipedia](https://en.wikipedia.org/wiki/Vienna) — hard/official |
+| On the coast? | No (landlocked) | Geographical fact [soft/estimate] |
+| Tourism impact in season | Medium-high — Vienna, Salzburg, winter sports; seasonal peaks in summer and winter | [soft/estimate] |
+| GDP per capita (PPP) | ~$65,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=AT) — hard/official |
+| Median net monthly salary | ~€2,680 (~$2,900) | [Numbeo](https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105) [soft/estimate] |
+| Cost of living index | 60.7 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~€850 (Vienna city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Austria) [soft/estimate] |
+| Effective personal tax rate for remote workers | Progressive 0%–55%; no special impatriate regime | See [[#tax]] [soft/estimate] |
+| Remote-work / self-employment residence available? | No — no digital nomad visa; Settlement Permit quotas minuscule | See [[#digital-nomad-visa]] and [[#passive-income-residency]] |
+| Years to citizenship | 10 years (6 for EEA; reductions for integration) | See [[#citizenship]] |
+| Maximum permitted absence during residence | Must maintain continuous residence; significant absences may reset clock | See [[#citizenship]] |
+| Passport strength after citizenship | 188 visa-free destinations (Henley Q3 2025, rank 4) | [Henley & Partners](https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025) — hard/official |
+| Rule of Law Index | 0.79 (WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 93/100 (Free) | [Freedom House](https://freedomhouse.org/country/austria/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | 1,930 h (Vienna) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~9 °C (Vienna ~10 °C) | [Wikipedia / ZAMG](https://en.wikipedia.org/wiki/Austria#Climate) — hard/official |
+
+## Country Card
+
+### General description
+Austria is a wealthy, landlocked Central European country with a highly developed social-market economy and one of the world's highest standards of living. Its immigration system is points-based (Red-White-Red Card) and among the most demanding in the EU: high salary thresholds, strict quotas for non-employment routes, and a citizenship package requiring 10 years of residence, B2 German, and generally renunciation of previous citizenship. Austria has no digital nomad visa and only a theoretically available passive-income route (quotas are minuscule), making it effectively an employment-only immigration destination.
+
+### Well-known strong points
+- Very high quality of life: Vienna consistently ranked world's most livable city
+- Strong passport (188 visa-free destinations)
+- High Rule of Law (WJP 0.79) and political stability (FH 93/100)
+- Excellent public services, healthcare, infrastructure, and public safety
+- Strong social security and worker protections
+- Central European location with excellent Alpine recreation
+
+### Well-known problems
+- One of the most difficult EU countries for non-EU immigration
+- 10-year citizenship + B2 German + renunciation of previous citizenship
+- No digital nomad visa, no realistic passive-income or retirement route
+- Highest EU Blue Card salary threshold (€55,678 in 2026)
+- Very limited quotas for non-employment residence permits
+- High tax burden: top rate 55% above €1M; no special impatriate regime
+
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: EU Blue Card salary threshold updated to €55,678 (2026). RWR Card salary and points thresholds adjusted annually. No major structural immigration reforms in 2026.

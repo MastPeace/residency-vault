@@ -77,6 +77,52 @@ Cyprus has one of the largest ship registries in the EU. Competitive tonnage tax
 ## Notes for RU Citizens
 Cyprus is one of the most RU-friendly EU jurisdictions. Limassol has a very large Russian-speaking community (often called "Limassolgrad"). The €300,000 permanent residency route is widely used by Russian nationals. Russian is widely spoken in Limassol. The 2026 non-dom dual tax residency allowed change is particularly beneficial for RU citizens maintaining ties to Russia. Bank account opening for RU passport holders may require enhanced due diligence but is more accessible than most EU states. Non-Schengen status means Cyprus residence doesn't grant Schengen access — a practical limitation.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~1,382,000 (2026 est.) | ^[https://www.worldometers.info/world-population/cyprus-population/] hard/official |
+| Main religion | Greek Orthodox Christianity (89%) | ^[https://www.cia.gov/the-world-factbook/countries/cyprus/] hard/official |
+| Main language | Greek (official); Turkish in Northern Cyprus | ^[https://www.cia.gov/the-world-factbook/countries/cyprus/] hard/official |
+| Main city | Nicosia (capital, ~350,000 metro) | ^[https://www.worldometers.info/world-population/cyprus-population/] hard/official |
+| On the coast? | Yes — island nation; major coastal cities (Limassol, Larnaca, Paphos) | [soft/estimate] |
+| Tourism impact in season | High — coastal resorts heavily seasonal (May–October peak) | [soft/estimate] |
+| GDP per capita (PPP) | $61,272 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=CY] hard/official |
+| Median net monthly salary | ~€1,750 | ^[https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105] [soft/estimate] |
+| Cost of living index (relative, base note) | 49.5 (Numbeo 2025; 50.5% below NYC baseline) | ^[https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~€850–1,000 (city centre, Limassol/Nicosia) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Cyprus] [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% on dividends/interest (non-dom, 17 years); 0–35% progressive on income; 12.5% corporate | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Cyprus] [soft/estimate] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; non-dom + Pink Slip route is de facto path | Consistent with [[#digital-nomad-visa]]; [soft/estimate] |
+| Years to citizenship | 8 years (2,555 days within 10 years; 12 months continuous before application) | Consistent with [[#citizenship]]; hard/official |
+| Maximum permitted absence during residence | Must accumulate 2,555 days physical presence over 10 years for citizenship | Consistent with [[#citizenship]]; [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 178 destinations | ^[https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025] hard/official |
+| Rule of Law Index | 0.67 (rank 30/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 91/100 Free | ^[https://freedomhouse.org/country/cyprus/freedom-world/2025] hard/official |
+| Average annual sunshine hours | 3,388 (Nicosia) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Nicosia,Cyprus] hard/official |
+| Average annual temperature | ~19.2°C (Nicosia) | ^[https://en.wikipedia.org/wiki/Nicosia#Climate] hard/official |
+
+## Country Card
+
+Cyprus is an EU member state with a strong passport but outside Schengen — a separate travel regime. It offers permanent residency by investment from €300,000 (Category F fast-track, ~6-month processing) and a world-class non-domiciled tax regime: 0% on dividends and interest for 17 years. The 8-year citizenship path requires 2,555 days of physical presence. Limassol has one of the EU's largest Russian-speaking expat communities. The island's divided status (Republic of Cyprus controls the Greek-speaking south; Northern Cyprus is Turkish-controlled) creates a unique geopolitical complexity.
+
+### Well-known strong points
+- Non-domiciled tax regime: 0% tax on dividends and interest for 17 years, 12.5% corporate tax
+- Permanent residency from €300,000 with lifetime validity — no renewal needed
+- 3,300+ sunshine hours annually — among Europe's sunniest
+- Dual tax residency permitted from January 2026 — no need to prove non-residence elsewhere
+- English widely spoken; strong expat infrastructure in Limassol
+- EU citizenship possible after 8 years with B1 Greek
+
+### Well-known problems
+- Not in Schengen — Cyprus residence does not grant Schengen travel access
+- No dedicated digital nomad visa; no EU Blue Card implementation
+- Greek language proficiency (B1) required for citizenship
+- 2,555 days of physical presence required for citizenship — demanding accumulation requirement
+- Politically divided island; property purchase in the north carries legal risks
+- Previous citizenship-by-investment programme terminated in 2020 after scandal
+
 ## Status
 - **Last monitored**: 2026-09-14
 - **Recent changes**: Non-dom dual tax residency permitted from Jan 1, 2026. Citizenship bill for foreign spouses (Sep 12, 2026) proposing reduced residence requirement from 3 years to 6 months for spouses abroad (marriage ≥5 years). Biometric card mandate from Aug 2026.

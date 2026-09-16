@@ -144,4 +144,47 @@ Not a major yachting hub. Guayaquil and Manta have marinas. No special yacht/cap
 ## Status
 - Last change: Digital nomad visa (Rentista Trabajador Nómada) introduced June 2022 under Human Mobility Law.
 - Last monitored: 2026-09-14.
-- Watch: minimum wage adjustments annually affect income thresholds.
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~18,000,000 (2024) | [World Bank](https://data.worldbank.org/country/ecuador) — hard/official |
+| Main religion | Roman Catholicism (~74%); Protestant/Evangelical (~16%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/ecuador/) — hard/official |
+| Main language | Spanish (official); Quechua, Shuar recognized | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/ecuador/) — hard/official |
+| Main city (capital or largest) | Quito (capital, ~2.8M metro); Guayaquil (largest) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/ecuador/) — hard/official |
+| On the coast? | Yes — Pacific coastline, ~2,237 km; includes Galápagos Islands | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — Galápagos year-round (peak Jun–Sep, Dec–Jan); mainland coast Dec–Apr | [soft/estimate] |
+| GDP per capita (PPP) | ~$14,500 (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=EC) — hard/official |
+| Median net monthly salary | ~$450–500 USD (dollarized economy) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ecuador) [soft/estimate] |
+| Cost of living index | 27.0 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$350 (Quito city centre); ~$300 (Cuenca) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ecuador) [soft/estimate] |
+| Effective personal tax rate for remote workers | 5%–35% progressive (worldwide for residents); foreign-source income exempt if under 183 days on DN visa | [SRI Ecuador](https://www.sri.gob.ec) [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Digital Nomad Visa (Rentista Trabajador Nómada): $1,410/mo, 2+2 years, open to ALL nationalities, counts toward PR | See [[#digital-nomad-visa]] |
+| Years to citizenship | ~5 years total (~2 yr temp + ~3 yr PR); 2 years PR for spouses of Ecuadorians | See [[#citizenship]] |
+| Maximum permitted absence during residence | Max 90 days/year abroad during qualifying period for permanent residency and citizenship | See [[#citizenship]] |
+| Passport strength after citizenship | 94 visa-free destinations (Henley Q3 2025, rank 52) | [Henley & Partners](https://www.henleyglobal.com/publications/global-mobility-report/2025-july) — hard/official |
+| Rule of Law Index | 0.48 (rank 97/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 65/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/ecuador/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,000 h (Quito — equatorial highland, consistent year-round); ~1,500 h (Cuenca) | [Current Results](https://www.currentresults.com/Weather/Ecuador/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~15 °C (Quito — "eternal spring"); ~25 °C (Guayaquil, coast); ~22 °C (Cuenca) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/ecuador/) — hard/official |
+
+## Country Card
+
+### General description
+Ecuador is a compact country on South America's Pacific coast, straddling the equator with Andean highlands, Amazon rainforest, and the Galápagos Islands. It has one of the best digital nomad programs in Latin America: the Rentista Trabajador Nómada visa offers 2+2 years at just $1,410/mo, is open to all nationalities, and counts toward permanent residency. Ecuador dollarized in 2000, eliminating exchange-rate risk. The total citizenship timeline is ~5 years. Ecuador is a top retirement destination, particularly Cuenca and the coast, with a very low cost of living.
+
+### Well-known strong points
+- Top-tier digital nomad visa: $1,410/mo, 2+2 years, open to ALL nationalities, counts toward PR
+- Dollarized economy — no currency risk for USD earners since 2000
+- Very low cost of living (Numbeo index 27.0) with excellent value for retirees
+- Permanent residency available after ~21 months of temporary residence
+- Pensionado threshold among the lowest in Latin America ($1,410/mo, same as DN)
+- Geographic compactness: coast, mountains, Amazon, and Galápagos all within short flights
+
+### Well-known problems
+- Weak passport: only 94 visa-free destinations (among the lowest in this region)
+- Rising violent crime — homicide rate surged in 2023–2024, particularly in Guayaquil and coastal provinces
+- Political instability and governance challenges (presidential crisis 2023, curfews in 2024)
+- Weak rule of law (WJP 0.48, FH 65/100 Partly Free)
+- Internet infrastructure adequate but not exceptional (~102 Mbps average; rural areas limited)
+- Climate varies dramatically by region — Quito's equatorial highland is mild but overcast; coast is hot and humid

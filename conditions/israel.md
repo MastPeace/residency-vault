@@ -132,3 +132,47 @@ Israel is fundamentally a Jewish immigration country (Law of Return). For eligib
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Digital Nomad Visa announced (2026, pending full implementation). Innovation visa ecosystem expanding. Citizenship Law stable.
 - **Watch items**: Full implementation of Digital Nomad Visa. Potential changes to Law of Return eligibility criteria (periodic political debate).
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~10,120,000 | ^[https://data.worldbank.org/country/israel] hard/official |
+| Main religion | Judaism (~73%); Islam (~18%) | ^[https://www.cia.gov/the-world-factbook/countries/israel/] hard/official |
+| Main language | Hebrew (official); Arabic (special status) | ^[https://www.cia.gov/the-world-factbook/countries/israel/] hard/official |
+| Main city | Jerusalem (capital); Tel Aviv (economic/commercial hub) | ^[https://www.cia.gov/the-world-factbook/countries/israel/] hard/official |
+| On the coast? | Yes — Mediterranean Sea; also Red Sea (Eilat) | hard/official |
+| Tourism impact in season | High — religious tourism year-round; peak spring/fall; Tel Aviv beach season Jun–Sep | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Israel] [soft/estimate] |
+| GDP per capita (PPP) | ~$58,000 (2024) | ^[https://www.imf.org/en/Publications/WEO] hard/official |
+| Median net monthly salary | ~$2,800–$3,200 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Israel] [soft/estimate] |
+| Cost of living index | 79.8 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Israel] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$1,300–$1,800 (Tel Aviv city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Israel] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~30–50% (progressive; top bracket 50% on income above ~$180K) | ^[https://www.gov.il/en/departments/taxes] [soft/estimate] |
+| Remote-work / self-employment residence available? | Partially — Digital Nomad Visa announced 2026 (pending); self-employment via B/1 work visa | ^[https://www.gov.il/en/departments/topics/visas_and_residency] [soft/estimate] |
+| Years to citizenship | 3–5 years residence under Law of Return (Jewish ancestry); 5+ years naturalization for others | ^[https://www.gov.il/en/departments/population_and_immigration_authority] [soft/estimate] |
+| Maximum permitted absence during residence | Varies by visa type; typically 6 months/year | ^[https://www.gov.il/en/departments/population_and_immigration_authority] [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 166 (Henley, Jul 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | ~0.72 (2024 est.) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 73/100 — Free (2025) | ^[https://freedomhouse.org/country/israel/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~3,300 | ^[https://weatherspark.com/countries/IL] hard/official |
+| Average annual temperature | ~20°C (Mediterranean coastal) | ^[https://weatherspark.com/countries/IL] hard/official |
+
+## Country Card
+
+Israel is a developed, high-income democracy with the strongest tech ecosystem in the Middle East ("Startup Nation"). The economy is knowledge-driven, anchored by cybersecurity, AI, fintech, and biotech. Citizenship is accessible to Jews under the Law of Return and possible (though lengthy) for others through naturalization. The cost of living is the highest in the region, comparable to Western Europe, especially in Tel Aviv. Israel's passport is among the world's strongest (166 visa-free). The country combines Mediterranean lifestyle with deep historical/religious significance, drawing tourism and business interest globally.
+
+### Well-known strong points
+- World-class tech ecosystem: highest startups per capita globally; major R&D hub
+- Strong passport (166 visa-free) with visa-free access to US, EU, UK
+- Democratic institutions with independent judiciary and free press (FH 73/100)
+- Citizenship pathway exists — Law of Return for Jews; naturalization possible for others
+- Mediterranean lifestyle: beaches, culinary scene, vibrant Tel Aviv culture
+- Excellent healthcare and education systems
+
+### Well-known problems
+- Very high cost of living — Tel Aviv consistently ranks among world's most expensive cities
+- High personal taxation (up to 50% top bracket) — significant burden for remote workers
+- Ongoing security situation and regional instability affect daily life
+- Citizenship naturalization for non-Jews is slow, bureaucratic, and discretionary
+- Housing crisis — severe shortage and high prices in central areas
+- Political polarization and periodic social unrest

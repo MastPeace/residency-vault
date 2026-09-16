@@ -67,6 +67,52 @@ Grenada operates an international ship registry. Yacht registration available. S
 - CBI: Respectable programme, lower profile than St Kitts/Antigua. July 2024 thresholds aligned with OECS MoA. Processing 3–4 months.
 - Work permits: US investors pay US$1,111 (XCD 3,000) annually — small, inexpensive work permit. ^[https://www.state.gov/wp-content/uploads/2025/09/638719_2025-Grenada-Investment-Climate-Statement.pdf]
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~126,000 (2024) | [World Bank](https://data.worldbank.org/country/grenada) — hard/official |
+| Main religion | Christianity (Roman Catholic ~36%, Protestant ~42%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/grenada/) — hard/official |
+| Main language | English (official); Grenadian Creole widely spoken | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/grenada/) — hard/official |
+| Main city (capital or largest) | St. George's | [Wikipedia](https://en.wikipedia.org/wiki/St._George%27s,_Grenada) — hard/official |
+| On the coast? | Yes (island nation; Caribbean Sea + Atlantic Ocean) | Geographical fact [soft/estimate] |
+| Tourism impact in season | Medium — peak Dec–Apr; cruise tourism; Grand Anse Beach; yachting | [soft/estimate] |
+| GDP per capita (PPP) | ~$21,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=GD) — hard/official |
+| Median net monthly salary | ~EC$ 2,000 (~$740) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Grenada) [soft/estimate] |
+| Cost of living index | 57.3 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$550 | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Grenada) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% on foreign-source income (territorial system) | See [[#tax]] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; no mid-tier residence — CBI or work permit | See [[#citizenship-by-investment]] |
+| Years to citizenship | CBI: immediate (3–4 months); naturalization: 7 years residence | See [[#citizenship]] |
+| Maximum permitted absence during residence | CBI: no physical presence required | See [[#citizenship-by-investment]] |
+| Passport strength after citizenship | ~148 visa-free destinations (Henley Q3 2025) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.62 (rank 41/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 89/100 (Free) | [Freedom House](https://freedomhouse.org/country/grenada/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,800 h | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Grenada#Climate) — hard/official |
+| Average annual temperature | ~27 °C | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Grenada#Climate) — hard/official |
+
+## Country Card
+
+### General description
+Grenada is a tri-island eastern Caribbean nation (Grenada, Carriacou, Petite Martinique) known as the "Spice Isle" for its nutmeg and mace production. It operates a Citizenship by Investment (CBI) programme established in 2013, administered by the Investment Migration Agency (IMA) Grenada. Grenada holds a unique strategic advantage among Caribbean CBI states: it is one of only two with a US E-2 treaty, allowing citizens (after 3 years domicile) to apply for a US investor visa. The CBI programme offers two investment routes from US$235,000 (NTF donation) or US$270,000+ (real estate), with citizenship granted in 3–4 months. There is no personal income tax on foreign-source income.
+
+### Well-known strong points
+- US E-2 treaty eligibility: unique among Caribbean CBI states (alongside only one other)
+- CBI: citizenship in 3–4 months with no physical presence required
+- Strong passport: ~148 visa-free destinations including China, Schengen, UK
+- Territorial tax: no tax on foreign-source income; no capital gains or inheritance tax
+- Stable democracy (FH 89/100); good rule of law (WJP 0.62)
+- Significant Eastern Caribbean yachting sector; international ship registry
+
+### Well-known problems
+- CBI is expensive: US$235,000 NTF donation minimum; US$270,000 real estate
+- Investment thresholds raised July 2024 under OECS MoA
+- No digital nomad visa; no mid-tier residence options — CBI or work permit only
+- US E-2 requires 3 years domicile in Grenada before applying
+- Small population and economy; limited infrastructure
+- Hurricane risk; climate vulnerability
 ## Status
 - Last change: July 1, 2024 — investment thresholds raised (NTF $235K, Real Estate $270K) per OECS MoA.
 - Last monitored: 2026-09-14.

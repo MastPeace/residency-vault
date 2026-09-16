@@ -134,6 +134,51 @@ Italian consulates in Russia may have reduced services — route through third-c
 ## Community Pulse
 Italy's DN visa has been well-received — no quotas, clean requirements, and access to impatriate tax breaks. The Elective Residence Visa has a significantly higher income bar (€31K) than Portugal D7 (€11K) or Spain NLV (€28.8K), making it a premium-tier option. The flat-tax regime (€300K/yr) is unique in the EU but the 50% price hike (from €200K) in 2026 cooled some interest. Citizenship processing times (2–3 years) are a frustration point. Investor Visa uptake is low relative to other EU programs.
 
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~58,900,000 (2024) | [World Bank](https://data.worldbank.org/country/italy) — hard/official |
+| Main religion | Christianity (Catholic majority) | [Wikipedia](https://en.wikipedia.org/wiki/Italy#Religion) — hard/official |
+| Main language | Italian | [Wikipedia](https://en.wikipedia.org/wiki/Italy) — hard/official |
+| Main city (capital or largest) | Rome | [Wikipedia](https://en.wikipedia.org/wiki/Rome) — hard/official |
+| On the coast? | Yes (extensive Mediterranean coastline, ~7,600 km) | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — Rome, Venice, Florence, Amalfi Coast; severe overtourism in hotspots May–Sep | [soft/estimate] |
+| GDP per capita (PPP) | ~$54,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=IT) — hard/official |
+| Median net monthly salary | ~€1,570 (~$1,700) | [Numbeo](https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105) [soft/estimate] |
+| Cost of living index | 51.0 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | €725 (city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Italy) [soft/estimate] |
+| Effective personal tax rate for remote workers | Progressive 23%–43%; flat tax €300K/yr for HNWI; 7% for pensioners in south; impatriate 50% exemption | See [[#tax]] [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Digital Nomad Visa (Art. 27-quater, €28,000/yr) | See [[#digital-nomad-visa]] |
+| Years to citizenship | 10 years (4 for EU citizens) | See [[#citizenship]] |
+| Maximum permitted absence during residence | Must maintain continuous legal residence; significant gaps may reset clock | See [[#citizenship]] |
+| Passport strength after citizenship | 189 visa-free destinations (Henley Q3 2025, rank 3) | [Henley & Partners](https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025) — hard/official |
+| Rule of Law Index | 0.67 (WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 89/100 (Free) | [Freedom House](https://freedomhouse.org/country/italy/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,400 h (Rome ~2,470; south higher) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~14 °C (Rome ~15 °C; Milan ~13 °C; south warmer) | [Wikipedia](https://en.wikipedia.org/wiki/Italy#Climate) — hard/official |
+
+## Country Card
+
+### General description
+Italy is a southern European country with a rich cultural heritage, the EU's third-largest economy, and extensive Mediterranean coastline. Its economy is driven by manufacturing (especially in the north), tourism, fashion, and design. Italy offers a Digital Nomad Visa (no quotas), an Investor Visa from €250K, and the unique €300K/yr flat-tax regime for HNWI, making it attractive across multiple residency categories — though its 10-year citizenship clock and bureaucratic complexity are notable drawbacks.
+
+### Well-known strong points
+- Top-tier passport: 189 visa-free destinations (joint 3rd globally)
+- Digital Nomad Visa with no quota limits and ~60–90 day processing
+- Unique flat-tax regime: €300K/yr on all foreign income for up to 15 years
+- Impatriate tax breaks: 50%–70% exemption on Italian-source income
+- Very high quality of life, cuisine, culture, and climate
+- Generous citizenship-by-descent (jure sanguinis) program
+
+### Well-known problems
+- 10-year citizenship path — among the longest in the EU
+- Bureaucratic inefficiency: questure (immigration office) processing delays are chronic
+- Lower Rule of Law score (0.67) relative to northern EU peers
+- Modest median salary (~€1,570/mo) and north-south economic divide
+- Elective Residence Visa income bar (€31K/yr) significantly higher than Portugal D7
+- Citizenship processing backlog: 2–3 years wait common
+
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Flat tax raised from €200K to €300K (2026 Budget Law). Digital Nomad Visa fully mature (since April 2024). No Decreto Flussi reform in 2026.

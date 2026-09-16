@@ -136,4 +136,47 @@ Argentina's 2-year citizenship timeline is among the fastest globally and is the
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Decree 366/2025 (May 2025) — tightened residency continuity, citizenship processing moved to DNM. Decree 524/2025 (July 2025) — CBI framework. SMVM minimum wage updates alter Rentista thresholds periodically.
-- **Watch items**: CBI secondary regulations publication. Potential tax reform under Milei.
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~45,700,000 (2024) | [World Bank](https://data.worldbank.org/country/argentina) — hard/official |
+| Main religion | Roman Catholicism (~62%); Protestant (~15%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/argentina/) — hard/official |
+| Main language | Spanish (official) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/argentina/) — hard/official |
+| Main city (capital or largest) | Buenos Aires (capital; ~15M metro) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/argentina/) — hard/official |
+| On the coast? | Yes — Atlantic coastline from Buenos Aires to Patagonia; ~4,989 km | Geographical fact [soft/estimate] |
+| Tourism impact in season | Medium — Buenos Aires, Patagonia, Iguazú; peak Dec–Feb (summer), Jul–Aug (ski season) | [soft/estimate] |
+| GDP per capita (PPP) | ~$28,000 (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=AR) — hard/official |
+| Median net monthly salary | ~$450–550 USD (ARS highly variable due to inflation) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Argentina) [soft/estimate] |
+| Cost of living index | 28.0 (NYC=100, Numbeo 2025) — heavily distorted by parallel exchange rate | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$400 (Buenos Aires city centre, at blue rate) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Argentina) [soft/estimate] |
+| Effective personal tax rate for remote workers | 5%–35% progressive (residents); no territorial option; inflation distorts effective rates | [AFIP](https://www.afip.gob.ar) [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Rentista (~$1,500/mo passive income) or Digital Nomad visa (180+180 days, visa-waiver only, does not count toward citizenship) | See [[#passive-income-residency]] and [[#digital-nomad-visa]] |
+| Years to citizenship | 2 continuous years (ANY exit can reset clock under Decree 366/2025) | See [[#citizenship]] |
+| Maximum permitted absence during residence | 0 days — Decree 366/2025: ANY exit during 2-year qualifying period may reset clock at judicial discretion | See [[#citizenship]] |
+| Passport strength after citizenship | 170 visa-free destinations (Henley Q3 2025, rank 16) | [Henley & Partners](https://www.henleyglobal.com/publications/global-mobility-report/2025-july) — hard/official |
+| Rule of Law Index | 0.56 (rank 63/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 85/100 (Free) | [Freedom House](https://freedomhouse.org/country/argentina/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,500 h (Buenos Aires) | [Current Results](https://www.currentresults.com/Weather/Argentina/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~18 °C (Buenos Aires); wide range from subtropical north to subpolar south | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/argentina/) — hard/official |
+
+## Country Card
+
+### General description
+Argentina is the second-largest country in South America, stretching from the subtropics to Patagonia. It has a highly educated population, a European-influenced culture, and one of the fastest citizenship paths in the world — 2 continuous years of legal residence. The economy has been plagued by chronic inflation and currency crises, but the parallel (blue) dollar exchange rate provides significant purchasing power for foreign-income residents. Buenos Aires is a major cultural capital with strong infrastructure for expats and digital nomads.
+
+### Well-known strong points
+- Fastest citizenship path in the Americas: 2 continuous years (no minimum for spouses of Argentines)
+- MERCOSUR mobility — Argentine citizens enjoy residency rights across South America
+- Strong passport (170 visa-free destinations, Henley rank 16)
+- Low effective cost of living for USD/EUR earners at the parallel (blue) exchange rate
+- Buenos Aires is a world-class city with European architecture, culture, and healthcare
+- Rentista income threshold among the lowest in the region (~$1,500/mo)
+
+### Well-known problems
+- Chronic inflation (100%+ annually) — prices, contracts, and salaries in constant flux
+- Decree 366/2025: ANY exit during 2-year citizenship qualifying period can reset the clock
+- Digital nomad visa is a dead-end: 360 days max, does NOT count toward citizenship
+- Worldwide taxation with no territorial option — foreign income fully taxable for residents
+- Currency controls and parallel exchange rate create practical FX friction
+- CBI program (Decree 524/2025) promised but not yet operational as of mid-2026

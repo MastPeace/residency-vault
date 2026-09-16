@@ -27,7 +27,7 @@ Canada has one of the world's strongest passports and a large, structured immigr
 | startup_entrepreneur | Start-Up Visa (SUV) — SUSPENDED | Paused to new applications since Jan 1, 2026; replacement pilot promised | — | [[#startup-entrepreneur]] |
 | employment_residency | Provincial Nominee Programs (PNP) + Temporary Foreign Worker | Job offer + provincial nomination | PR on grant / work permit | [[#employment-residency]] |
 | student_residency | Study Permit → PGWP → PR | DLI enrollment; post-graduation work permit up to 3 years | Study + work | [[#student-residency]] |
-| family_reunification | Family Class Sponsorship | Sponsor is PR/citizen; income threshold applies for some | PR on grant | [[#family-reunification]] |
+| family_reunification | Family Class Sponsorship | Sponsr is PR/citizen; income threshold applies for some | PR on grant | [[#family-reunification]] |
 | retired_residency | Not available | No dedicated retirement visa | — | [[#retired-residency]] |
 | citizenship_by_investment | Not available | — | — | — |
 
@@ -85,7 +85,7 @@ Canada has one of the world's strongest passports and a large, structured immigr
 
 ### family_reunification
 - **Official name**: Family Class Sponsorship
-- **Conditions**: Sponsor must be Canadian citizen or PR aged 18+; demonstrate financial ability to support (no social assistance); undertaking for 3–10 years. Spouse/common-law/children: priority processing. Parents/grandparents: lottery-based Super Visa or PGP (limited quota).
+- **Conditions**: Sponsr must be Canadian citizen or PR aged 18+; demonstrate financial ability to support (no social assistance); undertaking for 3–10 years. Spouse/common-law/children: priority processing. Parents/grandparents: lottery-based Super Visa or PGP (limited quota).
 - **Duration / renewal**: PR on grant for sponsored family members.
 - **Path to citizenship**: Standard 1,095 days after PR.
 - **Official source**: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship.html
@@ -123,3 +123,48 @@ Canada maintains sanctions against Russia. Visitor visa and study permit process
 - **Last monitored**: 2026-09-14
 - **Recent changes**: Start-Up Visa suspended (Dec 2025). Express Entry record ITAs in 2026. Bill C-3 extended citizenship by descent. IRCC stabilized admissions at 380,000/year for 2026–2028.
 - **Watch items**: New entrepreneur pilot launch date pending. CRS cutoff trends. CEC draw frequency.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~41,651,000 (2025) | [World Bank](https://data.worldbank.org/country/canada) — hard/official |
+| Main religion | Christianity (Roman Catholic ~29%, Protestant ~22%) | [CIA Factbook](https://www.cia.gov/the-world-factbook/countries/canada/) — hard/official |
+| Main language | English, French (both official) | [CIA Factbook](https://www.cia.gov/the-world-factbook/countries/canada/) — hard/official |
+| Main city (capital or largest) | Ottawa (capital); Toronto (largest) | [Wikipedia](https://en.wikipedia.org/wiki/Canada) — hard/official |
+| On the coast? | Yes (Atlantic, Pacific, Arctic — longest coastline in the world, ~202,080 km) | Geographical fact [soft/estimate] |
+| Tourism impact in season | Medium — Banff, Vancouver, Niagara peak Jun–Sep; winter sports Dec–Mar | [soft/estimate] |
+| GDP per capita (PPP) | ~$65,063 (2025) | [World Economics](https://www.worldeconomics.com/GDP-Per-Capita/Canada.aspx) — hard/official |
+| Median net monthly salary | ~C$5,100 (~US$3,750) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Canada) [soft/estimate] |
+| Cost of living index | 61.3 (NYC=100, Numbeo 2026 Mid-Year) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2026) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | C$1,800 (city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Canada) [soft/estimate] |
+| Effective personal tax rate for remote workers | ~25–30% (federal 15–33% + provincial 5–15%; self-employed ~C$100K pays ~26% avg) | [Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/individuals.html) [soft/estimate] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; Express Entry for skilled workers; visitor visa allows 6-month informal remote work for foreign employers | See [[#digital-nomad-visa]] and [[#highly-skilled-employment]] |
+| Years to citizenship | 3 years (1,095 days physical presence in 5 years before application) | See [[#citizenship]] |
+| Maximum permitted absence during residence | PR: 730 days/5yr for renewal; Citizenship: max 730 days absent in 5yr window; no single-trip limit for PR | See [[#citizenship]] |
+| Passport strength after citizenship | 181 visa-free destinations (Henley 2026, rank 8) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.80 (rank 12/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 97/100 (Free) | [Freedom House](https://freedomhouse.org/country/canada/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,000–2,100 h (Toronto 2,066h, Vancouver 1,938h) | [Current Results / Environment Canada](https://www.currentresults.com/Weather/Canada/Cities/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~−5°C to 20°C by season; annual mean ~2°C to ~10°C depending on region | [Environment Canada](https://climate.weather.gc.ca/) — hard/official |
+
+## Country Card
+
+### General description
+Canada is a vast North American country bordering the United States, with coastlines on the Atlantic, Pacific, and Arctic Oceans. It has a highly developed, service-based economy with significant natural resource wealth (oil, gas, minerals, timber). Canada is one of the world's most active immigration destinations, operating a points-based Express Entry system that grants permanent residence directly to skilled workers — one of the fastest pathways to citizenship (3 years) among G7 nations. It has a strong social safety net, publicly funded healthcare, and large immigrant communities in Toronto, Vancouver, and Montreal.
+
+### Well-known strong points
+- One of the fastest citizenship timelines among G7 nations (3 years physical presence)
+- Express Entry grants permanent residence directly — no temporary-to-PR bridge required
+- Strong passport (181 visa-free destinations, Henley 2026 rank 8)
+- High quality of life: universal healthcare, clean environment, safe cities
+- Very high Freedom House score (97/100) and robust rule of law (WJP 0.80)
+- Large, established immigrant communities with strong settlement support
+
+### Well-known problems
+- Very high housing costs in major cities (Toronto, Vancouver among world's least affordable)
+- Harsh winters across most of the country (except coastal BC)
+- High cost of living relative to median salary, especially for newcomers
+- No digital nomad or passive income visa — immigration is PR-focused, not flexible
+- High CRS score cutoffs (521–523 in 2026) make Express Entry competitive
+- Startup Visa suspended; entrepreneur pathway uncertain

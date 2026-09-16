@@ -112,4 +112,47 @@ The dominant complaints are consulate-to-consulate variance in financial thresho
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: July 2025 — direct permanent residency restricted to retirees/pensioners only. 2026 fee increases — government fees for residency roughly doubled.
-- **Watch items**: Further tightening of economic solvency thresholds. INM backlog.
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~130,861,000 (2024) | [World Bank](https://data.worldbank.org/country/mexico) — hard/official |
+| Main religion | Roman Catholicism (~78%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/mexico/) — hard/official |
+| Main language | Spanish (de facto); 68 Indigenous languages recognized | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/mexico/) — hard/official |
+| Main city (capital or largest) | Mexico City (capital; ~22M metro) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/mexico/) — hard/official |
+| On the coast? | Yes — Pacific (west), Gulf of Mexico/Caribbean (east); ~9,330 km coastline | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — Cancún, Riviera Maya, Puerto Vallarta, Los Cabos heavily seasonal; peak Dec–Apr | [soft/estimate] |
+| GDP per capita (PPP) | ~$24,000 (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=MX) — hard/official |
+| Median net monthly salary | ~$900–1,000 USD (MXN ~18,000) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Mexico) [soft/estimate] |
+| Cost of living index | 33.5 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$550 (city centre, MXN ~10,000) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Mexico) [soft/estimate] |
+| Effective personal tax rate for remote workers | 1.92%–35% progressive (residents); territorial practice: foreign income often untaxed if under 183 days | [SAT Mexico](https://www.sat.gob.mx) [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Temporary Residency via economic solvency (~$4,400/mo income or ~$74,000 savings); no dedicated DN visa | See [[#passive-income-residency]] |
+| Years to citizenship | 5 years legal residence (2 years for spouses of Mexicans) | See [[#citizenship]] |
+| Maximum permitted absence during residence | No strict limit for temporary; avoid extended absences during citizenship qualifying period (18 months presence in last 2 years required) | See [[#citizenship]] |
+| Passport strength after citizenship | 158 visa-free destinations (Henley Q3 2025, rank 22) | [Henley & Partners](https://www.henleyglobal.com/publications/global-mobility-report/2025-july) — hard/official |
+| Rule of Law Index | 0.42 (rank 117/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 60/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/mexico/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,600 h (Mexico City); 2,800+ h (coastal) | [Current Results](https://www.currentresults.com/Weather/Mexico/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~16 °C (Mexico City, high plateau); 24–27 °C (coastal) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/mexico/) — hard/official |
+
+## Country Card
+
+### General description
+Mexico is a North American country bordered by the United States to the north, the Pacific Ocean to the west and south, and the Gulf of Mexico/Caribbean Sea to the east. It has the second-largest economy in Latin America (after Brazil), driven by manufacturing, oil, tourism, and remittances. Mexico is one of the most popular expat destinations in the world, with large retiree and digital-nomad communities concentrated in Mexico City, the Riviera Maya, Puerto Vallarta, and Lake Chapala. The Temporary Residency via economic solvency is the standard entry route, with a 5-year path to citizenship.
+
+### Well-known strong points
+- Low cost of living relative to North America and Europe (Numbeo index 33.5)
+- Large, established expat communities with deep infrastructure (healthcare, banking, services)
+- Proximity to the United States — short flights, same time zones
+- Rich culture, cuisine, and geographic diversity (beaches, mountains, colonial cities)
+- 180-day visa-free tourist entry for most Western and many non-Western passport holders
+- Territorial tax practice — many residents structure affairs to avoid worldwide taxation
+
+### Well-known problems
+- Very high violent crime and homicide rates (25 per 100,000 — among the highest globally)
+- Weak rule of law (WJP 0.42) — police corruption, impunity, unreliable judiciary
+- Consulate-to-consulate variance in Temporary Residency financial thresholds creates uncertainty
+- Cartel-related violence makes some regions effectively off-limits to foreigners
+- Bureaucratic inefficiency (INM processing delays, ambiguous requirements)
+- Water scarcity and pollution issues in major cities (Mexico City, Monterrey)

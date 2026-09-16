@@ -100,6 +100,51 @@ Belgium has a short North Sea coastline. Major port: Antwerp (Europe's second-la
 ## Notes for RU citizens
 Belgium applies EU sanctions against Russia. Visa processing for Russian citizens faces delays and enhanced scrutiny. The professional card route is open in principle. No specific ban on Russian nationals, but banking (opening accounts, processing payments) may be difficult. Belgian consulates in Russia operate at reduced capacity — applications often routed through third-country consulates.
 
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~11,700,000 (2024) | [World Bank](https://data.worldbank.org/country/belgium) — hard/official |
+| Main religion | Christianity (Catholic majority); large non-religious population | [Wikipedia](https://en.wikipedia.org/wiki/Belgium#Religion) — hard/official |
+| Main language | Dutch, French, German (all official) | [Wikipedia](https://en.wikipedia.org/wiki/Belgium) — hard/official |
+| Main city (capital or largest) | Brussels | [Wikipedia](https://en.wikipedia.org/wiki/Brussels) — hard/official |
+| On the coast? | Yes (North Sea, short coastline ~66 km) | Geographical fact [soft/estimate] |
+| Tourism impact in season | Medium — Bruges, Brussels, Ghent; less seasonal pressure than Mediterranean | [soft/estimate] |
+| GDP per capita (PPP) | ~$65,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=BE) — hard/official |
+| Median net monthly salary | ~€2,490 (~$2,700) | [Numbeo](https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105) [soft/estimate] |
+| Cost of living index | 56.5 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~€850 (Brussels city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Belgium) [soft/estimate] |
+| Effective personal tax rate for remote workers | Progressive 25%–50% + municipal surcharge ~7%; expat regime: 30% tax-free up to €90K | See [[#tax]] [soft/estimate] |
+| Remote-work / self-employment residence available? | No — no digital nomad visa; Professional Card for self-employed | See [[#digital-nomad-visa]] |
+| Years to citizenship | 5 years | See [[#citizenship]] |
+| Maximum permitted absence during residence | Must maintain uninterrupted legal residence | See [[#citizenship]] |
+| Passport strength after citizenship | 188 visa-free destinations (Henley Q3 2025, rank 4) | [Henley & Partners](https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025) — hard/official |
+| Rule of Law Index | 0.78 (WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 96/100 (Free) | [Freedom House](https://freedomhouse.org/country/belgium/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | 1,546 h (Brussels) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~10 °C | [Wikipedia / RMI](https://en.wikipedia.org/wiki/Belgium#Climate) — hard/official |
+
+## Country Card
+
+### General description
+Belgium is a small, wealthy Western European country hosting the EU and NATO headquarters in Brussels. It has a highly developed service economy with strong pharmaceutical, chemical, and logistics sectors. Belgium's immigration system is moderate in difficulty: a Professional Card for self-employed entrepreneurs, EU Blue Card for highly skilled workers, and a 5-year path to citizenship with dual citizenship permitted. However, Belgium lacks dedicated investor, digital nomad, and passive-income residence routes. Its complex federal structure (three language communities, three regions) adds bureaucratic layers.
+
+### Well-known strong points
+- EU/NATO institutional hub: excellent international environment and networking
+- Relatively fast citizenship: 5 years with dual citizenship permitted
+- Expat tax regime: 30% of salary tax-free (capped at €90K, new from 2025)
+- Strong passport (188 destinations) and high political freedom (FH 96/100)
+- Good work-life balance, excellent healthcare, and education
+- No wealth tax; capital gains on shares generally tax-free for private investors
+
+### Well-known problems
+- No digital nomad visa, investor visa, or passive-income residence route
+- High income tax (top rate 50% + municipal surcharge)
+- Complex regional bureaucracy (Flanders/Wallonia/Brussels have different rules)
+- Gloomy weather: only 1,546 sunshine hours annually
+- Tight housing market in Brussels and major cities
+- Language barrier: Dutch/French/German requirements vary by region
+
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: New expat tax regime effective from 2025. No major immigration reform in 2026.

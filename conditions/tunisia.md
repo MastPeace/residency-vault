@@ -126,3 +126,47 @@ Tunisia is an underrated option for lifestyle-oriented residency seekers. It off
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Investment incentives updated (2024). Startup Act continues. FIPA investment promotion active. No major residency framework changes.
 - **Watch items**: Potential formalization of a digital nomad or remote work visa. Offshore regime developments. FIPA investment thresholds.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~12,350,000 | ^[https://data.worldbank.org/country/tunisia] hard/official |
+| Main religion | Islam (Sunni; ~99%) | ^[https://www.cia.gov/the-world-factbook/countries/tunisia/] hard/official |
+| Main language | Arabic (official); French widely used | ^[https://www.cia.gov/the-world-factbook/countries/tunisia/] hard/official |
+| Main city | Tunis (capital and largest) | ^[https://www.cia.gov/the-world-factbook/countries/tunisia/] hard/official |
+| On the coast? | Yes — Mediterranean Sea | hard/official |
+| Tourism impact in season | High — summer beach tourism (Jun–Sep); peak in July–August; European charter flights | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Tunisia] [soft/estimate] |
+| GDP per capita (PPP) | ~$13,000 (2024) | ^[https://www.imf.org/en/Publications/WEO] hard/official |
+| Median net monthly salary | ~$250–$400 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Tunisia] [soft/estimate] |
+| Cost of living index | 22.5 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Tunisia] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$150–$300 (Tunis city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Tunisia] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~0–35% (progressive; top bracket 35% above ~$16K) | ^[https://www.finances.gov.tn/] [soft/estimate] |
+| Remote-work / self-employment residence available? | Partially — self-employment possible via company registration; no dedicated DN visa (under discussion) | ^[https://www.fipa.gov.tn/] [soft/estimate] |
+| Years to citizenship | 5 years continuous residence; Arabic proficiency; discretionary | ^[https://www.juridictunisie.com/] [soft/estimate] |
+| Maximum permitted absence during residence | Varies; generally 6 months | ^[https://www.fipa.gov.tn/] [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 66 (Henley, 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.50 (rank 76/142, 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 44/100 — Partly Free (2025; declined from 51 in 2024) | ^[https://freedomhouse.org/country/tunisia/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,900 | ^[https://weatherspark.com/countries/TN] hard/official |
+| Average annual temperature | ~19°C (coastal); hotter inland | ^[https://weatherspark.com/countries/TN] hard/official |
+
+## Country Card
+
+Tunisia is North Africa's smallest country and the only democracy to emerge from the 2011 Arab Spring, though its democratic gains have eroded significantly since 2021. The economy is diversified: agriculture (olive oil), tourism, manufacturing (textiles, automotive components), and a small but notable IT/startup sector. The cost of living is very low, and the Mediterranean coastline attracts European tourists and retirees. Citizenship is legally possible after 5 years of continuous residence, though naturalizations are rare. French is widely spoken. The Startup Act provides incentives for tech entrepreneurs.
+
+### Well-known strong points
+- Very low cost of living — one of the most affordable Mediterranean destinations
+- Citizenship legally possible after 5 years; faster than most Arab countries
+- Mediterranean lifestyle: beaches, climate, cuisine, and proximity to Europe (1–2 hour flight)
+- Educated workforce — strong university system, especially in engineering and medicine
+- Startup Act provides incentives for tech entrepreneurs and investors
+- Good tourism infrastructure along the coast (Hammamet, Sousse, Djerba)
+
+### Well-known problems
+- Democratic backsliding: Freedom House declined from 51 (2024) to 44 (2025); Partly Free
+- Economic stagnation — high unemployment (~15%), inflation, and weak growth
+- Weak passport (66 visa-free) — limited mobility compared to EU passports
+- No dedicated digital nomad visa; self-employment residence pathways are underdeveloped
+- Bureaucracy and corruption remain significant obstacles to business
+- Political uncertainty post-2021 constitutional changes; presidential power concentration

@@ -144,4 +144,47 @@ Paraguay is landlocked but is a major flag state for commercial river vessels (P
 - Last change: Investor Pass (Resolución 0283/2026) codified the four investment tracks and direct PR.
 - Residency demand surge: ~47,000 applications in 2025 (projected 80,000 in 2026).
 - Last monitored: 2026-09-14.
-- Watch: citizenship civics exam enforcement; potential residency fee changes.
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~6,800,000 (2024) | [World Bank](https://data.worldbank.org/country/paraguay) — hard/official |
+| Main religion | Roman Catholicism (~89%); Protestant (~7%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/paraguay/) — hard/official |
+| Main language | Spanish, Guaraní (both official) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/paraguay/) — hard/official |
+| Main city (capital or largest) | Asunción (capital; ~2.3M metro) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/paraguay/) — hard/official |
+| On the coast? | No — landlocked; Paraguay and Paraná rivers provide waterway access to Atlantic | Geographical fact [soft/estimate] |
+| Tourism impact in season | Low — not a major tourist destination; limited seasonal pressure | [soft/estimate] |
+| GDP per capita (PPP) | ~$18,000 (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=PY) — hard/official |
+| Median net monthly salary | ~$400–500 USD (PYG ~2,800,000) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Paraguay) [soft/estimate] |
+| Cost of living index | 26.0 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$350 (Asunción city centre, PYG ~2,500,000) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Paraguay) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% on foreign-source income (territorial tax system); Paraguay-source income up to 10% | [SET Paraguay](https://www.set.gov.py) [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — standard temporary residency (no income verification beyond solvency); no dedicated DN visa; Investor Pass ($70K+) grants direct PR | See [[#passive-income-residency]] and [[#investment-residency]] |
+| Years to citizenship | 3 years of permanent residency (temporary residency does NOT count); ~5–6 years total (standard) or ~3.5–4 years (investor) | See [[#citizenship]] |
+| Maximum permitted absence during residence | Visit once every 3 years to maintain permanent residency; genuine presence (arraigo) required for citizenship | See [[#citizenship]] |
+| Passport strength after citizenship | 146 visa-free destinations (Henley Q3 2025, rank 30) | [Henley & Partners](https://www.henleyglobal.com/publications/global-mobility-report/2025-july) — hard/official |
+| Rule of Law Index | 0.47 (rank 100/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 63/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/paraguay/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,700 h (Asunción) | [Current Results](https://www.currentresults.com/Weather/Paraguay/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~23 °C (Asunción); subtropical — hot summers, mild winters | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/paraguay/) — hard/official |
+
+## Country Card
+
+### General description
+Paraguay is a landlocked South American country with a unique profile: it offers one of the fastest investment residencies in the region (Investor Pass from $70,000 → direct permanent residency), a 0% territorial tax on foreign income, and the lowest physical-presence requirement (1 visit every 3 years maintains PR). Citizenship requires 3 years of permanent residency, but genuine presence (arraigo) is required. The Investor Pass (Resolution 0283/2026) has driven a surge in applications (~47,000 in 2025). Paraguay is trilingual (Spanish, Guaraní, and increasingly English in business) and a MERCOSUR member.
+
+### Well-known strong points
+- Territorial tax: 0% on foreign-source income — one of the best tax regimes for location-independent earners
+- Fastest investment residency in South America: Investor Pass from $70,000 → direct PR in ~5 business days
+- Minimal physical presence: 1 visit every 3 years to maintain permanent residency
+- Low cost of living (Numbeo index 26.0) and low government fees (~$100 for residency)
+- MERCOSUR mobility for permanent residents and citizens
+- No nationality restrictions — open to Russian, Chinese, and all other passport holders
+
+### Well-known problems
+- Citizenship requires genuine presence (arraigo) — "1 visit every 3 years" residency-maintenance rule does NOT satisfy the citizenship clock
+- Weak rule of law (WJP 0.47, rank 100/142) and corruption concerns
+- No dedicated digital nomad visa — remote workers use standard residency
+- Landlocked — no coastline, limited international flight connections
+- Small economy with limited professional opportunities for expats
+- Infrastructure outside Asunción is basic; internet quality variable in rural areas

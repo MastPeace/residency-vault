@@ -68,3 +68,47 @@ Visa-free or visa on arrival (varies — check with embassy). French proficiency
 - **Last monitored**: 2026-09-13
 - **Recent changes**: EY Global Immigration Index (Nov 2025) lists Senegal among countries "actively preparing" to launch DN visa programs. No official launch date yet.
 - **Watch items**: MONITOR DN visa launch. Track any investment residency framework introduction.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~18,400,000 (2024) | ^[https://data.worldbank.org/country/SN] hard/official |
+| Main religion | Islam (~97%, mostly Sufi) | ^[https://www.cia.gov/the-world-factbook/countries/senegal/] hard/official |
+| Main language | French (official); Wolof (most widely spoken) | ^[https://www.cia.gov/the-world-factbook/countries/senegal/] hard/official |
+| Main city (capital or largest) | Dakar (~4M metro) | ^[https://www.cia.gov/the-world-factbook/countries/senegal/] hard/official |
+| On the coast? | Yes — Atlantic Ocean (Dakar peninsula, Petite Côte) | hard/official |
+| Tourism impact in season | Medium — peak November–April (dry season), Dakar year-round business | [soft/estimate] |
+| GDP per capita (PPP) | ~$4,500 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=SN] hard/official |
+| Median net monthly salary | ~$300–450 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Senegal] |
+| Cost of living index (relative) | ~35 (NYC=100) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Senegal] |
+| Monthly rent, 1‑bedroom apartment | ~$400–700 (Dakar Plateau/Almadies expat areas) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Senegal] |
+| Effective personal tax rate for remote workers | 0%–40% progressive (top rate on XOF 14M+/yr, ~USD 23,000) | [soft/estimate] |
+| Remote‑work / self‑employment residence available? | No — but digital nomad visa reportedly in development (EY, 2025) | ^[https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/insights/workforce/documents/ey-gl-global-immigration-index-remote-work-and-digital-nomads-11-25.pdf] |
+| Years to citizenship | 10 years continuous lawful residence (5 years if married to Senegalese) | ^[https://remotepeople.com/countries/senegal/employer-of-record/work-visa-permit] |
+| Maximum permitted absence during residence | Not clearly defined; "continuous residence" expected | [soft/estimate] |
+| Passport strength after citizenship (visa‑free count) | ~55 destinations (ECOWAS free movement) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.52 (rank 68/142, 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/country/2024/Senegal] hard/official |
+| Freedom House score | 68/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/senegal/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,900 (Dakar) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Dakar,Senegal] hard/official |
+| Average annual temperature | ~25°C (Dakar, coastal Sahel) | ^[https://en.climate-data.org/africa/senegal/dakar/dakar-523/] hard/official |
+
+## Country Card
+
+Senegal is one of West Africa's most stable democracies, with a French-influenced immigration system centred on Dakar — a bustling peninsula capital that is also Francophone Africa's cultural hub. The country is actively preparing a digital nomad visa (per EY Global Immigration Index 2025). The current system requires a Permis de Travail + Titre de Séjour, which is bureaucratic and slow (card takes up to 1.5 years). Senegal permits dual citizenship and is an ECOWAS member. French proficiency is essential for daily life and administration.
+
+### Well-known strong points
+- Stable multi-party democracy with peaceful transfers of power; Freedom House 68/100
+- Dual citizenship is permitted — a rarity in West Africa
+- Dakar is a vibrant cultural and business hub with growing tech startup scene
+- CFA franc zone provides currency stability (pegged to EUR)
+- Digital nomad visa reportedly in active development — could transform accessibility
+- ECOWAS free movement enables regional mobility for citizens
+
+### Well-known problems
+- No digital nomad visa yet (as of Sept 2026); remote workers rely on tourist visas (grey area)
+- Residence card processing is extremely slow — up to 1.5 years for the physical card
+- French fluency is essential — administration operates entirely in French
+- Personal income tax reaches 40% at relatively low threshold (XOF 14M/yr, ~USD 23K)
+- 10-year citizenship timeline is long; passport is weak (~55 visa-free)
+- Repatriation bond deposit required; bureaucracy can be challenging without local support

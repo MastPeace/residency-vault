@@ -94,6 +94,52 @@ Honduras has an international ship registry. Roatán (Bay Islands) is a modest C
 - Healthcare limited outside Tegucigalpa/San Pedro Sula; expats cluster in Bay Islands.
 - October 2025 decree (No. 374-2025) created a "special category" and eased criteria for certain applicants (50% of standard income threshold).
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~11,000,000 (2024) | [World Bank](https://data.worldbank.org/country/honduras) — hard/official |
+| Main religion | Christianity (Roman Catholic ~46%, Evangelical Protestant ~41%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/honduras/) — hard/official |
+| Main language | Spanish (official); indigenous languages in some regions | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/honduras/) — hard/official |
+| Main city (capital or largest) | Tegucigalpa | [Wikipedia](https://en.wikipedia.org/wiki/Tegucigalpa) — hard/official |
+| On the coast? | Yes (Caribbean Sea + Pacific Ocean; ~820 km coastline) | Geographical fact [soft/estimate] |
+| Tourism impact in season | Low–Medium — Bay Islands (Roatán, Útila) are seasonal dive/snorkel destinations; Copán ruins | [soft/estimate] |
+| GDP per capita (PPP) | ~$7,500 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=HN) — hard/official |
+| Median net monthly salary | ~HNL 12,000 (~$490) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Honduras) [soft/estimate] |
+| Cost of living index | 30.5 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$300 (outside Bay Islands) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Honduras) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% on foreign-source income (territorial system) | See [[#tax]] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; Rentista ($2,500/mo) covers passive income | See [[#passive-income-residency]] |
+| Years to citizenship | 5 years (3 for Central Americans/Spaniards; 1 for spouses) | See [[#citizenship]] |
+| Maximum permitted absence during residence | 1 day/year minimum presence to maintain; 12 consecutive months absence breaks residency | See [[#passive-income-residency]] |
+| Passport strength after citizenship | ~129 visa-free destinations (Henley Q3 2025) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.36 (rank 127/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 48/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/honduras/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,300 h (Tegucigalpa; varies by region) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Honduras#Climate) — hard/official |
+| Average annual temperature | ~25 °C (coastal; cooler in highlands) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Honduras#Climate) — hard/official |
+
+## Country Card
+
+### General description
+Honduras is a Central American nation with Caribbean and Pacific coastlines, best known among expats for its income-based permanent residence routes and the English-speaking Bay Islands (Roatán, Útila). The Rentista programme grants permanent residence from day one with a US$2,500/month income threshold and minimal physical presence (1 day/year). The Pensionado route is lower at US$1,500/month. Honduras operates a territorial tax system and offers a relatively short 5-year path to citizenship (3 years for Central Americans/Spaniards). A 2025 decree (No. 374-2025) introduced a "special category" easing criteria for certain applicants.
+
+### Well-known strong points
+- Permanent residence granted directly (Rentista $2,500/mo, Pensionado $1,500/mo) — no temporary phase
+- Minimal physical presence: 1 visit per year maintains status
+- Fast citizenship: 5 years (3 for Central Americans/Spaniards; 1 for spouses)
+- Territorial tax system: no tax on foreign-source income
+- Very low cost of living (Numbeo index 30.5)
+- Bay Islands: English-speaking Caribbean lifestyle with world-class diving
+
+### Well-known problems
+- One of the highest violent crime rates in the world; security concerns in urban areas
+- Very weak rule of law (WJP 0.36, rank 127/142); corruption pervasive
+- Healthcare quality poor outside major cities; medical evacuation often needed
+- Rentista threshold high ($2,500/mo) relative to local cost of living
+- No digital nomad visa; remote-work framework underdeveloped
+- Bureaucratic inconsistency; lawyer strongly recommended
 ## Status
 - Last change: October 2025 — Ministerial Agreement No. 374-2025 introducing special immigration category; November 2024 reform affects long-term residence pathways.
 - Last monitored: 2026-09-14.

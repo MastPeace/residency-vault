@@ -86,6 +86,52 @@ Not applicable — Hungary is landlocked.
 ## Notes for RU Citizens
 The Guest Investor Programme (Golden Visa, €250K) is formally open to Russian nationals but faces enhanced source-of-funds scrutiny. The White Card (€3,000/mo) is also accessible. Hungarian language is one of Europe's hardest for Russian speakers. Budapest has a small but established Russian-speaking community.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~9,600,000 | ^[https://www.cia.gov/the-world-factbook/countries/hungary/] hard/official |
+| Main religion | Roman Catholicism (37%); Calvinist (12%); no religion (18%) | ^[https://www.cia.gov/the-world-factbook/countries/hungary/] hard/official |
+| Main language | Hungarian (official) | ^[https://www.cia.gov/the-world-factbook/countries/hungary/] hard/official |
+| Main city | Budapest (capital, ~1.75 million) | ^[https://en.wikipedia.org/wiki/Hungary] hard/official |
+| On the coast? | No — landlocked | [soft/estimate] |
+| Tourism impact in season | High — Budapest is a major year-round tourist destination; summer peak | [soft/estimate] |
+| GDP per capita (PPP) | $47,637 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=HU] hard/official |
+| Median net monthly salary | ~€1,250 | ^[https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105] [soft/estimate] |
+| Cost of living index (relative, base note) | 36.6 (Numbeo 2025; 63.4% below NYC baseline) | ^[https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~€500–650 (Budapest city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Hungary] [soft/estimate] |
+| Effective personal tax rate for remote workers | 15% flat income tax (one of EU's lowest); 18.5% social contribution (capped); 9% corporate | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Hungary] [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — White Card (Fehér Kártya; €3,000/mo net; 1 year, renewable once, max 2 years) | Consistent with [[#digital-nomad-visa]]; [soft/estimate] |
+| Years to citizenship | 11 years total (3yr TR + 8yr PR) | Consistent with [[#citizenship]]; hard/official |
+| Maximum permitted absence during residence | Standard residence requirements apply; White Card time does NOT count toward citizenship | Consistent with [[#digital-nomad-visa]]; [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 186 destinations | ^[https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025] hard/official |
+| Rule of Law Index | 0.51 (rank 73/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 65/100 Partly Free | ^[https://freedomhouse.org/country/hungary/freedom-world/2025] hard/official |
+| Average annual sunshine hours | 1,928 (Budapest) | ^[https://en.wikipedia.org/wiki/List_of_cities_in_Europe_by_sunshine_duration] hard/official |
+| Average annual temperature | ~11.7°C (Budapest) | ^[https://en.wikipedia.org/wiki/Budapest#Climate] hard/official |
+
+## Country Card
+
+Hungary is an EU/Schengen/NATO member in Central Europe, with Budapest as a major tech and expat hub. It offers the Guest Investor Programme (Golden Visa) from €250,000 and the White Card digital nomad permit (€3,000/mo net). Hungary imposes the EU's lowest personal income tax (15% flat) and corporate tax (9%), making it highly tax-competitive. However, its citizenship path is the EU's longest at 11 years, and it is the only EU country designated Partly Free by Freedom House (65/100). Hungarian is a Finno-Ugric language — one of Europe's hardest for outsiders. The rule of law has been under sustained EU scrutiny, with €1 billion in EU funding frozen over rule-of-law breaches.
+
+### Well-known strong points
+- EU's lowest flat income tax (15%) and corporate tax (9%)
+- Guest Investor Programme (Golden Visa) from €250,000 — affordable EU investor residence
+- Budapest is a major tech and startup hub with a thriving expat scene
+- Low cost of living (63% below NYC); Budapest rent among EU's cheapest for a capital
+- Dual citizenship permitted
+- Strong passport (186 visa-free destinations)
+
+### Well-known problems
+- Longest citizenship path in the EU: 11 years (3yr TR + 8yr PR)
+- Hungarian language (Finno-Ugric) — extremely difficult for Indo-European speakers
+- Only 'Partly Free' EU country (Freedom House 65/100); rule-of-law index lowest among EU peers (0.51)
+- White Card limited to 2 years total; no path to permanent residence or citizenship
+- €1 billion in EU funding frozen over rule-of-law breaches; political risk for long-term residents
+- Landlocked — no coastline
+
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Guest Investor Programme launched July 2024; direct real estate option cancelled before 2025. White Card rules stable.

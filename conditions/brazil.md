@@ -130,4 +130,47 @@ VIPER is one of the most competitive investment residencies in Latin America wit
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: MigranteWeb digital platform rollout (2026). VITEM XIV in-country conversion option. E-visa requirement for US/Canada/Australia travelers.
-- **Watch items**: VIPER business review at 3-year mark. CNIg regulatory updates.
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~211,000,000 (2024) | [World Bank](https://data.worldbank.org/country/brazil) — hard/official |
+| Main religion | Roman Catholicism (~50%); Protestant (~31%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/brazil/) — hard/official |
+| Main language | Portuguese (official) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/brazil/) — hard/official |
+| Main city (capital or largest) | São Paulo (largest, ~22M metro); Brasília (capital) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/brazil/) — hard/official |
+| On the coast? | Yes — extensive Atlantic coastline, ~7,491 km | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — Rio de Janeiro, Salvador, Florianópolis heavily seasonal; peak Dec–Mar (summer/Carnival) | [soft/estimate] |
+| GDP per capita (PPP) | ~$20,000 (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=BR) — hard/official |
+| Median net monthly salary | ~$500–600 USD (BRL ~3,000) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Brazil) [soft/estimate] |
+| Cost of living index | 28.0 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$400 (city centre, BRL ~2,200) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Brazil) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0%–27.5% progressive (worldwide taxation for residents); foreign tax credits available | [Receita Federal](https://www.gov.br/receitafederal) [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — VITEM XIV Digital Nomad ($1,500/mo income, 1+1 yr); also VIPER investor route | See [[#digital-nomad-visa]] |
+| Years to citizenship | 4 years continuous legal residence (1 year for spouses/parents of Brazilians) | See [[#citizenship]] |
+| Maximum permitted absence during residence | Max 90 days/year to maintain continuous residence for naturalization | See [[#citizenship]] |
+| Passport strength after citizenship | 170 visa-free destinations (Henley Q3 2025, rank 16) | [Henley & Partners](https://www.henleyglobal.com/publications/global-mobility-report/2025-july) — hard/official |
+| Rule of Law Index | 0.49 (rank 81/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 72/100 (Free) | [Freedom House](https://freedomhouse.org/country/brazil/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,200 h (São Paulo); 2,400+ h (Rio de Janeiro, Northeast) | [Current Results](https://www.currentresults.com/Weather/Brazil/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~21 °C (São Paulo); 24–28 °C (coastal/Northeast) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/brazil/) — hard/official |
+
+## Country Card
+
+### General description
+Brazil is the largest country in South America and the fifth-largest in the world by area, with over 211 million people. It has the largest economy in Latin America and is a member of BRICS and MERCOSUR. Brazil offers a well-structured immigration system with the VIPER investor visa (from BRL 600K), the VITEM XIV digital nomad visa ($1,500/mo — one of the cheapest in the G20), and a relatively fast 4-year path to citizenship. The Brazilian passport provides 170 visa-free destinations and MERCOSUR mobility rights.
+
+### Well-known strong points
+- One of the cheapest digital nomad visas in the G20 ($1,500/mo threshold)
+- Competitive investor residency (VIPER from ~$115,000 USD business investment)
+- Fast citizenship path: 4 years (1 year for spouses)
+- MERCOSUR residency rights for citizens and permanent residents
+- Large, diverse economy with opportunities beyond tourism/real estate
+- Low cost of living relative to North America/Europe (Numbeo index 28.0)
+
+### Well-known problems
+- Very high violent crime rates — homicide rate ~20–25 per 100,000 in major cities
+- Bureaucratic complexity (apostilles, certified translations, multiple agencies)
+- Worldwide taxation for residents — no territorial system unlike many Latin American peers
+- Portuguese language barrier — Spanish is not sufficient for naturalization
+- Infrastructure quality varies dramatically between regions (Southeast vs. North/Northeast)
+- Economic volatility and currency depreciation risk for foreign-income earners

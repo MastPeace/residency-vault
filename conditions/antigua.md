@@ -80,6 +80,52 @@ Antigua & Barbuda operates an international ship registry. Yacht registration av
 - NDR programme: Discontinued — no replacement.
 - Work permits: Small market; employer-driven.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~101,000 (2024) | [World Bank](https://data.worldbank.org/country/antigua-and-barbuda) — hard/official |
+| Main religion | Christianity (Anglican ~18%, Seventh-day Adventist ~12%, Pentecostal ~12%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/antigua-and-barbuda/) — hard/official |
+| Main language | English (official); Antiguan Creole widely spoken | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/antigua-and-barbuda/) — hard/official |
+| Main city (capital or largest) | St. John's | [Wikipedia](https://en.wikipedia.org/wiki/St._John%27s,_Antigua_and_Barbuda) — hard/official |
+| On the coast? | Yes (island nation; Caribbean Sea + Atlantic Ocean) | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — peak Dec–Apr; luxury resort market; cruise ship arrivals seasonal | [soft/estimate] |
+| GDP per capita (PPP) | ~$26,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=AG) — hard/official |
+| Median net monthly salary | ~EC$ 2,500 (~$925) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Antigua+And+Barbuda) [soft/estimate] |
+| Cost of living index | 67.2 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$800 | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Antigua+And+Barbuda) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% (no personal income tax) | See [[#tax]] |
+| Remote-work / self-employment residence available? | Nomad Digital Residence ENDED; no current DN visa | See [[#digital-nomad-visa]] |
+| Years to citizenship | CBI: immediate (3–6 months); naturalization: 7 years residence | See [[#citizenship]] |
+| Maximum permitted absence during residence | CBI: 5 days physical presence in first 5 years | See [[#citizenship-by-investment]] |
+| Passport strength after citizenship | ~150 visa-free destinations (Henley Q3 2025) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.62 (rank 42/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 84/100 (Free) | [Freedom House](https://freedomhouse.org/country/antigua-and-barbuda/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,900 h | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Antigua_and_Barbuda#Climate) — hard/official |
+| Average annual temperature | ~27 °C | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Antigua_and_Barbuda#Climate) — hard/official |
+
+## Country Card
+
+### General description
+Antigua & Barbuda is a twin-island eastern Caribbean nation and one of the five OECS Citizenship by Investment (CBI) states. Its CBI programme, launched in 2013, is mature and well-regarded, offering direct citizenship in 3–6 months with four investment routes from US$230,000 (NDF donation) or US$300,000+ (real estate). The passport provides visa-free/visa-on-arrival access to ~150 destinations, including Schengen, UK, and Singapore. The country has zero personal income tax (abolished 2016) and requires just 5 days of physical presence in the first 5 years after citizenship. Its Nomad Digital Residence programme has ended.
+
+### Well-known strong points
+- CBI: direct citizenship in 3–6 months; no prior residence required
+- Strong passport: ~150 visa-free destinations including Schengen, UK, Singapore
+- Zero personal income tax, capital gains tax, inheritance tax, wealth tax
+- Minimal physical presence: 5 days in 5 years after citizenship
+- English-speaking with stable democracy (FH 84/100)
+- Major Caribbean yachting hub (English Harbour, Falmouth Harbour)
+
+### Well-known problems
+- CBI is expensive: US$230,000 NDF donation minimum (family of 4)
+- Investment thresholds raised August 2024 under OECS MoA; price-sensitive market
+- Nomad Digital Residence programme ended — no current digital nomad visa
+- No mid-tier residence options; must go CBI or standard work permit
+- Small island economy; limited job market outside tourism/finance
+- Hurricane risk; infrastructure vulnerability
 ## Status
 - Last change: August 1, 2024 — investment thresholds raised (NDF $230K, Real Estate $300K); NDR programme ended.
 - Last monitored: 2026-09-14.

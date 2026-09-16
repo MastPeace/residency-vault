@@ -88,3 +88,48 @@ Latvia has adopted a highly restrictive stance toward Russian citizens since 202
 - **Last monitored**: 2026-09-13
 - **Recent changes**: September 2026 — Latvian President signed law restricting Golden Visa issuance (details still emerging). Golden Visa core framework under political pressure.
 - **Watch items**: Monitor Golden Visa restriction law implementation. Track any DN visa policy changes.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~1,879,000 (2025) | [World Bank](https://data.worldbank.org/country/latvia) — hard/official |
+| Main religion | Christianity (Lutheran ~35%, Catholic ~18%, Orthodox ~15%) | [CIA Factbook](https://www.cia.gov/the-world-factbook/countries/latvia/) — hard/official |
+| Main language | Latvian | [CIA Factbook](https://www.cia.gov/the-world-factbook/countries/latvia/) — hard/official |
+| Main city (capital or largest) | Riga | [Wikipedia](https://en.wikipedia.org/wiki/Latvia) — hard/official |
+| On the coast? | Yes (Baltic Sea, ~498 km coastline) | Geographical fact [soft/estimate] |
+| Tourism impact in season | Medium — Riga Old Town (UNESCO), Jurmala beach resort; peak Jun–Aug | [soft/estimate] |
+| GDP per capita (PPP) | ~$45,971 (2025) | [World Economics](https://www.worldeconomics.com/GDP-Per-Capita/Latvia.aspx) — hard/official |
+| Median net monthly salary | ~€1,300–1,500 (~US$1,500) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Latvia) [soft/estimate] |
+| Cost of living index | ~47 (NYC=100, Numbeo estimate) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2026) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | €400–600 (Riga city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Latvia) [soft/estimate] |
+| Effective personal tax rate for remote workers | ~25–30% (progressive 20%/23%/31% + social ~10.5% employee; micro-enterprise 25% of turnover option) | [Latvian Tax Authority](https://www.vid.gov.lv/en) [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Remote Work Visa (OECD-country employer required, 1 year); Golden Visa business route (€50K) for self-employed | See [[#digital-nomad-visa]] and [[#investment-residency]] |
+| Years to citizenship | 5 years permanent residence + Latvian language + Constitution/history exam | See [[#citizenship]] |
+| Maximum permitted absence during residence | Golden Visa: no minimum physical stay (annual entry only); citizenship: genuine residence required | See [[#citizenship]] |
+| Passport strength after citizenship | 182 visa-free destinations (Henley 2026, rank 7) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.73 (rank 21/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 89/100 (Free) | [Freedom House](https://freedomhouse.org/country/latvia/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~1,700–1,900 h (Riga ~1,770h) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~6°C annual mean (Riga: −3°C Feb, +18°C Jul) | [Latvian Environment, Geology and Meteorology Centre](https://www.meteo.lv/) — hard/official |
+
+## Country Card
+
+### General description
+Latvia is an EU/Schengen/NATO/Eurozone member in the Baltic region, offering the cheapest Golden Visa in the EU (€50,000 business equity route). It also has a Remote Work Visa (for OECD-country employers), standard EU Blue Card, and Startup Visa. Latvia imposes no minimum physical stay requirement for Golden Visa holders — an annual entry is sufficient to maintain the permit. Citizenship requires 5 years of permanent residence plus Latvian language and a Constitution/history exam. Dual citizenship is permitted only with NATO/EU/EFTA states and a few approved countries. Latvia has a progressive income tax (20–31%), 0% corporate tax on reinvested profits, and a significant Russian-speaking minority (~30%).
+
+### Well-known strong points
+- Cheapest Golden Visa in the EU (€50,000 business equity route)
+- No minimum physical stay for Golden Visa holders — excellent for mobility
+- 0% corporate tax on reinvested profits (similar to Estonia)
+- EU/Schengen/NATO/Eurozone membership with strong passport (182 visa-free)
+- Riga is a growing tech hub with excellent internet and vibrant startup scene
+- Moderate cost of living in a historic Baltic capital
+
+### Well-known problems
+- Golden Visa under political pressure — President signed restriction law in Sep 2026
+- Remote Work Visa limited to OECD-country employers — excludes many nationalities
+- Low median salary (~€1,300–1,500) relative to Western Europe
+- Dual citizenship highly restrictive (NATO/EU/EFTA only, generally)
+- Golden Visa years on minimal stay do not count toward citizenship clock
+- Demographic decline — population has shrunk ~30% since 1990

@@ -137,3 +137,47 @@ Bahrain is the most underrated Gulf residency destination. Golden Residency is a
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Golden Residency programme stable. Property threshold appears at BD 200K on eGovernment portal, BD 130K on NPRA (dual routes).
 - **Watch items**: Alignment of BD 130K vs BD 200K thresholds across platforms. Potential introduction of digital nomad / remote work visa (being discussed regionally).
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~1,600,000 | ^[https://data.worldbank.org/country/bahrain] hard/official |
+| Main religion | Islam (Sunni ruling family; Shia majority population) | ^[https://www.cia.gov/the-world-factbook/countries/bahrain/] hard/official |
+| Main language | Arabic | ^[https://www.cia.gov/the-world-factbook/countries/bahrain/] hard/official |
+| Main city | Manama (capital and largest) | ^[https://www.cia.gov/the-world-factbook/countries/bahrain/] hard/official |
+| On the coast? | Yes — archipelago in the Persian Gulf | hard/official |
+| Tourism impact in season | Medium — weekend destination for Saudi visitors; F1 Grand Prix spike in April | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Bahrain] [soft/estimate] |
+| GDP per capita (PPP) | ~$63,000 (2024) | ^[https://www.imf.org/en/Publications/WEO] hard/official |
+| Median net monthly salary | ~$1,800–$2,500 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Bahrain] [soft/estimate] |
+| Cost of living index | 37.8 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Bahrain] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$700–$1,000 (Manama city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Bahrain] [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% (no personal income tax) | ^[https://www.nbra.gov.bh/] [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Golden Residency (property from BD 130K–200K); freelancer permits available | ^[https://www.npra.gov.bh/] [soft/estimate] |
+| Years to citizenship | No pathway (citizenship by exception only; extremely rare for non-Arabs) | ^[https://www.npra.gov.bh/] hard/official |
+| Maximum permitted absence during residence | 6 months | ^[https://www.npra.gov.bh/] [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 88 (Henley, Jul 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | ~0.56 (2024 est.) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 12/100 — Not Free (2025) | ^[https://freedomhouse.org/country/bahrain/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~3,940 | ^[https://weatherspark.com/countries/BH] hard/official |
+| Average annual temperature | ~27°C | ^[https://weatherspark.com/countries/BH] hard/official |
+
+## Country Card
+
+Bahrain is a small island kingdom in the Persian Gulf, connected to Saudi Arabia by the King Fahd Causeway. It was the first Gulf state to diversify beyond oil, developing a financial services hub in Manama. Personal income tax is 0%, and the cost of living is the most affordable among GCC financial centres. The Golden Residency programme offers self-sponsored residence through property purchase (BD 130K–200K), and freelancer permits are available. Approximately half the population are expatriates. Bahrain serves as a weekend destination for Saudi visitors, giving it a more liberal social atmosphere than its neighbors.
+
+### Well-known strong points
+- 0% personal income tax; most affordable financial hub in the GCC
+- Strong financial services sector — long-established offshore banking centre
+- Saudi causeway access: 40-minute drive to the larger Saudi market
+- Golden Residency with property threshold from BD 130K — lowest investment residency in the Gulf
+- More socially liberal than Saudi Arabia/Qatar — alcohol legal, active nightlife
+- Compact and walkable — small size means short commutes and easy lifestyle
+
+### Well-known problems
+- No pathway to citizenship — naturalization is exceptionally rare for non-Gulf Arabs
+- Severe political repression since 2011; Freedom House 12/100, one of the lowest in the region
+- Shia-majority population ruled by Sunni monarchy; persistent sectarian tensions
+- Small domestic market (~1.6M) limits business scale
+- Government debt is high (~111% of GDP) relative to Gulf peers
+- Extreme summer heat and humidity (May–September); limited green space

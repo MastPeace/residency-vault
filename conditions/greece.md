@@ -87,6 +87,52 @@ Greece has one of the world's largest coastlines and is arguably the premier yac
 ## Notes for RU Citizens
 Greece's Golden Visa was extremely popular with Russian investors before 2022. Current sanctions complicate property purchases and bank transfers but €250K conversion route remains accessible via third-country structures. DN visa also open. Greece has an established Russian-speaking community (especially in Athens and Thessaloniki). Dual citizenship permitted. Generally more RU-friendly than Baltic/Nordic EU states.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~10,430,000 | ^[https://freedomhouse.org/country/greece/freedom-world/2025] hard/official |
+| Main religion | Greek Orthodox Christianity (90%) | ^[https://www.cia.gov/the-world-factbook/countries/greece/] hard/official |
+| Main language | Greek | ^[https://www.cia.gov/the-world-factbook/countries/greece/] hard/official |
+| Main city | Athens (3.1 million metro) | ^[https://www.worldometers.info/world-population/greece-population/] hard/official |
+| On the coast? | Yes — extensive Mediterranean coastline, thousands of islands | [soft/estimate] |
+| Tourism impact in season | High — massive seasonal pressure on islands and coastal areas (July–August) | [soft/estimate] |
+| GDP per capita (PPP) | $44,005 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=GR] hard/official |
+| Median net monthly salary | ~€1,100 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Greece] [soft/estimate] |
+| Cost of living index (relative, base note) | 46.5 (Numbeo 2025; 53.5% below NYC baseline) | ^[https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~€480 (city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Greece] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~22–44% progressive; 50% exemption for qualifying impatriates (7 years) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Greece] [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Digital Nomad Visa (€3,500/mo); FIP passive-income route | Consistent with [[#digital-nomad-visa]]; [soft/estimate] |
+| Years to citizenship | 7 years (183 days/year physical presence required) | Consistent with [[#citizenship]]; hard/official |
+| Maximum permitted absence during residence | 183 days/year minimum presence for citizenship; GV has no minimum stay for permit | Consistent with [[#investment-residency]]; [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 187 destinations | ^[https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025] hard/official |
+| Rule of Law Index | 0.60 (rank 47/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 85/100 Free | ^[https://freedomhouse.org/country/greece/freedom-world/2025] hard/official |
+| Average annual sunshine hours | 2,771 (Athens) | ^[https://en.wikipedia.org/wiki/List_of_cities_in_Europe_by_sunshine_duration] hard/official |
+| Average annual temperature | ~17.8°C (Athens) | ^[https://en.wikipedia.org/wiki/Athens#Climate] hard/official |
+
+## Country Card
+
+Greece is a Mediterranean EU/Schengen/Eurozone member with one of Europe's longest coastlines and a tourism-driven economy. It operates Europe's most affordable Golden Visa (€250K conversion tier) and offers a 7-year citizenship path — one of the EU's shortest, but requiring 183 days/year physical presence. Greece has no minimum physical stay for Golden Visa permit maintenance, making it attractive for investors seeking EU access without relocation. The economy is recovering but still bears the scars of the 2010s debt crisis, with relatively low wages and high youth unemployment.
+
+### Well-known strong points
+- Europe's cheapest Golden Visa at €250K (commercial-to-residential conversion tier)
+- 7-year path to citizenship — among the shortest in the EU
+- 50% income tax exemption for qualifying impatriate workers (7 years) and 7% flat tax on foreign pensions
+- No minimum physical stay for Golden Visa permit maintenance
+- Mediterranean lifestyle with 2,700+ sunshine hours annually and low cost of living (46% below NYC)
+- Dual citizenship permitted; extensive coastline and thousands of islands
+
+### Well-known problems
+- Citizenship requires 183 days/year physical presence — Golden Visa alone does not count toward the clock
+- Golden Visa backlog: ~50,000 pending cases; processing 4–12 months in practice
+- B1 Greek language requirement for citizenship — challenging for non-Slavic/non-Mediterranean speakers
+- Low median net salary (~€1,100/month) and persistent economic challenges
+- High tourism seasonality creates infrastructure pressure June–September
+- Bureaucratic complexity and historically long processing times across all permit types
+
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Law 5275/2026 — immigration reform, permit validity from card issuance date. Golden Visa tiers (€250K/€400K/€800K) stable since Aug 2024. Short-term letting prohibition enforced.

@@ -112,3 +112,47 @@ Denmark applies full EU sanctions. Visa processing severely restricted. The "tot
 - **Last monitored**: 2026-09-13
 - **Recent changes**: SIRI's processing times updated Q2 2026. Start-up Denmark cap (75/year) remains.
 - **Watch items**: Track any relaxation of the 24-year rule or bank guarantee requirement. Monitor EU Migration Pact implementation effects.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~5,970,000 (2024) | ^[https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DK] hard/official |
+| Main religion | Christianity (Lutheran — Church of Denmark) | ^[https://www.cia.gov/the-world-factbook/countries/denmark/] hard/official |
+| Main language | Danish | ^[https://www.cia.gov/the-world-factbook/countries/denmark/] hard/official |
+| Main city (capital or largest) | Copenhagen | ^[https://www.cia.gov/the-world-factbook/countries/denmark/] hard/official |
+| On the coast? | Yes — peninsula + islands, ~7,300 km coastline | geographical fact |
+| Tourism impact in season | Medium — Copenhagen busy Jul–Aug; not mass tourism | [soft/estimate] |
+| GDP per capita (PPP) | ~$77,600 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=DK] hard/official |
+| Median net monthly salary | ~DKK 25,000 (~€3,350) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Denmark] [soft/estimate] |
+| Cost of living index (relative to NYC=100) | ~83 (Numbeo) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Denmark] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~DKK 7,400 (city centre) / ~DKK 5,900 (outside) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Denmark] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~38–55% progressive; 27% flat for researchers/high-paid (max 7 yr) | ^[https://skat.dk/en-us/businesses/employees-and-pay/non-danish-labour/tax-scheme-for-researchers] [soft/estimate] |
+| Remote-work / self-employment residence available? | No — remote work for foreign employers does not qualify for residence | per page residency sections |
+| Years to citizenship | 9 years | ^[https://www.nyidanmark.dk/en-GB] hard/official |
+| Maximum permitted absence during residence | Not explicitly stated; continuous residence required for citizenship | per page residency sections |
+| Passport strength after citizenship (visa-free count) | 186 destinations (Henley 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.90 (WJP 2024, rank 1/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global] hard/official |
+| Freedom House score | 97/100 (Free) | ^[https://freedomhouse.org/country/denmark/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~1,780 (Copenhagen) | ^[https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php] hard/official |
+| Average annual temperature | ~8.5°C (Copenhagen) | ^[https://www.dmi.dk/] hard/official |
+
+## Country Card
+
+Denmark is a small, wealthy Nordic kingdom with a high-wage economy, a world-class welfare state, and one of the most restrictive immigration systems in Europe. It consistently ranks at the top of global quality-of-life, rule-of-law, and happiness indices. For expats, Denmark offers safety, efficiency, and excellent public services, but its residence pathways are almost entirely employment-based and tightly controlled — no golden visa, no passive-income route, and no digital nomad visa exist. The 9-year citizenship path and demanding language test make naturalisation a long-term commitment.
+
+### Well-known strong points
+- World-leading rule of law, very low corruption, and high political stability
+- High wages with strong worker protections and excellent work-life balance
+- Copenhagen is a major Nordic tech and life-sciences hub
+- 27% flat expert tax scheme for foreign researchers and high-earners (up to 7 years)
+- Exceptional public infrastructure: universal healthcare, free education, cycling cities, digital government
+- Dual citizenship permitted since 2015
+
+### Well-known problems
+- One of Europe's highest tax burdens (effective rates ~38–55%)
+- No digital nomad, passive-income, or golden visa routes — limited entry paths
+- 9-year citizenship path + demanding Danish language test (Prøve i Dansk 3)
+- 24-year rule and DKK ~110,000 bank guarantee for family reunification are among Europe's strictest
+- Very high cost of living, especially housing in Copenhagen
+- Dark, cold winters with limited daylight (~1,780 sunshine hours/year)

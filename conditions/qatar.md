@@ -124,3 +124,47 @@ Qatar provides high quality of life, safety, and 0% tax. Residency pathways are 
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Jusour Entrepreneur/Executive Residency fully operational. Property residency pathways stable.
 - **Watch items**: Expansion of permanent residency quota. Potential introduction of remote work / DN visa.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~2,970,000 | ^[https://data.worldbank.org/country/qatar] hard/official |
+| Main religion | Islam (Sunni; official) | ^[https://www.cia.gov/the-world-factbook/countries/qatar/] hard/official |
+| Main language | Arabic | ^[https://www.cia.gov/the-world-factbook/countries/qatar/] hard/official |
+| Main city | Doha (capital and largest) | ^[https://www.cia.gov/the-world-factbook/countries/qatar/] hard/official |
+| On the coast? | Yes — Persian Gulf peninsula | hard/official |
+| Tourism impact in season | Medium — growing post-World Cup; peak November–March; major events (F1, Qatar Open) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Qatar] [soft/estimate] |
+| GDP per capita (PPP) | ~$112,000 (2024) | ^[https://www.imf.org/en/Publications/WEO] hard/official |
+| Median net monthly salary | ~$3,500–$5,000 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Qatar] [soft/estimate] |
+| Cost of living index | 45.4 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Qatar] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$1,200–$1,800 (Doha city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Qatar] [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% (no personal income tax) | ^[https://www.gco.gov.qa/en/] [soft/estimate] |
+| Remote-work / self-employment residence available? | Limited — real estate investor residency ($200K+); freelancer visa via QFC | ^[https://www.moi.gov.qa/] [soft/estimate] |
+| Years to citizenship | No pathway (permanent residency possible; citizenship by exception only) | ^[https://www.moi.gov.qa/] hard/official |
+| Maximum permitted absence during residence | 6 months | ^[https://www.moi.gov.qa/] [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 112 (Henley, Jul 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | ~0.63 (2024; rank 41/143 in 2025) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 25/100 — Not Free (2025) | ^[https://freedomhouse.org/country/qatar/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~3,450 | ^[https://weatherspark.com/countries/QA] hard/official |
+| Average annual temperature | ~29°C | ^[https://weatherspark.com/countries/QA] hard/official |
+
+## Country Card
+
+Qatar has the world's highest GDP per capita (PPP ~$112,000) thanks to enormous natural gas reserves. The country invested heavily in infrastructure for the 2022 FIFA World Cup, leaving Doha with world-class airports, metro, and hotels. Personal income tax is 0%, and the cost of living is moderate for a high-income Gulf state. Expatriates make up roughly 85% of the population. Residency options are more limited than the UAE — property investment ($200K+) and QFC-based freelancer visas are the main self-sponsored routes. Citizenship is almost never granted to foreigners.
+
+### Well-known strong points
+- Highest GDP per capita in the world (PPP); 0% personal income tax
+- World-class infrastructure: Hamad International Airport, Doha Metro, modern healthcare
+- Extremely safe with very low crime rates
+- Strong rule of law by regional standards (WJP 0.63, best in Gulf after UAE)
+- Strategic global hub: Qatar Airways connects to 160+ destinations; central time zone
+- Generous state benefits for nationals; expatriates benefit indirectly from high-quality public services
+
+### Well-known problems
+- No path to citizenship for expatriates — permanent residency exists but naturalization is almost never granted
+- Limited self-sponsored residency options compared to UAE; most expats tied to employer sponsorship
+- Extreme summer heat (May–September, 45°C+) with high humidity
+- High cost of housing in Doha, especially since World Cup
+- Restrictive political environment: no political parties, limited press freedom (FH 25/100)
+- 6-month maximum absence rule — stricter than UAE's no-minimum-stay Golden Visa

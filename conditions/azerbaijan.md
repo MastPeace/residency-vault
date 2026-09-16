@@ -122,3 +122,47 @@ Azerbaijan is not a popular expat destination outside the oil/gas sector. Those 
 - **Last monitored**: 2026-09-13
 - **Recent changes**: New requirements for residence permits introduced; digitalization of migration services ongoing.
 - **Watch items**: Potential changes to investment thresholds. Geopolitical developments with Armenia. Caspian Sea legal status resolution.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~10,200,000 (2025) | ^[https://data.worldbank.org/country/azerbaijan] hard/official |
+| Main religion | Islam (~97%, mostly Shia) | ^[https://www.cia.gov/the-world-factbook/countries/azerbaijan/] hard/official |
+| Main language | Azerbaijani (official) | ^[https://www.cia.gov/the-world-factbook/countries/azerbaijan/] hard/official |
+| Main city (capital) | Baku (pop. ~2,300,000) | ^[https://data.worldbank.org/country/azerbaijan] hard/official |
+| On the coast? | Yes — Caspian Sea (~713 km coastline); landlocked sea | Geography — hard |
+| Tourism impact in season | Low — Baku draws regional tourism; not a mass destination | [soft/estimate] |
+| GDP per capita (PPP) | ~$23,000 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=AZ] hard/official |
+| Median net monthly salary | ~€300 (2025; Baku higher) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Azerbaijan] [soft/estimate] |
+| Cost of living index | Very low (~28, Numbeo; among cheapest in the region) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Azerbaijan] [soft/estimate] |
+| Monthly rent, 1-bedroom apt | ~€250 (Baku) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Azerbaijan] [soft/estimate] |
+| Effective tax for remote workers | ~14% standard PIT (25% above AZN 30,000/mo) | ^[https://www.caspianlegalcenter.az/insights/more/residency-investment-azerbaijan] [soft/estimate] |
+| Remote-work / self-employment residence? | Not available — no formal DN visa | From page — [soft/estimate] |
+| Years to citizenship | ~7 (2 TR + 5 PR via investment); 5 years PR for standard naturalization | ^[https://www.caspianlegalcenter.az/insights/more/residency-investment-azerbaijan] hard/official |
+| Maximum permitted absence | Not specified (standard continuous residence applies) | From page — [soft/estimate] |
+| Passport visa-free count | 35 (Passport Index 2026; very weak) | ^[https://www.passportindex.org/passport/azerbaijan] hard/official |
+| Rule of Law Index (WJP 2024) | 0.40 (rank 120/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score (2025) | 7/100 — Not Free | ^[https://freedomhouse.org/country/azerbaijan/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,200 (Baku) | ^[https://en.wikipedia.org/wiki/Baku#Climate] hard/official |
+| Average annual temperature | ~15°C (Baku) | ^[https://en.wikipedia.org/wiki/Baku#Climate] hard/official |
+
+## Country Card
+
+Azerbaijan is a Caspian Sea petrostate of ~10.2 million people with a modern capital (Baku) built on oil and gas wealth. It offers a structured investment-residence pathway: property or bank deposit of AZN 100,000 (~$59,000) yields temporary residence, scaling to permanent residence at AZN 200,000 (~$118,000), with citizenship after ~7 years total. No CBI program exists. The country has no digital nomad visa, no dual citizenship recognition (mandatory renunciation), and a very weak passport (~35 visa-free). The authoritarian political environment (Freedom House: 7/100, Not Free) and closed state-dominated economy limit its appeal outside the energy sector.
+
+### Well-known strong points
+- Affordable investment-residence thresholds: AZN 100,000 (~$59,000) for temporary, AZN 200,000 for PR
+- Structured, predictable residency-to-citizenship pathway via investment
+- Modern Baku infrastructure — futuristic architecture, Caspian waterfront
+- Very low cost of living; Russian widely spoken in Baku
+- Visa-free entry for Russian citizens (90 days)
+- Strategic Caspian Sea location with energy-sector opportunities
+
+### Well-known problems
+- Extremely weak passport (~35 visa-free); no Schengen access
+- Dual citizenship NOT recognized — mandatory renunciation of existing citizenship
+- Authoritarian regime: Freedom House 7/100 (Not Free); WJP Rule of Law 0.40 (rank 120/142)
+- No digital nomad visa; limited non-oil economic opportunities
+- Internet censorship and restrictions; limited civil liberties
+- Geopolitical tensions with Armenia; closed land borders with Armenia

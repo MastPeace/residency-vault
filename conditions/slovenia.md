@@ -83,6 +83,52 @@ Short Adriatic coastline (~47 km — one of the smallest). Small marina infrastr
 ## Notes for RU Citizens
 Russian citizens need a Schengen visa. The DN visa and company registration route are formally open but face enhanced scrutiny. Slovenian language (South Slavic, similar to Croatian/Serbian) is moderately accessible for Russian speakers. Small Russian-speaking community. No special RU restrictions beyond standard EU measures.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~2,112,000 | ^[https://freedomhouse.org/country/slovenia/freedom-world/2025] hard/official |
+| Main religion | Roman Catholicism (58%) | ^[https://www.cia.gov/the-world-factbook/countries/slovenia/] hard/official |
+| Main language | Slovene (official) | ^[https://www.cia.gov/the-world-factbook/countries/slovenia/] hard/official |
+| Main city | Ljubljana (capital, ~290,000) | ^[https://en.wikipedia.org/wiki/Slovenia] hard/official |
+| On the coast? | Yes — short Adriatic coastline (~47 km); Portorož, Koper, Izola | [soft/estimate] |
+| Tourism impact in season | Medium — Alpine and coastal tourism; Lake Bled, Ljubljana; summer peak | [soft/estimate] |
+| GDP per capita (PPP) | $56,502 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=SI] hard/official |
+| Median net monthly salary | ~€1,600 | ^[https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105] [soft/estimate] |
+| Cost of living index (relative, base note) | 46.2 (Numbeo 2025; 53.8% below NYC baseline) | ^[https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~€650–800 (Ljubljana city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Slovenia] [soft/estimate] |
+| Effective personal tax rate for remote workers | 16–50% progressive (top rate from €72,000); ~22% social contributions | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Slovenia] [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Digital Nomad permit (since Nov 2025; €3,377/mo); company registration route also popular | Consistent with [[#digital-nomad-visa]]; [soft/estimate] |
+| Years to citizenship | 10 years of residence | Consistent with [[#citizenship]]; hard/official |
+| Maximum permitted absence during residence | Standard residence requirements; DN permit not a path to PR or citizenship | Consistent with [[#digital-nomad-visa]]; [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 183 destinations | ^[https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025] hard/official |
+| Rule of Law Index | 0.68 (rank 26/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 96/100 Free | ^[https://freedomhouse.org/country/slovenia/freedom-world/2025] hard/official |
+| Average annual sunshine hours | 1,712 (Ljubljana) | ^[https://en.wikipedia.org/wiki/List_of_cities_in_Europe_by_sunshine_duration] hard/official |
+| Average annual temperature | ~10.9°C (Ljubljana) | ^[https://en.wikipedia.org/wiki/Ljubljana#Climate] hard/official |
+
+## Country Card
+
+Slovenia is an EU/Schengen/Eurozone member at the crossroads of the Alps, the Mediterranean, and Central Europe. It is one of the EU's highest-scoring democracies (Freedom House 96/100) with strong rule of law, but citizenship is among the hardest to obtain: 10 years of residence, Slovene language proficiency, and renunciation of previous citizenship generally required. Its digital nomad permit (since November 2025) is new and has a limited track record. The company registration route (d.o.o., €7,500 minimum capital) is a popular alternative for self-employed professionals.
+
+### Well-known strong points
+- One of the EU's highest Freedom House scores (96/100) and strongest rule-of-law environments
+- High quality of life: Alpine nature, compact size, excellent infrastructure
+- EU Blue Card and company registration route provide stable paths to residence
+- Strategic location bordering Italy, Austria, Hungary, and Croatia
+- Clean, safe, and well-organized — consistently among the EU's most livable countries
+- Digital Nomad permit launched November 2025 — new but promising option
+
+### Well-known problems
+- 10-year citizenship path — one of the EU's longest
+- Dual citizenship generally not permitted — renunciation of previous citizenship required
+- Slovene language requirement for citizenship — a South Slavic language with limited utility outside Slovenia
+- Digital Nomad permit does not lead to permanent residence or citizenship
+- Short Adriatic coastline (~47 km); limited maritime infrastructure
+- High top marginal tax rate (50%) for high earners; social contributions add ~22%
+
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Digital Nomad residence permit launched November 21, 2025. New program — limited track record.

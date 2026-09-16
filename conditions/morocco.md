@@ -125,3 +125,47 @@ Morocco is not a "residency programme" country — it's a lifestyle destination 
 - **Last monitored**: 2026-09-13
 - **Recent changes**: IGOC 2026 (convertibility regime) updated for foreign-currency property purchases. No major changes to residency framework.
 - **Watch items**: Potential digital nomad visa introduction (under discussion). Continued development of Tangier Tech City and other investment zones.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~38,430,000 | ^[https://data.worldbank.org/country/morocco] hard/official |
+| Main religion | Islam (Sunni; ~99%) | ^[https://www.cia.gov/the-world-factbook/countries/morocco/] hard/official |
+| Main language | Arabic and Tamazight (Berber); French widely used | ^[https://www.cia.gov/the-world-factbook/countries/morocco/] hard/official |
+| Main city | Casablanca (largest); Rabat (capital) | ^[https://www.cia.gov/the-world-factbook/countries/morocco/] hard/official |
+| On the coast? | Yes — Atlantic Ocean and Mediterranean Sea | hard/official |
+| Tourism impact in season | High — peak spring and autumn; Marrakech year-round; coastal resorts busy Jun–Sep | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Morocco] [soft/estimate] |
+| GDP per capita (PPP) | ~$10,500 (2024) | ^[https://www.imf.org/en/Publications/WEO] hard/official |
+| Median net monthly salary | ~$350–$500 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Morocco] [soft/estimate] |
+| Cost of living index | 25.2 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Morocco] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$200–$400 (Casablanca city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Morocco] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~10–38% (progressive; top bracket 38% above ~$18K) | ^[https://www.tax.gov.ma/] [soft/estimate] |
+| Remote-work / self-employment residence available? | Partially — investor/self-employment residence; no dedicated DN visa yet (under discussion) | ^[https://www.igoc.gov.ma/] [soft/estimate] |
+| Years to citizenship | 5 years continuous residence; knowledge of Arabic; discretionary approval | ^[https://www.consulat.ma/] [soft/estimate] |
+| Maximum permitted absence during residence | Varies; generally 6 months | ^[https://www.igoc.gov.ma/] [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 71 (Henley, Jul 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | ~0.51 (2024 est.) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 37/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/morocco/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,900 (coastal); ~3,400 (Marrakech) | ^[https://weatherspark.com/countries/MA] hard/official |
+| Average annual temperature | ~18°C (coastal; varies strongly by region) | ^[https://weatherspark.com/countries/MA] hard/official |
+
+## Country Card
+
+Morocco is a North African kingdom with Atlantic and Mediterranean coastlines, bridging Europe, Africa, and the Arab world. It has the most diversified non-oil economy in North Africa, anchored by agriculture, tourism, automotive manufacturing, and phosphates. The cost of living is very low by European standards, making it popular with French and Spanish expatriates and retirees. Citizenship is attainable after 5 years of continuous residence. Morocco is a constitutional monarchy with an elected parliament, though the King retains extensive executive powers. French is the de facto business language.
+
+### Well-known strong points
+- Very low cost of living — one of the cheapest destinations in the Mediterranean region
+- Citizenship possible after 5 years residence — faster than most Arab countries
+- Strategic location: 14 km from Europe (Strait of Gibraltar); strong EU trade links
+- Rich cultural heritage: medinas, Atlas Mountains, Sahara, Atlantic beaches
+- Political stability compared to neighbours — no Arab Spring regime collapse
+- Good infrastructure: high-speed rail (TGV), modern ports (Tanger Med), growing airports
+
+### Well-known problems
+- Low wages (median ~$350–500/mo) — limited local earning potential for professionals
+- High youth unemployment and brain drain — many educated Moroccans emigrate to Europe
+- Bureaucracy is heavy and French-dependent; administrative processes are slow
+- Freedom House 37/100 — limited press freedom, restrictions on criticism of the monarchy
+- No dedicated digital nomad visa yet — self-employment residence pathways are underdeveloped
+- Water scarcity and drought vulnerability in agriculture-dependent regions

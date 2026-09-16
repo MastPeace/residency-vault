@@ -110,3 +110,47 @@ Expats report Armenia as welcoming and affordable. Yerevan has a growing interna
 - **Last monitored**: 2026-09-14
 - **Recent changes**: Comprehensive immigration reform from Nov 1, 2026 (work visas, labor market test abolished, digitalization, business VNZh thresholds AMD 2M/1M, employer notification). Citizenship law amendment proposed (Sep 9, 2026) — residence requirement 3→5 years. Visa exemption for 111 countries extended through Jul 2027.
 - **Watch items**: Status of citizenship law amendments. Reform implementation and potential backlogs from Nov 1, 2026.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~3,100,000 (2025) | ^[https://data.worldbank.org/country/armenia] hard/official |
+| Main religion | Armenian Apostolic Church (~92%) | ^[https://www.cia.gov/the-world-factbook/countries/armenia/] hard/official |
+| Main language | Armenian (official) | ^[https://www.cia.gov/the-world-factbook/countries/armenia/] hard/official |
+| Main city (capital) | Yerevan (pop. ~1,100,000) | ^[https://data.worldbank.org/country/armenia] hard/official |
+| On the coast? | No (landlocked) | Geography — hard |
+| Tourism impact in season | Low-Medium — Yerevan growing; not overwhelmed | [soft/estimate] |
+| GDP per capita (PPP) | ~$22,000 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=AM] hard/official |
+| Median net monthly salary | ~€350 (2025) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Armenia] [soft/estimate] |
+| Cost of living index | Very low (~30, Numbeo; among cheapest for relocants) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Armenia] [soft/estimate] |
+| Monthly rent, 1-bedroom apt | ~€350 (Yerevan center; post-2022 surge from ~€200) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Armenia] [soft/estimate] |
+| Effective tax for remote workers | Flat income tax; IT sector incentives available | ^[https://mfa.am/en/residency] [soft/estimate] |
+| Remote-work / self-employment residence? | De facto via IE + residence (no formal DN visa) | From page — [soft/estimate] |
+| Years to citizenship | 3 years (current law); 5 years (proposed Sep 2026 amendment) | ^[http://diaspora.gov.am/en/pages/121] hard/official |
+| Maximum permitted absence | >183 days in rolling 365 must be notified (Nov 2026 reform) | ^[https://www.fragomen.com/insights/armenia-significant-immigration-law-reforms-forthcoming.html] hard/official |
+| Passport visa-free count | 33 (Passport Index 2026; very weak) | ^[https://www.passportindex.org/passport/armenia] hard/official |
+| Rule of Law Index (WJP 2024) | 0.53 (rank 66/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score (2025) | 54/100 — Partly Free | ^[https://freedomhouse.org/country/armenia/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,500 (Yerevan) | ^[https://en.wikipedia.org/wiki/Yerevan#Climate] hard/official |
+| Average annual temperature | ~12°C (Yerevan) | ^[https://en.wikipedia.org/wiki/Yerevan#Climate] hard/official |
+
+## Country Card
+
+Armenia is a landlocked Caucasus country of ~3.1 million, an EAEU member (not EU/EEA) but with a rapidly growing IT sector and a major relocant hub for Russian-speaking professionals. Residence permits are accessible via employment, IE registration, or family ties. The current 3-year path to citizenship (proposed increase to 5 years via Sep 2026 amendment) would still make it among the fastest in the region. Dual citizenship is permitted. The primary trade-off: the Armenian passport is very weak (~33 visa-free destinations), though EAEU membership provides labor-market access to Russia.
+
+### Well-known strong points
+- Fast citizenship: 3 years (current) or 5 years (proposed) — fastest in the region
+- Dual citizenship permitted; no renunciation requirement
+- Visa-free entry for Russian citizens (180 days); Russian widely spoken
+- Growing IT sector with special tax incentives for certified workers
+- Very low cost of living; Yerevan has a vibrant international community
+- Straightforward IE registration for residence; low investment thresholds (AMD 1–2M)
+
+### Well-known problems
+- Extremely weak passport (~33 visa-free destinations); no Schengen access
+- Landlocked; geopolitical tensions with Azerbaijan (Nagorno-Karabakh); border closures with Turkey
+- Citizenship law in flux (3→5 years proposed); uncertainty for applicants
+- Comprehensive immigration reform from Nov 2026 creates transitional complexity
+- Yerevan rents surged post-2022; infrastructure strain from relocant inflow
+- Limited international flight connectivity compared to regional hubs

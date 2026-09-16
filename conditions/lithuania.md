@@ -89,3 +89,48 @@ Lithuania has adopted a very restrictive stance toward Russian citizens since 20
 - **Last monitored**: 2026-09-13
 - **Recent changes**: No major policy shifts in 2026. Startup Visa and Blue Card routes are stable.
 - **Watch items**: Monitor any further restrictions on third-country nationals.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~2,800,000 (2025) | [World Bank](https://data.worldbank.org/country/lithuania) — hard/official |
+| Main religion | Christianity (Roman Catholic ~75%) | [CIA Factbook](https://www.cia.gov/the-world-factbook/countries/lithuania/) — hard/official |
+| Main language | Lithuanian | [CIA Factbook](https://www.cia.gov/the-world-factbook/countries/lithuania/) — hard/official |
+| Main city (capital or largest) | Vilnius | [Wikipedia](https://en.wikipedia.org/wiki/Lithuania) — hard/official |
+| On the coast? | Yes (Baltic Sea, ~90 km coastline; Klaipėda port) | Geographical fact [soft/estimate] |
+| Tourism impact in season | Low–Medium — Vilnius Old Town (UNESCO), Curonian Spit; peak Jun–Aug | [soft/estimate] |
+| GDP per capita (PPP) | ~$58,901 (2025) | [World Economics](https://www.worldeconomics.com/GDP-Per-Capita/Lithuania.aspx) — hard/official |
+| Median net monthly salary | ~€1,400–1,600 (~US$1,600) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Lithuania) [soft/estimate] |
+| Cost of living index | ~47 (NYC=100, Numbeo estimate) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2026) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | €550 (city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Lithuania) [soft/estimate] |
+| Effective personal tax rate for remote workers | ~25–30% (progressive 20%/32% + social ~19.5% employee) | [Lithuanian Tax Authority](https://www.vmi.lt/) [soft/estimate] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; Startup Visa for founders; EU Blue Card for employed IT professionals | See [[#startup-entrepreneur]] and [[#highly-skilled-employment]] |
+| Years to citizenship | 10 years permanent residence (7 if married to Lithuanian) | See [[#citizenship]] |
+| Maximum permitted absence during residence | Must maintain continuous permanent residence; citizenship requires genuine residence throughout 10 years | See [[#citizenship]] |
+| Passport strength after citizenship | 181 visa-free destinations (Henley 2026, rank 8) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.77 (rank 18/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 90/100 (Free) | [Freedom House](https://freedomhouse.org/country/lithuania/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~1,600–1,900 h (Vilnius ~1,700h) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~7°C annual mean (Vilnius: −4°C Jan, +18°C Jul) | [Lithuanian Hydrometeorological Service](https://www.meteo.lt/) — hard/official |
+
+## Country Card
+
+### General description
+Lithuania is an EU/Schengen/NATO/Eurozone member in the Baltic region with a rapidly growing fintech and IT sector — it is one of the EU's top fintech jurisdictions. It does NOT offer a Golden Visa, digital nomad visa, or citizenship by investment. The primary non-EU routes are the Startup Visa (for innovative founders approved by the Startup Committee) and the EU Blue Card. Citizenship requires 10 years of permanent residence — one of the longest timelines in the EU — plus Lithuanian language proficiency, a Constitution exam, and generally renunciation of previous citizenship. Lithuania has a progressive income tax (20–32%), a 15% corporate tax (5% for small businesses), and major tech hubs in Vilnius and Kaunas.
+
+### Well-known strong points
+- One of EU's top fintech jurisdictions — strong, growing IT/startup sector
+- High GDP per capita (PPP $58,901) — highest among Baltic states
+- Well-run Startup Visa programme with transparent Startup Committee evaluation
+- EU/Schengen/NATO/Eurozone membership with strong passport (181 visa-free)
+- Moderate cost of living with good quality of life in Vilnius
+- Strong rule of law (WJP #18) and improving Freedom House score (90/100)
+
+### Well-known problems
+- No Golden Visa, no digital nomad visa — limited entry routes for non-EU nationals
+- 10-year citizenship timeline is among the longest in the EU
+- Dual citizenship generally not permitted — must renounce original citizenship
+- Low median salary (~€1,400–1,600) relative to Western Europe
+- Very restrictive stance toward Russian citizens since 2022
+- Small population (~2.8M) and modest local market for business

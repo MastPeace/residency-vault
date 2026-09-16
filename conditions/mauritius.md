@@ -90,3 +90,47 @@ Mauritius offers visa-free entry for 90 days for Russian citizens (visa-waiver e
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Finance Act 2025 raised OP salary thresholds (Investor USD 100K, Professional MUR 50K, PR requirement extended from 3 to 5 years on OP/RP). Premium Visa fee remains zero. Property tax for non-citizens rose from 5% to 10% effective July 2026.
 - **Watch items**: Track PR threshold changes. Monitor Premium Visa path to residence discussions.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~1,270,000 (2024) | ^[https://data.worldbank.org/country/MU] hard/official |
+| Main religion | Hinduism (~49%), Christianity (~32%), Islam (~17%) | ^[https://www.cia.gov/the-world-factbook/countries/mauritius/] hard/official |
+| Main language | English (official), French, Mauritian Creole widely spoken | ^[https://www.cia.gov/the-world-factbook/countries/mauritius/] hard/official |
+| Main city (capital or largest) | Port Louis (~620,000 metro) | ^[https://www.cia.gov/the-world-factbook/countries/mauritius/] hard/official |
+| On the coast? | Yes — Indian Ocean island (beaches, lagoons, coral reefs) | hard/official |
+| Tourism impact in season | High — peak November–April (summer), May–October (dry, cooler) | [soft/estimate] |
+| GDP per capita (PPP) | ~$29,000 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=MU] hard/official |
+| Median net monthly salary | ~$700–1,000 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Mauritius] |
+| Cost of living index (relative) | ~35 (NYC=100) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Mauritius] |
+| Monthly rent, 1‑bedroom apartment | ~$350–550 (Grand Baie/Tamarin expat areas) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Mauritius] |
+| Effective personal tax rate for remote workers | Flat 15% on tax-resident income (Premium Visa holders: territorial remittance rules apply) | [soft/estimate] |
+| Remote‑work / self‑employment residence available? | Yes — Premium Visa (1 year, renewable, free); does NOT count toward PR | ^[https://passport.govmu.org/passport?page_id=595] |
+| Years to citizenship | 5 years aggregate / 7 years from PR (12 months continuous + 5/7 years aggregate) | ^[https://dha.govmu.org/Documents/services/MAURITIUS%20CITIZENSHIP%20ACT(2).pdf] |
+| Maximum permitted absence during residence | PR deprivation risk if ordinarily resident abroad 5+ consecutive years | ^[https://en.wikipedia.org/wiki/Mauritian_nationality_law] |
+| Passport strength after citizenship (visa‑free count) | ~150 destinations (EU/Schengen, UK, Singapore — Africa's strongest) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.70 (rank 35/142, 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/country/2024/Mauritius] hard/official |
+| Freedom House score | 85/100 — Free (2025) | ^[https://freedomhouse.org/country/mauritius/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,900 (Port Louis) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Port-Louis,Mauritius] hard/official |
+| Average annual temperature | ~24°C (Port Louis, tropical maritime) | ^[https://en.climate-data.org/africa/mauritius/port-louis/port-louis-1292/] hard/official |
+
+## Country Card
+
+Mauritius is the premier Indian Ocean relocation destination, a stable democracy with Africa's strongest passport (~150 visa-free), highest GDP per capita PPP (~$29,000), and most developed residency framework. The Economic Development Board (EDB) administers Occupation Permits (investor, professional, self-employed), the Premium Visa (digital nomad), and the Retired Non-Citizen Residence Permit. A flat 15% personal/corporate tax, no CGT, no inheritance tax, and English as an official language make it exceptionally expat-friendly.
+
+### Well-known strong points
+- Africa's strongest passport (~150 visa-free destinations: EU/Schengen, UK, Singapore)
+- Flat 15% income tax; no CGT, no inheritance tax, no wealth tax
+- Premium Visa free, 1-year renewable — easy digital nomad entry
+- Rule of Law 0.70 (rank 35/142), Freedom House 85/100 — Africa's best governance
+- English and French widely spoken; cosmopolitan, multi-ethnic society
+- Permanent residence achievable (20-year PR after 5 years on OP); citizenship ~6 years
+
+### Well-known problems
+- Premium Visa time does NOT count toward PR or citizenship — must switch to OP/RP
+- Dual citizenship restricted for naturalised persons (deprivation risk if abroad 5+ years)
+- 2025 Finance Act raised thresholds significantly (OP salary MUR 50K, PR MUR 400K)
+- High property prices in expat areas; non-citizen property tax rose from 5% to 10% (July 2026)
+- Small island economy — limited career opportunities outside finance/tourism
+- Cyclone risk during summer (November–April)

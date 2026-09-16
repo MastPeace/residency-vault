@@ -75,3 +75,47 @@ Visa required (e-visa or embassy). French is the working language. Abidjan has a
 - **Last monitored**: 2026-09-13
 - **Recent changes**: No major immigration policy shifts. Investment Code (2018) remains the framework.
 - **Watch items**: Track any DN visa or CBI introduction in Francophone West Africa.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~31,100,000 (2024) | ^[https://data.worldbank.org/country/CI] hard/official |
+| Main religion | Islam (~43%), Christianity (~34%), traditional/other (~23%) | ^[https://www.cia.gov/the-world-factbook/countries/cote-divoire/] hard/official |
+| Main language | French (official); Dioula/Bambara widely spoken | ^[https://www.cia.gov/the-world-factbook/countries/cote-divoire/] hard/official |
+| Main city (capital or largest) | Abidjan (~6.3M metro); political capital: Yamoussoukro | ^[https://www.cia.gov/the-world-factbook/countries/cote-divoire/] hard/official |
+| On the coast? | Yes — Atlantic Ocean (Abidjan, San-Pédro, Grand-Bassam) | hard/official |
+| Tourism impact in season | Low to medium — business travel dominates; beach tourism growing (Nov–Apr) | [soft/estimate] |
+| GDP per capita (PPP) | ~$6,800 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=CI] hard/official |
+| Median net monthly salary | ~$300–500 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Cote+D%27Ivoire] |
+| Cost of living index (relative) | ~37 (NYC=100) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Cote+D%27Ivoire] |
+| Monthly rent, 1‑bedroom apartment | ~$400–700 (Abidjan Plateau/Cocody expat areas) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Cote+D%27Ivoire] |
+| Effective personal tax rate for remote workers | 1.5%–36% progressive (top rate on XOF 155M+/yr) | [soft/estimate] |
+| Remote‑work / self‑employment residence available? | No — no dedicated digital nomad visa | |
+| Years to citizenship | 5 years continuous residence | ^[requires official confirmation — Code de la Nationalité Ivoirienne] |
+| Maximum permitted absence during residence | Not clearly defined | [soft/estimate] |
+| Passport strength after citizenship (visa‑free count) | ~55 destinations (ECOWAS free movement) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.44 (rank 109/142, 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/country/2024/Cote+d%27Ivoire] hard/official |
+| Freedom House score | 49/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/cote-divoire/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,600 (Abidjan) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Abidjan,Cote-d%27Ivoire] hard/official |
+| Average annual temperature | ~27°C (Abidjan, tropical coastal) | ^[https://en.climate-data.org/africa/cote-d-ivoire/lagunes/abidjan-521/] hard/official |
+
+## Country Card
+
+Côte d'Ivoire is Francophone West Africa's largest economy and a regional hub for finance, infrastructure, and international business. Abidjan is a modern city with a significant expat community (ECOWAS, UN, banks, multinationals). The immigration system requires a Work Visa via Agence Emploi Jeunes (AEJ) and a Carte de Résident via ONI. The Investment Code facilitates investor permits. Citizenship requires only 5 years of residence — among Africa's shortest. However, dual citizenship is not permitted for naturalised citizens.
+
+### Well-known strong points
+- West Africa's largest economy; Abidjan is a modern financial and business hub
+- Short citizenship timeline — 5 years continuous residence (one of Africa's shortest)
+- Investment Code (2018) facilitates work/residence visas for foreign investors
+- CFA franc zone provides currency stability (pegged to EUR)
+- Established expat infrastructure with international schools, hospitals, and housing
+- Relatively developed road infrastructure and one of West Africa's busiest ports
+
+### Well-known problems
+- No digital nomad visa; remote workers need employer sponsorship or investor route
+- French fluency is critical — the entire administration operates in French
+- Dual citizenship is NOT permitted for naturalised citizens — a major deterrent
+- Security deposit (up to 1 year salary) may be required for work permits
+- Labour market test: jobs must be advertised to Ivorians for 1 month before foreign hire
+- Freedom House 49/100 (Partly Free); political stability has improved but risks remain

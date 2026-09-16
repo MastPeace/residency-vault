@@ -76,3 +76,47 @@ Visa on arrival or eVisa for Russian citizens. Ghana maintains cordial relations
 - **Last monitored**: 2026-09-13
 - **Recent changes**: GIPC Bill 2025 includes Clause 37 (Citizenship by Investment) — pending enactment. GIPC replaced GIPC Act 2013 with a new authority framework.
 - **Watch items**: MONITOR Clause 37 enactment closely. Track any DN visa introduction.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~34,800,000 (2024) | ^[https://data.worldbank.org/country/GH] hard/official |
+| Main religion | Christianity (~71%; Pentecostal/Charismatic ~32%, Protestant ~17%, Catholic ~10%), Islam (~20%) | ^[https://www.cia.gov/the-world-factbook/countries/ghana/] hard/official |
+| Main language | English (official); Twi/Asante, Ewe, Ga widely spoken | ^[https://www.cia.gov/the-world-factbook/countries/ghana/] hard/official |
+| Main city (capital or largest) | Accra (~5.6M metro) | ^[https://www.cia.gov/the-world-factbook/countries/ghana/] hard/official |
+| On the coast? | Yes — Atlantic Ocean (Gulf of Guinea: Accra, Cape Coast, Takoradi) | hard/official |
+| Tourism impact in season | Medium — peak November–March (dry season), diaspora/heritage year-round | [soft/estimate] |
+| GDP per capita (PPP) | ~$7,300 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=GH] hard/official |
+| Median net monthly salary | ~$350–500 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ghana] |
+| Cost of living index (relative) | ~30 (NYC=100) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ghana] |
+| Monthly rent, 1‑bedroom apartment | ~$300–600 (Accra expat areas: Airport City, Osu) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ghana] |
+| Effective personal tax rate for remote workers | 5%–35% progressive (top rate on GHS 240K+/yr, ~USD 20,000) | [soft/estimate] |
+| Remote‑work / self‑employment residence available? | No — no dedicated digital nomad visa | |
+| Years to citizenship | 5+ years continuous lawful residence | ^[https://gis.gov.gh/wp-content/uploads/2024/02/FREQUENTLY-ASKED-QUESTIONS.pdf] |
+| Maximum permitted absence during residence | Not clearly defined; continuous residence expected | [soft/estimate] |
+| Passport strength after citizenship (visa‑free count) | ~65 destinations (ECOWAS free movement) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.55 (rank 62/142, 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/country/2024/Ghana] hard/official |
+| Freedom House score | 80/100 — Free (2025) | ^[https://freedomhouse.org/country/ghana/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~2,600 (Accra) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Accra,Ghana] hard/official |
+| Average annual temperature | ~27°C (Accra, tropical coastal) | ^[https://en.climate-data.org/africa/ghana/greater-accra/accra-568/] hard/official |
+
+## Country Card
+
+Ghana is one of West Africa's most stable democracies, a former British colony with English as the official language, and a regional leader in governance. Accra is a growing business and tech hub. The Ghana Immigration Service (GIS) operates a dual Work Permit + Residence Permit system, and the Ghana Investment Promotion Centre (GIPC) facilitates investor permits (min USD 200K–500K). Ghana permits dual citizenship — a significant advantage. The pending GIPC Bill 2025 (Clause 37) may introduce Citizenship by Investment. There is currently no digital nomad visa.
+
+### Well-known strong points
+- Freedom House 80/100 (Free) — one of Africa's strongest democracies; regular peaceful transitions
+- Dual citizenship permitted (since 1996 Amendment) — rare and valuable in Africa
+- English is the official language — no language barrier for most expats
+- Moderate citizenship timeline (5+ years) with dual citizenship allowed
+- Pending CBI legislation (GIPC Bill 2025 Clause 37) could transform Ghana into a passport destination
+- Rich cultural heritage and diaspora appeal; 'Year of Return' initiative boosted international visibility
+
+### Well-known problems
+- No digital nomad visa — remote workers need employer sponsorship or investor route
+- GIPC investor thresholds are high: USD 200K (joint venture) or USD 500K (wholly foreign)
+- Personal income tax up to 35%; effective VAT ~20% (15% + 2.5% NHIL + 2.5% GETFund)
+- Cost of living in Accra expat areas can be surprisingly high; imported goods expensive
+- Passport is weak (~65 visa-free destinations) — not a passport-shopping destination (yet)
+- Bureaucracy and corruption remain challenges; overstay penalties apply (GHS 300/month)

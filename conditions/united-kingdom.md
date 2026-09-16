@@ -116,3 +116,47 @@ UK sanctions are among the world's strictest against Russian nationals. Visa pro
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Tier 1 Investor closed (Feb 2022). Skilled Worker salary threshold raised to £38,700 (April 2024). Non-dom regime replaced by 4-year FIG regime (April 2025). Student dependant restrictions in force (Jan 2024). Family visa income threshold at £29,000, proposed increase to £38,700 under review.
 - **Watch items**: Monitor the proposed £38,700 family visa threshold. Track FIG regime implementation details. Watch for any replacement for the closed Tier 1 Investor.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~68,350,000 (2024) | ^[https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GB] hard/official |
+| Main religion | Christianity (Anglican/Catholic/other Christian) | ^[https://www.cia.gov/the-world-factbook/countries/united-kingdom/] hard/official |
+| Main language | English | ^[https://www.cia.gov/the-world-factbook/countries/united-kingdom/] hard/official |
+| Main city (capital or largest) | London | ^[https://www.cia.gov/the-world-factbook/countries/united-kingdom/] hard/official |
+| On the coast? | Yes — island nation, ~12,400 km coastline | geographical fact |
+| Tourism impact in season | High — London year-round; coastal/regional Jun–Sep; significant tourism economy | [soft/estimate] |
+| GDP per capita (PPP) | ~$56,800 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=GB] hard/official |
+| Median net monthly salary | ~£2,400 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=United+Kingdom] [soft/estimate] |
+| Cost of living index (relative to NYC=100) | ~63 (Numbeo) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=United+Kingdom] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~£1,400 (London city centre) / ~£900 (outside London) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=United+Kingdom] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~20% up to £50K / 40% above / 45% above £125K; 4-year FIG regime exempts foreign income | ^[https://www.gov.uk/government/publications/changes-to-the-taxation-of-non-uk-domiciled-individuals] [soft/estimate] |
+| Remote-work / self-employment residence available? | No dedicated visa; remote work prohibited on visitor visa | per page residency sections |
+| Years to citizenship | 6 years (5 + 1 ILR) typical | ^[https://www.gov.uk/british-citizenship] hard/official |
+| Maximum permitted absence during residence | 180 days per 12-month period for ILR | ^[https://www.gov.uk/indefinite-leave-to-remain] hard/official |
+| Passport strength after citizenship (visa-free count) | 182 destinations (Henley 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | 0.82 (WJP 2024) | ^[https://worldjusticeproject.org/rule-of-law-index/global] hard/official |
+| Freedom House score | 93/100 (Free) | ^[https://freedomhouse.org/country/united-kingdom/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~1,410 (London) | ^[https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php] hard/official |
+| Average annual temperature | ~10.5°C (London) | ^[https://www.metoffice.gov.uk/] hard/official |
+
+## Country Card
+
+The United Kingdom is a large, globally connected economy and a major financial, tech, and cultural centre — no longer an EU member but retaining one of the world's most recognised passports. Its points-based immigration system is mature and employment-driven: the Skilled Worker visa (salary ≥£38,700), Global Talent route, and Innovator Founder visa offer varied pathways. The non-dom tax regime was abolished in 2025 and replaced with a 4-year FIG regime that exempts new residents from UK tax on foreign income — a simpler but time-limited incentive. The Tier 1 Investor visa has been closed since 2022, and no passive-income or digital nomad routes exist. Citizenship typically takes 6 years (5 + 1 ILR) with English B1 and the Life in the UK test.
+
+### Well-known strong points
+- English-speaking with a globally recognised legal and financial system
+- Global Talent visa: no sponsor required, ILR after 3 years for exceptional talent in tech/science/arts
+- 4-year FIG regime: 100% relief on foreign income and gains for new UK residents
+- London is one of the world's top 3 financial/tech hubs alongside New York and Singapore
+- Graduate route: 2–3 years of post-study work without sponsorship
+- Dual citizenship permitted; strong passport with deep global consular network
+
+### Well-known problems
+- No digital nomad, passive-income, or golden visa routes; Tier 1 Investor closed since 2022
+- Skilled Worker salary threshold (£38,700) is high for some sectors and regions
+- Family visa income requirement (£29,000, proposed £38,700) is among the highest globally
+- Very high cost of living in London and the South East; housing crisis in major cities
+- Non-dom abolition means wealthy long-term residents face worldwide taxation after 4 years
+- Complex and expensive visa system with frequent rule changes creating uncertainty

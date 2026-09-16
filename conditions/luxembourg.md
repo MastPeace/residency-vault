@@ -129,6 +129,51 @@ Luxembourg is landlocked. No maritime register. Yacht registration is handled vi
 ## Notes for RU citizens
 EU sanctions apply. The investor residence route is accessible in principle but requires source-of-funds verification and banking access, both currently difficult for Russian nationals. The Luxembourgish language requirement for citizenship is unique — A2 spoken + B1 comprehension of a small national language. No large Russian-speaking community. Third-country consulates handle applications.
 
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~660,000 (2024) | [World Bank](https://data.worldbank.org/country/luxembourg) — hard/official |
+| Main religion | Christianity (Catholic majority) | [Wikipedia](https://en.wikipedia.org/wiki/Luxembourg#Religion) — hard/official |
+| Main language | Luxembourgish, French, German (all official) | [Wikipedia](https://en.wikipedia.org/wiki/Luxembourg) — hard/official |
+| Main city (capital or largest) | Luxembourg City | [Wikipedia](https://en.wikipedia.org/wiki/Luxembourg_City) — hard/official |
+| On the coast? | No (landlocked) | Geographical fact [soft/estimate] |
+| Tourism impact in season | Low-medium — business travel dominant; limited mass tourism | [soft/estimate] |
+| GDP per capita (PPP) | ~$143,000 (2023, highest in world) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=LU) — hard/official |
+| Median net monthly salary | ~$5,640 (~€5,200) | [Numbeo](https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105) [soft/estimate] |
+| Cost of living index | 64.8 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~€1,600 (Luxembourg City centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Luxembourg) [soft/estimate] |
+| Effective personal tax rate for remote workers | Progressive 8%–42%; impatriate regime: 50% exemption on salary (max €400K/yr, 5 years) | See [[#tax]] [soft/estimate] |
+| Remote-work / self-employment residence available? | No — no digital nomad visa; independent worker residence available | See [[#digital-nomad-visa]] |
+| Years to citizenship | 5 years | See [[#citizenship]] |
+| Maximum permitted absence during residence | Must include 12 continuous months immediately before citizenship application | See [[#citizenship]] |
+| Passport strength after citizenship | 188 visa-free destinations (Henley Q3 2025, rank 4) | [Henley & Partners](https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025) — hard/official |
+| Rule of Law Index | 0.81 (WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 97/100 (Free) | [Freedom House](https://freedomhouse.org/country/luxembourg/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~1,600 h | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~9.5 °C | [Wikipedia](https://en.wikipedia.org/wiki/Luxembourg#Climate) — hard/official |
+
+## Country Card
+
+### General description
+Luxembourg is a tiny, exceptionally wealthy EU founding member with the world's highest GDP per capita (PPP) and a global financial centre. Its economy is dominated by banking, investment funds, and EU institutions. Luxembourg offers a uniquely structured investor residence permit (from €500K), an EU Blue Card (salary ~€78K threshold), and one of the most generous impatriate tax regimes in the EU (50% salary exemption). Citizenship is available after 5 years with a Luxembourgish language exam (A2 spoken, B1 comprehension) — dual citizenship is permitted.
+
+### Well-known strong points
+- World's highest GDP per capita PPP (~$143,000) and highest median salary (~$5,640/mo)
+- Generous impatriate tax regime: 50% salary exemption (max €400K/yr)
+- Fast citizenship: 5 years with dual citizenship permitted
+- Dedicated investor residence permit (from €500K with clear criteria)
+- Very high Rule of Law (WJP 0.81) and political freedom (FH 97/100)
+- Multilingual environment (French/English/German widely spoken) and excellent quality of life
+
+### Well-known problems
+- Very high cost of living: Numbeo index 64.8; rent ~€1,600 for 1-bedroom
+- Luxembourgish language requirement for citizenship (unique — small national language)
+- No digital nomad visa; no dedicated passive-income or retirement route
+- Small, expensive housing market with limited supply
+- Landlocked; limited cultural/entertainment scene compared to larger neighbours
+- High salary thresholds for work permits (Blue Card ~€78K) reflect high-wage economy
+
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Impatriate tax regime maintained. No major immigration reform in 2026.

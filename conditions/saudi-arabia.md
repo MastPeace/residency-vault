@@ -139,3 +139,47 @@ Mixed. Premium Residency is functioning but expensive (SAR 800K permanent or SAR
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Permanent tier fee reduced from SAR 1M to SAR 800,000 (Jan 2026). Real Estate track expanded to SAR 4M with 7-year conversion path. Qiwa work permit requirement for Premium Residency holders (Jun 2026).
 - **Watch items**: Potential further Premium Residency fee adjustments. Introduction of digital nomad / remote work visa. Expat levy reforms.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~36,970,000 | ^[https://data.worldbank.org/country/saudi-arabia] hard/official |
+| Main religion | Islam (Sunni; official) | ^[https://www.cia.gov/the-world-factbook/countries/saudi-arabia/] hard/official |
+| Main language | Arabic | ^[https://www.cia.gov/the-world-factbook/countries/saudi-arabia/] hard/official |
+| Main city | Riyadh (capital and largest) | ^[https://www.cia.gov/the-world-factbook/countries/saudi-arabia/] hard/official |
+| On the coast? | Yes — Red Sea and Persian Gulf | hard/official |
+| Tourism impact in season | Medium — Hajj/Umrah spikes demand in Mecca/Medina; Red Sea resorts growing; Riyadh Season (winter) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Saudi+Arabia] [soft/estimate] |
+| GDP per capita (PPP) | ~$62,000 (2024) | ^[https://www.imf.org/en/Publications/WEO] hard/official |
+| Median net monthly salary | ~$2,000–$2,800 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Saudi+Arabia] [soft/estimate] |
+| Cost of living index | 38.5 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Saudi+Arabia] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$700–$1,200 (Riyadh city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Saudi+Arabia] [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% (no personal income tax) | ^[https://zatca.gov.sa/en/Pages/default.aspx] [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Premium Residency (SAR 800K–4M investment); no dedicated DN visa yet | ^[https://pr.gov.sa/en/] [soft/estimate] |
+| Years to citizenship | No pathway for expatriates (discretionary; extremely rare) | ^[https://pr.gov.sa/en/] hard/official |
+| Maximum permitted absence during residence | No minimum stay for Premium Residency | ^[https://pr.gov.sa/en/] [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 91 (Henley, Jul 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
+| Rule of Law Index | ~0.56 (2024 est.) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 9/100 — Not Free (2025) | ^[https://freedomhouse.org/country/saudi-arabia/freedom-world/2025] hard/official |
+| Average annual sunshine hours | ~3,240 | ^[https://weatherspark.com/countries/SA] hard/official |
+| Average annual temperature | ~26°C (Riyadh) | ^[https://weatherspark.com/countries/SA] hard/official |
+
+## Country Card
+
+Saudi Arabia is the largest economy in the Arab world and the only G20 member in the Middle East. Under Vision 2030, the Kingdom is undergoing a historic transformation: diversifying beyond oil, opening to tourism, and building megaprojects like NEOM. The Premium Residency programme offers long-term residence for investors and skilled professionals, with no minimum stay requirement. Personal income tax is 0%, and the cost of living is moderate by Gulf standards. Expatriates make up roughly one-third of the population, concentrated in Riyadh, Jeddah, and the Eastern Province.
+
+### Well-known strong points
+- 0% personal income tax in a G20 economy
+- Largest market in the Arab world (~37 million population) with rapid modernization
+- Premium Residency with no minimum stay and investment thresholds from SAR 800K
+- Low cost of living by Gulf standards, especially outside Riyadh
+- Massive infrastructure investment under Vision 2030 (NEOM, Red Sea Project, Qiddiya)
+- Strategic location connecting Asia, Africa, and Europe
+
+### Well-known problems
+- No path to citizenship for expatriates — Premium Residency is permanent residence only
+- Extremely restrictive political environment (Freedom House 9/100) with no political parties or free press
+- Bureaucracy and unpredictable regulatory enforcement, especially for businesses
+- Dependent-visa fees and expat levies add significant costs for families
+- Summer heat is extreme (regularly 45°C+); outdoor activity limited May–September
+- Social conservatism persists despite reforms — alcohol prohibited, strict gender segregation relaxing but still present

@@ -141,4 +141,47 @@ Not a major yachting hub. No special yacht/captain residency program.
 - Last major change: Law 32421 (August 2025) — citizenship residency requirement raised 2→5 years, income threshold added.
 - Digital nomad visa: law exists (Nov 2023) but never implemented.
 - Last monitored: 2026-09-14.
-- Watch: TUPA update that may finally activate the digital nomad visa; transitional provisions of Law 32421.
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~34,218,000 (2024) | [World Bank](https://data.worldbank.org/country/peru) — hard/official |
+| Main religion | Roman Catholicism (~60%); Protestant/Evangelical (~25%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/peru/) — hard/official |
+| Main language | Spanish (official); Quechua, Aymara co-official | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/peru/) — hard/official |
+| Main city (capital or largest) | Lima (capital; ~11M metro) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/peru/) — hard/official |
+| On the coast? | Yes — Pacific coastline, ~2,414 km | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — Machu Picchu/Cusco heavily seasonal; peak May–Sep (dry season) | [soft/estimate] |
+| GDP per capita (PPP) | ~$17,000 (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=PE) — hard/official |
+| Median net monthly salary | ~$400–500 USD (PEN ~1,800) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Peru) [soft/estimate] |
+| Cost of living index | 28.5 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$400 (Lima city centre, PEN ~1,500) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Peru) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0%–30% progressive (worldwide taxation for residents; no territorial option) | [SUNAT](https://www.sunat.gob.pe) [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Rentista ($1,000/mo passive income); digital nomad visa NOT OPERATIONAL (law exists but cannot apply); Trabajador Independiente for freelancers | See [[#passive-income-residency]] and [[#digital-nomad-visa]] |
+| Years to citizenship | 5 years continuous legal residence (up from 2 years under Law 32421, Aug 2025); 4 years marriage-based | See [[#citizenship]] |
+| Maximum permitted absence during residence | 183 days/year physical presence required to maintain residency | See [[#citizenship]] |
+| Passport strength after citizenship | 143 visa-free destinations (Henley Q3 2025, rank 32) | [Henley & Partners](https://www.henleyglobal.com/publications/global-mobility-report/2025-july) — hard/official |
+| Rule of Law Index | 0.49 (rank 90/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 66/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/peru/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~1,200 h (Lima — coastal fog); 2,400+ h (Cusco, highlands) | [Current Results](https://www.currentresults.com/Weather/Peru/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~19 °C (Lima, coastal); ~12 °C (Cusco, highlands); ~25 °C (Amazon lowlands) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/peru/) — hard/official |
+
+## Country Card
+
+### General description
+Peru is South America's fourth-most populous country, stretching from the Pacific coast through the Andes to the Amazon basin. It is best known for Machu Picchu and Inca heritage, but also has a growing economy driven by mining, agriculture, and tourism. The Rentista visa ($1,000/mo passive income) and Investor visa (~$150,000) are the main residency routes. The digital nomad visa, created by law in November 2023, has never been implemented — a persistent frustration. Peru significantly tightened citizenship requirements in August 2025 (Law 32421), raising the residency requirement from 2 to 5 years and adding an income threshold.
+
+### Well-known strong points
+- Rentista visa has one of the lowest income thresholds in the region ($1,000/mo)
+- Rich cultural and archaeological heritage (Machu Picchu, Nazca Lines, 12 UNESCO sites)
+- Low cost of living (Numbeo index 28.5) — Lima is affordable, provinces cheaper
+- Growing gastronomy scene — Lima is a global culinary capital
+- MERCOSUR associate member; ~143 visa-free destinations
+- Foreigners can own real estate with no restrictions (except within 50 km of borders)
+
+### Well-known problems
+- Digital nomad visa is a "phantom" — law exists but cannot be applied for (2+ years unimplemented)
+- Citizenship requirement doubled from 2 to 5 years (Law 32421, Aug 2025) + income threshold of ~$15,000/yr
+- Political instability — 6 presidents in 5 years (2018–2023); protests and unrest frequent
+- Lima's winter grey (garúa): June–October brings persistent coastal fog, minimal sunshine
+- Bureaucratic inefficiency — Migraciones processes are slow and opaque
+- High crime rates in Lima and major cities; petty theft and express kidnappings are common

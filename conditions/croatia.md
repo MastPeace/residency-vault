@@ -83,6 +83,52 @@ Croatia has over 1,000 Adriatic islands and is a premier yachting destination. I
 ## Notes for RU Citizens
 Russian citizens need a Schengen visa (Croatia joined Schengen 2023). The DN visa and work permits are open. Croatian language (South Slavic) is moderately accessible for Russian speakers. Russian is not widely spoken outside tourist areas. Croatian public sentiment toward Russia is generally neutral/EU-aligned.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~3,856,000 | ^[https://freedomhouse.org/country/croatia/freedom-world/2025] hard/official |
+| Main religion | Roman Catholicism (79%) | ^[https://www.cia.gov/the-world-factbook/countries/croatia/] hard/official |
+| Main language | Croatian (official; Latin script) | ^[https://www.cia.gov/the-world-factbook/countries/croatia/] hard/official |
+| Main city | Zagreb (capital, ~800,000 metro) | ^[https://en.wikipedia.org/wiki/Croatia] hard/official |
+| On the coast? | Yes — extensive Adriatic coastline (~1,800 km); 1,000+ islands | [soft/estimate] |
+| Tourism impact in season | Very high — massive seasonal pressure on Adriatic coast (June–September); Dubrovnik, Split, Hvar | [soft/estimate] |
+| GDP per capita (PPP) | $48,817 (2024) | ^[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=HR] hard/official |
+| Median net monthly salary | ~€1,500 | ^[https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105] [soft/estimate] |
+| Cost of living index (relative, base note) | 43.2 (Numbeo 2025; 56.8% below NYC baseline) | ^[https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025] [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~€550–750 (Zagreb city centre); higher in coastal cities | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Croatia] [soft/estimate] |
+| Effective personal tax rate for remote workers | 20%–30% progressive (varies by municipality); DN holders: 0% tax on foreign income | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Croatia] [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Digital Nomad Residence Permit (since 2021; €3,622/mo; up to 18 months; 6-month break required) | Consistent with [[#digital-nomad-visa]]; [soft/estimate] |
+| Years to citizenship | 8 years continuous residence + permanent residence status | Consistent with [[#citizenship]]; hard/official |
+| Maximum permitted absence during residence | Continuous residence required; DN permit does not count toward PR or citizenship | Consistent with [[#digital-nomad-visa]]; [soft/estimate] |
+| Passport strength after citizenship (visa-free count) | 183 destinations | ^[https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025] hard/official |
+| Rule of Law Index | 0.61 (rank 45/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
+| Freedom House score | 82/100 Free | ^[https://freedomhouse.org/country/croatia/freedom-world/2025] hard/official |
+| Average annual sunshine hours | 1,898 (Zagreb); coastal cities ~2,600+ | ^[https://en.wikipedia.org/wiki/List_of_cities_in_Europe_by_sunshine_duration] hard/official |
+| Average annual temperature | ~11.9°C (Zagreb); coastal cities warmer | ^[https://en.wikipedia.org/wiki/Zagreb#Climate] hard/official |
+
+## Country Card
+
+Croatia joined the EU in 2013 and the Eurozone and Schengen in 2023. It has one of Europe's most mature digital nomad visa frameworks (since 2021), ranked #8 globally for digital nomads in 2026. The DN permit offers up to 18 months with 0% tax on foreign income, but a 6-month mandatory break applies before reapplication and in-country status switching is no longer permitted (2026 crackdown). The Adriatic coastline with over 1,000 islands makes Croatia a premier yachting destination. Citizenship requires 8 years continuous residence plus Croatian language B1 and a culture test. Naturalization under Article 8 requires renunciation of previous citizenship.
+
+### Well-known strong points
+- Mature digital nomad visa since 2021 — 18-month duration, 0% tax on foreign income
+- Eurozone and full Schengen since 2023 — unrestricted EU travel
+- Premier Adriatic yachting destination: 1,000+ islands, extensive marina infrastructure
+- Relatively affordable cost of living (57% below NYC); coastal lifestyle
+- EU Blue Card and standard work permit routes well-established
+- Ranked #8 globally for digital nomads in 2026
+
+### Well-known problems
+- DN visa has a 6-month mandatory break after 18 months — no continuous path; visa-hopping crackdown
+- Croatian language (B1) + culture test required for citizenship; dual citizenship may require renunciation
+- New Aliens Act (June 2026): Croatian language for work permit extensions mandatory from June 2027
+- Heavy tourism pressure on coastal infrastructure June–September; housing costs spike in season
+- DN permit does not lead to permanent residence — must switch to employment route
+- No Golden Visa or investment residency programme available
+
 ## Status
 - **Last monitored**: 2026-09-14
 - **Recent changes**: Aliens Act amendments effective June 4, 2026 — Croatian language requirement for work permit extensions (mandatory June 2027), employer switching after 6 months, multi-year seasonal permits, 90-day decision deadline. Housing rules: 14 m²/person, rent ≤30% salary. DN visa-hopping crackdown: in-country status switching without exit no longer permitted.

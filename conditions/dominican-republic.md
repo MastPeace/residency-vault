@@ -105,6 +105,52 @@ Dominican Republic has several full-service marinas (Casa de Campo, Ocean World)
 - Large and well-established expat community (RU, US, EU).
 - Quality of life vs cost: strong value proposition.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~11,400,000 (2024) | [World Bank](https://data.worldbank.org/country/dominican-republic) — hard/official |
+| Main religion | Roman Catholicism (~57%), Evangelical Protestant (~23%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/dominican-republic/) — hard/official |
+| Main language | Spanish | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/dominican-republic/) — hard/official |
+| Main city (capital or largest) | Santo Domingo | [Wikipedia](https://en.wikipedia.org/wiki/Santo_Domingo) — hard/official |
+| On the coast? | Yes (Caribbean Sea + Atlantic Ocean; ~1,288 km coastline) | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — peak Dec–Apr; Punta Cana, Puerto Plata, Santo Domingo heavily seasonal | [soft/estimate] |
+| GDP per capita (PPP) | ~$25,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=DO) — hard/official |
+| Median net monthly salary | ~DOP 25,000 (~$430) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Dominican+Republic) [soft/estimate] |
+| Cost of living index | 38.1 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$400 (outside tourist zones) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Dominican+Republic) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% on foreign-source income (territorial system) | See [[#tax]] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; Rentista ($2K/mo) covers passive income | See [[#passive-income-residency]] |
+| Years to citizenship | ~3 years (1 temp + 2 permanent); 6 months if married | See [[#citizenship]] |
+| Maximum permitted absence during residence | No strict absence rule for temporary/permanent holders; 12+ months may risk status | [soft/estimate] |
+| Passport strength after citizenship | ~70 visa-free destinations (Henley Q3 2025) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.47 (rank 86/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 68/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/dominican-republic/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,500–2,800 h (varies by region) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Dominican_Republic#Climate) — hard/official |
+| Average annual temperature | ~25 °C (coastal; cooler in central highlands) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Dominican_Republic#Climate) — hard/official |
+
+## Country Card
+
+### General description
+The Dominican Republic occupies the eastern two-thirds of Hispaniola in the Caribbean, sharing the island with Haiti. It has the largest economy in the Caribbean and Central America, driven by tourism, services, mining, and agriculture. The DR is one of the most popular expat destinations in the region, particularly for Russian-speaking immigrants, thanks to an accessible residency system (rentista at $2K/mo, investment from $200K), a territorial tax regime, and a relatively fast path to citizenship (~3 years). It combines Caribbean lifestyle with moderate costs and well-developed tourism infrastructure.
+
+### Well-known strong points
+- Fastest citizenship path in the Caribbean (2 years permanent residence, or 6 months if married)
+- Accessible rentista residency: $2,000/mo passive income threshold
+- Territorial tax system: zero tax on foreign-source income
+- Large established expat community (RU, US, EU) in Bávaro/Punta Cana, Santo Domingo
+- Moderate cost of living (Numbeo index 38.1) with Caribbean lifestyle
+- Visa-free entry for many nationalities including Russia (up to 60 days)
+
+### Well-known problems
+- Weak passport: only ~70 visa-free destinations; limited global mobility
+- Bureaucratic inefficiency (DGM processing: ~90 business days); lawyer recommended
+- High crime rate in certain areas; inequality and infrastructure gaps
+- Rule of Law score low (0.47 WJP); corruption perception significant
+- Healthcare quality uneven outside major tourist/expat zones
+- Power grid instability (apagones/blackouts common outside resort areas)
 ## Status
 - Last change: April 2025 — hospital ID checks introduced for non-citizens (policy announcement).
 - Last monitored: 2026-09-14.

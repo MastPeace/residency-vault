@@ -66,3 +66,48 @@ Kazakhstan is a primary destination for Russian relocants: visa-free entry, no l
 - **Last monitored**: 2026-09-13
 - **Recent changes**: 2026 pilot project severely restricted new residence permit applications (regional restrictions, financial requirements). Digital Nomad Residency programme growing rapidly (250+ permits issued).
 - **Watch items**: Pilot project expires Dec 31, 2026 — monitor extension or permanent adoption. Track Digital Nomad Residency application success rate.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~19,620,000 (2025) | [World Bank](https://data.worldbank.org/country/kazakhstan) — hard/official |
+| Main religion | Islam (~70%, mostly Sunni); Christianity (~26%, mostly Orthodox) | [CIA Factbook](https://www.cia.gov/the-world-factbook/countries/kazakhstan/) — hard/official |
+| Main language | Kazakh (state), Russian (official, widely used) | [CIA Factbook](https://www.cia.gov/the-world-factbook/countries/kazakhstan/) — hard/official |
+| Main city (capital or largest) | Astana (capital); Almaty (largest) | [Wikipedia](https://en.wikipedia.org/wiki/Kazakhstan) — hard/official |
+| On the coast? | No (landlocked; Caspian Sea shoreline but no ocean coast) | Geographical fact [soft/estimate] |
+| Tourism impact in season | Low — emerging tourism in Almaty mountains, Astana; peak May–Sep | [soft/estimate] |
+| GDP per capita (PPP) | ~$49,506 (2025) | [World Economics](https://www.worldeconomics.com/GDP-Per-Capita/Kazakhstan.aspx) — hard/official |
+| Median net monthly salary | ~₸308,000 (~US$680) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Kazakhstan) [soft/estimate] |
+| Cost of living index | ~30 (NYC=100, Numbeo estimate) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2026) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ₸228,000 (~US$500) city centre | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Kazakhstan) [soft/estimate] |
+| Effective personal tax rate for remote workers | Flat 10% income tax; corporate 20%; no social tax for self-employed on simplified regime | [Kazakhstan Tax Code](https://kgd.gov.kz/) [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Digital Nomad Residency (10yr PR, no income threshold); Neo Nomad Visa ($3,000/mo); Investor Visa ($300K) | See [[#digital-nomad-visa]] |
+| Years to citizenship | 5 years permanent residence + 183 days/yr physical presence + Kazakh language + renunciation | See [[#citizenship]] |
+| Maximum permitted absence during residence | 183 days/yr physical presence required for citizenship; PR: must maintain genuine residence | See [[#citizenship]] |
+| Passport strength after citizenship | 78 visa-free destinations (Henley 2026, rank 61) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.54 (rank 65/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 23/100 (Not Free) | [Freedom House](https://freedomhouse.org/country/kazakhstan/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,200–2,600 h (Astana ~2,500h, Almaty ~2,400h) | [Kazakhstan Weather Service](https://www.kazhydromet.kz/) — hard/official |
+| Average annual temperature | ~5°C annual mean (continental: Astana −15°C Jan to +21°C Jul; Almaty −5°C Jan to +25°C Jul) | [Kazakhstan Weather Service](https://www.kazhydromet.kz/) — hard/official |
+
+## Country Card
+
+### General description
+Kazakhstan is the largest Central Asian economy and an EAEU member, spanning from the Caspian Sea to China. It launched an innovative Digital Nomad Residency programme (10-year permanent residence for IT specialists, no income requirement) and a Neo Nomad Visa ($3,000/month) in late 2024 — both exceptionally generous compared to global norms. An investor route ($300,000) also grants a 10-year residence permit. However, a 2026 pilot project severely restricted new residence permit applications: mandatory 1-year stay in designated northern regions and annual proof of ~$12,000 in a bank account, effectively closing Almaty and Astana for new applicants. Kazakhstan has a flat 10% income tax, EAEU mutual recognition of qualifications, and is the primary destination for Russian relocants. Citizenship requires 5 years of PR, Kazakh language, and renunciation of previous citizenship.
+
+### Well-known strong points
+- Digital Nomad Residency: 10-year PR for IT specialists with no income requirement — most generous globally
+- Flat 10% income tax — one of the lowest in the world
+- Very low cost of living (Numbeo ~30) with modern infrastructure in major cities
+- Visa-free entry for Russian and many CIS citizens; EAEU mutual recognition of qualifications
+- No language barrier for Russian speakers — Russian is an official language
+- Investment Tax Residency: tax residency after only 90 days for qualifying investors
+
+### Well-known problems
+- 2026 pilot project severely restricts new residence permits — Almaty/Astana closed to new applicants
+- Low Freedom House score (23/100 Not Free) — authoritarian governance, restricted civil liberties
+- Weak rule of law (WJP 0.54, #65) — corruption and arbitrary enforcement are common
+- Weak passport (78 visa-free destinations, Henley #61) — limited global mobility
+- Citizenship requires renunciation of previous citizenship — dual citizenship not permitted
+- Harsh continental climate — Astana is the second-coldest capital in the world

@@ -89,6 +89,52 @@ Belize operates an international ship registry (IMMARBE). Yacht registration ava
 - Expats praise low cost of living and lifestyle; healthcare limited outside Belize City.
 - QRP widely recommended for North American retirees.
 
+
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~423,000 (2024) | [World Bank](https://data.worldbank.org/country/belize) — hard/official |
+| Main religion | Christianity (Roman Catholic ~40%, Protestant ~32%) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/belize/) — hard/official |
+| Main language | English (official); Spanish, Belizean Creole widely spoken | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/belize/) — hard/official |
+| Main city (capital or largest) | Belmopan (capital); Belize City (largest) | [Wikipedia](https://en.wikipedia.org/wiki/Belize) — hard/official |
+| On the coast? | Yes (Caribbean Sea; ~386 km coastline; barrier reef) | Geographical fact [soft/estimate] |
+| Tourism impact in season | Medium — peak Nov–Apr; Ambergris Caye, Placencia, diving/reef tourism | [soft/estimate] |
+| GDP per capita (PPP) | ~$11,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=BZ) — hard/official |
+| Median net monthly salary | ~BZD 1,800 (~$900) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Belize) [soft/estimate] |
+| Cost of living index | 48.5 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$500 (Belize City/coastal areas) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Belize) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0% on foreign-source income (territorial; QRP specifically exempt) | See [[#tax]] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; QRP ($2K/mo, age 40+) is the main route | See [[#retired-residency]] |
+| Years to citizenship | 5 years permanent residence (after 1 year legal residence first) | See [[#citizenship]] |
+| Maximum permitted absence during residence | QRP: 30 consecutive days/year minimum presence | See [[#retired-residency]] |
+| Passport strength after citizenship | ~100 visa-free destinations (Henley Q3 2025) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.48 (rank 76/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 86/100 (Free) | [Freedom House](https://freedomhouse.org/country/belize/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,500 h (varies; coastal areas sunnier) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Belize#Climate) — hard/official |
+| Average annual temperature | ~26 °C (coastal; cooler inland) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Belize#Climate) — hard/official |
+
+## Country Card
+
+### General description
+Belize is a small English-speaking nation on the Caribbean coast of Central America, bordered by Mexico and Guatemala. It uniquely combines Caribbean culture with Central American geography, featuring the world's second-largest barrier reef. Belize's flagship residency programme is the Qualified Retired Persons (QRP) programme, established in 1999: it grants indefinite "Permanent Tourist" status with a US$2,000/month foreign retirement income requirement, age 40+, and just 30 days/year of physical presence. QRP holders are specifically exempt from taxes on foreign-source income. Belize operates a territorial tax system and offers a moderate 5-year permanent residence + naturalization path (plus 1 year of legal residence first). Dual citizenship is recognized.
+
+### Well-known strong points
+- QRP programme: indefinite residency, $2K/mo, age 40+, 30 days/year presence — low friction
+- English-speaking with British common-law legal system
+- Territorial tax: no tax on foreign-source income; QRP specifically exempt
+- Freedom House score 86/100 (Free) — stable democracy
+- World-class diving and barrier reef; Caribbean lifestyle at Central American prices
+- Dual citizenship fully recognized
+
+### Well-known problems
+- QRP does NOT count toward citizenship years — must convert to permanent residence separately
+- QRP income must be "retirement-type" — active remote employment may not qualify
+- Russian nationals NOT listed among QRP-qualifying nationalities
+- Small economy; limited healthcare infrastructure outside Belize City
+- Higher cost of living than neighbouring Central American countries (Numbeo 48.5)
+- No digital nomad visa; QRP is the only accessible long-stay route
 ## Status
 - Last change: QRP programme operational since 1999; income threshold unchanged at $2K/mo for many years.
 - Last monitored: 2026-09-14.

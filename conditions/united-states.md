@@ -124,3 +124,48 @@ US sanctions and deteriorating bilateral relations make visa processing for RU n
 - **Last monitored**: 2026-09-14
 - **Recent changes**: H-1B FY2027 weighted lottery favoring higher-skilled/higher-paid implemented. DHS proposed EB-5 increase (TEA $800K → $1.4M in High Employment Areas). Sept 30, 2026 EB-5 grandfathering deadline.
 - **Watch items**: EB-5 RIA regulatory implementation. H-1B cap season outcomes. Potential IER changes.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~341,785,000 (2025) | [World Bank](https://data.worldbank.org/country/united-states) — hard/official |
+| Main religion | Christianity (~63%: Protestant ~40%, Catholic ~21%) | [CIA Factbook](https://www.cia.gov/the-world-factbook/countries/united-states/) — hard/official |
+| Main language | English (de facto; no federal official language) | [CIA Factbook](https://www.cia.gov/the-world-factbook/countries/united-states/) — hard/official |
+| Main city (capital or largest) | Washington, D.C. (capital); New York City (largest) | [Wikipedia](https://en.wikipedia.org/wiki/United_States) — hard/official |
+| On the coast? | Yes (Atlantic, Pacific, Gulf of Mexico — ~19,924 km coastline) | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — NYC, Orlando, Las Vegas, national parks; peak Jun–Aug and Dec holidays | [soft/estimate] |
+| GDP per capita (PPP) | ~$80,579 (2025) | [World Economics](https://www.worldeconomics.com/GDP-Per-Capita/United-States.aspx) — hard/official |
+| Median net monthly salary | ~$4,800 | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=United+States) [soft/estimate] |
+| Cost of living index | 69.7 (NYC=100, Numbeo 2026 Mid-Year) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2026) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | ~$1,900 (city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=United+States) [soft/estimate] |
+| Effective personal tax rate for remote workers | ~25–35% (federal 10–37% + state 0–13.3% + self-employment 15.3% FICA; varies by state) | [IRS](https://www.irs.gov/) [soft/estimate] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; B-1/B-2 prohibits remote work; H-1B or O-1 for employed; E-2 for treaty investors | See [[#digital-nomad-visa]] |
+| Years to citizenship | 5 years as LPR (3 years if married to US citizen) | See [[#citizenship]] |
+| Maximum permitted absence during residence | Green card: trips >6 months presumed to break continuous residence; >1 year breaks it entirely | See [[#citizenship]] |
+| Passport strength after citizenship | 179 visa-free destinations (Henley 2026, rank 10) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
+| Rule of Law Index | 0.70 (rank 26/142, WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 83/100 (Free, declined) | [Freedom House](https://freedomhouse.org/country/united-states/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,500–2,800 h (varies widely; Phoenix 3,872h, Seattle 2,170h) | [Current Results](https://www.currentresults.com/Weather/US/average-annual-sunshine-by-city.php) — hard/official |
+| Average annual temperature | ~12°C continental US avg; varies from ~−5°C (Alaska) to ~25°C (Florida) | [NOAA](https://www.ncei.noaa.gov/) — hard/official |
+
+## Country Card
+
+### General description
+The United States is the world's largest economy and a federal republic of 50 states spanning North America between the Atlantic and Pacific Oceans. It has the most dynamic tech and startup ecosystem globally (Silicon Valley, NYC, Austin), the deepest capital markets, and the highest salaries for skilled professionals. Immigration is employer-driven: the H-1B lottery and employer-sponsored green card (PERM → EB-2/EB-3) are the dominant skilled pathways, and the EB-5 investor program ($800K–$1.05M) offers a direct route to a green card. The US taxes citizens and green card holders on worldwide income regardless of residence.
+
+### Well-known strong points
+- Highest professional salaries globally, especially in tech, finance, medicine
+- Deepest and most liquid startup funding and venture capital ecosystem
+- EB-5 program provides direct green card for investors ($800K TEA)
+- Large, established immigrant communities from every country
+- Vast geographic and climate diversity — from tropical to arctic
+- Top-tier universities and research institutions
+
+### Well-known problems
+- No points-based skilled migration — H-1B is a random lottery with ~25% selection rate
+- Green card backlog for Indian/Chinese nationals measured in decades
+- Citizenship-based worldwide taxation (unique among major economies)
+- No digital nomad visa, no passive income visa, no retirement visa
+- High cost of healthcare and education relative to other developed nations
+- Political polarization and declining Freedom House score (from 94 in 2015 to 83 in 2025)

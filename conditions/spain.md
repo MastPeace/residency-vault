@@ -133,6 +133,51 @@ Spain is popular with Russian nationals. NLV and DNV routes are accessible. Gold
 ## Community Pulse
 The closure of the Golden Visa shifted focus entirely to NLV and DNV. DNV is generally smooth — in-country processing is fast (20 working days), and Beckham Law access is a major draw. NLV is straightforward but the "no work" rule is rigidly enforced; remote workers using NLV face rejection or revocation. 10-year citizenship clock is considered long but standard for Western Europe. Ibero-American fast-track (2 years) is a unique advantage.
 
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~48,600,000 (2024) | [World Bank](https://data.worldbank.org/country/spain) — hard/official |
+| Main religion | Roman Catholicism | [Wikipedia](https://en.wikipedia.org/wiki/Spain#Religion) — hard/official |
+| Main language | Spanish (Castilian) | [Wikipedia](https://en.wikipedia.org/wiki/Spain) — hard/official |
+| Main city (capital or largest) | Madrid | [Wikipedia](https://en.wikipedia.org/wiki/Madrid) — hard/official |
+| On the coast? | Yes (Mediterranean + Atlantic, ~4,964 km) | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — mass tourism in Barcelona, Costa del Sol, Balearics, Canaries; severe summer peaks | [soft/estimate] |
+| GDP per capita (PPP) | ~$49,000 (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?locations=ES) — hard/official |
+| Median net monthly salary | ~€1,870 (~$2,030) | [Numbeo](https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105) [soft/estimate] |
+| Cost of living index | 43.5 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
+| Monthly rent, 1-bedroom apartment | €903 (city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Spain) [soft/estimate] |
+| Effective personal tax rate for remote workers | 24% under Beckham Law (first 5 years), or progressive 19%–47% | [Recht Spanien](https://recht-spanien.com/en/blog/tax/beckhamlaw) [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Digital Nomad Visa (DNV, €2,849/mo) | See [[#digital-nomad-visa]] |
+| Years to citizenship | 10 years (2 for Ibero-American nationals) | See [[#citizenship]] |
+| Maximum permitted absence during residence | Must maintain continuous residence; significant gaps may reset citizenship clock | See [[#citizenship]] |
+| Passport strength after citizenship | 189 visa-free destinations (Henley Q3 2025, rank 3) | [Henley & Partners](https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025) — hard/official |
+| Rule of Law Index | 0.70 (WJP 2024) | [WJP](https://worldjusticeproject.org/rule-of-law-index/global/2024) — hard/official |
+| Freedom House score | 90/100 (Free) | [Freedom House](https://freedomhouse.org/country/spain/freedom-world/2025) — hard/official |
+| Average annual sunshine hours | ~2,500 h (Barcelona 2,524; Madrid ~2,769; southern coast higher) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
+| Average annual temperature | ~14 °C (varies: coastal Mediterranean ~17 °C, interior ~12 °C) | [Wikipedia / AEMET](https://en.wikipedia.org/wiki/Spain#Climate) — hard/official |
+
+## Country Card
+
+### General description
+Spain is a large southern European country occupying most of the Iberian Peninsula, with both Mediterranean and Atlantic coastlines. It has the fourth-largest EU economy, driven by services, tourism, manufacturing, and agriculture. Spain offers a popular Digital Nomad Visa (DNV), a Non-Lucrative Visa for passive-income holders, and access to the Beckham Law flat-tax regime, making it a top-tier destination for remote workers and retirees — though its Golden Visa was permanently closed in 2025.
+
+### Well-known strong points
+- Excellent visa-free passport (189 destinations, joint 3rd globally)
+- Digital Nomad Visa with Beckham Law access (24% flat tax for 5 years)
+- Competitive cost of living (Numbeo index 43.5) vs. northern Europe
+- World-leading tourism infrastructure and cultural wealth
+- Very high sunshine hours and diverse climates (Mediterranean, Atlantic, Canary Islands)
+- Fast in-country DNV processing (20 working days via UGE)
+
+### Well-known problems
+- 10-year citizenship clock — among the longest in the EU
+- Dual citizenship generally requires renunciation of original nationality
+- Bureaucratic complexity and regional administrative variation
+- Overtourism in Barcelona, Balearics, and coastal hotspots
+- High unemployment relative to EU average and modest median salary (~€1,870/mo)
+- Golden Visa permanently closed (April 2025), removing the investor pathway
+
 ## Status
 - **Last monitored**: 2026-09-13
 - **Recent changes**: Golden Visa permanently closed (3 Apr 2025). SMI raised to €1,424.50/mo (Royal Decree 126/2026), affecting DNV and other thresholds.
