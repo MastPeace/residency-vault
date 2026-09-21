@@ -73,3 +73,12 @@
 - Replaced 7 v1 concept pages with 10 v2 residency-type generalizers (cross-country comparison tables drawn from real country data).
 - index.md regenerated (100 countries by region + 10 concepts).
 - Community-forum research deferred per user (verdicts labelled heuristically only).
+
+
+## [2026-09-21] update | Weekly monitor — 3 country pages
+- armenia.md: citizenship fee increases (50K→250K ARM, 150K→1.5M renunciation) + physical presence requirements (549d/3yr spouses, 915d/5yr general). Source: arka.am.
+- cyprus.md: EC Schengen technical readiness approved Aug 2026 + mandatory medical exams for Immigration Permit A-F from Sep 1, 2026. Sources: expatsi.com, visasupdate.com.
+- georgia.md: deportation + 2–5 year entry ban for unauthorized work (Sep 1, 2026). Kazakhstan MFA travel warning. Source: astanatimes.com.
+- Alert written: alerts/2026-09-21.md
+- Unchanged (5 items skipped): armenia digitalization, cyprus PR due diligence, cyprus spouse citizenship bill, georgia marriage route, georgia work permits.
+- Discovery: china, india, malaysia flagged (no actionable items).

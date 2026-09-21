@@ -1,7 +1,7 @@
 ---
 title: Cyprus — Cyprus
 created: 2026-09-13
-updated: 2026-09-14
+updated: 2026-09-21
 type: entity
 tags: [residence, citizenship, golden-visa, tax, popular_ru, strong_passport, non-schengen]
 category: strong_passport
@@ -124,6 +124,6 @@ Cyprus is an EU member state with a strong passport but outside Schengen — a s
 - Previous citizenship-by-investment programme terminated in 2020 after scandal
 
 ## Status
-- **Last monitored**: 2026-09-14
-- **Recent changes**: Non-dom dual tax residency permitted from Jan 1, 2026. Citizenship bill for foreign spouses (Sep 12, 2026) proposing reduced residence requirement from 3 years to 6 months for spouses abroad (marriage ≥5 years). Biometric card mandate from Aug 2026.
-- **Watch items**: Track citizenship bill for foreign spouses (public consultation). Monitor biometric card transition deadlines. Non-Schengen — monitor any Schengen accession developments.
+- **Last monitored**: 2026-09-21
+- **Recent changes**: Non-dom dual tax residency permitted from Jan 1, 2026. Citizenship bill for foreign spouses (Sep 12, 2026) proposing reduced residence requirement from 3 years to 6 months for spouses abroad (marriage ≥5 years). Biometric card mandate from Aug 2026. **Schengen**: EC approved Cyprus's technical readiness August 2026; Council vote pending. **Medical exams**: mandatory for Immigration Permit A-F from Sep 1, 2026 (blood tests + chest X-ray, documents require legalization).
+- **Watch items**: Track citizenship bill for foreign spouses (public consultation). Monitor biometric card transition deadlines. **Schengen accession**: European Commission approved Cyprus's technical readiness in August 2026; Council of the EU vote (unanimity required) expected September 2026 ^[https://expatsi.com/move-to/cyprus]. **Medical exams**: From September 1, 2026, Immigration Permit (Categories A–F) applicants must provide blood tests for Hepatitis B, C, HIV, syphilis and a chest X-ray for TB. Documents require legalization/apostille ^[https://www.visasupdate.com/post/cyprus-medical-examinations-immigration-permits-categories-a-f-2026].

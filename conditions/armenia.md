@@ -1,7 +1,7 @@
 ---
 title: Armenia — Armenia
 created: 2026-09-13
-updated: 2026-09-14
+updated: 2026-09-21
 type: entity
 tags: [residence, citizenship, tax, rule_change, popular_ru]
 category: popular_ru
@@ -74,7 +74,7 @@ Armenia offers accessible residence permits and a relatively short path to citiz
   - **2 years** for ethnic Armenians ^[http://diaspora.gov.am/en/pages/100/racitizenship]
 - **Dual citizenship**: Permitted. ^[https://en.wikipedia.org/wiki/Armenian_citizenship]
 - **Language**: Armenian language proficiency may be required.
-- **Status of amendment**: At public consultation stage on e-draft.am (as of Sep 2026).
+- **Status of amendment**: At public consultation stage on e-draft.am (as of Sep 2026). Proposed fee changes: citizenship application from 50,000 to 250,000 AMD; citizenship renunciation from 150,000 to 1,500,000 AMD. Residence requirements for citizenship: 549 days within 3 years for spouses of citizens; 915 days within 5 years under general procedure. ^[https://arka.am/en/news/politics/armenia-s-ministry-of-internal-affairs-proposes-increasing-citizenship-fees-and-tightening-residency]
 - **Permanent residence**: Available after temporary residence; Permanent residence card valid 5 years. Special residence status (10 years) for ethnic Armenians.
 
 ## Tax
@@ -107,8 +107,8 @@ Expats report Armenia as welcoming and affordable. Yerevan has a growing interna
 
 ## Status
 
-- **Last monitored**: 2026-09-14
-- **Recent changes**: Comprehensive immigration reform from Nov 1, 2026 (work visas, labor market test abolished, digitalization, business VNZh thresholds AMD 2M/1M, employer notification). Citizenship law amendment proposed (Sep 9, 2026) — residence requirement 3→5 years. Visa exemption for 111 countries extended through Jul 2027.
+- **Last monitored**: 2026-09-21
+- **Recent changes**: Comprehensive immigration reform from Nov 1, 2026 (work visas, labor market test abolished, digitalization, business VNZh thresholds AMD 2M/1M, employer notification). Citizenship law amendment proposed (Sep 9, 2026) — residence requirement 3→5 years, fee increases (50K→250K AMD for application, 150K→1.5M AMD for renunciation), tightened physical presence requirements (549 days/3yr for spouses, 915 days/5yr general). Visa exemption for 111 countries extended through Jul 2027.
 - **Watch items**: Status of citizenship law amendments. Reform implementation and potential backlogs from Nov 1, 2026.
 
 ## Country Snapshot

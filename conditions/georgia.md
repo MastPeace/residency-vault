@@ -1,7 +1,7 @@
 ---
 title: Georgia — Georgia
 created: 2026-09-13
-updated: 2026-09-14
+updated: 2026-09-21
 type: entity
 tags: [residence, citizenship, tax, rule_change, popular_ru, clear_pathway]
 category: popular_ru
@@ -57,7 +57,7 @@ Georgia offers one of the easiest residence regimes globally: visa-free entry fo
 ### Employment Residency / Highly Skilled Employment
 
 - **Official name**: Work residence permit
-- **Conditions**: Employment contract with Georgian employer. **September 2026 changes**: work permits now required for many categories previously exempt. Stricter enforcement. ^[https://globaltaxnews.ey.com/news/2026-0456-georgia-to-introduce-new-work-authorization-and-visa-and-residence-permit-requirements-for-foreign-workers]
+- **Conditions**: Employment contract with Georgian employer. **September 1, 2026 changes**: work permits now required for many categories previously exempt. Stricter enforcement. Working without a permit can result in deportation with a 2–5 year entry ban. Kazakhstan MFA issued travel warning on Sep 16, 2026 about these changes. ^[https://globaltaxnews.ey.com/news/2026-0456-georgia-to-introduce-new-work-authorization-and-visa-and-residence-permit-requirements-for-foreign-workers] ^[https://astanatimes.com/2026/09/kazakh-foreign-ministry-informs-travelers-as-visa-rules-change-in-georgia-thailand-and-indonesia/]
 - **Duration**: Up to 1 year, renewable.
 - **Path to citizenship**: 10 years.
 - **Official source**: [Public Service Hall](https://psh.gov.ge/)
@@ -115,8 +115,8 @@ Georgia remains one of the most accessible countries globally for independent re
 
 ## Status
 
-- **Last monitored**: 2026-09-14
-- **Recent changes**: Major immigration overhaul Sep 1, 2026 — marriage residence route restructured (temp 1yr → 5yr → PR, inter-agency commission, criminal liability for fake marriages). Student residence tightened (school students excluded, presence monitoring, Jan 1, 2027 deadline). C5 Digital Nomad Visa adopted (Apr 16, 2026). Further amendments Mar 1, 2026 and Sep 1, 2026 — new work permit requirements, stricter enforcement, new D6 visa.
+- **Last monitored**: 2026-09-21
+- **Recent changes**: Major immigration overhaul Sep 1, 2026 — marriage residence route restructured (temp 1yr → 5yr → PR, inter-agency commission, criminal liability for fake marriages). Student residence tightened (school students excluded, presence monitoring, Jan 1, 2027 deadline). C5 Digital Nomad Visa adopted (Apr 16, 2026). Further amendments Mar 1, 2026 and Sep 1, 2026 — new work permit requirements, stricter enforcement, deportation + 2–5 year entry ban for unauthorized work, new D6 visa.
 - **Watch items**: Implementation of Sep 2026 changes. C5 visa uptake. Further tightening expected.
 
 ## Country Snapshot
