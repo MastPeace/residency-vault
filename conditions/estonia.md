@@ -1,7 +1,7 @@
 ---
 title: Estonia — Estonia
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-28
 type: entity
 tags: [residence, citizenship, digital-nomad, startup-visa, e-residency, it_friendly]
 category: it_friendly
@@ -52,6 +52,8 @@ Estonia is an EU/Schengen/NATO/Eurozone member and widely recognized as the worl
 ### e-Residency (note: NOT a residence permit)
 - **Official name**: E-Residency
 - **Conditions**: Digital identity for non-residents. Allows company registration and management 100% online. **Does NOT grant right to reside** in Estonia or any EU country. Purely a business tool. ^[https://www.e-resident.gov.ee/]
+- **Cost**: **€165** (fixed fee from **January 1, 2027**, replacing current tiered pricing). ^[https://www.e-resident.gov.ee/blog/posts/changes-to-e-residency-in-2025-and-beyond/]
+- **Growth**: Record growth in 2026 — **8 out of 10 new Estonian companies** are created by e-residents who joined in the same or previous year. ^[https://www.biometricupdate.com/202609/estonias-e-residency-programme-sees-record-growth-in-business-creation]
 - **Duration**: 5 years (digital ID card), renewable.
 - **Official source**: https://www.e-resident.gov.ee/
 
@@ -87,9 +89,9 @@ Baltic Sea coastline (Tallinn, Paldiski). Small yachting infrastructure. Yacht r
 Estonia has one of the most restrictive stances toward Russian citizens since 2022. Visa issuance severely limited. Residence permit applications face enhanced scrutiny. Estonian language (Finno-Ugric, unrelated to Russian) is one of Europe's hardest. However, ~25% of the population is Russian-speaking, providing cultural familiarity. The political environment is unwelcoming for new Russian applicants.
 
 ## Status
-- **Last monitored**: 2026-09-13
-- **Recent changes**: Corporate tax rate on distributions increased to 22% from 2025. DN visa and Startup Visa programmes are mature and stable.
-- **Watch items**: Monitor any further restrictions on Russian citizens. Track Startup Visa policy.
+- **Last monitored**: 2026-09-28
+- **Recent changes**: Corporate tax rate on distributions increased to 22% from 2025. DN visa and Startup Visa programmes are mature and stable. **e-Residency**: fee fixed at €165 from Jan 1, 2027 (replacing tiered pricing); record growth — 8/10 new Estonian companies created by recent e-residents in 2026.
+- **Watch items**: Monitor any further restrictions on Russian citizens. Track Startup Visa policy. e-Residency fee change effective date.
 
 ## Country Snapshot
 

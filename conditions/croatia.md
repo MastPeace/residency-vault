@@ -1,7 +1,7 @@
 ---
 title: Croatia — Croatia
 created: 2026-09-13
-updated: 2026-09-14
+updated: 2026-09-28
 type: entity
 tags: [residence, citizenship, digital-nomad, blue-card, it_friendly, rule_change]
 category: it_friendly
@@ -53,7 +53,7 @@ Digital nomads on the DN residence permit are **exempt from Croatian income tax*
 
 ### Employment Residency
 - **Official name**: Boravišna i radna dozvola (Residence and work permit)
-- **Conditions**: Job offer. Labor market test. 2026 Aliens Act amendments: Croatian language requirement for work permit extensions (mandatory from June 2027), easier employer switching after 6 months, multi-year seasonal permits, **90-day statutory deadline** for decisions. New housing: min 14 m²/person, rent ≤30% net salary. ^[raw/articles/monitor-snapshot-2026-09-13.json]
+- **Conditions**: Job offer. Labor market test. 2026 Aliens Act amendments: Croatian language requirement for work permit extensions (mandatory from June 2027, **A1.1 level**), easier employer switching after 6 months, multi-year seasonal permits, **90-day statutory deadline** for decisions. **Foreign workers who lose their job get 3–6 months to find new employment** (up from immediate loss of status). **Residence and work permit extended to up to 3 years** (was 1 year); **EU Blue Card extended to up to 4 years** (was 2 years). New housing: min 14 m²/person, rent ≤30% net salary. ^[raw/articles/monitor-snapshot-2026-09-13.json] ^[https://www.stampednomad.com/digital-nomad-news/croatia-gives-foreign-workers-3-to-6-months-to-find-jobs-after-june-4-shift]
 - **Duration / renewal**: Up to 1 year (2 years for family reunification), renewable.
 - **Path to citizenship**: 5 years residence → PR → citizenship at 8 years.
 - **Official source**: https://mup.gov.hr
@@ -130,6 +130,6 @@ Croatia joined the EU in 2013 and the Eurozone and Schengen in 2023. It has one 
 - No Golden Visa or investment residency programme available
 
 ## Status
-- **Last monitored**: 2026-09-14
-- **Recent changes**: Aliens Act amendments effective June 4, 2026 — Croatian language requirement for work permit extensions (mandatory June 2027), employer switching after 6 months, multi-year seasonal permits, 90-day decision deadline. Housing rules: 14 m²/person, rent ≤30% salary. DN visa-hopping crackdown: in-country status switching without exit no longer permitted.
+- **Last monitored**: 2026-09-28
+- **Recent changes**: Aliens Act amendments effective June 4, 2026 — Croatian language requirement for work permit extensions (A1.1 level, mandatory June 2027), 3–6 month job-search grace period after unemployment, residence+work permit extended to 3 years, EU Blue Card to 4 years, employer switching after 6 months, multi-year seasonal permits, 90-day decision deadline. Housing rules: 14 m²/person, rent ≤30% salary. DN visa-hopping crackdown: in-country status switching without exit no longer permitted.
 - **Watch items**: Language requirement becoming mandatory June 2027. Monitor DN income threshold adjustments.

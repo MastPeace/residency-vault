@@ -82,3 +82,16 @@
 - Alert written: alerts/2026-09-21.md
 - Unchanged (5 items skipped): armenia digitalization, cyprus PR due diligence, cyprus spouse citizenship bill, georgia marriage route, georgia work permits.
 - Discovery: china, india, malaysia flagged (no actionable items).
+
+## [2026-09-28] update | Weekly full-refresh — 10 analyzed → 3 pages updated
+- Collector: scope='all' (~100-country registry), 74 raw items, 7 countries with hits, query cap reached at 120
+- Analyzer: 10 items from 5 countries (armenia, croatia, cyprus, estonia, georgia). Validated OK.
+- Changed (2):
+  - armenia.md: H1 2026 total permits updated 8,181→10,561 (incl. permanent). Source: armenpress.am.
+  - croatia.md: Aliens Act details added — A1.1 language level, 3-6mo job-search grace period, permit extended to 3yr, Blue Card to 4yr. Source: stampednomad.com.
+- New (2):
+  - estonia.md: e-Residency fee €165 fixed from Jan 1, 2027. Source: e-resident.gov.ee.
+  - estonia.md: e-Residency record growth — 8/10 companies by recent joiners. Source: biometricupdate.com.
+- Unchanged (6): armenia (×2), cyprus (×2), georgia (×2) — all already in DB.
+- Discovery: 36 countries seen, 2 not in regions.yaml: china, india.
+- Alert written: alerts/2026-09-28.md
