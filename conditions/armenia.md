@@ -1,7 +1,7 @@
 ---
 title: Armenia — Armenia
 created: 2026-09-13
-updated: 2026-09-28
+updated: 2026-10-05
 type: entity
 tags: [residence, citizenship, tax, rule_change, popular_ru]
 category: popular_ru
@@ -37,7 +37,7 @@ Armenia offers accessible residence permits and a relatively short path to citiz
 ### Employment Residency / Highly Skilled Employment
 
 - **Official name**: Temporary residence permit (work-based)
-- **Conditions**: Employment contract with an Armenian employer. **From November 1, 2026**: a work visa system is introduced; labor market testing for work authorizations is abolished; a quota on foreign workers is introduced. Employer change requires notification within 15 business days.  ^[https://www.fragomen.com/insights/armenia-significant-immigration-law-reforms-forthcoming.html] In H1 2026, 10,561 total residence permits were issued — a 59% increase over H1 2025 (8,181 temporary + remainder permanent/special). ^[https://armenpress.am/en/article/1258820]
+- **Conditions**: Employment contract with an Armenian employer. **From November 1, 2026** (pushed from original Aug 1, 2026 deadline): a work visa system is introduced; labor market testing for work authorizations is abolished; a quota on foreign workers is introduced. ^[https://old.parliament.am/news.php?NewsID=23165&cat_id=2&day=16&lang=eng&month=01&year=2026] Employer change requires notification within 15 business days.  ^[https://www.fragomen.com/insights/armenia-significant-immigration-law-reforms-forthcoming.html] In H1 2026, 10,561 total residence permits were issued — a 59% increase over H1 2025 (8,181 temporary + remainder permanent/special). ^[https://armenpress.am/en/article/1258820]
 - **Duration / renewal**: Up to 1 year, renewable.
 - **Path to citizenship**: 3 years legal residence (current law) or 5 years (proposed amendment). ^[http://diaspora.gov.am/en/pages/121]
 - **Official source**: [MFA Armenia — Residency](https://mfa.am/en/residency)
@@ -74,6 +74,7 @@ Armenia offers accessible residence permits and a relatively short path to citiz
   - **2 years** for ethnic Armenians ^[http://diaspora.gov.am/en/pages/100/racitizenship]
 - **Dual citizenship**: Permitted. ^[https://en.wikipedia.org/wiki/Armenian_citizenship]
 - **Language**: Armenian language proficiency may be required.
+- **CBI proposal (rumor, Aug 2026)**: Draft government decree under discussion proposing citizenship by investment for foreigners at **≥ $150,000**. Not yet adopted; track status. ^[https://arka.am/en/news/society/russian_experts_say_armenia_a_promising_country_to_get_residence_permit]
 - **Status of amendment**: At public consultation stage on e-draft.am (as of Sep 2026). Proposed fee changes: citizenship application from 50,000 to 250,000 AMD; citizenship renunciation from 150,000 to 1,500,000 AMD. Residence requirements for citizenship: 549 days within 3 years for spouses of citizens; 915 days within 5 years under general procedure. ^[https://arka.am/en/news/politics/armenia-s-ministry-of-internal-affairs-proposes-increasing-citizenship-fees-and-tightening-residency]
 - **Permanent residence**: Available after temporary residence; Permanent residence card valid 5 years. Special residence status (10 years) for ethnic Armenians.
 
@@ -107,9 +108,9 @@ Expats report Armenia as welcoming and affordable. Yerevan has a growing interna
 
 ## Status
 
-- **Last monitored**: 2026-09-28
-- **Recent changes**: Comprehensive immigration reform from Nov 1, 2026 (work visas, labor market test abolished, digitalization, business VNZh thresholds AMD 2M/1M, employer notification). Citizenship law amendment proposed (Sep 9, 2026) — residence requirement 3→5 years, fee increases (50K→250K AMD for application, 150K→1.5M AMD for renunciation), tightened physical presence requirements (549 days/3yr for spouses, 915 days/5yr general). Visa exemption for 111 countries extended through Jul 2027.
-- **Watch items**: Status of citizenship law amendments. Reform implementation and potential backlogs from Nov 1, 2026.
+- **Last monitored**: 2026-10-05
+- **Recent changes**: Comprehensive immigration reform from Nov 1, 2026 (delayed from original Aug 1, 2026 deadline) — work visas, labor market test abolished, digitalization, business VNZh thresholds AMD 2M/1M, employer notification. Citizenship law amendment proposed (Sep 9, 2026) — residence requirement 3→5 years, fee increases (50K→250K AMD for application, 150K→1.5M AMD for renunciation), tightened physical presence requirements (549 days/3yr for spouses, 915 days/5yr general). Visa exemption for 111 countries extended through Jul 2027.
+- **Watch items**: Status of citizenship law amendments. Reform implementation and potential backlogs from Nov 1, 2026. CBI proposal ($150K investment → citizenship) — track government decree status.
 
 ## Country Snapshot
 

@@ -83,7 +83,15 @@
 - Unchanged (5 items skipped): armenia digitalization, cyprus PR due diligence, cyprus spouse citizenship bill, georgia marriage route, georgia work permits.
 - Discovery: china, india, malaysia flagged (no actionable items).
 
-## [2026-09-28] update | Weekly full-refresh — 10 analyzed → 3 pages updated
+## [2026-10-05] update | Weekly full-refresh — 6 analyzed → 2 pages updated
+- Collector: scope='all', 72 raw items from 34 countries, query cap reached at 120.
+- Analyzer: 6 items from 3 countries (armenia ×2, cyprus ×3, georgia ×1). Validated OK.
+- Changed (3):
+  - armenia.md: Reform implementation date shifted Aug 1 → Nov 1, 2026 (parliament source). CBI rumor ($150K) added to citizenship section.
+  - cyprus.md: Golden Visa tightening ahead of Schengen accession added (plaininvestor.com, Oct 2026).
+- Unchanged (3): cyprus spousal citizenship, cyprus medical exams, georgia spousal route — all already in DB.
+- Discovery: 34 countries seen, 2 not in watchlist: china, india.
+- Alert written: alerts/2026-10-05.md
 - Collector: scope='all' (~100-country registry), 74 raw items, 7 countries with hits, query cap reached at 120
 - Analyzer: 10 items from 5 countries (armenia, croatia, cyprus, estonia, georgia). Validated OK.
 - Changed (2):
