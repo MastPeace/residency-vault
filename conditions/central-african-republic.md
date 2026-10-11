@@ -73,7 +73,7 @@ No dedicated digital-nomad visa. Intenet is extremly limited(Bangui has ome conn
 ## Yacht / Maritime
 Landlocked. No maritime relevance.
 
-## Notes forRU Citizens
+## Notes for RU citizens
 Visa required. No special RU programs. Wagner/Africa Corps and Russian mining presence notable. Passport is very weak. Extreme security risks.
 
 ## Community Pulse
