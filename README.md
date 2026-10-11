@@ -207,4 +207,4 @@ This project is a personal knowledge base. All country-condition data is sourced
 public official government websites and community forums; see individual pages for
 provenance links.
 ## Extended Snapshot (pilot)
-Ten country pages carry an `## Extended Snapshot` table (68 fields: climate, size, economy/GDP, technology, safety, health, banking & tax, Russian-citizen specifics, policy trend). Static indicators are pulled from the World Bank API; other fields are researched with sources and labeled hard/soft/unsourced. See `SCHEMA.md` (v4).
+Ten country pages carry an `## Extended Snapshot` table (55 fields: climate, size, economy/GDP, technology, safety, tax, visa and sanctions facts); only facts checkable against official sources or indices. Static indicators are pulled from the World Bank API; other fields are researched with sources and labeled hard/soft/unsourced. See `SCHEMA.md` (v4).

@@ -21,20 +21,20 @@ WB = {
 }
 SOFT = {
  'Geography & size': [('Coastline', 'coastline_km'), ('Highest point', 'highest_point'), ('Type', 'country_type'), ('Time zone', 'timezone')],
- 'Climate': [('Climate zone', 'koppen_zone'), ('Temp winter / summer', 'temp_winter_summer'), ('Rainy days', 'rainy_days'), ('Humidity', 'humidity'), ('Natural hazards', 'natural_hazards'), ('Verdict', 'climate_verdict'), ('Air quality', 'air_quality')],
- 'Economy': [('Credit rating', 'credit_rating'), ('Currency', 'currency'), ('Top industries', 'top_industries'), ('Dependence', 'economy_dependence'), ('Economic Complexity', 'economic_complexity')],
+ 'Climate': [('Climate zone', 'koppen_zone'), ('Temp winter / summer', 'temp_winter_summer'), ('Rainy days', 'rainy_days'), ('Humidity', 'humidity'), ('Natural hazards', 'natural_hazards'), ('Air quality', 'air_quality')],
+ 'Economy': [('Credit rating', 'credit_rating'), ('Currency', 'currency'), ('Top industries', 'top_industries'), ('Economic Complexity', 'economic_complexity')],
  'Technology': [('Global Innovation Index', 'gii_rank'), ('E-Government (UN EGDI)', 'egdi'), ('Median broadband speed', 'internet_speed'), ('5G', 'mobile_5g'), ('Online payments', 'online_payments'), ('Startup ecosystem', 'startup_ecosystem')],
- 'Human development & health': [('HDI', 'hdi'), ('Healthcare quality', 'health_quality'), ('Health insurance', 'health_insurance'), ('Medical note', 'medical_note')],
- 'Safety': [('Global Peace Index', 'gpi_rank'), ('US travel advisory', 'travel_advisory'), ('Crime level', 'crime_level')],
- 'Money & tax': [('Non-resident bank account', 'nonresident_bank'), ('Banks & Russian clients', 'russian_clients_banking'), ('FATF status', 'fatf_status'), ('CRS exchange', 'crs_participant'), ('Tax treaty with Russia', 'tax_treaty_russia'), ('Wealth / inheritance / CGT', 'wealth_inheritance_tax'), ('CFC rules', 'cfc_rules')],
+ 'Human development & health': [('HDI', 'hdi')],
+ 'Safety': [('Global Peace Index', 'gpi_rank'), ('US travel advisory', 'travel_advisory')],
+ 'Money & tax': [('FATF status', 'fatf_status'), ('CRS exchange', 'crs_participant'), ('Tax treaty with Russia', 'tax_treaty_russia'), ('Wealth / inheritance / CGT', 'wealth_inheritance_tax'), ('CFC rules', 'cfc_rules')],
  'Business': [('Company setup', 'company_setup'), ('Corporate tax', 'corporate_tax')],
- 'Family & education': [('International schools', 'intl_schools'), ('Top university', 'top_university')],
- 'Connectivity': [('Flights (RU / EU)', 'flights_russia_eu'), ('Visa-free for Russians', 'visa_free_russians')],
- 'For Russian citizens': [('Sanctions position', 'sanctions_status'), ('Applications from RU citizens', 'accepts_russian_applicants')],
- 'Policy dynamics': [('Direction (12 mo)', 'policy_trend'), ('Upcoming changes', 'upcoming_changes')],
+ 'Family & education': [('Top university', 'top_university')],
+ 'Connectivity': [('Visa-free for Russians', 'visa_free_russians')],
+ 'For Russian citizens': [('Sanctions position', 'sanctions_status')],
+
  'Quality of life': [('World Happiness rank', 'happiness'), ('Expat friendliness', 'expat_friendliness'), ('Local language need', 'local_language_need')],
 }
-ORDER = ['Geography & size', 'Climate', 'Economy', 'Technology', 'Human development & health', 'Safety', 'Money & tax', 'Business', 'Family & education', 'Connectivity', 'For Russian citizens', 'Policy dynamics', 'Quality of life']
+ORDER = ['Geography & size', 'Climate', 'Economy', 'Technology', 'Human development & health', 'Safety', 'Money & tax', 'Business', 'Family & education', 'Connectivity', 'For Russian citizens', 'Quality of life']
 HARD_DOM = ('.gov', '.gob.', '.gouv.', '.int', 'worldbank.org', 'imf.org', 'un.org', 'undp.org', 'hdr.undp', 'wipo.int', 'fatf-gafi.org', 'oecd.org', 'visionofhumanity.org', 'worldhappiness.report', 'freedomhouse.org', 'travel.state.gov', 'henleyglobal.com', 'atlas.cid.harvard.edu', 'oec.world', 'who.int', 'speedtest.net', 'ookla.com', 'moodys.com', 'spglobal.com', 'fitchratings.com', 'topuniversities.com', 'ef.com', 'startupblink.com', 'inform-index.org', 'worldriskindex.org', 'nalog.gov.ru', 'minfin.gov.ru', 'cbr.ru', 'europa.eu', 'cbiu.gov.dm')
 def flatten(d):
     """Accept {slug:{key:{..}}} or {slug:{BLOCK:{key:{..}}}}; enforce hard only for official domains."""
@@ -67,7 +67,7 @@ def render(slug, ind, soft):
                 filled += 1; src = x.get('src'); q = {'hard': 'hard/official', 'unsourced': 'unsourced/unverified'}.get(x.get('q'), 'soft/estimate')
                 rows.append((blk, label, esc(x['v']), (f'[source]({src}) — {q}' if src else q)))
             else: rows.append((blk, label, 'No reliable data', '—'))
-    out = ['## Extended Snapshot', '', f'_Coverage: {filled}/{total} fields. Static indicators refreshed quarterly; policy/Russia fields refreshed by the weekly monitor._', '', '| Block | Field | Value | Source / Confidence |', '|---|---|---|---|']
+    out = ['## Extended Snapshot', '', f'_Coverage: {filled}/{total} fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._', '', '| Block | Field | Value | Source / Confidence |', '|---|---|---|---|']
     for b, l, v, s in rows: out.append(f'| {b} | {l} | {v} | {s} |')
     return '\n'.join(out) + '\n', filled, total
 def apply(slug, ind, soft, dry=False):

@@ -92,9 +92,10 @@ Kazakhstan is a primary destination for Russian relocants: visa-free entry, no l
 | Average annual sunshine hours | ~2,200–2,600 h (Astana ~2,500h, Almaty ~2,400h) | [Kazakhstan Weather Service](https://www.kazhydromet.kz/) — hard/official |
 | Average annual temperature | ~5°C annual mean (continental: Astana −15°C Jan to +21°C Jul; Almaty −5°C Jan to +25°C Jul) | [Kazakhstan Weather Service](https://www.kazhydromet.kz/) — hard/official |
 
+
 ## Extended Snapshot
 
-_Coverage: 68/68 fields. Static indicators refreshed quarterly; policy/Russia fields refreshed by the weekly monitor._
+_Coverage: 55/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -112,7 +113,6 @@ _Coverage: 68/68 fields. Static indicators refreshed quarterly; policy/Russia fi
 | Climate | Rainy days | ~80-120 rainy/snowy days/year (varies by region) | [source](https://en.wikipedia.org/wiki/Geography_of_Kazakhstan#Climate) — soft/estimate |
 | Climate | Humidity | ~60-70% avg annual RH | [source](https://en.wikipedia.org/wiki/Geography_of_Kazakhstan#Climate) — soft/estimate |
 | Climate | Natural hazards | Earthquakes (south), floods, extreme cold; INFORM Risk: medium | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
-| Climate | Verdict | Extreme continental: -30°C winter possible; hot summers; Almaty more moderate than Astana. | [source](https://en.wikipedia.org/wiki/Geography_of_Kazakhstan#Climate) — soft/estimate |
 | Climate | Air quality | PM2.5 annual: 20-40 µg/m³; Almaty often unhealthy in winter | [source](https://www.iqair.com/kazakhstan) — soft/estimate |
 | Economy | GDP (nominal) | $306.2B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KZ) — hard/official |
 | Economy | GDP growth | 6.5% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=KZ) — hard/official |
@@ -125,7 +125,6 @@ _Coverage: 68/68 fields. Static indicators refreshed quarterly; policy/Russia fi
 | Economy | Credit rating | S&P: BBB, Moody's: Baa2, Fitch: BBB (all stable, 2024-2026) | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-kazakhstan-at-bbb-outlook-stable-17-05-2024) — hard/official |
 | Economy | Currency | KZT (tenge), managed float; ~-30% vs USD over 5yr (2021-2026) | [source](https://www.xe.com/currencycharts/?from=KZT&to=USD) — soft/estimate |
 | Economy | Top industries | 1. Oil & gas 2. Mining (uranium, copper, gold) 3. Agriculture | [source](https://en.wikipedia.org/wiki/Economy_of_Kazakhstan) — soft/estimate |
-| Economy | Dependence | Heavily dependent on oil/gas exports (~60% of exports) | [source](https://en.wikipedia.org/wiki/Economy_of_Kazakhstan) — soft/estimate |
 | Economy | Economic Complexity | ECI Trade rank: 59th/130 (2024, OEC) | [source](https://oec.world/en/profile/country/kaz) — hard/official |
 | Technology | Internet users | 93% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=KZ) — hard/official |
 | Technology | Fixed broadband subs | 15.3 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=KZ) — hard/official |
@@ -140,14 +139,8 @@ _Coverage: 68/68 fields. Static indicators refreshed quarterly; policy/Russia fi
 | Human development & health | Life expectancy | 74.5 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=KZ) — hard/official |
 | Human development & health | Hospital beds | 6.5 per 1000 (2020) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=KZ) — hard/official |
 | Human development & health | HDI | UNDP HDI 2024: 0.802, rank ~67th/193 (Very High) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
-| Human development & health | Healthcare quality | WHO UHC index: ~72/100 (2021); public healthcare system | [source](https://data.who.int/countries/398) — soft/estimate |
-| Human development & health | Health insurance | Mandatory social health insurance for residents | [source](https://en.wikipedia.org/wiki/Health_in_Kazakhstan) — soft/estimate |
-| Human development & health | Medical note | Public healthcare dominant; private clinics in major cities; medical tourism to Turkey/Russia | [source](https://en.wikipedia.org/wiki/Health_in_Kazakhstan) — soft/estimate |
 | Safety | Global Peace Index | GPI 2025: rank 43-50, score ~1.8 (entered top 50, Sep 2026) | [source](https://astanatimes.com/2026/09/kazakhstan-enters-top-50-most-peaceful-countries-as-global-peacefulness-declines-report-shows/) — soft/estimate |
 | Safety | US travel advisory | US State Dept: Level 1 – Exercise Normal Precautions | [source](https://www.kt.kz/eng/politics/us_state_department_keeps_kazakhstan_at_lowest_travel_1377997324.html) — soft/estimate |
-| Safety | Crime level | Numbeo Crime Index: 45.20 (Moderate), 2026 | [source](https://www.numbeo.com/crime/country_result.jsp?country=Kazakhstan) — soft/estimate |
-| Money & tax | Non-resident bank account | Yes, but Russian clients face increasing restrictions (since Jan 2025) | [source](https://english.nv.ua/business/kazakhstan-banks-shun-russian-clients-50485693.html) — soft/estimate |
-| Money & tax | Banks & Russian clients | 4 Kazakh banks suspended Russian clients (Jan 2025); SWIFT: yes; Mir works via VTB; Visa/MC: yes | [source](https://english.nv.ua/business/kazakhstan-banks-shun-russian-clients-50485693.html) — soft/estimate |
 | Money & tax | FATF status | Not on grey/black list (June 2026) | [source](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2026.html) — hard/official |
 | Money & tax | CRS exchange | Yes, since 2021 | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/crs-by-jurisdiction/) — hard/official |
 | Money & tax | Tax treaty with Russia | Yes, DTT in force since 1997 | [source](https://www.nalog.gov.ru/rn77/about_fts/international_cooperation/double_taxation/) — hard/official |
@@ -155,14 +148,9 @@ _Coverage: 68/68 fields. Static indicators refreshed quarterly; policy/Russia fi
 | Money & tax | CFC rules | Yes, CFC rules with exemption list for certain countries (updated May 2025) | [source](https://en.orda.kz/list-of-countries-for-exemption-from-kazakhstan-cfc-rules/) — soft/estimate |
 | Business | Company setup | 3-5 business days via PSC; cost ~$100-300 (LLP) | [source](https://egov.kz/cms/en/articles/business_registration) — soft/estimate |
 | Business | Corporate tax | 20% headline; 25% for banks/gambling from 2026 | [source](https://www.bakermckenzie.com/en/insight/publications/2025/09/kazakhstan-new-tax-code) — soft/estimate |
-| Family & education | International schools | Several in Almaty/Astana (Haileybury, QSI, Miras); annual $8,000-25,000 | [source](https://www.international-schools-database.com/in/kazakhstan) — soft/estimate |
 | Family & education | Top university | Al-Farabi Kazakh National University; QS rank: ~150-200 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
-| Connectivity | Flights (RU / EU) | Direct flights to Moscow (multiple daily); EU via Istanbul/Frankfurt; ~3.5h Moscow-Almaty | unsourced/unverified |
 | Connectivity | Visa-free for Russians | Visa-free for up to 90 days within 180-day period | [source](https://en.wikipedia.org/wiki/Visa_policy_of_Kazakhstan) — soft/estimate |
 | For Russian citizens | Sanctions position | No independent sanctions; cooperates on export controls to prevent Russia circumvention | [source](https://en.orda.kz/kazakhstan-tightens-export-controls-complicating-russias-sanctions-evasion-9580) — soft/estimate |
-| For Russian citizens | Applications from RU citizens | Accepts: residence permits available; new rules from July 2026; significant Russian migration since 2022 | [source](https://kt.kz/eng/politics/new_rules_for_issuing_residence_permits_1378012345.html) — soft/estimate |
-| Policy dynamics | Direction (12 mo) | Tightening: new residence rules (Jul 2026); bank restrictions on Russians (Jan 2025); CFC exemption updated (May 2025). | [source](https://kt.kz/eng/politics/new_rules_for_issuing_residence_permits_1378012345.html) — soft/estimate |
-| Policy dynamics | Upcoming changes | New Tax Code 2026: CIT for banks/gambling rises to 25%; CFC rules refined | [source](https://www.bakermckenzie.com/en/insight/publications/2025/09/kazakhstan-new-tax-code) — soft/estimate |
 | Quality of life | World Happiness rank | UN WHR 2025: rank 33/147, score 6.633/10 | [source](https://data.worldhappiness.report/country/KAZ) — hard/official |
 | Quality of life | Expat friendliness | InterNations Expat Insider 2025: ~rank 45-55 | [source](https://www.internations.org/expat-insider/) — soft/estimate |
 | Quality of life | Local language need | Russian widely spoken; Kazakh official; EF EPI: rank 107/123, score 417 (low proficiency) | [source](https://www.ef.com/epi/) — hard/official |

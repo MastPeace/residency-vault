@@ -149,9 +149,10 @@ Thailand is consistently a top global destination for retirees and nomads. The D
 | Average annual sunshine hours | ~2,500 h | [Current Results](https://www.currentresults.com/Weather/Thailand/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~28 °C | [Wikipedia](https://en.wikipedia.org/wiki/Thailand#Climate) — hard/official |
 
+
 ## Extended Snapshot
 
-_Coverage: 63/68 fields. Static indicators refreshed quarterly; policy/Russia fields refreshed by the weekly monitor._
+_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -169,7 +170,6 @@ _Coverage: 63/68 fields. Static indicators refreshed quarterly; policy/Russia fi
 | Climate | Rainy days | Bangkok: ~130 rainy days per year | [source](https://en.wikipedia.org/wiki/Bangkok#Climate) — soft/estimate |
 | Climate | Humidity | Bangkok: ~73% avg annual humidity (high year-round) | [source](https://en.wikipedia.org/wiki/Bangkok#Climate) — soft/estimate |
 | Climate | Natural hazards | Floods (especially monsoon season), occasional tsunamis, tropical storms; moderate earthquake risk in north; INFORM Risk moderate | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
-| Climate | Verdict | Hot and humid year-round; best Nov-Feb (cooler, dry); Mar-May very hot; Jun-Oct monsoon rains; comfortable only with AC. | [source](https://en.wikipedia.org/wiki/Climate_of_Thailand) — soft/estimate |
 | Climate | Air quality | PM2.5 annual avg ~24 µg/m³ (moderate; Bangkok and Chiang Mai have severe seasonal smog Feb-Apr) | [source](https://www.iqair.com/thailand) — soft/estimate |
 | Economy | GDP (nominal) | $577.0B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TH) — hard/official |
 | Economy | GDP growth | 2.4% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=TH) — hard/official |
@@ -182,7 +182,6 @@ _Coverage: 63/68 fields. Static indicators refreshed quarterly; policy/Russia fi
 | Economy | Credit rating | S&P: BBB+ (stable), Moody's: Baa1 (stable), Fitch: BBB+ (stable) | [source](https://www.nationthailand.com/business/40051238) — soft/estimate |
 | Economy | Currency | THB (baht), managed float; ~-10% vs USD over 5yr (2021-2026) | [source](https://countryeconomy.com/countries/thailand) — soft/estimate |
 | Economy | Top industries | Manufacturing (~27%), Services (~60%), Agriculture (~8%); Tourism ~12% GDP direct | [source](https://en.wikipedia.org/wiki/Economy_of_Thailand) — soft/estimate |
-| Economy | Dependence | Tourism and exports-dependent; automotive, electronics manufacturing; agricultural exports (rice, rubber) | [source](https://en.wikipedia.org/wiki/Economy_of_Thailand) — soft/estimate |
 | Economy | Economic Complexity | ECI Trade rank ~25/130 (2024 est.) | [source](https://oec.world/en/profile/country/tha) — soft/estimate |
 | Technology | Internet users | 91% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=TH) — hard/official |
 | Technology | Fixed broadband subs | 14.9 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=TH) — hard/official |
@@ -197,14 +196,8 @@ _Coverage: 63/68 fields. Static indicators refreshed quarterly; policy/Russia fi
 | Human development & health | Life expectancy | 76.6 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=TH) — hard/official |
 | Human development & health | Hospital beds | No reliable data | — |
 | Human development & health | HDI | UNDP HDI 2022: 0.803, rank 66/193 (very high) | [source](https://countryeconomy.com/hdi/thailand) — soft/estimate |
-| Human development & health | Healthcare quality | CEOWorld 2024: rank ~40; Numbeo Healthcare Index: ~76 (good); UHC achieved | [source](https://ceoworld.biz/2024/03/30/best-healthcare-systems-2024/) — soft/estimate |
-| Human development & health | Health insurance | Not mandatory for expats but strongly recommended; private ~$1,000-$3,000/year; public system for citizens (30-baht scheme) | [source](https://www.moph.go.th/) — soft/estimate |
-| Human development & health | Medical note | World-class private hospitals (Bumrungrad, Bangkok Hospital); medical tourism hub; public system adequate; affordable private care | [source](https://www.moph.go.th/) — soft/estimate |
 | Safety | Global Peace Index | GPI 2025: rank 86 (dropped 5 spots), score ~2.1 | [source](https://www.nationthailand.com/sustaination/40052489) — soft/estimate |
 | Safety | US travel advisory | US State Dept Level 1: Exercise normal precautions (some areas Level 2-3: southern border provinces) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Thailand.html) — hard/official |
-| Safety | Crime level | Numbeo Crime Index: 36.44 (moderate) | [source](https://www.numbeo.com/crime/country_result.jsp?country=Thailand) — soft/estimate |
-| Money & tax | Non-resident bank account | Difficult; most banks require long-term visa (Non-Immigrant) and work permit; some allow with tourist visa but increasingly restricted | [source](https://www.bot.or.th/) — soft/estimate |
-| Money & tax | Banks & Russian clients | Russian clients face difficulty; some banks accept with proper visa; Mir not working; Visa/MC from non-sanctioned banks may work | [source](https://www.bot.or.th/) — soft/estimate |
 | Money & tax | FATF status | Not on FATF grey or black lists | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
 | Money & tax | CRS exchange | Yes, CRS participant since 2017 (first exchange Sep 2020, delayed from 2018) | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/) — hard/official |
 | Money & tax | Tax treaty with Russia | Yes, DTT in force since 2003; Russia suspended key articles Aug 2023 | [source](https://www.minfin.ru/en/document/?id_4=12956) — soft/estimate |
@@ -212,14 +205,9 @@ _Coverage: 63/68 fields. Static indicators refreshed quarterly; policy/Russia fi
 | Money & tax | CFC rules | CFC rules introduced 2024 (tax year 2025+); foreign company income may be attributed if Thai resident controls >50% | [source](https://taxsummaries.pwc.com/thailand) — soft/estimate |
 | Business | Company setup | ~4-6 days, ~$500-$2,000; foreign ownership limited (51% Thai unless BOI-promoted or Amity Treaty for US) | [source](https://www.dbd.go.th/) — soft/estimate |
 | Business | Corporate tax | 20% standard CIT; reduced for SMEs (15% on first 300K THB profit) | [source](https://taxsummaries.pwc.com/thailand) — soft/estimate |
-| Family & education | International schools | 150+ in Bangkok alone; $8,000-$30,000/year (British, American, IB curricula) | [source](https://www.isat.or.th/) — soft/estimate |
 | Family & education | Top university | Chulalongkorn University; QS World 2026 rank ~229 | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
-| Connectivity | Flights (RU / EU) | Direct flights Moscow-Bangkok/Phuket (Aeroflot, ~9h); hub flights to EU via Middle East carriers (~14h from Moscow); good connectivity | [source](https://www.aeroflot.com/) — soft/estimate |
 | Connectivity | Visa-free for Russians | Visa-free for Russian citizens (60 days, since May 2024; was 30 days before); extendable by 30 days | [source](https://www.thaiembassy.com/) — soft/estimate |
 | For Russian citizens | Sanctions position | Thailand has not imposed sanctions on Russia; maintains neutral stance; heavy Russian tourism and expat presence continues | [source](https://www.reuters.com/world/asia-pacific/thailand-russia-relations-2024/) — soft/estimate |
-| For Russian citizens | Applications from RU citizens | Russian citizens welcome; long-term visas (Elite, retirement, DTV); residence via investment/employment; police certificate needed | [source](https://www.immigration.go.th/) — soft/estimate |
-| Policy dynamics | Direction (12 mo) | Liberalising: 60-day visa-free for Russians (May 2024); DTV digital nomad visa (Jul 2024, 5yr); LTR visa; Elite visa ongoing | [source](https://www.thaigov.go.th/) — soft/estimate |
-| Policy dynamics | Upcoming changes | Tax tightening: foreign-sourced income taxable from 2024 if remitted; Elite visa price increases; potential real estate-linked visa reforms | [source](https://www.rd.go.th/) — soft/estimate |
 | Quality of life | World Happiness rank | World Happiness Report 2025: rank ~55/147 (est. from prior years ~6.0 score) | [source](https://data.worldhappiness.report/country/THA) — soft/estimate |
 | Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank ~6/53 (very high, top for ease of settling in) | [source](https://www.internations.org/expat-insider/) — soft/estimate |
 | Quality of life | Local language need | Thai needed outside tourist areas; English spoken in Bangkok/Phuket but limited; EF EPI rank #116 (very low proficiency) | [source](https://www.ef.com/epi/) — hard/official |

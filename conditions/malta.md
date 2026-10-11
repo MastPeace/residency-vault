@@ -123,9 +123,10 @@ The MPRP (permanent residency, ~€100K+ total outlay) is accessible to Russian 
 | Average annual sunshine hours | 2,957 (Valletta) | ^[https://en.wikipedia.org/wiki/List_of_cities_in_Europe_by_sunshine_duration] hard/official |
 | Average annual temperature | ~18.8°C (Valletta) | ^[https://en.wikipedia.org/wiki/Valletta#Climate] hard/official |
 
+
 ## Extended Snapshot
 
-_Coverage: 68/68 fields. Static indicators refreshed quarterly; policy/Russia fields refreshed by the weekly monitor._
+_Coverage: 55/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -143,7 +144,6 @@ _Coverage: 68/68 fields. Static indicators refreshed quarterly; policy/Russia fi
 | Climate | Rainy days | ~80 rainy days/year | [source](https://en.wikipedia.org/wiki/Malta#Climate) — soft/estimate |
 | Climate | Humidity | ~73% avg annual RH | [source](https://en.wikipedia.org/wiki/Malta#Climate) — soft/estimate |
 | Climate | Natural hazards | Drought, occasional earthquakes; INFORM Risk: low | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
-| Climate | Verdict | Mild winters, hot dry summers; comfortable Oct-May; July-Aug can be uncomfortably hot. | [source](https://en.wikipedia.org/wiki/Malta#Climate) — soft/estimate |
 | Climate | Air quality | PM2.5 annual: ~12-15 µg/m³ (2024), moderate | [source](https://www.iqair.com/malta) — soft/estimate |
 | Economy | GDP (nominal) | $27.8B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MT) — hard/official |
 | Economy | GDP growth | 4.0% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=MT) — hard/official |
@@ -156,7 +156,6 @@ _Coverage: 68/68 fields. Static indicators refreshed quarterly; policy/Russia fi
 | Economy | Credit rating | S&P: A-, Moody's: A2, Fitch: A+ (all stable, 2026) | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-malta-at-a-outlook-stable-21-08-2026) — hard/official |
 | Economy | Currency | EUR (€), free-floating; ~-8% vs USD over 5yr (2021-2026) | [source](https://www.xe.com/currencycharts/?from=EUR&to=USD) — soft/estimate |
 | Economy | Top industries | 1. Tourism (~27% GDP) 2. Financial services 3. iGaming/online gambling | [source](https://en.wikipedia.org/wiki/Economy_of_Malta) — soft/estimate |
-| Economy | Dependence | Tourism-driven (~27% GDP), also finance, iGaming, manufacturing | [source](https://en.wikipedia.org/wiki/Economy_of_Malta) — soft/estimate |
 | Economy | Economic Complexity | ECI Trade rank: ~60th/130 (2024, OEC) | [source](https://oec.world/en/profile/country/mlt) — hard/official |
 | Technology | Internet users | 94% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=MT) — hard/official |
 | Technology | Fixed broadband subs | 44.5 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=MT) — hard/official |
@@ -171,14 +170,8 @@ _Coverage: 68/68 fields. Static indicators refreshed quarterly; policy/Russia fi
 | Human development & health | Life expectancy | 83.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=MT) — hard/official |
 | Human development & health | Hospital beds | 4.1 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=MT) — hard/official |
 | Human development & health | HDI | UNDP HDI 2024: 0.924, rank ~25th/193 (Very High) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
-| Human development & health | Healthcare quality | WHO UHC index: ~82/100 (2021); public healthcare | [source](https://data.who.int/countries/470) — soft/estimate |
-| Human development & health | Health insurance | Mandatory for employed residents; private €50-150/month | [source](https://en.wikipedia.org/wiki/Health_in_Malta) — soft/estimate |
-| Human development & health | Medical note | Free public healthcare for residents; private hospitals; growing medical tourism | [source](https://en.wikipedia.org/wiki/Health_in_Malta) — soft/estimate |
 | Safety | Global Peace Index | GPI 2025: rank ~32-35, score ~1.4 | [source](https://www.visionofhumanity.org/global-peace-index/) — soft/estimate |
 | Safety | US travel advisory | US State Dept: Level 1 – Exercise Normal Precautions | [source](https://travel.state.gov/en/international-travel/travel-advisories/malta.html) — hard/official |
-| Safety | Crime level | Numbeo Crime Index: 39.19 (Low), 2026 | [source](https://www.numbeo.com/crime/country_result.jsp?country=Malta) — soft/estimate |
-| Money & tax | Non-resident bank account | Yes, non-residents can open accounts (BOV, HSBC Malta) | [source](https://wise.com/gb/blog/opening-bank-account-malta-non-resident) — soft/estimate |
-| Money & tax | Banks & Russian clients | EU sanctions restrict Russian clients; SWIFT: yes; Visa/MC: yes; Mir: no | [source](https://malta.representation.ec.europa.eu/news/eu-adopts-20th-package-sanctions-against-russia-2026-04-23_en) — hard/official |
 | Money & tax | FATF status | Not on grey/black list (exited grey list 2022; clean June 2026) | [source](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2026.html) — hard/official |
 | Money & tax | CRS exchange | Yes, since 2017 | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/crs-by-jurisdiction/) — hard/official |
 | Money & tax | Tax treaty with Russia | Yes, DTT in force since 2001; amended 2020 | [source](https://foreign.gov.mt/russian-federation/taxation/) — hard/official |
@@ -186,14 +179,9 @@ _Coverage: 68/68 fields. Static indicators refreshed quarterly; policy/Russia fi
 | Money & tax | CFC rules | Yes, CFC rules under EU ATAD (since 2019) | [source](https://en.wikipedia.org/wiki/Economy_of_Malta) — soft/estimate |
 | Business | Company setup | 3-5 days; cost ~€245 registration + €1,500-4,000 professional fees | [source](https://hubpymalta.com/malta-company-formation-guide) — soft/estimate |
 | Business | Corporate tax | 35% headline; effective ~5% with refund system | [source](https://en.wikipedia.org/wiki/Economy_of_Malta) — soft/estimate |
-| Family & education | International schools | Several (Verdala, QSI, St Edward's); annual ~€10,000-20,000 | [source](https://www.international-schools-database.com/in/malta) — soft/estimate |
 | Family & education | Top university | University of Malta; QS rank: 851-900 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
-| Connectivity | Flights (RU / EU) | No direct flights to Russia (EU ban); EU hubs via Frankfurt/Rome; ~4-5h from Moscow via Istanbul | [source](https://www.consilium.europa.eu/en/policies/sanctions/) — hard/official |
 | Connectivity | Visa-free for Russians | Visa required (Schengen); Schengen visas for Russians effectively suspended since 2022 | [source](https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en) — hard/official |
 | For Russian citizens | Sanctions position | EU member: implements all EU sanctions on Russia; blocked some packages over shipping concerns (2025) | [source](https://timesofmalta.com/article/malta-blocks-eu-new-russia-sanctions-fears-shipping-industry.1113060) — soft/estimate |
-| For Russian citizens | Applications from RU citizens | Restricted: golden passport under EU scrutiny; residence possible but complex for Russians | [source](https://www.europarl.europa.eu/doceo/document/CRE-10-2025-05-07-ITM-015_EN.html) — soft/estimate |
-| Policy dynamics | Direction (12 mo) | Stable/tightening; FATF grey-list exit (2022); golden passport restricted under EU pressure (2025). | [source](https://timesofmalta.com/article/malta-makes-good-progress-on-grey-listing-action-plan-fatf-president.909586) — soft/estimate |
-| Policy dynamics | Upcoming changes | New EU AML authority (AMLA) enforcement from 2026; ongoing FATF follow-up | [source](https://www.fatf-gafi.org/en/countries/detail/Malta.html) — soft/estimate |
 | Quality of life | World Happiness rank | UN WHR 2025: rank 43/147, score 6.436/10 | [source](https://data.worldhappiness.report/country/MLT) — hard/official |
 | Quality of life | Expat friendliness | InterNations Expat Insider 2025: ~rank 40-45 | [source](https://www.internations.org/expat-insider/) — soft/estimate |
 | Quality of life | Local language need | English is official; EF EPI: very high (rank ~top 10); no Maltese needed | [source](https://www.ef.com/epi/) — hard/official |
