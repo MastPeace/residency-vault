@@ -46,7 +46,12 @@ def verify_links(soft):
         for x in v.values():
             if isinstance(x, dict) and x.get('src') in res and not res[x['src']]: x['dead_src'] = x['src']; x['src'] = None; x['q'] = 'unsourced'; dead += 1
     return dead
+def weekly_window():
+    """Monday 02:30-06:00 UTC = weekly monitor run; do not touch condition pages then."""
+    now = datetime.datetime.now(datetime.timezone.utc)
+    return now.weekday() == 0 and (2, 30) <= (now.hour, now.minute) < (6, 0)
 def prepare(n):
+    if weekly_window(): return {'done': True, 'reason': 'weekly monitor window (Mon 02:30-06:00 UTC), retry next tick'}
     st = json.loads(STATE.read_text()) if STATE.exists() else {}
     today = datetime.date.today(); cand = []
     for s in registry():
@@ -94,7 +99,16 @@ def finalize(wd):
             rep['pushed'] = pr.returncode == 0
             if pr.returncode: rep['git_error'] = pr.stderr.replace(tok, '***')[-200:]
     return rep
+def pending():
+    st = json.loads(STATE.read_text()) if STATE.exists() else {}
+    today = datetime.date.today(); n = 0
+    for s in registry():
+        if not (COND / f'{s}.md').exists() or st.get(s, 0) >= MAX_ATTEMPTS: continue
+        d = snap_date(s)
+        if d is None or (today - d).days > STALE_DAYS: n += 1
+    return n
 if __name__ == '__main__':
     c = sys.argv[1]
+    if c == 'pending': print(f'pending={pending()}')
     if c == 'prepare': print(json.dumps(prepare(int(sys.argv[2]) if len(sys.argv) > 2 else 6), ensure_ascii=False))
     elif c == 'finalize': print(json.dumps(finalize(sys.argv[2]), ensure_ascii=False))
