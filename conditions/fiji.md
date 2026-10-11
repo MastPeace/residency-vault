@@ -1,0 +1,132 @@
+---
+title: Fiji — Residency & Citizenship Conditions
+created: 2026-10-11
+updated: 2026-10-11
+last_checked: 2026-10-11
+type: entity
+tags: [residence, citizenship, tax, retired, investment, clear_pathway]
+category: clear_pathway
+confidence: medium
+sources:
+  - https://www.immigration.gov.fj/
+  - https://www.foreignaffairs.gov.fj/fiji-embassy-washington-dc-usa/residency
+  - https://www.parliament.gov.fj/wp-content/uploads/2026/06/Act-10-Citizenship-of-Fiji-Amendment-Act-2026.pdf
+  - https://www.goldenvisas.com/fiji
+country_code: FJ
+---
+
+## Overview
+Fiji is the largest and most developed economy of the Pacific Islands, a former British colony retaining English common law and an English-language professional services sector. It is a popular South Pacific destination for retirees and investors, with two residence routes (Investor Permit and Residence on Assured Income) and no citizenship-by-investment program. Naturalisation was historically 5 years of lawful presence, but the Citizenship of Fiji (Amendment) Act 2026 has begun phasing in an 8-year clock. ^[https://www.parliament.gov.fj/wp-content/uploads/2026/06/Act-10-Citizenship-of-Fiji-Amendment-Act-2026.pdf]
+
+## Residency Programs
+
+| Type | Official Program | Key Conditions | Duration | Detail |
+|------|-----------------|----------------|----------|--------|
+| investment_residency | Investor Permit | F$50,000 (3 yr) / F$250,000 (7 yr) / F$500,000 in approved project | 3 or 7 yr | [[#investment-residency]] |
+| passive_income_residency | Not available | — | — | — |
+| digital_nomad_visa | Not available | — | — | — |
+| highly_skilled_employment | Not available | — | — | — |
+| startup_entrepreneur | Investor Permit (business) | FTIB-approved project; Foreign Investment Certificate | 3 or 7 yr | [[#investment-residency]] |
+| employment_residency | Work Permit | Employer-sponsored; local labour-market test | 1–3 yr | [[#employment-residency]] |
+| student_residency | Student Permit | Enrolment in Fiji institution | Course duration | — |
+| family_reunification | Co-Extensive Residence | Dependent of permit holder/citizen | Aligned with sponsor | — |
+| retired_residency | Residence Permit on Assured Income | 45+, F$100,000 deposit (waived if property bought) | Renewable | [[#retired-residency]] |
+| citizenship_by_investment | Not available | — | — | — |
+
+## Per-Program Detail
+
+### investment_residency
+- **Official name**: Investor Permit (Immigration Act 2003 s.9(2)(c); Immigration Regulation 2007 s.39)
+- **Conditions**: F$50,000 in an approved project → 3-year permit; F$250,000 → 7-year permit; F$500,000 alternative. Business must be approved by the Fiji Trade and Investment Bureau (FTIB) via a Foreign Investment Certificate. ^[https://www.goldenvisas.com/fiji]
+- **Duration / renewal**: 3 or 7 years, renewable while investment is maintained.
+- **Path to citizenship**: Lawful presence counts toward naturalisation clock (5 yrs historically; 8 yrs transitional from 2026).
+- **Official source**: https://www.immigration.gov.fj/investor-permit-for-non-citizen-investors
+- **Community verdict**: Works well (mature, well-documented route; English common law).
+
+### retired_residency
+- **Official name**: Residence Permit on Assured Income (retirement route)
+- **Conditions**: Age 45+; health insurance; assured foreign income/assets sufficient not to become a public charge; F$100,000 deposit into a local bank (waived if applicant has purchased Fiji property, with documentary proof). Additional F$30,000/yr (family of 2) or F$40,000/yr (up to 5) must be deposited annually. ^[https://www.foreignaffairs.gov.fj/fiji-embassy-washington-dc-usa/residency]
+- **Duration / renewal**: Renewable; repatriation of funds requires Immigration + Reserve Bank clearance.
+- **Path to citizenship**: Same naturalisation clock (5 yrs → 8 yrs transitional).
+- **Official source**: https://www.foreignaffairs.gov.fj/fiji-embassy-washington-dc-usa/residency
+- **Community verdict**: Works well (among the easier Pacific retirement permits; 45+ age floor).
+
+### employment_residency
+- **Official name**: Work Permit
+- **Conditions**: Binding job offer from Fiji employer; employer demonstrates no suitable local candidate.
+- **Duration / renewal**: 1–3 years, tied to employer.
+- **Path to citizenship**: Counts toward naturalisation.
+- **Official source**: https://www.immigration.gov.fj/
+- **Community verdict**: Mixed (labour-market test; employer-dependent).
+
+### citizenship_by_investment
+Not available. Fiji has no citizenship-by-investment program.
+
+## Citizenship
+- **Residence requirement**: 5 of the last 10 years lawful presence (historic standard). The 2026 Amendment Act sets an 8-of-10-years requirement from commencement until 1 Jan 2035, and from 2035 additionally requires a valid permanent residence permit. ^[https://www.parliament.gov.fj/wp-content/uploads/2026/06/Act-10-Citizenship-of-Fiji-Amendment-Act-2026.pdf]
+- **Language**: Adequate knowledge of English (or another official language).
+- **Dual citizenship**: Permitted (since 2009); no renunciation required. ^[https://www.foreignaffairs.gov.fj/fiji-high-commission-new-zealand/fiji-citizenship]
+- **By marriage**: 3 of 5 years lawful presence.
+
+## Tax
+Progressive 0%–39% on worldwide income for tax residents; temporary residents are exempt on foreign-source income. Tax residency: permanent home in Fiji or 183+ days presence. ^[https://www.sebsauerborn.com/countries/fiji]
+
+## IT / Digital Nomad
+No dedicated digital-nomad visa. Remote workers typically use the Investor Permit or Assured Income Permit routes, or a standard work permit.
+
+## Yacht / Maritime
+Major South Pacific cruising hub (Denarau/Port Denarau, Savusavu, Suva); Commonwealth flag registration and marina infrastructure well established. [[yacht-captain]] relevance moderate.
+
+## Notes for RU Citizens
+No dedicated restrictions; standard visa/consular processing applies. Russian citizens require a visa for Fiji (no visa-free agreement). English-language professional services ease the process. [[portugal]] offers an alternative EU route for comparison.
+
+## Community Pulse
+Expat reporting is thin but generally positive for retirees and investors; the main friction is paperwork and consular processing times rather than rejection risk. No major backlog scandals comparable to Portugal's AIMA. The 2026 citizenship reform (8-year clock) is the main new watch item.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+| Population | ~929,800 (2024 est.) | [Freedom House](https://freedomhouse.org/country/fiji/freedom-world/2026) — hard/official |
+| Main religion | Christianity (Methodist/Catholic; large Hindu minority) | [Wikipedia](https://en.wikipedia.org/wiki/Fiji#Religion) — hard/official |
+| Main language | English, iTaukei (Fijian), Fiji Hindi | [Wikipedia](https://en.wikipedia.org/wiki/Fiji) — hard/official |
+| Main city (capital or largest) | Suva | [Wikipedia](https://en.wikipedia.org/wiki/Suva) — hard/official |
+| On the coast? | Yes (island nation, ~1,129 km coastline) | Geographical fact [soft/estimate] |
+| Tourism impact in season | High — tourism ≈20–40% of GDP; peak Jun–Oct | [RBA](https://www.rba.gov.au/publications/bulletin/2023/jun/economic-developments-in-the-south-pacific.html) [soft/estimate] |
+| GDP per capita (PPP) | ~$13,600 (2024) | [TheGlobalEconomy / World Bank](https://www.theglobaleconomy.com/Fiji/gdp_per_capita_ppp/) — hard/official |
+| Median net monthly salary | No reliable data | confidence low |
+| Cost of living index | No reliable data | confidence low |
+| Monthly rent, 1-bedroom apartment | No reliable data | confidence low |
+| Effective personal tax rate for remote workers | 0–39% progressive; temporary residents exempt on foreign income | [Seb Sauerborn](https://www.sebsauerborn.com/countries/fiji) [soft/estimate] |
+| Remote-work / self-employment residence available? | No dedicated DN visa | See [[#overview]] |
+| Years to citizenship | 5 yrs (transitioning to 8 yrs under 2026 Act) | [Parliament of Fiji](https://www.parliament.gov.fj/wp-content/uploads/2026/06/Act-10-Citizenship-of-Fiji-Amendment-Act-2026.pdf) |
+| Maximum permitted absence during residence | Not clearly specified | confidence low |
+| Passport strength after citizenship | 88 visa-free destinations (Henley Jan 2026, rank 54) | [Henley & Partners](https://cde.news/wp-content/uploads/2026/01/Henley-Passport-Index-2026-January-Global-Ranking.pdf) — hard/official |
+| Rule of Law Index | No reliable data | confidence low |
+| Freedom House score | 72/100 Free (2026); 69/100 Partly Free (2025) | [Freedom House](https://freedomhouse.org/country/fiji/freedom-world/2026) — hard/official |
+| Average annual sunshine hours | ~3,250 h (Suva, ~8.9 h/day) | [temperatures.com](https://temperatures.com/weather/suva/climate) [soft/estimate] |
+| Average annual temperature | ~25–26 °C (Suva) | [monthlyclimate.com](https://monthlyclimate.com/fiji/suva) — hard/official |
+
+## Country Card
+
+### General description
+Fiji is a tropical South Pacific archipelago of ~330 islands and the region's second-largest economy, with a tourism-driven service sector and English common law. It is a mainstream retirement and investor destination rather than a strong-passport play, offering a low age floor (45) and property-based deposit waiver. The passport is weak (88 destinations) but dual citizenship is permitted.
+
+### Well-known strong points
+- Mature, well-documented retiree and investor residence routes
+- English common law and English-language professional services
+- Dual citizenship permitted since 2009
+- Low retiree age floor (45) with property-based deposit waiver
+- Stable, improving democracy (Freedom House "Free" since 2026)
+
+### Well-known problems
+- Weak passport (88 visa-free destinations, Henley rank 54)
+- Citizenship clock lengthening from 5 to 8 years (2026 reform)
+- No digital-nomad visa and no citizenship-by-investment program
+- Remote geography and high import-dependent cost of living
+- Deposit requirements for retirees (F$100,000) can be a hurdle
+
+## Status
+- **Last monitored**: 2026-10-11
+- **Recent changes**: Citizenship of Fiji (Amendment) Act 2026 — naturalisation residence rising to 8-of-10 years, PR requirement from 2035.
+- **Watch items**: Transitional naturalisation window (to 2035); possible permanent-residence requirement formalisation.

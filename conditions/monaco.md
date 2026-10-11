@@ -1,0 +1,125 @@
+---
+title: Monaco — Residency & Citizenship Conditions
+created: 2026-10-11
+updated: 2026-10-11
+last_checked: 2026-10-11
+type: entity
+tags: [residence, citizenship, tax, strong_passport]
+category: strong_passport
+confidence: high
+sources:
+  - https://www.monacorg.mc/monaco-residency-requirements
+  - https://monservicepublic.gouv.mc/en/themes/tax/information/general-information/tax-in-monaco
+  - https://privatebank.jpmorgan.com/nam/en/insights/wealth-planning/thinking-of-moving-to-monaco
+  - https://www.monacorg.mc/monaco-taxes
+country_code: MC
+---
+
+## Overview
+Monaco is a sovereign city-state on the French Riviera, famous for **0% personal income tax** (in force since 1869). It has no residency-by-investment or citizenship-by-investment program: residence is granted on proof of financial self-sufficiency — in practice a bank deposit of at least **€500,000** plus proof of accommodation — and citizenship is discretionary and extremely rare. Non-EU nationals must first obtain a French long-stay visa (Type D). ^[https://www.monacorg.mc/monaco-residency-requirements]
+
+## Residency Programs
+
+| Type | Official Program | Key Conditions | Duration | Detail |
+|------|-----------------|----------------|----------|--------|
+| investment_residency | Carte de séjour (residence) | No formal investment visa; €500,000+ bank deposit + proof of accommodation | 1 yr → 3 yr → 10 yr | [[#carte-de-sejour]] |
+| passive_income_residency | Residence without professional activity | €500,000+ deposit held in a Monaco bank + accommodation | 1 yr renewable | [[#carte-de-sejour]] |
+| digital_nomad_visa | Not available | — | — | — |
+| highly_skilled_employment | Not available | — | — | — |
+| startup_entrepreneur | Business-owner residence | Incorporate a Monaco company, own ≥25% | 1 yr | [[#business-residence]] |
+| employment_residency | Employment residence | Job offer from a Monaco employer (work permit) | 1 yr | [[#business-residence]] |
+| student_residency | Not available | — | — | — |
+| family_reunification | Family residence | Dependent of a resident; dependent accommodation/means | Tied to sponsor | — |
+| retired_residency | Retirement residence | Same as passive-income (bank deposit + accommodation) | 1 yr | [[#carte-de-sejour]] |
+| citizenship_by_investment | Not available | Citizenship by the Sovereign Prince's discretion only | — | [[#citizenship]] |
+
+## Per-Program Detail
+
+### Carte de séjour
+- **Official name**: Carte de séjour (residence permit)
+- **Conditions**: Demonstrate sufficient financial means — banks require a €500,000+ deposit held in a Monaco bank (€1M+ sometimes requested); proof of accommodation (lease or purchase); private health insurance; clean criminal record; genuine residence (183+ days). Non-EU: French Type D visa first. ^[https://www.monacorg.mc/monaco-residency-requirements]
+- **Duration / renewal**: Carte Temporaire 1 year (renewable to 3); Carte Ordinaire 3 years; Carte Privilégiée 10 years after ~10 years residence.
+- **Path to citizenship**: 10 years residence minimum, then discretionary decision by the Prince.
+- **Official source**: https://monservicepublic.gouv.mc/en/themes/nationality-and-residency
+- **Community verdict**: Works well for the wealthy — the real gate is capital and housing, not bureaucracy; processing ~3–6 months.
+
+### Business residence
+- **Official name**: Residence via business/employment in Monaco
+- **Conditions**: Set up a Monaco company (hold ≥25%) or obtain a contract with a Monaco employer; proof of accommodation still required.
+- **Duration / renewal**: 1 year, renewable.
+- **Path to citizenship**: 10 years + discretionary approval.
+- **Official source**: https://monservicepublic.gouv.mc
+- **Community verdict**: Works well for business owners; employment quota for non-Monégasques is limited.
+
+## Citizenship
+- **Residence requirement**: generally **10 years** (20 for some); naturalisation is at the **discretion of the Sovereign Prince** and granted very rarely (only a handful of foreigners per year). ^[https://privatebank.jpmorgan.com/nam/en/insights/wealth-planning/thinking-of-moving-to-monaco]
+- **Language**: French (implicit requirement).
+- **Dual citizenship**: NOT permitted — must renounce previous nationality.
+
+## Tax
+- **Personal income tax**: **0%** for Monégasques and foreign residents — **except French nationals**, who remain liable to French income tax under the 1963 Franco-Monégasque convention. ^[https://monservicepublic.gouv.mc/en/themes/tax/information/general-information/tax-in-monaco]
+- **Corporate tax (Impôt sur les Bénéfices)**: 25% on companies with >25% of turnover outside Monaco; fully exempt if ≥75% of revenue is Monaco-based. ^[https://www.monacorg.mc/monaco-taxes]
+- **No** wealth tax, annual property tax, or capital-gains tax (most cases).
+- **VAT**: 20% (aligned with France). Inheritance/gift duty only on Monaco-situs assets.
+- Only ~10 double-tax treaties — foreign-source dividends (US 30%, Swiss 35%) may be taxed at source with no relief. ^[https://www.monacorg.mc/monaco-taxes]
+
+## IT / Digital Nomad
+No digital-nomad visa and no dedicated IT residence. Remote workers can qualify only via the self-sufficiency route (€500K+ deposit + housing). The 0% income tax is attractive to high earners, but the capital requirement makes Monaco inaccessible to most nomads — unlike [[portugal]]'s D8 or [[andorra]]'s D.3.
+
+## Yacht / Maritime
+Monaco is a global yachting capital — Port Hercule and the Monaco Yacht Show; premier superyacht berthing and a long maritime tradition. Monaco-flag registration is available, and the state has extensive marinas and yacht services. Strong appeal for yacht owners (see also [[malta]]).
+
+## Notes for RU citizens
+As of 2026, Monaco applies sanctions-compliance review to Russian and Belarusian nationals, extending processing times; some banks refuse RU-origin accounts. The €500K+ deposit requirement and French Type-D visa path remain the operational hurdles. Banking access for Russian nationals has tightened significantly since 2022.
+
+## Community pulse
+Residence is widely seen as "pay-to-live" for the wealthy: capital and property are the real filters. Complaints center on housing costs (among the world's highest, ~€50,000–100,000/m²) and the near-impossibility of citizenship. Processing is efficient once funds are placed.
+
+## Country Snapshot
+
+| Field | Value | Source / Confidence |
+|---|---|---|
+
+| Population | ~39,000 (World Bank 2025) | [hard/official](https://data.worldbank.org/country/monaco) |
+| Main religion | Roman Catholicism | [hard/official](https://www.cia.gov/the-world-factbook/countries/monaco/) |
+| Main language | French (official) | [hard/official](https://www.cia.gov/the-world-factbook/countries/monaco/) |
+| Main city | Monaco (city-state; Monte-Carlo quarter) | [hard/official](https://www.cia.gov/the-world-factbook/countries/monaco/) |
+| On the coast? | Yes — Mediterranean, French Riviera [soft/estimate] | soft/estimate |
+| Tourism impact in season | High — summer and Grand Prix (May) surge [soft/estimate] | soft/estimate |
+| GDP per capita (PPP) | No reliable data (not published by World Bank; nominal GDP per capita among world's highest)  low | [hard/official](https://data.worldbank.org/country/monaco) |
+| Median net monthly salary | No reliable data (very high; no income tax)  low | [hard/official](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Monaco) |
+| Cost of living index | ~110 (Numbeo, NYC=100; among world's highest)  [soft/estimate] | [soft/estimate](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp) |
+| Monthly rent, 1-bedroom apartment | ~€3,500+ (city centre)  [soft/estimate] | [soft/estimate](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Monaco) |
+| Effective personal tax rate for remote workers | 0% (non-French residents) | [hard/official](https://monservicepublic.gouv.mc/en/themes/tax/information/general-information/tax-in-monaco) |
+| Remote-work / self-employment residence available? | No dedicated visa — self-sufficiency route only | See [[#carte-de-sejour]] | hard/official |
+| Years to citizenship | 10 years + discretionary approval | See [[#citizenship]] | hard/official |
+| Maximum permitted absence | ~183-day presence expected for tax residence | [soft/estimate] | soft/estimate |
+| Passport strength | 177 visa-free destinations (Henley 2026) | [hard/official](https://www.henleyglobal.com/passport-index/ranking) |
+| Rule of Law Index | No reliable data (not ranked in WJP)  low | [hard/official](https://worldjusticeproject.org/rule-of-law-index/global/2024) |
+| Freedom House score | 82/100 Free (2025) | [hard/official](https://freedomhouse.org/country/monaco/freedom-world/2025) |
+| Average annual sunshine hours | ~2,700 h  [soft/estimate] | [soft/estimate](https://www.climatestotravel.com/climate/monaco) |
+| Average annual temperature | ~16 °C (Mediterranean)  [soft/estimate] | [soft/estimate](https://www.climatestotravel.com/climate/monaco) |
+
+## Country Card
+
+### General description
+Monaco is a 2 km² sovereign city-state on the Mediterranean coast, entirely surrounded by France, with one of the world's densest and wealthiest populations. Its economy rests on tourism, banking, and finance, and its 1869 abolition of personal income tax makes it the archetypal low-tax residence for the ultra-wealthy. Citizenship is effectively closed to almost all immigrants, being granted at the Prince's discretion.
+
+### Well-known strong points
+- 0% personal income tax (except French nationals)
+- No wealth, capital-gains, or annual property tax
+- Extremely safe and politically stable constitutional monarchy
+- Strong passport (177 visa-free, Henley 2026)
+- Premier yachting hub and luxury lifestyle (Grand Prix, Monte-Carlo)
+
+### Well-known problems
+- Entry requires ~€500K+ bank deposit and proof of accommodation — capital-heavy
+- World's most expensive real estate (~€50,000–100,000/m²)
+- Citizenship practically unobtainable; 10+ years and Prince's discretion, no dual nationality
+- No digital-nomad visa; French Type-D visa needed for non-EU/EEA applicants
+- Only ~10 tax treaties — foreign-source withholding tax can offset the 0% headline rate
+
+## Status
+- **Last monitored**: 2026-10-11
+- **Recent changes**: Sanctions-compliance review for Iranian/Russian/Belarusian applicants (2026). Corporate rate 33.33% → 25% (2022) confirmed stable.
+- **Watch items**: Any change to the €500K deposit norm; French-nationary treaty status; banking access for RU citizens.
