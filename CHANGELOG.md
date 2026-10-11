@@ -6,6 +6,24 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+## [2026-10-11] — Registry extended to 163 countries (waves 1+2)
+
+### Added
+- **63 new countries** added to `regions.yaml`: Asia (china, hong-kong, taiwan, india,
+  indonesia, thailand, malaysia, philippines, sri-lanka, myanmar), Europe micro/tax
+  (andorra, monaco, liechtenstein, san-marino, ukraine, moldova, belarus), CBI Caribbean
+  (dominica, st-lucia, st-vincent, vanuatu, trinidad-and-tobago, cayman-islands,
+  british-virgin-islands, turks-and-caicos, cuba, haiti), Africa (comoros, cabo-verde,
+  sao-tome, gabon, eswatini + angola, cameroon, mozambique, zambia, zimbabwe, madagascar,
+  benin, togo, sierra-leone, liberia, guinea, burkina-faso, mauritania, djibouti, gambia,
+  lesotho, malawi, congo, democratic-republic-of-congo, equatorial-guinea,
+  central-african-republic), South America (venezuela, guyana, suriname), Oceania
+  (fiji, samoa, tonga, papua-new-guinea, solomon-islands, marshall-islands), Middle East
+  (lebanon). Registry is now 163 countries.
+- Collector `GLOBAL_COUNTRY_ALLOWLIST` extended with the new countries (detection
+  aliases + capitals) so screening/deep collection can detect them.
+- Country pages for the new countries (being generated; fulfilled per SCHEMA).
+
 ## [2026-10-11] — Freshness signals + restored corrupted pages
 
 ### Added

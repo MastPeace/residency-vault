@@ -1,7 +1,7 @@
 # Residency Vault
 
 An Obsidian-compatible markdown knowledge base of residency & citizenship conditions
-across ~100 countries, using a canonical residency-type taxonomy, auto-refreshed by a
+across 163 countries, using a canonical residency-type taxonomy, auto-refreshed by a
 weekly/monthly monitor and published as a Wikipedia-style static website.
 
 **Live site:** [mastpeace.github.io/residency-vault](https://mastpeace.github.io/residency-vault/)
@@ -21,7 +21,7 @@ weekly/monthly monitor and published as a Wikipedia-style static website.
 - Fully cross-linked as an **Obsidian wiki** (wikilinks, YAML frontmatter, Dataview-compatible).
 - Auto-published as a **dark-themed Wikipedia-style static website** via GitHub Pages.
 - **Automated refresh**: a weekly monitor updates 22 key watchlist countries; a monthly
-  monitor refreshes the full ~100-country set. Changes are collected, analyzed (on
+  monitor refreshes the full 163-country set. Changes are collected, analyzed (on
   deepseek-v4-pro), validated, and applied as deltas to the wiki database — never
   re-derived from scratch.
 
@@ -105,7 +105,7 @@ collect → analyze (v4-pro) → validate → update DB (deltas) → push → si
 | Scope | Frequency | Countries | Description |
 |-------|-----------|-----------|-------------|
 | Watchlist | weekly | ~22 key countries | Focused alert feed from a curated watchlist |
-| Full | monthly | ~100 countries (from `regions.yaml`) | Full-DB refresh across all regions |
+| Full | monthly | 163 countries (from `regions.yaml`) | Full-DB refresh across all regions |
 
 **Pipeline steps:**
 1. **Collect** — web search for each country → raw items (7-day window).
@@ -183,7 +183,7 @@ used:
 
 - **Weekly watchlist** (~22 countries) — collects, analyzes, validates, and applies
   deltas to the wiki DB, then pushes.
-- **Monthly full refresh** (~100 countries from `regions.yaml`) — same pipeline on a
+- **Monthly full refresh** (163 countries from `regions.yaml`) — same pipeline on a
   broader scope.
 
 The pipeline requires a Hermes environment with `cron_mode: approve` (the execute_code
