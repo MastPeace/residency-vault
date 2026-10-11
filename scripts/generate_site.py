@@ -440,6 +440,32 @@ def parse_snapshot_list(content):
     return rows
 
 
+def fmt_source(s):
+    """Source/confidence cell -> compact `domain-link badge`. Understands `[text](url)`, `^[url]`, bare urls,
+    `[[#anchor]]` wikilinks and hard/official | soft/estimate | unsourced markers."""
+    s = s or ''
+    m = re.search(r'\[([^\]]+)\]\((https?://[^)\s]+)\)', s)
+    label = url = None
+    if m: label, url = m.group(1), m.group(2)
+    else:
+        m = re.search(r'(https?://[^\s\]\)]+)', s)
+        if m: url = m.group(1)
+    link = ''
+    if url:
+        host = re.sub(r'^www\.', '', re.sub(r'^https?://', '', url).split('/')[0])
+        if not label or label.lower() in ('source', 'link'): label = host
+        link = f'<a href="{html.escape(url)}" rel="noopener" title="{html.escape(url)}">{html.escape(label)}</a>'
+    else:
+        w = re.search(r'\[\[#([\w-]+)\]\]', s)
+        if w: link = f'<a class="wikilink" href="#{w.group(1)}">{html.escape(w.group(1).replace("-", " "))}</a>'
+    low = s.lower()
+    if 'hard/official' in low: badge = '<span class="off" title="official source">&#10003;</span>'
+    elif 'unsourced' in low: badge = '<span class="est unsrc" title="no verifiable source">?</span>'
+    elif 'soft/estimate' in low: badge = '<span class="est" title="estimate or secondary source \u2014 may be outdated">~</span>'
+    else: badge = ''
+    return (link + ' ' + badge).strip()
+
+
 def render_snapshot_html(section_text):
     """Parse a Country Snapshot markdown section and return styled HTML table."""
     # Strip the heading line
@@ -471,17 +497,14 @@ def render_snapshot_html(section_text):
         return t.strip()
 
     html_parts = [
-        '<div class="snapshot-section">',
+        '<div class="snapshot-section ext-block-wrap">',
         '<h2 id="country-snapshot">Country Snapshot</h2>',
-        '<div class="table-wrapper"><table class="snapshot-table">',
-        '<thead><tr><th>Field</th><th>Value</th></tr></thead>',
+        '<div class="table-wrapper"><table class="snapshot-table ext-table">',
+        '<thead><tr><th>Field</th><th>Value</th><th class="ext-src">Source</th></tr></thead>',
         '<tbody>'
     ]
     for field, value, source in rows:
-        val_html = html.escape(value)
-        if source:
-            val_html += f'<span class="snapshot-source">{snap_inline(source)}</span>'
-        html_parts.append(f'<tr><td class="snap-field">{html.escape(field)}</td><td class="snap-value">{val_html}</td></tr>')
+        html_parts.append(f'<tr><td class="snap-field">{html.escape(field)}</td><td class="snap-value">{html.escape(value)}</td><td class="ext-src">{fmt_source(source)}</td></tr>')
     html_parts.append('</tbody></table></div></div>')
     return '\n'.join(html_parts)
 
@@ -500,31 +523,21 @@ def render_extended_html(section_text):
         blocks.setdefault(cells[0], []).append(cells[1:4])
     if not blocks:
         return None
-    def src(s):
-        m = re.search(r'\[([^\]]+)\]\((https?://[^)\s]+)\)', s)
-        link = ''
-        if m:
-            host = re.sub(r'^www\.', '', re.sub(r'^https?://', '', m.group(2)).split('/')[0])
-            label = m.group(1) if m.group(1).lower() != 'source' else host
-            link = f'<a href="{html.escape(m.group(2))}" rel="noopener" title="{html.escape(m.group(2))}">{html.escape(label)}</a>'
-        if 'hard/official' in s: badge = '<span class="off" title="official source">&#10003;</span>'
-        elif 'unsourced' in s: badge = '<span class="est unsrc" title="no verifiable source">?</span>'
-        elif 'soft/estimate' in s: badge = '<span class="est" title="estimate / secondary source">~</span>'
-        else: badge = ''
-        return (link + ' ' + badge).strip()
+    src = fmt_source
     parts = ['<div class="snapshot-section ext-snapshot">',
              '<h2 id="extended-snapshot">Extended Snapshot</h2>',
-             f'<p class="ext-cov">{html.escape(cov)} &middot; &#10003; official source &nbsp; ~ estimate &nbsp; ? unverified</p>']
+             f'<p class="ext-cov">{html.escape(cov)} &middot; &#10003; official &nbsp; ~ estimate or secondary source, may be outdated &nbsp; ? unverified &middot; fields without reliable data are hidden</p>']
     for i, (blk, rows) in enumerate(blocks.items()):
         have = sum(1 for r in rows if r[1] != 'No reliable data')
+        if have == 0:
+            continue
         parts.append(f'<details class="ext-block"{" open" if i == 0 else ""}><summary>{html.escape(blk)} <span class="ext-n">{have}/{len(rows)}</span></summary>')
         parts.append('<div class="table-wrapper"><table class="snapshot-table"><tbody>')
         for field, value, source in rows:
             if value == 'No reliable data':
-                vh = '<span class="ext-none">No reliable data</span>'
-            else:
-                vh = html.escape(value)
-            sh = src(source) if (source and source != '\u2014' and value != 'No reliable data') else ''
+                continue
+            vh = html.escape(value)
+            sh = src(source) if (source and source != '\u2014') else ''
             parts.append(f'<tr><td class="snap-field">{html.escape(field)}</td><td class="snap-value">{vh}</td><td class="ext-src">{sh}</td></tr>')
         parts.append('</tbody></table></div></details>')
     parts.append('</div>')
@@ -912,7 +925,9 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .ext-n { font: 11px var(--mono); color: var(--muted); margin-left: auto; }
 .ext-block .table-wrapper { margin: 0; }
 .ext-none { color: var(--muted); font-style: italic; font-size: 13px; }
-.ext-block .snapshot-table td.snap-field { width: 28%; }
+.ext-block .snapshot-table td.snap-field, .ext-table td.snap-field { width: 28%; }
+.ext-table td.ext-src, .ext-table th.ext-src { width: 1%; white-space: nowrap; text-align: right; font: 12px var(--mono); color: var(--muted); padding-left: 16px; }
+.ext-table td.ext-src a { color: var(--muted); text-decoration: none; border-bottom: 1px dotted var(--line); }
 .ext-block .snapshot-table td.ext-src { width: 1%; white-space: nowrap; text-align: right; font: 12px var(--mono); color: var(--muted); padding-left: 16px; }
 .ext-block .snapshot-table td.ext-src a { color: var(--muted); text-decoration: none; border-bottom: 1px dotted var(--line); }
 .ext-block .snapshot-table td.ext-src a:hover { color: var(--ink); }
