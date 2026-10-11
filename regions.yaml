@@ -50,6 +50,7 @@ regions:
     - {country: georgia,      category: [popular_ru, it_friendly]}
     - {country: armenia,      category: [popular_ru]}
     - {country: azerbaijan,   category: [popular_ru]}
+    - {country: kazakhstan,   category: [popular_ru]}
 
   middle_east_gulf:
     - {country: uae,          category: [it_friendly, popular_ru]}

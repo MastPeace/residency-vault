@@ -15,6 +15,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   (last monitor pass) on country pages.
 - `covered_<stamp>.json` written by the collector (list of countries actually queried),
   feeding the stamp step in the weekly pipeline (`daily_digest.md` Step 5).
+- **kazakhstan** added to `regions.yaml` (balkans_caucasus) — was missing from the
+  registry despite having a wiki page and keyword configs.
 
 ### Fixed
 - **Japan, Singapore, South Korea, Vietnam** pages were corrupted by the 2026-09-16
