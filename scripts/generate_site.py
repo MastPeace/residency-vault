@@ -486,6 +486,44 @@ def render_snapshot_html(section_text):
     return '\n'.join(html_parts)
 
 
+def render_extended_html(section_text):
+    """Extended Snapshot -> collapsible per-block cards (Block | Field | Value | Source table in markdown)."""
+    m = re.search(r'Coverage:\s*(\d+)/(\d+)', section_text)
+    cov = f'{m.group(1)}/{m.group(2)} fields' if m else ''
+    blocks = {}
+    for line in section_text.split('\n'):
+        if not line.startswith('| ') or line.startswith('| Block') or line.startswith('|---'):
+            continue
+        cells = [c.strip().replace('\\|', '|') for c in re.split(r'(?<!\\)\|', line.strip().strip('|'))]
+        if len(cells) < 4:
+            continue
+        blocks.setdefault(cells[0], []).append(cells[1:4])
+    if not blocks:
+        return None
+    def src(s):
+        t = html.escape(s)
+        t = re.sub(r'\[([^\]]+)\]\((https?://[^)\s]+)\)', r'<a href="\2" rel="noopener">\1</a>', t)
+        t = re.sub(r'\s*[\u2014-]?\s*hard/official', ' <span class="off">official</span>', t)
+        t = re.sub(r'\s*[\u2014-]?\s*soft/estimate', ' <span class="est">estimate</span>', t)
+        t = re.sub(r'\s*[\u2014-]?\s*unsourced/unverified', ' <span class="est unsrc">unsourced</span>', t)
+        return t.strip(' \u2014-')
+    parts = ['<div class="snapshot-section ext-snapshot">',
+             f'<h2 id="extended-snapshot">Extended Snapshot <span class="ext-cov">{html.escape(cov)}</span></h2>']
+    for i, (blk, rows) in enumerate(blocks.items()):
+        have = sum(1 for r in rows if r[1] != 'No reliable data')
+        parts.append(f'<details class="ext-block"{" open" if i == 0 else ""}><summary>{html.escape(blk)} <span class="ext-n">{have}/{len(rows)}</span></summary>')
+        parts.append('<div class="table-wrapper"><table class="snapshot-table"><tbody>')
+        for field, value, source in rows:
+            if value == 'No reliable data':
+                vh = '<span class="ext-none">No reliable data</span>'
+            else:
+                vh = html.escape(value) + (f'<span class="snapshot-source">{src(source)}</span>' if source and source != '\u2014' else '')
+            parts.append(f'<tr><td class="snap-field">{html.escape(field)}</td><td class="snap-value">{vh}</td></tr>')
+        parts.append('</tbody></table></div></details>')
+    parts.append('</div>')
+    return '\n'.join(parts)
+
+
 def render_card_html(section_text):
     """Parse a Country Card markdown section and return styled HTML box."""
     lines = section_text.split('\n')
@@ -622,7 +660,9 @@ def collect_pages():
         text = md_file.read_text(encoding="utf-8")
         frontmatter, body = parse_frontmatter(text)
         # Extract Country Snapshot and Country Card before normal rendering
-        clean_body, snapshot_html, card_html = extract_snapshot_card(body)
+        body_noext, ext_text = extract_section(body, '## Extended Snapshot')
+        extended_html = render_extended_html(ext_text) if ext_text else None
+        clean_body, snapshot_html, card_html = extract_snapshot_card(body_noext)
         html_body = md_to_html(clean_body, "entity", slug)
         all_pages[slug] = {
             "slug": slug,
@@ -638,6 +678,7 @@ def collect_pages():
             "body": body,
             "html_body": html_body,
             "snapshot_html": snapshot_html,
+            "extended_html": extended_html,
             "card_html": card_html,
             "source_file": str(md_file.relative_to(WIKI_DIR)),
         }
@@ -853,6 +894,17 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .snapshot-source a { color: var(--muted); }
 .est { font: 11px var(--mono); color: var(--warn); margin-left: 6px; white-space: nowrap; }
 .off { font: 11px var(--mono); color: var(--good); margin-left: 6px; white-space: nowrap; }
+.est.unsrc { color: var(--bad, #c0392b); }
+.ext-cov { font: 12px var(--mono); color: var(--muted); margin-left: 10px; font-weight: 400; }
+.ext-block { border: 1px solid var(--line); border-radius: 10px; margin: 10px 0; background: var(--paper, transparent); }
+.ext-block > summary { cursor: pointer; padding: 12px 16px; font: 600 14px var(--sans); color: var(--ink); list-style: none; display: flex; justify-content: space-between; }
+.ext-block > summary::-webkit-details-marker { display: none; }
+.ext-block > summary::after { content: "+"; color: var(--muted); font-weight: 400; margin-left: 12px; }
+.ext-block[open] > summary::after { content: "\2212"; }
+.ext-block[open] > summary { border-bottom: 1px solid var(--line); }
+.ext-n { font: 11px var(--mono); color: var(--muted); margin-left: auto; }
+.ext-block .table-wrapper { margin: 0; }
+.ext-none { color: var(--muted); font-style: italic; font-size: 13px; }
 
 /* toc */
 .toc { position: sticky; top: 84px; align-self: start; font-size: 13.5px; max-height: calc(100vh - 110px); overflow: auto; }
@@ -1220,7 +1272,7 @@ def render_page(page, region_meta, region_labels):
     monitor_html = build_monitor(page) if is_entity else ""
     if monitor_html:
         body = re.sub(r'<h2 id="status">.*?(?=<h2 |<div class="footnotes">|\Z)', '', body, flags=re.S)
-    extra = (page.get("card_html") or "") + "\n" + (page.get("snapshot_html") or "")
+    extra = (page.get("card_html") or "") + "\n" + (page.get("snapshot_html") or "") + "\n" + (page.get("extended_html") or "")
     if extra.strip():
         marker = '<div class="footnotes">'
         body = body.replace(marker, extra + marker, 1) if marker in body else body + extra
