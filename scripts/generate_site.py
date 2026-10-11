@@ -501,14 +501,20 @@ def render_extended_html(section_text):
     if not blocks:
         return None
     def src(s):
-        t = html.escape(s)
-        t = re.sub(r'\[([^\]]+)\]\((https?://[^)\s]+)\)', r'<a href="\2" rel="noopener">\1</a>', t)
-        t = re.sub(r'\s*[\u2014-]?\s*hard/official', ' <span class="off">official</span>', t)
-        t = re.sub(r'\s*[\u2014-]?\s*soft/estimate', ' <span class="est">estimate</span>', t)
-        t = re.sub(r'\s*[\u2014-]?\s*unsourced/unverified', ' <span class="est unsrc">unsourced</span>', t)
-        return t.strip(' \u2014-')
+        m = re.search(r'\[([^\]]+)\]\((https?://[^)\s]+)\)', s)
+        link = ''
+        if m:
+            host = re.sub(r'^www\.', '', re.sub(r'^https?://', '', m.group(2)).split('/')[0])
+            label = m.group(1) if m.group(1).lower() != 'source' else host
+            link = f'<a href="{html.escape(m.group(2))}" rel="noopener" title="{html.escape(m.group(2))}">{html.escape(label)}</a>'
+        if 'hard/official' in s: badge = '<span class="off" title="official source">&#10003;</span>'
+        elif 'unsourced' in s: badge = '<span class="est unsrc" title="no verifiable source">?</span>'
+        elif 'soft/estimate' in s: badge = '<span class="est" title="estimate / secondary source">~</span>'
+        else: badge = ''
+        return (link + ' ' + badge).strip()
     parts = ['<div class="snapshot-section ext-snapshot">',
-             f'<h2 id="extended-snapshot">Extended Snapshot <span class="ext-cov">{html.escape(cov)}</span></h2>']
+             '<h2 id="extended-snapshot">Extended Snapshot</h2>',
+             f'<p class="ext-cov">{html.escape(cov)} &middot; &#10003; official source &nbsp; ~ estimate &nbsp; ? unverified</p>']
     for i, (blk, rows) in enumerate(blocks.items()):
         have = sum(1 for r in rows if r[1] != 'No reliable data')
         parts.append(f'<details class="ext-block"{" open" if i == 0 else ""}><summary>{html.escape(blk)} <span class="ext-n">{have}/{len(rows)}</span></summary>')
@@ -517,8 +523,9 @@ def render_extended_html(section_text):
             if value == 'No reliable data':
                 vh = '<span class="ext-none">No reliable data</span>'
             else:
-                vh = html.escape(value) + (f'<span class="snapshot-source">{src(source)}</span>' if source and source != '\u2014' else '')
-            parts.append(f'<tr><td class="snap-field">{html.escape(field)}</td><td class="snap-value">{vh}</td></tr>')
+                vh = html.escape(value)
+            sh = src(source) if (source and source != '\u2014' and value != 'No reliable data') else ''
+            parts.append(f'<tr><td class="snap-field">{html.escape(field)}</td><td class="snap-value">{vh}</td><td class="ext-src">{sh}</td></tr>')
         parts.append('</tbody></table></div></details>')
     parts.append('</div>')
     return '\n'.join(parts)
@@ -895,7 +902,7 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .est { font: 11px var(--mono); color: var(--warn); margin-left: 6px; white-space: nowrap; }
 .off { font: 11px var(--mono); color: var(--good); margin-left: 6px; white-space: nowrap; }
 .est.unsrc { color: var(--bad, #c0392b); }
-.ext-cov { font: 12px var(--mono); color: var(--muted); margin-left: 10px; font-weight: 400; }
+.ext-cov { font: 12px var(--mono); color: var(--muted); margin: -6px 0 12px; }
 .ext-block { border: 1px solid var(--line); border-radius: 10px; margin: 10px 0; background: var(--paper, transparent); }
 .ext-block > summary { cursor: pointer; padding: 12px 16px; font: 600 14px var(--sans); color: var(--ink); list-style: none; display: flex; justify-content: space-between; }
 .ext-block > summary::-webkit-details-marker { display: none; }
@@ -905,6 +912,12 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .ext-n { font: 11px var(--mono); color: var(--muted); margin-left: auto; }
 .ext-block .table-wrapper { margin: 0; }
 .ext-none { color: var(--muted); font-style: italic; font-size: 13px; }
+.ext-block .snapshot-table td.snap-field { width: 28%; }
+.ext-block .snapshot-table td.ext-src { width: 1%; white-space: nowrap; text-align: right; font: 12px var(--mono); color: var(--muted); padding-left: 16px; }
+.ext-block .snapshot-table td.ext-src a { color: var(--muted); text-decoration: none; border-bottom: 1px dotted var(--line); }
+.ext-block .snapshot-table td.ext-src a:hover { color: var(--ink); }
+.ext-src .off, .ext-src .est { margin-left: 4px; font-size: 12px; }
+@media (max-width: 640px) { .ext-block .snapshot-table td.ext-src { display: block; width: auto; text-align: left; padding: 0 0 10px; } .ext-block .snapshot-table td.snap-field { width: auto; } }
 
 /* toc */
 .toc { position: sticky; top: 84px; align-self: start; font-size: 13.5px; max-height: calc(100vh - 110px); overflow: auto; }
