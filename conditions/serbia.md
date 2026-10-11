@@ -116,7 +116,7 @@ Expats report generally smooth processes. Main complaints: bureaucratic delays, 
 
 ## Status
 
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-05
 - **Recent changes**: Single Permit system operational. Online application portal (Foreign Nationals' Portal) functioning.
 - **Watch items**: EU accession progress. Potential changes to 3-year temporary residence requirement.
 

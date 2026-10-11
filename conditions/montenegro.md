@@ -122,7 +122,7 @@ Expats report Montenegro as a friendly, affordable destination. Property-based r
 
 ## Status
 
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-05
 - **Recent changes**: New Law on Foreigners effective Jan 17, 2026 — formalized €150,000 property route. DN visa operating since 2022 amendments. CBI remains closed.
 - **Watch items**: EU accession progress (will affect property values). Potential changes to DN visa thresholds as minimum wage rises.
 

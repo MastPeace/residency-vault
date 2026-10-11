@@ -185,6 +185,6 @@ Austria is a wealthy, landlocked Central European country with a highly develope
 - High tax burden: top rate 55% above €1M; no special impatriate regime
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-05
 - **Recent changes**: EU Blue Card salary threshold updated to €55,678 (2026). RWR Card salary and points thresholds adjusted annually. No major structural immigration reforms in 2026.
 - **Watch items**: Monitor Blue Card threshold updates. Track any liberalization of dual citizenship policy. Watch for introduction of digital nomad or passive-income routes.

@@ -179,6 +179,6 @@ Portugal is a southern European country on the Iberian Peninsula, bordered by Sp
 - NHR tax regime closed to new applicants (replaced by narrower IFICI)
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-05
 - **Recent changes**: Nationality law 10-year clock (Lei Orgânica 1/2026, 19 May 2026). AIMA Portal de Renovações operational (Jul 2026). NHR closed, IFICI active. Golden Visa real estate closed since Oct 2023.
 - **Watch items**: AIMA backlog clearance. Judicial challenges to 10-year citizenship. IFICI eligibility expansion.

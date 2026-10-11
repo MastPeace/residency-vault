@@ -134,6 +134,6 @@ Greece is a Mediterranean EU/Schengen/Eurozone member with one of Europe's longe
 - Bureaucratic complexity and historically long processing times across all permit types
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-05
 - **Recent changes**: Law 5275/2026 — immigration reform, permit validity from card issuance date. Golden Visa tiers (€250K/€400K/€800K) stable since Aug 2024. Short-term letting prohibition enforced.
 - **Watch items**: Monitor Golden Visa backlog clearance (~50,000 pending). Track any further threshold increases. Implementation of Law 5275/2026.

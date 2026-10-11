@@ -179,6 +179,6 @@ Spain is a large southern European country occupying most of the Iberian Peninsu
 - Golden Visa permanently closed (April 2025), removing the investor pathway
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-05
 - **Recent changes**: Golden Visa permanently closed (3 Apr 2025). SMI raised to €1,424.50/mo (Royal Decree 126/2026), affecting DNV and other thresholds.
 - **Watch items**: Monitor NLV income threshold updates. Track DNV renewal processing times. Watch for any revival of investment residence proposals.

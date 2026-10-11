@@ -184,6 +184,6 @@ Germany is the EU's largest economy and most populous member state, with a highl
 - Political pushback (CDU/CSU) to roll back citizenship reform creates uncertainty
 
 ## Status
-- **Last monitored**: 2026-09-14
+- **Last monitored**: 2026-10-05
 - **Recent changes**: 2026 Blue Card thresholds raised (€50,700 general, €45,934 shortage). 3-year citizenship fast-track scrapped (2026). Dual citizenship fully normalized. Opportunity Card digital processing launched (May 2026). EES biometrics active on Schengen borders (Apr 10, 2026). Family reunification partially suspended for subsidiary protection holders (Jul 1, 2026). CDU/CSU push to roll back citizenship reform (rumor/watching).
 - **Watch items**: Monitor further citizenship law adjustments (CDU/CSU rollback effort). Track IT-without-degree Blue Card acceptance rates. Watch for introduction of a digital nomad or passive-income route.

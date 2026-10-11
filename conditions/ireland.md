@@ -122,7 +122,7 @@ Ireland has an extensive Atlantic and Irish Sea coastline. Yacht registration un
 Irish visas for Russian citizens are available but processing may be delayed. No specific restrictions beyond EU sanctions screening and enhanced due diligence. The Critical Skills route is open in principle. The non-dom remittance basis is uniquely attractive for wealthy applicants. The absence of a language test is advantageous. Ireland has a small Russian-speaking community. Banking for Russian nationals has tightened significantly.
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-05
 - **Recent changes**: IIP remains closed (since Feb 2023). General Employment Permit minimum salary maintained at €34,000. English-language student Stamp 2 Bridging Permission update in 2026.
 - **Watch items**: Monitor any reopening or replacement of IIP. Track Critical Skills occupation list updates. Watch for remittance basis reform proposals.
 

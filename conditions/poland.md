@@ -102,7 +102,7 @@ Baltic Sea coastline (Gdańsk, Gdynia, Szczecin). Yacht registration under Polis
 Polish consulates in Russia have severely reduced operations. Visa issuance for Russian citizens is among the most restricted in the EU. Residence permit applications face highest scrutiny of any EU country. B1/C1 Polish language is demanding. Pole's Card route viable for those with documented Polish ancestry. Some Russian nationals have successfully used JDG self-employment route.
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-05
 - **Recent changes**: Citizenship tightened to 10 years + civic exam (May 2026). Language may rise from B1 to C1. MOS online-only applications mandatory from April 27, 2026.
 - **Watch items**: Monitor C1 language requirement implementation. Track citizenship reform full details.
 

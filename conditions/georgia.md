@@ -115,7 +115,7 @@ Georgia remains one of the most accessible countries globally for independent re
 
 ## Status
 
-- **Last monitored**: 2026-09-21
+- **Last monitored**: 2026-10-05
 - **Recent changes**: Major immigration overhaul Sep 1, 2026 — marriage residence route restructured (temp 1yr → 5yr → PR, inter-agency commission, criminal liability for fake marriages). Student residence tightened (school students excluded, presence monitoring, Jan 1, 2027 deadline). C5 Digital Nomad Visa adopted (Apr 16, 2026). Further amendments Mar 1, 2026 and Sep 1, 2026 — new work permit requirements, stricter enforcement, deportation + 2–5 year entry ban for unauthorized work, new D6 visa.
 - **Watch items**: Implementation of Sep 2026 changes. C5 visa uptake. Further tightening expected.
 
