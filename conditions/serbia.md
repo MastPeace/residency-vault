@@ -2,6 +2,7 @@
 title: Serbia — Serbia
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, tax, popular_ru, clear_pathway]
 category: popular_ru
@@ -144,6 +145,81 @@ Expats report generally smooth processes. Main complaints: bureaucratic delays, 
 | Freedom House score (2025) | 56/100 — Partly Free | ^[https://freedomhouse.org/country/serbia/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,100 | ^[https://en.wikipedia.org/wiki/Belgrade#Climate] hard/official |
 | Average annual temperature | ~12°C | ^[https://en.wikipedia.org/wiki/Belgrade#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 65/68 fields. Static indicators refreshed quarterly; policy/Russia fields refreshed by the weekly monitor._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 88 490 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=RS) — hard/official |
+| Geography & size | Population density | 75 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=RS) — hard/official |
+| Geography & size | Urban population | 63% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=RS) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked country) | [source](https://www.cia.gov/the-world-factbook/countries/serbia/) — hard/official |
+| Geography & size | Highest point | Midžor (Midzhur), 2,169 m (Stara Planina range) | [source](https://en.wikipedia.org/wiki/Serbia) — soft/estimate |
+| Geography & size | Type | landlocked | [source](https://en.wikipedia.org/wiki/Serbia) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET) / UTC+2 (CEST summer); Moscow is UTC+3, so -2h/-1h DST | [source](https://www.timeanddate.com/time/zone/serbia) — soft/estimate |
+| Climate | Avg precipitation | No reliable data | — |
+| Climate | PM2.5 exposure | 19.3 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=RS) — hard/official |
+| Climate | Climate zone | Cfb (oceanic) in north, Dfb (warm-summer humid continental) in mountains, Cfa (humid subtropical) in south | [source](https://en.wikipedia.org/wiki/Climate_of_Serbia) — soft/estimate |
+| Climate | Temp winter / summer | Belgrade: Jan avg 1.4°C, Jul avg 23.0°C | [source](https://en.wikipedia.org/wiki/Belgrade#Climate) — soft/estimate |
+| Climate | Rainy days | Belgrade: ~128 rainy days per year | [source](https://en.wikipedia.org/wiki/Belgrade#Climate) — soft/estimate |
+| Climate | Humidity | Belgrade: ~70% avg annual humidity | [source](https://en.wikipedia.org/wiki/Belgrade#Climate) — soft/estimate |
+| Climate | Natural hazards | Earthquakes (moderate), floods (especially Danube basin); INFORM Risk moderate-low | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Verdict | Continental: hot summers, cold winters with snow; pleasant spring and autumn; 4 distinct seasons. | [source](https://en.wikipedia.org/wiki/Climate_of_Serbia) — soft/estimate |
+| Climate | Air quality | PM2.5 annual avg ~25 µg/m³ (moderate-poor; Belgrade among worst in Europe in winter due to coal heating) | [source](https://www.iqair.com/serbia) — soft/estimate |
+| Economy | GDP (nominal) | $100.0B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=RS) — hard/official |
+| Economy | GDP growth | 2.0% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=RS) — hard/official |
+| Economy | Inflation (CPI) | 3.9% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=RS) — hard/official |
+| Economy | Unemployment | 7.1% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=RS) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 32.8 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=RS) — hard/official |
+| Economy | Tourism receipts | 6% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=RS) — hard/official |
+| Economy | Remittances | 6.6% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=RS) — hard/official |
+| Economy | Credit rating | S&P: BB+ (positive outlook, Apr 2025), Fitch: BB+ (stable), Moody's: Ba3 (stable) | [source](https://disclosure.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3270575) — hard/official |
+| Economy | Currency | RSD (Serbian dinar), managed float; ~-5% vs USD over 5yr (2021-2026) | [source](https://countryeconomy.com/countries/serbia) — soft/estimate |
+| Economy | Top industries | Manufacturing (~20%), Services (~60%), Agriculture (~6%) | [source](https://en.wikipedia.org/wiki/Economy_of_Serbia) — soft/estimate |
+| Economy | Dependence | FDI-dependent (automotive, IT); remittances ~8-10% GDP; EU is main trade partner | [source](https://en.wikipedia.org/wiki/Economy_of_Serbia) — soft/estimate |
+| Economy | Economic Complexity | ECI Trade rank ~40/130 (2024 est.) | [source](https://oec.world/en/profile/country/srb) — soft/estimate |
+| Technology | Internet users | 88% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=RS) — hard/official |
+| Technology | Fixed broadband subs | 33.4 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=RS) — hard/official |
+| Technology | High-tech exports | 4.5% of manufactured exports (2007) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=RS) — hard/official |
+| Technology | R&D spend | 0.94% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=RS) — hard/official |
+| Technology | Global Innovation Index | WIPO GII 2025: rank 54/139 | [source](https://www.wipo.int/gii-ranking/en/serbia) — hard/official |
+| Technology | E-Government (UN EGDI) | UN EGDI 2024: ~0.82, rank ~40/193 (very high) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/152-Serbia) — soft/estimate |
+| Technology | Median broadband speed | Fixed broadband median ~85 Mbps (Ookla, 2025) | [source](https://www.speedtest.net/global-index/serbia) — soft/estimate |
+| Technology | 5G | 5G trials and limited deployment (2024-2025); not yet nationwide | [source](https://www.ratel.rs/) — soft/estimate |
+| Technology | Online payments | Stripe not directly available; PayPal available for Serbian accounts; Apple Pay launched 2024 via some banks | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank ~60; Belgrade is growing IT/startup hub with strong developer community | [source](https://www.startupblink.com/startups/serbia) — soft/estimate |
+| Human development & health | Life expectancy | 76.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=RS) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | UNDP HDI 2022: 0.805, rank 65/193 (very high) | [source](https://countryeconomy.com/hdi/serbia) — soft/estimate |
+| Human development & health | Healthcare quality | Numbeo Healthcare Index: ~54 (moderate); public system basic, private clinics in Belgrade decent | [source](https://www.numbeo.com/health-care/country_result.jsp?country=Serbia) — soft/estimate |
+| Human development & health | Health insurance | Mandatory state health insurance for residents (via contributions); private insurance ~€30-80/mo optional | [source](https://www.rfzo.rs/) — soft/estimate |
+| Human development & health | Medical note | Public system underfunded but universal; private clinics in Belgrade offer good quality; growing medical tourism (dental, cosmetic surgery). | [source](https://www.rfzo.rs/) — soft/estimate |
+| Safety | Global Peace Index | GPI 2025: score ~1.92, rank ~55 (medium-high peace) | [source](https://statbase.org/data/srb-global-peace-index) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 2: Exercise increased caution (due to crime) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Serbia.html) — hard/official |
+| Safety | Crime level | Numbeo Crime Index: 36.96 (moderate) | [source](https://www.numbeo.com/crime/country_result.jsp?country=Serbia) — soft/estimate |
+| Money & tax | Non-resident bank account | Yes, possible with passport; some banks require temporary residence registration; moderate difficulty | [source](https://www.nbs.rs/) — soft/estimate |
+| Money & tax | Banks & Russian clients | Russian clients widely welcome; Mir stopped Feb 2024; Visa/MC from non-sanctioned banks may work; SWIFT sometimes blocked | [source](https://www.nbs.rs/) — soft/estimate |
+| Money & tax | FATF status | Not on FATF grey or black lists | [source](https://www.fatf-gafi.org/en/countries/detail/Serbia.html) — hard/official |
+| Money & tax | CRS exchange | Yes, CRS participant since 2017 (first exchange Sep 2018) | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/) — hard/official |
+| Money & tax | Tax treaty with Russia | Yes, DTT in force since 1997; Russia suspended key articles Aug 2023 | [source](https://www.minfin.ru/en/document/?id_4=12956) — soft/estimate |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance/gift tax 1.5-2.5% (close relatives exempt); CGT 15% on financial assets | [source](https://taxsummaries.pwc.com/serbia) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules (since 2020); foreign subsidiary income may be taxed if Serbia has >50% control | [source](https://taxsummaries.pwc.com/serbia) — soft/estimate |
+| Business | Company setup | ~5-7 days, ~€100 registration cost; straightforward via Business Registers Agency | [source](https://www.apr.gov.rs/) — soft/estimate |
+| Business | Corporate tax | 15% standard CIT (one of the lowest in Europe) | [source](https://taxsummaries.pwc.com/serbia) — soft/estimate |
+| Family & education | International schools | Several in Belgrade (ISB, Chartwell, BIS); €5,000-€12,000/year | [source](https://www.internationalschoolsearch.com/) — soft/estimate |
+| Family & education | Top university | University of Belgrade; QS World 2026 rank ~600-700 | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
+| Connectivity | Flights (RU / EU) | Direct flights Moscow-Belgrade (Air Serbia, ~3h, multiple daily); hub flights to EU via Belgrade; Belgrade is key transit hub for Russians | [source](https://www.airserbia.com/) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens (30 days, extendable by visa runs) | [source](https://www.mfa.gov.rs/en/consular-affairs/entry-serbia/visa-regime) — hard/official |
+| For Russian citizens | Sanctions position | Serbia has not imposed sanctions on Russia; maintains traditional ties; voted UN condemnation but refuses Western sanctions | [source](https://www.reuters.com/world/europe/serbia-walks-tightrope-between-east-west-2024/) — soft/estimate |
+| For Russian citizens | Applications from RU citizens | Russian citizens welcome; residence via company, property, or employment; police certificate + apostille; large expat community since 2022 | [source](https://www.mup.gov.rs/) — soft/estimate |
+| Policy dynamics | Direction (12 mo) | Stable: no restriction on Russian arrivals; property purchase residence; company registration; Russian immigration increased since 2022 | [source](https://www.mup.gov.rs/) — soft/estimate |
+| Policy dynamics | Upcoming changes | EU accession negotiations ongoing but slow; potential visa-free Schengen in long term; possible tightening if EU pressure increases | [source](https://ec.europa.eu/) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness Report 2025: rank 30/147, score 6.69 | [source](https://data.worldhappiness.report/country/SRB) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank ~40/53 (below average) | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | Serbian needed for bureaucracy; English spoken by younger people in Belgrade; EF EPI rank #25 (high proficiency) | [source](https://www.ef.com/epi/) — hard/official |
 
 ## Country Card
 

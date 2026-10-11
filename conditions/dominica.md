@@ -2,6 +2,7 @@
 title: Dominica — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-11
 type: entity
 tags: [citizenship, citizenship-by-investment, tax, strong_passport]
 category: strong_passport
@@ -82,6 +83,81 @@ Widely regarded as the cheapest and most reliable Caribbean CBI. The July 2024 C
 | Freedom House score | 92/100 (Free) | [Freedom House](https://freedomhouse.org/country/dominica/freedom-world/2025) hard/official |
 | Average annual sunshine hours | ~2,500 h | [Wikipedia](https://en.wikipedia.org/wiki/Dominica#Climate) hard/official |
 | Average annual temperature | ~27 °C | [Wikipedia](https://en.wikipedia.org/wiki/Dominica#Climate) hard/official |
+
+## Extended Snapshot
+
+_Coverage: 63/68 fields. Static indicators refreshed quarterly; policy/Russia fields refreshed by the weekly monitor._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 751 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=DM) — hard/official |
+| Geography & size | Population density | 88 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=DM) — hard/official |
+| Geography & size | Urban population | 74% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=DM) — hard/official |
+| Geography & size | Coastline | ~148 km | [source](https://en.wikipedia.org/wiki/Geography_of_Dominica) — soft/estimate |
+| Geography & size | Highest point | Morne Diablotins, 1,447 m | [source](https://en.wikipedia.org/wiki/Geography_of_Dominica) — soft/estimate |
+| Geography & size | Type | island (Caribbean, Lesser Antilles) | [source](https://en.wikipedia.org/wiki/Dominica) — soft/estimate |
+| Geography & size | Time zone | UTC-4 (AST), no DST; -7h vs Moscow | [source](https://en.wikipedia.org/wiki/Time_in_Dominica) — soft/estimate |
+| Climate | Avg precipitation | 2083 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=DM) — hard/official |
+| Climate | PM2.5 exposure | 11.5 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=DM) — hard/official |
+| Climate | Climate zone | Af (Tropical rainforest) | [source](https://en.wikipedia.org/wiki/Dominica#Climate) — soft/estimate |
+| Climate | Temp winter / summer | Roseau: Jan avg 25°C, Jul avg 28°C (minimal seasonal variation) | [source](https://en.wikipedia.org/wiki/Roseau#Climate) — soft/estimate |
+| Climate | Rainy days | ~200 rainy days/year (tropical rainforest) | [source](https://en.wikipedia.org/wiki/Dominica#Climate) — soft/estimate |
+| Climate | Humidity | ~80-85% avg annual RH | [source](https://en.wikipedia.org/wiki/Dominica#Climate) — soft/estimate |
+| Climate | Natural hazards | Hurricanes (Jun-Nov), floods, landslides; INFORM Risk: medium | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Verdict | Warm year-round but very rainy/humid; hurricane season Jun-Nov risky. | [source](https://en.wikipedia.org/wiki/Dominica#Climate) — soft/estimate |
+| Climate | Air quality | PM2.5 annual: <10 µg/m³ (very good, meets WHO guideline) | [source](https://epi.yale.edu/) — soft/estimate |
+| Economy | GDP (nominal) | $723.9M (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DM) — hard/official |
+| Economy | GDP growth | 3.1% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=DM) — hard/official |
+| Economy | Inflation (CPI) | 2.5% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=DM) — hard/official |
+| Economy | Unemployment | No reliable data | — |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 75% of exports (2018) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=DM) — hard/official |
+| Economy | Remittances | 5.5% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=DM) — hard/official |
+| Economy | Credit rating | Not rated by S&P/Moody's/Fitch (small economy) | [source](https://www.economy.com/dominica/indicators) — soft/estimate |
+| Economy | Currency | XCD (East Caribbean dollar), pegged to USD at 2.70; stable | [source](https://en.wikipedia.org/wiki/Eastern_Caribbean_dollar) — soft/estimate |
+| Economy | Top industries | 1. Agriculture (bananas) 2. Tourism 3. Citizenship by investment | [source](https://en.wikipedia.org/wiki/Economy_of_Dominica) — soft/estimate |
+| Economy | Dependence | Tourism, agriculture, citizenship-by-investment programme | [source](https://en.wikipedia.org/wiki/Economy_of_Dominica) — soft/estimate |
+| Economy | Economic Complexity | ECI: not ranked in top 130 (OEC 2024) | [source](https://oec.world/en/profile/country/dma) — hard/official |
+| Technology | Internet users | 82% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=DM) — hard/official |
+| Technology | Fixed broadband subs | 20.9 per 100 people (2022) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=DM) — hard/official |
+| Technology | High-tech exports | 2.9% of manufactured exports (2023) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=DM) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | WIPO GII 2026: not ranked in top 139 | [source](https://www.wipo.int/gii-ranking/en/) — hard/official |
+| Technology | E-Government (UN EGDI) | UN EGDI 2024: ~0.55, rank ~120-130/193 | [source](https://publicadministration.un.org/egovkb/en-us/data-center) — soft/estimate |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | No 5G; 4G/LTE available | [source](https://en.wikipedia.org/wiki/Telecommunications_in_Dominica) — soft/estimate |
+| Technology | Online payments | Stripe: no, PayPal: limited, Apple Pay: limited | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Not ranked by StartupBlink; negligible ecosystem | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 71.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=DM) — hard/official |
+| Human development & health | Hospital beds | 4.0 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=DM) — hard/official |
+| Human development & health | HDI | UNDP HDI 2022: 0.740, rank ~97th/193 (High) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Human development & health | Healthcare quality | Limited public healthcare; primary care available; serious cases airlifted abroad | [source](https://en.wikipedia.org/wiki/Health_in_Dominica) — soft/estimate |
+| Human development & health | Health insurance | Not mandatory; private insurance ~$50-100/month | [source](https://en.wikipedia.org/wiki/Health_in_Dominica) — soft/estimate |
+| Human development & health | Medical note | Public hospitals in Roseau; limited specialists; medical evacuation to Martinique/US needed | [source](https://en.wikipedia.org/wiki/Health_in_Dominica) — soft/estimate |
+| Safety | Global Peace Index | GPI 2025: not ranked (small state, not assessed in top 163) | [source](https://www.visionofhumanity.org/global-peace-index/) — soft/estimate |
+| Safety | US travel advisory | US State Dept: Level 1 – Exercise Normal Precautions | [source](https://travel.state.gov/en/international-travel/travel-advisories/dominica.html) — hard/official |
+| Safety | Crime level | Numbeo Crime Index: 53.58 (Moderate), 2023 | [source](https://www.numbeo.com/crime/country_result.jsp?country=Dominica) — soft/estimate |
+| Money & tax | Non-resident bank account | Yes, non-residents can open accounts; limited international banking | [source](https://en.wikipedia.org/wiki/Economy_of_Dominica) — soft/estimate |
+| Money & tax | Banks & Russian clients | No known restrictions; not a Russian banking destination; SWIFT: yes; Visa/MC: yes; Mir: no | unsourced/unverified |
+| Money & tax | FATF status | Not on grey/black list (June 2026) | [source](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2026.html) — hard/official |
+| Money & tax | CRS exchange | Yes, since 2018 | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/crs-by-jurisdiction/) — hard/official |
+| Money & tax | Tax treaty with Russia | No DTT with Russia | [source](https://www.nalog.gov.ru/rn77/about_fts/international_cooperation/double_taxation/) — hard/official |
+| Money & tax | Wealth / inheritance / CGT | No wealth or inheritance tax | [source](https://en.wikipedia.org/wiki/Economy_of_Dominica) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules | unsourced/unverified |
+| Business | Company setup | ~2 weeks; cost ~$500-1,000 | [source](https://cipo.gov.dm/) — soft/estimate |
+| Business | Corporate tax | 25% headline rate | [source](https://ird.gov.dm/corporate-income-tax) — hard/official |
+| Family & education | International schools | Limited; 1-2 small international schools; annual ~$5,000-8,000 | unsourced/unverified |
+| Family & education | Top university | Ross University School of Medicine (offshore); no QS-ranked university | [source](https://www.topuniversities.com/) — hard/official |
+| Connectivity | Flights (RU / EU) | No direct flights to Russia or EU; connect via Barbados/Miami; ~20+ hrs from Moscow | unsourced/unverified |
+| Connectivity | Visa-free for Russians | Visa-free for up to 21 days | [source](https://en.wikipedia.org/wiki/Visa_policy_of_Dominica) — soft/estimate |
+| For Russian citizens | Sanctions position | No independent sanctions on Russia; generally follows UN positions | unsourced/unverified |
+| For Russian citizens | Applications from RU citizens | Accepts: citizenship by investment open to Russians; residence possible | [source](https://cbiu.gov.dm/) — soft/estimate |
+| Policy dynamics | Direction (12 mo) | Stable; CBI programme under OECD/EU scrutiny for transparency reforms (2025-2026). | [source](https://www.oecd.org/tax/transparency/) — soft/estimate |
+| Policy dynamics | Upcoming changes | Enhanced CBI due diligence requirements; OECD peer review ongoing | [source](https://www.fatf-gafi.org/en/countries/detail/Dominica.html) — soft/estimate |
+| Quality of life | World Happiness rank | Not ranked in WHR 2025 top 147 | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | Not ranked in InterNations Expat Insider 2025 | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | English is official language; no second language needed | [source](https://www.ef.com/epi/) — hard/official |
 
 ## Country Card
 

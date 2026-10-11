@@ -1,4 +1,4 @@
-# Wiki Schema — Residency & Citizenship Conditions (v3, generalized taxonomy)
+# Wiki Schema — Residency & Citizenship Conditions (v4: + Extended Snapshot, generalized taxonomy)
 
 ## Domain
 Cross-country living conditions for **every kind of residency program**, plus citizenship
@@ -163,6 +163,13 @@ and **MUST** be tagged `[soft/estimate]` with source URL.
 
 Renderer must handle both forms and produce a two-column Key/Value table with
 source annotation next to each value.
+
+### Extended Snapshot Spec (v4, pilot on 10 countries)
+Optional section `## Extended Snapshot` placed after `## Country Snapshot`, before `## Country Card`. Table `| Block | Field | Value | Source / Confidence |`, 68 fields in 13 blocks: Geography & size, Climate, Economy, Technology, Human development & health, Safety, Money & tax, Business, Family & education, Connectivity, For Russian citizens, Policy dynamics, Quality of life.
+- Frontmatter gets `extended_snapshot: YYYY-MM-DD` (date of last build). It does NOT affect `updated` / `last_checked`.
+- ~20 static fields come from the World Bank API via `scripts/fetch_indicators.py` (no LLM, refresh quarterly). The rest are filled by a strong model (v4-pro) from web sources, as JSON `{field: {v, src, q}}`.
+- `scripts/build_extended_snapshot.py` merges both and rewrites the block (idempotent). `hard/official` is allowed only for whitelisted official domains; a value without a URL is labeled `unsourced/unverified`; unknown values are `No reliable data`. Never invent numbers.
+- Policy dynamics and For-Russian-citizens fields are time-sensitive: the weekly monitor may update them.
 
 ### Country Card Spec
 

@@ -2,6 +2,7 @@
 title: Georgia — Georgia
 created: 2026-09-13
 updated: 2026-09-21
+extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, tax, rule_change, popular_ru, clear_pathway]
 category: popular_ru
@@ -143,6 +144,81 @@ Georgia remains one of the most accessible countries globally for independent re
 | Freedom House score (2025) | 58/100 — Partly Free | ^[https://freedomhouse.org/country/georgia/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,100 (Tbilisi); ~2,300 (Batumi) | ^[https://en.wikipedia.org/wiki/Tbilisi#Climate] hard/official |
 | Average annual temperature | ~13°C (Tbilisi) | ^[https://en.wikipedia.org/wiki/Tbilisi#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 68/68 fields. Static indicators refreshed quarterly; policy/Russia fields refreshed by the weekly monitor._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 69 700 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=GE) — hard/official |
+| Geography & size | Population density | 67 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=GE) — hard/official |
+| Geography & size | Urban population | 61% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=GE) — hard/official |
+| Geography & size | Coastline | 310 km (Black Sea coast) | [source](https://en.wikipedia.org/wiki/Geography_of_Georgia_(country)) — soft/estimate |
+| Geography & size | Highest point | Mount Shkhara, 5,203 m | [source](https://en.wikipedia.org/wiki/Georgia_(country)) — soft/estimate |
+| Geography & size | Type | mainland (Caucasus region, Black Sea access) | [source](https://en.wikipedia.org/wiki/Georgia_(country)) — soft/estimate |
+| Geography & size | Time zone | UTC+4 (GET, no DST); Moscow is UTC+3, so +1h | [source](https://www.timeanddate.com/time/zones/get) — soft/estimate |
+| Climate | Avg precipitation | 1026 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=GE) — hard/official |
+| Climate | PM2.5 exposure | 18.6 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=GE) — hard/official |
+| Climate | Climate zone | Cfa (humid subtropical) in west, Dfb (warm-summer humid continental) in mountains | [source](https://en.wikipedia.org/wiki/Climate_of_Georgia_(country)) — soft/estimate |
+| Climate | Temp winter / summer | Tbilisi: Jan avg 1.2°C, Jul avg 25.2°C | [source](https://en.wikipedia.org/wiki/Tbilisi#Climate) — soft/estimate |
+| Climate | Rainy days | Tbilisi: ~77 rainy days per year | [source](https://en.wikipedia.org/wiki/Tbilisi#Climate) — soft/estimate |
+| Climate | Humidity | Tbilisi: ~67% avg annual humidity | [source](https://en.wikipedia.org/wiki/Tbilisi#Climate) — soft/estimate |
+| Climate | Natural hazards | Earthquakes (moderate risk), landslides, floods; INFORM risk moderate | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Verdict | Diverse: subtropical Black Sea coast mild, Tbilisi with hot summers and mild winters; mountains cold with snow. | [source](https://en.wikipedia.org/wiki/Climate_of_Georgia_(country)) — soft/estimate |
+| Climate | Air quality | PM2.5 annual avg ~20 µg/m³ (moderate, Tbilisi can be worse in winter) | [source](https://www.iqair.com/georgia) — soft/estimate |
+| Economy | GDP (nominal) | $38.1B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GE) — hard/official |
+| Economy | GDP growth | 7.5% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=GE) — hard/official |
+| Economy | Inflation (CPI) | 3.9% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=GE) — hard/official |
+| Economy | Unemployment | 12.1% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=GE) — hard/official |
+| Economy | Central govt debt | 40% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=GE) — hard/official |
+| Economy | Gini index | 33.9 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=GE) — hard/official |
+| Economy | Tourism receipts | 10% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=GE) — hard/official |
+| Economy | Remittances | 11.2% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=GE) — hard/official |
+| Economy | Credit rating | S&P: BB (stable), Fitch: BB (positive), Moody's: Ba2 (stable) | [source](https://countryeconomy.com/ratings/georgia) — soft/estimate |
+| Economy | Currency | GEL (lari), managed float; ~-25% vs USD over 5yr (2021-2026, post-war depreciation) | [source](https://countryeconomy.com/countries/georgia) — soft/estimate |
+| Economy | Top industries | Services (~65%), Agriculture (~8%), Manufacturing (~12%), Tourism significant | [source](https://en.wikipedia.org/wiki/Economy_of_Georgia_(country)) — soft/estimate |
+| Economy | Dependence | Tourism-dependent (~8-12% GDP), remittances (~10% GDP), transit/logistics | [source](https://en.wikipedia.org/wiki/Economy_of_Georgia_(country)) — soft/estimate |
+| Economy | Economic Complexity | ECI Trade rank ~78/130 (2024 est.) | [source](https://oec.world/en/profile/country/geo) — soft/estimate |
+| Technology | Internet users | 84% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=GE) — hard/official |
+| Technology | Fixed broadband subs | 30.4 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=GE) — hard/official |
+| Technology | High-tech exports | 3.8% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=GE) — hard/official |
+| Technology | R&D spend | 0.26% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=GE) — hard/official |
+| Technology | Global Innovation Index | WIPO GII 2025: rank 56/139 | [source](https://www.wipo.int/gii-ranking/en/georgia) — hard/official |
+| Technology | E-Government (UN EGDI) | UN EGDI 2024: ~0.69, rank ~65/193 (high) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/71-Georgia) — soft/estimate |
+| Technology | Median broadband speed | Fixed broadband median ~30 Mbps (Ookla, 2025) | [source](https://www.speedtest.net/global-index/georgia) — soft/estimate |
+| Technology | 5G | 5G limited; trials in Tbilisi, not yet widely deployed | [source](https://www.gncc.ge/) — soft/estimate |
+| Technology | Online payments | Stripe not available; PayPal limited (send-only for Georgian accounts); Apple Pay available via local banks | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank ~90; Tbilisi is growing tech hub with IT sector booming | [source](https://www.startupblink.com/startups/georgia) — soft/estimate |
+| Human development & health | Life expectancy | 74.7 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=GE) — hard/official |
+| Human development & health | Hospital beds | 4.0 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=GE) — hard/official |
+| Human development & health | HDI | UNDP HDI 2022: 0.814, rank 60/193 (very high) | [source](https://countryeconomy.com/hdi/georgia) — soft/estimate |
+| Human development & health | Healthcare quality | Numbeo Healthcare Index: ~54 (moderate); public system reformed 2013 | [source](https://www.numbeo.com/health-care/country_result.jsp?country=Georgia) — soft/estimate |
+| Human development & health | Health insurance | Universal healthcare program since 2013; private insurance ~$20-50/mo for expats | [source](https://www.moh.gov.ge/) — soft/estimate |
+| Human development & health | Medical note | Public system basic but improving; private clinics in Tbilisi decent quality; low-cost medical tourism for dental/cosmetic. | [source](https://www.moh.gov.ge/) — soft/estimate |
+| Safety | Global Peace Index | GPI 2025: score 2.185, rank ~97 (medium) | [source](https://statbase.org/data/geo-global-peace-index) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 1: Exercise normal precautions (avoid occupied regions) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Georgia.html) — hard/official |
+| Safety | Crime level | Numbeo Crime Index: ~25 (low) | [source](https://www.numbeo.com/crime/country_result.jsp?country=Georgia) — soft/estimate |
+| Money & tax | Non-resident bank account | Yes, relatively easy; passport-only account opening possible at major banks (BoG, TBC) | [source](https://bankofgeorgia.ge/) — soft/estimate |
+| Money & tax | Banks & Russian clients | Russian clients widely accepted; Mir stopped Feb 2024 (US sanctions); Visa/MC from non-sanctioned banks work; SWIFT difficult but possible | [source](https://www.nbg.gov.ge/) — soft/estimate |
+| Money & tax | FATF status | Not on FATF grey or black lists | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | Yes, CRS participant since 2017 (first exchange Sep 2019) | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/) — hard/official |
+| Money & tax | Tax treaty with Russia | Yes, DTT in force since 2000; Russia suspended key articles Aug 2023 | [source](https://www.minfin.ru/en/document/?id_4=12956) — soft/estimate |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax (abolished); CGT 20% (individuals) on property sales; dividend tax 5% | [source](https://taxsummaries.pwc.com/georgia) — soft/estimate |
+| Money & tax | CFC rules | No specific CFC rules; territorial taxation for individuals (foreign-source income not taxed unless remitted) | [source](https://taxsummaries.pwc.com/georgia) — soft/estimate |
+| Business | Company setup | 1-2 days, minimal cost; very easy online via Public Registry | [source](https://www.entrepreneur.com/starting-a-business/how-to-start-a-business-in-georgia) — soft/estimate |
+| Business | Corporate tax | 15% standard CIT; 0% for individual entrepreneurs (small business status up to GEL 500k turnover) | [source](https://taxsummaries.pwc.com/georgia) — soft/estimate |
+| Family & education | International schools | Several in Tbilisi; $5,000-$15,000/year (QSI, British International School, New School) | [source](https://www.internationalschoolsearch.com/) — soft/estimate |
+| Family & education | Top university | Tbilisi State University (TSU); QS EECA rank ~100-150 range | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
+| Connectivity | Flights (RU / EU) | Direct flights Moscow-Tbilisi resumed May 2023 (~3h); hub flights to EU via Turkish Airlines/Pegasus via Istanbul (~7h total from Moscow) | [source](https://www.gcaa.ge/) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens (up to 1 year stay without visa) | [source](https://www.geoconsul.gov.ge/) — hard/official |
+| For Russian citizens | Sanctions position | Georgia aligns with some Western sanctions but has not imposed its own; trade with Russia continues; avoids secondary sanctions enforcement | [source](https://civil.ge/) — soft/estimate |
+| For Russian citizens | Applications from RU citizens | Russian citizens widely accepted; residence permit via business, employment, or property; police certificate + apostille required | [source](https://migration.commission.ge/) — soft/estimate |
+| Policy dynamics | Direction (12 mo) | Liberalising: digital nomad visa active since 2020; residence by $100K+ property; easy company registration; no restrictions on Russians | [source](https://agenda.ge/) — soft/estimate |
+| Policy dynamics | Upcoming changes | EU candidacy granted Dec 2023; visa liberalisation with EU expected; possible tightening if political instability increases | [source](https://ec.europa.eu/) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness Report 2025: rank 91/147, score 5.5 | [source](https://data.worldhappiness.report/country/GEO) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank ~35/53 (average) | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | Georgian needed outside Tbilisi; English spoken in cities by younger people; EF EPI rank #35 (moderate proficiency) | [source](https://www.ef.com/epi/) — hard/official |
 
 ## Country Card
 

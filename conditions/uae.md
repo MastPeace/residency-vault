@@ -2,6 +2,7 @@
 title: UAE — United Arab Emirates
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, golden-visa, tax, digital_nomad_visa, it_friendly, yacht_captain, popular_ru]
 category: multi
@@ -169,6 +170,81 @@ Largely positive. Golden Visa is well-established and functional. Processing tim
 | Freedom House score | 18/100 — Not Free (2025) | ^[https://freedomhouse.org/country/united-arab-emirates/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~3,500 | ^[https://weatherspark.com/countries/AE] hard/official |
 | Average annual temperature | ~27°C | ^[https://weatherspark.com/countries/AE] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 65/68 fields. Static indicators refreshed quarterly; policy/Russia fields refreshed by the weekly monitor._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 98 648 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=AE) — hard/official |
+| Geography & size | Population density | 155 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=AE) — hard/official |
+| Geography & size | Urban population | 86% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=AE) — hard/official |
+| Geography & size | Coastline | 1,318 km (Persian Gulf + Gulf of Oman) | [source](https://www.cia.gov/the-world-factbook/countries/united-arab-emirates/) — hard/official |
+| Geography & size | Highest point | Jebel Jais (Ras Al Khaimah), 1,934 m | [source](https://en.wikipedia.org/wiki/United_Arab_Emirates) — soft/estimate |
+| Geography & size | Type | mainland (Arabian Peninsula, Persian Gulf coast) | [source](https://en.wikipedia.org/wiki/United_Arab_Emirates) — soft/estimate |
+| Geography & size | Time zone | UTC+4 (GST, no DST); Moscow is UTC+3, so +1h | [source](https://www.timeanddate.com/time/zone/united-arab-emirates) — soft/estimate |
+| Climate | Avg precipitation | No reliable data | — |
+| Climate | PM2.5 exposure | 57.2 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=AE) — hard/official |
+| Climate | Climate zone | BWh (hot desert climate) | [source](https://en.wikipedia.org/wiki/Climate_of_the_United_Arab_Emirates) — soft/estimate |
+| Climate | Temp winter / summer | Abu Dhabi: Jan avg 18.8°C, Jul avg 35.9°C | [source](https://en.wikipedia.org/wiki/Abu_Dhabi#Climate) — soft/estimate |
+| Climate | Rainy days | Abu Dhabi: ~14 rainy days per year | [source](https://en.wikipedia.org/wiki/Abu_Dhabi#Climate) — soft/estimate |
+| Climate | Humidity | Coastal: ~60-70% avg annual humidity (very high in summer) | [source](https://en.wikipedia.org/wiki/Climate_of_the_United_Arab_Emirates) — soft/estimate |
+| Climate | Natural hazards | Extreme heat, sand/dust storms, occasional flash floods; low earthquake risk; World Risk Index low | [source](https://weltrisikobericht.de/) — soft/estimate |
+| Climate | Verdict | Extremely hot Jun-Sep (40°C+); pleasant Nov-Mar; year-round outdoor living requires AC-dependent indoor lifestyle. | [source](https://en.wikipedia.org/wiki/Climate_of_the_United_Arab_Emirates) — soft/estimate |
+| Climate | Air quality | PM2.5 annual avg ~40 µg/m³ (poor; dust and industrial pollution); Dubai often in 'unhealthy' range | [source](https://www.iqair.com/united-arab-emirates) — soft/estimate |
+| Economy | GDP (nominal) | $552.3B (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AE) — hard/official |
+| Economy | GDP growth | 4.0% (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=AE) — hard/official |
+| Economy | Inflation (CPI) | 1.3% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=AE) — hard/official |
+| Economy | Unemployment | 2.2% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=AE) — hard/official |
+| Economy | Central govt debt | 2% of GDP (2013) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=AE) — hard/official |
+| Economy | Gini index | 26.4 (2018) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=AE) — hard/official |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | No reliable data | — |
+| Economy | Credit rating | S&P: AA (stable), Moody's: Aa2 (stable), Fitch: AA- (stable) | [source](https://wam.ae/en/details/1395303331964) — soft/estimate |
+| Economy | Currency | AED (dirham), pegged to USD at 3.6725 since 1997; stable | [source](https://countryeconomy.com/countries/united-arab-emirates) — soft/estimate |
+| Economy | Top industries | Oil & gas (~25% GDP), Trade/logistics (~20%), Tourism & hospitality (~12%) | [source](https://en.wikipedia.org/wiki/Economy_of_the_United_Arab_Emirates) — soft/estimate |
+| Economy | Dependence | Oil-dependent but diversifying; tourism, finance, real estate, logistics growing rapidly; Dubai non-oil GDP 95%+ | [source](https://en.wikipedia.org/wiki/Economy_of_the_United_Arab_Emirates) — soft/estimate |
+| Economy | Economic Complexity | ECI Trade rank ~50/130 (2024 est.) | [source](https://oec.world/en/profile/country/are) — soft/estimate |
+| Technology | Internet users | 100% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=AE) — hard/official |
+| Technology | Fixed broadband subs | 40.8 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=AE) — hard/official |
+| Technology | High-tech exports | 9.0% of manufactured exports (2023) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=AE) — hard/official |
+| Technology | R&D spend | 1.49% of GDP (2021) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=AE) — hard/official |
+| Technology | Global Innovation Index | WIPO GII 2026: rank 25/139 (30th in 2025) | [source](https://www.wipo.int/gii-ranking/en/united-arab-emirates) — hard/official |
+| Technology | E-Government (UN EGDI) | UN EGDI 2024: 0.9058, rank 11/193 (very high) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/175-United-Arab-Emirates) — hard/official |
+| Technology | Median broadband speed | Fixed broadband median ~419 Mbps (Ookla, Aug 2026, rank 7 globally) | [source](https://www.speedtest.net/global-index/united-arab-emirates) — hard/official |
+| Technology | 5G | 5G widely available since 2019, nationwide coverage by Etisalat and du | [source](https://www.tdra.gov.ae/) — hard/official |
+| Technology | Online payments | Stripe available (UAE-based), PayPal, Apple Pay widely used | [source](https://stripe.com/ae) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink 2025: Dubai #44 globally (up 6 spots); strong government support (Hub71, DIFC) | [source](https://www.khaleejtimes.com/business/tech/dubais-start-up-engine-on-solid-ground) — soft/estimate |
+| Human development & health | Life expectancy | 83.1 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AE) — hard/official |
+| Human development & health | Hospital beds | 1.9 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=AE) — hard/official |
+| Human development & health | HDI | UNDP HDI 2022: 0.937, rank 17/193 (very high) | [source](https://countryeconomy.com/hdi/united-arab-emirates) — soft/estimate |
+| Human development & health | Healthcare quality | CEOWorld 2024: rank ~20; highly advanced private healthcare; Numbeo Healthcare Index: ~66 | [source](https://ceoworld.biz/2024/03/30/best-healthcare-systems-2024/) — soft/estimate |
+| Human development & health | Health insurance | Mandatory for all residents; employer-provided typically; private ~$1,500-$5,000/year for individual | [source](https://www.dha.gov.ae/) — soft/estimate |
+| Human development & health | Medical note | Excellent private healthcare (JCI-accredited); public system for nationals; major medical tourism destination (Dubai Health Experience) | [source](https://www.dha.gov.ae/) — soft/estimate |
+| Safety | Global Peace Index | GPI 2025: rank ~1-5 (claimed safest country; score ~1.2) | [source](https://taxadepts.com/uae-ranked-safest-country-world) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 2: Exercise increased caution (missile/drone threat) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/UnitedArabEmirates.html) — hard/official |
+| Safety | Crime level | Numbeo Crime Index: ~15 (very low; one of the safest globally) | [source](https://www.numbeo.com/crime/country_result.jsp?country=United+Arab+Emirates) — soft/estimate |
+| Money & tax | Non-resident bank account | Yes, but increasingly difficult for non-residents; most banks require UAE residence visa; some offshore accounts possible | [source](https://www.centralbank.ae/) — soft/estimate |
+| Money & tax | Banks & Russian clients | Russian clients accepted with due diligence; Mir not working; Visa/MC from non-sanctioned banks may work; SWIFT sometimes blocked | [source](https://www.centralbank.ae/) — soft/estimate |
+| Money & tax | FATF status | Removed from FATF grey list Feb 2024; now fully compliant | [source](https://www.fatf-gafi.org/en/countries/detail/United-Arab-Emirates.html) — hard/official |
+| Money & tax | CRS exchange | Yes, CRS participant since 2017 (first exchange Sep 2018) | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/) — hard/official |
+| Money & tax | Tax treaty with Russia | Yes, DTT in force since 2012; Russia suspended key articles Aug 2023 | [source](https://www.minfin.ru/en/document/?id_4=12956) — soft/estimate |
+| Money & tax | Wealth / inheritance / CGT | No personal income tax, no wealth tax, no inheritance tax, no CGT for individuals (except 9% corporate tax from 2023) | [source](https://taxsummaries.pwc.com/united-arab-emirates) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules for individuals; 9% CIT from Jun 2023 applies to onshore businesses only | [source](https://taxsummaries.pwc.com/united-arab-emirates) — soft/estimate |
+| Business | Company setup | 1-5 days in free zones (~$5,000-$15,000/year including license); mainland 2-4 weeks; World Bank Ease of Doing Business 2020: rank 16 | [source](https://www.doingbusiness.org/en/data/exploreeconomies/united-arab-emirates) — soft/estimate |
+| Business | Corporate tax | 9% federal CIT (from June 2023, on profits above AED 375k); 0% in many free zones; 0% personal income tax | [source](https://taxsummaries.pwc.com/united-arab-emirates) — soft/estimate |
+| Family & education | International schools | 200+ international schools in Dubai/Abu Dhabi; $8,000-$30,000/year (British, American, IB curricula) | [source](https://www.khda.gov.ae/) — soft/estimate |
+| Family & education | Top university | Khalifa University; QS World 2026 rank ~200 | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
+| Connectivity | Flights (RU / EU) | Direct flights Moscow-Dubai/Abu Dhabi operating (multiple daily, ~5h); major hub to EU via Emirates/Etihad; EU flights normal | [source](https://www.emirates.com/) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens (30 days, extendable); e-visa also available for longer stays | [source](https://u.ae/en/information-and-services/visa-and-emirates-id/do-you-need-an-entry-permit-or-a-visa-to-enter-the-uae) — soft/estimate |
+| For Russian citizens | Sanctions position | UAE has not imposed sanctions on Russia; neutral stance; trade/financial intermediary; some Western pressure to close loopholes | [source](https://www.reuters.com/world/middle-east/uae-tightens-scrutiny-russian-funds-2024/) — soft/estimate |
+| For Russian citizens | Applications from RU citizens | Russian applicants widely accepted; residence via company, property (AED 750K+), or employment; police certificate + apostille required | [source](https://u.ae/en/information-and-services/visa-and-emirates-id) — soft/estimate |
+| Policy dynamics | Direction (12 mo) | Liberalising: Golden Visa expanded (10yr); Green Visa (5yr freelance); Remote Work Visa (1yr); multiple residency options since 2019 | [source](https://u.ae/en/information-and-services/visa-and-emirates-id) — soft/estimate |
+| Policy dynamics | Upcoming changes | Corporate tax regime maturing; potential FATF monitoring post-delisting; some banks tightening KYC for Russian clients under US pressure | [source](https://www.centralbank.ae/) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness Report 2025: rank 21/147 | [source](https://wam.ae/en/details/1395303331964) — soft/estimate |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank ~10/53 (top for career and QoL) | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | English universal in business/daily life; Arabic rarely needed by expats; EF EPI #72 (low proficiency but English is lingua franca) | [source](https://www.ef.com/epi/) — hard/official |
 
 ## Country Card
 

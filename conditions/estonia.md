@@ -2,6 +2,7 @@
 title: Estonia — Estonia
 created: 2026-09-13
 updated: 2026-09-28
+extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, digital-nomad, startup-visa, e-residency, it_friendly]
 category: it_friendly
@@ -117,6 +118,81 @@ Estonia has one of the most restrictive stances toward Russian citizens since 20
 | Freedom House score | 96/100 (Free) | [Freedom House](https://freedomhouse.org/country/estonia/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~1,700–1,900 h (Tallinn ~1,830h) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~5°C annual mean (Tallinn: −3°C Feb, +17°C Jul) | [Estonian Weather Service](https://www.ilmateenistus.ee/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 67/68 fields. Static indicators refreshed quarterly; policy/Russia fields refreshed by the weekly monitor._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 45 340 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=EE) — hard/official |
+| Geography & size | Population density | 32 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=EE) — hard/official |
+| Geography & size | Urban population | 71% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=EE) — hard/official |
+| Geography & size | Coastline | ~3,794 km (including islands) | [source](https://en.wikipedia.org/wiki/Geography_of_Estonia) — soft/estimate |
+| Geography & size | Highest point | Suur Munamägi, 318 m | [source](https://en.wikipedia.org/wiki/Geography_of_Estonia) — soft/estimate |
+| Geography & size | Type | mainland (Baltic, with ~2,222 islands) | [source](https://en.wikipedia.org/wiki/Estonia) — soft/estimate |
+| Geography & size | Time zone | UTC+2 (EET), UTC+3 (EEST summer); same as Moscow (MSK) in summer | [source](https://en.wikipedia.org/wiki/Time_in_Estonia) — soft/estimate |
+| Climate | Avg precipitation | 626 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=EE) — hard/official |
+| Climate | PM2.5 exposure | 5.9 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=EE) — hard/official |
+| Climate | Climate zone | Dfb (Warm-summer humid continental) | [source](https://en.wikipedia.org/wiki/Estonia#Climate) — soft/estimate |
+| Climate | Temp winter / summer | Tallinn: Jan avg -3.5°C, Jul avg 17.5°C | [source](https://en.wikipedia.org/wiki/Tallinn#Climate) — soft/estimate |
+| Climate | Rainy days | ~160-180 rainy/snowy days/year | [source](https://en.wikipedia.org/wiki/Estonia#Climate) — soft/estimate |
+| Climate | Humidity | ~80% avg annual RH | [source](https://en.wikipedia.org/wiki/Estonia#Climate) — soft/estimate |
+| Climate | Natural hazards | Winter storms, flooding; INFORM Risk: very low | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Verdict | Cool summers, cold winters; dark Nov-Feb; pleasant May-Sep; snow common Dec-Mar. | [source](https://en.wikipedia.org/wiki/Estonia#Climate) — soft/estimate |
+| Climate | Air quality | PM2.5 annual: ~6-8 µg/m³ (very good, meets WHO guideline) | [source](https://www.iqair.com/estonia) — soft/estimate |
+| Economy | GDP (nominal) | $47.0B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=EE) — hard/official |
+| Economy | GDP growth | 0.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=EE) — hard/official |
+| Economy | Inflation (CPI) | 4.8% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=EE) — hard/official |
+| Economy | Unemployment | 8.3% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=EE) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 30.7 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=EE) — hard/official |
+| Economy | Tourism receipts | 4% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=EE) — hard/official |
+| Economy | Remittances | 1.1% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=EE) — hard/official |
+| Economy | Credit rating | S&P: AA-, Moody's: A1, Fitch: A+ (all stable, 2026) | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-estonia-at-a-outlook-stable-05-06-2026) — hard/official |
+| Economy | Currency | EUR (€), free-floating; ~-8% vs USD over 5yr (2021-2026) | [source](https://www.xe.com/currencycharts/?from=EUR&to=USD) — soft/estimate |
+| Economy | Top industries | 1. IT/digital services 2. Manufacturing (electronics, wood) 3. Logistics/transit | [source](https://en.wikipedia.org/wiki/Economy_of_Estonia) — soft/estimate |
+| Economy | Dependence | Export-oriented digital economy; trade with Nordic countries | [source](https://en.wikipedia.org/wiki/Economy_of_Estonia) — soft/estimate |
+| Economy | Economic Complexity | ECI Trade rank: ~28th/130 (2024, OEC) | [source](https://oec.world/en/profile/country/est) — hard/official |
+| Technology | Internet users | 92% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=EE) — hard/official |
+| Technology | Fixed broadband subs | 35.4 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=EE) — hard/official |
+| Technology | High-tech exports | 18.4% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=EE) — hard/official |
+| Technology | R&D spend | 1.84% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=EE) — hard/official |
+| Technology | Global Innovation Index | WIPO GII 2026: 17th/139 | [source](https://www.wipo.int/gii-ranking/en/estonia) — hard/official |
+| Technology | E-Government (UN EGDI) | UN EGDI 2024: ~0.93, rank ~3-5/193 (global e-government leader) | [source](https://publicadministration.un.org/egovkb/en-us/data-center) — hard/official |
+| Technology | Median broadband speed | Median fixed broadband ~95 Mbps (Ookla 2025) | [source](https://en.wikipedia.org/wiki/Internet_in_Estonia) — soft/estimate |
+| Technology | 5G | Yes; Telia 5G covers 99% of population (Sep 2026) | [source](https://digital-strategy.ec.europa.eu/en/news/estonia-telia-5g-network-covers-99-percent-population) — hard/official |
+| Technology | Online payments | Stripe: yes, PayPal: yes, Apple Pay: yes (widely available) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink 2025: ~rank 20-25; strong (Skype, Wise, Bolt origin) | [source](https://www.startupblink.com/startups/estonia) — soft/estimate |
+| Human development & health | Life expectancy | 79.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=EE) — hard/official |
+| Human development & health | Hospital beds | 4.1 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=EE) — hard/official |
+| Human development & health | HDI | UNDP HDI 2024: 0.899, rank ~31st/193 (Very High) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Human development & health | Healthcare quality | WHO UHC index: ~79/100 (2021); public healthcare system | [source](https://data.who.int/countries/233) — soft/estimate |
+| Human development & health | Health insurance | Mandatory via Estonian Health Insurance Fund; employer contributions | [source](https://en.wikipedia.org/wiki/Health_in_Estonia) — soft/estimate |
+| Human development & health | Medical note | Public healthcare with digital records; private clinics in Tallinn/Tartu; limited medical tourism | [source](https://en.wikipedia.org/wiki/Health_in_Estonia) — soft/estimate |
+| Safety | Global Peace Index | GPI 2025: rank ~30-35, score ~1.5 | [source](https://www.visionofhumanity.org/global-peace-index/) — soft/estimate |
+| Safety | US travel advisory | US State Dept: Level 1 – Exercise Normal Precautions | [source](https://travel.state.gov/en/international-travel/travel-advisories/estonia.html) — hard/official |
+| Safety | Crime level | Numbeo Crime Index: 23.38 (Very Low), 2026 | [source](https://www.numbeo.com/crime/country_result.jsp?country=Estonia) — soft/estimate |
+| Money & tax | Non-resident bank account | Yes, e-Residency allows remote banking; tighter AML since 2018 Danske scandal | [source](https://e-resident.gov.ee/) — soft/estimate |
+| Money & tax | Banks & Russian clients | EU sanctions restrict Russian clients; SWIFT: yes; Visa/MC: yes; Mir: no; Russian passport holders face enhanced scrutiny | [source](https://en.wikipedia.org/wiki/Estonia%E2%80%93Russia_relations) — soft/estimate |
+| Money & tax | FATF status | Not on grey/black list (June 2026); strong AML/CFT regime | [source](https://www.fatf-gafi.org/en/countries/detail/Estonia.html) — hard/official |
+| Money & tax | CRS exchange | Yes, since 2017 | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/crs-by-jurisdiction/) — hard/official |
+| Money & tax | Tax treaty with Russia | Yes, DTT in force since 2000 | [source](https://www.nalog.gov.ru/rn77/about_fts/international_cooperation/double_taxation/) — hard/official |
+| Money & tax | Wealth / inheritance / CGT | No wealth or inheritance tax | [source](https://www.emta.ee/en/business-client/taxes-and-payment/other-taxes) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules under EU ATAD (since 2019) | [source](https://www.emta.ee/en/business-client/taxes-and-payment/income-tax-business) — soft/estimate |
+| Business | Company setup | 1 day-1 week via e-Residency; cost ~€190 state fee + €200-400/yr contact | [source](https://e-resident.gov.ee/start-a-company/) — hard/official |
+| Business | Corporate tax | 20% on distributed profits only; 0% on retained/reinvested earnings | [source](https://www.emta.ee/en/business-client/taxes-and-payment/income-tax-business) — soft/estimate |
+| Family & education | International schools | Several (ISE, IST); annual ~€8,000-20,000 | [source](https://www.international-schools-database.com/in/estonia) — soft/estimate |
+| Family & education | Top university | University of Tartu; QS rank: ~358 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Flights (RU / EU) | No direct flights to Russia (EU ban); EU hubs: Helsinki, Stockholm; ~1-2h; no flights from Moscow | [source](https://www.consilium.europa.eu/en/policies/sanctions/) — hard/official |
+| Connectivity | Visa-free for Russians | Visa required; Estonia stopped issuing most visas to Russians (2022); non-biometric passports not recognized (Mar 2025) | [source](https://vm.ee/en/news/government-limits-issuing-visas-and-entry-estonia-russian-citizens) — soft/estimate |
+| For Russian citizens | Sanctions position | EU/NATO member: strong supporter of Russia sanctions; advocates for tougher measures | [source](https://www.vm.ee/en/news/tsahkna-exports-alumina-eu-russia-must-be-banned) — soft/estimate |
+| For Russian citizens | Applications from RU citizens | Heavily restricted: residence permits to Russians severely limited; non-biometric passports invalid (Sep 2025) | [source](https://vm.ee/en/news/estonia-stops-recognising-non-biometric-russian-passports) — soft/estimate |
+| Policy dynamics | Direction (12 mo) | Tightening: visa ban (2022); non-biometric passport ban (Mar 2025); residence permit restrictions ongoing. | [source](https://vm.ee/en/news/estonia-stops-recognising-non-biometric-russian-passports) — soft/estimate |
+| Policy dynamics | Upcoming changes | Continued tightening of Russian entry/residence; EU sanctions expansion expected | [source](https://www.consilium.europa.eu/en/policies/sanctions/) — soft/estimate |
+| Quality of life | World Happiness rank | UN WHR 2025: rank 46/147, score 6.41/10 | [source](https://data.worldhappiness.report/country/EST) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2025: ~rank 25-35 | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI: rank 31/123, score 561 (high proficiency); English widely spoken in business | [source](https://www.ef.com/epi/) — hard/official |
 
 ## Country Card
 

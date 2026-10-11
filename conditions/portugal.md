@@ -2,6 +2,7 @@
 title: Portugal — Residency & Citizenship Conditions
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, golden-visa, digital-nomad, tax, passive-income, it_friendly]
 category: it_friendly
@@ -157,6 +158,81 @@ AIMA backlogs are the dominant complaint across forums: 6–9 months for initial
 | Freedom House score | 96/100 (Free) | [Freedom House](https://freedomhouse.org/country/portugal/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | 2,799 h (Lisbon) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~16 °C (Lisbon; cooler inland north) | [Wikipedia / IPMA](https://en.wikipedia.org/wiki/Portugal#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 68/68 fields. Static indicators refreshed quarterly; policy/Russia fields refreshed by the weekly monitor._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 92 230 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=PT) — hard/official |
+| Geography & size | Population density | 117 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=PT) — hard/official |
+| Geography & size | Urban population | 61% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=PT) — hard/official |
+| Geography & size | Coastline | 1,793 km (mainland 943 km + islands) | [source](https://www.cia.gov/the-world-factbook/countries/portugal/) — hard/official |
+| Geography & size | Highest point | Mount Pico (Ponta do Pico), 2,351 m | [source](https://en.wikipedia.org/wiki/Portugal) — soft/estimate |
+| Geography & size | Type | mainland (continental Europe) + Atlantic archipelagos (Azores, Madeira) | [source](https://en.wikipedia.org/wiki/Portugal) — soft/estimate |
+| Geography & size | Time zone | UTC+0 (WET) / UTC+1 (WEST summer); Moscow is UTC+3, so -3h/-2h DST | [source](https://www.timeanddate.com/time/zone/portugal) — soft/estimate |
+| Climate | Avg precipitation | 854 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=PT) — hard/official |
+| Climate | PM2.5 exposure | 8.8 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=PT) — hard/official |
+| Climate | Climate zone | Csa (Mediterranean hot-summer) in south, Csb (warm-summer) in north | [source](https://en.wikipedia.org/wiki/Climate_of_Portugal) — soft/estimate |
+| Climate | Temp winter / summer | Lisbon: Jan avg 11.6°C, Jul avg 23.5°C | [source](https://en.wikipedia.org/wiki/Lisbon#Climate) — soft/estimate |
+| Climate | Rainy days | Lisbon: ~100 rainy days per year | [source](https://en.wikipedia.org/wiki/Lisbon#Climate) — soft/estimate |
+| Climate | Humidity | Lisbon: ~72% avg annual relative humidity | [source](https://en.wikipedia.org/wiki/Lisbon#Climate) — soft/estimate |
+| Climate | Natural hazards | Earthquakes (1755 Lisbon quake), wildfires, coastal erosion; INFORM Risk low | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Verdict | Mild year-round with 300+ sunny days; summers hot inland, comfortable on the coast. | [source](https://en.wikipedia.org/wiki/Climate_of_Portugal) — soft/estimate |
+| Climate | Air quality | PM2.5 annual avg ~8 µg/m³ (good, WHO guideline 5); occasional African dust episodes | [source](https://www.iqair.com/portugal) — soft/estimate |
+| Economy | GDP (nominal) | $346.6B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PT) — hard/official |
+| Economy | GDP growth | 1.9% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=PT) — hard/official |
+| Economy | Inflation (CPI) | 2.3% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=PT) — hard/official |
+| Economy | Unemployment | 6.2% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=PT) — hard/official |
+| Economy | Central govt debt | 6% of GDP (1994) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=PT) — hard/official |
+| Economy | Gini index | 33.9 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=PT) — hard/official |
+| Economy | Tourism receipts | 12% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=PT) — hard/official |
+| Economy | Remittances | 0.8% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=PT) — hard/official |
+| Economy | Credit rating | S&P: A-, Moody's: A3, Fitch: A (upgraded Sep 2025) | [source](https://www.portugal.gov.pt/en/gc23/communication/news-item?i=fitch-upgrades-portugals-rating-to-a) — hard/official |
+| Economy | Currency | EUR (euro), free float; ~-8% vs USD over 5yr (2021-2026) | [source](https://countryeconomy.com/countries/portugal) — soft/estimate |
+| Economy | Top industries | Services (~75% GDP), Manufacturing (~13%), Tourism (~8% GDP direct) | [source](https://en.wikipedia.org/wiki/Economy_of_Portugal) — soft/estimate |
+| Economy | Dependence | Tourism-dependent (~15-20% GDP incl. indirect); EU transfers significant | [source](https://en.wikipedia.org/wiki/Economy_of_Portugal) — soft/estimate |
+| Economy | Economic Complexity | ECI Trade rank 43/130 (ECI: 0.47, 2024) | [source](https://oec.world/en/profile/country/prt) — hard/official |
+| Technology | Internet users | 88% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=PT) — hard/official |
+| Technology | Fixed broadband subs | 45.2 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=PT) — hard/official |
+| Technology | High-tech exports | 6.8% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=PT) — hard/official |
+| Technology | R&D spend | 1.69% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=PT) — hard/official |
+| Technology | Global Innovation Index | WIPO GII 2025: rank 31/139 | [source](https://www.wipo.int/gii-ranking/en/portugal) — hard/official |
+| Technology | E-Government (UN EGDI) | UN EGDI 2024: 0.9145, rank 33/193 (very high) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/139-Portugal) — hard/official |
+| Technology | Median broadband speed | Fixed broadband median ~173 Mbps (Ookla, 2025) | [source](https://www.speedtest.net/global-index/portugal) — soft/estimate |
+| Technology | 5G | 5G commercially available since 2021, all major cities covered | [source](https://www.anacom.pt/) — soft/estimate |
+| Technology | Online payments | Stripe, PayPal, Apple Pay available for residents | [source](https://stripe.com/en-pt) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank ~27 globally (2025), Lisbon is key hub | [source](https://www.startupblink.com/startups/portugal) — soft/estimate |
+| Human development & health | Life expectancy | 82.4 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=PT) — hard/official |
+| Human development & health | Hospital beds | 3.5 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=PT) — hard/official |
+| Human development & health | HDI | UNDP HDI 2022: 0.874, rank 42/193 (very high) | [source](https://countryeconomy.com/hdi/portugal) — soft/estimate |
+| Human development & health | Healthcare quality | CEOWorld 2024: rank 25; Numbeo Healthcare Index: ~72 (high) | [source](https://ceoworld.biz/2024/03/30/best-healthcare-systems-2024/) — soft/estimate |
+| Human development & health | Health insurance | Public NHS (SNS) covers residents; private insurance ~€30-100/mo optional | [source](https://www.sns.gov.pt/) — soft/estimate |
+| Human development & health | Medical note | Good public system (SNS); private care faster but affordable; medical tourism growing (dental, cosmetic). | [source](https://www.sns.gov.pt/) — soft/estimate |
+| Safety | Global Peace Index | GPI 2025: rank ~7, score ~1.372 (very high peace) | [source](https://www.visionofhumanity.org/) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 1: Exercise normal precautions | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Portugal.html) — hard/official |
+| Safety | Crime level | Numbeo Crime Index: ~30 (low) | [source](https://www.numbeo.com/crime/country_result.jsp?country=Portugal) — soft/estimate |
+| Money & tax | Non-resident bank account | Yes, but requires NIF (tax ID) and proof of address; moderate difficulty | [source](https://www.bancomontepio.pt/) — soft/estimate |
+| Money & tax | Banks & Russian clients | EU sanctions apply; Russian passport holders face scrutiny; Visa/MC Russian-issued cards blocked; no Mir | [source](https://finance.ec.europa.eu/eu-and-world/sanctions-restrictive-measures_en) — soft/estimate |
+| Money & tax | FATF status | Not on FATF grey or black lists | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | Yes, CRS participant since 2017 (EU directive, first exchange Sep 2017) | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/) — hard/official |
+| Money & tax | Tax treaty with Russia | Yes, DTT in force since 2002; Russia suspended key articles Aug 2023 | [source](https://www.minfin.ru/en/document/?id_4=12956) — soft/estimate |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; stamp duty 10% on inheritance (spouse/descendants exempt); CGT 28% on gains | [source](https://taxsummaries.pwc.com/portugal) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply (EU ATAD); foreign income of controlled companies may be attributed to Portuguese resident | [source](https://taxsummaries.pwc.com/portugal) — soft/estimate |
+| Business | Company setup | ~6.5 days, ~€360 (online); very streamlined via 'Empresa na Hora' | [source](https://eportugal.gov.pt/en/servicos/criar-uma-empresa) — soft/estimate |
+| Business | Corporate tax | 21% standard CIT (mainland); 14.7% Madeira; reduced rates for SMEs on first €50k | [source](https://taxsummaries.pwc.com/portugal) — soft/estimate |
+| Family & education | International schools | Multiple in Lisbon/Porto/Algarve; €8,000-€18,000/year typical fees | [source](https://www.internationalschoolsearch.com/) — soft/estimate |
+| Family & education | Top university | University of Lisbon; QS World 2026 rank ~260 | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
+| Connectivity | Flights (RU / EU) | No direct flights to Russia (EU airspace ban); hub flights to EU capitals via Lisbon Airport; Moscow flight time ~5.5h (historical) | [source](https://www.anac.pt/) — soft/estimate |
+| Connectivity | Visa-free for Russians | Schengen visa required; visa-free only for EU/EEA citizens; Russia not eligible since Sep 2022 suspension | [source](https://ec.europa.eu/home-affairs/policies/schengen-borders-and-visa/visa-policy_en) — hard/official |
+| For Russian citizens | Sanctions position | Full EU sanctions on Russia; arms embargo, financial restrictions, travel bans on individuals | [source](https://www.consilium.europa.eu/en/policies/sanctions/restrictive-measures-against-russia/) — hard/official |
+| For Russian citizens | Applications from RU citizens | Residence applications accepted but face enhanced scrutiny under EU sanctions regime; police certificate + apostille required | [source](https://www.sef.pt/en/Pages/homepage.aspx) — soft/estimate |
+| Policy dynamics | Direction (12 mo) | Tightening: NHR regime ended Jan 2024; Golden Visa real estate option removed Oct 2023; Sephardic citizenship tightened; AIMA replaced SEF | [source](https://www.portugal.gov.pt/) — hard/official |
+| Policy dynamics | Upcoming changes | NHR 2.0 (IFICI) for scientific/innovation workers introduced 2024; AIMA immigration agency operational; D7/D8 visa reforms under discussion | [source](https://www.aima.gov.pt/) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness Report 2025: rank 69/147, score 6.3 | [source](https://data.worldhappiness.report/country/PRT) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank 15/53 (very good) | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | English widely spoken in cities/tourism; Portuguese needed for bureaucracy; EF EPI rank #6 (very high proficiency) | [source](https://www.ef.com/epi/) — hard/official |
 
 ## Country Card
 

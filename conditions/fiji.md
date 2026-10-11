@@ -2,6 +2,7 @@
 title: Fiji — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-11
 last_checked: 2026-10-11
 type: entity
 tags: [residence, citizenship, tax, retired, investment, clear_pathway]
@@ -106,6 +107,81 @@ Expat reporting is thin but generally positive for retirees and investors; the m
 | Freedom House score | 72/100 Free (2026); 69/100 Partly Free (2025) | [Freedom House](https://freedomhouse.org/country/fiji/freedom-world/2026) — hard/official |
 | Average annual sunshine hours | ~3,250 h (Suva, ~8.9 h/day) | [temperatures.com](https://temperatures.com/weather/suva/climate) [soft/estimate] |
 | Average annual temperature | ~25–26 °C (Suva) | [monthlyclimate.com](https://monthlyclimate.com/fiji/suva) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 64/68 fields. Static indicators refreshed quarterly; policy/Russia fields refreshed by the weekly monitor._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 18 333 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=FJ) — hard/official |
+| Geography & size | Population density | 51 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=FJ) — hard/official |
+| Geography & size | Urban population | 60% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=FJ) — hard/official |
+| Geography & size | Coastline | ~1,129 km | [source](https://en.wikipedia.org/wiki/Geography_of_Fiji) — soft/estimate |
+| Geography & size | Highest point | Mount Tomanivi (Victoria), 1,324 m | [source](https://en.wikipedia.org/wiki/Geography_of_Fiji) — soft/estimate |
+| Geography & size | Type | archipelago (332 islands, ~106 inhabited; South Pacific) | [source](https://en.wikipedia.org/wiki/Fiji) — soft/estimate |
+| Geography & size | Time zone | UTC+12, DST UTC+13 (Nov-Jan); +9h vs Moscow (MSK UTC+3) | [source](https://en.wikipedia.org/wiki/Time_in_Fiji) — soft/estimate |
+| Climate | Avg precipitation | No reliable data | — |
+| Climate | PM2.5 exposure | No reliable data | — |
+| Climate | Climate zone | Af/Am (Tropical rainforest/monsoon) | [source](https://en.wikipedia.org/wiki/Geography_of_Fiji#Climate) — soft/estimate |
+| Climate | Temp winter / summer | Suva: Jan avg 27°C, Jul avg 23°C (warm year-round) | [source](https://en.wikipedia.org/wiki/Suva#Climate) — soft/estimate |
+| Climate | Rainy days | ~180-220 rainy days/year (wet season Nov-Apr) | [source](https://en.wikipedia.org/wiki/Geography_of_Fiji#Climate) — soft/estimate |
+| Climate | Humidity | ~80% avg annual RH | [source](https://en.wikipedia.org/wiki/Geography_of_Fiji#Climate) — soft/estimate |
+| Climate | Natural hazards | Cyclones (Nov-Apr), floods; INFORM Risk: medium | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Verdict | Warm tropical year-round; wet Nov-Apr with cyclone risk; dry May-Oct more pleasant. | [source](https://en.wikipedia.org/wiki/Geography_of_Fiji#Climate) — soft/estimate |
+| Climate | Air quality | PM2.5 annual: <10 µg/m³ (very good, meets WHO guideline) | [source](https://www.iqair.com/fiji) — soft/estimate |
+| Economy | GDP (nominal) | $6.2B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=FJ) — hard/official |
+| Economy | GDP growth | 3.2% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=FJ) — hard/official |
+| Economy | Inflation (CPI) | -1.4% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=FJ) — hard/official |
+| Economy | Unemployment | 5.3% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=FJ) — hard/official |
+| Economy | Central govt debt | 37% of GDP (1994) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=FJ) — hard/official |
+| Economy | Gini index | 30.7 (2019) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=FJ) — hard/official |
+| Economy | Tourism receipts | 18% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=FJ) — hard/official |
+| Economy | Remittances | No reliable data | — |
+| Economy | Credit rating | S&P: B+ (stable), Moody's: B1 (stable) | [source](https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3256073) — hard/official |
+| Economy | Currency | FJD (Fijian dollar), managed float; ~-15% vs USD over 5yr (2021-2026) | [source](https://www.xe.com/currencycharts/?from=FJD&to=USD) — soft/estimate |
+| Economy | Top industries | 1. Tourism (~24% GDP) 2. Sugar/agriculture 3. Water exports | [source](https://en.wikipedia.org/wiki/Economy_of_Fiji) — soft/estimate |
+| Economy | Dependence | Tourism-dependent (~24% GDP); also agriculture, remittances, water | [source](https://en.wikipedia.org/wiki/Economy_of_Fiji) — soft/estimate |
+| Economy | Economic Complexity | ECI Trade rank: not in top 100 (OEC 2024) | [source](https://oec.world/en/profile/country/fji) — hard/official |
+| Technology | Internet users | 75% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=FJ) — hard/official |
+| Technology | Fixed broadband subs | 1.8 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=FJ) — hard/official |
+| Technology | High-tech exports | 3.2% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=FJ) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | WIPO GII 2026: not ranked in top 139 | [source](https://www.wipo.int/gii-ranking/en/) — hard/official |
+| Technology | E-Government (UN EGDI) | UN EGDI 2024: ~0.55, rank ~120-130/193 | [source](https://publicadministration.un.org/egovkb/en-us/data-center) — soft/estimate |
+| Technology | Median broadband speed | Median fixed broadband ~25 Mbps (Ookla 2025) | [source](https://www.speedtest.net/global-index) — soft/estimate |
+| Technology | 5G | Yes; Vodafone Fiji launched 5G Sep 2025; limited coverage (Suva initially) | [source](https://www.vodafone.com.fj/about-us/media-releases/vodafone-fiji-goes-live-with-5g) — soft/estimate |
+| Technology | Online payments | Stripe: no, PayPal: yes, Apple Pay: limited | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Not ranked by StartupBlink; negligible ecosystem | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 67.5 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=FJ) — hard/official |
+| Human development & health | Hospital beds | 1.9 per 1000 (2017) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=FJ) — hard/official |
+| Human development & health | HDI | UNDP HDI 2024: ~0.743, rank ~104th/193 (High) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Human development & health | Healthcare quality | WHO UHC index: ~60/100 (2021); public healthcare limited | [source](https://data.who.int/countries/242) — soft/estimate |
+| Human development & health | Health insurance | Not mandatory; private insurance ~$30-80/month | [source](https://en.wikipedia.org/wiki/Health_in_Fiji) — soft/estimate |
+| Human development & health | Medical note | Public hospitals in major cities; limited specialist care; evacuation to Australia/NZ for serious cases | [source](https://en.wikipedia.org/wiki/Health_in_Fiji) — soft/estimate |
+| Safety | Global Peace Index | GPI 2025: rank ~70-80, score ~1.9 | [source](https://www.visionofhumanity.org/global-peace-index/) — soft/estimate |
+| Safety | US travel advisory | US State Dept: Level 1 – Exercise Normal Precautions | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/fiji-travel-advisory.html) — hard/official |
+| Safety | Crime level | Numbeo Crime Index: 57.08 (Moderate), 2025 | [source](https://www.numbeo.com/crime/country_result.jsp?country=Fiji) — soft/estimate |
+| Money & tax | Non-resident bank account | Yes, non-residents can open accounts; limited international banking | [source](https://en.wikipedia.org/wiki/Economy_of_Fiji) — soft/estimate |
+| Money & tax | Banks & Russian clients | No known restrictions; not a Russian banking destination; SWIFT: yes; Visa/MC: yes; Mir: no | unsourced/unverified |
+| Money & tax | FATF status | Not on grey/black list (June 2026) | [source](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2026.html) — hard/official |
+| Money & tax | CRS exchange | No; committed to start AEOI by 2028 | [source](https://www.oecd.org/tax/transparency/fiji-commits-to-start-automatic-exchange-of-financial-account-information-by-2028.htm) — hard/official |
+| Money & tax | Tax treaty with Russia | No DTT with Russia | [source](https://www.nalog.gov.ru/rn77/about_fts/international_cooperation/double_taxation/) — hard/official |
+| Money & tax | Wealth / inheritance / CGT | No wealth or inheritance tax | [source](https://en.wikipedia.org/wiki/Economy_of_Fiji) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules | unsourced/unverified |
+| Business | Company setup | ~2-4 weeks; registration cost ~$50-500 | [source](https://www.rocfiji.gov.fj/) — soft/estimate |
+| Business | Corporate tax | 20% headline rate | [source](https://taxglass.com/compare/botswana-vs-fiji) — soft/estimate |
+| Family & education | International schools | Several (International School Suva); annual $5,000-15,000 | [source](https://www.international-schools-database.com/in/fiji) — soft/estimate |
+| Family & education | Top university | University of the South Pacific (USP); no QS world rank; regional top-50 Oceania | [source](https://www.topuniversities.com/) — soft/estimate |
+| Connectivity | Flights (RU / EU) | No direct flights to Russia or EU; connect via Australia/NZ/Asia; ~25+ hrs from Moscow | unsourced/unverified |
+| Connectivity | Visa-free for Russians | Visa required for Russian citizens | [source](https://en.wikipedia.org/wiki/Visa_policy_of_Fiji) — soft/estimate |
+| For Russian citizens | Sanctions position | No independent sanctions on Russia; generally follows UN positions | unsourced/unverified |
+| For Russian citizens | Applications from RU citizens | Accepts: residence permits available; no specific restrictions on Russian applicants | [source](https://www.immigration.gov.fj/) — soft/estimate |
+| Policy dynamics | Direction (12 mo) | Stable; immigration policy largely unchanged; post-COVID tourism recovery focus (2025-2026). | [source](https://www.imf.org/en/news/articles/2026/05/29/pr26178-fiji-imf-executive-board-concludes-2026-article-iv-consultation) — soft/estimate |
+| Policy dynamics | Upcoming changes | No major immigration policy changes announced | unsourced/unverified |
+| Quality of life | World Happiness rank | Not ranked in WHR 2025 top 147 | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | Not ranked in InterNations Expat Insider 2025 | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | English is official language; widely spoken | [source](https://www.ef.com/epi/) — hard/official |
 
 ## Country Card
 

@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Added
+- **Extended Snapshot (pilot, 10 countries)**: 68 extra fields in 13 blocks (geography, climate, economy, technology, HDI/health, safety, money & tax, business, family/education, connectivity, Russian-citizen specifics, policy dynamics, quality of life) on portugal, georgia, uae, serbia, thailand, malta, dominica, kazakhstan, estonia, fiji. New `scripts/fetch_indicators.py` (World Bank API, stdlib) and `scripts/build_extended_snapshot.py`; SCHEMA v4 spec.
+
 ### Fixed
 - 81 broken `[[wikilinks]]` on 50 country pages now point to the real concept pages (`digital-nomad-visa`, `student-residency`, `family-reunification`, `retired-residency`, `investment-residency`, `highly-skilled-employment`); links to non-existent pages became plain text.
 - `SCHEMA.md` concept page names aligned with the files in `concepts/`.
