@@ -160,9 +160,10 @@ AIMA backlogs are the dominant complaint across forums: 6–9 months for initial
 | Average annual temperature | ~16 °C (Lisbon; cooler inland north) | [Wikipedia / IPMA](https://en.wikipedia.org/wiki/Portugal#Climate) — hard/official |
 
 
+
 ## Extended Snapshot
 
-_Coverage: 55/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+_Coverage: 54/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -185,7 +186,7 @@ _Coverage: 55/55 fields. Only facts verifiable against official sources or publi
 | Economy | GDP growth | 1.9% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=PT) — hard/official |
 | Economy | Inflation (CPI) | 2.3% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=PT) — hard/official |
 | Economy | Unemployment | 6.2% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=PT) — hard/official |
-| Economy | Central govt debt | 6% of GDP (1994) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=PT) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
 | Economy | Gini index | 33.9 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=PT) — hard/official |
 | Economy | Tourism receipts | 12% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=PT) — hard/official |
 | Economy | Remittances | 0.8% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=PT) — hard/official |

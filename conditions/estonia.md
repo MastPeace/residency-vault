@@ -120,6 +120,7 @@ Estonia has one of the most restrictive stances toward Russian citizens since 20
 | Average annual temperature | ~5°C annual mean (Tallinn: −3°C Feb, +17°C Jul) | [Estonian Weather Service](https://www.ilmateenistus.ee/) — hard/official |
 
 
+
 ## Extended Snapshot
 
 _Coverage: 54/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._

@@ -93,6 +93,7 @@ Kazakhstan is a primary destination for Russian relocants: visa-free entry, no l
 | Average annual temperature | ~5°C annual mean (continental: Astana −15°C Jan to +21°C Jul; Almaty −5°C Jan to +25°C Jul) | [Kazakhstan Weather Service](https://www.kazhydromet.kz/) — hard/official |
 
 
+
 ## Extended Snapshot
 
 _Coverage: 55/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._

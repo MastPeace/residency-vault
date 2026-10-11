@@ -147,6 +147,7 @@ Expats report generally smooth processes. Main complaints: bureaucratic delays, 
 | Average annual temperature | ~12°C | ^[https://en.wikipedia.org/wiki/Belgrade#Climate] hard/official |
 
 
+
 ## Extended Snapshot
 
 _Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
@@ -182,7 +183,7 @@ _Coverage: 52/55 fields. Only facts verifiable against official sources or publi
 | Economy | Economic Complexity | ECI Trade rank ~40/130 (2024 est.) | [source](https://oec.world/en/profile/country/srb) — soft/estimate |
 | Technology | Internet users | 88% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=RS) — hard/official |
 | Technology | Fixed broadband subs | 33.4 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=RS) — hard/official |
-| Technology | High-tech exports | 4.5% of manufactured exports (2007) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=RS) — hard/official |
+| Technology | High-tech exports | No reliable data | — |
 | Technology | R&D spend | 0.94% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=RS) — hard/official |
 | Technology | Global Innovation Index | WIPO GII 2025: rank 54/139 | [source](https://www.wipo.int/gii-ranking/en/serbia) — hard/official |
 | Technology | E-Government (UN EGDI) | UN EGDI 2024: ~0.82, rank ~40/193 (very high) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/152-Serbia) — soft/estimate |
@@ -191,7 +192,7 @@ _Coverage: 52/55 fields. Only facts verifiable against official sources or publi
 | Technology | Online payments | Stripe not directly available; PayPal available for Serbian accounts; Apple Pay launched 2024 via some banks | [source](https://stripe.com/global) — soft/estimate |
 | Technology | Startup ecosystem | StartupBlink rank ~60; Belgrade is growing IT/startup hub with strong developer community | [source](https://www.startupblink.com/startups/serbia) — soft/estimate |
 | Human development & health | Life expectancy | 76.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=RS) — hard/official |
-| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | Hospital beds | 5.8 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=RS) — hard/official |
 | Human development & health | HDI | UNDP HDI 2022: 0.805, rank 65/193 (very high) | [source](https://countryeconomy.com/hdi/serbia) — soft/estimate |
 | Safety | Global Peace Index | GPI 2025: score ~1.92, rank ~55 (medium-high peace) | [source](https://statbase.org/data/srb-global-peace-index) — soft/estimate |
 | Safety | US travel advisory | US State Dept Level 2: Exercise increased caution (due to crime) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Serbia.html) — hard/official |

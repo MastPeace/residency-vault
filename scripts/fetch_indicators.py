@@ -39,14 +39,35 @@ def get(iso, code):
 def iso_of(slug):
     m=re.search(r'^country_code:\s*"?([A-Za-z]{2})"?', (WIKI/f'{slug}.md').read_text(), re.M)
     return m.group(1).upper() if m else None
+_BULK = {}
+def bulk(code, tries=5):
+    """One request returns the latest non-empty value for ALL countries (keyed by ISO2)."""
+    import time
+    if code in _BULK: return _BULK[code]
+    url = f'https://api.worldbank.org/v2/country/all/indicator/{code}?format=json&mrnev=1&per_page=400'
+    res = None
+    for t in range(tries):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'}), timeout=40) as r: d = json.load(r)
+            res = {}
+            for rec in (d[1] or []):
+                if rec.get('value') is not None and rec['country']['id'] and len(rec['country']['id']) == 2 and int(rec['date']) >= 2018:
+                    res[rec['country']['id'].upper()] = rec
+            break
+        except Exception: time.sleep(2 * (t + 1))
+    _BULK[code] = res
+    return res
 def main(slugs):
-    out={}
-    for s in slugs:
-        iso=iso_of(s); out[s]={'iso':iso,'data':{}}
-        if not iso: continue
-        with ThreadPoolExecutor(4) as ex:
-            res=dict(zip(IND, ex.map(lambda kv: get(iso,kv[0]), [(c,) for c,_ in IND.values()])))
-        out[s]['data']=res
+    out = {}
+    for s in slugs: out[s] = {'iso': iso_of(s), 'data': {}}
+    for k, (code, label) in IND.items():
+        b = bulk(code)
+        for s in slugs:
+            iso = out[s]['iso']
+            if b is None: out[s]['data'][k] = {'error': 'fetch failed'}
+            elif iso and iso in b:
+                rec = b[iso]; out[s]['data'][k] = {'value': rec['value'], 'year': rec['date'], 'url': f'https://data.worldbank.org/indicator/{code}?locations={iso}'}
+            else: out[s]['data'][k] = None
     return out
 if __name__=='__main__':
     a=sys.argv[1:]; outp=None

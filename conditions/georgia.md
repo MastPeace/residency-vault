@@ -146,6 +146,7 @@ Georgia remains one of the most accessible countries globally for independent re
 | Average annual temperature | ~13°C (Tbilisi) | ^[https://en.wikipedia.org/wiki/Tbilisi#Climate] hard/official |
 
 
+
 ## Extended Snapshot
 
 _Coverage: 55/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._

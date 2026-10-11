@@ -124,9 +124,10 @@ The MPRP (permanent residency, ~€100K+ total outlay) is accessible to Russian 
 | Average annual temperature | ~18.8°C (Valletta) | ^[https://en.wikipedia.org/wiki/Valletta#Climate] hard/official |
 
 
+
 ## Extended Snapshot
 
-_Coverage: 55/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+_Coverage: 53/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -149,9 +150,9 @@ _Coverage: 55/55 fields. Only facts verifiable against official sources or publi
 | Economy | GDP growth | 4.0% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=MT) — hard/official |
 | Economy | Inflation (CPI) | 2.4% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=MT) — hard/official |
 | Economy | Unemployment | 2.9% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=MT) — hard/official |
-| Economy | Central govt debt | 30% of GDP (1994) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=MT) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
 | Economy | Gini index | 31.8 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=MT) — hard/official |
-| Economy | Tourism receipts | 11% of exports (2007) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=MT) — hard/official |
+| Economy | Tourism receipts | No reliable data | — |
 | Economy | Remittances | 0.1% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=MT) — hard/official |
 | Economy | Credit rating | S&P: A-, Moody's: A2, Fitch: A+ (all stable, 2026) | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-malta-at-a-outlook-stable-21-08-2026) — hard/official |
 | Economy | Currency | EUR (€), free-floating; ~-8% vs USD over 5yr (2021-2026) | [source](https://www.xe.com/currencycharts/?from=EUR&to=USD) — soft/estimate |

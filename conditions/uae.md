@@ -172,6 +172,7 @@ Largely positive. Golden Visa is well-established and functional. Processing tim
 | Average annual temperature | ~27°C | ^[https://weatherspark.com/countries/AE] hard/official |
 
 
+
 ## Extended Snapshot
 
 _Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
@@ -185,7 +186,7 @@ _Coverage: 52/55 fields. Only facts verifiable against official sources or publi
 | Geography & size | Highest point | Jebel Jais (Ras Al Khaimah), 1,934 m | [source](https://en.wikipedia.org/wiki/United_Arab_Emirates) — soft/estimate |
 | Geography & size | Type | mainland (Arabian Peninsula, Persian Gulf coast) | [source](https://en.wikipedia.org/wiki/United_Arab_Emirates) — soft/estimate |
 | Geography & size | Time zone | UTC+4 (GST, no DST); Moscow is UTC+3, so +1h | [source](https://www.timeanddate.com/time/zone/united-arab-emirates) — soft/estimate |
-| Climate | Avg precipitation | No reliable data | — |
+| Climate | Avg precipitation | 78 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=AE) — hard/official |
 | Climate | PM2.5 exposure | 57.2 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=AE) — hard/official |
 | Climate | Climate zone | BWh (hot desert climate) | [source](https://en.wikipedia.org/wiki/Climate_of_the_United_Arab_Emirates) — soft/estimate |
 | Climate | Temp winter / summer | Abu Dhabi: Jan avg 18.8°C, Jul avg 35.9°C | [source](https://en.wikipedia.org/wiki/Abu_Dhabi#Climate) — soft/estimate |
@@ -197,7 +198,7 @@ _Coverage: 52/55 fields. Only facts verifiable against official sources or publi
 | Economy | GDP growth | 4.0% (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=AE) — hard/official |
 | Economy | Inflation (CPI) | 1.3% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=AE) — hard/official |
 | Economy | Unemployment | 2.2% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=AE) — hard/official |
-| Economy | Central govt debt | 2% of GDP (2013) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=AE) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
 | Economy | Gini index | 26.4 (2018) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=AE) — hard/official |
 | Economy | Tourism receipts | No reliable data | — |
 | Economy | Remittances | No reliable data | — |

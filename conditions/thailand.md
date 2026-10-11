@@ -150,9 +150,10 @@ Thailand is consistently a top global destination for retirees and nomads. The D
 | Average annual temperature | ~28 °C | [Wikipedia](https://en.wikipedia.org/wiki/Thailand#Climate) — hard/official |
 
 
+
 ## Extended Snapshot
 
-_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+_Coverage: 55/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -164,7 +165,7 @@ _Coverage: 50/55 fields. Only facts verifiable against official sources or publi
 | Geography & size | Type | mainland + islands (SE Asia, Andaman Sea + Gulf of Thailand) | [source](https://en.wikipedia.org/wiki/Thailand) — soft/estimate |
 | Geography & size | Time zone | UTC+7 (ICT, no DST); Moscow is UTC+3, so +4h | [source](https://www.timeanddate.com/time/zone/thailand) — soft/estimate |
 | Climate | Avg precipitation | 1622 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=TH) — hard/official |
-| Climate | PM2.5 exposure | No reliable data | — |
+| Climate | PM2.5 exposure | 23.5 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=TH) — hard/official |
 | Climate | Climate zone | Aw (tropical savanna) in most areas, Am (tropical monsoon) in south, Af in deep south | [source](https://en.wikipedia.org/wiki/Climate_of_Thailand) — soft/estimate |
 | Climate | Temp winter / summer | Bangkok: Jan avg 27.0°C, Apr (hottest) avg 30.4°C, Dec avg 26.3°C (tropical, little seasonal variation) | [source](https://en.wikipedia.org/wiki/Bangkok#Climate) — soft/estimate |
 | Climate | Rainy days | Bangkok: ~130 rainy days per year | [source](https://en.wikipedia.org/wiki/Bangkok#Climate) — soft/estimate |
@@ -177,8 +178,8 @@ _Coverage: 50/55 fields. Only facts verifiable against official sources or publi
 | Economy | Unemployment | 0.8% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=TH) — hard/official |
 | Economy | Central govt debt | 62% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=TH) — hard/official |
 | Economy | Gini index | 33.3 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=TH) — hard/official |
-| Economy | Tourism receipts | No reliable data | — |
-| Economy | Remittances | No reliable data | — |
+| Economy | Tourism receipts | 6% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=TH) — hard/official |
+| Economy | Remittances | 2.1% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=TH) — hard/official |
 | Economy | Credit rating | S&P: BBB+ (stable), Moody's: Baa1 (stable), Fitch: BBB+ (stable) | [source](https://www.nationthailand.com/business/40051238) — soft/estimate |
 | Economy | Currency | THB (baht), managed float; ~-10% vs USD over 5yr (2021-2026) | [source](https://countryeconomy.com/countries/thailand) — soft/estimate |
 | Economy | Top industries | Manufacturing (~27%), Services (~60%), Agriculture (~8%); Tourism ~12% GDP direct | [source](https://en.wikipedia.org/wiki/Economy_of_Thailand) — soft/estimate |
@@ -186,7 +187,7 @@ _Coverage: 50/55 fields. Only facts verifiable against official sources or publi
 | Technology | Internet users | 91% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=TH) — hard/official |
 | Technology | Fixed broadband subs | 14.9 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=TH) — hard/official |
 | Technology | High-tech exports | 28.3% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=TH) — hard/official |
-| Technology | R&D spend | No reliable data | — |
+| Technology | R&D spend | 0.94% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=TH) — hard/official |
 | Technology | Global Innovation Index | WIPO GII 2025: rank 45/139 | [source](https://www.wipo.int/gii-ranking/en/thailand) — hard/official |
 | Technology | E-Government (UN EGDI) | UN EGDI 2024: ~0.78, rank ~55/193 (high) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/170-Thailand) — soft/estimate |
 | Technology | Median broadband speed | Fixed broadband median ~230 Mbps (Ookla, 2025) | [source](https://www.speedtest.net/global-index/thailand) — soft/estimate |
@@ -194,7 +195,7 @@ _Coverage: 50/55 fields. Only facts verifiable against official sources or publi
 | Technology | Online payments | Stripe available (limited beta in Thailand); PayPal limited; PromptPay (national QR system) dominant; Apple Pay available | [source](https://stripe.com/th) — soft/estimate |
 | Technology | Startup ecosystem | StartupBlink 2025: Bangkok #76 globally (climbed 5 spots) | [source](https://www.startupblink.com/startups/thailand) — hard/official |
 | Human development & health | Life expectancy | 76.6 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=TH) — hard/official |
-| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | Hospital beds | 2.4 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=TH) — hard/official |
 | Human development & health | HDI | UNDP HDI 2022: 0.803, rank 66/193 (very high) | [source](https://countryeconomy.com/hdi/thailand) — soft/estimate |
 | Safety | Global Peace Index | GPI 2025: rank 86 (dropped 5 spots), score ~2.1 | [source](https://www.nationthailand.com/sustaination/40052489) — soft/estimate |
 | Safety | US travel advisory | US State Dept Level 1: Exercise normal precautions (some areas Level 2-3: southern border provinces) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Thailand.html) — hard/official |

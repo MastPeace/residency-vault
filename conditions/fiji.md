@@ -109,9 +109,10 @@ Expat reporting is thin but generally positive for retirees and investors; the m
 | Average annual temperature | ~25–26 °C (Suva) | [monthlyclimate.com](https://monthlyclimate.com/fiji/suva) — hard/official |
 
 
+
 ## Extended Snapshot
 
-_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -122,8 +123,8 @@ _Coverage: 51/55 fields. Only facts verifiable against official sources or publi
 | Geography & size | Highest point | Mount Tomanivi (Victoria), 1,324 m | [source](https://en.wikipedia.org/wiki/Geography_of_Fiji) — soft/estimate |
 | Geography & size | Type | archipelago (332 islands, ~106 inhabited; South Pacific) | [source](https://en.wikipedia.org/wiki/Fiji) — soft/estimate |
 | Geography & size | Time zone | UTC+12, DST UTC+13 (Nov-Jan); +9h vs Moscow (MSK UTC+3) | [source](https://en.wikipedia.org/wiki/Time_in_Fiji) — soft/estimate |
-| Climate | Avg precipitation | No reliable data | — |
-| Climate | PM2.5 exposure | No reliable data | — |
+| Climate | Avg precipitation | 2592 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=FJ) — hard/official |
+| Climate | PM2.5 exposure | 6.4 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=FJ) — hard/official |
 | Climate | Climate zone | Af/Am (Tropical rainforest/monsoon) | [source](https://en.wikipedia.org/wiki/Geography_of_Fiji#Climate) — soft/estimate |
 | Climate | Temp winter / summer | Suva: Jan avg 27°C, Jul avg 23°C (warm year-round) | [source](https://en.wikipedia.org/wiki/Suva#Climate) — soft/estimate |
 | Climate | Rainy days | ~180-220 rainy days/year (wet season Nov-Apr) | [source](https://en.wikipedia.org/wiki/Geography_of_Fiji#Climate) — soft/estimate |
@@ -134,10 +135,10 @@ _Coverage: 51/55 fields. Only facts verifiable against official sources or publi
 | Economy | GDP growth | 3.2% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=FJ) — hard/official |
 | Economy | Inflation (CPI) | -1.4% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=FJ) — hard/official |
 | Economy | Unemployment | 5.3% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=FJ) — hard/official |
-| Economy | Central govt debt | 37% of GDP (1994) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=FJ) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
 | Economy | Gini index | 30.7 (2019) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=FJ) — hard/official |
 | Economy | Tourism receipts | 18% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=FJ) — hard/official |
-| Economy | Remittances | No reliable data | — |
+| Economy | Remittances | 7.1% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=FJ) — hard/official |
 | Economy | Credit rating | S&P: B+ (stable), Moody's: B1 (stable) | [source](https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3256073) — hard/official |
 | Economy | Currency | FJD (Fijian dollar), managed float; ~-15% vs USD over 5yr (2021-2026) | [source](https://www.xe.com/currencycharts/?from=FJD&to=USD) — soft/estimate |
 | Economy | Top industries | 1. Tourism (~24% GDP) 2. Sugar/agriculture 3. Water exports | [source](https://en.wikipedia.org/wiki/Economy_of_Fiji) — soft/estimate |
@@ -153,7 +154,7 @@ _Coverage: 51/55 fields. Only facts verifiable against official sources or publi
 | Technology | Online payments | Stripe: no, PayPal: yes, Apple Pay: limited | [source](https://stripe.com/global) — soft/estimate |
 | Technology | Startup ecosystem | Not ranked by StartupBlink; negligible ecosystem | [source](https://www.startupblink.com/) — soft/estimate |
 | Human development & health | Life expectancy | 67.5 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=FJ) — hard/official |
-| Human development & health | Hospital beds | 1.9 per 1000 (2017) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=FJ) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
 | Human development & health | HDI | UNDP HDI 2024: ~0.743, rank ~104th/193 (High) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
 | Safety | Global Peace Index | GPI 2025: rank ~70-80, score ~1.9 | [source](https://www.visionofhumanity.org/global-peace-index/) — soft/estimate |
 | Safety | US travel advisory | US State Dept: Level 1 – Exercise Normal Precautions | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/fiji-travel-advisory.html) — hard/official |

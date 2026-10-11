@@ -85,6 +85,7 @@ Widely regarded as the cheapest and most reliable Caribbean CBI. The July 2024 C
 | Average annual temperature | ~27 °C | [Wikipedia](https://en.wikipedia.org/wiki/Dominica#Climate) hard/official |
 
 
+
 ## Extended Snapshot
 
 _Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
