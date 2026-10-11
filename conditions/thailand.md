@@ -151,9 +151,10 @@ Thailand is consistently a top global destination for retirees and nomads. The D
 
 
 
+
 ## Extended Snapshot
 
-_Coverage: 55/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+_Coverage: 53/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -199,9 +200,9 @@ _Coverage: 55/55 fields. Only facts verifiable against official sources or publi
 | Human development & health | HDI | UNDP HDI 2022: 0.803, rank 66/193 (very high) | [source](https://countryeconomy.com/hdi/thailand) — soft/estimate |
 | Safety | Global Peace Index | GPI 2025: rank 86 (dropped 5 spots), score ~2.1 | [source](https://www.nationthailand.com/sustaination/40052489) — soft/estimate |
 | Safety | US travel advisory | US State Dept Level 1: Exercise normal precautions (some areas Level 2-3: southern border provinces) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Thailand.html) — hard/official |
-| Money & tax | FATF status | Not on FATF grey or black lists | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
-| Money & tax | CRS exchange | Yes, CRS participant since 2017 (first exchange Sep 2020, delayed from 2018) | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/) — hard/official |
-| Money & tax | Tax treaty with Russia | Yes, DTT in force since 2003; Russia suspended key articles Aug 2023 | [source](https://www.minfin.ru/en/document/?id_4=12956) — soft/estimate |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
 | Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 5-10% (on amounts >100M THB); CGT 15% on some assets; personal income tax progressive 0-35% | [source](https://taxsummaries.pwc.com/thailand) — soft/estimate |
 | Money & tax | CFC rules | CFC rules introduced 2024 (tax year 2025+); foreign company income may be attributed if Thai resident controls >50% | [source](https://taxsummaries.pwc.com/thailand) — soft/estimate |
 | Business | Company setup | ~4-6 days, ~$500-$2,000; foreign ownership limited (51% Thai unless BOI-promoted or Amity Treaty for US) | [source](https://www.dbd.go.th/) — soft/estimate |

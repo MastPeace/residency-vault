@@ -173,9 +173,10 @@ Largely positive. Golden Visa is well-established and functional. Processing tim
 
 
 
+
 ## Extended Snapshot
 
-_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -215,21 +216,21 @@ _Coverage: 52/55 fields. Only facts verifiable against official sources or publi
 | Technology | Median broadband speed | Fixed broadband median ~419 Mbps (Ookla, Aug 2026, rank 7 globally) | [source](https://www.speedtest.net/global-index/united-arab-emirates) — hard/official |
 | Technology | 5G | 5G widely available since 2019, nationwide coverage by Etisalat and du | [source](https://www.tdra.gov.ae/) — hard/official |
 | Technology | Online payments | Stripe available (UAE-based), PayPal, Apple Pay widely used | [source](https://stripe.com/ae) — soft/estimate |
-| Technology | Startup ecosystem | StartupBlink 2025: Dubai #44 globally (up 6 spots); strong government support (Hub71, DIFC) | [source](https://www.khaleejtimes.com/business/tech/dubais-start-up-engine-on-solid-ground) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink 2025: Dubai #44 globally (up 6 spots); strong government support (Hub71, DIFC) | unsourced/unverified |
 | Human development & health | Life expectancy | 83.1 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AE) — hard/official |
 | Human development & health | Hospital beds | 1.9 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=AE) — hard/official |
 | Human development & health | HDI | UNDP HDI 2022: 0.937, rank 17/193 (very high) | [source](https://countryeconomy.com/hdi/united-arab-emirates) — soft/estimate |
 | Safety | Global Peace Index | GPI 2025: rank ~1-5 (claimed safest country; score ~1.2) | [source](https://taxadepts.com/uae-ranked-safest-country-world) — soft/estimate |
 | Safety | US travel advisory | US State Dept Level 2: Exercise increased caution (missile/drone threat) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/UnitedArabEmirates.html) — hard/official |
-| Money & tax | FATF status | Removed from FATF grey list Feb 2024; now fully compliant | [source](https://www.fatf-gafi.org/en/countries/detail/United-Arab-Emirates.html) — hard/official |
-| Money & tax | CRS exchange | Yes, CRS participant since 2017 (first exchange Sep 2018) | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/) — hard/official |
-| Money & tax | Tax treaty with Russia | Yes, DTT in force since 2012; Russia suspended key articles Aug 2023 | [source](https://www.minfin.ru/en/document/?id_4=12956) — soft/estimate |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
 | Money & tax | Wealth / inheritance / CGT | No personal income tax, no wealth tax, no inheritance tax, no CGT for individuals (except 9% corporate tax from 2023) | [source](https://taxsummaries.pwc.com/united-arab-emirates) — soft/estimate |
 | Money & tax | CFC rules | No CFC rules for individuals; 9% CIT from Jun 2023 applies to onshore businesses only | [source](https://taxsummaries.pwc.com/united-arab-emirates) — soft/estimate |
 | Business | Company setup | 1-5 days in free zones (~$5,000-$15,000/year including license); mainland 2-4 weeks; World Bank Ease of Doing Business 2020: rank 16 | [source](https://www.doingbusiness.org/en/data/exploreeconomies/united-arab-emirates) — soft/estimate |
 | Business | Corporate tax | 9% federal CIT (from June 2023, on profits above AED 375k); 0% in many free zones; 0% personal income tax | [source](https://taxsummaries.pwc.com/united-arab-emirates) — soft/estimate |
 | Family & education | Top university | Khalifa University; QS World 2026 rank ~200 | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
-| Connectivity | Visa-free for Russians | Visa-free for Russian citizens (30 days, extendable); e-visa also available for longer stays | [source](https://u.ae/en/information-and-services/visa-and-emirates-id/do-you-need-an-entry-permit-or-a-visa-to-enter-the-uae) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens (30 days, extendable); e-visa also available for longer stays | unsourced/unverified |
 | For Russian citizens | Sanctions position | UAE has not imposed sanctions on Russia; neutral stance; trade/financial intermediary; some Western pressure to close loopholes | [source](https://www.reuters.com/world/middle-east/uae-tightens-scrutiny-russian-funds-2024/) — soft/estimate |
 | Quality of life | World Happiness rank | World Happiness Report 2025: rank 21/147 | [source](https://wam.ae/en/details/1395303331964) — soft/estimate |
 | Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank ~10/53 (top for career and QoL) | [source](https://www.internations.org/expat-insider/) — soft/estimate |

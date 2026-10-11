@@ -110,9 +110,10 @@ Expat reporting is thin but generally positive for retirees and investors; the m
 
 
 
+
 ## Extended Snapshot
 
-_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -158,13 +159,13 @@ _Coverage: 52/55 fields. Only facts verifiable against official sources or publi
 | Human development & health | HDI | UNDP HDI 2024: ~0.743, rank ~104th/193 (High) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
 | Safety | Global Peace Index | GPI 2025: rank ~70-80, score ~1.9 | [source](https://www.visionofhumanity.org/global-peace-index/) — soft/estimate |
 | Safety | US travel advisory | US State Dept: Level 1 – Exercise Normal Precautions | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/fiji-travel-advisory.html) — hard/official |
-| Money & tax | FATF status | Not on grey/black list (June 2026) | [source](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2026.html) — hard/official |
-| Money & tax | CRS exchange | No; committed to start AEOI by 2028 | [source](https://www.oecd.org/tax/transparency/fiji-commits-to-start-automatic-exchange-of-financial-account-information-by-2028.htm) — hard/official |
-| Money & tax | Tax treaty with Russia | No DTT with Russia | [source](https://www.nalog.gov.ru/rn77/about_fts/international_cooperation/double_taxation/) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
 | Money & tax | Wealth / inheritance / CGT | No wealth or inheritance tax | [source](https://en.wikipedia.org/wiki/Economy_of_Fiji) — soft/estimate |
 | Money & tax | CFC rules | No CFC rules | unsourced/unverified |
-| Business | Company setup | ~2-4 weeks; registration cost ~$50-500 | [source](https://www.rocfiji.gov.fj/) — soft/estimate |
-| Business | Corporate tax | 20% headline rate | [source](https://taxglass.com/compare/botswana-vs-fiji) — soft/estimate |
+| Business | Company setup | ~2-4 weeks; registration cost ~$50-500 | unsourced/unverified |
+| Business | Corporate tax | 20% headline rate | unsourced/unverified |
 | Family & education | Top university | University of the South Pacific (USP); no QS world rank; regional top-50 Oceania | [source](https://www.topuniversities.com/) — soft/estimate |
 | Connectivity | Visa-free for Russians | Visa required for Russian citizens | [source](https://en.wikipedia.org/wiki/Visa_policy_of_Fiji) — soft/estimate |
 | For Russian citizens | Sanctions position | No independent sanctions on Russia; generally follows UN positions | unsourced/unverified |

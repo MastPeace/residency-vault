@@ -7,6 +7,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [Unreleased]
 
 ### Changed
+- Extended Snapshot: FATF status now comes from one central facts file (`references/facts/fatf.json`, as of 2026-06-19) instead of per-page worker output; CRS participation and the tax treaty with Russia show `No reliable data` until their facts files are verified. Worker source links are now checked for existence (23 of 478 pilot links were dead and are demoted to `unsourced`).
+- Site: Extended Snapshot renders as collapsible per-block cards.
+
+### Changed
 - **Site redesign** (`scripts/generate_site.py`): light "paper" theme with dark toggle (system preference respected), serif headings + sans/mono data, single green accent. Replaces the 163-link sidebar with a top bar and a `/` or Ctrl/Cmd+K search palette.
 - Home page is now a sortable, filterable country table (fit categories, region, confidence; columns: years to citizenship, passport, confidence, last checked) plus program comparisons.
 - Country pages: key-facts strip, Monitoring panel (recent changes / watch items) moved to the top, sticky "On this page" TOC, strengths/problems side by side, snapshot sources rendered as links with official/estimate markers.

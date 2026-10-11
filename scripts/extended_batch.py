@@ -21,6 +21,31 @@ def name_of(slug):
     m = re.search(r'^title:\s*"?(.+?)\s+[—-]\s+Residency', (COND / f'{slug}.md').read_text(), re.M)
     n = m.group(1) if m else slug
     return n.replace('-', ' ').title() if n.islower() else n
+def link_ok(url, cache={}):
+    """False only when the page definitely does not exist (404/410/DNS). 403/Cloudflare/timeouts count as alive."""
+    import urllib.request, urllib.error
+    if url in cache: return cache[url]
+    ok = True
+    for method in ('HEAD', 'GET'):
+        try:
+            urllib.request.urlopen(urllib.request.Request(url, method=method, headers={'User-Agent': 'Mozilla/5.0'}), timeout=12); ok = True; break
+        except urllib.error.HTTPError as e:
+            if e.code in (404, 410): ok = False; 
+            else: ok = True
+            if method == 'GET' or e.code not in (404, 405, 403, 501): break
+        except urllib.error.URLError as e:
+            ok = 'Name or service' not in str(e.reason) and 'not known' not in str(e.reason); break
+        except Exception: ok = True; break
+    cache[url] = ok; return ok
+def verify_links(soft):
+    from concurrent.futures import ThreadPoolExecutor
+    urls = {x['src'] for v in soft.values() for x in v.values() if isinstance(x, dict) and str(x.get('src', '')).startswith('http')}
+    with ThreadPoolExecutor(8) as ex: res = dict(zip(urls, ex.map(link_ok, urls)))
+    dead = 0
+    for v in soft.values():
+        for x in v.values():
+            if isinstance(x, dict) and x.get('src') in res and not res[x['src']]: x['dead_src'] = x['src']; x['src'] = None; x['q'] = 'unsourced'; dead += 1
+    return dead
 def prepare(n):
     st = json.loads(STATE.read_text()) if STATE.exists() else {}
     today = datetime.date.today(); cand = []
@@ -42,6 +67,7 @@ def finalize(wd):
     ind = json.loads((wd / 'ind.json').read_text())
     try: soft = B.flatten(json.loads((wd / 'soft.json').read_text()))
     except Exception as e: return {'error': f'soft.json unreadable: {e}', 'ok': [], 'failed': slugs}
+    dead = verify_links(soft)
     ok, failed, files = [], [], []
     for s in slugs:
         sf = {k: v for k, v in (soft.get(s) or {}).items() if v and v.get('v')}
@@ -55,7 +81,7 @@ def finalize(wd):
             ok.append((s, f'{f}/{t}')); files.append(f'conditions/{s}.md')
         except Exception as e:
             p.write_text(before); failed.append((s, str(e)[:80]))
-    rep = {'ok': ok, 'failed': failed, 'pushed': False}
+    rep = {'ok': ok, 'failed': failed, 'dead_links_demoted': dead, 'pushed': False}
     if files:
         env = dict(os.environ); envf = pathlib.Path.home() / '.hermes/.env'
         tok = None

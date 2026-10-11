@@ -86,9 +86,10 @@ Widely regarded as the cheapest and most reliable Caribbean CBI. The July 2024 C
 
 
 
+
 ## Extended Snapshot
 
-_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+_Coverage: 48/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -134,13 +135,13 @@ _Coverage: 50/55 fields. Only facts verifiable against official sources or publi
 | Human development & health | HDI | UNDP HDI 2022: 0.740, rank ~97th/193 (High) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
 | Safety | Global Peace Index | GPI 2025: not ranked (small state, not assessed in top 163) | [source](https://www.visionofhumanity.org/global-peace-index/) — soft/estimate |
 | Safety | US travel advisory | US State Dept: Level 1 – Exercise Normal Precautions | [source](https://travel.state.gov/en/international-travel/travel-advisories/dominica.html) — hard/official |
-| Money & tax | FATF status | Not on grey/black list (June 2026) | [source](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2026.html) — hard/official |
-| Money & tax | CRS exchange | Yes, since 2018 | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/crs-by-jurisdiction/) — hard/official |
-| Money & tax | Tax treaty with Russia | No DTT with Russia | [source](https://www.nalog.gov.ru/rn77/about_fts/international_cooperation/double_taxation/) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
 | Money & tax | Wealth / inheritance / CGT | No wealth or inheritance tax | [source](https://en.wikipedia.org/wiki/Economy_of_Dominica) — soft/estimate |
 | Money & tax | CFC rules | No CFC rules | unsourced/unverified |
 | Business | Company setup | ~2 weeks; cost ~$500-1,000 | [source](https://cipo.gov.dm/) — soft/estimate |
-| Business | Corporate tax | 25% headline rate | [source](https://ird.gov.dm/corporate-income-tax) — hard/official |
+| Business | Corporate tax | 25% headline rate | unsourced/unverified |
 | Family & education | Top university | Ross University School of Medicine (offshore); no QS-ranked university | [source](https://www.topuniversities.com/) — hard/official |
 | Connectivity | Visa-free for Russians | Visa-free for up to 21 days | [source](https://en.wikipedia.org/wiki/Visa_policy_of_Dominica) — soft/estimate |
 | For Russian citizens | Sanctions position | No independent sanctions on Russia; generally follows UN positions | unsourced/unverified |

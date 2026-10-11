@@ -148,9 +148,10 @@ Expats report generally smooth processes. Main complaints: bureaucratic delays, 
 
 
 
+
 ## Extended Snapshot
 
-_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -196,15 +197,15 @@ _Coverage: 52/55 fields. Only facts verifiable against official sources or publi
 | Human development & health | HDI | UNDP HDI 2022: 0.805, rank 65/193 (very high) | [source](https://countryeconomy.com/hdi/serbia) — soft/estimate |
 | Safety | Global Peace Index | GPI 2025: score ~1.92, rank ~55 (medium-high peace) | [source](https://statbase.org/data/srb-global-peace-index) — soft/estimate |
 | Safety | US travel advisory | US State Dept Level 2: Exercise increased caution (due to crime) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Serbia.html) — hard/official |
-| Money & tax | FATF status | Not on FATF grey or black lists | [source](https://www.fatf-gafi.org/en/countries/detail/Serbia.html) — hard/official |
-| Money & tax | CRS exchange | Yes, CRS participant since 2017 (first exchange Sep 2018) | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/) — hard/official |
-| Money & tax | Tax treaty with Russia | Yes, DTT in force since 1997; Russia suspended key articles Aug 2023 | [source](https://www.minfin.ru/en/document/?id_4=12956) — soft/estimate |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
 | Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance/gift tax 1.5-2.5% (close relatives exempt); CGT 15% on financial assets | [source](https://taxsummaries.pwc.com/serbia) — soft/estimate |
 | Money & tax | CFC rules | Yes, CFC rules (since 2020); foreign subsidiary income may be taxed if Serbia has >50% control | [source](https://taxsummaries.pwc.com/serbia) — soft/estimate |
 | Business | Company setup | ~5-7 days, ~€100 registration cost; straightforward via Business Registers Agency | [source](https://www.apr.gov.rs/) — soft/estimate |
 | Business | Corporate tax | 15% standard CIT (one of the lowest in Europe) | [source](https://taxsummaries.pwc.com/serbia) — soft/estimate |
 | Family & education | Top university | University of Belgrade; QS World 2026 rank ~600-700 | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
-| Connectivity | Visa-free for Russians | Visa-free for Russian citizens (30 days, extendable by visa runs) | [source](https://www.mfa.gov.rs/en/consular-affairs/entry-serbia/visa-regime) — hard/official |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens (30 days, extendable by visa runs) | unsourced/unverified |
 | For Russian citizens | Sanctions position | Serbia has not imposed sanctions on Russia; maintains traditional ties; voted UN condemnation but refuses Western sanctions | [source](https://www.reuters.com/world/europe/serbia-walks-tightrope-between-east-west-2024/) — soft/estimate |
 | Quality of life | World Happiness rank | World Happiness Report 2025: rank 30/147, score 6.69 | [source](https://data.worldhappiness.report/country/SRB) — hard/official |
 | Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank ~40/53 (below average) | [source](https://www.internations.org/expat-insider/) — soft/estimate |

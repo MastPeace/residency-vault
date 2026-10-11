@@ -94,9 +94,10 @@ Kazakhstan is a primary destination for Russian relocants: visa-free entry, no l
 
 
 
+
 ## Extended Snapshot
 
-_Coverage: 55/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+_Coverage: 53/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -142,11 +143,11 @@ _Coverage: 55/55 fields. Only facts verifiable against official sources or publi
 | Human development & health | HDI | UNDP HDI 2024: 0.802, rank ~67th/193 (Very High) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
 | Safety | Global Peace Index | GPI 2025: rank 43-50, score ~1.8 (entered top 50, Sep 2026) | [source](https://astanatimes.com/2026/09/kazakhstan-enters-top-50-most-peaceful-countries-as-global-peacefulness-declines-report-shows/) — soft/estimate |
 | Safety | US travel advisory | US State Dept: Level 1 – Exercise Normal Precautions | [source](https://www.kt.kz/eng/politics/us_state_department_keeps_kazakhstan_at_lowest_travel_1377997324.html) — soft/estimate |
-| Money & tax | FATF status | Not on grey/black list (June 2026) | [source](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2026.html) — hard/official |
-| Money & tax | CRS exchange | Yes, since 2021 | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/crs-by-jurisdiction/) — hard/official |
-| Money & tax | Tax treaty with Russia | Yes, DTT in force since 1997 | [source](https://www.nalog.gov.ru/rn77/about_fts/international_cooperation/double_taxation/) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
 | Money & tax | Wealth / inheritance / CGT | No wealth or inheritance tax (new Tax Code 2025) | [source](https://www.bakermckenzie.com/en/insight/publications/2025/09/kazakhstan-new-tax-code) — soft/estimate |
-| Money & tax | CFC rules | Yes, CFC rules with exemption list for certain countries (updated May 2025) | [source](https://en.orda.kz/list-of-countries-for-exemption-from-kazakhstan-cfc-rules/) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules with exemption list for certain countries (updated May 2025) | unsourced/unverified |
 | Business | Company setup | 3-5 business days via PSC; cost ~$100-300 (LLP) | [source](https://egov.kz/cms/en/articles/business_registration) — soft/estimate |
 | Business | Corporate tax | 20% headline; 25% for banks/gambling from 2026 | [source](https://www.bakermckenzie.com/en/insight/publications/2025/09/kazakhstan-new-tax-code) — soft/estimate |
 | Family & education | Top university | Al-Farabi Kazakh National University; QS rank: ~150-200 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |

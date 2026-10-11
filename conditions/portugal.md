@@ -161,9 +161,10 @@ AIMA backlogs are the dominant complaint across forums: 6–9 months for initial
 
 
 
+
 ## Extended Snapshot
 
-_Coverage: 54/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -190,7 +191,7 @@ _Coverage: 54/55 fields. Only facts verifiable against official sources or publi
 | Economy | Gini index | 33.9 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=PT) — hard/official |
 | Economy | Tourism receipts | 12% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=PT) — hard/official |
 | Economy | Remittances | 0.8% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=PT) — hard/official |
-| Economy | Credit rating | S&P: A-, Moody's: A3, Fitch: A (upgraded Sep 2025) | [source](https://www.portugal.gov.pt/en/gc23/communication/news-item?i=fitch-upgrades-portugals-rating-to-a) — hard/official |
+| Economy | Credit rating | S&P: A-, Moody's: A3, Fitch: A (upgraded Sep 2025) | unsourced/unverified |
 | Economy | Currency | EUR (euro), free float; ~-8% vs USD over 5yr (2021-2026) | [source](https://countryeconomy.com/countries/portugal) — soft/estimate |
 | Economy | Top industries | Services (~75% GDP), Manufacturing (~13%), Tourism (~8% GDP direct) | [source](https://en.wikipedia.org/wiki/Economy_of_Portugal) — soft/estimate |
 | Economy | Economic Complexity | ECI Trade rank 43/130 (ECI: 0.47, 2024) | [source](https://oec.world/en/profile/country/prt) — hard/official |
@@ -209,15 +210,15 @@ _Coverage: 54/55 fields. Only facts verifiable against official sources or publi
 | Human development & health | HDI | UNDP HDI 2022: 0.874, rank 42/193 (very high) | [source](https://countryeconomy.com/hdi/portugal) — soft/estimate |
 | Safety | Global Peace Index | GPI 2025: rank ~7, score ~1.372 (very high peace) | [source](https://www.visionofhumanity.org/) — soft/estimate |
 | Safety | US travel advisory | US State Dept Level 1: Exercise normal precautions | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Portugal.html) — hard/official |
-| Money & tax | FATF status | Not on FATF grey or black lists | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
-| Money & tax | CRS exchange | Yes, CRS participant since 2017 (EU directive, first exchange Sep 2017) | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/) — hard/official |
-| Money & tax | Tax treaty with Russia | Yes, DTT in force since 2002; Russia suspended key articles Aug 2023 | [source](https://www.minfin.ru/en/document/?id_4=12956) — soft/estimate |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
 | Money & tax | Wealth / inheritance / CGT | No wealth tax; stamp duty 10% on inheritance (spouse/descendants exempt); CGT 28% on gains | [source](https://taxsummaries.pwc.com/portugal) — soft/estimate |
 | Money & tax | CFC rules | Yes, CFC rules apply (EU ATAD); foreign income of controlled companies may be attributed to Portuguese resident | [source](https://taxsummaries.pwc.com/portugal) — soft/estimate |
-| Business | Company setup | ~6.5 days, ~€360 (online); very streamlined via 'Empresa na Hora' | [source](https://eportugal.gov.pt/en/servicos/criar-uma-empresa) — soft/estimate |
+| Business | Company setup | ~6.5 days, ~€360 (online); very streamlined via 'Empresa na Hora' | unsourced/unverified |
 | Business | Corporate tax | 21% standard CIT (mainland); 14.7% Madeira; reduced rates for SMEs on first €50k | [source](https://taxsummaries.pwc.com/portugal) — soft/estimate |
 | Family & education | Top university | University of Lisbon; QS World 2026 rank ~260 | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
-| Connectivity | Visa-free for Russians | Schengen visa required; visa-free only for EU/EEA citizens; Russia not eligible since Sep 2022 suspension | [source](https://ec.europa.eu/home-affairs/policies/schengen-borders-and-visa/visa-policy_en) — hard/official |
+| Connectivity | Visa-free for Russians | Schengen visa required; visa-free only for EU/EEA citizens; Russia not eligible since Sep 2022 suspension | unsourced/unverified |
 | For Russian citizens | Sanctions position | Full EU sanctions on Russia; arms embargo, financial restrictions, travel bans on individuals | [source](https://www.consilium.europa.eu/en/policies/sanctions/restrictive-measures-against-russia/) — hard/official |
 | Quality of life | World Happiness rank | World Happiness Report 2025: rank 69/147, score 6.3 | [source](https://data.worldhappiness.report/country/PRT) — hard/official |
 | Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank 15/53 (very good) | [source](https://www.internations.org/expat-insider/) — soft/estimate |

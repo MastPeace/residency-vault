@@ -52,6 +52,23 @@ def flatten(d):
                 elif x.get('q') == 'hard' and not any(h in src for h in HARD_DOM): x['q'] = 'soft'
         out[slug] = flat
     return out
+FACTS_DIR = pathlib.Path('/home/vovka/.hermes/skills/autonomous-ai-agents/immigration-monitor/references/facts')
+def load_facts():
+    """Facts that live in ONE file each (references/facts/*.json) and override worker output for that field.
+    Shape: {field, as_of, src, q, default, values:{slug: text}}. Update the file -> rebuild pages."""
+    out = {}
+    for f in sorted(FACTS_DIR.glob('*.json')):
+        d = json.loads(f.read_text()); out[d['field']] = d
+    return out
+FACTS = load_facts()
+FACT_ONLY = {'fatf_status', 'crs_participant', 'tax_treaty_russia'}  # never taken from worker output
+def apply_facts(slug, soft):
+    soft = {k: v for k, v in (soft or {}).items() if k not in FACT_ONLY}
+    for field, d in FACTS.items():
+        v = d['values'].get(slug, d.get('default'))
+        if v: soft[field] = {'v': f"{v} (as of {d['as_of']})", 'src': d['src'], 'q': d.get('q', 'hard')}
+        else: soft.pop(field, None)
+    return soft
 def esc(s): return str(s).replace('|', '\\|').replace('\n', ' ').strip()
 def render(slug, ind, soft):
     rows = []; filled = total = 0
@@ -72,7 +89,7 @@ def render(slug, ind, soft):
     return '\n'.join(out) + '\n', filled, total
 def apply(slug, ind, soft, dry=False):
     p = WIKI / f'{slug}.md'; t = p.read_text()
-    block, filled, total = render(slug, ind, soft)
+    block, filled, total = render(slug, ind, apply_facts(slug, soft))
     t = re.sub(r'## Extended Snapshot\n.*?(?=\n## )', '', t, flags=re.S)
     if '\n## Country Card' not in t: raise SystemExit(f'{slug}: no Country Card anchor')
     t = t.replace('\n## Country Card', '\n' + block + '\n## Country Card', 1)

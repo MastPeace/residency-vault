@@ -147,9 +147,10 @@ Georgia remains one of the most accessible countries globally for independent re
 
 
 
+
 ## Extended Snapshot
 
-_Coverage: 55/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+_Coverage: 53/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -195,9 +196,9 @@ _Coverage: 55/55 fields. Only facts verifiable against official sources or publi
 | Human development & health | HDI | UNDP HDI 2022: 0.814, rank 60/193 (very high) | [source](https://countryeconomy.com/hdi/georgia) — soft/estimate |
 | Safety | Global Peace Index | GPI 2025: score 2.185, rank ~97 (medium) | [source](https://statbase.org/data/geo-global-peace-index) — soft/estimate |
 | Safety | US travel advisory | US State Dept Level 1: Exercise normal precautions (avoid occupied regions) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Georgia.html) — hard/official |
-| Money & tax | FATF status | Not on FATF grey or black lists | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
-| Money & tax | CRS exchange | Yes, CRS participant since 2017 (first exchange Sep 2019) | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/) — hard/official |
-| Money & tax | Tax treaty with Russia | Yes, DTT in force since 2000; Russia suspended key articles Aug 2023 | [source](https://www.minfin.ru/en/document/?id_4=12956) — soft/estimate |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
 | Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax (abolished); CGT 20% (individuals) on property sales; dividend tax 5% | [source](https://taxsummaries.pwc.com/georgia) — soft/estimate |
 | Money & tax | CFC rules | No specific CFC rules; territorial taxation for individuals (foreign-source income not taxed unless remitted) | [source](https://taxsummaries.pwc.com/georgia) — soft/estimate |
 | Business | Company setup | 1-2 days, minimal cost; very easy online via Public Registry | [source](https://www.entrepreneur.com/starting-a-business/how-to-start-a-business-in-georgia) — soft/estimate |

@@ -125,9 +125,10 @@ The MPRP (permanent residency, ~€100K+ total outlay) is accessible to Russian 
 
 
 
+
 ## Extended Snapshot
 
-_Coverage: 53/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -173,12 +174,12 @@ _Coverage: 53/55 fields. Only facts verifiable against official sources or publi
 | Human development & health | HDI | UNDP HDI 2024: 0.924, rank ~25th/193 (Very High) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
 | Safety | Global Peace Index | GPI 2025: rank ~32-35, score ~1.4 | [source](https://www.visionofhumanity.org/global-peace-index/) — soft/estimate |
 | Safety | US travel advisory | US State Dept: Level 1 – Exercise Normal Precautions | [source](https://travel.state.gov/en/international-travel/travel-advisories/malta.html) — hard/official |
-| Money & tax | FATF status | Not on grey/black list (exited grey list 2022; clean June 2026) | [source](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2026.html) — hard/official |
-| Money & tax | CRS exchange | Yes, since 2017 | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/crs-by-jurisdiction/) — hard/official |
-| Money & tax | Tax treaty with Russia | Yes, DTT in force since 2001; amended 2020 | [source](https://foreign.gov.mt/russian-federation/taxation/) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
 | Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax on Malta immovable property; no estate duty since 1993 | [source](https://mtca.gov.mt/en/Pages/Inheritance-Tax.aspx) — hard/official |
 | Money & tax | CFC rules | Yes, CFC rules under EU ATAD (since 2019) | [source](https://en.wikipedia.org/wiki/Economy_of_Malta) — soft/estimate |
-| Business | Company setup | 3-5 days; cost ~€245 registration + €1,500-4,000 professional fees | [source](https://hubpymalta.com/malta-company-formation-guide) — soft/estimate |
+| Business | Company setup | 3-5 days; cost ~€245 registration + €1,500-4,000 professional fees | unsourced/unverified |
 | Business | Corporate tax | 35% headline; effective ~5% with refund system | [source](https://en.wikipedia.org/wiki/Economy_of_Malta) — soft/estimate |
 | Family & education | Top university | University of Malta; QS rank: 851-900 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
 | Connectivity | Visa-free for Russians | Visa required (Schengen); Schengen visas for Russians effectively suspended since 2022 | [source](https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en) — hard/official |

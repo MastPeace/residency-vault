@@ -121,9 +121,10 @@ Estonia has one of the most restrictive stances toward Russian citizens since 20
 
 
 
+
 ## Extended Snapshot
 
-_Coverage: 54/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
 
 | Block | Field | Value | Source / Confidence |
 |---|---|---|---|
@@ -169,13 +170,13 @@ _Coverage: 54/55 fields. Only facts verifiable against official sources or publi
 | Human development & health | HDI | UNDP HDI 2024: 0.899, rank ~31st/193 (Very High) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
 | Safety | Global Peace Index | GPI 2025: rank ~30-35, score ~1.5 | [source](https://www.visionofhumanity.org/global-peace-index/) — soft/estimate |
 | Safety | US travel advisory | US State Dept: Level 1 – Exercise Normal Precautions | [source](https://travel.state.gov/en/international-travel/travel-advisories/estonia.html) — hard/official |
-| Money & tax | FATF status | Not on grey/black list (June 2026); strong AML/CFT regime | [source](https://www.fatf-gafi.org/en/countries/detail/Estonia.html) — hard/official |
-| Money & tax | CRS exchange | Yes, since 2017 | [source](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/crs-by-jurisdiction/) — hard/official |
-| Money & tax | Tax treaty with Russia | Yes, DTT in force since 2000 | [source](https://www.nalog.gov.ru/rn77/about_fts/international_cooperation/double_taxation/) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
 | Money & tax | Wealth / inheritance / CGT | No wealth or inheritance tax | [source](https://www.emta.ee/en/business-client/taxes-and-payment/other-taxes) — soft/estimate |
-| Money & tax | CFC rules | Yes, CFC rules under EU ATAD (since 2019) | [source](https://www.emta.ee/en/business-client/taxes-and-payment/income-tax-business) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules under EU ATAD (since 2019) | unsourced/unverified |
 | Business | Company setup | 1 day-1 week via e-Residency; cost ~€190 state fee + €200-400/yr contact | [source](https://e-resident.gov.ee/start-a-company/) — hard/official |
-| Business | Corporate tax | 20% on distributed profits only; 0% on retained/reinvested earnings | [source](https://www.emta.ee/en/business-client/taxes-and-payment/income-tax-business) — soft/estimate |
+| Business | Corporate tax | 20% on distributed profits only; 0% on retained/reinvested earnings | unsourced/unverified |
 | Family & education | Top university | University of Tartu; QS rank: ~358 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
 | Connectivity | Visa-free for Russians | Visa required; Estonia stopped issuing most visas to Russians (2022); non-biometric passports not recognized (Mar 2025) | [source](https://vm.ee/en/news/government-limits-issuing-visas-and-entry-estonia-russian-citizens) — soft/estimate |
 | For Russian citizens | Sanctions position | EU/NATO member: strong supporter of Russia sanctions; advocates for tougher measures | [source](https://www.vm.ee/en/news/tsahkna-exports-alumina-eu-russia-must-be-banned) — soft/estimate |
