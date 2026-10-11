@@ -2,6 +2,7 @@
 title: Austria — Residency & Citizenship Conditions
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, blue-card, red-white-red-card, strong_passport]
 category: strong_passport
@@ -163,6 +164,68 @@ Austria is consistently rated as one of the most difficult EU countries for non-
 | Freedom House score | 93/100 (Free) | [Freedom House](https://freedomhouse.org/country/austria/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | 1,930 h (Vienna) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~9 °C (Vienna ~10 °C) | [Wikipedia / ZAMG](https://en.wikipedia.org/wiki/Austria#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 83 879 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=AT) — hard/official |
+| Geography & size | Population density | 111 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=AT) — hard/official |
+| Geography & size | Urban population | 70% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=AT) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_length_of_coastline) — soft/estimate |
+| Geography & size | Highest point | Grossglockner, 3,798 m | [source](https://en.wikipedia.org/wiki/Grossglockner) — soft/estimate |
+| Geography & size | Type | landlocked | [source](https://en.wikipedia.org/wiki/Austria) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 summer; Moscow −2h/−1h | [source](https://en.wikipedia.org/wiki/Time_in_Austria) — soft/estimate |
+| Climate | Avg precipitation | 1110 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=AT) — hard/official |
+| Climate | PM2.5 exposure | 10.0 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=AT) — hard/official |
+| Climate | Climate zone | Cfb (oceanic), Dfb (warm-summer humid continental) in Alps | [source](https://en.wikipedia.org/wiki/Geography_of_Austria) — soft/estimate |
+| Climate | Temp winter / summer | Vienna: Jan avg 0°C, Jul avg 22°C | [source](https://en.wikipedia.org/wiki/Vienna#Climate) — soft/estimate |
+| Climate | Rainy days | Vienna: ~115 rainy days/year | [source](https://en.wikipedia.org/wiki/Vienna#Climate) — soft/estimate |
+| Climate | Humidity | Vienna: ~74% avg annual relative humidity | [source](https://en.wikipedia.org/wiki/Vienna#Climate) — soft/estimate |
+| Climate | Natural hazards | Avalanches, floods, landslides. World Risk Index rank ~130 (low) | [source](https://weltrisikobericht.de/) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5: ~9.8 µg/m³ (2023, IQAir) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $579.5B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AT) — hard/official |
+| Economy | GDP growth | 0.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=AT) — hard/official |
+| Economy | Inflation (CPI) | 3.5% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=AT) — hard/official |
+| Economy | Unemployment | 5.6% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=AT) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 31.2 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=AT) — hard/official |
+| Economy | Tourism receipts | 7% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=AT) — hard/official |
+| Economy | Remittances | 0.7% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=AT) — hard/official |
+| Economy | Credit rating | S&P: AA+ (negative), Moody's: Aa1 (stable), Fitch: AA+ (stable) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_credit_rating) — soft/estimate |
+| Economy | Currency | EUR (euro), floating; ~−3% vs USD 2020–2025 | [source](https://www.ecb.europa.eu) — soft/estimate |
+| Economy | Top industries | Services (~70% GDP), Industry (~28%), Agriculture (~1.3%) | [source](https://www.statistik.at) — soft/estimate |
+| Economy | Economic Complexity | ECI rank #6, score 1.81 (2023, Harvard Atlas) | [source](https://atlas.cid.harvard.edu/rankings) — hard/official |
+| Technology | Internet users | 92% of population (2025) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=AT) — hard/official |
+| Technology | Fixed broadband subs | 30.1 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=AT) — hard/official |
+| Technology | High-tech exports | 18.5% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=AT) — hard/official |
+| Technology | R&D spend | 3.26% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=AT) — hard/official |
+| Technology | Global Innovation Index | #18 (GII 2024, WIPO) | [source](https://www.wipo.int/gii-ranking/en/austria) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI: 0.9435, rank #4 (UN 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | Fixed broadband median: 141.26 Mbps (#56, Ookla Aug 2026) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G widely available (2024) | [source](https://www.rtr.at) — soft/estimate |
+| Technology | Online payments | Stripe: available; PayPal and Apple Pay widely supported | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank #17 (2024) | [source](https://www.startupblink.com/startups) — hard/official |
+| Human development & health | Life expectancy | 82.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AT) — hard/official |
+| Human development & health | Hospital beds | 6.7 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=AT) — hard/official |
+| Human development & health | HDI | HDI: 0.926, rank #22 (UNDP 2023/2024) | [source](https://hdr.undp.org/data-center/specific-country-data#/countries/AUT) — hard/official |
+| Safety | Global Peace Index | GPI rank #6, score 1.421 (2026) | [source](https://www.visionofhumanity.org/global-peace-index/) — hard/official |
+| Safety | US travel advisory | Level 1: Exercise Normal Precautions (US State Dept, 2024) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Austria.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax (abolished 2008); capital gains: 27.5% (2024, PwC) | [source](https://taxsummaries.pwc.com/austria) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules in place (2024, PwC) | [source](https://taxsummaries.pwc.com/austria) — soft/estimate |
+| Business | Company setup | ~18 days, ~€500+ minimum capital €35,000 for GmbH | [source](https://www.doingbusiness.org/en/data/exploreeconomies/austria) — soft/estimate |
+| Business | Corporate tax | 23% headline CIT (2024, reduced from 24% in 2023) | [source](https://taxsummaries.pwc.com/austria) — soft/estimate |
+| Family & education | Top university | University of Vienna; QS rank #152 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Visa required (EU/Schengen area; 2024) | [source](https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en) — hard/official |
+| For Russian citizens | Sanctions position | Imposes EU sanctions on Russia (2022–present) | unsourced/unverified |
+| Quality of life | World Happiness rank | World Happiness rank #14 (2025) | [source](https://worldhappiness.report/) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider rank #31 (2024) | [source](https://www.internations.org/expat-insider/) — hard/official |
+| Quality of life | Local language need | EF EPI rank #3, score 616; English widely spoken in cities | [source](https://www.ef.com/epi/) — hard/official |
 
 ## Country Card
 

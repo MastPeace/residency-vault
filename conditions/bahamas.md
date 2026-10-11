@@ -2,6 +2,7 @@
 title: Bahamas — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, tax, clear_pathway]
 category: clear_pathway
@@ -116,6 +117,68 @@ The Bahamas is a major yacht and maritime hub — one of the world's largest shi
 | Freedom House score | 91/100 (Free) | [Freedom House](https://freedomhouse.org/country/bahamas/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~3,000 h | [Wikipedia / Climate](https://en.wikipedia.org/wiki/The_Bahamas#Climate) — hard/official |
 | Average annual temperature | ~25 °C | [Wikipedia / Climate](https://en.wikipedia.org/wiki/The_Bahamas#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 13 878 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=BS) — hard/official |
+| Geography & size | Population density | 40 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=BS) — hard/official |
+| Geography & size | Urban population | 81% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=BS) — hard/official |
+| Geography & size | Coastline | 3,542 km | [source](https://en.wikipedia.org/wiki/List_of_countries_by_length_of_coastline) — soft/estimate |
+| Geography & size | Highest point | Mount Alvernia (Como Hill), 63 m (Cat Island) | [source](https://en.wikipedia.org/wiki/Mount_Alvernia) — soft/estimate |
+| Geography & size | Type | archipelago | [source](https://en.wikipedia.org/wiki/The_Bahamas) — soft/estimate |
+| Geography & size | Time zone | UTC−5 (EST), UTC−4 summer; Moscow −8h/−7h | [source](https://en.wikipedia.org/wiki/Time_in_the_Bahamas) — soft/estimate |
+| Climate | Avg precipitation | 1292 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=BS) — hard/official |
+| Climate | PM2.5 exposure | 5.3 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=BS) — hard/official |
+| Climate | Climate zone | Aw (tropical savanna), Am (tropical monsoon) on some islands | [source](https://en.wikipedia.org/wiki/Geography_of_the_Bahamas) — soft/estimate |
+| Climate | Temp winter / summer | Nassau: Jan avg 22°C, Jul avg 29°C | [source](https://en.wikipedia.org/wiki/Nassau,_Bahamas#Climate) — soft/estimate |
+| Climate | Rainy days | Nassau: ~130 rainy days/year | [source](https://en.wikipedia.org/wiki/Nassau,_Bahamas#Climate) — soft/estimate |
+| Climate | Humidity | Nassau: ~78% avg annual relative humidity | [source](https://en.wikipedia.org/wiki/Nassau,_Bahamas#Climate) — soft/estimate |
+| Climate | Natural hazards | Hurricanes, tropical storms. World Risk Index rank ~30 (medium-high) | [source](https://weltrisikobericht.de/) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5: ~2.3 µg/m³ (2024, IQAir; meets WHO guideline) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $15.8B (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BS) — hard/official |
+| Economy | GDP growth | 3.4% (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=BS) — hard/official |
+| Economy | Inflation (CPI) | 1.1% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BS) — hard/official |
+| Economy | Unemployment | 9.2% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=BS) — hard/official |
+| Economy | Central govt debt | 71% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=BS) — hard/official |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 60% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=BS) — hard/official |
+| Economy | Remittances | 0.4% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=BS) — hard/official |
+| Economy | Credit rating | S&P: B+ (stable), Moody's: B1 (stable) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_credit_rating) — soft/estimate |
+| Economy | Currency | BSD (Bahamian dollar), pegged 1:1 to USD; stable | [source](https://www.centralbankbahamas.com) — soft/estimate |
+| Economy | Top industries | Tourism (~50% GDP), Financial services (~15%), Construction (~7%) | [source](https://www.bahamas.gov.bs) — soft/estimate |
+| Economy | Economic Complexity | ECI rank #133 (2023, OEC) | [source](https://oec.world/en/profile/country/bhs) — hard/official |
+| Technology | Internet users | 92% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BS) — hard/official |
+| Technology | Fixed broadband subs | 25.3 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=BS) — hard/official |
+| Technology | High-tech exports | 0.0% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=BS) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | Not ranked in GII 2024 (133 economies) | [source](https://www.wipo.int/gii-ranking/) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI: ~0.6180, rank ~100 (UN 2024 est.) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | Fixed broadband median: not in Ookla top 100 (Aug 2026) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G not yet deployed; under consultation (2024) | [source](https://www.urcabahamas.bs) — soft/estimate |
+| Technology | Online payments | Stripe: not available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink: not in top 100 (2024) | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 74.7 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=BS) — hard/official |
+| Human development & health | Hospital beds | 2.2 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=BS) — hard/official |
+| Human development & health | HDI | HDI: 0.820, rank #57 (UNDP 2023/2024) | [source](https://hdr.undp.org/data-center/specific-country-data#/countries/BHS) — hard/official |
+| Safety | Global Peace Index | GPI: not ranked in GPI 2024/2026 | [source](https://www.visionofhumanity.org/global-peace-index/) — hard/official |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (US State Dept, 2024) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/The-Bahamas.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance/estate tax; no capital gains tax (2024) | [source](https://taxsummaries.pwc.com/bahamas) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (2024) | [source](https://taxsummaries.pwc.com/bahamas) — soft/estimate |
+| Business | Company setup | ~10 days, ~BSD 350 registration cost | [source](https://www.doingbusiness.org/en/data/exploreeconomies/bahamas) — soft/estimate |
+| Business | Corporate tax | 0% (no corporate income tax; 2024) | [source](https://taxsummaries.pwc.com/bahamas) — soft/estimate |
+| Family & education | Top university | University of the Bahamas; not ranked in QS top 1500 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Visa-free for up to 90 days (as of 2024, MFA Bahamas) | [source](https://www.bahamas.gov.bs/visa) — hard/official |
+| For Russian citizens | Sanctions position | Still formulating sanctions position on Russia (2024) | unsourced/unverified |
+| Quality of life | World Happiness rank | World Happiness rank: not ranked in WHR 2025 top 140 | [source](https://worldhappiness.report/) — hard/official |
+| Quality of life | Expat friendliness | Not listed in InterNations Expat Insider 2024 top 53 | [source](https://www.internations.org/expat-insider/) — hard/official |
+| Quality of life | Local language need | English is the official language; EF EPI not needed | [source](https://www.bahamas.gov.bs) — hard/official |
 
 ## Country Card
 

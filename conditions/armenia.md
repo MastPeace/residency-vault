@@ -2,6 +2,7 @@
 title: Armenia — Armenia
 created: 2026-09-13
 updated: 2026-10-05
+extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, tax, rule_change, popular_ru]
 category: popular_ru
@@ -136,6 +137,68 @@ Expats report Armenia as welcoming and affordable. Yerevan has a growing interna
 | Freedom House score (2025) | 54/100 — Partly Free | ^[https://freedomhouse.org/country/armenia/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,500 (Yerevan) | ^[https://en.wikipedia.org/wiki/Yerevan#Climate] hard/official |
 | Average annual temperature | ~12°C (Yerevan) | ^[https://en.wikipedia.org/wiki/Yerevan#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 53/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 29 740 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=AM) — hard/official |
+| Geography & size | Population density | 108 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=AM) — hard/official |
+| Geography & size | Urban population | 66% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=AM) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_length_of_coastline) — soft/estimate |
+| Geography & size | Highest point | Mount Aragats, 4,090 m | [source](https://www.gov.am/en/geography) — hard/official |
+| Geography & size | Type | landlocked | [source](https://en.wikipedia.org/wiki/Armenia) — soft/estimate |
+| Geography & size | Time zone | UTC+4 (AMT); Moscow+1h | [source](https://en.wikipedia.org/wiki/Time_in_Armenia) — soft/estimate |
+| Climate | Avg precipitation | 562 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=AM) — hard/official |
+| Climate | PM2.5 exposure | 28.6 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=AM) — hard/official |
+| Climate | Climate zone | BSk (cold semi-arid steppe), Dfb (warm-summer humid continental) in mountains | [source](https://en.wikipedia.org/wiki/Geography_of_Armenia) — soft/estimate |
+| Climate | Temp winter / summer | Yerevan: Jan avg −4°C, Jul avg 25°C (1991–2020) | [source](https://en.wikipedia.org/wiki/Yerevan#Climate) — soft/estimate |
+| Climate | Rainy days | Yerevan: ~80 days/year with precipitation | [source](https://en.wikipedia.org/wiki/Yerevan#Climate) — soft/estimate |
+| Climate | Humidity | Yerevan: ~60% avg annual relative humidity | [source](https://en.wikipedia.org/wiki/Yerevan#Climate) — soft/estimate |
+| Climate | Natural hazards | Earthquakes; occasional droughts. INFORM Risk rank ~105 (2024) | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | Annual mean PM2.5: ~26.4 µg/m³ (2023, IQAir) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $29.2B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AM) — hard/official |
+| Economy | GDP growth | 7.2% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=AM) — hard/official |
+| Economy | Inflation (CPI) | 3.3% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=AM) — hard/official |
+| Economy | Unemployment | 12.9% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=AM) — hard/official |
+| Economy | Central govt debt | 48% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=AM) — hard/official |
+| Economy | Gini index | 27.4 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=AM) — hard/official |
+| Economy | Tourism receipts | 8% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=AM) — hard/official |
+| Economy | Remittances | 5.4% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=AM) — hard/official |
+| Economy | Credit rating | S&P: BB− (positive), Fitch: BB− (stable), Moody's: Ba3 (stable) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_credit_rating) — soft/estimate |
+| Economy | Currency | AMD (Armenian dram), floating; ~+20% vs USD 2020–2025 | [source](https://www.cba.am) — soft/estimate |
+| Economy | Top industries | Services (~55% GDP), Industry (~28%), Agriculture (~11%) | [source](https://www.cia.gov/the-world-factbook/countries/armenia/) — soft/estimate |
+| Economy | Economic Complexity | ECI rank #74 (2023, OEC) | [source](https://oec.world/en/profile/country/arm) — hard/official |
+| Technology | Internet users | 81% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=AM) — hard/official |
+| Technology | Fixed broadband subs | 20.3 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=AM) — hard/official |
+| Technology | High-tech exports | 23.6% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=AM) — hard/official |
+| Technology | R&D spend | 0.29% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=AM) — hard/official |
+| Technology | Global Innovation Index | #63 (GII 2024, WIPO) | [source](https://www.wipo.int/gii-ranking/en/armenia) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI: 0.7244, rank #66 (UN 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | Fixed broadband median: 104.09 Mbps (#74, Ookla Aug 2026) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G deployed nationwide by Ucom (Nov 2025) | unsourced/unverified |
+| Technology | Online payments | Stripe: not available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank: null (not in top 100) | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 78.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AM) — hard/official |
+| Human development & health | Hospital beds | 4.2 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=AM) — hard/official |
+| Human development & health | HDI | HDI: 0.786, rank #76 (UNDP 2023/2024) | [source](https://hdr.undp.org/data-center/specific-country-data#/countries/ARM) — hard/official |
+| Safety | Global Peace Index | GPI rank #51, score 1.825 (2026) | [source](https://www.visionofhumanity.org/global-peace-index/) — hard/official |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (US State Dept, 2024) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Armenia.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains: 20% (2024, PwC) | [source](https://taxsummaries.pwc.com/armenia) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (as of 2024) | [source](https://taxsummaries.pwc.com/armenia) — soft/estimate |
+| Business | Company setup | ~3 days, ~AMD 20,000 (~$50) registration fee | [source](https://www.doingbusiness.org/en/data/exploreeconomies/armenia) — soft/estimate |
+| Business | Corporate tax | 18% headline CIT (2024, PwC) | [source](https://taxsummaries.pwc.com/armenia) — soft/estimate |
+| Family & education | Top university | Yerevan State University; QS rank #901–950 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Visa-free for up to 180 days/year (as of 2025, MFA Armenia) | [source](https://www.mfa.am/en/visa/) — soft/estimate |
+| For Russian citizens | Sanctions position | Not imposing sanctions on Russia; monitoring secondary sanctions risk | [source](https://civilnet.am/en/news/806128) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness rank #85 (2025) | [source](https://worldhappiness.report/) — hard/official |
+| Quality of life | Expat friendliness | Not listed in InterNations Expat Insider 2024 top 53 | [source](https://www.internations.org/expat-insider/) — hard/official |
+| Quality of life | Local language need | EF EPI rank #56, score 515; English not widely spoken | [source](https://www.ef.com/epi/) — hard/official |
 
 ## Country Card
 

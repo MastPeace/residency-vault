@@ -2,6 +2,7 @@
 title: Australia — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, skilled-migration, investor-visa, strong_passport]
 category: strong_passport
@@ -149,6 +150,68 @@ Australia maintains sanctions against Russia. Visa processing for Russian nation
 | Freedom House score | 94/100 (Free, declined) | [Freedom House](https://freedomhouse.org/country/australia/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,800–3,300 h (Sydney ~2,600h, Perth ~3,200h, Darwin ~3,100h) | [BOM](https://www.bom.gov.au/climate/maps/averages/sunshine-hours/) — hard/official |
 | Average annual temperature | ~15–22°C (varies: Hobart ~13°C, Darwin ~28°C) | [BOM](https://www.bom.gov.au/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 7 741 220 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=AU) — hard/official |
+| Geography & size | Population density | 4 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=AU) — hard/official |
+| Geography & size | Urban population | 88% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=AU) — hard/official |
+| Geography & size | Coastline | 25,760 km (CIA World Factbook) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_length_of_coastline) — soft/estimate |
+| Geography & size | Highest point | Mount Kosciuszko, 2,228 m | [source](https://en.wikipedia.org/wiki/Mount_Kosciuszko) — soft/estimate |
+| Geography & size | Type | mainland (continent/island) | [source](https://en.wikipedia.org/wiki/Australia) — soft/estimate |
+| Geography & size | Time zone | UTC+8 to UTC+11; Moscow +5h to +8h depending on zone | [source](https://en.wikipedia.org/wiki/Time_in_Australia) — soft/estimate |
+| Climate | Avg precipitation | 534 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=AU) — hard/official |
+| Climate | PM2.5 exposure | 6.4 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=AU) — hard/official |
+| Climate | Climate zone | BWh (hot desert), Cfa/Cfb (subtropical/oceanic), Aw (tropical savanna); diverse | [source](https://en.wikipedia.org/wiki/Climate_of_Australia) — soft/estimate |
+| Climate | Temp winter / summer | Sydney: Jan avg 22°C, Jul avg 13°C | [source](https://en.wikipedia.org/wiki/Sydney#Climate) — soft/estimate |
+| Climate | Rainy days | Sydney: ~130 rainy days/year | [source](https://en.wikipedia.org/wiki/Sydney#Climate) — soft/estimate |
+| Climate | Humidity | Sydney: ~60% avg annual relative humidity | [source](https://en.wikipedia.org/wiki/Sydney#Climate) — soft/estimate |
+| Climate | Natural hazards | Bushfires, cyclones, floods, droughts. World Risk Index rank ~140 (low) | [source](https://weltrisikobericht.de/) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5: ~4.5 µg/m³ (meets WHO guideline, 2023) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $1.8T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AU) — hard/official |
+| Economy | GDP growth | 1.4% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=AU) — hard/official |
+| Economy | Inflation (CPI) | 2.9% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=AU) — hard/official |
+| Economy | Unemployment | 4.1% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=AU) — hard/official |
+| Economy | Central govt debt | 58% of GDP (2022) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=AU) — hard/official |
+| Economy | Gini index | 33.8 (2020) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=AU) — hard/official |
+| Economy | Tourism receipts | 9% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=AU) — hard/official |
+| Economy | Remittances | 0.1% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=AU) — hard/official |
+| Economy | Credit rating | S&P: AAA (stable), Moody's: Aaa (stable), Fitch: AAA (stable) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_credit_rating) — soft/estimate |
+| Economy | Currency | AUD, free-floating; ~−5% vs USD 2020–2025 | [source](https://www.rba.gov.au) — soft/estimate |
+| Economy | Top industries | Services (~70% GDP), Mining (~10%), Construction (~8%) | [source](https://www.abs.gov.au) — soft/estimate |
+| Economy | Economic Complexity | ECI rank #74 (2023, OEC) | [source](https://atlas.cid.harvard.edu/rankings) — hard/official |
+| Technology | Internet users | 96% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=AU) — hard/official |
+| Technology | Fixed broadband subs | 36.5 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=AU) — hard/official |
+| Technology | High-tech exports | 25.2% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=AU) — hard/official |
+| Technology | R&D spend | 1.86% of GDP (2021) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=AU) — hard/official |
+| Technology | Global Innovation Index | #23 (GII 2024, WIPO) | [source](https://www.wipo.int/gii-ranking/en/australia) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI: 0.9405, rank #5 (UN 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | Fixed broadband median: 177.44 Mbps (#42, Ookla Aug 2026) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G widely available in major cities (2024) | [source](https://www.acma.gov.au/5g-australia) — hard/official |
+| Technology | Online payments | Stripe: available; PayPal and Apple Pay widely supported | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank #8 (2024) | [source](https://www.startupblink.com/startups) — hard/official |
+| Human development & health | Life expectancy | 83.1 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AU) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | HDI: 0.946, rank #10 (UNDP 2023/2024) | [source](https://hdr.undp.org/data-center/specific-country-data#/countries/AUS) — hard/official |
+| Safety | Global Peace Index | GPI rank #20, score 1.602 (2026) | [source](https://www.visionofhumanity.org/global-peace-index/) — hard/official |
+| Safety | US travel advisory | Level 1: Exercise Normal Precautions (US State Dept, 2024) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Australia.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains: taxed as income (up to 45%) | [source](https://taxsummaries.pwc.com/australia) — soft/estimate |
+| Money & tax | CFC rules | Yes, comprehensive CFC rules (2024, PwC) | [source](https://taxsummaries.pwc.com/australia) — soft/estimate |
+| Business | Company setup | ~2 days, ~AUD 506 registration with ASIC | [source](https://www.doingbusiness.org/en/data/exploreeconomies/australia) — soft/estimate |
+| Business | Corporate tax | 30% standard; 25% for small business entities (FY2024/25) | [source](https://www.ato.gov.au/tax-rates) — hard/official |
+| Family & education | Top university | University of Melbourne; QS rank #13 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Visa required; not visa-free (2024, Australian Department of Home Affairs) | [source](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing) — hard/official |
+| For Russian citizens | Sanctions position | Imposes autonomous sanctions on Russia (2022–present) | [source](https://www.dfat.gov.au/international-relations/security/sanctions) — hard/official |
+| Quality of life | World Happiness rank | World Happiness rank #15 (2025) | [source](https://worldhappiness.report/) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider rank #8 (2024) | [source](https://www.internations.org/expat-insider/) — hard/official |
+| Quality of life | Local language need | EF EPI: English native; English is the national language | [source](https://www.ef.com/epi/) — hard/official |
 
 ## Country Card
 

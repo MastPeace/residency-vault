@@ -2,6 +2,7 @@
 title: Bahrain — Kingdom of Bahrain
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, golden-residency, tax, it_friendly, popular_ru]
 category: multi
@@ -161,6 +162,68 @@ Bahrain is the most underrated Gulf residency destination. Golden Residency is a
 | Freedom House score | 12/100 — Not Free (2025) | ^[https://freedomhouse.org/country/bahrain/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~3,940 | ^[https://weatherspark.com/countries/BH] hard/official |
 | Average annual temperature | ~27°C | ^[https://weatherspark.com/countries/BH] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 800 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=BH) — hard/official |
+| Geography & size | Population density | 1 986 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=BH) — hard/official |
+| Geography & size | Urban population | 100% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=BH) — hard/official |
+| Geography & size | Coastline | 161 km | [source](https://en.wikipedia.org/wiki/List_of_countries_by_length_of_coastline) — soft/estimate |
+| Geography & size | Highest point | Jabal ad Dukhan, 134 m | [source](https://en.wikipedia.org/wiki/Geography_of_Bahrain) — soft/estimate |
+| Geography & size | Type | archipelago (island nation) | [source](https://en.wikipedia.org/wiki/Bahrain) — soft/estimate |
+| Geography & size | Time zone | UTC+3 (AST); Moscow 0h | [source](https://en.wikipedia.org/wiki/Time_in_Bahrain) — soft/estimate |
+| Climate | Avg precipitation | 83 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=BH) — hard/official |
+| Climate | PM2.5 exposure | 56.6 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=BH) — hard/official |
+| Climate | Climate zone | BWh (hot desert climate) | [source](https://en.wikipedia.org/wiki/Geography_of_Bahrain) — soft/estimate |
+| Climate | Temp winter / summer | Manama: Jan avg 17°C, Jul avg 34°C | [source](https://en.wikipedia.org/wiki/Manama#Climate) — soft/estimate |
+| Climate | Rainy days | Manama: ~15 rainy days/year | [source](https://en.wikipedia.org/wiki/Manama#Climate) — soft/estimate |
+| Climate | Humidity | Manama: ~67% avg annual relative humidity | [source](https://en.wikipedia.org/wiki/Manama#Climate) — soft/estimate |
+| Climate | Natural hazards | Dust storms, extreme heat, occasional flash floods. INFORM Risk rank ~120 (2024) | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | Annual mean PM2.5: ~43.9 µg/m³ (2023, IQAir; among highest globally) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $49.0B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BH) — hard/official |
+| Economy | GDP growth | 3.5% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=BH) — hard/official |
+| Economy | Inflation (CPI) | -0.1% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BH) — hard/official |
+| Economy | Unemployment | 1.1% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=BH) — hard/official |
+| Economy | Central govt debt | 112% of GDP (2020) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=BH) — hard/official |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 3% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=BH) — hard/official |
+| Economy | Remittances | No reliable data | — |
+| Economy | Credit rating | S&P: B+ (stable), Moody's: B2 (negative), Fitch: B+ (stable) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_credit_rating) — soft/estimate |
+| Economy | Currency | BHD (Bahraini dinar), pegged to USD at 0.376; stable | [source](https://www.cbb.gov.bh) — soft/estimate |
+| Economy | Top industries | Oil & gas (~17% GDP), Financial services (~17%), Manufacturing (~14%) | [source](https://www.mofne.gov.bh) — soft/estimate |
+| Economy | Economic Complexity | ECI rank #48, score 0.30 (2023, Harvard Atlas) | [source](https://atlas.cid.harvard.edu/rankings) — hard/official |
+| Technology | Internet users | 100% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BH) — hard/official |
+| Technology | Fixed broadband subs | 17.0 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=BH) — hard/official |
+| Technology | High-tech exports | 0.4% of manufactured exports (2023) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=BH) — hard/official |
+| Technology | R&D spend | 0.19% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=BH) — hard/official |
+| Technology | Global Innovation Index | #72 (GII 2024, WIPO) | [source](https://www.wipo.int/gii-ranking/en/bahrain) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI: 0.8760, rank #18 (UN 2024; very high) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | Fixed broadband median: not in Ookla top 100 (Aug 2026); mobile #7 (306 Mbps) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G widely available (Batelco/Ericsson, 2024) | [source](https://www.ericsson.com/en/press-releases) — soft/estimate |
+| Technology | Online payments | Stripe: available in Bahrain (2024) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink: not in top 100 (2024) | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 81.4 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=BH) — hard/official |
+| Human development & health | Hospital beds | 1.8 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=BH) — hard/official |
+| Human development & health | HDI | HDI: 0.888, rank #34 (UNDP 2023/2024) | [source](https://hdr.undp.org/data-center/specific-country-data#/countries/BHR) — hard/official |
+| Safety | Global Peace Index | GPI rank #81, score 2.072 (2024) | [source](https://www.visionofhumanity.org/global-peace-index/) — hard/official |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (US State Dept, 2024) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Bahrain.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; no capital gains tax (2024) | [source](https://taxsummaries.pwc.com/bahrain) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (2024) | [source](https://taxsummaries.pwc.com/bahrain) — soft/estimate |
+| Business | Company setup | ~8 days, ~BHD 300 registration cost | [source](https://www.doingbusiness.org/en/data/exploreeconomies/bahrain) — soft/estimate |
+| Business | Corporate tax | 0% (no corporate income tax except for oil/gas companies at 46%) | [source](https://taxsummaries.pwc.com/bahrain) — soft/estimate |
+| Family & education | Top university | University of Bahrain; QS Arab Region rank ~30, not in QS global top 1500 | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Visa on arrival or eVisa for Russian citizens (2024) | [source](https://www.evisa.gov.bh) — hard/official |
+| For Russian citizens | Sanctions position | Not imposing sanctions on Russia; maintains neutral stance | [source](https://www.mofa.gov.bh) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness rank #40 (2025) | [source](https://worldhappiness.report/) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider rank #6 (2024) | [source](https://www.internations.org/expat-insider/) — hard/official |
+| Quality of life | Local language need | EF EPI rank #72, score 478; English widely used in business | [source](https://www.ef.com/epi/) — hard/official |
 
 ## Country Card
 

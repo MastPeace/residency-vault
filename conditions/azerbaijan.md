@@ -2,6 +2,7 @@
 title: Azerbaijan — Azerbaijan
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, tax]
 category: clear_pathway
@@ -146,6 +147,68 @@ Azerbaijan is not a popular expat destination outside the oil/gas sector. Those 
 | Freedom House score (2025) | 7/100 — Not Free | ^[https://freedomhouse.org/country/azerbaijan/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,200 (Baku) | ^[https://en.wikipedia.org/wiki/Baku#Climate] hard/official |
 | Average annual temperature | ~15°C (Baku) | ^[https://en.wikipedia.org/wiki/Baku#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 86 600 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=AZ) — hard/official |
+| Geography & size | Population density | 123 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=AZ) — hard/official |
+| Geography & size | Urban population | 59% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=AZ) — hard/official |
+| Geography & size | Coastline | 713 km (Caspian Sea) | [source](https://en.wikipedia.org/wiki/Geography_of_Azerbaijan) — soft/estimate |
+| Geography & size | Highest point | Bazarduzu, 4,466 m | [source](https://en.wikipedia.org/wiki/Bazarduzu) — soft/estimate |
+| Geography & size | Type | mainland (Caspian Sea coastline) | [source](https://en.wikipedia.org/wiki/Azerbaijan) — soft/estimate |
+| Geography & size | Time zone | UTC+4 (AZT); Moscow +1h | [source](https://en.wikipedia.org/wiki/Time_in_Azerbaijan) — soft/estimate |
+| Climate | Avg precipitation | 447 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=AZ) — hard/official |
+| Climate | PM2.5 exposure | 23.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=AZ) — hard/official |
+| Climate | Climate zone | BSk (cold semi-arid) in lowlands; Dfa/Dfb (humid continental) in mountains; Cfa (humid subtropical) in SE | [source](https://en.wikipedia.org/wiki/Geography_of_Azerbaijan) — soft/estimate |
+| Climate | Temp winter / summer | Baku: Jan avg 4.3°C, Jul avg 26.4°C | [source](https://en.wikipedia.org/wiki/Baku#Climate) — soft/estimate |
+| Climate | Rainy days | Baku: ~80 days/year with precipitation | [source](https://en.wikipedia.org/wiki/Baku#Climate) — soft/estimate |
+| Climate | Humidity | Baku: ~79% avg annual relative humidity | [source](https://en.wikipedia.org/wiki/Baku#Climate) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, mudslides, droughts. INFORM Risk rank ~80 (2024) | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | Annual mean PM2.5: ~18.9 µg/m³ (2023, IQAir) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $75.9B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AZ) — hard/official |
+| Economy | GDP growth | 1.4% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=AZ) — hard/official |
+| Economy | Inflation (CPI) | 5.6% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=AZ) — hard/official |
+| Economy | Unemployment | 5.5% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=AZ) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 2% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=AZ) — hard/official |
+| Economy | Remittances | 2.0% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=AZ) — hard/official |
+| Economy | Credit rating | S&P: BB+ (stable), Moody's: Ba1 (positive), Fitch: BBB− (stable) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_credit_rating) — soft/estimate |
+| Economy | Currency | AZN (manat), pegged to USD at 1.7; stable | [source](https://www.cbar.az) — soft/estimate |
+| Economy | Top industries | Oil & gas (~40% GDP), Industry (~15%), Agriculture (~7%) | [source](https://www.stat.gov.az) — soft/estimate |
+| Economy | Economic Complexity | ECI rank #77 (2023, OEC) | [source](https://oec.world/en/profile/country/aze) — hard/official |
+| Technology | Internet users | 91% of population (2025) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=AZ) — hard/official |
+| Technology | Fixed broadband subs | 21.8 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=AZ) — hard/official |
+| Technology | High-tech exports | 2.9% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=AZ) — hard/official |
+| Technology | R&D spend | 0.21% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=AZ) — hard/official |
+| Technology | Global Innovation Index | #95 (GII 2024, WIPO) | [source](https://www.wipo.int/gii-ranking/en/azerbaijan) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI: 0.6796, rank #80 (UN 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | Fixed broadband median: 129.46 Mbps (#66, Ookla Aug 2026) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G testing launched (Bakcell, 2024); limited availability | [source](https://en.wikipedia.org/wiki/Telecommunications_in_Azerbaijan) — soft/estimate |
+| Technology | Online payments | Stripe: not available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink: not in top 100 (2024) | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 74.6 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AZ) — hard/official |
+| Human development & health | Hospital beds | 3.7 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=AZ) — hard/official |
+| Human development & health | HDI | HDI: 0.760, rank #89 (UNDP 2023/2024) | [source](https://hdr.undp.org/data-center/specific-country-data#/countries/AZE) — hard/official |
+| Safety | Global Peace Index | GPI rank #129, score 2.248 (2024) | [source](https://www.visionofhumanity.org/global-peace-index/) — hard/official |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (US State Dept, 2024) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Azerbaijan.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains: taxed as income (14–25%) | [source](https://taxsummaries.pwc.com/azerbaijan) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (as of 2024) | [source](https://taxsummaries.pwc.com/azerbaijan) — soft/estimate |
+| Business | Company setup | ~3 days, ~AZN 11 registration fee | [source](https://www.doingbusiness.org/en/data/exploreeconomies/azerbaijan) — soft/estimate |
+| Business | Corporate tax | 20% headline CIT (2024) | [source](https://taxsummaries.pwc.com/azerbaijan) — soft/estimate |
+| Family & education | Top university | Baku State University; QS rank #951–1000 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Visa-free for up to 90 days (as of 2025, MFA Azerbaijan) | [source](https://mfa.gov.az/en/category/visa) — hard/official |
+| For Russian citizens | Sanctions position | Not imposing sanctions on Russia; neutral position | [source](https://mfa.gov.az/en) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness rank #95 (2025) | [source](https://worldhappiness.report/) — hard/official |
+| Quality of life | Expat friendliness | Not listed in InterNations Expat Insider 2024 top 53 | [source](https://www.internations.org/expat-insider/) — hard/official |
+| Quality of life | Local language need | EF EPI rank #94, score 454; English not widely spoken | [source](https://www.ef.com/epi/) — hard/official |
 
 ## Country Card
 
