@@ -19,7 +19,7 @@ weekly/monthly monitor and published as a Wikipedia-style static website.
   path to citizenship, tax regime, official government/agency source URL (verified), and a
   community verdict with cited source.
 - Fully cross-linked as an **Obsidian wiki** (wikilinks, YAML frontmatter, Dataview-compatible).
-- Auto-published as a **dark-themed Wikipedia-style static website** via GitHub Pages.
+- Auto-published as a **static website (light/dark theme, filterable country table, search palette)** via GitHub Pages.
 - **Automated refresh**: a weekly monitor updates 22 key watchlist countries; a monthly
   monitor refreshes the full 163-country set. Changes are collected, analyzed (on
   deepseek-v4-pro), validated, and applied as deltas to the wiki database — never
@@ -44,7 +44,7 @@ wiki/
 ├── alerts/                ← weekly delta reports (alerts/YYYY-MM-DD.md)
 ├── raw/articles/          ← immutable web extracts (monitor snapshots)
 ├── scripts/
-│   ├── generate_site.py   ← stdlib-only static site generator (dark Wikipedia theme)
+│   ├── generate_site.py   ← stdlib-only static site generator
 │   └── auto-sync.sh       ← auto-commit + push to GitHub
 └── .github/workflows/
     └── gh-pages.yml       ← GitHub Actions deploy to GitHub Pages
@@ -59,7 +59,7 @@ and deploys it to GitHub Pages. No manual build step required.
 
 **URL:** [https://mastpeace.github.io/residency-vault/](https://mastpeace.github.io/residency-vault/)
 
-The site features: dark theme, sidebar navigation by region, client-side search,
+The site features: light/dark theme, filterable and sortable country table, Ctrl/Cmd+K search, per-page TOC,
 concept pages, wikilink-aware internal linking, footnotes, and responsive layout.
 
 ---

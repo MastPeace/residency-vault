@@ -415,6 +415,8 @@ def parse_snapshot_table(content):
             cells = [c.strip() for c in line.strip().strip('|').split('|')]
             if len(cells) >= 2:
                 field = cells[0]
+                if field.lower() == 'field':
+                    continue
                 value = cells[1] if len(cells) > 1 else ''
                 source = cells[2] if len(cells) > 2 else ''
                 rows.append((field, value, source))
@@ -460,6 +462,14 @@ def render_snapshot_html(section_text):
     if not rows:
         return '<div class="snapshot-section"><h2 id="country-snapshot">Country Snapshot</h2><p class="snapshot-empty">No data yet.</p></div>'
 
+    def snap_inline(s):
+        t = html.escape(s)
+        t = re.sub(r'\[\[#([\w-]+)\]\]', lambda m: f'<a class="wikilink" href="#{m.group(1)}">{m.group(1).replace("-", " ")}</a>', t)
+        t = re.sub(r'\[([^\]]+)\]\((https?://[^)\s]+)\)', r'<a href="\2" rel="noopener">\1</a>', t)
+        t = re.sub(r'\s*[—-]?\s*\[?(hard/official)\]?', ' <span class="off">official</span>', t)
+        t = re.sub(r'\s*[—-]?\s*\[?(soft/estimate)\]?', ' <span class="est">estimate</span>', t)
+        return t.strip()
+
     html_parts = [
         '<div class="snapshot-section">',
         '<h2 id="country-snapshot">Country Snapshot</h2>',
@@ -470,7 +480,7 @@ def render_snapshot_html(section_text):
     for field, value, source in rows:
         val_html = html.escape(value)
         if source:
-            val_html += f' <span class="snapshot-source">{html.escape(source)}</span>'
+            val_html += f'<span class="snapshot-source">{snap_inline(source)}</span>'
         html_parts.append(f'<tr><td class="snap-field">{html.escape(field)}</td><td class="snap-value">{val_html}</td></tr>')
     html_parts.append('</tbody></table></div></div>')
     return '\n'.join(html_parts)
@@ -499,6 +509,9 @@ def render_card_html(section_text):
         elif stripped.startswith('### Well-known problems'):
             section = 'problems'
             continue
+        elif stripped.lower().startswith('### general description'):
+            section = 'desc'
+            continue
         elif stripped.startswith('###'):
             section = 'other'
             continue
@@ -518,26 +531,15 @@ def render_card_html(section_text):
 
     html_parts = ['<div class="country-card">',
                   '<h2 id="country-card">Country Card</h2>']
-
     if description:
         html_parts.append(f'<p class="card-description">{html.escape(description)}</p>')
-
-    if strong_points:
-        html_parts.append('<div class="card-strong-points">')
-        html_parts.append('<h3>✅ Well-known strong points</h3>')
-        html_parts.append('<ul>')
-        for sp in strong_points:
-            html_parts.append(f'<li>{html.escape(sp)}</li>')
-        html_parts.append('</ul></div>')
-
-    if problems:
-        html_parts.append('<div class="card-problems">')
-        html_parts.append('<h3>⚠️ Well-known problems</h3>')
-        html_parts.append('<ul>')
-        for p in problems:
-            html_parts.append(f'<li>{html.escape(p)}</li>')
-        html_parts.append('</ul></div>')
-
+    if strong_points or problems:
+        html_parts.append('<div class="proscons">')
+        if strong_points:
+            html_parts.append('<div class="pros"><h3>Strong points</h3><ul>' + ''.join(f'<li>{html.escape(sp)}</li>' for sp in strong_points) + '</ul></div>')
+        if problems:
+            html_parts.append('<div class="cons"><h3>Known problems</h3><ul>' + ''.join(f'<li>{html.escape(p)}</li>' for p in problems) + '</ul></div>')
+        html_parts.append('</div>')
     html_parts.append('</div>')
     return '\n'.join(html_parts)
 
@@ -643,887 +645,743 @@ def collect_pages():
 
 # ── HTML Templates ───────────────────────────────────────────────────────────
 
+
 CSS = r"""
-/* ── Reset & Base ──────────────────────────────────────────────────────────── */
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
 :root {
-  --bg-primary: #1a1a2e;
-  --bg-secondary: #16213e;
-  --bg-tertiary: #0f3460;
-  --bg-card: #1e2746;
-  --text-primary: #e0e0e0;
-  --text-secondary: #a0a0b8;
-  --text-muted: #6c6c8a;
-  --accent: #6c63ff;
-  --accent-light: #8b85ff;
-  --accent-dark: #4a44cc;
-  --link: #7b93db;
-  --link-hover: #a0b4ff;
-  --border: #2a2a4a;
-  --table-header-bg: #0f3460;
-  --table-row-alt: #1a1f3a;
-  --table-row-hover: #252a4a;
-  --tag-bg: #2a2a5a;
-  --tag-text: #b0b0d0;
-  --success: #4caf50;
-  --warning: #ff9800;
-  --danger: #f44336;
-  --sidebar-width: 280px;
-  --header-height: 56px;
-  --max-content-width: 960px;
+  --bg: #f5f2ea;
+  --surface: #fffdf8;
+  --sunken: #ece8dc;
+  --ink: #1d1c18;
+  --ink-2: #4a473f;
+  --muted: #7a7567;
+  --line: #ddd7c8;
+  --line-strong: #bfb8a5;
+  --accent: #1f5f4a;
+  --accent-ink: #ffffff;
+  --accent-soft: #dfeadf;
+  --good: #2f6b3a;
+  --warn: #9a4a12;
+  --serif: "Source Serif 4", "Iowan Old Style", "Charter", "Palatino Linotype", Georgia, serif;
+  --sans: "Inter Tight", "Segoe UI", "Helvetica Neue", Arial, system-ui, sans-serif;
+  --mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace;
+  --wrap: 1180px;
+  color-scheme: light;
 }
-
-html { font-size: 16px; scroll-behavior: smooth; }
+:root[data-theme="dark"] {
+  --bg: #14130f;
+  --surface: #1b1a15;
+  --sunken: #23211b;
+  --ink: #ece8dc;
+  --ink-2: #c6c1b2;
+  --muted: #8f8a7a;
+  --line: #2f2d25;
+  --line-strong: #4a473c;
+  --accent: #7cc3a1;
+  --accent-ink: #0f1a15;
+  --accent-soft: #1f2e27;
+  --good: #8cc99a;
+  --warn: #e0a06a;
+  color-scheme: dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #14130f; --surface: #1b1a15; --sunken: #23211b; --ink: #ece8dc; --ink-2: #c6c1b2;
+    --muted: #8f8a7a; --line: #2f2d25; --line-strong: #4a473c; --accent: #7cc3a1;
+    --accent-ink: #0f1a15; --accent-soft: #1f2e27; --good: #8cc99a; --warn: #e0a06a;
+    color-scheme: dark;
+  }
+}
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 76px; -webkit-text-size-adjust: 100%; }
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  background: var(--bg-primary);
-  color: var(--text-primary);
-  line-height: 1.65;
-  min-height: 100vh;
+  margin: 0; background: var(--bg); color: var(--ink);
+  font: 400 16px/1.65 var(--sans); -webkit-font-smoothing: antialiased;
 }
+a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+.wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 24px; }
 
-a { color: var(--link); text-decoration: none; }
-a:hover { color: var(--link-hover); text-decoration: underline; }
-a.wikilink { color: var(--accent-light); }
-a.wikilink:hover { color: #c0b8ff; }
+/* ── Top bar ── */
+.topbar { position: sticky; top: 0; z-index: 30; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(6px); border-bottom: 1px solid var(--line); }
+.topbar .wrap { display: flex; align-items: center; gap: 28px; height: 56px; }
+.brand { font: 600 18px/1 var(--serif); color: var(--ink); text-decoration: none; letter-spacing: -.01em; white-space: nowrap; }
+.brand span { color: var(--accent); }
+.topnav { display: flex; gap: 20px; font-size: 14px; }
+.topnav a { color: var(--ink-2); text-decoration: none; }
+.topnav a:hover { color: var(--ink); text-decoration: underline; }
+.topbar .spacer { flex: 1; }
+.search-btn { display: flex; align-items: center; gap: 10px; min-width: 240px; height: 36px; padding: 0 10px 0 12px;
+  background: var(--surface); border: 1px solid var(--line-strong); border-radius: 6px; color: var(--muted);
+  font: 14px var(--sans); cursor: pointer; text-align: left; }
+.search-btn:hover { border-color: var(--ink-2); }
+.search-btn span:first-child { flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+kbd { font: 11px var(--mono); padding: 1px 6px; border: 1px solid var(--line-strong); border-radius: 4px; color: var(--muted); background: var(--bg); }
+.icon-btn { width: 36px; height: 36px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink-2);
+  border-radius: 6px; cursor: pointer; font-size: 15px; line-height: 1; }
+.icon-btn:hover { color: var(--ink); border-color: var(--ink-2); }
 
-/* ── Layout ────────────────────────────────────────────────────────────────── */
-.app { display: flex; min-height: 100vh; }
+/* ── Palette ── */
+.palette { position: fixed; inset: 0; z-index: 50; display: none; background: rgba(20,19,15,.45); padding: 12vh 16px 0; }
+.palette.open { display: block; }
+.palette-box { max-width: 560px; margin: 0 auto; background: var(--surface); border: 1px solid var(--line-strong);
+  border-radius: 10px; box-shadow: 0 24px 60px rgba(0,0,0,.28); overflow: hidden; }
+.palette input { width: 100%; border: 0; border-bottom: 1px solid var(--line); padding: 16px 18px; background: transparent;
+  color: var(--ink); font: 17px var(--sans); outline: none; }
+.palette ul { list-style: none; margin: 0; padding: 6px; max-height: 50vh; overflow: auto; }
+.palette li a { display: flex; justify-content: space-between; gap: 12px; padding: 9px 12px; border-radius: 6px;
+  color: var(--ink); text-decoration: none; font-size: 15px; }
+.palette li a small { color: var(--muted); font: 12px var(--mono); align-self: center; }
+.palette li.sel a, .palette li a:hover { background: var(--accent-soft); }
+.palette .empty { padding: 18px; color: var(--muted); font-size: 14px; }
 
-/* ── Sidebar ───────────────────────────────────────────────────────────────── */
-.sidebar {
-  width: var(--sidebar-width);
-  background: var(--bg-secondary);
-  border-right: 1px solid var(--border);
-  position: fixed;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  overflow-y: auto;
-  display: flex;
-  flex-direction: column;
-  z-index: 100;
-  transition: transform 0.3s ease;
-}
+/* ── Chips, confidence ── */
+.chip { display: inline-block; padding: 1px 9px; font-size: 12px; line-height: 20px; border: 1px solid var(--line-strong);
+  border-radius: 999px; color: var(--ink-2); background: transparent; white-space: nowrap; }
+.conf { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; color: var(--ink-2); }
+.conf i { display: inline-flex; gap: 2px; }
+.conf i b { width: 14px; height: 5px; border-radius: 1px; background: var(--line-strong); }
+.conf i b.on { background: var(--accent); }
 
-.sidebar-header {
-  padding: 16px 20px;
-  border-bottom: 1px solid var(--border);
-  background: linear-gradient(135deg, var(--bg-tertiary), var(--bg-secondary));
-}
-.sidebar-header h2 {
-  font-size: 1.15rem;
-  font-weight: 700;
-  color: var(--text-primary);
-  line-height: 1.3;
-}
-.sidebar-header .subtitle {
-  font-size: 0.72rem;
-  color: var(--text-muted);
-  margin-top: 4px;
-}
+/* ── Index ── */
+.hero { padding: 48px 0 32px; display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: 48px; align-items: end; }
+.hero h1 { font: 600 clamp(34px, 5vw, 54px)/1.04 var(--serif); letter-spacing: -.02em; margin: 0; max-width: 15ch; }
+.hero p { margin: 0; color: var(--ink-2); font-size: 17px; max-width: 46ch; }
+.hero .stamp { margin-top: 14px; font: 12px var(--mono); color: var(--muted); }
+.latest { margin: 8px 0 36px; border-top: 2px solid var(--ink); }
+.latest h2, .section-h { font: 600 12px/1 var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 16px 0 6px; }
+.latest ol { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; column-gap: 40px; }
+.latest li { display: grid; grid-template-columns: 74px 1fr; gap: 12px; padding: 12px 0; border-bottom: 1px solid var(--line); font-size: 14px; line-height: 1.5; }
+.latest time { font: 12px/1.9 var(--mono); color: var(--muted); }
+.latest li a { font-weight: 600; color: var(--ink); text-decoration: none; }
+.latest li a:hover { color: var(--accent); text-decoration: underline; }
+.latest li span { color: var(--ink-2); }
 
-/* Search in sidebar */
-.sidebar-search {
-  padding: 12px 16px;
-  border-bottom: 1px solid var(--border);
-}
-.sidebar-search input {
-  width: 100%;
-  padding: 8px 12px;
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  background: var(--bg-primary);
-  color: var(--text-primary);
-  font-size: 0.85rem;
-  outline: none;
-  transition: border-color 0.2s;
-}
-.sidebar-search input:focus {
-  border-color: var(--accent);
-}
-.sidebar-search input::placeholder { color: var(--text-muted); }
-.no-results {
-  display: none;
-  padding: 8px 20px;
-  color: var(--text-muted);
-  font-size: 0.8rem;
-  font-style: italic;
-}
+.explore { position: sticky; top: 56px; z-index: 10; background: var(--bg); padding: 14px 0 12px; border-bottom: 1px solid var(--line); }
+.explore-row { display: flex; flex-wrap: wrap; gap: 8px 10px; align-items: center; }
+.explore input[type=search], .explore select { height: 36px; padding: 0 12px; border: 1px solid var(--line-strong); border-radius: 6px;
+  background: var(--surface); color: var(--ink); font: 14px var(--sans); }
+.explore input[type=search] { width: 220px; }
+.fchip { height: 32px; padding: 0 12px; border-radius: 999px; border: 1px solid var(--line-strong); background: transparent;
+  color: var(--ink-2); font: 13px var(--sans); cursor: pointer; }
+.fchip:hover { border-color: var(--ink); color: var(--ink); }
+.fchip[aria-pressed=true] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.count { margin-left: auto; font: 13px var(--mono); color: var(--muted); }
+.ctable { width: 100%; border-collapse: collapse; font-size: 14px; }
+.ctable th { text-align: left; font: 600 12px var(--sans); letter-spacing: .06em; text-transform: uppercase; color: var(--muted);
+  padding: 12px 10px 8px; border-bottom: 1px solid var(--line-strong); white-space: nowrap; }
+.ctable th button { all: unset; cursor: pointer; }
+.ctable th button:hover { color: var(--ink); }
+.ctable th[aria-sort=ascending] button::after { content: " ↑"; }
+.ctable th[aria-sort=descending] button::after { content: " ↓"; }
+.ctable td { padding: 9px 10px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+.ctable tbody tr:hover { background: var(--accent-soft); }
+.ctable td.name a { font: 600 17px/1.2 var(--serif); color: var(--ink); text-decoration: none; }
+.ctable td.name a:hover { color: var(--accent); text-decoration: underline; }
+.ctable td.cc, .ctable td.num, .ctable td.date { font: 13px var(--mono); color: var(--ink-2); }
+.ctable td.region { color: var(--muted); font-size: 13px; }
+.ctable td.fit .chip { margin: 2px 4px 2px 0; }
+.ctable td.date, .ctable td.region { white-space: nowrap; }
+.ctable td.num { text-align: right; } .ctable th.num { text-align: right; }
+.ctable .none { color: var(--muted); }
+.progs { margin: 56px 0 72px; }
+.progs ul { list-style: none; margin: 0; padding: 0; border-top: 2px solid var(--ink); }
+.progs li { display: grid; grid-template-columns: minmax(200px, 300px) 1fr; gap: 24px; padding: 14px 0; border-bottom: 1px solid var(--line); }
+.progs li a { font: 600 18px/1.3 var(--serif); color: var(--ink); text-decoration: none; }
+.progs li a:hover { color: var(--accent); text-decoration: underline; }
+.progs li p { margin: 0; color: var(--ink-2); font-size: 14px; }
 
-.sidebar-nav { flex: 1; overflow-y: auto; padding: 8px 0; }
-.sidebar-nav .region-group { margin-bottom: 8px; }
-.sidebar-nav .region-label {
-  padding: 6px 20px;
-  font-size: 0.7rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--text-muted);
-}
-.sidebar-nav .nav-item { display: block; }
-.sidebar-nav .nav-item a {
-  display: block;
-  padding: 5px 20px 5px 28px;
-  font-size: 0.84rem;
-  color: var(--text-secondary);
-  border-left: 3px solid transparent;
-  transition: all 0.15s;
-}
-.sidebar-nav .nav-item a:hover,
-.sidebar-nav .nav-item a.active {
-  color: var(--text-primary);
-  background: var(--bg-tertiary);
-  border-left-color: var(--accent);
-  text-decoration: none;
-}
+/* ── Article ── */
+.page-grid { display: grid; grid-template-columns: minmax(0, 1fr) 210px; gap: 56px; padding: 32px 0 80px; }
+.crumbs { font-size: 13px; color: var(--muted); margin-bottom: 18px; }
+.crumbs a { color: var(--muted); text-decoration: none; } .crumbs a:hover { color: var(--ink); text-decoration: underline; }
+.crumbs .sep { margin: 0 8px; }
+.page-head h1 { font: 600 clamp(34px, 5vw, 52px)/1.05 var(--serif); letter-spacing: -.02em; margin: 0 0 14px; }
+.page-head .sub { font-size: 14px; color: var(--ink-2); display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: center; }
+.page-head .sub .code { font: 600 13px var(--mono); padding: 1px 8px; background: var(--ink); color: var(--bg); border-radius: 3px; }
+.page-head .sub .dates { font: 13px var(--mono); color: var(--muted); }
+.page-head .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+.facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); margin: 28px 0 0; border-top: 2px solid var(--ink); border-bottom: 1px solid var(--line); }
+.facts div { padding: 12px 16px 14px 0; }
+.facts div + div { padding-left: 16px; border-left: 1px solid var(--line); }
+.facts dt { font: 600 11px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin-bottom: 4px; }
+.facts dd { margin: 0; font: 500 17px/1.3 var(--serif); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.monitor { margin: 28px 0 0; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 18px 22px 8px; }
+.monitor h2 { font: 600 12px var(--sans) !important; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0 0 12px !important; padding: 0 !important; border: 0 !important; display: flex; justify-content: space-between; }
+.monitor h2 time { font: 12px var(--mono); letter-spacing: 0; text-transform: none; }
+.monitor dl { margin: 0; display: grid; grid-template-columns: 110px 1fr; gap: 0 18px; }
+.monitor dt { font-weight: 600; font-size: 13px; color: var(--ink-2); padding: 0 0 14px; }
+.monitor dd { margin: 0; padding: 0 0 14px; font-size: 15px; line-height: 1.55; }
+.article { margin-top: 12px; }
+.article h2 { font: 600 28px/1.2 var(--serif); letter-spacing: -.01em; margin: 56px 0 14px; padding-top: 22px; border-top: 1px solid var(--line-strong); }
+.article h3 { font: 600 19px/1.3 var(--serif); margin: 32px 0 8px; }
+.article h4 { font: 600 15px var(--sans); margin: 22px 0 6px; }
+.article p { margin: 0 0 14px; max-width: 70ch; text-wrap: pretty; }
+.article ul, .article ol { padding-left: 1.2em; margin: 0 0 16px; max-width: 70ch; }
+.article li { margin: 4px 0; }
+.article li::marker { color: var(--muted); }
+.article blockquote { margin: 18px 0; padding: 0 0 0 18px; border-left: 2px solid var(--line-strong); color: var(--ink-2); }
+.article code { font: 0.88em var(--mono); background: var(--sunken); padding: 1px 5px; border-radius: 3px; }
+.article pre { background: var(--sunken); padding: 14px; border-radius: 6px; overflow: auto; }
+.article pre code { background: none; padding: 0; }
+.article hr { border: 0; border-top: 1px solid var(--line); margin: 28px 0; }
+.article a.wikilink { text-decoration-style: dotted; }
+.table-wrapper { overflow-x: auto; margin: 16px 0 24px; border-top: 1px solid var(--ink); border-bottom: 1px solid var(--line-strong); }
+.article table { width: 100%; border-collapse: collapse; font-size: 14px; line-height: 1.5; }
+.article th { text-align: left; font: 600 11px var(--sans); letter-spacing: .07em; text-transform: uppercase; color: var(--muted); padding: 10px 12px 8px; border-bottom: 1px solid var(--line-strong); white-space: nowrap; }
+.article td { padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.article tbody tr:last-child td { border-bottom: 0; }
+.article tbody tr:hover { background: var(--accent-soft); }
+.article td:first-child { font-family: var(--mono); font-size: 12.5px; color: var(--ink-2); white-space: nowrap; }
+sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none; padding: 0 1px; }
+.footnotes { margin-top: 48px; font-size: 13px; color: var(--ink-2); }
+.footnotes ol { max-width: none; padding-left: 1.6em; }
+.footnotes p { margin: 0; word-break: break-word; }
+.footnotes hr { margin-bottom: 14px; }
 
-/* Concept links in sidebar */
-.sidebar-concepts {
-  border-top: 1px solid var(--border);
-  padding: 8px 0;
-}
-.sidebar-concepts .concept-label {
-  padding: 6px 20px;
-  font-size: 0.7rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--text-muted);
-}
+/* snapshot + card */
+.country-card .card-description { font: 400 18px/1.6 var(--serif); max-width: 62ch; color: var(--ink-2); }
+.proscons { display: grid; grid-template-columns: 1fr 1fr; gap: 0 40px; margin-top: 20px; }
+.proscons h3 { font: 600 12px var(--sans) !important; letter-spacing: .08em; text-transform: uppercase; margin: 0 0 6px !important; padding-bottom: 8px; border-bottom: 2px solid currentColor; }
+.proscons .pros h3 { color: var(--good); } .proscons .cons h3 { color: var(--warn); }
+.proscons ul { list-style: none; padding: 0; margin: 0; }
+.proscons li { padding: 9px 0; border-bottom: 1px solid var(--line); font-size: 14.5px; line-height: 1.5; margin: 0; }
+.snapshot-table td.snap-field { width: 34%; font: 500 13.5px var(--sans); color: var(--ink-2); white-space: normal; }
+.article .snapshot-table td:first-child { font-family: var(--sans); font-size: 13.5px; }
+.snapshot-source { display: block; margin-top: 2px; font-size: 12px; color: var(--muted); }
+.snapshot-source a { color: var(--muted); }
+.est { font: 11px var(--mono); color: var(--warn); margin-left: 6px; white-space: nowrap; }
+.off { font: 11px var(--mono); color: var(--good); margin-left: 6px; white-space: nowrap; }
 
-.sidebar-footer {
-  padding: 12px 20px;
-  border-top: 1px solid var(--border);
-  font-size: 0.7rem;
-  color: var(--text-muted);
-}
+/* toc */
+.toc { position: sticky; top: 84px; align-self: start; font-size: 13.5px; max-height: calc(100vh - 110px); overflow: auto; }
+.toc h2 { font: 600 11px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0 0 10px; }
+.toc ul { list-style: none; margin: 0; padding: 0; border-left: 1px solid var(--line); }
+.toc a { display: block; padding: 4px 0 4px 14px; margin-left: -1px; border-left: 2px solid transparent; color: var(--ink-2); text-decoration: none; line-height: 1.35; }
+.toc a:hover { color: var(--ink); }
+.toc a.on { color: var(--ink); font-weight: 600; border-left-color: var(--accent); }
+.foot { border-top: 1px solid var(--line); padding: 24px 0 48px; font-size: 13px; color: var(--muted); }
+.foot .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+.foot a { color: var(--muted); }
 
-/* ── Main Content ──────────────────────────────────────────────────────────── */
-.main {
-  margin-left: var(--sidebar-width);
-  flex: 1;
-  min-width: 0;
+@media (max-width: 960px) {
+  .hero { grid-template-columns: minmax(0, 1fr); gap: 16px; padding-top: 36px; }
+  .latest ol { grid-template-columns: 1fr; }
+  .page-grid { grid-template-columns: minmax(0, 1fr); }
+  .toc { display: none; }
+  .topnav { display: none; }
+  .search-btn { min-width: 0; flex: 1; }
+  .ctable .col-region, .ctable .col-passport { display: none; }
+  .progs li { grid-template-columns: 1fr; gap: 4px; }
+  .proscons { grid-template-columns: 1fr; gap: 24px; }
+  .monitor dl { grid-template-columns: 1fr; } .monitor dt { padding-bottom: 2px; }
 }
-
-/* Top bar */
-.topbar {
-  height: var(--header-height);
-  background: var(--bg-secondary);
-  border-bottom: 1px solid var(--border);
-  display: flex;
-  align-items: center;
-  padding: 0 32px;
-  position: sticky;
-  top: 0;
-  z-index: 50;
+@media (max-width: 620px) {
+  .wrap { padding: 0 16px; }
+  .ctable .col-fit, .ctable .col-date, .ctable .col-conf { display: none; }
+  .search-btn kbd { display: none; }
+  .search-btn { min-width: 0; }
+  .explore { position: static; }
+  .explore input[type=search] { width: 100%; }
+  .facts div + div { border-left: 0; padding-left: 0; }
 }
-.topbar .breadcrumb {
-  font-size: 0.8rem;
-  color: var(--text-muted);
-}
-.topbar .breadcrumb a { color: var(--text-muted); }
-.topbar .breadcrumb .sep { margin: 0 8px; }
-.topbar .mobile-menu-btn {
-  display: none;
-  background: none;
-  border: none;
-  color: var(--text-primary);
-  font-size: 1.4rem;
-  cursor: pointer;
-  margin-right: 12px;
-}
-
-/* Content area */
-.content {
-  padding: 32px;
-  max-width: var(--max-content-width);
-}
-.content h1 { font-size: 2rem; font-weight: 700; margin-bottom: 8px; color: #fff; }
-.content h2 {
-  font-size: 1.5rem; font-weight: 600; margin: 36px 0 12px;
-  padding-bottom: 6px; border-bottom: 1px solid var(--border); color: #e8e8f0;
-}
-.content h3 { font-size: 1.15rem; font-weight: 600; margin: 24px 0 8px; color: #d0d0e0; }
-.content h4 { font-size: 1rem; font-weight: 600; margin: 16px 0 6px; color: var(--text-secondary); }
-.content p { margin: 12px 0; }
-.content ul, .content ol { margin: 12px 0; padding-left: 24px; }
-.content li { margin: 4px 0; }
-.content blockquote {
-  border-left: 4px solid var(--accent);
-  padding: 8px 16px;
-  margin: 16px 0;
-  background: var(--bg-card);
-  border-radius: 0 6px 6px 0;
-  color: var(--text-secondary);
-}
-.content blockquote p { margin: 4px 0; }
-.content code {
-  background: var(--bg-tertiary);
-  padding: 2px 6px;
-  border-radius: 4px;
-  font-size: 0.88em;
-  font-family: 'Cascadia Code', 'Fira Code', 'JetBrains Mono', 'Consolas', monospace;
-}
-.content pre {
-  background: var(--bg-tertiary);
-  padding: 16px;
-  border-radius: 8px;
-  overflow-x: auto;
-  margin: 16px 0;
-  border: 1px solid var(--border);
-}
-.content pre code { background: none; padding: 0; }
-.content hr {
-  border: none;
-  border-top: 1px solid var(--border);
-  margin: 24px 0;
-}
-
-/* Tables */
-.table-wrapper {
-  overflow-x: auto;
-  margin: 16px 0;
-  border: 1px solid var(--border);
-  border-radius: 8px;
-}
-.content table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 0.9rem;
-}
-.content thead { background: var(--table-header-bg); }
-.content th {
-  padding: 10px 14px;
-  text-align: left;
-  font-weight: 600;
-  color: #c0c8e0;
-  border-bottom: 2px solid var(--border);
-  white-space: nowrap;
-}
-.content td {
-  padding: 8px 14px;
-  border-bottom: 1px solid var(--border);
-}
-.content tbody tr:nth-child(even) { background: var(--table-row-alt); }
-.content tbody tr:hover { background: var(--table-row-hover); }
-
-/* Frontmatter / metadata header */
-.page-meta {
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 16px 20px;
-  margin-bottom: 24px;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 16px;
-  align-items: center;
-}
-.page-meta .meta-item {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  font-size: 0.82rem;
-  color: var(--text-secondary);
-}
-.page-meta .meta-label { color: var(--text-muted); }
-.page-meta .meta-value { font-weight: 500; color: var(--text-primary); }
-
-/* Tags */
-.tag {
-  display: inline-block;
-  padding: 2px 8px;
-  border-radius: 4px;
-  font-size: 0.75rem;
-  background: var(--tag-bg);
-  color: var(--tag-text);
-  margin: 2px;
-}
-.tag.confidence-high { background: #1b5e20; color: #a5d6a7; }
-.tag.confidence-medium { background: #e65100; color: #ffcc80; }
-.tag.confidence-low { background: #b71c1c; color: #ef9a9a; }
-.tag.category-strong_passport { background: #1a237e; color: #9fa8da; }
-.tag.category-it_friendly { background: #004d40; color: #80cbc4; }
-.tag.category-yacht_captain { background: #1b5e20; color: #a5d6a7; }
-.tag.category-popular_ru { background: #4a148c; color: #ce93d8; }
-.tag.category-clear_pathway { background: #0d47a1; color: #90caf9; }
-
-/* Footnotes */
-.footnotes { margin-top: 32px; font-size: 0.82rem; color: var(--text-muted); }
-.footnotes hr { margin-bottom: 12px; }
-.footnotes ol { padding-left: 20px; }
-.footnotes li { margin: 4px 0; }
-.footnote-ref a { font-size: 0.75rem; text-decoration: none; }
-.footnote-back { text-decoration: none; margin-left: 4px; }
-
-/* ── Country Snapshot ───────────────────────────────────────────────────────── */
-.snapshot-table { font-size: 0.85rem; }
-.snapshot-table .snap-field {
-  font-weight: 600;
-  color: var(--text-secondary);
-  white-space: nowrap;
-  width: 40%;
-}
-.snapshot-table .snap-value {
-  color: var(--text-primary);
-}
-.snapshot-source {
-  font-size: 0.72rem;
-  color: var(--text-muted);
-  margin-left: 6px;
-  font-style: italic;
-}
-.snapshot-empty {
-  color: var(--text-muted);
-  font-style: italic;
-  padding: 12px 0;
-}
-
-/* ── Country Card ───────────────────────────────────────────────────────────── */
-.country-card {
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 20px 24px;
-  margin: 24px 0;
-}
-.country-card h2 {
-  margin-top: 0;
-  border-bottom: 1px solid var(--border);
-}
-.card-description {
-  color: var(--text-secondary);
-  line-height: 1.7;
-  margin: 12px 0 20px;
-}
-.card-strong-points {
-  border-left: 3px solid var(--success);
-  padding: 4px 16px;
-  margin: 12px 0;
-  background: rgba(76, 175, 80, 0.08);
-  border-radius: 0 6px 6px 0;
-}
-.card-strong-points h3 {
-  color: var(--success);
-  margin-top: 0;
-  font-size: 0.95rem;
-}
-.card-strong-points ul { list-style: none; padding-left: 0; }
-.card-strong-points li {
-  padding: 3px 0;
-  color: var(--text-primary);
-}
-.card-strong-points li::before {
-  content: "✅ ";
-  margin-right: 6px;
-}
-.card-problems {
-  border-left: 3px solid var(--warning);
-  padding: 4px 16px;
-  margin: 12px 0;
-  background: rgba(255, 152, 0, 0.08);
-  border-radius: 0 6px 6px 0;
-}
-.card-problems h3 {
-  color: var(--warning);
-  margin-top: 0;
-  font-size: 0.95rem;
-}
-.card-problems ul { list-style: none; padding-left: 0; }
-.card-problems li {
-  padding: 3px 0;
-  color: var(--text-primary);
-}
-.card-problems li::before {
-  content: "⚠️ ";
-  margin-right: 6px;
-}
-
-/* Index page */
-.index-region { margin-bottom: 24px; }
-.index-region h3 {
-  font-size: 1rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: var(--text-muted);
-  margin-bottom: 10px;
-  padding-bottom: 4px;
-  border-bottom: 1px solid var(--border);
-}
-.index-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 8px;
-}
-.index-item a {
-  display: block;
-  padding: 8px 12px;
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  font-size: 0.88rem;
-  transition: all 0.15s;
-}
-.index-item a:hover {
-  background: var(--bg-tertiary);
-  border-color: var(--accent);
-  text-decoration: none;
-}
-.index-item .cc { font-size: 0.7rem; color: var(--text-muted); margin-left: 6px; }
-
-/* Concept cards */
-.concept-cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 12px;
-  margin-top: 16px;
-}
-.concept-card {
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 16px;
-  transition: border-color 0.15s;
-}
-.concept-card:hover { border-color: var(--accent); }
-.concept-card h4 { margin-bottom: 6px; font-size: 0.95rem; }
-
-/* Responsive */
-@media (max-width: 768px) {
-  .sidebar {
-    transform: translateX(-100%);
-  }
-  .sidebar.open {
-    transform: translateX(0);
-  }
-  .main { margin-left: 0; }
-  .topbar .mobile-menu-btn { display: block; }
-  .content { padding: 16px; }
-}
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+@media print { .topbar, .toc, .explore, .palette { display: none; } .page-grid { display: block; } body { background: #fff; } }
 """
 
 
-def render_page(page, sidebar_html):
-    """Render a single page as complete HTML."""
-    slug = page["slug"]
+# ── Site metadata ────────────────────────────────────────────────────────────
+
+CAT_LABELS = OrderedDict([
+    ("strong_passport", "Strong passport"),
+    ("it_friendly", "IT-friendly"),
+    ("clear_pathway", "Clear pathway"),
+    ("popular_ru", "Popular with RU"),
+    ("yacht_captain", "Yacht captain"),
+])
+REPO_URL = "https://github.com/MastPeace/residency-vault"
+
+FAVICON = ("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E"
+           "%3Crect width='32' height='32' rx='6' fill='%231f5f4a'/%3E"
+           "%3Cpath d='M9 24V8h8a5 5 0 0 1 0 10h-8m7 0 6 6' stroke='white' stroke-width='3' fill='none'/%3E%3C/svg%3E")
+
+
+def parse_region_meta(filepath):
+    """slug -> {region, categories} from regions.yaml."""
+    meta = {}
+    region = None
+    for line in Path(filepath).read_text().split("\n"):
+        m = re.match(r'^\s{2}(\w[\w_]*):\s*$', line)
+        if m:
+            region = m.group(1)
+            continue
+        m = re.match(r'^\s{4}-\s*\{country:\s*([\w-]+)(?:,\s*category:\s*\[([^\]]*)\])?', line)
+        if m and region:
+            cats = [c.strip() for c in (m.group(2) or "").split(",") if c.strip()]
+            meta[m.group(1)] = {"region": region, "categories": cats}
+    return meta
+
+
+def display_name(title):
+    return re.split(r"\s[—–-]\s", title, maxsplit=1)[0]
+
+
+def cats_of(page, region_meta):
+    cats = region_meta.get(page["slug"], {}).get("categories") or []
+    if not cats:
+        c = page.get("category") or []
+        cats = c if isinstance(c, list) else [c]
+    return [c for c in cats if c in CAT_LABELS]
+
+
+def fm_scalar(page, key):
+    v = page.get("frontmatter", {}).get(key, "")
+    return v if isinstance(v, str) else ""
+
+
+def snapshot_value(page, field_prefix):
+    m = re.search(r'\|\s*' + re.escape(field_prefix) + r'[^|]*\|\s*([^|]*?)\s*\|', page["body"])
+    return m.group(1).strip() if m else ""
+
+
+def strip_md(s):
+    s = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', s)
+    s = re.sub(r'\^\[[^\]]*\]', '', s)
+    return re.sub(r'\s+', ' ', s).strip()
+
+
+def years_to_citizenship(page):
+    v = snapshot_value(page, "Years to citizenship")
+    if not v:
+        return None, ""
+    low = v.lower()
+    if low.startswith(("no ", "none", "not ")) or "no pathway" in low[:30]:
+        return None, "no path"
+    m = re.search(r'(\d+)(?:\s*[–-]\s*\d+)?\+?\s*(?:years?|yrs?|continuous|lawful|of)', v) or re.search(r'~?(\d+)', v)
+    if not m:
+        return None, ""
+    return int(m.group(1)), f"{m.group(1)}{'+' if '+' in v[:m.end()+1] else ''} yr"
+
+
+def passport_count(page):
+    v = snapshot_value(page, "Passport strength")
+    m = re.search(r'~?\b(\d{2,3})\b', v)
+    if m and 20 <= int(m.group(1)) <= 200:
+        return int(m.group(1))
+    return None
+
+
+def conf_html(level):
+    n = {"low": 1, "medium": 2, "high": 3}.get((level or "").lower())
+    if not n:
+        return '<span class="none">—</span>'
+    bars = "".join(f'<b class="{"on" if i < n else ""}"></b>' for i in range(3))
+    return f'<span class="conf" title="Confidence: {level}"><i>{bars}</i>{level.capitalize()}</span>'
+
+
+def first_sentences(text, limit=190):
+    text = strip_md(text)
+    if len(text) <= limit:
+        return text
+    cut = text[:limit]
+    p = max(cut.rfind(". "), cut.rfind("; "))
+    return (cut[:p + 1] if p > 80 else cut.rsplit(" ", 1)[0] + "…")
+
+
+def parse_status(page):
+    """Return dict of Status section bullets {label: text}."""
+    m = re.search(r'^## Status\s*\n(.*?)(?=^## |\Z)', page["body"], re.M | re.S)
+    out = OrderedDict()
+    if not m:
+        return out
+    for line in m.group(1).split("\n"):
+        mm = re.match(r'^[-*]\s+(?:\*\*)?([^:*]+?)(?:\*\*)?\s*:\s*(?:\*\*)?\s*(.+)$', line.strip())
+        if mm:
+            key = mm.group(1).strip()
+            if "change" in key.lower() and "recent" not in key.lower():
+                key = "Recent changes"
+            elif key.lower() == "watch":
+                key = "Watch items"
+            out[key] = mm.group(2).strip()
+    return out
+
+
+def inline_md(text):
+    """Escape and render links / bold in a short markdown fragment."""
+    t = html.escape(text)
+    t = re.sub(r'\^\[[^\]]*\]', '', t)
+    t = re.sub(r'\[([^\]]+)\]\((https?://[^)\s]+)\)', r'<a href="\2" rel="noopener">\1</a>', t)
+    t = re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', t)
+    return t
+
+
+# ── Page shell ───────────────────────────────────────────────────────────────
+
+THEME_BOOT = ("<script>try{var t=localStorage.getItem('rv-theme');"
+              "if(t)document.documentElement.dataset.theme=t}catch(e){}</script>")
+
+SHELL_JS = r"""
+(function () {
+  var root = document.documentElement;
+  var tb = document.getElementById('theme-btn');
+  function isDark() { var t = root.dataset.theme; return t ? t === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches; }
+  function sync() { tb.textContent = isDark() ? '☀' : '☾'; tb.setAttribute('aria-label', isDark() ? 'Switch to light theme' : 'Switch to dark theme'); }
+  tb.addEventListener('click', function () {
+    var n = isDark() ? 'light' : 'dark'; root.dataset.theme = n;
+    try { localStorage.setItem('rv-theme', n); } catch (e) {} sync();
+  }); sync();
+
+  var pal = document.getElementById('palette'), inp = pal.querySelector('input'), list = pal.querySelector('ul');
+  var idx = null, sel = 0, shown = [], base = document.body.dataset.base || '';
+  function load(cb) {
+    if (idx) return cb();
+    fetch(base + 'search-index.json').then(function (r) { return r.json(); }).then(function (d) { idx = d; cb(); });
+  }
+  function render() {
+    var q = inp.value.trim().toLowerCase();
+    shown = idx.filter(function (e) {
+      return !q || e.title.toLowerCase().indexOf(q) > -1 || (e.country_code || '').toLowerCase() === q || e.slug.indexOf(q) > -1;
+    }).sort(function (a, b) {
+      var as = a.title.toLowerCase().indexOf(q) === 0 ? 0 : 1, bs = b.title.toLowerCase().indexOf(q) === 0 ? 0 : 1;
+      return as - bs || (a.type === b.type ? a.title.localeCompare(b.title) : (a.type === 'entity' ? -1 : 1));
+    }).slice(0, 40);
+    sel = 0;
+    list.innerHTML = shown.length ? shown.map(function (e, i) {
+      return '<li class="' + (i === 0 ? 'sel' : '') + '"><a href="' + base + e.url + '">' + e.title.replace(/</g, '&lt;') +
+        '<small>' + (e.type === 'entity' ? (e.country_code || 'country') : 'program') + '</small></a></li>';
+    }).join('') : '<li class="empty">No matches</li>';
+  }
+  function mark() { [].forEach.call(list.children, function (li, i) { li.classList.toggle('sel', i === sel); });
+    var s = list.children[sel]; if (s && s.scrollIntoView) s.scrollIntoView({ block: 'nearest' }); }
+  function open() { pal.classList.add('open'); inp.value = ''; load(function () { render(); inp.focus(); }); }
+  function close() { pal.classList.remove('open'); }
+  document.getElementById('search-btn').addEventListener('click', open);
+  pal.addEventListener('mousedown', function (e) { if (e.target === pal) close(); });
+  inp.addEventListener('input', render);
+  inp.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown') { sel = Math.min(sel + 1, shown.length - 1); mark(); e.preventDefault(); }
+    else if (e.key === 'ArrowUp') { sel = Math.max(sel - 1, 0); mark(); e.preventDefault(); }
+    else if (e.key === 'Enter' && shown[sel]) { location.href = base + shown[sel].url; }
+  });
+  document.addEventListener('keydown', function (e) {
+    var typing = /INPUT|SELECT|TEXTAREA/.test((document.activeElement || {}).tagName || '');
+    if ((e.key === 'k' && (e.metaKey || e.ctrlKey)) || (e.key === '/' && !typing)) { e.preventDefault(); open(); }
+    else if (e.key === 'Escape') close();
+  });
+
+  var toc = document.querySelectorAll('.toc a');
+  if (toc.length && 'IntersectionObserver' in window) {
+    var map = {}; [].forEach.call(toc, function (a) { map[a.getAttribute('href').slice(1)] = a; });
+    var io = new IntersectionObserver(function (es) {
+      es.forEach(function (en) { if (en.isIntersecting) {
+        [].forEach.call(toc, function (a) { a.classList.remove('on'); });
+        var a = map[en.target.id]; if (a) a.classList.add('on');
+      } });
+    }, { rootMargin: '-80px 0px -70% 0px' });
+    Object.keys(map).forEach(function (id) { var el = document.getElementById(id); if (el) io.observe(el); });
+  }
+})();
+"""
+
+INDEX_JS = r"""
+(function () {
+  var rows = [].slice.call(document.querySelectorAll('#ctable tbody tr'));
+  var q = document.getElementById('f-q'), reg = document.getElementById('f-region'), conf = document.getElementById('f-conf');
+  var chips = [].slice.call(document.querySelectorAll('.fchip')), cnt = document.getElementById('f-count');
+  function apply() {
+    var s = q.value.trim().toLowerCase(), on = chips.filter(function (c) { return c.getAttribute('aria-pressed') === 'true'; }).map(function (c) { return c.dataset.cat; });
+    var n = 0;
+    rows.forEach(function (r) {
+      var cats = r.dataset.cats.split(' ');
+      var ok = (!s || r.dataset.name.indexOf(s) > -1 || r.dataset.code === s) &&
+        (!reg.value || r.dataset.region === reg.value) && (!conf.value || r.dataset.conf === conf.value) &&
+        on.every(function (c) { return cats.indexOf(c) > -1; });
+      r.hidden = !ok; if (ok) n++;
+    });
+    cnt.textContent = n + ' of ' + rows.length + ' countries';
+  }
+  chips.forEach(function (c) { c.addEventListener('click', function () {
+    c.setAttribute('aria-pressed', c.getAttribute('aria-pressed') === 'true' ? 'false' : 'true'); apply(); }); });
+  [q, reg, conf].forEach(function (el) { el.addEventListener('input', apply); });
+
+  var ths = document.querySelectorAll('#ctable th[data-sort]'), tb = document.querySelector('#ctable tbody');
+  [].forEach.call(ths, function (th) {
+    th.querySelector('button').addEventListener('click', function () {
+      var k = th.dataset.sort, dir = th.getAttribute('aria-sort') === 'ascending' ? -1 : 1, num = th.dataset.type === 'num';
+      [].forEach.call(ths, function (t) { t.removeAttribute('aria-sort'); });
+      th.setAttribute('aria-sort', dir === 1 ? 'ascending' : 'descending');
+      rows.sort(function (a, b) {
+        var x = a.dataset[k], y = b.dataset[k];
+        if (num) { x = x === '' ? null : +x; y = y === '' ? null : +y;
+          if (x === null && y === null) return 0; if (x === null) return 1; if (y === null) return -1; return (x - y) * dir; }
+        return x.localeCompare(y) * dir;
+      });
+      rows.forEach(function (r) { tb.appendChild(r); });
+    });
+  });
+  apply();
+})();
+"""
+
+
+def shell(title, body, base, extra_js="", desc=""):
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{html.escape(title)}</title>
+<meta name="description" content="{html.escape(desc or SITE_SUBTITLE)}">
+<link rel="icon" href="{FAVICON}">
+{THEME_BOOT}
+<style>{CSS}</style>
+</head>
+<body data-base="{base}">
+<header class="topbar"><div class="wrap">
+  <a class="brand" href="{base}index.html">Residency<span>Vault</span></a>
+  <nav class="topnav"><a href="{base}index.html#countries">Countries</a><a href="{base}index.html#programs">Programs</a><a href="{REPO_URL}">GitHub</a></nav>
+  <span class="spacer"></span>
+  <button class="search-btn" id="search-btn" type="button"><span>Search countries and programs</span><kbd>/</kbd></button>
+  <button class="icon-btn" id="theme-btn" type="button" aria-label="Toggle theme">☾</button>
+</div></header>
+<div class="palette" id="palette" role="dialog" aria-label="Search"><div class="palette-box">
+  <input type="text" placeholder="Country, code or program…" autocomplete="off" aria-label="Search"><ul></ul>
+</div></div>
+{body}
+<footer class="foot"><div class="wrap"><span>Not legal advice. Conditions change — check the sources cited on each page.</span><span>Built {now} · <a href="{REPO_URL}">source</a></span></div></footer>
+<script>{SHELL_JS}</script>
+{extra_js}
+</body>
+</html>"""
+
+
+# ── Page renderers ───────────────────────────────────────────────────────────
+
+FACT_FIELDS = [
+    ("Years to citizenship", "Years to citizenship"),
+    ("Passport strength", "Passport"),
+    ("Remote-work", "Remote-work visa"),
+    ("Effective personal tax", "Tax, remote workers"),
+    ("Monthly rent", "1-bed rent"),
+    ("Main language", "Language"),
+]
+
+
+def build_facts(page):
+    items = []
+    for prefix, label in FACT_FIELDS:
+        v = strip_md(snapshot_value(page, prefix))
+        v = re.sub(r'\s*—?\s*\[?(hard/official|soft/estimate)\]?\s*$', '', v).strip()
+        v = re.sub(r'\s*See\s+\[\[[^\]]*\]\].*$', '', v).strip()
+        if prefix == "Passport strength":
+            m = re.search(r'~?(\d{2,3})\s+(?:visa-free\s+)?(?:destinations|countries)?', v)
+            v = f"{m.group(1)} visa-free" if m else v
+        elif prefix.startswith("Effective personal tax"):
+            v = re.split(r',\s*or\s|;|\sor\s', v)[0].strip()
+        if v and v != "—" and len(items) < 5:
+            items.append(f'<div><dt>{label}</dt><dd>{html.escape(v)}</dd></div>')
+    return f'<dl class="facts">{"".join(items)}</dl>' if len(items) >= 3 else ""
+
+
+def build_monitor(page):
+    st = parse_status(page)
+    if not st:
+        return ""
+    checked = st.get("Last monitored", "")
+    rows = []
+    for key, label in (("Recent changes", "Recent changes"), ("Watch items", "Watching")):
+        if st.get(key):
+            rows.append(f'<dt>{label}</dt><dd>{inline_md(st[key])}</dd>')
+    if not rows:
+        return ""
+    stamp = f'<time>checked {html.escape(checked)}</time>' if checked else ""
+    return f'<section class="monitor"><h2>Monitoring{stamp}</h2><dl>{"".join(rows)}</dl></section>'
+
+
+def build_toc(body_html):
+    items = re.findall(r'<h2 id="([^"]+)">(.*?)</h2>', body_html)
+    items = [(i, re.sub(r'<[^>]+>', '', t)) for i, t in items if i != "status"]
+    if len(items) < 3:
+        return ""
+    lis = "".join(f'<li><a href="#{i}">{t}</a></li>' for i, t in items)
+    return f'<aside class="toc"><h2>On this page</h2><ul>{lis}</ul></aside>'
+
+
+def render_page(page, region_meta, region_labels):
     title = page["title"]
-    
-    # Build metadata header HTML
-    meta_parts = []
+    name = display_name(title) if page["type"] == "entity" else title
+    is_entity = page["type"] == "entity"
+    cats = cats_of(page, region_meta) if is_entity else []
+
+    body = page["html_body"]
+    # status moves to the monitoring panel at the top
+    monitor_html = build_monitor(page) if is_entity else ""
+    if monitor_html:
+        body = re.sub(r'<h2 id="status">.*?(?=<h2 |<div class="footnotes">|\Z)', '', body, flags=re.S)
+    extra = (page.get("card_html") or "") + "\n" + (page.get("snapshot_html") or "")
+    if extra.strip():
+        marker = '<div class="footnotes">'
+        body = body.replace(marker, extra + marker, 1) if marker in body else body + extra
+
+    sub = []
     if page.get("country_code"):
-        meta_parts.append(f'<div class="meta-item"><span class="meta-label">Code:</span><span class="meta-value">{html.escape(page["country_code"])}</span></div>')
+        sub.append(f'<span class="code">{html.escape(page["country_code"])}</span>')
+    reg = region_meta.get(page["slug"], {}).get("region")
+    if reg:
+        sub.append(f'<span>{html.escape(region_labels.get(reg, reg))}</span>')
     if page.get("confidence"):
-        cls = f"confidence-{page['confidence']}"
-        meta_parts.append(f'<div class="meta-item"><span class="meta-label">Confidence:</span><span class="tag {cls}">{html.escape(page["confidence"].upper())}</span></div>')
+        sub.append(conf_html(page["confidence"]))
+    dates = []
     if page.get("updated"):
-        meta_parts.append(f'<div class="meta-item"><span class="meta-label">Updated:</span><span class="meta-value">{html.escape(page["updated"])}</span></div>')
+        dates.append(f'updated {html.escape(page["updated"])}')
     if page.get("last_checked"):
-        meta_parts.append(f'<div class="meta-item"><span class="meta-label">Checked:</span><span class="meta-value">{html.escape(page["last_checked"])}</span></div>')
-    if page.get("category"):
-        cats = page["category"] if isinstance(page["category"], list) else [page["category"]]
-        for cat in cats:
-            cls_cat = f"category-{cat}" if cat in ["strong_passport", "it_friendly", "yacht_captain", "popular_ru", "clear_pathway"] else ""
-            meta_parts.append(f'<span class="tag {cls_cat}">{html.escape(cat)}</span>')
-    if page.get("tags"):
-        for tag in page["tags"]:
-            meta_parts.append(f'<span class="tag">{html.escape(tag)}</span>')
-    
-    meta_html = f'<div class="page-meta">{"".join(meta_parts)}</div>' if meta_parts else ""
+        dates.append(f'checked {html.escape(page["last_checked"])}')
+    if dates:
+        sub.append(f'<span class="dates">{" · ".join(dates)}</span>')
+    chips = "".join(f'<span class="chip">{CAT_LABELS[c]}</span>' for c in cats)
 
-    # Build the body HTML with snapshot + card injected before Status
-    body_html = page["html_body"]
-    extra_html = ""
-    if page.get("snapshot_html"):
-        extra_html += page["snapshot_html"] + "\n"
-    if page.get("card_html"):
-        extra_html += page["card_html"] + "\n"
-    if extra_html:
-        # Insert before the Status heading if present, otherwise append
-        status_marker = '<h2 id="status">'
-        if status_marker in body_html:
-            body_html = body_html.replace(status_marker, extra_html + status_marker)
-        else:
-            body_html += "\n" + extra_html
-    
-    # Breadcrumb
-    if page["type"] == "entity":
-        breadcrumb = f'<a href="../index.html">Home</a><span class="sep">›</span><span>{html.escape(title)}</span>'
-    else:
-        breadcrumb = f'<a href="../index.html">Home</a><span class="sep">›</span><a href="../index.html#concepts">Concepts</a><span class="sep">›</span><span>{html.escape(title)}</span>'
-    
-    return f"""<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{html.escape(title)} — {SITE_TITLE}</title>
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>">
-<style>{CSS}</style>
-</head>
-<body>
-<div class="app">
-{sidebar_html}
-<div class="main">
-<header class="topbar">
-  <button class="mobile-menu-btn" onclick="document.querySelector('.sidebar').classList.toggle('open')" aria-label="Toggle menu">☰</button>
-  <nav class="breadcrumb">{breadcrumb}</nav>
-</header>
-<main class="content">
-<h1>{html.escape(title)}</h1>
-{meta_html}
-{body_html}
-</main>
-</div>
-</div>
-<script>
-document.addEventListener('DOMContentLoaded', function() {{
-  // Highlight current page in sidebar
-  var current = '{slug}';
-  var links = document.querySelectorAll('.sidebar-nav a');
-  links.forEach(function(a) {{
-    if (a.getAttribute('data-slug') === current) a.classList.add('active');
-  }});
-}});
-</script>
-</body>
-</html>"""
+    crumbs = '<a href="../index.html">Home</a><span class="sep">/</span>'
+    crumbs += (f'<a href="../index.html#countries">Countries</a>' if is_entity
+               else '<a href="../index.html#programs">Programs</a>')
+    crumbs += f'<span class="sep">/</span><span>{html.escape(name)}</span>'
+
+    head = f"""<div class="crumbs">{crumbs}</div>
+<div class="page-head"><h1>{html.escape(name)}</h1>
+<div class="sub">{"".join(sub)}</div>{f'<div class="chips">{chips}</div>' if chips else ''}</div>
+{build_facts(page) if is_entity else ''}
+{monitor_html}"""
+
+    main = f"""<div class="wrap"><div class="page-grid">
+<main class="main"><article>{head}<div class="article">{body}</div></article></main>
+{build_toc(body)}
+</div></div>"""
+    return shell(f"{name} — {SITE_TITLE}", main, "../", desc=first_sentences(page["body"].split("\n## Residency")[0].replace("## Overview", ""), 160))
 
 
-def render_index(regions, concept_pages, sidebar_html):
-    """Render the index/home page."""
-    # Build region sections
-    region_sections = []
-    for region_key, countries in regions.items():
-        label = REGION_LABELS.get(region_key, region_key.replace("_", " ").title())
-        items_html = []
-        for country_slug in countries:
-            page = all_pages.get(country_slug)
-            if not page:
-                # Country in regions.yaml but no page yet
-                items_html.append(f'<div class="index-item"><span style="color:var(--text-muted);padding:8px 12px;display:block">{country_slug.replace("-"," ").title()}</span></div>')
-                continue
-            title = page["title"]
-            # Strip "Country — " prefix for cleaner display
-            display_title = title
-            if " — " in title:
-                display_title = title.split(" — ", 1)[0]
-            cc = page.get("country_code", "")
-            cc_html = f'<span class="cc">{html.escape(cc)}</span>' if cc else ""
-            items_html.append(f'<div class="index-item"><a href="conditions/{country_slug}.html" data-slug="{country_slug}">{html.escape(display_title)}{cc_html}</a></div>')
-        region_sections.append(f'<section class="index-region"><h3>{label} ({len(countries)})</h3><div class="index-grid">{"".join(items_html)}</div></section>')
-    
-    # Concept cards
-    concept_cards = []
-    for slug, page in concept_pages.items():
-        # Extract first paragraph as summary
-        body = page["body"]
+def render_index(region_meta, region_labels, concept_pages):
+    countries = [p for p in all_pages.values() if p["type"] == "entity"]
+    rows = []
+    for p in sorted(countries, key=lambda p: display_name(p["title"])):
+        name = display_name(p["title"])
+        cats = cats_of(p, region_meta)
+        reg = region_meta.get(p["slug"], {}).get("region", "")
+        yrs, ylabel = years_to_citizenship(p)
+        pp = passport_count(p)
+        conf = (p.get("confidence") or "").lower()
+        upd = p.get("last_checked") or p.get("updated") or ""
+        fit = "".join(f'<span class="chip">{CAT_LABELS[c]}</span>' for c in cats)
+        rows.append(
+            f'<tr data-name="{html.escape(name.lower())}" data-code="{html.escape((p.get("country_code") or "").lower())}" '
+            f'data-cats="{" ".join(cats)}" data-region="{reg}" data-conf="{conf}" '
+            f'data-years="{yrs if yrs is not None else ""}" data-passport="{pp if pp else ""}" '
+            f'data-confn="{ {"low":1,"medium":2,"high":3}.get(conf,"") }" data-date="{html.escape(upd)}">'
+            f'<td class="name"><a href="conditions/{p["slug"]}.html">{html.escape(name)}</a></td>'
+            f'<td class="cc">{html.escape(p.get("country_code") or "")}</td>'
+            f'<td class="region col-region">{html.escape(region_labels.get(reg, ""))}</td>'
+            f'<td class="fit col-fit">{fit}</td>'
+            f'<td class="num">{ylabel if ylabel else "<span class=none>—</span>"}</td>'
+            f'<td class="num col-passport">{pp if pp else "<span class=none>—</span>"}</td>'
+            f'<td class="col-conf">{conf_html(conf)}</td>'
+            f'<td class="date col-date">{html.escape(upd)}</td></tr>')
+
+    def th(label, key, typ="text", cls=""):
+        return f'<th data-sort="{key}" data-type="{typ}" class="{cls}"><button type="button">{label}</button></th>'
+
+    used_regions = [r for r in region_labels if any(m["region"] == r for m in region_meta.values())]
+    region_opts = "".join(f'<option value="{r}">{region_labels[r]}</option>' for r in used_regions)
+    used_cats = [c for c in CAT_LABELS if any(c in cats_of(p, region_meta) for p in countries)]
+    chip_btns = "".join(f'<button class="fchip" type="button" data-cat="{c}" aria-pressed="false">{CAT_LABELS[c]}</button>' for c in used_cats)
+
+    # Latest monitoring: pages that carry a monitored date + real recent-changes text
+    latest = []
+    for p in countries:
+        st = parse_status(p)
+        rc = st.get("Recent changes", "")
+        d = st.get("Last monitored", "")
+        if rc and d and not rc.lower().startswith(("none", "no ", "n/a", "—")):
+            latest.append((d, display_name(p["title"]), p["slug"], rc))
+    latest.sort(key=lambda x: (x[0], x[1]), reverse=True)
+    latest_html = ""
+    if latest:
+        lis = "".join(
+            f'<li><time>{html.escape(d[5:] if len(d) >= 10 else d)}</time><div><a href="conditions/{s}.html">{html.escape(n)}</a> '
+            f'<span>{html.escape(first_sentences(rc, 170))}</span></div></li>' for d, n, s, rc in latest[:8])
+        latest_html = f'<section class="latest"><h2>Latest from monitoring</h2><ol>{lis}</ol></section>'
+
+    progs = []
+    for slug, p in concept_pages.items():
         summary = ""
-        # Try to find first paragraph after any heading
-        for line in body.split("\n"):
-            stripped = line.strip()
-            if stripped and not stripped.startswith("#") and not stripped.startswith("|") and not stripped.startswith("-"):
-                summary = stripped[:160]
-                if len(stripped) > 160:
-                    summary += "…"
+        for line in p["body"].split("\n"):
+            s = line.strip()
+            if s and not s.startswith(("#", "|", "-", ">", "*")):
+                summary = first_sentences(s, 200)
                 break
-        concept_cards.append(f'<div class="concept-card"><h4><a href="concepts/{slug}.html">{html.escape(page["title"])}</a></h4><p style="font-size:0.82rem;color:var(--text-muted)">{html.escape(summary)}</p></div>')
-    
-    meta_html = f'<div class="page-meta"><div class="meta-item"><span class="meta-label">Total countries:</span><span class="meta-value">{len(all_pages) - len(concept_pages)}</span></div><div class="meta-item"><span class="meta-label">Concept pages:</span><span class="meta-value">{len(concept_pages)}</span></div><div class="meta-item"><span class="meta-label">Built:</span><span class="meta-value">{datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")}</span></div></div>'
-    
-    return f"""<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{SITE_TITLE}</title>
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>">
-<style>{CSS}</style>
-</head>
-<body>
-<div class="app">
-{sidebar_html}
-<div class="main">
-<header class="topbar">
-  <button class="mobile-menu-btn" onclick="document.querySelector('.sidebar').classList.toggle('open')" aria-label="Toggle menu">☰</button>
-  <nav class="breadcrumb"><span>{SITE_TITLE}</span></nav>
-</header>
-<main class="content">
-<h1>{SITE_TITLE}</h1>
-<p style="color:var(--text-secondary);margin-bottom:8px">{SITE_SUBTITLE}</p>
-{meta_html}
+        t = re.sub(r"\s+—\s+Cross-Country Comparison$", "", p["title"])
+        progs.append(f'<li><a href="concepts/{slug}.html">{html.escape(t)}</a><p>{html.escape(summary)}</p></li>')
 
-{"".join(region_sections)}
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    body = f"""<div class="wrap">
+<section class="hero">
+  <div><h1>Residency &amp; citizenship conditions</h1></div>
+  <div><p>Residency and citizenship conditions for {len(countries)} countries: programs, thresholds, tax, years to a passport. Pages are monitored for changes and cite their sources.</p>
+  <div class="stamp">{len(countries)} countries · {len(concept_pages)} program comparisons · built {now}</div></div>
+</section>
+<section id="countries">
+<div class="explore"><div class="explore-row">
+  <input id="f-q" type="search" placeholder="Filter by name or code" aria-label="Filter countries">
+  <select id="f-region" aria-label="Region"><option value="">All regions</option>{region_opts}</select>
+  <select id="f-conf" aria-label="Confidence"><option value="">Any confidence</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option></select>
+  <span class="count" id="f-count"></span></div>
+  <div class="explore-row" style="margin-top:10px">{chip_btns}</div></div>
+<table class="ctable" id="ctable"><thead><tr>
+ {th("Country", "name")}{th("Code", "code")}{th("Region", "region", cls="col-region")}<th class="col-fit">Fit</th>
+ {th("To citizenship", "years", "num", "num")}{th("Passport", "passport", "num", "num col-passport")}{th("Confidence", "confn", "num", "col-conf")}{th("Checked", "date", cls="col-date")}
+</tr></thead><tbody>{"".join(rows)}</tbody></table>
+</section>
+<section class="progs" id="programs"><h2 class="section-h">Program comparisons</h2><ul>{"".join(progs)}</ul></section>
+</div>"""
+    return shell(SITE_TITLE, body, "", extra_js=f"<script>{INDEX_JS}</script>")
 
-<h2 id="concepts">Residency Type Concepts</h2>
-<div class="concept-cards">
-{"".join(concept_cards)}
-</div>
-</main>
-</div>
-</div>
-<script>
-document.addEventListener('DOMContentLoaded', function() {{
-  document.querySelectorAll('.sidebar-nav a[data-slug]').forEach(function(a) {{
-    a.classList.remove('active');
-  }});
-}});
-</script>
-</body>
-</html>"""
-
-
-# ── Sidebar Generation ───────────────────────────────────────────────────────
-
-
-def build_sidebar(regions, concept_pages, depth=0, current_dir=None):
-    """Generate sidebar HTML with relative links for the given page depth/directory.
-    depth: 0 for root (index.html), 1 for pages in conditions/ or concepts/
-    current_dir: 'conditions', 'concepts', or None (for index)
-    """
-    home_url = 'index.html' if depth == 0 else '../index.html'
-    search_index_url = 'search-index.json' if depth == 0 else '../search-index.json'
-
-    def side_link(abs_path):
-        """Build a relative link for the sidebar navigation."""
-        if depth == 0:
-            return abs_path.lstrip('/')
-        p = abs_path.lstrip('/')
-        if current_dir and p.startswith(current_dir + '/'):
-            return p.split('/', 1)[1]  # same dir: just filename
-        return '../' + p
-
-    nav_items = []
-    for region_key, countries in regions.items():
-        label = REGION_LABELS.get(region_key, region_key.replace("_", " ").title())
-        items = []
-        for country_slug in countries:
-            page = all_pages.get(country_slug)
-            if not page:
-                continue
-            title = page["title"]
-            if " — " in title:
-                title = title.split(" — ", 1)[0]
-            url = side_link(f'/conditions/{country_slug}.html')
-            items.append(f'<div class="nav-item"><a href="{url}" data-slug="{country_slug}">{html.escape(title)}</a></div>')
-        nav_items.append(f'<div class="region-group"><div class="region-label">{label}</div>{"".join(items)}</div>')
-    
-    concept_items = []
-    for slug, page in concept_pages.items():
-        url = side_link(f'/concepts/{slug}.html')
-        concept_items.append(f'<div class="nav-item"><a href="{url}" data-slug="{slug}">{html.escape(page["title"])}</a></div>')
-    
-    search_js = SEARCH_JS.replace('__SEARCH_INDEX_URL__', search_index_url)
-    
-    return f"""
-<aside class="sidebar">
-  <div class="sidebar-header">
-    <h2><a href="{home_url}" style="color:inherit;text-decoration:none">{SITE_TITLE}</a></h2>
-    <div class="subtitle">{SITE_SUBTITLE}</div>
-  </div>
-  <div class="sidebar-search">
-    <input type="text" id="sidebar-search-input" placeholder="Search countries…" autocomplete="off">
-    <div class="no-results" id="no-results">No results found</div>
-  </div>
-  <nav class="sidebar-nav">
-    {"".join(nav_items)}
-  </nav>
-  <div class="sidebar-concepts">
-    <div class="concept-label">Concepts</div>
-    {"".join(concept_items)}
-  </div>
-  <div class="sidebar-footer">
-    Built {datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")} · {len(all_pages)} pages
-  </div>
-</aside>
-<script>{search_js}</script>"""
-
-
-# ── Search JSON index generation ─────────────────────────────────────────────
 
 def generate_search_index():
-    """Generate a search-index.json for client-side filtering."""
     index = []
     for slug, page in all_pages.items():
         if page["type"] == "entity":
-            title = page["title"]
-            if " — " in title:
-                display = title.split(" — ", 1)[0]
-            else:
-                display = title
-            index.append({
-                "slug": slug,
-                "title": display,
-                "full_title": title,
-                "country_code": page.get("country_code", ""),
-                "type": "entity",
-                "url": f"conditions/{slug}.html",
-            })
+            index.append({"slug": slug, "title": display_name(page["title"]), "country_code": page.get("country_code", ""),
+                          "type": "entity", "url": f"conditions/{slug}.html"})
         else:
-            index.append({
-                "slug": slug,
-                "title": page["title"],
-                "full_title": page["title"],
-                "country_code": "",
-                "type": "concept",
-                "url": f"concepts/{slug}.html",
-            })
+            index.append({"slug": slug, "title": re.sub(r"\s+—\s+Cross-Country Comparison$", "", page["title"]),
+                          "country_code": "", "type": "concept", "url": f"concepts/{slug}.html"})
     return json.dumps(index, ensure_ascii=False, sort_keys=True)
-
-
-SEARCH_JS = r"""
-(function() {
-  var input = document.getElementById('sidebar-search-input');
-  var noResults = document.getElementById('no-results');
-  if (!input) return;
-  
-  var index = [];
-  var xhr = new XMLHttpRequest();
-  xhr.open('GET', '__SEARCH_INDEX_URL__', true);
-  xhr.onload = function() {
-    if (xhr.status === 200) {
-      index = JSON.parse(xhr.responseText);
-    }
-  };
-  xhr.send();
-  
-  input.addEventListener('input', function() {
-    var q = input.value.toLowerCase().trim();
-    var items = document.querySelectorAll('.sidebar-nav .nav-item, .sidebar-concepts .nav-item');
-    var regionGroups = document.querySelectorAll('.sidebar-nav .region-group');
-    var regionLabels = document.querySelectorAll('.sidebar-nav .region-label');
-    var conceptLabel = document.querySelector('.concept-label');
-    var visible = 0;
-    
-    regionGroups.forEach(function(g) { g.style.display = 'none'; });
-    regionLabels.forEach(function(l) { l.style.display = 'none'; });
-    
-    items.forEach(function(item) {
-      var a = item.querySelector('a');
-      if (!a) return;
-      var text = a.textContent.toLowerCase();
-      
-      // Also search by country code from the index
-      var slug = a.getAttribute('data-slug') || '';
-      var cc = '';
-      for (var i = 0; i < index.length; i++) {
-        if (index[i].slug === slug) { cc = index[i].country_code.toLowerCase(); break; }
-      }
-      
-      if (!q || text.indexOf(q) !== -1 || cc.indexOf(q) !== -1) {
-        item.style.display = '';
-        visible++;
-        // Show parent region group
-        var group = item.closest('.region-group');
-        if (group) {
-          group.style.display = '';
-          // Show the label in this group
-          var label = group.querySelector('.region-label');
-          if (label) label.style.display = '';
-        }
-      } else {
-        item.style.display = 'none';
-      }
-    });
-    
-    // Show concept label if any concept is visible
-    if (conceptLabel) {
-      var conceptVisible = false;
-      document.querySelectorAll('.sidebar-concepts .nav-item').forEach(function(item) {
-        if (item.style.display !== 'none') conceptVisible = true;
-      });
-      conceptLabel.style.display = conceptVisible || !q ? '' : 'none';
-    }
-    
-    noResults.style.display = (visible === 0 && q) ? 'block' : 'none';
-  });
-})();
-"""
 
 
 # ── Main Build ───────────────────────────────────────────────────────────────
 
 def build():
-    """Main build function."""
-    global CONCEPT_SLUGS, all_pages
-    
-    print(f"🔨 Building static site: {SITE_TITLE}")
-    print(f"   Source: {WIKI_DIR}")
-    print(f"   Output: {OUTPUT_DIR}")
-    
-    # Collect pages
+    print(f"Building static site: {SITE_TITLE}")
     collect_pages()
-    print(f"   Collected {len(all_pages)} pages ({len([p for p in all_pages.values() if p['type']=='entity'])} countries, {len([p for p in all_pages.values() if p['type']=='concept'])} concepts)")
-    
-    # Parse regions
-    regions = parse_regions_yaml(REGIONS_FILE)
-    total_countries_in_regions = sum(len(v) for v in regions.values())
-    print(f"   Regions: {len(regions)} groups, {total_countries_in_regions} countries listed")
-    
-    # Get concept pages sorted
-    concept_pages = OrderedDict(
-        sorted(
-            [(s, p) for s, p in all_pages.items() if p["type"] == "concept"],
-            key=lambda x: x[0]
-        )
-    )
-    
-    # Build sidebars for each page depth
-    sidebar_root = build_sidebar(regions, concept_pages, depth=0, current_dir=None)
-    sidebar_conditions = build_sidebar(regions, concept_pages, depth=1, current_dir='conditions')
-    sidebar_concepts = build_sidebar(regions, concept_pages, depth=1, current_dir='concepts')
-    
-    # Clean output directory
+    region_meta = parse_region_meta(REGIONS_FILE)
+    concept_pages = OrderedDict(sorted(((s, p) for s, p in all_pages.items() if p["type"] == "concept"), key=lambda x: x[0]))
+    n_ent = sum(1 for p in all_pages.values() if p["type"] == "entity")
+    print(f"   {n_ent} countries, {len(concept_pages)} concepts; region meta for {len(region_meta)}")
+
     if OUTPUT_DIR.exists():
         shutil.rmtree(OUTPUT_DIR)
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    (OUTPUT_DIR / "conditions").mkdir(exist_ok=True)
-    (OUTPUT_DIR / "concepts").mkdir(exist_ok=True)
-    
-    # Generate country pages
-    file_count = 0
+    (OUTPUT_DIR / "conditions").mkdir(parents=True)
+    (OUTPUT_DIR / "concepts").mkdir()
+    count = 0
     for slug, page in all_pages.items():
-        if page["type"] != "entity":
-            continue
-        html_content = render_page(page, sidebar_conditions)
-        out_path = OUTPUT_DIR / "conditions" / f"{slug}.html"
-        out_path.write_text(html_content, encoding="utf-8")
-        file_count += 1
-    print(f"   Generated {file_count} country pages")
-    
-    # Generate concept pages
-    concept_file_count = 0
-    for slug, page in concept_pages.items():
-        html_content = render_page(page, sidebar_concepts)
-        out_path = OUTPUT_DIR / "concepts" / f"{slug}.html"
-        out_path.write_text(html_content, encoding="utf-8")
-        file_count += 1
-        concept_file_count += 1
-    print(f"   Generated {concept_file_count} concept pages")
-    
-    # Generate index
-    index_html = render_index(regions, concept_pages, sidebar_root)
-    (OUTPUT_DIR / "index.html").write_text(index_html, encoding="utf-8")
-    file_count += 1
-    print(f"   Generated index page")
-    
-    # Generate search index
-    search_json = generate_search_index()
-    (OUTPUT_DIR / "search-index.json").write_text(search_json, encoding="utf-8")
-    file_count += 1
-    print(f"   Generated search index")
-    
-    # Generate client-side search JS (inline in each page, but separate for future)
-    # Already embedded in SIDEBAR_HTML via each page's template
-    
-    # Copy .nojekyll for GitHub Pages
+        sub = "conditions" if page["type"] == "entity" else "concepts"
+        (OUTPUT_DIR / sub / f"{slug}.html").write_text(render_page(page, region_meta, REGION_LABELS), encoding="utf-8")
+        count += 1
+    (OUTPUT_DIR / "index.html").write_text(render_index(region_meta, REGION_LABELS, concept_pages), encoding="utf-8")
+    (OUTPUT_DIR / "search-index.json").write_text(generate_search_index(), encoding="utf-8")
     (OUTPUT_DIR / ".nojekyll").write_text("")
-    
-    print(f"\n✅ Build complete: {file_count} files written to {OUTPUT_DIR}")
-    return file_count
+    print(f"Build complete: {count + 2} files written to {OUTPUT_DIR}")
+    return count + 2
 
 
 if __name__ == "__main__":
-    count = build()
-    sys.exit(0)
+    build()

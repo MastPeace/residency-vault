@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Changed
+- **Site redesign** (`scripts/generate_site.py`): light "paper" theme with dark toggle (system preference respected), serif headings + sans/mono data, single green accent. Replaces the 163-link sidebar with a top bar and a `/` or Ctrl/Cmd+K search palette.
+- Home page is now a sortable, filterable country table (fit categories, region, confidence; columns: years to citizenship, passport, confidence, last checked) plus program comparisons.
+- Country pages: key-facts strip, Monitoring panel (recent changes / watch items) moved to the top, sticky "On this page" TOC, strengths/problems side by side, snapshot sources rendered as links with official/estimate markers.
+
+### Fixed
+- Country Card "General description" was silently dropped; Country Snapshot table printed its header row as data; titles with ` - ` separator (e.g. Malawi) now get clean display names.
+
 ### Added
 - **Extended Snapshot (pilot, 10 countries)**: 55 extra fields in 12 blocks (geography, climate, economy, technology, HDI, safety, money & tax, business, education, connectivity, sanctions/visa, quality of life); practice-dependent fields (banks, acceptance of Russians, flights, policy mood) deliberately excluded on portugal, georgia, uae, serbia, thailand, malta, dominica, kazakhstan, estonia, fiji. New `scripts/fetch_indicators.py` (World Bank API, stdlib) and `scripts/build_extended_snapshot.py`; SCHEMA v4 spec.
 
