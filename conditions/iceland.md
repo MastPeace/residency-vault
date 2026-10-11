@@ -92,7 +92,7 @@ Iceland is an EEA/Schengen member with a strong passport and a very small, high-
 - **No inheritance tax** (estate tax of 10% on net estate above ISK 6,710,000, but spouse and direct descendants are exempt).
 
 ## IT / Digital Nomad
-No dedicated [[digital-nomad]] visa. Remote work for foreign employers is NOT a basis for an Icelandic residence permit. Iceland's IT sector is growing (gaming — CCP Games/EVE Online — and software development) but limited in scale. Reykjavík is the sole tech hub. IT professionals enter via:
+No dedicated [[digital-nomad-visa|digital nomad visa]] visa. Remote work for foreign employers is NOT a basis for an Icelandic residence permit. Iceland's IT sector is growing (gaming — CCP Games/EVE Online — and software development) but limited in scale. Reykjavík is the sole tech hub. IT professionals enter via:
 - Work-based permit (Icelandic employer sponsorship required)
 - EEA citizenship (right of residence for EU/EEA citizens)
 - Iceland has world-class renewable energy infrastructure and data centre investments, but the IT job market is small.

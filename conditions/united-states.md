@@ -112,7 +112,7 @@ The United States has one of the world's strongest passports and the largest eco
 - **Corporate tax**: 21% federal + state.
 
 ## IT / Digital Nomad
-No [[digital-nomad]] visa. Working remotely for a foreign employer while physically in the US is a legal grey area on a visitor visa. The O-1 visa serves extraordinary achievers in tech; H-1B is the standard tech immigration channel. Major tech hubs: Silicon Valley, Seattle, NYC, Austin.
+No [[digital-nomad-visa|digital nomad visa]] visa. Working remotely for a foreign employer while physically in the US is a legal grey area on a visitor visa. The O-1 visa serves extraordinary achievers in tech; H-1B is the standard tech immigration channel. Major tech hubs: Silicon Valley, Seattle, NYC, Austin.
 
 ## Yacht / Maritime
 US is a major yachting jurisdiction with extensive marinas (Florida, California, New England). Foreign-flagged yachts may cruise with a Cruising License. No special yacht investor visa. US Coast Guard licensing available for eligible residents.

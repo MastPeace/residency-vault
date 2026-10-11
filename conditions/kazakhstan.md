@@ -14,7 +14,7 @@ country_code: KZ
 ---
 
 ## Overview
-Kazakhstan launched an innovative [[digital-nomad]] Residency programme (10-year permanent residence) and a [[golden-visa]]-equivalent investor route ($300K) (10-year permanent residence for qualifying IT specialists) and a Digital Nomad Visa (Neo Nomad Visa) in late 2024. However, traditional residence permit rules were tightened under a 2026 pilot project restricting new applicants and channeling them to specific regions. Kazakhstan is an EAEU member. ^[https://timesca.com/tag/digital-nomads]
+Kazakhstan launched an innovative [[digital-nomad-visa|digital nomad visa]] Residency programme (10-year permanent residence) and a [[investment-residency|golden visa]]-equivalent investor route ($300K) (10-year permanent residence for qualifying IT specialists) and a Digital Nomad Visa (Neo Nomad Visa) in late 2024. However, traditional residence permit rules were tightened under a 2026 pilot project restricting new applicants and channeling them to specific regions. Kazakhstan is an EAEU member. ^[https://timesca.com/tag/digital-nomads]
 
 ## Residence
 **General residence permit (permanent)**: ^[https://en.tengrinews.kz/article/kazakhstan-has-tightened-migration-policy-who-is-affected-200]

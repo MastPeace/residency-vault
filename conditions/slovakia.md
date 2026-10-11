@@ -14,7 +14,7 @@ country_code: SK
 ---
 
 ## Overview
-Slovakia is an EU/Schengen/Eurozone member in Central Europe with a growing automotive and IT sector. Immigration is managed by the Foreign Police (Cudzinecká polícia). The primary route for skilled non-EU workers is the EU [[blue-card]] (5 years validity). Slovakia does NOT offer a dedicated digital nomad visa, golden visa, or passive-income residence. Citizenship requires 8 years of permanent residence. ^[https://mic.iom.sk/en/citizenship/conditions-for-granting-slovak-citizenship-naturalization.html]
+Slovakia is an EU/Schengen/Eurozone member in Central Europe with a growing automotive and IT sector. Immigration is managed by the Foreign Police (Cudzinecká polícia). The primary route for skilled non-EU workers is the EU [[highly-skilled-employment|Blue Card]] (5 years validity). Slovakia does NOT offer a dedicated digital nomad visa, golden visa, or passive-income residence. Citizenship requires 8 years of permanent residence. ^[https://mic.iom.sk/en/citizenship/conditions-for-granting-slovak-citizenship-naturalization.html]
 
 ## Residency Programs
 
@@ -26,9 +26,9 @@ Slovakia is an EU/Schengen/Eurozone member in Central Europe with a growing auto
 | [[highly-skilled-employment]] | Modrá karta EÚ (EU Blue Card) | University degree; job contract ≥6mo; salary ≥ 1.5× national average | 5 years |
 | [[startup-entrepreneur]] | Trade license (živnostenský list) residence permit | Registered trade; proof of funds | ≤6 years |
 | [[employment-residency]] | Temporary residence for employment | Job offer; labor market test (vacancy reporting) | ≤2 years |
-| [[student_residency]] | Temporary residence for study | Enrollment in Slovak institution | Duration of studies |
-| [[family_reunification]] | Temporary residence for family reunification | Sponsor with valid permit; income + accommodation | Matching sponsor |
-| [[retired_residency]] | Not available as dedicated program | — | — |
+| [[student-residency|student residency]] | Temporary residence for study | Enrollment in Slovak institution | Duration of studies |
+| [[family-reunification|family reunification]] | Temporary residence for family reunification | Sponsor with valid permit; income + accommodation | Matching sponsor |
+| [[retired-residency|retired residency]] | Not available as dedicated program | — | — |
 | [[citizenship-by-investment]] | Not available | — | — |
 
 ## Per-Program Detail

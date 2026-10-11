@@ -108,7 +108,7 @@ Switzerland is a federal system with three levels of taxation: federal, cantonal
 - **Tax ruling practice**: cantonal tax rulings provide advance certainty on tax treatment — a major attraction for businesses and wealthy individuals.
 
 ## IT / Digital Nomad
-No dedicated [[digital-nomad]] visa. Switzerland has a thriving tech/IT scene (Google Zurich, ETH/EPFL spin-offs, Crypto Valley in Zug). Remote work for a foreign employer alone does NOT qualify for a Swiss residence permit — you need a Swiss employer or a self-employed business with Swiss economic benefit. IT professionals use:
+No dedicated [[digital-nomad-visa|digital nomad visa]] visa. Switzerland has a thriving tech/IT scene (Google Zurich, ETH/EPFL spin-offs, Crypto Valley in Zug). Remote work for a foreign employer alone does NOT qualify for a Swiss residence permit — you need a Swiss employer or a self-employed business with Swiss economic benefit. IT professionals use:
 - B permit through Swiss employer sponsorship
 - Self-employed B permit (freelance/consulting for Swiss clients)
 - Zurich, Zug, Lausanne (EPFL), Geneva are major tech hubs

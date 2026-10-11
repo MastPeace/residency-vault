@@ -26,9 +26,9 @@ Bulgaria is an EU member (since 2007), entered the Eurozone waiting room (ERM II
 | [[highly-skilled-employment]] | EU Blue Card (Синя карта) | University degree; job contract; salary threshold | ≤4 years |
 | [[startup-entrepreneur]] | Business residence (trade rep office) | Registered Bulgarian company | ≤1 year |
 | [[employment-residency]] | Work permit + residence | Job offer from Bulgarian employer | ≤3 years |
-| [[student_residency]] | Student residence permit | Enrollment in Bulgarian institution | Duration of studies |
-| [[family_reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
-| [[retired_residency]] | Pensioner D visa | Proof of pension income; private health insurance | 1 year |
+| [[student-residency|student residency]] | Student residence permit | Enrollment in Bulgarian institution | Duration of studies |
+| [[family-reunification|family reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
+| [[retired-residency|retired residency]] | Pensioner D visa | Proof of pension income; private health insurance | 1 year |
 | [[citizenship-by-investment]] | Citizenship after 5yr PR from investment | 5 years PR maintained → eligibility for fast-track citizenship | — |
 
 ## Per-Program Detail

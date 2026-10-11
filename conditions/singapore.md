@@ -25,7 +25,7 @@ Singapore has one of the world's strongest passports (#1 in many rankings). It i
 - Aged parents of Singapore Citizens
 - Foreign students studying in Singapore
 
-**ICA assessment factors**: family ties to Singaporeans, economic contributions, qualifications, age, family profile, and length of residency. Unlike most [[golden-visa]] programmes, Singapore's GIP grants PR directly. No guaranteed approval — ICA's decision is discretionary. ^[https://www.eh-immigration.com/articles/pr-requirements-in-singapore-2026]
+**ICA assessment factors**: family ties to Singaporeans, economic contributions, qualifications, age, family profile, and length of residency. Unlike most [[investment-residency|golden visa]] programmes, Singapore's GIP grants PR directly. No guaranteed approval — ICA's decision is discretionary. ^[https://www.eh-immigration.com/articles/pr-requirements-in-singapore-2026]
 
 **Global Investor Programme (GIP)**: minimum SGD 10M investment in a new or existing business, or SGD 25M in a GIP-approved fund. Grants PR directly.
 
@@ -43,7 +43,7 @@ Singapore has one of the world's strongest passports (#1 in many rankings). It i
 Progressive income tax: 0%–24% (top rate above SGD 1M). Corporate tax: 17%. No capital gains tax. No wealth tax. No inheritance tax. Extensive double taxation treaty network. Singapore is a premier low-tax jurisdiction globally.
 
 ## IT / Digital Nomad
-Singapore does not have a dedicated [[digital-nomad]] visa, but the Tech.Pass offers a route for top-tier tech talent (founders, CTOs, senior engineers) — 2-year pass allowing employment with multiple companies, consulting, and starting businesses. The general tech ecosystem is world-class with extensive startup support.
+Singapore does not have a dedicated [[digital-nomad-visa|digital nomad visa]] visa, but the Tech.Pass offers a route for top-tier tech talent (founders, CTOs, senior engineers) — 2-year pass allowing employment with multiple companies, consulting, and starting businesses. The general tech ecosystem is world-class with extensive startup support.
 
 ## Yacht / Maritime
 Singapore is one of the world's busiest ports and a major maritime hub. ONE°15 Marina Sentosa Cove is a world-class yacht club. Yacht registration under the Singapore flag is available. Recognized maritime and captain licensing. Singapore's strategic location makes it a prime base for Southeast Asian cruising.

@@ -15,7 +15,7 @@ last_checked: 2026-10-05
 ---
 
 ## Overview
-Poland is a large EU/Schengen economy with a fast-growing tech sector and the EU's 5th-largest population. The primary residence routes are employment-based: the EU [[blue-card]], standard work permits, and sole proprietorship (JDG). Poland does NOT offer a Golden Visa, a passive-income residence, or a dedicated digital nomad visa. Citizenship tightened significantly in 2026: 10 years residence (up from 8), C1 Polish language, and civic exam. ^[https://www.visaverge.com/news/polands-ministry-of-the-interior-tightens-citizenship-rules-to-curb-immigration]
+Poland is a large EU/Schengen economy with a fast-growing tech sector and the EU's 5th-largest population. The primary residence routes are employment-based: the EU [[highly-skilled-employment|Blue Card]], standard work permits, and sole proprietorship (JDG). Poland does NOT offer a Golden Visa, a passive-income residence, or a dedicated digital nomad visa. Citizenship tightened significantly in 2026: 10 years residence (up from 8), C1 Polish language, and civic exam. ^[https://www.visaverge.com/news/polands-ministry-of-the-interior-tightens-citizenship-rules-to-curb-immigration]
 
 ## Residency Programs
 

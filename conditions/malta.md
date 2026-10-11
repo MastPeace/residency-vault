@@ -27,9 +27,9 @@ Malta is the smallest EU member state with a strong passport and full Schengen m
 | [[highly-skilled-employment]] | EU Blue Card | University degree; job offer; salary ≥ 1.5× average | ≤1 year |
 | [[startup-entrepreneur]] | Self-employed residence permit | Business plan; investment | 1 year |
 | [[employment-residency]] | Standard work permit + residence | Job offer from Maltese employer | 1 year |
-| [[student_residency]] | Student residence permit | Enrollment in Maltese institution | Duration of studies |
-| [[family_reunification]] | Family reunification permit | Sponsor income ≥€18,940/yr +20% per dependent (2026) | Matching sponsor |
-| [[retired_residency]] | Ordinary residence + pension income | Proof of pension income | 1 year |
+| [[student-residency|student residency]] | Student residence permit | Enrollment in Maltese institution | Duration of studies |
+| [[family-reunification|family reunification]] | Family reunification permit | Sponsor income ≥€18,940/yr +20% per dependent (2026) | Matching sponsor |
+| [[retired-residency|retired residency]] | Ordinary residence + pension income | Proof of pension income | 1 year |
 | [[citizenship-by-investment]] | TERMINATED (ECJ ruling, April 2025) | — | — |
 
 ## Per-Program Detail

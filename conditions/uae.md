@@ -13,7 +13,7 @@ country_code: AE
 ---
 
 ## Overview
-The UAE operates the region's most comprehensive [[golden-visa]] programme (5–10 years) plus a dedicated remote-work visa. Personal income tax is 0%, and the UAE passport ranks among the strongest in the Middle East (~183 visa-free destinations). Dubai and Abu Dhabi are global hubs for entrepreneurs, IT professionals, and yacht owners. The UAE does NOT offer citizenship by investment or naturalization for expatriates — citizenship is by nomination only. ^[http://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa]
+The UAE operates the region's most comprehensive [[investment-residency|golden visa]] programme (5–10 years) plus a dedicated remote-work visa. Personal income tax is 0%, and the UAE passport ranks among the strongest in the Middle East (~183 visa-free destinations). Dubai and Abu Dhabi are global hubs for entrepreneurs, IT professionals, and yacht owners. The UAE does NOT offer citizenship by investment or naturalization for expatriates — citizenship is by nomination only. ^[http://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa]
 
 ## Residency Programs
 

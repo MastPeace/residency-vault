@@ -97,7 +97,7 @@ Norway is not an EU member but is an EEA/Schengen member with a strong passport.
 - **VAT**: 25% standard.
 
 ## IT / Digital Nomad
-No dedicated [[digital-nomad]] visa. Remote work is explicitly NOT permitted unless it is part of the employment for which a residence permit was granted. ^[https://www.udi.no/en/want-to-apply/work-immigration/skilled-workers] IT professionals use:
+No dedicated [[digital-nomad-visa|digital nomad visa]] visa. Remote work is explicitly NOT permitted unless it is part of the employment for which a residence permit was granted. ^[https://www.udi.no/en/want-to-apply/work-immigration/skilled-workers] IT professionals use:
 - Skilled worker route (employer-sponsored)
 - Self-employed for IT consultants with Norwegian clients
 - Oslo is the main tech hub with a strong startup scene. Remote work without Norwegian employment is not a valid residence basis.

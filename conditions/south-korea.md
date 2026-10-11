@@ -120,7 +120,7 @@ South Korea has a strong passport (top 3 in many rankings) and a structured immi
 - **Tax treaty**: Extensive network; foreign-source income excluded for first 5 years for foreign residents under certain conditions.
 
 ## IT / Digital Nomad
-Korea has a formal [[digital-nomad]] visa (F-1-D) — permanent since June 30, 2026 — with eased income tiers and 3-year max stay. Strong tech ecosystem (Seoul, Pangyo). E-7 covers IT professionals; D-8-4 serves tech startups. TOPIK language ability materially improves residence and citizenship outcomes.
+Korea has a formal [[digital-nomad-visa|digital nomad visa]] visa (F-1-D) — permanent since June 30, 2026 — with eased income tiers and 3-year max stay. Strong tech ecosystem (Seoul, Pangyo). E-7 covers IT professionals; D-8-4 serves tech startups. TOPIK language ability materially improves residence and citizenship outcomes.
 
 ## Yacht / Maritime
 Korea has a developed coastline with marinas in Busan, Incheon, and Jeju. Foreign-flagged yachts may visit Korean ports. Korea Coast Guard oversees maritime safety. No special yacht investor pathway.

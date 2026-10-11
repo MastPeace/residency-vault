@@ -114,7 +114,7 @@ Japan has the world's strongest passport (typically #1–2 in rankings) and a we
 - **Corporate tax**: ~29.74% effective (national + local).
 
 ## IT / Digital Nomad
-Japan has a [[digital-nomad]] visa (6 months, ¥10M+ income) but it is short, non-renewable, and not a residence status. The tech ecosystem (Tokyo, Osaka, Fukuoka) is large; HSP category (ii) is tailored to engineers and IT professionals. J-Skip (special HSP for very high earners/researchers) offers 5-year status and PR in 1 year.
+Japan has a [[digital-nomad-visa|digital nomad visa]] visa (6 months, ¥10M+ income) but it is short, non-renewable, and not a residence status. The tech ecosystem (Tokyo, Osaka, Fukuoka) is large; HSP category (ii) is tailored to engineers and IT professionals. J-Skip (special HSP for very high earners/researchers) offers 5-year status and PR in 1 year.
 
 ## Yacht / Maritime
 Japan has extensive coastlines and marinas (Tokyo Bay, Yokohama, Okinawa). Foreign-flagged yachts may visit Japanese ports with proper clearance. Japan Coast Guard oversees maritime matters. No special yacht investor pathway.

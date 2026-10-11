@@ -96,7 +96,7 @@ Finland is an EU/Schengen member with a strong passport and a growing tech ecosy
 - **Municipal tax**: Helsinki ~18.5% (one of the lowest in Finland).
 
 ## IT / Digital Nomad
-No dedicated [[digital-nomad]] visa. Finland is unique in the Nordics: remote work for a foreign employer with NO Finnish clients is possible without a residence permit for up to **90 days in any 180-day period** (visa-free nationals; visa nationals need a visa but no residence permit). For longer stays:
+No dedicated [[digital-nomad-visa|digital nomad visa]] visa. Finland is unique in the Nordics: remote work for a foreign employer with NO Finnish clients is possible without a residence permit for up to **90 days in any 180-day period** (visa-free nationals; visa nationals need a visa but no residence permit). For longer stays:
 - Specialist permit (ICT professionals, salary ≥€3,000/mo)
 - Start-up entrepreneur (for own business)
 - Helsinki, Espoo (Otaniemi), and Tampere are major tech hubs. Strong gaming (Supercell, Rovio) and deep tech scenes.

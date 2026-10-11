@@ -68,7 +68,7 @@ The Central African Republic (CAR) is a landlocked, resource-rich but conflict-r
 - **General**: CFA franc (XAF, pegged toEUR). State capacity extremly limited.
 
 ## IT / Digital Nomad
-No dedicated digital-nomad visa. Intenet is extremly limited(Bangui has ome connectivity; rural areas have none). Cowrking nonexistent. CAR is not and cannot become a nomad destination.[[cameroon]] and [[chad]] are regional neigbors.
+No dedicated digital-nomad visa. Intenet is extremly limited(Bangui has ome connectivity; rural areas have none). Cowrking nonexistent. CAR is not and cannot become a nomad destination.[[cameroon]] and Chad are regional neigbors.
 
 ## Yacht / Maritime
 Landlocked. No maritime relevance.

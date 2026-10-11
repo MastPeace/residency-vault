@@ -113,7 +113,7 @@ New Zealand has a strong passport and a points-based skilled migration system. T
 - **Corporate tax**: 28%.
 
 ## IT / Digital Nomad
-No [[digital-nomad]] visa. The tech ecosystem is modest but growing (Wellington, Auckland). The SMC system is favourable for IT professionals with qualifications. Remote workers use visitor visas informally. The NZ Global Impact Visa (Edmund Hilary Fellowship) was discontinued.
+No [[digital-nomad-visa|digital nomad visa]] visa. The tech ecosystem is modest but growing (Wellington, Auckland). The SMC system is favourable for IT professionals with qualifications. Remote workers use visitor visas informally. The NZ Global Impact Visa (Edmund Hilary Fellowship) was discontinued.
 
 ## Yacht / Maritime
 New Zealand is a world-renowned yachting destination (Bay of Islands, Auckland — City of Sails). Maritime NZ handles vessel registration under the NZ flag. Recognized yatch captain licensing. No special yatch investor pathway. Foreign-flagged yachts may cruise with temporary import entry.

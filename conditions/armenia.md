@@ -89,7 +89,7 @@ Armenia offers accessible residence permits and a relatively short path to citiz
 
 ## IT / Digital Nomad
 
-Armenia does not have a formal [[digital-nomad]] visa. However, the growing IT sector, accessible IE registration, and residence permits based on business activity make it practical for remote workers. The country's tech sector is expanding, and the low cost of living is attractive.
+Armenia does not have a formal [[digital-nomad-visa|digital nomad visa]] visa. However, the growing IT sector, accessible IE registration, and residence permits based on business activity make it practical for remote workers. The country's tech sector is expanding, and the low cost of living is attractive.
 
 **November 1, 2026 reforms** (comprehensive): all residence permit applications fully digitalized via new electronic system (migration.e-gov.am and EarlyOne cease). Work visa system introduced; labor market testing abolished; foreign worker quotas introduced; business residence requires AMD 2M investment or IE with 1M AMD turnover; employer change notification mandatory within 15 business days; absence from Armenia >183 days in rolling 365 days must be notified. ^[https://www.fragomen.com/insights/armenia-significant-immigration-law-reforms-forthcoming.html] ^[https://arka.am/en/news/politics/residence-permit-application-in-armenia-will-be-fully-online-starting-november-1]
 

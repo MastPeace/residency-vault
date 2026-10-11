@@ -93,7 +93,7 @@ Sweden is an EU/Schengen member with a strong passport and a world-class tech ec
 - **No wealth tax** (abolished 2007).
 
 ## IT / Digital Nomad
-No dedicated [[digital-nomad]] visa. Sweden is one of Europe's strongest tech ecosystems. IT professionals use:
+No dedicated [[digital-nomad-visa|digital nomad visa]] visa. Sweden is one of Europe's strongest tech ecosystems. IT professionals use:
 - Work permit (employer-sponsored); very active startup/scale-up scene (Stockholm = "unicorn factory")
 - Self-employed route for freelance IT consultants
 - Stockholm, Gothenburg, and Malmö are major tech/startup hubs. Remote work from Sweden for foreign employers generally not permitted under a work permit unless the employer is Swedish.

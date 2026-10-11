@@ -101,7 +101,7 @@ Serbia is an EU candidate country (not yet a member). Passport ranks ~38th globa
 
 ## IT / Digital Nomad
 
-Serbia does not have a formal [[digital-nomad]] visa. However, the business registration (DOO) route is the de-facto pathway for freelancers and remote workers: incorporate a Serbian LLC, obtain residence as director/owner, pay 10% flat income tax. Belgrade and Novi Sad are vibrant tech hubs. The 10% flat tax is attractive for IT professionals. No minimum stay requirement to maintain the residence permit (though absence >10 months in 3 years breaks continuity for PR). ^[https://www.globalcitizensolutions.com/serbia-residence-permit]
+Serbia does not have a formal [[digital-nomad-visa|digital nomad visa]] visa. However, the business registration (DOO) route is the de-facto pathway for freelancers and remote workers: incorporate a Serbian LLC, obtain residence as director/owner, pay 10% flat income tax. Belgrade and Novi Sad are vibrant tech hubs. The 10% flat tax is attractive for IT professionals. No minimum stay requirement to maintain the residence permit (though absence >10 months in 3 years breaks continuity for PR). ^[https://www.globalcitizensolutions.com/serbia-residence-permit]
 
 ## Yacht / Maritime
 

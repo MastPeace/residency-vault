@@ -89,7 +89,7 @@ Belgium is an EU/Schengen member hosting EU institutions (Brussels). Its immigra
 - **Municipal tax**: varies by commune (~0–9% surcharge on income tax).
 
 ## IT / Digital Nomad
-Belgium has no dedicated [[digital-nomad]] visa. IT professionals typically use:
+Belgium has no dedicated [[digital-nomad-visa|digital nomad visa]] visa. IT professionals typically use:
 - EU Blue Card / Single Permit (employer-sponsored)
 - Professional Card (freelance/self-employed IT consultants)
 - Belgium hosts major EU tech policy bodies but its tech startup scene is smaller than NL/DE. Brussels, Antwerp, and Ghent are main hubs.

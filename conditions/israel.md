@@ -14,7 +14,7 @@ country_code: IL
 ---
 
 ## Overview
-Israel's immigration system is unique: the [[law-of-return]] grants automatic citizenship to Jews and their descendants (children/grandchildren), while non-Jewish foreigners face a restrictive naturalization path. Israel has announced a Digital Nomad Visa ($5,000/mo, 12 months) and offers a B/5 Investor Visa for US citizens (reciprocal E-2). Israel does NOT have a citizenship-by-investment programme open to all nationalities. Personal income tax is progressive up to 50%. ^[https://en.wikipedia.org/wiki/Israeli_citizenship_law]
+Israel's immigration system is unique: the Law of Return grants automatic citizenship to Jews and their descendants (children/grandchildren), while non-Jewish foreigners face a restrictive naturalization path. Israel has announced a Digital Nomad Visa ($5,000/mo, 12 months) and offers a B/5 Investor Visa for US citizens (reciprocal E-2). Israel does NOT have a citizenship-by-investment programme open to all nationalities. Personal income tax is progressive up to 50%. ^[https://en.wikipedia.org/wiki/Israeli_citizenship_law]
 
 ## Residency Programs
 

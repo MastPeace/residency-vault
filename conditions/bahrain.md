@@ -13,7 +13,7 @@ country_code: BH
 ---
 
 ## Overview
-Bahrain operates a [[golden-residency]] programme (permanent, renewed every 10 years for a BD 300 administrative fee) covering: property owners (BD 130K+), employees (5+ years, BD 2K/mo salary), retirees (BD 4K pension or 15+ yrs in Bahrain + BD 2K pension), and talented individuals. Self-sponsorship residence permits are also available for property owners at BD 200 (2yr), BD 400 (5yr), BD 600 (10yr). Personal income tax is 0%. Bahrain does NOT offer citizenship to expatriates. ^[https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency]
+Bahrain operates a [[investment-residency|golden residency]] programme (permanent, renewed every 10 years for a BD 300 administrative fee) covering: property owners (BD 130K+), employees (5+ years, BD 2K/mo salary), retirees (BD 4K pension or 15+ yrs in Bahrain + BD 2K pension), and talented individuals. Self-sponsorship residence permits are also available for property owners at BD 200 (2yr), BD 400 (5yr), BD 600 (10yr). Personal income tax is 0%. Bahrain does NOT offer citizenship to expatriates. ^[https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency]
 
 ## Residency Programs
 

@@ -78,7 +78,7 @@ Atlantic coastline (~320 km) with the port of Conakry. Yacht tourism is minimal;
 Russian citizens require a visa from Guinean embassies. No special programs. Passport is weak (28 destinations). Diplomatic relations cordial but thin.
 
 ## Community Pulse
-Virtually no expat immigration reports. Guinea is not on nomad, retiree, or investor‑immigration forums. Expect bureaucratic paper‑driven procedures. [[guinea-bissau]] is regionally discussed as alternative.
+Virtually no expat immigration reports. Guinea is not on nomad, retiree, or investor‑immigration forums. Expect bureaucratic paper‑driven procedures. Guinea-Bissau is regionally discussed as alternative.
 
 ## Country Snapshot
 

@@ -103,7 +103,7 @@ Azerbaijan offers several pathways to residence, including **investment-based re
 
 ## IT / Digital Nomad
 
-Azerbaijan does **not** have a [[digital-nomad]] visa. No formal remote work pathway exists. Internet infrastructure is adequate in Baku. Not a significant nomad destination. Censorship and internet restrictions (especially during political events) are noted concerns.
+Azerbaijan does **not** have a [[digital-nomad-visa|digital nomad visa]] visa. No formal remote work pathway exists. Internet infrastructure is adequate in Baku. Not a significant nomad destination. Censorship and internet restrictions (especially during political events) are noted concerns.
 
 ## Yacht / Maritime
 

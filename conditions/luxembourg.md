@@ -118,7 +118,7 @@ Luxembourg is a small, wealthy EU/Schengen member with one of the world's strong
 - **VAT**: 17% standard (lowest in EU); 8% intermediate; 3% super-reduced.
 
 ## IT / Digital Nomad
-No dedicated [[digital-nomad]] visa. IT professionals use:
+No dedicated [[digital-nomad-visa|digital nomad visa]] visa. IT professionals use:
 - EU Blue Card (financial sector, EU institutions, Amazon/Google EU HQs)
 - Independent worker residence for freelancers
 - Luxembourg is a global fintech hub with strong demand for IT/financial professionals and very high salaries.

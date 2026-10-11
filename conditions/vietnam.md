@@ -115,7 +115,7 @@ Vietnam's passport is moderate-strength and its immigration system is built arou
 - **Apostille**: Vietnam acceded to the Hague Apostille Convention, effective September 11, 2026, simplifying document legalization.
 
 ## IT / Digital Nomad
-No [[digital-nomad]] visa. The 90-day e-visa is the de facto nomad option. Da Nang, Ho Chi Minh City, and Hanoi are popular nomad hubs with low costs and good internet. The proposed Golden Visa explicitly targets digital nomads but remains unlaunched. UĐ1/UĐ2 talent visas (from July 2026) target high-skilled tech workers. SVEC (5-year talent visa, live since Aug 2025) targets PhD scientists, senior executives, prominent artists — an extremely high bar.
+No [[digital-nomad-visa|digital nomad visa]] visa. The 90-day e-visa is the de facto nomad option. Da Nang, Ho Chi Minh City, and Hanoi are popular nomad hubs with low costs and good internet. The proposed Golden Visa explicitly targets digital nomads but remains unlaunched. UĐ1/UĐ2 talent visas (from July 2026) target high-skilled tech workers. SVEC (5-year talent visa, live since Aug 2025) targets PhD scientists, senior executives, prominent artists — an extremely high bar.
 
 ## Yacht / Maritime
 Vietnam has a long coastline (3,260 km) with emerging marinas (Nha Trang, Phu Quoc, Ha Long Bay). Yachting infrastructure is developing but less mature than Thailand. No special yacht investor pathway. Foreign-flagged yachts may enter Vietnamese ports with clearance.

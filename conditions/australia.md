@@ -113,7 +113,7 @@ Australia has a strong passport and a large, points-based skilled migration syst
 - **Corporate tax**: 25% (base rate entities) / 30% (others).
 
 ## IT / Digital Nomad
-No [[digital-nomad]] visa. The tech ecosystem in Sydney, Melbourne, and Brisbane is strong. Skilled migration points test favours STEM and IT occupations with faster invitations in some categories. Working Holiday Maker visas are popular for younger nomads but are temporary and age-limited.
+No [[digital-nomad-visa|digital nomad visa]] visa. The tech ecosystem in Sydney, Melbourne, and Brisbane is strong. Skilled migration points test favours STEM and IT occupations with faster invitations in some categories. Working Holiday Maker visas are popular for younger nomads but are temporary and age-limited.
 
 ## Yacht / Maritime
 Australia has a massive coastline with world-class marinas (Sydney, Gold Coast, Whitsundays). Foreign-flagged yachts can cruise with a Coastal Cruising Permit. Australian Maritime Safety Authority (AMSA) handles vessel registration and licensing. No special yacht investor pathway.

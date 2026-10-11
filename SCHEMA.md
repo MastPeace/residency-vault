@@ -202,8 +202,8 @@ in a green-tinted list, problems in an orange-tinted list, dark-theme consistent
 ## Concept Pages (concepts/<type>.md or <program>.md)
 THESE are the generalizers. Create one concept page PER CANONICAL TYPE slug:
 - `concepts/investment-residency.md`, `concepts/passive-income-residency.md`,
-  `concepts/digital-nomad-residency.md`, `concepts/highly-skilled-employment.md`,
-  `concepts/startup-residency.md`, `concepts/employment-residency.md`,
+  `concepts/digital-nomad-visa.md`, `concepts/highly-skilled-employment.md`,
+  `concepts/startup-entrepreneur.md`, `concepts/employment-residency.md`,
   `concepts/student-residency.md`, `concepts/family-reunification.md`,
   `concepts/retired-residency.md`, `concepts/citizenship-by-investment.md`.
 Each: definition, cross-country comparison TABLE (country | program | threshold |

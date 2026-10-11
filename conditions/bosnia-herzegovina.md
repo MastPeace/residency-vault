@@ -92,7 +92,7 @@ Bosnia and Herzegovina (BiH) is an EU candidate country with a complex two-entit
 
 ## IT / Digital Nomad
 
-Bosnia and Herzegovina does not have a [[digital-nomad]] visa. No formal remote work pathway exists. The business registration or employment routes are the only practical options. Internet infrastructure is adequate in urban areas (Sarajevo, Banja Luka, Mostar). Not a significant nomad destination.
+Bosnia and Herzegovina does not have a [[digital-nomad-visa|digital nomad visa]] visa. No formal remote work pathway exists. The business registration or employment routes are the only practical options. Internet infrastructure is adequate in urban areas (Sarajevo, Banja Luka, Mostar). Not a significant nomad destination.
 
 ## Yacht / Maritime
 

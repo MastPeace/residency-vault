@@ -26,9 +26,9 @@ Lithuania is an EU/Schengen/NATO/Eurozone member in the Baltic region with a rap
 | [[highly-skilled-employment]] | EU Blue Card | University degree; job offer; salary ≥ 1.5× Lithuanian average | ≤3 years |
 | [[startup-entrepreneur]] | Startup Visa | Startup Committee approval; innovative business | 1 year (+1) |
 | [[employment-residency]] | Temporary residence for employment | Job offer from Lithuanian employer | ≤3 years |
-| [[student_residency]] | Student residence permit | Enrollment in Lithuanian institution | Duration of studies |
-| [[family_reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
-| [[retired_residency]] | Not available as dedicated program | — | — |
+| [[student-residency|student residency]] | Student residence permit | Enrollment in Lithuanian institution | Duration of studies |
+| [[family-reunification|family reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
+| [[retired-residency|retired residency]] | Not available as dedicated program | — | — |
 | [[citizenship-by-investment]] | Not available | — | — |
 
 ## Per-Program Detail

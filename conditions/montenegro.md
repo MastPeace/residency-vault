@@ -111,7 +111,7 @@ Montenegro has a **dedicated digital nomad residence permit** since 2022. See [[
 
 ## Yacht / Maritime
 
-Montenegro has a significant Adriatic coastline (Bay of Kotor, Budva, Bar). Porto Montenegro (Tivat) is a luxury superyacht marina — one of the Mediterranean's premier yachting destinations. Yacht registration under the Montenegrin flag is available. Captain licensing recognition is developing. Relevant for [[yacht-captain]] considerations.
+Montenegro has a significant Adriatic coastline (Bay of Kotor, Budva, Bar). Porto Montenegro (Tivat) is a luxury superyacht marina — one of the Mediterranean's premier yachting destinations. Yacht registration under the Montenegrin flag is available. Captain licensing recognition is developing. Relevant for yacht-captain considerations.
 
 ## Notes for RU citizens
 

@@ -111,7 +111,7 @@ Ireland is an EU member with one of the world's strongest passports and a thrivi
 - **Capital gains tax**: 33%.
 
 ## IT / Digital Nomad
-No dedicated [[digital-nomad]] visa. IT professionals use:
+No dedicated [[digital-nomad-visa|digital nomad visa]] visa. IT professionals use:
 - Critical Skills Employment Permit (fast-track, 2 years to Stamp 4)
 - Ireland is Europe's tech capital: Google, Meta, Apple, Microsoft, Stripe, and hundreds of tech companies have major operations in Dublin/Cork/Galway
 - Remote work for foreign employers while physically in Ireland requires a work permit or Stamp 0 (which explicitly excludes work). A gap in practical enforcement exists.

@@ -13,7 +13,7 @@ country_code: SA
 ---
 
 ## Overview
-Saudi Arabia launched its [[premium-residency]] programme in 2019 as part of Vision 2030 — the first pathway to long-term residence without an employer sponsor (kafeel). The programme now offers multiple tracks: Permanent (SAR 800,000 one-time), Annual (SAR 100,000/year), Investor (SAR 7M), Real Estate (SAR 4M), Entrepreneur, Special Talent, and Gifted. Saudi Arabia does NOT grant citizenship to expatriates. Personal income tax is 0%, though expatriates pay a dependent levy under the standard Iqama system. ^[https://commoner-law.com/saudi/immigration-pathways/permanent-residency]
+Saudi Arabia launched its [[investment-residency|premium residency]] programme in 2019 as part of Vision 2030 — the first pathway to long-term residence without an employer sponsor (kafeel). The programme now offers multiple tracks: Permanent (SAR 800,000 one-time), Annual (SAR 100,000/year), Investor (SAR 7M), Real Estate (SAR 4M), Entrepreneur, Special Talent, and Gifted. Saudi Arabia does NOT grant citizenship to expatriates. Personal income tax is 0%, though expatriates pay a dependent levy under the standard Iqama system. ^[https://commoner-law.com/saudi/immigration-pathways/permanent-residency]
 
 ## Residency Programs
 

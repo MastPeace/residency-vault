@@ -91,7 +91,7 @@ Kosovo is a partially recognized state (recognized by ~100 UN members, not by Se
 
 ## IT / Digital Nomad
 
-Kosovo does **not** have a [[digital-nomad]] visa. No formal remote work pathway exists. Internet infrastructure is adequate in Pristina. Not a significant nomad destination. The main attraction is the very low cost of living and low taxes. Visa-free entry for Schengen/US/UK visa holders.
+Kosovo does **not** have a [[digital-nomad-visa|digital nomad visa]] visa. No formal remote work pathway exists. Internet infrastructure is adequate in Pristina. Not a significant nomad destination. The main attraction is the very low cost of living and low taxes. Visa-free entry for Schengen/US/UK visa holders.
 
 ## Yacht / Maritime
 

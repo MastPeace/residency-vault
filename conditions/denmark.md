@@ -97,7 +97,7 @@ Denmark is an EU/Schengen member with a strong passport and a high-wage economy.
 - **Municipal tax**: varies (22.5%–27.8%).
 
 ## IT / Digital Nomad
-No dedicated [[digital-nomad]] visa. Denmark is actively hostile to remote-work-based residence: remote work for foreign employers does NOT qualify for a work permit. IT professionals use:
+No dedicated [[digital-nomad-visa|digital nomad visa]] visa. Denmark is actively hostile to remote-work-based residence: remote work for foreign employers does NOT qualify for a work permit. IT professionals use:
 - Pay Limit Scheme (salary ≥DKK 487,000)
 - Fast-Track Scheme (for certified-company employees)
 - Copenhagen is the Nordic tech hub. Strong startup scene but employment-based entry only.

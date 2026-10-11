@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Fixed
+- 81 broken `[[wikilinks]]` on 50 country pages now point to the real concept pages (`digital-nomad-visa`, `student-residency`, `family-reunification`, `retired-residency`, `investment-residency`, `highly-skilled-employment`); links to non-existent pages became plain text.
+- `SCHEMA.md` concept page names aligned with the files in `concepts/`.
+- `central-african-republic`: malformed "Notes for RU citizens" heading.
+- Monitoring pipeline: country detection missed 13 countries and matched substrings (e.g. "oman" in "Romanian"); screening now covers the whole registry in batches with a hard coverage check; deep collection is batched.
+
 ## [2026-10-11] — Registry extended to 163 countries (waves 1+2)
 
 ### Added

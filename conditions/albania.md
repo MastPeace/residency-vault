@@ -107,7 +107,7 @@ Albania is an EU candidate country (NATO member since 2009). Passport ranks ~48t
 
 ## IT / Digital Nomad
 
-Albania's **Unique Permit** functions as a de-facto [[digital-nomad]] visa with the lowest income threshold in Europe (€9,800/year). See [[#digital-nomad--unique-permit]] for full details. Internet infrastructure is adequate in Tirana and coastal cities (Durrës, Vlorë, Sarandë). Growing coworking scene in Tirana. Low cost of living (~€800–1,200/month for comfortable lifestyle). Mediterranean climate. Not yet a major nomad hub but growing.
+Albania's **Unique Permit** functions as a de-facto [[digital-nomad-visa|digital nomad visa]] visa with the lowest income threshold in Europe (€9,800/year). See [[#digital-nomad--unique-permit]] for full details. Internet infrastructure is adequate in Tirana and coastal cities (Durrës, Vlorë, Sarandë). Growing coworking scene in Tirana. Low cost of living (~€800–1,200/month for comfortable lifestyle). Mediterranean climate. Not yet a major nomad hub but growing.
 
 ## Yacht / Maritime
 

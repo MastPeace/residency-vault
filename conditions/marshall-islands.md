@@ -59,7 +59,7 @@ RMI is a low-tax jurisdiction: no personal income tax and no capital-gains tax f
 No digital-nomad visa and limited connectivity (single submarine cable; a redundant East Micronesia Cable is expected ~2026). Not an IT-hub market. ^[https://www.state.gov/wp-content/uploads/2025/09/638719_2025-Marshall-Islands-Investment-Climate-Statement.pdf]
 
 ## Yacht / Maritime
-RMI is a **global leader in maritime flag registration** — the third-largest ship registry by tonnage. This is the country's signature offshore service, but flag registration does not confer residence or citizenship. [[yacht-captain]] relevance high for flag/captain licensing, nil for residence.
+RMI is a **global leader in maritime flag registration** — the third-largest ship registry by tonnage. This is the country's signature offshore service, but flag registration does not confer residence or citizenship. yacht-captain relevance high for flag/captain licensing, nil for residence.
 
 ## Notes for RU Citizens
 Standard consular processing; no dedicated agreements. The 10-year residence + renunciation requirement makes RMI unattractive for Russian applicants seeking a second citizenship. [[fiji]] and [[samoa]] are more practical Pacific options.

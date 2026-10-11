@@ -84,7 +84,7 @@ North Macedonia is an EU candidate country (NATO member since 2020). Passport ra
 
 ## IT / Digital Nomad
 
-North Macedonia does **not** have a [[digital-nomad]] visa. No formal remote work pathway exists. Internet infrastructure is adequate in Skopje. Not a significant nomad destination. Low cost of living is the main draw for the few remote workers who choose it.
+North Macedonia does **not** have a [[digital-nomad-visa|digital nomad visa]] visa. No formal remote work pathway exists. Internet infrastructure is adequate in Skopje. Not a significant nomad destination. Low cost of living is the main draw for the few remote workers who choose it.
 
 ## Yacht / Maritime
 

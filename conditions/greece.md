@@ -15,7 +15,7 @@ last_checked: 2026-10-05
 ---
 
 ## Overview
-Greece operates Europe's most affordable [[golden-visa]] programme, starting at **€250,000** for qualifying conversions. The Golden Visa has three investment tiers (€250K/€400K/€800K) based on location and property type. Greece also offers a **digital nomad visa** (€3,500/mo), standard work permits, and a 7-year citizenship path. Golden Visa imposes **no minimum physical stay** for permit maintenance, but citizenship requires 183 days/year actual residence. ^[https://getgoldenvisa.com/ultimate-guide-to-greece-golden-visa]
+Greece operates Europe's most affordable [[investment-residency|golden visa]] programme, starting at **€250,000** for qualifying conversions. The Golden Visa has three investment tiers (€250K/€400K/€800K) based on location and property type. Greece also offers a **digital nomad visa** (€3,500/mo), standard work permits, and a 7-year citizenship path. Golden Visa imposes **no minimum physical stay** for permit maintenance, but citizenship requires 183 days/year actual residence. ^[https://getgoldenvisa.com/ultimate-guide-to-greece-golden-visa]
 
 ## Residency Programs
 
@@ -27,9 +27,9 @@ Greece operates Europe's most affordable [[golden-visa]] programme, starting at 
 | [[highly-skilled-employment]] | EU Blue Card | University degree; job offer; salary threshold | ≤2 years |
 | [[startup-entrepreneur]] | Business residence permit | Business plan; investment ≥€300,000 or job creation | 2 years |
 | [[employment-residency]] | Standard work permit | Job offer; labor market test | ≤2 years |
-| [[student_residency]] | Student residence permit | Enrollment in Greek institution | Duration of studies |
-| [[family_reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
-| [[retired_residency]] | Financially Independent Person (FIP) | Passive income (pension) ≥€2,000/mo | 2 years |
+| [[student-residency|student residency]] | Student residence permit | Enrollment in Greek institution | Duration of studies |
+| [[family-reunification|family reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
+| [[retired-residency|retired residency]] | Financially Independent Person (FIP) | Passive income (pension) ≥€2,000/mo | 2 years |
 | [[citizenship-by-investment]] | Not available | — | — |
 
 ## Per-Program Detail

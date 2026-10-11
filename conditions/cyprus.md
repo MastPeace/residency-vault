@@ -27,9 +27,9 @@ Cyprus is an EU member state (since 2004) with a strong passport, but **NOT in S
 | [[highly-skilled-employment]] | EU Blue Card (not implemented) | Cyprus has not implemented EU Blue Card Directive | — |
 | [[startup-entrepreneur]] | Business/work permit for self-employed | Business plan; investment | ≤2 years |
 | [[employment-residency]] | Temporary residence (Pink Slip) + work permit | Job offer from Cypriot employer | ≤2 years |
-| [[student_residency]] | Student residence permit | Enrollment in Cypriot institution | Duration of studies |
-| [[family_reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
-| [[retired_residency]] | Category F (pension income) | Proof of pension / passive income | 1 year |
+| [[student-residency|student residency]] | Student residence permit | Enrollment in Cypriot institution | Duration of studies |
+| [[family-reunification|family reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
+| [[retired-residency|retired residency]] | Category F (pension income) | Proof of pension / passive income | 1 year |
 | [[citizenship-by-investment]] | Not available (CBI programme terminated 2020) | — | — |
 
 ## Per-Program Detail

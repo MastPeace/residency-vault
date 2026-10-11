@@ -111,7 +111,7 @@ Canada has one of the world's strongest passports and a large, structured immigr
 - **Corporate tax**: 15% federal + provincial (~12%), combined ~27%.
 
 ## IT / Digital Nomad
-Canada has no dedicated [[digital-nomad]] visa. Remote workers on visitor status may work for foreign employers but cannot establish tax residence. The tech ecosystem (Toronto, Vancouver, Montreal) is strong; Express Entry favours tech occupations in category-based draws. Global Talent Stream (LMIA-exempt work permit) processes tech hires in ~2 weeks.
+Canada has no dedicated [[digital-nomad-visa|digital nomad visa]] visa. Remote workers on visitor status may work for foreign employers but cannot establish tax residence. The tech ecosystem (Toronto, Vancouver, Montreal) is strong; Express Entry favours tech occupations in category-based draws. Global Talent Stream (LMIA-exempt work permit) processes tech hires in ~2 weeks.
 
 ## Yacht / Maritime
 Canada has extensive coastlines and well-developed marinas (Vancouver, Halifax, Toronto). Foreign-flagged yachts may cruise Canadian waters with a cruising permit. No special yacht residence pathway.

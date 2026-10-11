@@ -107,11 +107,11 @@ Turkey operates one of the world's most popular **citizenship-by-investment** pr
 
 ## IT / Digital Nomad
 
-Turkey does not have a dedicated [[digital-nomad]] visa. However, the short-term residence permit based on property ownership covers remote workers. Istanbul and Antalya have growing digital nomad communities. Cost of living is favorable. Internet infrastructure is good in major cities.
+Turkey does not have a dedicated [[digital-nomad-visa|digital nomad visa]] visa. However, the short-term residence permit based on property ownership covers remote workers. Istanbul and Antalya have growing digital nomad communities. Cost of living is favorable. Internet infrastructure is good in major cities.
 
 ## Yacht / Maritime
 
-Turkey has an extensive Mediterranean/Aegean coastline. The "Blue Voyage" coast (Bodrum, Marmaris, Göcek, Fethiye) is world-class for yachting. Yacht registration under the Turkish flag is available. Turkey has a large yacht-building industry. Captain licensing under Turkish maritime regulations. Relevant for [[yacht-captain]] considerations.
+Turkey has an extensive Mediterranean/Aegean coastline. The "Blue Voyage" coast (Bodrum, Marmaris, Göcek, Fethiye) is world-class for yachting. Yacht registration under the Turkish flag is available. Turkey has a large yacht-building industry. Captain licensing under Turkish maritime regulations. Relevant for yacht-captain considerations.
 
 ## Notes for RU citizens
 

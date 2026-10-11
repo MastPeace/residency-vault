@@ -67,7 +67,7 @@ Tonga has no personal income tax for most residents (a consumption tax applies).
 No digital-nomad visa. Short stays are covered by visitor permits; long-term remote work requires an employment or business certification route.
 
 ## Yacht / Maritime
-Tonga (Vava'u, Nuku'alofa) is a major South Pacific sailing and whale-watching cruising ground; no dedicated yacht-residency program. [[yacht-captain]] relevance low–moderate.
+Tonga (Vava'u, Nuku'alofa) is a major South Pacific sailing and whale-watching cruising ground; no dedicated yacht-residency program. yacht-captain relevance low–moderate.
 
 ## Notes for RU Citizens
 Standard consular visa processing; no dedicated restrictions or agreements reported. Tonga remains a watch-and-wait market for investment migration. [[fiji]] and [[samoa]] are more established Pacific options.

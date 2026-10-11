@@ -75,7 +75,7 @@ Progressive 0%–39% on worldwide income for tax residents; temporary residents 
 No dedicated digital-nomad visa. Remote workers typically use the Investor Permit or Assured Income Permit routes, or a standard work permit.
 
 ## Yacht / Maritime
-Major South Pacific cruising hub (Denarau/Port Denarau, Savusavu, Suva); Commonwealth flag registration and marina infrastructure well established. [[yacht-captain]] relevance moderate.
+Major South Pacific cruising hub (Denarau/Port Denarau, Savusavu, Suva); Commonwealth flag registration and marina infrastructure well established. yacht-captain relevance moderate.
 
 ## Notes for RU Citizens
 No dedicated restrictions; standard visa/consular processing applies. Russian citizens require a visa for Fiji (no visa-free agreement). English-language professional services ease the process. [[portugal]] offers an alternative EU route for comparison.
