@@ -2,6 +2,7 @@
 title: Antigua & Barbuda — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-11
 type: entity
 tags: [citizenship, citizenship_by_investment, cbi, digital_nomad, strong_passport, tax]
 category: strong_passport
@@ -105,6 +106,68 @@ Antigua & Barbuda operates an international ship registry. Yacht registration av
 | Freedom House score | 84/100 (Free) | [Freedom House](https://freedomhouse.org/country/antigua-and-barbuda/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,900 h | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Antigua_and_Barbuda#Climate) — hard/official |
 | Average annual temperature | ~27 °C | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Antigua_and_Barbuda#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 49/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 440 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=AG) — hard/official |
+| Geography & size | Population density | 213 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=AG) — hard/official |
+| Geography & size | Urban population | 24% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=AG) — hard/official |
+| Geography & size | Coastline | 153 km (CIA World Factbook) | [source](https://www.cia.gov/the-world-factbook/countries/antigua-and-barbuda/) — hard/official |
+| Geography & size | Highest point | Boggy Peak (Mount Obama), 402 m | [source](https://en.wikipedia.org/wiki/Geography_of_Antigua_and_Barbuda) — soft/estimate |
+| Geography & size | Type | archipelago (island nation) | [source](https://en.wikipedia.org/wiki/Antigua_and_Barbuda) — soft/estimate |
+| Geography & size | Time zone | UTC-4 (AST), no DST; Moscow -7h | [source](https://en.wikipedia.org/wiki/Time_in_Antigua_and_Barbuda) — soft/estimate |
+| Climate | Avg precipitation | 1030 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=AG) — hard/official |
+| Climate | PM2.5 exposure | 8.4 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=AG) — hard/official |
+| Climate | Climate zone | Tropical savanna (Aw), warm year-round | [source](https://en.wikipedia.org/wiki/Geography_of_Antigua_and_Barbuda) — soft/estimate |
+| Climate | Temp winter / summer | St. John's: Jan avg 25°C, Jul avg 28°C | [source](https://en.wikipedia.org/wiki/Saint_John's,_Antigua_and_Barbuda#Climate) — soft/estimate |
+| Climate | Rainy days | ~110 days/year (St. John's) | [source](https://en.wikipedia.org/wiki/Saint_John's,_Antigua_and_Barbuda#Climate) — soft/estimate |
+| Climate | Humidity | ~79% avg annual | [source](https://en.wikipedia.org/wiki/Saint_John's,_Antigua_and_Barbuda#Climate) — soft/estimate |
+| Climate | Natural hazards | Hurricanes, tropical storms; INFORM Risk not rated (small island) | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | ~8 µg/m³ PM2.5 annual mean (IQAir 2023 estimate) | [source](https://www.iqair.com/world-most-polluted-countries) — soft/estimate |
+| Economy | GDP (nominal) | $2.3B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AG) — hard/official |
+| Economy | GDP growth | 5.0% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=AG) — hard/official |
+| Economy | Inflation (CPI) | 1.4% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=AG) — hard/official |
+| Economy | Unemployment | No reliable data | — |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 70% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=AG) — hard/official |
+| Economy | Remittances | 0.9% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=AG) — hard/official |
+| Economy | Credit rating | Not rated by S&P/Moody's/Fitch | [source](https://www.theglobaleconomy.com/Antigua-and-Barbuda/credit_rating) — soft/estimate |
+| Economy | Currency | XCD (East Caribbean Dollar), pegged to USD at 2.70 | [source](https://www.state.gov/reports/2025-investment-climate-statements/antigua-and-barbuda) — hard/official |
+| Economy | Top industries | Tourism ~60% GDP, financial services, construction | [source](https://en.wikipedia.org/wiki/Economy_of_Antigua_and_Barbuda) — soft/estimate |
+| Economy | Economic Complexity | Not ranked (small island state) | [source](https://atlas.hks.harvard.edu/rankings) — soft/estimate |
+| Technology | Internet users | 73% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=AG) — hard/official |
+| Technology | Fixed broadband subs | 10.7 per 100 people (2022) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=AG) — hard/official |
+| Technology | High-tech exports | 0.0% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=AG) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | Not ranked (GII, small state) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.5535, rank 121 (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/8-Antigua-and-Barbuda) — hard/official |
+| Technology | Median broadband speed | Not in Ookla Global Index; ~40 Mbps estimated | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G launched 2021 (Flow, Digicel) | [source](https://www.itu.int/en/ITU-D/Regional-Presence/Americas/) — soft/estimate |
+| Technology | Online payments | Stripe not available; PayPal available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Not ranked (small state) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 77.8 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AG) — hard/official |
+| Human development & health | Hospital beds | 3.4 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=AG) — hard/official |
+| Human development & health | HDI | 0.838, rank 55 (UNDP HDI 2023) | [source](https://hdr.undp.org/data-center/specific-country-data) — hard/official |
+| Safety | Global Peace Index | Not ranked (GPI, small state) | unsourced/unverified |
+| Safety | US travel advisory | Level 1: Exercise normal precautions (2024) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/antigua-and-barbuda-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains tax varies (PwC) | [source](https://taxsummaries.pwc.com/antigua-and-barbuda) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules | [source](https://taxsummaries.pwc.com/antigua-and-barbuda) — soft/estimate |
+| Business | Company setup | ~19 days; cost ~10% GNI per capita (WB Doing Business) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/antigua-and-barbuda) — soft/estimate |
+| Business | Corporate tax | 25% (standard rate) | [source](https://taxsummaries.pwc.com/antigua-and-barbuda) — soft/estimate |
+| Family & education | Top university | University of the West Indies (Open Campus); not QS ranked | [source](https://www.topuniversities.com/world-university-rankings) — hard/official |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens up to 180 days (as of 2025) | [source](https://embassies.net/russia-passport-visa-free-countries) — soft/estimate |
+| For Russian citizens | Sanctions position | Generally aligned with UN positions; CBI program under scrutiny | unsourced/unverified |
+| Quality of life | World Happiness rank | Not ranked (World Happiness Report, small state) | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | Not listed (Expat Insider) | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI not ranked; English is the official language | [source](https://www.ef.com/wwen/epi/) — soft/estimate |
 
 ## Country Card
 

@@ -2,6 +2,7 @@
 title: Albania — Albania
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, tax, digital-nomad]
 category: it_friendly
@@ -150,6 +151,68 @@ Albania is an up-and-coming destination, particularly among digital nomads attra
 | Freedom House score (2025) | 68/100 — Partly Free | ^[https://freedomhouse.org/country/albania/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,500 (Tirana / coast) | ^[https://en.wikipedia.org/wiki/Tirana#Climate] hard/official |
 | Average annual temperature | ~16°C (Tirana / coast) | ^[https://en.wikipedia.org/wiki/Tirana#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 53/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 28 750 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=AL) — hard/official |
+| Geography & size | Population density | 87 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=AL) — hard/official |
+| Geography & size | Urban population | 59% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=AL) — hard/official |
+| Geography & size | Coastline | 362 km (CIA World Factbook) | [source](https://www.cia.gov/the-world-factbook/countries/albania/) — hard/official |
+| Geography & size | Highest point | Mount Korab, 2,764 m | [source](https://en.wikipedia.org/wiki/Geography_of_Albania) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Albania) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 summer; Moscow -2h | [source](https://en.wikipedia.org/wiki/Time_in_Albania) — soft/estimate |
+| Climate | Avg precipitation | 1485 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=AL) — hard/official |
+| Climate | PM2.5 exposure | 15.5 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=AL) — hard/official |
+| Climate | Climate zone | Mediterranean (Csa, Csb) and oceanic (Cfb) in mountains | [source](https://en.wikipedia.org/wiki/Climate_of_Albania) — soft/estimate |
+| Climate | Temp winter / summer | Tirana: Jan avg 7°C, Jul avg 24°C | [source](https://en.wikipedia.org/wiki/Tirana#Climate) — soft/estimate |
+| Climate | Rainy days | ~120 days/year (Tirana) | [source](https://en.wikipedia.org/wiki/Tirana#Climate) — soft/estimate |
+| Climate | Humidity | ~67% avg annual (Tirana) | [source](https://en.wikipedia.org/wiki/Tirana#Climate) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, floods; INFORM Risk 2024 rank 77 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | 16.4 µg/m³ PM2.5 annual mean (IQAir 2023) | [source](https://www.iqair.com/world-most-polluted-countries) — soft/estimate |
+| Economy | GDP (nominal) | $30.5B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AL) — hard/official |
+| Economy | GDP growth | 3.8% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=AL) — hard/official |
+| Economy | Inflation (CPI) | 2.1% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=AL) — hard/official |
+| Economy | Unemployment | 10.9% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=AL) — hard/official |
+| Economy | Central govt debt | 50% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=AL) — hard/official |
+| Economy | Gini index | 29.4 (2020) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=AL) — hard/official |
+| Economy | Tourism receipts | 36% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=AL) — hard/official |
+| Economy | Remittances | 8.4% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=AL) — hard/official |
+| Economy | Credit rating | S&P BB (3/2025), Moody's Ba3 (10/2024) | [source](https://www.theglobaleconomy.com/Albania/credit_rating) — soft/estimate |
+| Economy | Currency | ALL (Albanian Lek), floating; ~-25% vs USD 2020-2025 | [source](https://www.xe.com/currencycharts/?from=USD&to=ALL) — soft/estimate |
+| Economy | Top industries | Services 47.3%, Industry 24.2%, Agriculture 18.6% (2022) | [source](https://en.wikipedia.org/wiki/Economy_of_Albania) — soft/estimate |
+| Economy | Economic Complexity | ECI ranking not in top 100 (atlas.hks.harvard.edu) | [source](https://atlas.hks.harvard.edu/rankings) — soft/estimate |
+| Technology | Internet users | 86% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=AL) — hard/official |
+| Technology | Fixed broadband subs | 24.9 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=AL) — hard/official |
+| Technology | High-tech exports | 1.5% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=AL) — hard/official |
+| Technology | R&D spend | 0.20% of GDP (2022) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=AL) — hard/official |
+| Technology | Global Innovation Index | 67 (GII 2025) | [source](https://www.wipo.int/gii-ranking/en/albania) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.7721, rank 63 (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/3-Albania) — hard/official |
+| Technology | Median broadband speed | 209.15 Mbps fixed broadband, rank 27 (Ookla Global Index) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G launched 2022, coverage in major cities (Vodafone, One) | [source](https://www.itu.int/en/ITU-D/Regional-Presence/Europe/) — soft/estimate |
+| Technology | Online payments | Stripe not available; PayPal available for sending | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Rank 93 (StartupBlink 2024) | [source](https://www.startupblink.com/startup-ecosystem/albania) — soft/estimate |
+| Human development & health | Life expectancy | 79.8 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AL) — hard/official |
+| Human development & health | Hospital beds | 2.9 per 1000 (2020) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=AL) — hard/official |
+| Human development & health | HDI | 0.791, rank 81 (UNDP HDI 2023) | [source](https://worldpopulationreview.com/country-rankings/hdi-by-country) — soft/estimate |
+| Safety | Global Peace Index | Score 1.809, rank 42 of 163 (GPI 2024) | [source](https://countryeconomy.com/demography/global-peace-index/albania) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise increased caution (12/31/2024) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains 15% (PwC) | [source](https://taxsummaries.pwc.com/albania) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (PwC Tax Summaries) | [source](https://taxsummaries.pwc.com/albania) — soft/estimate |
+| Business | Company setup | 4.5 days, cost ~€0 (electronic registration) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/albania) — soft/estimate |
+| Business | Corporate tax | 15% (Jan 2026, PwC) | [source](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/countrytaxrates.html) — soft/estimate |
+| Family & education | Top university | University of Tirana; not ranked in QS top 1500 | [source](https://www.topuniversities.com/world-university-rankings) — hard/official |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens up to 90 days (as of 2025) | [source](https://embassies.net/russia-passport-visa-free-countries) — soft/estimate |
+| For Russian citizens | Sanctions position | Aligned with EU sanctions against Russia (EU candidate) | [source](https://enlargement.ec.europa.eu/document/download/a8eec3f9-b2ec-4cb1-8748-9058854dbc68_en) — hard/official |
+| Quality of life | World Happiness rank | Rank 87 (World Happiness Report 2025) | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | Rank 47 (Expat Insider 2023) | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 43, Moderate proficiency; English not widely spoken | [source](https://www.ef.com/wwen/epi/) — soft/estimate |
 
 ## Country Card
 

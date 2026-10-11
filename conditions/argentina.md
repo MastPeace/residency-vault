@@ -2,6 +2,7 @@
 title: Argentina — Residency & Citizenship Conditions
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, digital-nomad, rentista, investment, mercosur]
 category: multi
@@ -159,6 +160,68 @@ Argentina's 2-year citizenship timeline is among the fastest globally and is the
 | Freedom House score | 85/100 (Free) | [Freedom House](https://freedomhouse.org/country/argentina/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,500 h (Buenos Aires) | [Current Results](https://www.currentresults.com/Weather/Argentina/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~18 °C (Buenos Aires); wide range from subtropical north to subpolar south | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/argentina/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 2 780 400 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=AR) — hard/official |
+| Geography & size | Population density | 17 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=AR) — hard/official |
+| Geography & size | Urban population | 92% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=AR) — hard/official |
+| Geography & size | Coastline | 4,989 km (CIA World Factbook) | [source](https://www.cia.gov/the-world-factbook/countries/argentina/) — hard/official |
+| Geography & size | Highest point | Aconcagua, 6,961 m (highest in Western Hemisphere) | [source](https://en.wikipedia.org/wiki/Geography_of_Argentina) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Argentina) — soft/estimate |
+| Geography & size | Time zone | UTC-3 (ART); Moscow -6h | [source](https://en.wikipedia.org/wiki/Time_in_Argentina) — soft/estimate |
+| Climate | Avg precipitation | 591 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=AR) — hard/official |
+| Climate | PM2.5 exposure | 14.3 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=AR) — hard/official |
+| Climate | Climate zone | Varied: humid subtropical (Cfa), arid (BWk), oceanic (Cfb), subpolar (Cfc) | [source](https://en.wikipedia.org/wiki/Climate_of_Argentina) — soft/estimate |
+| Climate | Temp winter / summer | Buenos Aires: Jan avg 25°C, Jul avg 11°C | [source](https://en.wikipedia.org/wiki/Buenos_Aires#Climate) — soft/estimate |
+| Climate | Rainy days | ~90 days/year (Buenos Aires) | [source](https://en.wikipedia.org/wiki/Buenos_Aires#Climate) — soft/estimate |
+| Climate | Humidity | ~73% avg annual (Buenos Aires) | [source](https://en.wikipedia.org/wiki/Buenos_Aires#Climate) — soft/estimate |
+| Climate | Natural hazards | Floods, earthquakes, volcanic activity; INFORM Risk 2024 rank 89 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | 12.5 µg/m³ PM2.5 annual mean (IQAir 2023) | [source](https://www.iqair.com/world-most-polluted-countries) — soft/estimate |
+| Economy | GDP (nominal) | $683.1B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AR) — hard/official |
+| Economy | GDP growth | 4.4% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=AR) — hard/official |
+| Economy | Inflation (CPI) | 219.9% (2024) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=AR) — hard/official |
+| Economy | Unemployment | 7.1% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=AR) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 42.4 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=AR) — hard/official |
+| Economy | Tourism receipts | 3% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=AR) — hard/official |
+| Economy | Remittances | 0.1% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=AR) — hard/official |
+| Economy | Credit rating | Fitch B- (5/2026), outlook stable; S&P CCC+ (2024) | [source](https://www.fitchratings.com/research/sovereigns/fitch-upgrades-argentina-to-b-outlook-stable-05-05-2026) — hard/official |
+| Economy | Currency | ARS (Argentine Peso), floating; ~-90% vs USD 2020-2025 | [source](https://www.xe.com/currencycharts/?from=USD&to=ARS) — soft/estimate |
+| Economy | Top industries | Services ~62%, industry ~25%, agriculture ~7% (2023) | [source](https://en.wikipedia.org/wiki/Economy_of_Argentina) — soft/estimate |
+| Economy | Economic Complexity | ECI ranking not in top 133 (Atlas) | [source](https://atlas.hks.harvard.edu/rankings) — soft/estimate |
+| Technology | Internet users | 90% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=AR) — hard/official |
+| Technology | Fixed broadband subs | 26.1 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=AR) — hard/official |
+| Technology | High-tech exports | 3.9% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=AR) — hard/official |
+| Technology | R&D spend | 0.60% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=AR) — hard/official |
+| Technology | Global Innovation Index | 77 (GII 2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.7868, rank 55 (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/9-Argentina) — hard/official |
+| Technology | Median broadband speed | ~120 Mbps fixed broadband (Ookla Argentina H2 2025 report) | [source](https://www.ookla.com/research/reports/argentina-speedtest-connectivity-report-h2-2025) — hard/official |
+| Technology | 5G | 5G launched 2023, expanding coverage (Movistar, Personal, Claro) | [source](https://www.itu.int/en/ITU-D/Regional-Presence/Americas/) — soft/estimate |
+| Technology | Online payments | Stripe available in Argentina; PayPal available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Rank 35 (StartupBlink 2024) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 77.5 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AR) — hard/official |
+| Human development & health | Hospital beds | 3.4 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=AR) — hard/official |
+| Human development & health | HDI | 0.856, rank 48 (UNDP HDI 2023) | [source](https://worldpopulationreview.com/country-rankings/hdi-by-country) — soft/estimate |
+| Safety | Global Peace Index | Score 1.855, rank 47 of 163 (GPI 2024) | [source](https://countryeconomy.com/demography/global-peace-index/argentina) — soft/estimate |
+| Safety | US travel advisory | Level 1: Exercise normal precautions (2024) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Argentina.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | Wealth tax 0.5-1.75% on assets; no inheritance tax; capital gains 15% (PwC) | [source](https://taxsummaries.pwc.com/argentina) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply (PwC) | [source](https://taxsummaries.pwc.com/argentina) — soft/estimate |
+| Business | Company setup | ~11.5 days; cost ~5% GNI per capita (WB Doing Business) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/argentina) — soft/estimate |
+| Business | Corporate tax | 35% (Jan 2026, PwC); progressive 25-35% | [source](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/countrytaxrates.html) — soft/estimate |
+| Family & education | Top university | Universidad de Buenos Aires (UBA), QS rank ~71 (2025) | [source](https://www.topuniversities.com/world-university-rankings) — hard/official |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens up to 90 days (as of 2025) | [source](https://embassies.net/russia-passport-visa-free-countries) — soft/estimate |
+| For Russian citizens | Sanctions position | Not aligned with Western sanctions; maintains ties with Russia | [source](https://www.cancilleria.gob.ar/en/news/newsletter/official-visit-argentine-president-russian-federation) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 42 (World Happiness Report 2025) | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | Rank 24 (Expat Insider 2023) | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 27, High proficiency; Spanish dominant | [source](https://www.ef.com/wwen/epi/) — soft/estimate |
 
 ## Country Card
 

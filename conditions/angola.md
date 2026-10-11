@@ -2,6 +2,7 @@
 title: Angola — Republic of Angola
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, employment_residency, investment_residency, tax]
 category: clear_pathway
@@ -98,6 +99,68 @@ Very little English-language expat forum data. The expat presence is concentrate
 | Freedom House score | 28/100 — Not Free (2025) | ^[https://freedomhouse.org/country/angola/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,900 h (Luanda) | ^[https://en.climate-data.org/africa/angola/luanda/luanda-540/] hard/official |
 | Average annual temperature | ~24 °C (Luanda, tropical) | ^[https://en.climate-data.org/africa/angola/luanda/luanda-540/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 1 246 700 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=AO) — hard/official |
+| Geography & size | Population density | 30 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=AO) — hard/official |
+| Geography & size | Urban population | 71% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=AO) — hard/official |
+| Geography & size | Coastline | 1,600 km (CIA World Factbook) | [source](https://www.cia.gov/the-world-factbook/countries/angola/) — hard/official |
+| Geography & size | Highest point | Mount Moco, 2,620 m | [source](https://en.wikipedia.org/wiki/Geography_of_Angola) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Angola) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (WAT); Moscow -2h | [source](https://en.wikipedia.org/wiki/Time_in_Angola) — soft/estimate |
+| Climate | Avg precipitation | 1010 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=AO) — hard/official |
+| Climate | PM2.5 exposure | 19.9 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=AO) — hard/official |
+| Climate | Climate zone | Tropical savanna (Aw) north, hot semi-arid (BSh) south | [source](https://en.wikipedia.org/wiki/Geography_of_Angola) — soft/estimate |
+| Climate | Temp winter / summer | Luanda: Jan avg 27°C, Jul avg 21°C | [source](https://en.wikipedia.org/wiki/Luanda#Climate) — soft/estimate |
+| Climate | Rainy days | ~40 days/year (Luanda) | [source](https://en.wikipedia.org/wiki/Luanda#Climate) — soft/estimate |
+| Climate | Humidity | ~80% avg annual (Luanda) | [source](https://en.wikipedia.org/wiki/Luanda#Climate) — soft/estimate |
+| Climate | Natural hazards | Floods, droughts, epidemics; INFORM Risk 2024 rank 44 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | 21.4 µg/m³ PM2.5 annual mean (IQAir 2023) | [source](https://www.iqair.com/world-most-polluted-countries) — soft/estimate |
+| Economy | GDP (nominal) | $122.2B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AO) — hard/official |
+| Economy | GDP growth | 3.1% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=AO) — hard/official |
+| Economy | Inflation (CPI) | 20.2% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=AO) — hard/official |
+| Economy | Unemployment | 14.1% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=AO) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 51.3 (2018) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=AO) — hard/official |
+| Economy | Tourism receipts | 0% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=AO) — hard/official |
+| Economy | Remittances | 0.0% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=AO) — hard/official |
+| Economy | Credit rating | Moody's B3 (9/2026), Fitch B- (5/2026), S&P B- (3/2026) | [source](https://www.theglobaleconomy.com/Angola/credit_rating) — soft/estimate |
+| Economy | Currency | AOA (Angolan Kwanza), floating; ~-40% vs USD 2020-2025 | [source](https://en.wikipedia.org/wiki/Angolan_kwanza) — soft/estimate |
+| Economy | Top industries | Oil & gas ~30% GDP, agriculture ~10%, services ~29% | [source](https://en.wikipedia.org/wiki/Economy_of_Angola) — soft/estimate |
+| Economy | Economic Complexity | ECI ranking not in top 133 (Atlas) | [source](https://atlas.hks.harvard.edu/rankings) — soft/estimate |
+| Technology | Internet users | 41% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=AO) — hard/official |
+| Technology | Fixed broadband subs | 0.4 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=AO) — hard/official |
+| Technology | High-tech exports | 16.7% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=AO) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | Not in GII top 132 (2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.3930, rank 157 (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/6-Angola) — hard/official |
+| Technology | Median broadband speed | Not in Ookla Global Index top 100; ~25 Mbps estimated | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | No commercial 5G (as of 2024) | [source](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/) — soft/estimate |
+| Technology | Online payments | Stripe not available; PayPal restricted | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Rank 152 (StartupBlink 2024) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 64.8 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AO) — hard/official |
+| Human development & health | Hospital beds | 0.8 per 1000 (2019) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=AO) — hard/official |
+| Human development & health | HDI | 0.616, rank 148 (UNDP HDI 2023) | [source](https://worldpopulationreview.com/country-rankings/hdi-by-country) — soft/estimate |
+| Safety | Global Peace Index | Score 2.043, rank 73 of 163 (GPI 2024) | [source](https://countryeconomy.com/demography/global-peace-index/angola) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise increased caution (crime, health, landmines) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Angola.html) — hard/official |
+| Money & tax | FATF status | On FATF grey list (increased monitoring) (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains 10% (PwC) | [source](https://taxsummaries.pwc.com/angola) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules | [source](https://taxsummaries.pwc.com/angola) — soft/estimate |
+| Business | Company setup | ~36 days; cost ~11% GNI per capita (WB Doing Business) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/angola) — soft/estimate |
+| Business | Corporate tax | 25% (Jan 2026, PwC) | [source](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/countrytaxrates.html) — soft/estimate |
+| Family & education | Top university | Agostinho Neto University; not in QS top 1500 | [source](https://www.topuniversities.com/world-university-rankings) — hard/official |
+| Connectivity | Visa-free for Russians | Visa on arrival/eVisa for Russian citizens (30 days, 2025) | [source](https://embassies.net/russia-passport-visa-free-countries) — soft/estimate |
+| For Russian citizens | Sanctions position | Neutral stance; maintains relations with Russia | [source](https://www.gov.ao/) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 127 (World Happiness Report 2025) | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | Not listed (Expat Insider) | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 95, Very low proficiency; Portuguese official | [source](https://www.ef.com/wwen/epi/) — soft/estimate |
 
 ## Country Card
 

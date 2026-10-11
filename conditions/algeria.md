@@ -2,6 +2,7 @@
 title: Algeria — People's Democratic Republic of Algeria
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, tax]
 category: multi
@@ -137,6 +138,68 @@ Algeria is effectively closed to individual residency seekers. There are no inve
 | Freedom House score | 31/100 — Not Free (2025) | ^[https://freedomhouse.org/country/algeria/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,800 (coastal); ~3,500 (Sahara) | ^[https://weatherspark.com/countries/DZ] hard/official |
 | Average annual temperature | ~18°C (coastal); hotter inland | ^[https://weatherspark.com/countries/DZ] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 49/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 2 381 740 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=DZ) — hard/official |
+| Geography & size | Population density | 20 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=DZ) — hard/official |
+| Geography & size | Urban population | 76% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=DZ) — hard/official |
+| Geography & size | Coastline | 998 km (CIA World Factbook) | [source](https://www.cia.gov/the-world-factbook/countries/algeria/) — hard/official |
+| Geography & size | Highest point | Mount Tahat, 2,908 m | [source](https://en.wikipedia.org/wiki/Geography_of_Algeria) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Algeria) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET); Moscow -2h | [source](https://en.wikipedia.org/wiki/Time_in_Algeria) — soft/estimate |
+| Climate | Avg precipitation | 89 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=DZ) — hard/official |
+| Climate | PM2.5 exposure | 16.5 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=DZ) — hard/official |
+| Climate | Climate zone | Mediterranean (Csa) coast, hot desert (BWh) south | [source](https://en.wikipedia.org/wiki/Geography_of_Algeria#Climate_and_hydrology) — soft/estimate |
+| Climate | Temp winter / summer | Algiers: Jan avg 11°C, Jul avg 26°C | [source](https://en.wikipedia.org/wiki/Algiers#Climate) — soft/estimate |
+| Climate | Rainy days | ~80 days/year (Algiers) | [source](https://en.wikipedia.org/wiki/Algiers#Climate) — soft/estimate |
+| Climate | Humidity | ~76% avg annual (Algiers) | [source](https://en.wikipedia.org/wiki/Algiers#Climate) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, droughts, floods; INFORM Risk 2024 rank 68 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | 23.1 µg/m³ PM2.5 annual mean (IQAir 2023) | [source](https://www.iqair.com/world-most-polluted-countries) — soft/estimate |
+| Economy | GDP (nominal) | $287.0B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DZ) — hard/official |
+| Economy | GDP growth | 3.8% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=DZ) — hard/official |
+| Economy | Inflation (CPI) | 1.4% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=DZ) — hard/official |
+| Economy | Unemployment | 11.6% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=DZ) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 0% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=DZ) — hard/official |
+| Economy | Remittances | 0.6% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=DZ) — hard/official |
+| Economy | Credit rating | Not currently rated by S&P/Moody's/Fitch | [source](https://www.theglobaleconomy.com/Algeria/credit_rating) — soft/estimate |
+| Economy | Currency | DZD (Algerian Dinar), managed float; ~-15% vs USD 2020-2025 | [source](https://www.xe.com/currencycharts/?from=USD&to=DZD) — soft/estimate |
+| Economy | Top industries | Hydrocarbons 30%, services 39%, industry 19% (2023) | [source](https://en.wikipedia.org/wiki/Economy_of_Algeria) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 98 of 133, ECI -0.65 (Atlas 2023) | [source](https://atlas.hks.harvard.edu/rankings) — soft/estimate |
+| Technology | Internet users | 77% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=DZ) — hard/official |
+| Technology | Fixed broadband subs | 13.3 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=DZ) — hard/official |
+| Technology | High-tech exports | No reliable data | — |
+| Technology | R&D spend | 0.44% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=DZ) — hard/official |
+| Technology | Global Innovation Index | 115 (GII 2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.5611, rank 116 (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/4-Algeria) — hard/official |
+| Technology | Median broadband speed | 176.55 Mbps fixed broadband, rank 43 (Ookla Global Index) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G launched 2023, limited coverage (Mobilis, Djezzy, Ooredoo) | [source](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/) — soft/estimate |
+| Technology | Online payments | Stripe not available; PayPal restricted | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Rank 115 (StartupBlink 2024) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 76.5 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=DZ) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | 0.763, rank 91 (UNDP HDI 2023) | [source](https://worldpopulationreview.com/country-rankings/hdi-by-country) — soft/estimate |
+| Safety | Global Peace Index | Score 2.110, rank 90 of 163 (GPI 2024) | [source](https://countryeconomy.com/demography/global-peace-index/algeria) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise increased caution (09/26/2024) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 0-5%; capital gains 15% (PwC) | [source](https://taxsummaries.pwc.com/algeria) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules | [source](https://taxsummaries.pwc.com/algeria) — soft/estimate |
+| Business | Company setup | ~20 days; cost ~14% GNI per capita (WB Doing Business) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/algeria) — soft/estimate |
+| Business | Corporate tax | 26% (standard), 19% (manufacturing) | [source](https://taxsummaries.pwc.com/algeria) — soft/estimate |
+| Family & education | Top university | University of Algiers; not in QS top 1500 | [source](https://www.topuniversities.com/world-university-rankings) — hard/official |
+| Connectivity | Visa-free for Russians | Visa required for Russian citizens (as of 2025) | [source](https://embassies.net/russia-passport-visa-free-countries) — soft/estimate |
+| For Russian citizens | Sanctions position | Not aligned with Western sanctions; maintains ties with Russia | [source](https://www.congress.gov/crs_external_products/IF/PDF/IF11116/IF11116.21.pdf) — hard/official |
+| Quality of life | World Happiness rank | Rank 85 (World Happiness Report 2025) | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | Not listed (Expat Insider) | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 72, Low proficiency; French/Arabic dominant | [source](https://www.ef.com/wwen/epi/) — soft/estimate |
 
 ## Country Card
 
