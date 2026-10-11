@@ -12,6 +12,7 @@ sources:
   - https://msingermany.com/blog/german-citizenship-2026-explained
   - https://www.make-it-in-germany.com/
 country_code: DE
+last_checked: 2026-10-05
 ---
 
 ## Overview

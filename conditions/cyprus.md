@@ -11,6 +11,7 @@ sources:
   - https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127
   - https://philippoulaw.com/articles/how-to-obtain-a-cyprus-citizenship
 country_code: CY
+last_checked: 2026-10-05
 ---
 
 ## Overview

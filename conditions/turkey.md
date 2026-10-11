@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Turkish_Citizenship_by_Investment
   - https://www.invest.gov.tr/en/news/news-from-turkey/pages/new-turkish-citizenship-rules-encourage-foreign-investment.aspx
 country_code: TR
+last_checked: 2026-10-05
 ---
 
 ## Overview

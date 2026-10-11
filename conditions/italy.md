@@ -12,6 +12,7 @@ sources:
   - https://getgoldenvisa.com/italy-golden-visa
   - https://consperth.esteri.it/wp-content/uploads/2026/07/Digital-Nomads.pdf
 country_code: IT
+last_checked: 2026-10-05
 ---
 
 ## Overview

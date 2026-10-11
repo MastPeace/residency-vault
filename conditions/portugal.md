@@ -12,6 +12,7 @@ sources:
   - https://getgoldenvisa.com/portugal-golden-visa-program
   - https://www.globalcitizensolutions.com/portugal-golden-visa-changes
 country_code: PT
+last_checked: 2026-10-05
 ---
 
 ## Overview

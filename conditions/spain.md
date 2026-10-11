@@ -12,6 +12,7 @@ sources:
   - https://www.expatfy.es/en/blog/spain-digital-nomad-visa-income-requirements
   - https://www.immigrationspain.es/en/financial-requirements-non-lucrative-visa
 country_code: ES
+last_checked: 2026-10-05
 ---
 
 ## Overview

@@ -12,6 +12,7 @@ sources:
   - https://www.deloitte.com/nl/en/services/tax/perspectives/highly-skilled-migrant-and-european-blue-card-2026-salary-thresholds.html
   - https://dutchreview.com/expat/daft-treaty-explainer
 country_code: NL
+last_checked: 2026-10-05
 ---
 
 ## Overview

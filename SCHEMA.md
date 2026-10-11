@@ -54,7 +54,8 @@ write "Not available" — do not omit the row.
 ---
 title: Country — Name
 created: YYYY-MM-DD
-updated: YYYY-MM-DD
+updated: YYYY-MM-DD        # last CONTENT change (delta: bumped only on edit)
+last_checked: YYYY-MM-DD   # last MONITOR pass that queried this country (set by stamp_last_checked.py)
 type: entity
 tags: [residence, citizenship, tax]
 category: strong_passport | it_friendly | yacht_captain | popular_ru | multi
@@ -63,6 +64,10 @@ sources: [raw/articles/<source>.md]
 country_code: XX
 ---
 ```
+`updated` and `last_checked` are different signals: `updated` = when the page's
+facts last changed; `last_checked` = when the weekly monitor last queried the
+country (may be newer than `updated`, set even when nothing changed). The static
+site renders both.
 
 ## Country Page Structure (conditions/<country>.md)
 Fixed sections, in order. Numbers carry provenance.

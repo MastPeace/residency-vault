@@ -12,6 +12,7 @@ sources:
   - https://legalclarity.org/serbia-citizenship-requirements-descent-and-naturalization
   - https://www.globalcitizensolutions.com/serbia-residence-permit
 country_code: RS
+last_checked: 2026-10-05
 ---
 
 ## Overview

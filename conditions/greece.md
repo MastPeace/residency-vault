@@ -11,6 +11,7 @@ sources:
   - https://harveylawcorporation.com/greek-golden-visa-new-regulations
   - https://www.globalcitizensolutions.com/greek-dual-citizenship
 country_code: GR
+last_checked: 2026-10-05
 ---
 
 ## Overview

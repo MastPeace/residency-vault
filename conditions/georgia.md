@@ -12,6 +12,7 @@ sources:
   - https://globaltaxnews.ey.com/news/2026-0456-georgia-to-introduce-new-work-authorization-and-visa-and-residence-permit-requirements-for-foreign-workers
   - https://pbservices.ge/services/individual-entrepreneur-georgia
 country_code: GE
+last_checked: 2026-10-05
 ---
 
 ## Overview

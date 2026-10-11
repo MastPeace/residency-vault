@@ -11,6 +11,7 @@ sources:
   - https://www.citizensinformation.ie/en/moving-country/moving-to-ireland/rights-of-residence-in-ireland/types-residence-permission-non-eea-nationals
   - https://www.gov.ie/en/department-of-enterprise-tourism-and-employment/publications/critical-skills-employment-permits
 country_code: IE
+last_checked: 2026-10-05
 ---
 
 ## Overview

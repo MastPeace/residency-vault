@@ -114,8 +114,12 @@ collect → analyze (v4-pro) → validate → update DB (deltas) → push → si
 4. **Update DB** — each validated item is matched to the correct country page + canonical
    type. If the fact is new/different → update, bump `updated`, add `Status` line, log.
    If identical → no change (anti-duplicate).
-5. **Push** — `scripts/auto-sync.sh` commits and pushes to GitHub.
-6. **Site rebuild** — `.github/workflows/gh-pages.yml` auto-deploys on every push.
+5. **Stamp freshness** — `stamp_last_checked.py` writes `last_checked` (frontmatter)
+   and `Last monitored` (Status) on every country the run actually queried, so the
+   site shows both **Updated** (last content change) and **Checked** (last monitor
+   pass) — see `SCHEMA.md`.
+6. **Push** — `scripts/auto-sync.sh` commits and pushes to GitHub.
+7. **Site rebuild** — `.github/workflows/gh-pages.yml` auto-deploys on every push.
 
 The pipeline recipe lives at:
 `~/.hermes/skills/autonomous-ai-agents/immigration-monitor/references/daily_digest.md`

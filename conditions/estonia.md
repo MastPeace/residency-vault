@@ -11,6 +11,7 @@ sources:
   - https://www.e-resident.gov.ee/nomadvisa
   - https://www.e-resident.gov.ee/es/blog/posts/estonian-startup-visa-vs-e-residency
 country_code: EE
+last_checked: 2026-10-05
 ---
 
 ## Overview

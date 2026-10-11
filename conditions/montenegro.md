@@ -13,6 +13,7 @@ sources:
   - https://www.visaverge.com/digitalnomads/montenegro-launches-digital-nomad-visa-for-remote-workers
   - https://digitalnomads.gov.me/article/legal-status-for-nomads
 country_code: ME
+last_checked: 2026-10-05
 ---
 
 ## Overview

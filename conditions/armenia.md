@@ -11,6 +11,7 @@ sources:
   - http://diaspora.gov.am/en/pages/121
   - https://en.wikipedia.org/wiki/Armenian_citizenship
 country_code: AM
+last_checked: 2026-10-05
 ---
 
 ## Overview

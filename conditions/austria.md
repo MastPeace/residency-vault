@@ -12,6 +12,7 @@ sources:
   - https://lottalingo.com/research/visas/austria-eu-blue-card
   - https://en.wikipedia.org/wiki/Austrian_nationality_law
 country_code: AT
+last_checked: 2026-10-05
 ---
 
 ## Overview

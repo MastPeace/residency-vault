@@ -5,6 +5,31 @@ All notable changes to this project are documented here. Dates are UTC.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
+
+## [2026-10-11] — Freshness signals + restored corrupted pages
+
+### Added
+- **`last_checked`** frontmatter field: date of the last monitor pass that actually
+  queried the country (set by `stamp_last_checked.py` on every weekly run, even when
+  nothing changed). Site now renders both **Updated** (content change) and **Checked**
+  (last monitor pass) on country pages.
+- `covered_<stamp>.json` written by the collector (list of countries actually queried),
+  feeding the stamp step in the weekly pipeline (`daily_digest.md` Step 5).
+
+### Fixed
+- **Japan, Singapore, South Korea, Vietnam** pages were corrupted by the 2026-09-16
+  SCHEMA v3 bulk commit (template artifact `{{existing['content']}}` replaced the full
+  content). Restored full content from git history + kept Snapshot/Card; fix noted in
+  each page's Status section.
+- Backfilled `Last monitored` / `last_checked: 2026-10-05` for the 20 countries actually
+  covered by weekly runs (the ~80 remaining countries have no keyword configs yet and
+  are honestly left un-stamped until the monitor covers them).
+
+### Notes
+- Weekly runs currently query only ~20 of 100 countries (120-query cap + 21 countries
+  with keyword configs). Pages for uncovered countries keep their seed dates — this is
+  now visible as a missing `Checked` date rather than a misleading old `Updated`.
+
 ## [2026-09-16] — Country Snapshot + Country Card (data) for all 100 countries
 
 ### Added

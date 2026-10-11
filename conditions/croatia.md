@@ -10,6 +10,7 @@ sources:
   - https://www.expatincroatia.com/apply-citizenship-croatia
   - https://mvep.gov.hr/access-to-information-81869-84055-107264-260912/consular-informations-81874-84060-107269-260917/citizenship-81889-84075-107284-260932/260932
 country_code: HR
+last_checked: 2026-10-05
 ---
 
 ## Overview

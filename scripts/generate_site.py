@@ -606,6 +606,7 @@ def collect_pages():
             "tags": frontmatter.get("tags", []),
             "confidence": frontmatter.get("confidence", ""),
             "updated": frontmatter.get("updated", ""),
+            "last_checked": frontmatter.get("last_checked", ""),
             "country_code": frontmatter.get("country_code", ""),
             "frontmatter": frontmatter,
             "body": body,
@@ -629,6 +630,7 @@ def collect_pages():
             "tags": frontmatter.get("tags", []),
             "confidence": frontmatter.get("confidence", ""),
             "updated": frontmatter.get("updated", ""),
+            "last_checked": frontmatter.get("last_checked", ""),
             "country_code": frontmatter.get("country_code", ""),
             "frontmatter": frontmatter,
             "body": body,
@@ -1117,6 +1119,8 @@ def render_page(page, sidebar_html):
         meta_parts.append(f'<div class="meta-item"><span class="meta-label">Confidence:</span><span class="tag {cls}">{html.escape(page["confidence"].upper())}</span></div>')
     if page.get("updated"):
         meta_parts.append(f'<div class="meta-item"><span class="meta-label">Updated:</span><span class="meta-value">{html.escape(page["updated"])}</span></div>')
+    if page.get("last_checked"):
+        meta_parts.append(f'<div class="meta-item"><span class="meta-label">Checked:</span><span class="meta-value">{html.escape(page["last_checked"])}</span></div>')
     if page.get("category"):
         cats = page["category"] if isinstance(page["category"], list) else [page["category"]]
         for cat in cats:

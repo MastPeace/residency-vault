@@ -11,6 +11,7 @@ sources:
   - https://www.ccmalta.com/publications/malta-golden-visa
   - https://workvisa.guide/blog/malta-golden-visa
 country_code: MT
+last_checked: 2026-10-05
 ---
 
 ## Overview

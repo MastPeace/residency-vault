@@ -11,6 +11,7 @@ sources:
   - https://migrant.poznan.uw.gov.pl/en/procedury/temporary-residence-permit-high-qualified-workers-eu-blue-card
   - https://www.gov.pl/web/mswia-en/entry-and-residence-conditions-for-foreign-nationals-in-poland
 country_code: PL
+last_checked: 2026-10-05
 ---
 
 ## Overview

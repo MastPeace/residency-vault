@@ -10,6 +10,7 @@ sources:
   - https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-czechia_en
   - https://www.mvcr.cz/mvcren/
 country_code: CZ
+last_checked: 2026-10-05
 ---
 
 ## Overview

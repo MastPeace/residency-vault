@@ -11,6 +11,7 @@ sources:
   - https://www.one-visa.com/singapore-visa-resources/singapore-permanent-resident-pr-application
   - https://tip.com.sg/resource/singapore-citizenship-guide
 country_code: SG
+last_checked: 2026-10-05
 ---
 
 ## Overview
