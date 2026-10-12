@@ -48,7 +48,7 @@ Israel's immigration system is unique: the Law of Return grants automatic citize
 - **Duration / renewal**: 12 months, renewable.
 - **Path to citizenship**: No direct path. Does not count toward permanent residency. Must transition to another track for long-term status.
 - **Official source**: Programme status: "announced" — procedures may shift.
-- **Community verdict**: Announced but not yet operational — watch for full implementation details. High income threshold ($5K/mo).
+- **Community verdict**: Announced but not yet operational — watch for full implementation details. High income threshold ($5,000/mo).
 
 ### Work Visa (B/1)
 - **Official name**: B/1 Work Visa
@@ -148,7 +148,7 @@ Israel is fundamentally a Jewish immigration country (Law of Return). For eligib
 | Median net monthly salary | ~$2,800–$3,200 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Israel] [soft/estimate] |
 | Cost of living index | 79.8 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Israel] [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~$1,300–$1,800 (Tel Aviv city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Israel] [soft/estimate] |
-| Effective personal tax rate for remote workers | ~30–50% (progressive; top bracket 50% on income above ~$180K) | ^[https://www.gov.il/en/departments/taxes] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~30–50% (progressive; top bracket 50% on income above ~$180,000) | ^[https://www.gov.il/en/departments/taxes] [soft/estimate] |
 | Remote-work / self-employment residence available? | Partially — Digital Nomad Visa announced 2026 (pending); self-employment via B/1 work visa | ^[https://www.gov.il/en/departments/topics/visas_and_residency] [soft/estimate] |
 | Years to citizenship | 3–5 years residence under Law of Return (Jewish ancestry); 5+ years naturalization for others | ^[https://www.gov.il/en/departments/population_and_immigration_authority] [soft/estimate] |
 | Maximum permitted absence during residence | Varies by visa type; typically 6 months/year | ^[https://www.gov.il/en/departments/population_and_immigration_authority] [soft/estimate] |

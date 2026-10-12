@@ -37,8 +37,8 @@ Kuwait launched a new 15-year investor residency programme in June 2026 (Cabinet
 - **Official name**: إقامة المستثمر (Investor Residency) under Law No. 116 of 2013
 - **Conditions**:
   - Investment entity must hold a valid KDIPA investment license.
-  - Minimum investment volume: KD 5,000,000 (~$16.3M). ^[https://kuwaittimes.com/article/44928/kuwait/new-regulations-for-foreign-investor-residency-permits-up-to-15-years]
-  - Minimum capital: KD 1,000,000 (~$3.26M) with proof of deposit inside Kuwait.
+  - Minimum investment volume: KD 5,000,000 (~$16,300,000). ^[https://kuwaittimes.com/article/44928/kuwait/new-regulations-for-foreign-investor-residency-permits-up-to-15-years]
+  - Minimum capital: KD 1,000,000 (~$3,260,000) with proof of deposit inside Kuwait.
   - Actual operating premises in Kuwait.
   - Compliance with Kuwaiti national employment quotas (set by KDIPA).
   - Clean criminal record, valid passport (6+ months), undertaking by entity accepting legal responsibility for documents.

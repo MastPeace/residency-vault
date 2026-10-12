@@ -29,7 +29,7 @@ St Kitts & Nevis operates the world's oldest Citizenship by Investment (CBI) pro
 | student_residency | Student visa | Enrollment in approved institution | Course duration | — |
 | family_reunification | Dependent permit | Sponsor with valid permit | Matches principal | — |
 | retired_residency | Not available | — | — | — |
-| citizenship_by_investment | CBI Programme | Donation $250K / Real Estate $325K+ | 3–6 months | [[#citizenship-by-investment]] |
+| citizenship_by_investment | CBI Programme | Donation $250,000 / Real Estate $325,000+ | 3–6 months | [[#citizenship-by-investment]] |
 
 ## Per-Program Detail
 
@@ -44,7 +44,7 @@ St Kitts & Nevis operates the world's oldest Citizenship by Investment (CBI) pro
 - **Duration / renewal**: Citizenship is immediate and irrevocable once granted. Passport renewal every 10 years. No physical presence required at any stage.
 - **Path to citizenship**: Direct citizenship upon investment — no prior residence needed. No language exam. No interview (mandatory virtual/consular interview introduced per 2024 OECS MoA).
 - **Official source**: https://ciu.gov.kn/cbi-options
-- **Community verdict**: Works well (oldest and most established CBI; price increase to $250K in 2024 aligned with OECS MoA; no residence, no visit — pure passport acquisition).
+- **Community verdict**: Works well (oldest and most established CBI; price increase to $250,000 in 2024 aligned with OECS MoA; no residence, no visit — pure passport acquisition).
 
 ## Citizenship
 - **By investment**: Immediate upon qualifying investment + due diligence. No residence required.
@@ -67,7 +67,7 @@ St Kitts & Nevis operates an international ship registry. Yacht registration ava
 - No requirement to visit or reside — fully remote acquisition.
 
 ## Community pulse
-- CBI: Mature, well-understood, predictable. Price increase to $250K (SISC) and $325K (real estate) since July 2024 under OECS MoA.
+- CBI: Mature, well-understood, predictable. Price increase to $250,000 (SISC) and $325,000 (real estate) since July 2024 under OECS MoA.
 - Work permits: employer-driven; small local labour market — limited demand.
 - No significant backlogs or systemic rejections reported.
 
@@ -119,6 +119,6 @@ St Kitts & Nevis is the smallest sovereign state in the Western Hemisphere and o
 - Naturalization without CBI takes 14 years — impractical for most
 ## Status
 - **Last monitored**: 2026-10-12
-- Last change: July 2024 — investment thresholds raised per OECS Memorandum of Agreement (SISC $250K, Real Estate $325K, Private RE $600K).
+- Last change: July 2024 — investment thresholds raised per OECS Memorandum of Agreement (SISC $250,000, Real Estate $325,000, Private RE $600,000).
 - Last monitored: 2026-09-14.
 - No open watch items.

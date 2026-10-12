@@ -14,7 +14,7 @@ last_checked: 2026-10-12
 ---
 
 ## Overview
-Haiti, the poorest country in the Western Hemisphere, has no citizenship-by-investment programme and no structured residency-by-investment route. The immigration framework is basic, focused on work permits and family reunification. Naturalisation requires five years' residence and fluency in French/Creole. The state is in prolonged crisis, with armed gangs controlling large parts of Port-au-Prince. ^[https://freedomhouse.org/country/haiti/freedom-world/2025]
+Haiti, the poorest country in the Western Hemisphere, has no citizenship-by-investment programme and no structured residency-by-investment route. The immigration framework is basic, focused on work permits and family reunification. Naturalisation requires 5 years' residence and fluency in French/Creole. The state is in prolonged crisis, with armed gangs controlling large parts of Port-au-Prince. ^[https://freedomhouse.org/country/haiti/freedom-world/2025]
 
 ## Residency Programs
 

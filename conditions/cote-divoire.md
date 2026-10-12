@@ -58,7 +58,7 @@ Côte d'Ivoire (Ivory Coast) is Francophone West Africa's largest economy and a 
 
 ## Tax
 - Residence-based taxation. Tax resident if >183 days or centre of economic interests in CI.
-- Personal income tax: progressive 1.5%–36% (top rate on XOF 155M+/yr). Lower rates compared to Senegal.
+- Personal income tax: progressive 1.5%–36% (top rate on XOF 155,000,000+/yr). Lower rates compared to Senegal.
 - Corporate tax: 25% standard.
 - VAT: 18%.
 - Payroll taxes: employer social contributions (CNPS) ~18–23%.
@@ -91,7 +91,7 @@ Visa required (e-visa or embassy). French is the working language. Abidjan has a
 | Median net monthly salary | ~$300–500 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Cote+D%27Ivoire] |
 | Cost of living index (relative) | ~37 (NYC=100) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Cote+D%27Ivoire] |
 | Monthly rent, 1‑bedroom apartment | ~$400–700 (Abidjan Plateau/Cocody expat areas) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Cote+D%27Ivoire] |
-| Effective personal tax rate for remote workers | 1.5%–36% progressive (top rate on XOF 155M+/yr) | [soft/estimate] |
+| Effective personal tax rate for remote workers | 1.5%–36% progressive (top rate on XOF 155,000,000+/yr) | [soft/estimate] |
 | Remote‑work / self‑employment residence available? | No — no dedicated digital nomad visa | |
 | Years to citizenship | 5 years continuous residence | ^[requires official confirmation — Code de la Nationalité Ivoirienne] |
 | Maximum permitted absence during residence | Not clearly defined | [soft/estimate] |

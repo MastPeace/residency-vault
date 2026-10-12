@@ -73,7 +73,7 @@ Czechia (Czech Republic) is an EU/Schengen member with the EU's lowest unemploym
 - Dual citizenship permitted since 2014
 
 ## Tax
-- Flat income tax: 15% (23% above ~CZK 1.9M/year — ~€76,000)
+- Flat income tax: 15% (23% above ~CZK 1,900,000/year — ~€76,000)
 - Social + health insurance: ~11% employee
 - Corporate tax: 21%
 - Extensive double taxation treaty network
@@ -106,7 +106,7 @@ Russian citizens need a Schengen visa. Employee Card and Blue Card routes open b
 | Median net monthly salary | ~CZK 35,000 (~€1,400) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Czech+Republic] [soft/estimate] |
 | Cost of living index (relative to NYC=100) | ~48 (Numbeo) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Czech+Republic] [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~CZK 17,500 (Prague city centre) / ~CZK 13,000 (outside) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Czech+Republic] [soft/estimate] |
-| Effective personal tax rate for remote workers | 15% flat (23% above ~CZK 1.9M) + ~11% social/health | ^[https://www.mfcr.cz/en] [soft/estimate] |
+| Effective personal tax rate for remote workers | 15% flat (23% above ~CZK 1,900,000) + ~11% social/health | ^[https://www.mfcr.cz/en] [soft/estimate] |
 | Remote-work / self-employment residence available? | Yes — Digital Nomad Programme for IT specialists; trade license (živnostenský list) for freelancers | per page residency sections |
 | Years to citizenship | ~10 years (5 years permanent residence) | ^[https://www.mvcr.cz/mvcren/] hard/official |
 | Maximum permitted absence during residence | Not explicitly stated; continuous residence required for permanent residence | per page residency sections |
@@ -118,11 +118,11 @@ Russian citizens need a Schengen visa. Employee Card and Blue Card routes open b
 
 ## Country Card
 
-Czechia is a central European EU/Schengen member with the EU's lowest unemployment rate, a strong industrial base, and a growing tech ecosystem centred on Prague and Brno. It is one of the few EU countries with a dedicated digital nomad programme for IT specialists, though this is a newer programme with limited track record. The trade license (živnostenský list) is a well-established freelancer route, complemented by the EU Blue Card for highly skilled employees. Citizenship requires about 10 years total and B1 Czech language proficiency. The 15% flat income tax rate (up to ~CZK 1.9M) makes Czechia one of the most tax-competitive EU destinations for remote workers and freelancers.
+Czechia is a central European EU/Schengen member with the EU's lowest unemployment rate, a strong industrial base, and a growing tech ecosystem centred on Prague and Brno. It is one of the few EU countries with a dedicated digital nomad programme for IT specialists, though this is a newer programme with limited track record. The trade license (živnostenský list) is a well-established freelancer route, complemented by the EU Blue Card for highly skilled employees. Citizenship requires about 10 years total and B1 Czech language proficiency. The 15% flat income tax rate (up to ~CZK 1,900,000) makes Czechia one of the most tax-competitive EU destinations for remote workers and freelancers.
 
 ### Well-known strong points
 - Dedicated Digital Nomad Programme for IT specialists — rare in the EU
-- 15% flat income tax (23% only above ~CZK 1.9M/~€76,000) — among the lowest in the EU
+- 15% flat income tax (23% only above ~CZK 1,900,000/~€76,000) — among the lowest in the EU
 - Trade license (živnostenský list) route is a well-established, popular freelancer pathway
 - Prague is a major European tech hub with strong startup ecosystem and excellent infrastructure
 - Very low unemployment rate (EU's lowest) and strong industrial/manufacturing base

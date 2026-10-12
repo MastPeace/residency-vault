@@ -56,7 +56,7 @@ Ireland is an EU member with one of the world's strongest passports and a thrivi
 
 ### Startup Entrepreneur
 - **Start-up Entrepreneur Programme (STEP)** — for founders of innovative businesses
-- **Conditions**: innovative business with high growth and export potential; funding ≥**€50,000** (from own resources, angel investors, venture capital, or state agency); business must create ≥10 jobs and €1M revenue within 3–4 years; comprehensive business plan. Application to the Irish Naturalisation and Immigration Service. ^[https://www.irishimmigration.ie/coming-to-live-in-ireland/i-want-to-start-a-business-in-ireland]
+- **Conditions**: innovative business with high growth and export potential; funding ≥**€50,000** (from own resources, angel investors, venture capital, or state agency); business must create ≥10 jobs and €1,000,000 revenue within 3–4 years; comprehensive business plan. Application to the Irish Naturalisation and Immigration Service. ^[https://www.irishimmigration.ie/coming-to-live-in-ireland/i-want-to-start-a-business-in-ireland]
 - **Duration**: 2 years, renewable
 - **Path to citizenship**: 5 years reckonable residence
 - **Official source**: ^[https://www.irishimmigration.ie/coming-to-live-in-ireland/i-want-to-start-a-business-in-ireland]
@@ -104,7 +104,7 @@ Ireland is an EU member with one of the world's strongest passports and a thrivi
 
 ## Tax
 - **Progressive income tax**: 20% up to €44,000 (single, 2026 estimate) / 40% above. USC surcharge: 0.5%–8%. PRSI: 4%–4.1%. Marginal rate ~52%.
-- **Corporate tax**: 12.5% active trading (15% for companies with >€750M revenue under OECD Pillar 2).
+- **Corporate tax**: 12.5% active trading (15% for companies with >€750,000,000 revenue under OECD Pillar 2).
 - **Non-domiciled remittance basis**: Irish residents who are NOT domiciled in Ireland are taxed on Irish-source income + foreign income ONLY if remitted to Ireland. This is a significant advantage for wealthy non-Irish-domiciled residents. No remittance charge. ^[https://www.rbk.ie/insight/remittance-basis-whats-it-all-about]
 - **No wealth tax**.
 - **VAT**: 23% standard.
@@ -141,7 +141,7 @@ Irish visas for Russian citizens are available but processing may be delayed. No
 | Median net monthly salary | ~€3,000 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ireland] [soft/estimate] |
 | Cost of living index (relative to NYC=100) | ~73 (Numbeo) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ireland] [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~€1,600 (city centre) / ~€1,300 (outside) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ireland] [soft/estimate] |
-| Effective personal tax rate for remote workers | ~20% up to €44K / 40% above + USC + PRSI (~52% marginal); non-dom remittance basis available | ^[https://www.rbk.ie/insight/remittance-basis-whats-it-all-about] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~20% up to €44,000 / 40% above + USC + PRSI (~52% marginal); non-dom remittance basis available | ^[https://www.rbk.ie/insight/remittance-basis-whats-it-all-about] [soft/estimate] |
 | Remote-work / self-employment residence available? | No dedicated visa; Critical Skills + Stamp 4 path for IT workers | per page residency sections |
 | Years to citizenship | 5 years (reckonable residence) | ^[https://www.irishimmigration.ie/how-to-become-a-citizen] hard/official |
 | Maximum permitted absence during residence | 6 weeks per year allowed for reckonable residence; 1 year continuous before application | per page residency sections |

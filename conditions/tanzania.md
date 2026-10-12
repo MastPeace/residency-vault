@@ -58,7 +58,7 @@ Tanzania offers two main residence permit classes: Class A (investors/self-emplo
 
 ## Tax
 - Residence-based taxation. Tax resident if >183 days or permanent home in Tanzania.
-- Personal income tax: progressive 9%–30% (top rate on TZS 8.4M+/month).
+- Personal income tax: progressive 9%–30% (top rate on TZS 8,400,000+/month).
 - Corporate tax: 30%.
 - VAT: 18%.
 - Zanzibar has separate tax treatment in some respects.
@@ -91,7 +91,7 @@ Visa on arrival or eVisa for Russian citizens (90 days tourist). Tanzania is a p
 | Median net monthly salary | ~$250–350 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Tanzania] |
 | Cost of living index (relative) | ~30 (NYC=100) — 64% lower than US | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Tanzania] |
 | Monthly rent, 1‑bedroom apartment | ~$200–400 (Dar es Salaam) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Tanzania] |
-| Effective personal tax rate for remote workers | 9%–30% progressive (top rate on TZS 8.4M+/mo) | [soft/estimate] |
+| Effective personal tax rate for remote workers | 9%–30% progressive (top rate on TZS 8,400,000+/mo) | [soft/estimate] |
 | Remote‑work / self‑employment residence available? | No — no dedicated digital nomad visa | |
 | Years to citizenship | Citizenship by presidential grant only — extremely rare; no standard naturalisation | ^[https://www.immigration.go.tz] |
 | Maximum permitted absence during residence | — (citizenship not a realistic path) | |
@@ -110,7 +110,7 @@ The United Republic of Tanzania, formed by the union of Tanganyika and Zanzibar,
 - World-class safari tourism and Zanzibar's cultural appeal
 - Swahili is a unifying national language spoken across the population
 - Low cost of living by global standards
-- Class A investor permits available (USD 100K+ via TIC)
+- Class A investor permits available (USD 100,000+ via TIC)
 - Zanzibar operates a separate immigration regime, offering additional flexibility
 
 ### Well-known problems

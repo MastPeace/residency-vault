@@ -53,7 +53,7 @@ Armenia offers accessible residence permits and a relatively short path to citiz
 - **Duration / renewal**: Up to 1 year, renewable.
 - **Path to citizenship**: 3 years (current) / 5 years (proposed).
 - **Official source**: [MFA Armenia — Residency](https://mfa.am/en/residency)
-- **Community verdict**: Works well — IE registration is straightforward. Growing IT sector makes this route practical. New thresholds (AMD 2M/1M) are low by international standards.
+- **Community verdict**: Works well — IE registration is straightforward. Growing IT sector makes this route practical. New thresholds (AMD 2,000,000/1M) are low by international standards.
 
 ### Student Residency
 
@@ -92,7 +92,7 @@ Armenia offers accessible residence permits and a relatively short path to citiz
 
 Armenia does not have a formal [[digital-nomad-visa|digital nomad visa]] visa. However, the growing IT sector, accessible IE registration, and residence permits based on business activity make it practical for remote workers. The country's tech sector is expanding, and the low cost of living is attractive.
 
-**November 1, 2026 reforms** (comprehensive): all residence permit applications fully digitalized via new electronic system (migration.e-gov.am and EarlyOne cease). Work visa system introduced; labor market testing abolished; foreign worker quotas introduced; business residence requires AMD 2M investment or IE with 1M AMD turnover; employer change notification mandatory within 15 business days; absence from Armenia >183 days in rolling 365 days must be notified. ^[https://www.fragomen.com/insights/armenia-significant-immigration-law-reforms-forthcoming.html] ^[https://arka.am/en/news/politics/residence-permit-application-in-armenia-will-be-fully-online-starting-november-1]
+**November 1, 2026 reforms** (comprehensive): all residence permit applications fully digitalized via new electronic system (migration.e-gov.am and EarlyOne cease). Work visa system introduced; labor market testing abolished; foreign worker quotas introduced; business residence requires AMD 2,000,000 investment or IE with 1M AMD turnover; employer change notification mandatory within 15 business days; absence from Armenia >183 days in rolling 365 days must be notified. ^[https://www.fragomen.com/insights/armenia-significant-immigration-law-reforms-forthcoming.html] ^[https://arka.am/en/news/politics/residence-permit-application-in-armenia-will-be-fully-online-starting-november-1]
 
 **Visa exemption extension** (Jul 1, 2026–Jul 1, 2027): nationals of 111 countries holding a valid residence permit from the US, EU, Schengen, UAE, Bahrain, Qatar, Saudi Arabia, Kuwait, or Oman can enter Armenia visa-free for up to 180 days per year.
 
@@ -111,8 +111,8 @@ Expats report Armenia as welcoming and affordable. Yerevan has a growing interna
 ## Status
 
 - **Last monitored**: 2026-10-12
-- **Recent changes**: Comprehensive immigration reform from Nov 1, 2026 (delayed from original Aug 1, 2026 deadline) — work visas, labor market test abolished, digitalization, business VNZh thresholds AMD 2M/1M, employer notification. Citizenship law amendment proposed (Sep 9, 2026) — residence requirement 3→5 years, fee increases (50K→250K AMD for application, 150K→1.5M AMD for renunciation), tightened physical presence requirements (549 days/3yr for spouses, 915 days/5yr general). Visa exemption for 111 countries extended through Jul 2027.
-- **Watch items**: Status of citizenship law amendments. Reform implementation and potential backlogs from Nov 1, 2026. CBI proposal ($150K investment → citizenship) — track government decree status.
+- **Recent changes**: Comprehensive immigration reform from Nov 1, 2026 (delayed from original Aug 1, 2026 deadline) — work visas, labor market test abolished, digitalization, business VNZh thresholds AMD 2,000,000/1M, employer notification. Citizenship law amendment proposed (Sep 9, 2026) — residence requirement 3→5 years, fee increases (50K→250K AMD for application, 150K→1.5M AMD for renunciation), tightened physical presence requirements (549 days/3yr for spouses, 915 days/5yr general). Visa exemption for 111 countries extended through Jul 2027.
+- **Watch items**: Status of citizenship law amendments. Reform implementation and potential backlogs from Nov 1, 2026. CBI proposal ($150,000 investment → citizenship) — track government decree status.
 
 ## Country Snapshot
 
@@ -210,7 +210,7 @@ Armenia is a landlocked Caucasus country of ~3.1 million, an EAEU member (not EU
 - Visa-free entry for Russian citizens (180 days); Russian widely spoken
 - Growing IT sector with special tax incentives for certified workers
 - Very low cost of living; Yerevan has a vibrant international community
-- Straightforward IE registration for residence; low investment thresholds (AMD 1–2M)
+- Straightforward IE registration for residence; low investment thresholds (AMD 1,000,000–2,000,000)
 
 ### Well-known problems
 - Extremely weak passport (~33 visa-free destinations); no Schengen access

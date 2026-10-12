@@ -50,7 +50,7 @@ Sweden is an EU/Schengen member with a strong passport and a world-class tech ec
 - **Duration**: 2 years initial (probationary), then permanent possible
 - **Path to citizenship**: 8 years
 - **Official source**: ^[https://www.migrationsverket.se/English/Private-individuals/Working-in-Sweden/Self-employed.html]
-- **Community verdict**: Mixed — substantial documentation burden; SEK 200K capital requirement is high; business viability assessment can be unpredictable
+- **Community verdict**: Mixed — substantial documentation burden; SEK 200,000 capital requirement is high; business viability assessment can be unpredictable
 
 ### Employment Residency
 - **Work permit** — standard employment route for non-EU nationals
@@ -103,7 +103,7 @@ No dedicated [[digital-nomad-visa|digital nomad visa]] visa. Sweden is one of Eu
 Sweden has one of the world's longest coastlines with extensive archipelagos (Stockholm archipelago has 30,000+ islands). Yacht registration under Swedish flag available. Major yachting hubs: Stockholm, Gothenburg, Strömstad, Marstrand. Strong sailing tradition and recognised maritime licensing.
 
 ## Notes for RU citizens
-Sweden is among the stricter EU states for Russian applicants. Full EU sanctions apply. The June 2026 citizenship tightening (8 years, language, civic test, self-sufficiency) makes long-term planning difficult. The self-employed route is accessible in principle but SEK 200K capital and the "customer network in Sweden" requirement are substantial barriers. Swedish consulates in Russia operate at reduced capacity. No meaningful Russian-speaking community.
+Sweden is among the stricter EU states for Russian applicants. Full EU sanctions apply. The June 2026 citizenship tightening (8 years, language, civic test, self-sufficiency) makes long-term planning difficult. The self-employed route is accessible in principle but SEK 200,000 capital and the "customer network in Sweden" requirement are substantial barriers. Swedish consulates in Russia operate at reduced capacity. No meaningful Russian-speaking community.
 
 ## Status
 - **Last monitored**: 2026-10-12
@@ -124,7 +124,7 @@ Sweden is among the stricter EU states for Russian applicants. Full EU sanctions
 | Median net monthly salary | ~SEK 33,000 (~€2,850) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Sweden] [soft/estimate] |
 | Cost of living index (relative to NYC=100) | ~65 (Numbeo) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Sweden] [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~SEK 10,000 (city centre) / ~SEK 7,500 (outside) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Sweden] [soft/estimate] |
-| Effective personal tax rate for remote workers | ~32% municipal + 20% state above SEK 643K; expert tax relief: 25% salary tax-free (7 yr) | ^[https://www.bdo.se/sv-se/artiklar-insikter/sweden%E2%80%99s-expert-tax-regime-current-rules,-proposed-changes-and-practical-implications] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~32% municipal + 20% state above SEK 643,000; expert tax relief: 25% salary tax-free (7 yr) | ^[https://www.bdo.se/sv-se/artiklar-insikter/sweden%E2%80%99s-expert-tax-regime-current-rules,-proposed-changes-and-practical-implications] [soft/estimate] |
 | Remote-work / self-employment residence available? | No dedicated visa; self-employed permit requires active Swedish business | per page residency sections |
 | Years to citizenship | 8 years (as of June 2026) | ^[https://www.migrationsverket.se/English] hard/official |
 | Maximum permitted absence during residence | Not explicitly stated; habitual residence required | per page residency sections |

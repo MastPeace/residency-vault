@@ -45,7 +45,7 @@ Lebanon has one of the easiest residence pathways in the Middle East — foreign
 
 ### Business residence
 - **Official name**: Business ("Employer") work permit + residence
-- **Conditions**: Investor's capital share ≥ **$67,000** and a pledge to hire three Lebanese nationals registered with the National Social Security Fund within six months. ^[https://2001-2009.state.gov/e/eeb/ifd/2008/100903.htm]
+- **Conditions**: Investor's capital share ≥ **$67,000** and a pledge to hire three Lebanese nationals registered with the National Social Security Fund within 6 months. ^[https://2001-2009.state.gov/e/eeb/ifd/2008/100903.htm]
 - **Duration / renewal**: 1–3 years.
 - **Path to citizenship**: Discretionary.
 - **Official source**: https://www.general-security.gov.lb

@@ -21,7 +21,7 @@ Latvia is an EU/Schengen/NATO/Eurozone member in the Baltic region. It offers th
 
 | Type | Official Program | Key Conditions | Duration |
 |------|-----------------|----------------|----------|
-| [[investment-residency]] | Temporary residence permit by investment (Golden Visa) | €50K business equity / €250K real estate / €280K bank deposit | Up to 5 years |
+| [[investment-residency]] | Temporary residence permit by investment (Golden Visa) | €50,000 business equity / €250,000 real estate / €280,000 bank deposit | Up to 5 years |
 | [[passive-income-residency]] | Not available as dedicated program | — | — |
 | [[digital-nomad-visa]] | Remote Work Visa (since 2022) | Employment by OECD-registered company; income threshold | 1 year |
 | [[highly-skilled-employment]] | EU Blue Card | University degree; job offer; salary threshold | ≤5 years |
@@ -45,7 +45,7 @@ Latvia is an EU/Schengen/NATO/Eurozone member in the Baltic region. It offers th
 - **Duration / renewal**: Up to **5 years**, renewable. Annually must enter Latvia and complete short registration.
 - **Path to citizenship**: ~10 years genuine residence required. Years spent outside Latvia on minimal-stay basis do NOT count. Latvian language + constitution/history exam required. Dual citizenship restrictive.
 - **Official source**: https://www.pmlp.gov.lv/en
-- **Community verdict**: Works well — cheapest EU golden visa. The €50K business route requires genuine company operations, not passive investment. No minimum stay = excellent for mobility but useless for citizenship clock.
+- **Community verdict**: Works well — cheapest EU golden visa. The €50,000 business route requires genuine company operations, not passive investment. No minimum stay = excellent for mobility but useless for citizenship clock.
 
 ### Digital Nomad Visa — Remote Work Visa
 - **Official name**: Attālinātā darba vīza (Remote Work Visa)
@@ -77,7 +77,7 @@ Latvia is an EU/Schengen/NATO/Eurozone member in the Baltic region. It offers th
 - Micro-enterprise tax: 25% of turnover (for qualifying micro-enterprises)
 
 ## IT / Digital Nomad
-Latvia's Remote Work Visa (2022) requires OECD-country employment — a significant limitation. Riga is a growing tech hub with a strong startup scene and excellent internet. The Golden Visa (€50K business route) might appeal to IT entrepreneurs who want a Latvia-registered company.
+Latvia's Remote Work Visa (2022) requires OECD-country employment — a significant limitation. Riga is a growing tech hub with a strong startup scene and excellent internet. The Golden Visa (€50,000 business route) might appeal to IT entrepreneurs who want a Latvia-registered company.
 
 ## Yacht / Maritime
 Baltic Sea coastline (Riga, Ventspils, Liepāja). Yacht registration under Latvian flag available. Small but growing yachting infrastructure. Not a primary yachting destination.
@@ -105,7 +105,7 @@ Latvia has adopted a highly restrictive stance toward Russian citizens since 202
 | Cost of living index | ~47 (NYC=100, Numbeo estimate) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2026) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | €400–600 (Riga city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Latvia) [soft/estimate] |
 | Effective personal tax rate for remote workers | ~25–30% (progressive 20%/23%/31% + social ~10.5% employee; micro-enterprise 25% of turnover option) | [Latvian Tax Authority](https://www.vid.gov.lv/en) [soft/estimate] |
-| Remote-work / self-employment residence available? | Yes — Remote Work Visa (OECD-country employer required, 1 year); Golden Visa business route (€50K) for self-employed | See [[#digital-nomad-visa]] and [[#investment-residency]] |
+| Remote-work / self-employment residence available? | Yes — Remote Work Visa (OECD-country employer required, 1 year); Golden Visa business route (€50,000) for self-employed | See [[#digital-nomad-visa]] and [[#investment-residency]] |
 | Years to citizenship | 5 years permanent residence + Latvian language + Constitution/history exam | See [[#citizenship]] |
 | Maximum permitted absence during residence | Golden Visa: no minimum physical stay (annual entry only); citizenship: genuine residence required | See [[#citizenship]] |
 | Passport strength after citizenship | 182 visa-free destinations (Henley 2026, rank 7) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |

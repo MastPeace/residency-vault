@@ -22,7 +22,7 @@ Canada has one of the world's strongest passports and a large, structured immigr
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Quebec Immigrant Investor Program (QIIP) | CAD $2M net worth; CAD $1M investment + $200K non-refundable; French level 7 | PR on grant | [[#investment-residency]] |
+| investment_residency | Quebec Immigrant Investor Program (QIIP) | CAD $2,000,000 net worth; CAD $1,000,000 investment + $200,000 non-refundable; French level 7 | PR on grant | [[#investment-residency]] |
 | passive_income_residency | Not available | No passive income visa exists | — | [[#passive-income-residency]] |
 | digital_nomad_visa | Not available | No dedicated DN visa; visitor visa for short stays only | — | [[#digital-nomad-visa]] |
 | highly_skilled_employment | Express Entry — Federal Skilled Worker / CEC | CRS score; recent CEC cutoff ~521–523; PNP +600 pts | PR on grant | [[#highly-skilled-employment]] |
@@ -63,7 +63,7 @@ Canada has one of the world's strongest passports and a large, structured immigr
 
 ### startup_entrepreneur
 - **Official name**: Start-Up Visa (SUV) — Programme de visa pour démarrage d'entreprise
-- **Conditions**: SUSPENDED to new applications since Dec 31, 2025. Previously: CAD $200K from designated VC fund, or $75K from angel group, or acceptance into incubator. IRCC promises a "new, targeted pilot program" later in 2026. ^[https://immigration.ca/canada-business-and-investment-immigration-overview]
+- **Conditions**: SUSPENDED to new applications since Dec 31, 2025. Previously: CAD $200,000 from designated VC fund, or $75,000 from angel group, or acceptance into incubator. IRCC promises a "new, targeted pilot program" later in 2026. ^[https://immigration.ca/canada-business-and-investment-immigration-overview]
 - **Duration / renewal**: Not accepting applications.
 - **Path to citizenship**: N/A (program suspended).
 - **Official source**: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa.html
@@ -140,7 +140,7 @@ Canada maintains sanctions against Russia. Visitor visa and study permit process
 | Median net monthly salary | ~C$5,100 (~US$3,750) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Canada) [soft/estimate] |
 | Cost of living index | 61.3 (NYC=100, Numbeo 2026 Mid-Year) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2026) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | C$1,800 (city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Canada) [soft/estimate] |
-| Effective personal tax rate for remote workers | ~25–30% (federal 15–33% + provincial 5–15%; self-employed ~C$100K pays ~26% avg) | [Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/individuals.html) [soft/estimate] |
+| Effective personal tax rate for remote workers | ~25–30% (federal 15–33% + provincial 5–15%; self-employed ~C$100,000 pays ~26% avg) | [Canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/individuals.html) [soft/estimate] |
 | Remote-work / self-employment residence available? | No dedicated DN visa; Express Entry for skilled workers; visitor visa allows 6-month informal remote work for foreign employers | See [[#digital-nomad-visa]] and [[#highly-skilled-employment]] |
 | Years to citizenship | 3 years (1,095 days physical presence in 5 years before application) | See [[#citizenship]] |
 | Maximum permitted absence during residence | PR: 730 days/5yr for renewal; Citizenship: max 730 days absent in 5yr window; no single-trip limit for PR | See [[#citizenship]] |

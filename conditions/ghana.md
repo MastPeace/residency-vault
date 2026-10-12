@@ -20,7 +20,7 @@ Ghana's immigration system is administered by the Ghana Immigration Service (GIS
 
 | Type | Official Program | Key Conditions | Duration | Citizenship Path |
 |------|-----------------|----------------|----------|------------------|
-| investment_residency | GIPC Investor Work & Residence Permit | GIPC registration; minimum foreign capital (varies by sector: typically USD 200K–500K+); company incorporation; tax clearance ^[https://gis.gov.gh/service/work-and-residence-permit-missionaries-ngos-immigrant-quota-gipc-shareholders] | 1 year, renewable | Indefinite Residence after substantial contributions; citizenship after 5+ years ^[https://gis.gov.gh/wp-content/uploads/2024/02/FREQUENTLY-ASKED-QUESTIONS.pdf] |
+| investment_residency | GIPC Investor Work & Residence Permit | GIPC registration; minimum foreign capital (varies by sector: typically USD 200,000–500,000+); company incorporation; tax clearance ^[https://gis.gov.gh/service/work-and-residence-permit-missionaries-ngos-immigrant-quota-gipc-shareholders] | 1 year, renewable | Indefinite Residence after substantial contributions; citizenship after 5+ years ^[https://gis.gov.gh/wp-content/uploads/2024/02/FREQUENTLY-ASKED-QUESTIONS.pdf] |
 | passive_income_residency | Not available | — | — | — |
 | digital_nomad_visa | Not available | — | — | — |
 | highly_skilled_employment | Work & Residence Permit (IQC/GIPC/Immigration) | Job offer; employer sponsorship; GIPC/Interior Quota; qualifications | 1 year, renewable | 5+ years to citizenship |
@@ -92,7 +92,7 @@ Visa on arrival or eVisa for Russian citizens. Ghana maintains cordial relations
 | Median net monthly salary | ~$350–500 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ghana] |
 | Cost of living index (relative) | ~30 (NYC=100) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ghana] |
 | Monthly rent, 1‑bedroom apartment | ~$300–600 (Accra expat areas: Airport City, Osu) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Ghana] |
-| Effective personal tax rate for remote workers | 5%–35% progressive (top rate on GHS 240K+/yr, ~USD 20,000) | [soft/estimate] |
+| Effective personal tax rate for remote workers | 5%–35% progressive (top rate on GHS 240,000+/yr, ~USD 20,000) | [soft/estimate] |
 | Remote‑work / self‑employment residence available? | No — no dedicated digital nomad visa | |
 | Years to citizenship | 5+ years continuous lawful residence | ^[https://gis.gov.gh/wp-content/uploads/2024/02/FREQUENTLY-ASKED-QUESTIONS.pdf] |
 | Maximum permitted absence during residence | Not clearly defined; continuous residence expected | [soft/estimate] |
@@ -104,7 +104,7 @@ Visa on arrival or eVisa for Russian citizens. Ghana maintains cordial relations
 
 ## Country Card
 
-Ghana is one of West Africa's most stable democracies, a former British colony with English as the official language, and a regional leader in governance. Accra is a growing business and tech hub. The Ghana Immigration Service (GIS) operates a dual Work Permit + Residence Permit system, and the Ghana Investment Promotion Centre (GIPC) facilitates investor permits (min USD 200K–500K). Ghana permits dual citizenship — a significant advantage. The pending GIPC Bill 2025 (Clause 37) may introduce Citizenship by Investment. There is currently no digital nomad visa.
+Ghana is one of West Africa's most stable democracies, a former British colony with English as the official language, and a regional leader in governance. Accra is a growing business and tech hub. The Ghana Immigration Service (GIS) operates a dual Work Permit + Residence Permit system, and the Ghana Investment Promotion Centre (GIPC) facilitates investor permits (min USD 200,000–500,000). Ghana permits dual citizenship — a significant advantage. The pending GIPC Bill 2025 (Clause 37) may introduce Citizenship by Investment. There is currently no digital nomad visa.
 
 ### Well-known strong points
 - Freedom House 80/100 (Free) — one of Africa's strongest democracies; regular peaceful transitions
@@ -116,7 +116,7 @@ Ghana is one of West Africa's most stable democracies, a former British colony w
 
 ### Well-known problems
 - No digital nomad visa — remote workers need employer sponsorship or investor route
-- GIPC investor thresholds are high: USD 200K (joint venture) or USD 500K (wholly foreign)
+- GIPC investor thresholds are high: USD 200,000 (joint venture) or USD 500,000 (wholly foreign)
 - Personal income tax up to 35%; effective VAT ~20% (15% + 2.5% NHIL + 2.5% GETFund)
 - Cost of living in Accra expat areas can be surprisingly high; imported goods expensive
 - Passport is weak (~65 visa-free destinations) — not a passport-shopping destination (yet)

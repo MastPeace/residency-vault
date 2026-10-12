@@ -22,7 +22,7 @@ Brazil's immigration system is administered by the Ministry of Justice (Conselho
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | VIPER (Visto Permanente para Investidor) | BRL 1M real estate (other regions) / BRL 700K North/Northeast / BRL 600K business | Permanent (business) / 2 yr renewable (real estate) | [[#investment-residency]] |
+| investment_residency | VIPER (Visto Permanente para Investidor) | BRL 1,000,000 real estate (other regions) / BRL 700,000 North/Northeast / BRL 600,000 business | Permanent (business) / 2 yr renewable (real estate) | [[#investment-residency]] |
 | passive_income_residency | Retirement Visa (Aposentado) | Pension ≥ ~$2,000/mo USD (6× minimum wage approx.) | 2 yr temp → permanent after 4 yr | [[#passive-income-residency]] |
 | digital_nomad_visa | VITEM XIV (Digital Nomad) | Income ≥ $1,500/mo USD OR savings ≥ $18,000 USD | 1 yr, renewable × 1 (2 yr max) | [[#digital-nomad-visa]] |
 | highly_skilled_employment | Work Visa (VITEM V) | Job offer + degree; employer-sponsored | Up to 2 yr, renewable | [[#highly-skilled-employment]] |
@@ -221,7 +221,7 @@ _Coverage: 53/55 fields. Only facts verifiable against official sources or publi
 ## Country Card
 
 ### General description
-Brazil is the largest country in South America and the fifth-largest in the world by area, with over 211 million people. It has the largest economy in Latin America and is a member of BRICS and MERCOSUR. Brazil offers a well-structured immigration system with the VIPER investor visa (from BRL 600K), the VITEM XIV digital nomad visa ($1,500/mo — one of the cheapest in the G20), and a relatively fast 4-year path to citizenship. The Brazilian passport provides 170 visa-free destinations and MERCOSUR mobility rights.
+Brazil is the largest country in South America and the fifth-largest in the world by area, with over 211 million people. It has the largest economy in Latin America and is a member of BRICS and MERCOSUR. Brazil offers a well-structured immigration system with the VIPER investor visa (from BRL 600,000), the VITEM XIV digital nomad visa ($1,500/mo — one of the cheapest in the G20), and a relatively fast 4-year path to citizenship. The Brazilian passport provides 170 visa-free destinations and MERCOSUR mobility rights.
 
 ### Well-known strong points
 - One of the cheapest digital nomad visas in the G20 ($1,500/mo threshold)

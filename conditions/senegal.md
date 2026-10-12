@@ -51,7 +51,7 @@ Senegal is a stable West African democracy with a French-influenced immigration 
 
 ## Tax
 - Territorial tax system for non-residents. Tax residents taxed on worldwide income.
-- Personal income tax: progressive 0%–40% (top rate on XOF 14M+/yr, ~USD 23,000).
+- Personal income tax: progressive 0%–40% (top rate on XOF 14,000,000+/yr, ~USD 23,000).
 - Corporate tax: 30% standard.
 - VAT: 18%.
 - Social contributions: IPRES (pension) + CSS (health).
@@ -84,7 +84,7 @@ Visa-free or visa on arrival (varies — check with embassy). French proficiency
 | Median net monthly salary | ~$300–450 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Senegal] |
 | Cost of living index (relative) | ~35 (NYC=100) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Senegal] |
 | Monthly rent, 1‑bedroom apartment | ~$400–700 (Dakar Plateau/Almadies expat areas) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Senegal] |
-| Effective personal tax rate for remote workers | 0%–40% progressive (top rate on XOF 14M+/yr, ~USD 23,000) | [soft/estimate] |
+| Effective personal tax rate for remote workers | 0%–40% progressive (top rate on XOF 14,000,000+/yr, ~USD 23,000) | [soft/estimate] |
 | Remote‑work / self‑employment residence available? | No — but digital nomad visa reportedly in development (EY, 2025) | ^[https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/insights/workforce/documents/ey-gl-global-immigration-index-remote-work-and-digital-nomads-11-25.pdf] |
 | Years to citizenship | 10 years continuous lawful residence (5 years if married to Senegalese) | ^[https://remotepeople.com/countries/senegal/employer-of-record/work-visa-permit] |
 | Maximum permitted absence during residence | Not clearly defined; "continuous residence" expected | [soft/estimate] |
@@ -110,6 +110,6 @@ Senegal is one of West Africa's most stable democracies, with a French-influence
 - No digital nomad visa yet (as of Sept 2026); remote workers rely on tourist visas (grey area)
 - Residence card processing is extremely slow — up to 1.5 years for the physical card
 - French fluency is essential — administration operates entirely in French
-- Personal income tax reaches 40% at relatively low threshold (XOF 14M/yr, ~USD 23K)
+- Personal income tax reaches 40% at relatively low threshold (XOF 14,000,000/yr, ~USD 23,000)
 - 10-year citizenship timeline is long; passport is weak (~55 visa-free)
 - Repatriation bond deposit required; bureaucracy can be challenging without local support

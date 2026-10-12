@@ -30,7 +30,7 @@ Peru's immigration authority is the Superintendencia Nacional de Migraciones. Th
 | student_residency | Estudiante | Enrollment in Peruvian institution | Course duration | [[#student-residency]] |
 | family_reunification | Familiar Residente | Certified family relationship with Peruvian citizen or resident | 1 yr, renewable | [[#family-reunification]] |
 | retired_residency | Pensionista / Rentista (retirement) | Pension income ≥ USD 1,000/mo | 1 yr, renewable | [[#retired-residency]] |
-| citizenship_by_investment | Not available | No CBI program. Former scheme (1992, $25,000) closed after one year. | — | [[#citizenship-by-investment]] |
+| citizenship_by_investment | Not available | No CBI program. Former scheme (1992, $25,000) closed after 1 year. | — | [[#citizenship-by-investment]] |
 
 ## Per-Program Detail
 
@@ -102,7 +102,7 @@ Subsumed under Inversionista. Business investment from ~USD 30,000 in existing o
 - **Community verdict**: Works well for residency; citizenship path now harder due to income requirement.
 
 ### citizenship_by_investment
-Not available. A brief CBI scheme existed in 1992 (USD 25,000) but was abolished after one year due to public outcry.
+Not available. A brief CBI scheme existed in 1992 (USD 25,000) but was abolished after 1 year due to public outcry.
 
 ## Citizenship
 - **Standard naturalization (Law 32421, August 2025)**: 5 years of continuous legal residency, up from 2 years. ^[https://legalclarity.org/how-to-get-peruvian-citizenship-requirements-and-steps]

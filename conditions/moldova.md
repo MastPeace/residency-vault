@@ -31,7 +31,7 @@ Moldova is a small, EU-candidate country between Romania and Ukraine, with Roman
 | student_residency | Study residence | Enrolment in a Moldovan institution | Course length | — |
 | family_reunification | Family residence | Spouse/close family of a resident | 1–3 yr | — |
 | retired_residency | Not available | — | — | — |
-| citizenship_by_investment | Suspended (2018–2020) | Moldova CBI was €100K contribution; halted | — | [[#citizenship]] |
+| citizenship_by_investment | Suspended (2018–2020) | Moldova CBI was €100,000 contribution; halted | — | [[#citizenship]] |
 
 ## Per-Program Detail
 

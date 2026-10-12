@@ -78,7 +78,7 @@ Atlantic island nation with marinas (Mindelo on São Vicente is a key stopover f
 
 ## Notes for RU citizens
 - Visa required; Portuguese is the working language. Stable, safe, and visa-friendly relative to the region.
-- Green Card (€80K–€120K real estate) is the main RU-relevant residence route; nomad visa also accessible.
+- Green Card (€80,000–€120,000 real estate) is the main RU-relevant residence route; nomad visa also accessible.
 - EU banking/CBI screening not a factor (no CBI). No visa-free Russia with Cabo Verdean passport.
 
 ## Community Pulse

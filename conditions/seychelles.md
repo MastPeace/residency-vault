@@ -14,13 +14,13 @@ last_checked: 2026-10-12
 ---
 
 ## Overview
-Seychelles is an Indian Ocean archipelago of 115 islands offering a Workcation Retreat Program (digital nomad visa) for up to 1 year, and a Permanent Residence by Investment Program for those investing USD 1M+ in a local business. Citizenship is extremely restricted — the country does not readily naturalise foreigners. The tax system is territorial: no personal income tax for non-citizens on foreign-sourced income. ^[https://www.seychelles.govtas.com]
+Seychelles is an Indian Ocean archipelago of 115 islands offering a Workcation Retreat Program (digital nomad visa) for up to 1 year, and a Permanent Residence by Investment Program for those investing USD 1,000,000+ in a local business. Citizenship is extremely restricted — the country does not readily naturalise foreigners. The tax system is territorial: no personal income tax for non-citizens on foreign-sourced income. ^[https://www.seychelles.govtas.com]
 
 ## Residency Programs
 
 | Type | Official Program | Key Conditions | Duration | Citizenship Path |
 |------|-----------------|----------------|----------|------------------|
-| investment_residency | Permanent Residence by Investment | USD 1M+ direct investment in new/existing business; 5 years business association ^[https://www.imidaily.com/seychelles-investor-pr] | Permanent | Citizenship extremely rare; naturalisation not a practical path |
+| investment_residency | Permanent Residence by Investment | USD 1,000,000+ direct investment in new/existing business; 5 years business association ^[https://www.imidaily.com/seychelles-investor-pr] | Permanent | Citizenship extremely rare; naturalisation not a practical path |
 | passive_income_residency | Not available | — | — | — |
 | digital_nomad_visa | Workcation Retreat Program | Proof of remote employment/business outside Seychelles; sufficient funds; health insurance ^[https://visadb.io/visa/long-term-stay/Anywhere/Seychelles/61c206561feb2eb87adf0997] | 1 year | None — does not lead to residence |
 | highly_skilled_employment | Gainful Occupation Permit (GOP) | Job offer from Seychelles employer; employer sponsorship | 1–3 years, renewable | No direct PR path; must convert to investor route |
@@ -43,7 +43,7 @@ Seychelles is an Indian Ocean archipelago of 115 islands offering a Workcation R
 
 ### investment_residency — Permanent Residence by Investment
 - **Official name**: Seychelles Permanent Residence Program
-- **Conditions**: USD 1M+ direct investment in a new or existing business. At least 5 years of business association/affiliation in Seychelles. Clean criminal record. ^[https://www.imidaily.com/seychelles-investor-pr]
+- **Conditions**: USD 1,000,000+ direct investment in a new or existing business. At least 5 years of business association/affiliation in Seychelles. Clean criminal record. ^[https://www.imidaily.com/seychelles-investor-pr]
 - **Duration**: Permanent.
 - **Path to citizenship**: Extremely rare. Seychelles does not have a standard naturalisation process for investors. Citizenship is by descent, marriage (to Seychellois, 10+ years), or presidential discretion.
 - **Official source**: https://www.imi.gov.sc (Immigration and Civil Status)
@@ -105,7 +105,7 @@ Visa-free entry for 90 days for Russian citizens. Direct flights from Moscow res
 
 ## Country Card
 
-Seychelles is a stunning Indian Ocean archipelago of 115 islands with Africa's highest GDP per capita PPP (~$35,000) and one of the continent's strongest passports (~150 visa-free). Victoria (Mahé) is one of the world's smallest capitals. The Workcation Retreat Program offers a 1-year stay for remote workers at minimal cost (€45). Permanent residence is available via USD 1M+ investment. The tax system is territorial — foreign-sourced income is generally not taxed for non-citizens. Citizenship is effectively closed to foreigners.
+Seychelles is a stunning Indian Ocean archipelago of 115 islands with Africa's highest GDP per capita PPP (~$35,000) and one of the continent's strongest passports (~150 visa-free). Victoria (Mahé) is one of the world's smallest capitals. The Workcation Retreat Program offers a 1-year stay for remote workers at minimal cost (€45). Permanent residence is available via USD 1,000,000+ investment. The tax system is territorial — foreign-sourced income is generally not taxed for non-citizens. Citizenship is effectively closed to foreigners.
 
 ### Well-known strong points
 - Africa's highest GDP per capita (~$35,000 PPP); strong passport (~150 visa-free destinations)
@@ -120,5 +120,5 @@ Seychelles is a stunning Indian Ocean archipelago of 115 islands with Africa's h
 - Very high cost of living — most goods imported; expat living is expensive
 - Tiny population (~130,000) and economy — extremely limited domestic market
 - Workcation Retreat Program does not lead to PR or citizenship; no long-term DN pathway
-- Permanent residence requires USD 1M+ investment — high entry barrier
+- Permanent residence requires USD 1,000,000+ investment — high entry barrier
 - Infrastructure is limited outside Mahé; internet is improving but can be inconsistent

@@ -61,7 +61,7 @@ Kenya launched its Class N Digital Nomad Permit in 2024, making it one of Africa
 
 ## Tax
 - Residence-based taxation for tax residents (183+ days or permanent home in Kenya).
-- Personal income tax: 10%–30% progressive (top rate at KES 9.6M+/yr, ~USD 75,000).
+- Personal income tax: 10%–30% progressive (top rate at KES 9,600,000+/yr, ~USD 75,000).
 - Digital services tax: 1.5% on digital marketplace income.
 - Corporate tax: 30% (resident); 37.5% (non-resident).
 - VAT: 16%.

@@ -54,7 +54,7 @@ Georgia offers one of the easiest residence regimes globally: visa-free entry fo
 - **Duration**: 5 years.
 - **Path to citizenship**: 10 years legal residence.
 - **Official source**: [Public Service Hall](https://psh.gov.ge/)
-- **Community verdict**: Works well — 5-year permit is generous. $300K threshold is high relative to local property prices but moderate by international standards.
+- **Community verdict**: Works well — 5-year permit is generous. $300,000 threshold is high relative to local property prices but moderate by international standards.
 
 ### Employment Residency / Highly Skilled Employment
 
@@ -135,7 +135,7 @@ Georgia remains one of the most accessible countries globally for independent re
 | Median net monthly salary | ~€350 (2025) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Georgia] [soft/estimate] |
 | Cost of living index | Very low (~30, Numbeo; among cheapest globally for relocants) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Georgia] [soft/estimate] |
 | Monthly rent, 1-bedroom apt | ~€350 (Tbilisi center; post-2022 surge from ~€200) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Georgia] [soft/estimate] |
-| Effective tax for remote workers | 1% turnover (IE up to GEL 500K); 0% on foreign-source income below GEL 500K | ^[https://pbservices.ge/services/individual-entrepreneur-georgia] hard/official |
+| Effective tax for remote workers | 1% turnover (IE up to GEL 500,000); 0% on foreign-source income below GEL 500,000 | ^[https://pbservices.ge/services/individual-entrepreneur-georgia] hard/official |
 | Remote-work / self-employment residence? | Yes — C5 DN visa (since Apr 2026); de facto via IE + 1% tax (the practical route) | From page — hard |
 | Years to citizenship | 10 years | ^[https://pbservices.ge/blog/residency-rules-work-residence-permit-in-georgia] hard/official |
 | Maximum permitted absence | Not specified (standard continuous residence for naturalization) | From page — [soft/estimate] |
@@ -202,7 +202,7 @@ _Coverage: 53/55 fields. Only facts verifiable against official sources or publi
 | Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax (abolished); CGT 20% (individuals) on property sales; dividend tax 5% | [source](https://taxsummaries.pwc.com/georgia) — soft/estimate |
 | Money & tax | CFC rules | No specific CFC rules; territorial taxation for individuals (foreign-source income not taxed unless remitted) | [source](https://taxsummaries.pwc.com/georgia) — soft/estimate |
 | Business | Company setup | 1-2 days, minimal cost; very easy online via Public Registry | [source](https://www.entrepreneur.com/starting-a-business/how-to-start-a-business-in-georgia) — soft/estimate |
-| Business | Corporate tax | 15% standard CIT; 0% for individual entrepreneurs (small business status up to GEL 500k turnover) | [source](https://taxsummaries.pwc.com/georgia) — soft/estimate |
+| Business | Corporate tax | 15% standard CIT; 0% for individual entrepreneurs (small business status up to GEL 500,000 turnover) | [source](https://taxsummaries.pwc.com/georgia) — soft/estimate |
 | Family & education | Top university | Tbilisi State University (TSU); QS EECA rank ~100-150 range | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
 | Connectivity | Visa-free for Russians | Visa-free for Russian citizens (up to 1 year stay without visa) | [source](https://www.geoconsul.gov.ge/) — hard/official |
 | For Russian citizens | Sanctions position | Georgia aligns with some Western sanctions but has not imposed its own; trade with Russia continues; avoids secondary sanctions enforcement | [source](https://civil.ge/) — soft/estimate |
@@ -215,7 +215,7 @@ _Coverage: 53/55 fields. Only facts verifiable against official sources or publi
 Georgia is a Caucasus country at the crossroads of Europe and Asia, not an EU member but with an Association Agreement. It has become the world's #1 hub for Russian-speaking relocants and IT freelancers, driven by visa-free entry (1 year for 100+ nationalities including Russia), a 1-day Individual Entrepreneur (IE) registration, and a 1% turnover tax on income up to GEL 500,000 (~$185,000). The country also has a formal C5 Digital Nomad Visa (since April 2026) and a $300,000 investment residence permit (5 years). The major structural flaw: citizenship requires 10 years of residence + Georgian language + history exam + renunciation of existing citizenship.
 
 ### Well-known strong points
-- World-class tax regime: 1% turnover (IE) or 0% on foreign-source income below GEL 500K
+- World-class tax regime: 1% turnover (IE) or 0% on foreign-source income below GEL 500,000
 - Visa-free entry for 100+ nationalities including Russia — 1 year without a permit
 - IE registration in 1 day online; banking accessible (Bank of Georgia, TBC)
 - 0% property tax on primary residence; Estonian-model corporate tax (15% on distributions)
@@ -226,6 +226,6 @@ Georgia is a Caucasus country at the crossroads of Europe and Asia, not an EU me
 - Very difficult citizenship: 10 years + language + history exam + renunciation required
 - Immigration tightening since 2025 (work permits, marriage route restricted, D6 visa)
 - Tbilisi rents surged 50–100% post-2022 due to relocant wave; infrastructure under strain
-- No formal golden visa or passive-income residence; investment route at $300K
+- No formal golden visa or passive-income residence; investment route at $300,000
 - Political backsliding (Freedom House 58, down from 60); EU accession stalled
 - Banking for RU citizens has become more selective; sanctions screening

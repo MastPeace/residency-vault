@@ -21,7 +21,7 @@ Malaysia's flagship residence program is Malaysia My Second Home (MM2H), restruc
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | MM2H (Platinum/Gold/Silver) | Fixed deposit US$1M / $500k / $150k | 20/15/5 yr | [[#investment-residency]] |
+| investment_residency | MM2H (Platinum/Gold/Silver) | Fixed deposit US$1,000,000 / $500,000 / $150,000 | 20/15/5 yr | [[#investment-residency]] |
 | passive_income_residency | MM2H (residence on fixed deposit) | FD held in Malaysian bank; 50% withdrawable | 5–20 yr | [[#passive-income-residency]] |
 | digital_nomad_visa | DE Rantau Nomad Pass | Remote IT/digital work; ≥ US$24,000/yr income | 3–12 mo, renewable | [[#digital-nomad-visa]] |
 | highly_skilled_employment | Employment Pass I/II/III | Job offer; salary tiers (min RM5,000–30,000) | 1–5 yr | [[#highly-skilled-employment]] |
@@ -29,7 +29,7 @@ Malaysia's flagship residence program is Malaysia My Second Home (MM2H), restruc
 | employment_residency | Employment Pass (PVP) | Job offer; employer-sponsored | 1–5 yr | [[#employment-residency]] |
 | student_residency | Student Pass | Enrollment in recognized institution | Course duration | [[#student-residency]] |
 | family_reunification | Dependant Pass / MM2H dependants | Spouse/child of pass holder | Tied to sponsor | [[#family-reunification]] |
-| retired_residency | MM2H (Silver/Gold tiers suit retirees) | FD US$150k+; age 25+ | 5–15 yr | [[#retired-residency]] |
+| retired_residency | MM2H (Silver/Gold tiers suit retirees) | FD US$150,000+; age 25+ | 5–15 yr | [[#retired-residency]] |
 | citizenship_by_investment | Not available | — | — | — |
 
 ## Per-Program Detail
@@ -114,7 +114,7 @@ Not available.
 - **No capital gains tax for individuals (except real property gains).**
 
 ## IT / Digital Nomad
-DE Rantau Nomad Pass (US$24k/yr income) is the formal route; Penang and Kuala Lumpur are growing nomad hubs. Malaysia combines low cost, English proficiency, and good internet. Note the DE Rantau pass requires an MDEC endorsement/sponsor.
+DE Rantau Nomad Pass (US$24,000/yr income) is the formal route; Penang and Kuala Lumpur are growing nomad hubs. Malaysia combines low cost, English proficiency, and good internet. Note the DE Rantau pass requires an MDEC endorsement/sponsor.
 
 ## Yacht / Maritime
 Strategic location on the Strait of Malacca. Marinas: Port Klang, Penang (Straits Quay), Langkawi (Royal Langkawi Yacht Club), Johor (Puteri Harbour). Langkawi is a major duty-free cruising base; foreign-flagged vessels welcome.
@@ -123,7 +123,7 @@ Strategic location on the Strait of Malacca. Marinas: Port Klang, Penang (Strait
 MM2H and DE Rantau are open to Russian nationals (subject to security screening). Visa-on-arrival/e-visa generally available. Banking for RU nationals is more restrictive post-2022. Langkawi and Penang have Russian-speaking communities.
 
 ## Community Pulse
-MM2H's 2024 restructuring (higher deposits, tiers, fees) was the dominant story — Silver (US$150k) is the practical entry. DE Rantau is praised for its low income bar. Citizenship is widely understood to be effectively closed.
+MM2H's 2024 restructuring (higher deposits, tiers, fees) was the dominant story — Silver (US$150,000) is the practical entry. DE Rantau is praised for its low income bar. Citizenship is widely understood to be effectively closed.
 
 ## Country Snapshot
 
@@ -140,7 +140,7 @@ MM2H's 2024 restructuring (higher deposits, tiers, fees) was the dominant story 
 | Cost of living index | ~30 (NYC=100) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Malaysia) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~RM 1,700 (~$380) city centre | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Malaysia) [soft/estimate] |
 | Effective personal tax rate for remote workers | 0%–30% progressive (resident); 30% flat (non-resident) | [LHDN](https://www.hasil.gov.my/) [soft/estimate] |
-| Remote-work / self-employment residence available? | Yes — DE Rantau Nomad Pass (US$24k/yr) | See [[#digital-nomad-visa]] |
+| Remote-work / self-employment residence available? | Yes — DE Rantau Nomad Pass (US$24,000/yr) | See [[#digital-nomad-visa]] |
 | Years to citizenship | 10 years residence (rarely granted) | See [[#citizenship]] |
 | Maximum permitted absence during residence | MM2H: 90 days/year minimum stay (under-50s) | See [[#investment-residency]] |
 | Passport strength after citizenship | 181 visa-free destinations (Henley Q3 2025, rank 11) | [Henley & Partners](https://www.henleyglobal.com/publications/global-mobility-report/2025-july) — hard/official |
@@ -159,7 +159,7 @@ Malaysia is a Southeast Asian federation straddling the Malay Peninsula and nort
 - Low cost of living with high quality of life (Numbeo index ~30)
 - English widely spoken; good healthcare and infrastructure
 - MM2H fixed deposit is capital (not spent) and offers tax exemption on foreign income
-- DE Rantau nomad pass with a low US$24k income bar
+- DE Rantau nomad pass with a low US$24,000 income bar
 
 ### Well-known problems
 - Citizenship practically closed; no dual citizenship

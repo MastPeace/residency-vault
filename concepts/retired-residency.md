@@ -15,7 +15,7 @@ Key differentiators: pension-only vs. all passive income; special tax regimes fo
 
 ## Current State
 
-39 countries have dedicated retiree pathways. Latin America dominates: Costa Rica, Panama, Ecuador, Colombia, Mexico, Belize, Dominican Republic all have structured pensionado programs. Southern Europe is the premium tier: Portugal D7 (€920/mo), Spain NLV (€2,400/mo), Italy Elective (€31,000/yr but 7% tax in small towns), Greece FIP (€2,000/mo + 7% pension tax). Southeast Asia: Thailand, Malaysia, Philippines have long-standing retiree programs. The UAE has a Retirement Visa (55+, AED 20K/mo or AED 1M savings or AED 2M property). Germany and most Nordic countries do NOT offer retiree-specific visas.
+39 countries have dedicated retiree pathways. Latin America dominates: Costa Rica, Panama, Ecuador, Colombia, Mexico, Belize, Dominican Republic all have structured pensionado programs. Southern Europe is the premium tier: Portugal D7 (€920/mo), Spain NLV (€2,400/mo), Italy Elective (€31,000/yr but 7% tax in small towns), Greece FIP (€2,000/mo + 7% pension tax). Southeast Asia: Thailand, Malaysia, Philippines have long-standing retiree programs. The UAE has a Retirement Visa (55+, AED 20,000/mo or AED 1,000,000 savings or AED 2,000,000 property). Germany and most Nordic countries do NOT offer retiree-specific visas.
 
 ## Cross-Country Comparison
 
@@ -32,7 +32,7 @@ Key differentiators: pension-only vs. all passive income; special tax regimes fo
 | [[colombia]] | Type M — Pensionado | Pension ≥3× min wage (~$1,042/mo) | 1–3 yr, renewable | 5 yr (Ibero-American 1 yr) | Works well |
 | [[ecuador]] | Visa de Residencia — Jubilado | Lifetime pension ≥$1,410/mo (3× min wage) | 2 yr → PR after 3 yr | 3 yr residence | Works well |
 | [[belize]] | Qualified Retired Persons (QRP) | Age 40+; $2,000/mo foreign retirement income; 30 days/yr presence; tax exemption | 1 yr, renewable | 5 yr residence | Works well |
-| [[uae]] | Retirement Visa (Dubai/Abu Dhabi) | Age 55+; AED 20K/mo income OR AED 1M savings OR AED 2M property | 5 yr, renewable | No citizenship path | Works well |
+| [[uae]] | Retirement Visa (Dubai/Abu Dhabi) | Age 55+; AED 20,000/mo income OR AED 1,000,000 savings OR AED 2,000,000 property | 5 yr, renewable | No citizenship path | Works well |
 | [[brazil]] | Retirement Visa (Aposentado) | ~$2,000/mo pension | 1 yr → PR after 4 yr | 1 yr PR → citizenship (Portuguese) | Works well |
 | [[ireland]] | Stamp 0 (independent means) | ≥€50,000/yr income + significant lump sum; private health insurance; no work | 1 yr, renewable | 5 yr → naturalization | Mixed — high bar; discretionary |
 | [[malta]] | Ordinary Residence (retirement route) | Proof of pension income; remittance-based tax | 1 yr, renewable | 7 yr; Maltese/English | Mixed |

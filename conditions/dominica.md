@@ -109,7 +109,7 @@ _Coverage: 48/55 fields. Only facts verifiable against official sources or publi
 | Climate | Humidity | ~80-85% avg annual RH | [source](https://en.wikipedia.org/wiki/Dominica#Climate) — soft/estimate |
 | Climate | Natural hazards | Hurricanes (Jun-Nov), floods, landslides; INFORM Risk: medium | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
 | Climate | Air quality | PM2.5 annual: <10 µg/m³ (very good, meets WHO guideline) | [source](https://epi.yale.edu/) — soft/estimate |
-| Economy | GDP (nominal) | $723.9M (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DM) — hard/official |
+| Economy | GDP (nominal) | $723,900,000 (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DM) — hard/official |
 | Economy | GDP growth | 3.1% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=DM) — hard/official |
 | Economy | Inflation (CPI) | 2.5% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=DM) — hard/official |
 | Economy | Unemployment | No reliable data | — |

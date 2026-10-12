@@ -22,10 +22,10 @@ Thailand is Southeast Asia's most mature lifestyle-relocation market. It offers 
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | LTR Wealthy Global Citizen | US$1M assets + US$500k investment + US$80k income | 10 yr | [[#investment-residency]] |
-| passive_income_residency | LTR Wealthy Pensioner | Age 50+; US$80k/yr passive income (or US$40k + investment) | 10 yr | [[#passive-income-residency]] |
+| investment_residency | LTR Wealthy Global Citizen | US$1,000,000 assets + US$500,000 investment + US$80,000 income | 10 yr | [[#investment-residency]] |
+| passive_income_residency | LTR Wealthy Pensioner | Age 50+; US$80,000/yr passive income (or US$40,000 + investment) | 10 yr | [[#passive-income-residency]] |
 | digital_nomad_visa | Destination Thailand Visa (DTV) | Remote worker/freelancer; THB 500,000 balance | 5 yr (180 d/entry) | [[#digital-nomad-visa]] |
-| highly_skilled_employment | LTR Highly-Skilled Professional / SMART | US$80k/yr (or US$40k + Master's); target industries | 10 yr / 4 yr | [[#highly-skilled-employment]] |
+| highly_skilled_employment | LTR Highly-Skilled Professional / SMART | US$80,000/yr (or US$40,000 + Master's); target industries | 10 yr / 4 yr | [[#highly-skilled-employment]] |
 | startup_entrepreneur | SMART Visa (S) | Tech startup endorsement by BOI agency | 1–4 yr | [[#startup-entrepreneur]] |
 | employment_residency | Non-Immigrant B + Work Permit | Job offer; employer-sponsored | 90 d, renewable | [[#employment-residency]] |
 | student_residency | Non-Immigrant ED | Enrollment in recognized institution | Course duration | [[#student-residency]] |
@@ -114,7 +114,7 @@ Not available.
 - **LTR holders**: 17% flat PIT on Thai-source employment; exemption from the foreign-remittance rule.
 
 ## IT / Digital Nomad
-The DTV (2024) made Thailand a top nomad destination: 5-year visa, THB 500k balance, remote work allowed. Chiang Mai, Bangkok, Phuket, and Koh Phangan are major hubs. Note the 2024 tax change on foreign remittances and that DTV does not lead to permanent residence.
+The DTV (2024) made Thailand a top nomad destination: 5-year visa, THB 500,000 balance, remote work allowed. Chiang Mai, Bangkok, Phuket, and Koh Phangan are major hubs. Note the 2024 tax change on foreign remittances and that DTV does not lead to permanent residence.
 
 ## Yacht / Maritime
 Major yachting hub: Phuket (Ao Po, Royal Phuket Marina), Pattaya, Koh Samui. Foreign-flagged yachts can enter under temporary import; Thai flag registration available. Well-developed charter and marina infrastructure.

@@ -22,7 +22,7 @@ Malta is the smallest EU member state with a strong passport and full Schengen m
 
 | Type | Official Program | Key Conditions | Duration |
 |------|-----------------|----------------|----------|
-| [[investment-residency]] | Malta Permanent Residence Programme (MPRP) | Rent: €10-12K/yr + €98K; Buy: €300-350K + €68K | Permanent |
+| [[investment-residency]] | Malta Permanent Residence Programme (MPRP) | Rent: €10,000-12,000/yr + €98,000; Buy: €300,000-350,000 + €68,000 | Permanent |
 | [[passive-income-residency]] | Ordinary residence + sufficient resources | Proof of stable foreign income/savings | 1 year |
 | [[digital-nomad-visa]] | Nomad Residence Permit (since 2021) | €2,700/mo gross income | 1 year |
 | [[highly-skilled-employment]] | EU Blue Card | University degree; job offer; salary ≥ 1.5× average | ≤1 year |
@@ -53,7 +53,7 @@ Malta is the smallest EU member state with a strong passport and full Schengen m
 - **Duration / renewal**: **Permanent**. Card valid 5 years, renewed on compliance. No expiration of status. ^[https://www.ccmalta.com/publications/malta-golden-visa]
 - **Path to citizenship**: 7 years of legal residence → naturalization. Maltese or English language. Genuine integration assessment. ^[https://iworld.com/en/blog/malta-citizenship]
 - **Official source**: https://residencymalta.gov.mt
-- **Community verdict**: Works well — rare "permanent from day one" design. Rigorous vetting but high-value outcome. Expensive (~€100K-150K+ total outlay) but grants immediate permanent status.
+- **Community verdict**: Works well — rare "permanent from day one" design. Rigorous vetting but high-value outcome. Expensive (~€100,000-150,000+ total outlay) but grants immediate permanent status.
 
 ### Digital Nomad Visa — Nomad Residence Permit
 - **Official name**: Nomad Residence Permit
@@ -95,7 +95,7 @@ Malta's Nomad Residence Permit (€2,700/mo) is one of the EU's more accessible 
 Malta has the **largest ship registry in the EU** and a premier maritime jurisdiction. Yacht registration under Maltese flag is highly popular due to competitive tonnage tax and favorable VAT treatment (yacht leasing scheme). Recognized captain and crew licensing. Major marinas: Grand Harbour (Valletta), Msida, Portomaso. A global maritime hub.
 
 ## Notes for RU Citizens
-The MPRP (permanent residency, ~€100K+ total outlay) is accessible to Russian nationals subject to enhanced due diligence screening. Banking in Malta for RU passport holders may require additional documentation. The remittance-based tax system is favorable for RU citizens with income sources outside Malta. English as an official language removes the language barrier hurdle that exists in most other EU states. The Russian-speaking community in Malta is small but present.
+The MPRP (permanent residency, ~€100,000+ total outlay) is accessible to Russian nationals subject to enhanced due diligence screening. Banking in Malta for RU passport holders may require additional documentation. The remittance-based tax system is favorable for RU citizens with income sources outside Malta. English as an official language removes the language barrier hurdle that exists in most other EU states. The Russian-speaking community in Malta is small but present.
 
 
 
@@ -190,7 +190,7 @@ _Coverage: 51/55 fields. Only facts verifiable against official sources or publi
 
 ## Country Card
 
-Malta is the smallest EU member state — a Mediterranean island nation with full Schengen membership and a strong passport. It operates the Malta Permanent Residence Programme (MPRP), one of the rare EU golden visas that grants permanent residency from day one (~€100K+ total outlay). Its citizenship-by-investment programme was terminated by ECJ ruling in April 2025. English is an official language, making Malta uniquely accessible for Anglophone expats. The economy is service-driven with strengths in gaming, financial services, and maritime. As a densely populated micro-state, space and infrastructure are limited.
+Malta is the smallest EU member state — a Mediterranean island nation with full Schengen membership and a strong passport. It operates the Malta Permanent Residence Programme (MPRP), one of the rare EU golden visas that grants permanent residency from day one (~€100,000+ total outlay). Its citizenship-by-investment programme was terminated by ECJ ruling in April 2025. English is an official language, making Malta uniquely accessible for Anglophone expats. The economy is service-driven with strengths in gaming, financial services, and maritime. As a densely populated micro-state, space and infrastructure are limited.
 
 ### Well-known strong points
 - MPRP grants permanent residency from day one — rare in EU golden visa programmes

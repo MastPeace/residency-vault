@@ -44,7 +44,7 @@ Belize is an English-speaking Caribbean/Central American nation with a well-esta
 - **Duration / renewal**: Indefinite — QRP card must be renewed annually but status is on-going as long as requirements met. Must spend minimum 30 consecutive days per year in Belize.
 - **Path to citizenship**: QRP is NOT permanent residence — does NOT count toward citizenship years. To naturalize: first obtain permanent residence (1 year legal residence + application), then 5+ years permanent residence → apply for naturalization.
 - **Official source**: https://www.belizetourismboard.org/programs-events/retirement-program
-- **Community verdict**: Works well (lowest-threshold Caribbean retirement programme; $2K/mo is accessible for many retirees; 30-day/annual presence is very light; English-speaking; NO tax on foreign income — QRP specifically exempts foreign-source income).
+- **Community verdict**: Works well (lowest-threshold Caribbean retirement programme; $2,000/mo is accessible for many retirees; 30-day/annual presence is very light; English-speaking; NO tax on foreign income — QRP specifically exempts foreign-source income).
 
 ### employment_residency
 - **Official name**: Belize Work Permit
@@ -56,7 +56,7 @@ Belize is an English-speaking Caribbean/Central American nation with a well-esta
 
 ### startup_entrepreneur
 - **Official name**: Self-Employed Work Permit / QRP Investor
-- **Conditions**: Under QRP, a qualified person may carry on business if: approved by BTB, has minimum BZD 1,000,000 (~US$500K) investment capital, employs minimum 5 Belizean citizens, has resided 90 non-consecutive days in Belize. ^[https://www.belizetourismboard.org/programs-events/retirement-program]
+- **Conditions**: Under QRP, a qualified person may carry on business if: approved by BTB, has minimum BZD 1,000,000 (~US$500,000) investment capital, employs minimum 5 Belizean citizens, has resided 90 non-consecutive days in Belize. ^[https://www.belizetourismboard.org/programs-events/retirement-program]
 - **Duration / renewal**: Annual business approval.
 - **Path to citizenship**: Permanent residence → naturalization (5+ years).
 - **Official source**: https://www.belizetourismboard.org/programs-events/retirement-program
@@ -86,7 +86,7 @@ Belize operates an international ship registry (IMMARBE). Yacht registration ava
 - No visa-free access; Russian passport holders require visa.
 
 ## Community pulse
-- QRP is the standout programme — accessible ($2K/mo), English-speaking, territorial tax, minimal presence requirement.
+- QRP is the standout programme — accessible ($2,000/mo), English-speaking, territorial tax, minimal presence requirement.
 - Work permits and permanent residence are standard but small-market.
 - Expats praise low cost of living and lifestyle; healthcare limited outside Belize City.
 - QRP widely recommended for North American retirees.
@@ -108,7 +108,7 @@ Belize operates an international ship registry (IMMARBE). Yacht registration ava
 | Cost of living index | 48.5 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~$500 (Belize City/coastal areas) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Belize) [soft/estimate] |
 | Effective personal tax rate for remote workers | 0% on foreign-source income (territorial; QRP specifically exempt) | See [[#tax]] |
-| Remote-work / self-employment residence available? | No dedicated DN visa; QRP ($2K/mo, age 40+) is the main route | See [[#retired-residency]] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; QRP ($2,000/mo, age 40+) is the main route | See [[#retired-residency]] |
 | Years to citizenship | 5 years permanent residence (after 1 year legal residence first) | See [[#citizenship]] |
 | Maximum permitted absence during residence | QRP: 30 consecutive days/year minimum presence | See [[#retired-residency]] |
 | Passport strength after citizenship | ~100 visa-free destinations (Henley Q3 2025) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
@@ -185,7 +185,7 @@ _Coverage: 43/55 fields. Only facts verifiable against official sources or publi
 Belize is a small English-speaking nation on the Caribbean coast of Central America, bordered by Mexico and Guatemala. It uniquely combines Caribbean culture with Central American geography, featuring the world's second-largest barrier reef. Belize's flagship residency programme is the Qualified Retired Persons (QRP) programme, established in 1999: it grants indefinite "Permanent Tourist" status with a US$2,000/month foreign retirement income requirement, age 40+, and just 30 days/year of physical presence. QRP holders are specifically exempt from taxes on foreign-source income. Belize operates a territorial tax system and offers a moderate 5-year permanent residence + naturalization path (plus 1 year of legal residence first). Dual citizenship is recognized.
 
 ### Well-known strong points
-- QRP programme: indefinite residency, $2K/mo, age 40+, 30 days/year presence — low friction
+- QRP programme: indefinite residency, $2,000/mo, age 40+, 30 days/year presence — low friction
 - English-speaking with British common-law legal system
 - Territorial tax: no tax on foreign-source income; QRP specifically exempt
 - Freedom House score 86/100 (Free) — stable democracy
@@ -201,6 +201,6 @@ Belize is a small English-speaking nation on the Caribbean coast of Central Amer
 - No digital nomad visa; QRP is the only accessible long-stay route
 ## Status
 - **Last monitored**: 2026-10-12
-- Last change: QRP programme operational since 1999; income threshold unchanged at $2K/mo for many years.
+- Last change: QRP programme operational since 1999; income threshold unchanged at $2,000/mo for many years.
 - Last monitored: 2026-09-14.
 - No open watch items.

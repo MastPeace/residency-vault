@@ -58,7 +58,7 @@ Uganda's Directorate of Citizenship and Immigration Control (DCIC) operates a de
 
 ## Tax
 - Residence-based taxation. Tax resident if >183 days or permanent home in Uganda.
-- Personal income tax: progressive 10%–40% (top rate on UGX 120M+/yr, ~USD 32,000).
+- Personal income tax: progressive 10%–40% (top rate on UGX 120,000,000+/yr, ~USD 32,000).
 - Corporate tax: 30%.
 - VAT: 18%.
 - Rental income tax: 12%–30%.
@@ -91,7 +91,7 @@ eVisa for Russian citizens (single entry, 90 days). Uganda maintains neutral rel
 | Median net monthly salary | ~$200–300 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Uganda] |
 | Cost of living index (relative) | ~28 (NYC=100) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Uganda] |
 | Monthly rent, 1‑bedroom apartment | ~$200–350 (Kampala) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Uganda] |
-| Effective personal tax rate for remote workers | 10%–40% progressive (top rate on UGX 120M+/yr) | [soft/estimate] |
+| Effective personal tax rate for remote workers | 10%–40% progressive (top rate on UGX 120,000,000+/yr) | [soft/estimate] |
 | Remote‑work / self‑employment residence available? | No dedicated DN visa; Class H (assured income) permit may work for remote workers | ^[https://www.immigration.go.ug/permit/entry-permit] |
 | Years to citizenship | ~20+ years continuous residence (constitutional requirement) | ^[https://www.immigration.go.ug] |
 | Maximum permitted absence during residence | Not clearly defined | [soft/estimate] |
@@ -116,7 +116,7 @@ Uganda is a fertile, landlocked East African nation on the shores of Lake Victor
 ### Well-known problems
 - Citizenship requires 20+ years of continuous residence — impractical for most
 - No dedicated digital nomad visa; remote workers operate in a grey area
-- Personal income tax reaches 40% at relatively low thresholds (UGX 120M/yr, ~USD 32K)
+- Personal income tax reaches 40% at relatively low thresholds (UGX 120,000,000/yr, ~USD 32,000)
 - Landlocked — no direct ocean access; limited yacht/maritime options
 - Political environment restricts freedoms; Freedom House score: Not Free (34/100)
 - Infrastructure gaps — electricity reliability and road quality vary

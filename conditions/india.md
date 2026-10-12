@@ -40,7 +40,7 @@ India's immigration system offers short-stay visas (e-visa, business, employment
 - **Duration / renewal**: 1 year initial, renewable up to 5 years.
 - **Path to citizenship**: 12 years residence (11 of 14 years + 12 continuous months).
 - **Official source**: https://indianvisaonline.gov.in/
-- **Community verdict**: Works well but the US$25k salary floor and employer sponsorship are hurdles for smaller firms.
+- **Community verdict**: Works well but the US$25,000 salary floor and employer sponsorship are hurdles for smaller firms.
 
 ### startup_entrepreneur
 - **Official name**: Business Visa (B visa)
@@ -94,7 +94,7 @@ Long coastline (~7,500 km); major ports: Mumbai, Chennai, Kochi, Visakhapatnam. 
 Visa required (e-visa available). No visa-free entry. Employment visa requires a sponsoring employer; OCI not available to RU nationals without Indian origin. Banking for non-residents is possible but compliance-heavy. Some RU nationals use Goa as a seasonal base on tourist/e-visa (30-day tourist eVisa, extendable only in limited cases).
 
 ## Community Pulse
-India is not a residence-by-investment market; the only true long-stay vehicle is OCI (for those of Indian origin). Foreigners typically stay on employment or business visas. There is consistent expat frustration with FRRO bureaucracy and the US$25k employment salary floor.
+India is not a residence-by-investment market; the only true long-stay vehicle is OCI (for those of Indian origin). Foreigners typically stay on employment or business visas. There is consistent expat frustration with FRRO bureaucracy and the US$25,000 employment salary floor.
 
 ## Country Snapshot
 

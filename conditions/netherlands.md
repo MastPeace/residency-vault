@@ -121,7 +121,7 @@ Not available. The Netherlands does not offer direct citizenship by investment.
 - **Standard rates**: Progressive Box 1 (income): 36.93% up to €73,031 / 49.5% above (2026). Box 2 (substantial interest): 24.5%/31%. Box 3 (wealth): deemed-return tax (~36% on assumed returns, assets > €57,000).
 - **30% ruling**: Qualifying expat employees recruited from abroad can receive 30% of salary tax-free for up to 5 years (reduced from 8). 2026 salary minimum: ~€69,000 (or €46,000 for those under 30 with a master's). Partial non-resident status for Box 2/3. ^[https://www.nlcompass.com/guides/work-permits-netherlands]
 - **DAFT holders**: Generally not eligible for 30% ruling unless employed via own BV pre-arrival.
-- **Corporate tax**: 19% up to €200K, 25.8% above.
+- **Corporate tax**: 19% up to €200,000, 25.8% above.
 
 ## IT / Digital Nomad
 No digital nomad visa. IT professionals should use the Highly Skilled Migrant route (most common) — recognized sponsors include most major tech companies (Booking.com, Adyen, ASML, Uber Amsterdam, etc.). The 30% ruling is a significant net-income boost. No freelancer/ZZP visa for non-EU: DAFT (US citizens) is the closest workaround but requires active business. Amsterdam, Eindhoven, and Rotterdam are major tech hubs. The Netherlands has world-class digital infrastructure and near-universal English proficiency, making it one of the easiest countries to operate in without Dutch language.

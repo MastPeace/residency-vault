@@ -25,14 +25,14 @@ A Nomad Digital Residence (NDR) visa was previously available but has ended. ^[h
 |------|-----------------|----------------|----------|--------|
 | investment_residency | Not separate — CBI grants direct citizenship | See [[#citizenship-by-investment]] | — | — |
 | passive_income_residency | Not available | — | — | — |
-| digital_nomad_visa | Nomad Digital Residence (ENDED) | Was $50K income; $1,500 single / $2K couple / $3K family | Was 2 years | [[#digital-nomad-visa]] |
+| digital_nomad_visa | Nomad Digital Residence (ENDED) | Was $50,000 income; $1,500 single / $2,000 couple / $3,000 family | Was 2 years | [[#digital-nomad-visa]] |
 | highly_skilled_employment | Work permit | Job offer; employer-sponsored | 1 yr, renewable | — |
 | startup_entrepreneur | Not available | — | — | — |
 | employment_residency | Work permit | Job offer from local employer | 1 yr, renewable | — |
 | student_residency | Student visa | Enrollment in approved institution | Course duration | — |
 | family_reunification | Dependent permit | Sponsor with valid permit | Matches principal | — |
 | retired_residency | Not available | — | — | — |
-| citizenship_by_investment | CBI Programme | NDF Donation $230K / Real Estate $300K+ / Business $400K+ / UWI $260K | 3–6 months | [[#citizenship-by-investment]] |
+| citizenship_by_investment | CBI Programme | NDF Donation $230,000 / Real Estate $300,000+ / Business $400,000+ / UWI $260,000 | 3–6 months | [[#citizenship-by-investment]] |
 
 ## Per-Program Detail
 
@@ -42,12 +42,12 @@ A Nomad Digital Residence (NDR) visa was previously available but has ended. ^[h
   - **NDF Donation** (National Development Fund): US$230,000 non-refundable contribution (family of up to 4); +$25,000 per additional dependent. ^[https://cip.gov.ag/citizenship]
   - **Real Estate**: Minimum US$300,000 in government-approved real estate; must hold 5 years. ^[https://cip.gov.ag/citizenship]
   - **Business Investment**: US$1,500,000 sole investor, or joint investment of US$5,000,000+ with each investor contributing minimum US$400,000. ^[https://cip.gov.ag/citizenship]
-  - **UWI Fund** (University of the West Indies): US$260,000 minimum (family of 6+); includes one-year tuition scholarship. ^[https://cip.gov.ag/citizenship]
+  - **UWI Fund** (University of the West Indies): US$260,000 minimum (family of 6+); includes 1-year tuition scholarship. ^[https://cip.gov.ag/citizenship]
   - Processing fee: US$30,000 for family of 4; due diligence: ~US$7,500 main applicant.
 - **Duration / renewal**: Citizenship is permanent and irrevocable. Passport renewal every 5 years (now biometric). 5-day physical presence required within first 5 years of citizenship.
 - **Path to citizenship**: Direct citizenship upon investment completion. No prior residence needed. No language exam. Mandatory interview (virtual or in-person) per 2024 OECS MoA.
 - **Official source**: https://cip.gov.ag/citizenship
-- **Community verdict**: Works well (mature programme; price increased August 2024 to $230K NDF and $300K real estate per OECS MoA; 5-day visit requirement is minimal friction).
+- **Community verdict**: Works well (mature programme; price increased August 2024 to $230,000 NDF and $300,000 real estate per OECS MoA; 5-day visit requirement is minimal friction).
 
 ### digital_nomad_visa
 - **Official name**: Antigua & Barbuda Nomad Digital Residence (NDR)
@@ -192,6 +192,6 @@ Antigua & Barbuda is a twin-island eastern Caribbean nation and one of the five 
 - Hurricane risk; infrastructure vulnerability
 ## Status
 - **Last monitored**: 2026-10-12
-- Last change: August 1, 2024 — investment thresholds raised (NDF $230K, Real Estate $300K); NDR programme ended.
+- Last change: August 1, 2024 — investment thresholds raised (NDF $230,000, Real Estate $300,000); NDR programme ended.
 - Last monitored: 2026-09-14.
 - No open watch items.

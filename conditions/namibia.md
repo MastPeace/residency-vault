@@ -58,7 +58,7 @@ Namibia launched its Digital Nomad Visa in 2023, offering a 6-month stay for rem
 
 ## Tax
 - Residence-based taxation. Tax resident if ordinarily resident or >183 days physical presence.
-- Personal income tax: progressive 0%–37% (top rate on NAD 1.5M+/yr, ~USD 80,000).
+- Personal income tax: progressive 0%–37% (top rate on NAD 1,500,000+/yr, ~USD 80,000).
 - Corporate tax: 32%.
 - VAT: 15%.
 - No capital gains tax (except on sale of immovable property by non-residents).
@@ -92,7 +92,7 @@ Visa-free entry for 30 days for Russian citizens. DN visa accessible. Namibia ma
 | Median net monthly salary | ~$700–900 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Namibia] |
 | Cost of living index (relative) | ~35 (NYC=100) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Namibia] |
 | Monthly rent, 1‑bedroom apartment | ~$300–500 (Windhoek centre) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Namibia] |
-| Effective personal tax rate for remote workers | 0%–37% progressive (top rate on NAD 1.5M+/yr); 6-month DN visa unlikely to trigger residence | [soft/estimate] |
+| Effective personal tax rate for remote workers | 0%–37% progressive (top rate on NAD 1,500,000+/yr); 6-month DN visa unlikely to trigger residence | [soft/estimate] |
 | Remote‑work / self‑employment residence available? | Yes — Digital Nomad Visa (6 months, non-renewable; reapply after 12-month gap) | ^[https://www.nipdb.com/digital-nomad-visa] |
 | Years to citizenship | 5+ years ordinary residence (10+ years for non-Commonwealth citizens) | ^[https://mhaiss.gov.na] |
 | Maximum permitted absence during residence | Not clearly defined | [soft/estimate] |

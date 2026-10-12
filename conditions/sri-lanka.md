@@ -123,11 +123,11 @@ Sri Lanka is a low-cost, beautiful base but not a mainstream immigration destina
 ## Country Card
 
 ### General description
-Sri Lanka is an island nation south of India known for its beaches, tea, and Buddhist heritage. It offers an investor residence visa (Golden Paradise, US$200k / 10 years) and dual citizenship mainly for its diaspora, but no nomad or passive-income program. It remains a low-cost, off-the-beaten-path option recovering from the 2022 economic crisis.
+Sri Lanka is an island nation south of India known for its beaches, tea, and Buddhist heritage. It offers an investor residence visa (Golden Paradise, US$200,000 / 10 years) and dual citizenship mainly for its diaspora, but no nomad or passive-income program. It remains a low-cost, off-the-beaten-path option recovering from the 2022 economic crisis.
 
 ### Well-known strong points
 - Very low cost of living (Numbeo index ~25)
-- Golden Paradise investor visa with a moderate US$200k threshold
+- Golden Paradise investor visa with a moderate US$200,000 threshold
 - Dual citizenship available to the diaspora (resumption/retention)
 - Warm tropical climate and extensive beaches
 - English widely understood in urban areas
@@ -141,5 +141,5 @@ Sri Lanka is an island nation south of India known for its beaches, tea, and Bud
 
 ## Status
 - **Last monitored**: 2026-10-12
-- **Recent changes known**: Golden Paradise Visa promotion ongoing; Investor Visa tiers (US$100k/5yr, US$200k/10yr).
+- **Recent changes known**: Golden Paradise Visa promotion ongoing; Investor Visa tiers (US$100,000/5yr, US$200,000/10yr).
 - **Watch items**: Golden Paradise uptake; dual-citizenship fee/investment criteria.

@@ -15,13 +15,13 @@ last_checked: 2026-10-12
 ---
 
 ## Overview
-Luxembourg is a small, wealthy EU/Schengen member with one of the world's strongest passports. Immigration is managed by the General Department of Immigration (Ministry of Home Affairs). Luxembourg uniquely offers a dedicated investor residence permit (€500K minimum) and an EU Blue Card for highly qualified workers. Citizenship requires 5 years of residence; dual citizenship is permitted. ^[https://guichet.public.lu/en/citoyens/immigration.html]
+Luxembourg is a small, wealthy EU/Schengen member with one of the world's strongest passports. Immigration is managed by the General Department of Immigration (Ministry of Home Affairs). Luxembourg uniquely offers a dedicated investor residence permit (€500,000 minimum) and an EU Blue Card for highly qualified workers. Citizenship requires 5 years of residence; dual citizenship is permitted. ^[https://guichet.public.lu/en/citoyens/immigration.html]
 
 ## Residency Programs
 
 | Type | Official program | Key conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Investor residence permit | ≥€500K in existing Luxembourg company; or ≥€500K in new company creating 5+ jobs; or ≥€3M in a management/structure investment; or €20M+ in a depository institution | 3 years, renewable | [#](#investment-residency) |
+| investment_residency | Investor residence permit | ≥€500,000 in existing Luxembourg company; or ≥€500,000 in new company creating 5+ jobs; or ≥€3,000,000 in a management/structure investment; or €20,000,000+ in a depository institution | 3 years, renewable | [#](#investment-residency) |
 | passive_income_residency | Private reasons residence (discretionary) | Proof of sufficient means; health insurance; no work | 1 year, renewable | [#](#passive-income-residency) |
 | digital_nomad_visa | Not available | No dedicated digital nomad visa | — | — |
 | highly_skilled_employment | EU Blue Card | Higher education degree; employment contract ≥1 year; salary ≥1.5× average gross salary (~€78,000 in 2026) | Duration of contract + 3 months, max 4 years | [#](#highly-skilled-employment) |
@@ -113,7 +113,7 @@ Luxembourg is a small, wealthy EU/Schengen member with one of the world's strong
 
 ## Tax
 - **Progressive income tax**: 8%–42% (top rate above €220,788). Class 1 (single) first €12,438 tax-free.
-- **Impatriate tax regime**: expat employees can exclude 50% of gross salary from Luxembourg tax (max €400K/year exempt, 5-year limit). Special conditions for R&D specialists. ^[https://guichet.public.lu/en/citoyens/fiscalite/impots-personnes-physiques/regime-impatries.html]
+- **Impatriate tax regime**: expat employees can exclude 50% of gross salary from Luxembourg tax (max €400,000/year exempt, 5-year limit). Special conditions for R&D specialists. ^[https://guichet.public.lu/en/citoyens/fiscalite/impots-personnes-physiques/regime-impatries.html]
 - **Corporate tax**: 17% (plus 6.75% municipal business tax on profits, effective ~24.94% in Luxembourg City). Minimum corporate tax €75–€4,815 depending on balance sheet.
 - **No wealth tax** for individuals.
 - **VAT**: 17% standard (lowest in EU); 8% intermediate; 3% super-reduced.
@@ -144,7 +144,7 @@ EU sanctions apply. The investor residence route is accessible in principle but 
 | Median net monthly salary | ~$5,640 (~€5,200) | [Numbeo](https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105) [soft/estimate] |
 | Cost of living index | 64.8 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~€1,600 (Luxembourg City centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Luxembourg) [soft/estimate] |
-| Effective personal tax rate for remote workers | Progressive 8%–42%; impatriate regime: 50% exemption on salary (max €400K/yr, 5 years) | See [[#tax]] [soft/estimate] |
+| Effective personal tax rate for remote workers | Progressive 8%–42%; impatriate regime: 50% exemption on salary (max €400,000/yr, 5 years) | See [[#tax]] [soft/estimate] |
 | Remote-work / self-employment residence available? | No — no digital nomad visa; independent worker residence available | See [[#digital-nomad-visa]] |
 | Years to citizenship | 5 years | See [[#citizenship]] |
 | Maximum permitted absence during residence | Must include 12 continuous months immediately before citizenship application | See [[#citizenship]] |
@@ -157,13 +157,13 @@ EU sanctions apply. The investor residence route is accessible in principle but 
 ## Country Card
 
 ### General description
-Luxembourg is a tiny, exceptionally wealthy EU founding member with the world's highest GDP per capita (PPP) and a global financial centre. Its economy is dominated by banking, investment funds, and EU institutions. Luxembourg offers a uniquely structured investor residence permit (from €500K), an EU Blue Card (salary ~€78K threshold), and one of the most generous impatriate tax regimes in the EU (50% salary exemption). Citizenship is available after 5 years with a Luxembourgish language exam (A2 spoken, B1 comprehension) — dual citizenship is permitted.
+Luxembourg is a tiny, exceptionally wealthy EU founding member with the world's highest GDP per capita (PPP) and a global financial centre. Its economy is dominated by banking, investment funds, and EU institutions. Luxembourg offers a uniquely structured investor residence permit (from €500,000), an EU Blue Card (salary ~€78,000 threshold), and one of the most generous impatriate tax regimes in the EU (50% salary exemption). Citizenship is available after 5 years with a Luxembourgish language exam (A2 spoken, B1 comprehension) — dual citizenship is permitted.
 
 ### Well-known strong points
 - World's highest GDP per capita PPP (~$143,000) and highest median salary (~$5,640/mo)
-- Generous impatriate tax regime: 50% salary exemption (max €400K/yr)
+- Generous impatriate tax regime: 50% salary exemption (max €400,000/yr)
 - Fast citizenship: 5 years with dual citizenship permitted
-- Dedicated investor residence permit (from €500K with clear criteria)
+- Dedicated investor residence permit (from €500,000 with clear criteria)
 - Very high Rule of Law (WJP 0.81) and political freedom (FH 97/100)
 - Multilingual environment (French/English/German widely spoken) and excellent quality of life
 
@@ -173,7 +173,7 @@ Luxembourg is a tiny, exceptionally wealthy EU founding member with the world's 
 - No digital nomad visa; no dedicated passive-income or retirement route
 - Small, expensive housing market with limited supply
 - Landlocked; limited cultural/entertainment scene compared to larger neighbours
-- High salary thresholds for work permits (Blue Card ~€78K) reflect high-wage economy
+- High salary thresholds for work permits (Blue Card ~€78,000) reflect high-wage economy
 
 ## Status
 - **Last monitored**: 2026-10-12

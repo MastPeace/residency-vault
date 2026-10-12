@@ -17,13 +17,13 @@ last_checked: 2026-10-12
 ---
 
 ## Overview
-Panama's immigration is managed by the Servicio Nacional de Migración (SNM). Panama offers two flagship residency programs: the **Friendly Nations Visa** (50+ qualifying countries, USD 200K real estate or CD or employment, 2-year provisional → permanent) and the **Qualified Investor Visa** (direct permanent residency from USD 300K real estate — rising to USD 500K on 15 October 2026). Panama also has a **digital nomad visa** (Short-Stay Visa, 9+9 months) and the **Pensionado Visa** (USD 1,000/mo lifetime pension). The Panamanian passport provides ~140 visa-free destinations. Panama uses the US dollar as its currency and operates a territorial tax system (foreign income 0%). Citizenship requires 5 years of permanent residency; dual citizenship is not recognized (renunciation may be required). ^[https://goldenharbors.com/articles/panama-citizenship-by-investment]
+Panama's immigration is managed by the Servicio Nacional de Migración (SNM). Panama offers two flagship residency programs: the **Friendly Nations Visa** (50+ qualifying countries, USD 200,000 real estate or CD or employment, 2-year provisional → permanent) and the **Qualified Investor Visa** (direct permanent residency from USD 300,000 real estate — rising to USD 500,000 on 15 October 2026). Panama also has a **digital nomad visa** (Short-Stay Visa, 9+9 months) and the **Pensionado Visa** (USD 1,000/mo lifetime pension). The Panamanian passport provides ~140 visa-free destinations. Panama uses the US dollar as its currency and operates a territorial tax system (foreign income 0%). Citizenship requires 5 years of permanent residency; dual citizenship is not recognized (renunciation may be required). ^[https://goldenharbors.com/articles/panama-citizenship-by-investment]
 
 ## Residency Programs
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Visa de Residente Permanente — Inversionista Calificado (Qualified Investor, Decree 722/2020 + Decree 193/2024) | USD 300K real estate (→USD 500K Oct 2026) / USD 500K securities / USD 750K bank deposit; hold 5 yr | Direct permanent residency (indefinite) | [[#investment-residency]] |
+| investment_residency | Visa de Residente Permanente — Inversionista Calificado (Qualified Investor, Decree 722/2020 + Decree 193/2024) | USD 300,000 real estate (→USD 500,000 Oct 2026) / USD 500,000 securities / USD 750,000 bank deposit; hold 5 yr | Direct permanent residency (indefinite) | [[#investment-residency]] |
 | passive_income_residency | Friendly Nations Visa (CD route) | USD 200,000 fixed-term deposit (3 yr min) for citizens of 50+ qualifying countries | 2 yr provisional → permanent | [[#passive-income-residency]] |
 | digital_nomad_visa | Visa de Corta Estancia como Trabajador Remoto (Decree 198/2021) | Income ≥ USD 36,000/yr from foreign sources; health insurance required | 9 months, renewable once (18 mo max); does NOT count toward residency | [[#digital-nomad-visa]] |
 | highly_skilled_employment | Friendly Nations Visa (employment route) | Job offer from Panamanian employer + USD 5,000 bank deposit; 50+ qualifying nationalities | 2 yr provisional → permanent | [[#highly-skilled-employment]] |
@@ -58,7 +58,7 @@ Panama's immigration is managed by the Servicio Nacional de Migración (SNM). Pa
 - **Duration / renewal**: 9 months, renewable once (18 months max). Does NOT count toward permanent residency or citizenship.
 - **Path to citizenship**: No direct path. Can transition to Friendly Nations Visa or Qualified Investor Visa for permanent residency.
 - **Official source**: https://www.migracion.gob.pa
-- **Community verdict**: Mixed (USD 36K/yr threshold is high for Latin America; 18-month max; no PR path. Dollarized economy and territorial tax are pluses).
+- **Community verdict**: Mixed (USD 36,000/yr threshold is high for Latin America; 18-month max; no PR path. Dollarized economy and territorial tax are pluses).
 
 ### highly_skilled_employment
 - **Official name**: Friendly Nations Visa — Employment route
@@ -131,7 +131,7 @@ Not available. No direct CBI. Qualified Investor Visa provides immediate permane
 - **Dollarized economy**: No exchange-rate risk for USD earners.
 
 ## IT / Digital Nomad
-- Short-Stay DN Visa: 9+9 months, USD 36K/yr threshold. No PR path. Panama City has excellent infrastructure (fiber internet, coworking spaces, Tocumen hub).
+- Short-Stay DN Visa: 9+9 months, USD 36,000/yr threshold. No PR path. Panama City has excellent infrastructure (fiber internet, coworking spaces, Tocumen hub).
 - Long-term remote workers typically use Friendly Nations (CD or real estate route) for permanent residency + territorial tax.
 - Panama is a major business hub (Panama Canal, banking center, multinational regional HQs).
 
@@ -139,7 +139,7 @@ Not available. No direct CBI. Qualified Investor Visa provides immediate permane
 Panama is one of the world's largest vessel registries (Panama Ship Registry). Yacht owners can register vessels under the Panamanian flag. No special residency program for yacht captains, but Friendly Nations / Qualified Investor provide straightforward residency for maritime professionals.
 
 ## Notes for RU citizens
-- Russian citizens are NOT on the Friendly Nations qualifying list. RU nationals must use Qualified Investor (USD 300K → 500K real estate, USD 500K securities, or USD 750K deposit) or standard residency routes.
+- Russian citizens are NOT on the Friendly Nations qualifying list. RU nationals must use Qualified Investor (USD 300,000 → 500K real estate, USD 500,000 securities, or USD 750,000 deposit) or standard residency routes.
 - RU nationals: tourist visa required (not visa-exempt).
 - Banking: Panama is a major international banking center but compliance for RU nationals post-2022 is intensive. Several Panamanian banks have closed or restricted RU-linked accounts.
 - Documents: apostilled (or consularly legalized) and translated into Spanish.
@@ -150,11 +150,11 @@ Panama is one of the world's largest vessel registries (Panama Ship Registry). Y
 - **Processing**: Qualified Investor ~30–45 business days. Friendly Nations provisional ~6 months, permanent ~6 months.
 - **Rejection risk**: Low for Qualified Investor (clear thresholds). Friendly Nations since 2021 scrutinizes genuine economic connection.
 - **Costs**: Qualified Investor: USD 5,000 SNM + USD 5,000 Treasury (+ USD 1,000/dependent 12+, USD 1,000/dependent under 12 to Treasury only). Friendly Nations: ~USD 1,250 government fees.
-- **Red flag**: USD 300K real estate threshold RISES to USD 500K on 15 October 2026 — a confirmed deadline.
+- **Red flag**: USD 300,000 real estate threshold RISES to USD 500,000 on 15 October 2026 — a confirmed deadline.
 
 ## Status
 - **Last monitored**: 2026-10-12
-- Last major change: Qualified Investor real estate threshold increase from USD 300K to USD 500K — effective 15 October 2026. ^[https://startabroad.com/resource/panama-visa-residency-and-citizenship-options]
+- Last major change: Qualified Investor real estate threshold increase from USD 300,000 to USD 500,000 — effective 15 October 2026. ^[https://startabroad.com/resource/panama-visa-residency-and-citizenship-options]
 - Friendly Nations tightened August 2021 (provisional not direct PR; genuine economic connection required).
 - Last monitored: 2026-09-14.
 ## Country Snapshot
@@ -172,7 +172,7 @@ Panama is one of the world's largest vessel registries (Panama Ship Registry). Y
 | Cost of living index | 41.0 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~$700 (Panama City centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Panama) [soft/estimate] |
 | Effective personal tax rate for remote workers | 0% on foreign-source income (territorial tax system); Panama-source income 0%–25% | [DGI Panama](https://www.dgi.gob.pa) [soft/estimate] |
-| Remote-work / self-employment residence available? | Yes — Short-Stay DN Visa ($36,000/yr, 9+9 months, does not count toward residency); Friendly Nations Visa ($200K CD or real estate + employment, 50+ qualifying nationalities); Qualified Investor ($300K→$500K real estate Oct 2026, direct PR) | See [[#digital-nomad-visa]] |
+| Remote-work / self-employment residence available? | Yes — Short-Stay DN Visa ($36,000/yr, 9+9 months, does not count toward residency); Friendly Nations Visa ($200,000 CD or real estate + employment, 50+ qualifying nationalities); Qualified Investor ($300,000→$500,000 real estate Oct 2026, direct PR) | See [[#digital-nomad-visa]] |
 | Years to citizenship | 5 years of permanent residency (3 years for spouses/parents of Panamanians) | See [[#citizenship]] |
 | Maximum permitted absence during residence | At least 1 visit every 2 years to maintain permanent residency | See [[#citizenship]] |
 | Passport strength after citizenship | 148 visa-free destinations (Henley Q3 2025, rank 28) | [Henley & Partners](https://www.henleyglobal.com/publications/global-mobility-report/2025-july) — hard/official |
@@ -184,11 +184,11 @@ Panama is one of the world's largest vessel registries (Panama Ship Registry). Y
 ## Country Card
 
 ### General description
-Panama is a narrow isthmus connecting North and South America, best known for the Panama Canal — a critical global shipping route. It has the highest GDP per capita in Central America (~$42,000 PPP), uses the US dollar as legal tender, and operates a territorial tax system (0% foreign income). Panama offers three flagship residency routes: the Qualified Investor Visa (direct PR from $300K real estate — rising to $500K in October 2026), the Friendly Nations Visa (50+ qualifying countries, $200K CD or employment), and the legendary Pensionado Visa ($1,000/mo lifetime pension). Panama City is a major international banking and business hub.
+Panama is a narrow isthmus connecting North and South America, best known for the Panama Canal — a critical global shipping route. It has the highest GDP per capita in Central America (~$42,000 PPP), uses the US dollar as legal tender, and operates a territorial tax system (0% foreign income). Panama offers three flagship residency routes: the Qualified Investor Visa (direct PR from $300,000 real estate — rising to $500,000 in October 2026), the Friendly Nations Visa (50+ qualifying countries, $200,000 CD or employment), and the legendary Pensionado Visa ($1,000/mo lifetime pension). Panama City is a major international banking and business hub.
 
 ### Well-known strong points
 - Territorial tax: 0% on foreign-source income — combined with dollarized economy, ideal for international earners
-- Qualified Investor Visa: direct permanent residency in 30–45 business days (from $300K real estate)
+- Qualified Investor Visa: direct permanent residency in 30–45 business days (from $300,000 real estate)
 - Legendary Pensionado program: $1,000/mo → permanent residency + extensive discount benefits
 - Dollarized economy since 1904 — no exchange-rate risk
 - Panama City is a modern business hub with excellent infrastructure, fiber internet, Tocumen airport hub
@@ -196,8 +196,8 @@ Panama is a narrow isthmus connecting North and South America, best known for th
 
 ### Well-known problems
 - Dual citizenship NOT recognized — naturalized citizens must renounce prior nationality (enforcement varies)
-- Qualified Investor real estate threshold rising from $300K to $500K on 15 October 2026 — confirmed deadline
-- Digital Nomad visa is mediocre: $36K/yr income threshold (high), 18 months max, no PR path
+- Qualified Investor real estate threshold rising from $300,000 to $500,000 on 15 October 2026 — confirmed deadline
+- Digital Nomad visa is mediocre: $36,000/yr income threshold (high), 18 months max, no PR path
 - Friendly Nations Visa tightened since 2021: provisional (not direct PR), genuine economic connection scrutinized
 - Russian citizens excluded from Friendly Nations; must use Qualified Investor or standard routes
 - Banking compliance for non-residents and certain nationalities (RU) is increasingly restrictive post-2022

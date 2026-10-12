@@ -15,21 +15,21 @@ last_checked: 2026-10-12
 ---
 
 ## Overview
-Bahrain operates a [[investment-residency|golden residency]] programme (permanent, renewed every 10 years for a BD 300 administrative fee) covering: property owners (BD 130K+), employees (5+ years, BD 2K/mo salary), retirees (BD 4K pension or 15+ yrs in Bahrain + BD 2K pension), and talented individuals. Self-sponsorship residence permits are also available for property owners at BD 200 (2yr), BD 400 (5yr), BD 600 (10yr). Personal income tax is 0%. Bahrain does NOT offer citizenship to expatriates. ^[https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency]
+Bahrain operates a [[investment-residency|golden residency]] programme (permanent, renewed every 10 years for a BD 300 administrative fee) covering: property owners (BD 130,000+), employees (5+ years, BD 2,000/mo salary), retirees (BD 4,000 pension or 15+ yrs in Bahrain + BD 2,000 pension), and talented individuals. Self-sponsorship residence permits are also available for property owners at BD 200 (2yr), BD 400 (5yr), BD 600 (10yr). Personal income tax is 0%. Bahrain does NOT offer citizenship to expatriates. ^[https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency]
 
 ## Residency Programs
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Golden Residency — Property Owner | BD 130K+ property; BD 200K for eGov route | Permanent (10yr renew) | [[#golden-residency-property]] |
+| investment_residency | Golden Residency — Property Owner | BD 130,000+ property; BD 200,000 for eGov route | Permanent (10yr renew) | [[#golden-residency-property]] |
 | passive_income_residency | Not available | — | — | — |
 | digital_nomad_visa | Not available | No dedicated DN visa | — | — |
-| highly_skilled_employment | Golden Residency — Employee | 5+ years in Bahrain, BD 2K/mo avg salary past 5 years | Permanent (10yr renew) | [[#golden-residency-employee]] |
+| highly_skilled_employment | Golden Residency — Employee | 5+ years in Bahrain, BD 2,000/mo avg salary past 5 years | Permanent (10yr renew) | [[#golden-residency-employee]] |
 | startup_entrepreneur | Golden Residency — Talented (entrepreneur) | Incubator endorsement | Permanent (10yr renew) | [[#golden-residency-talent]] |
 | employment_residency | Standard Work Permit | Employer sponsor, labour contract | 1–2 years, renewable | [[#employment-residency]] |
 | student_residency | Student Visa | Enrolment in Bahraini institution | Duration of study | [[#student-residency]] |
 | family_reunification | Family Visa | Sponsor must hold valid permit | Tied to sponsor | [[#family-reunification]] |
-| retired_residency | Golden Residency — Retired | BD 4K+ basic pension (non-resident), OR 15+ yrs Bahrain + BD 2K pension | Permanent (10yr renew) | [[#golden-residency-retired]] |
+| retired_residency | Golden Residency — Retired | BD 4,000+ basic pension (non-resident), OR 15+ yrs Bahrain + BD 2,000 pension | Permanent (10yr renew) | [[#golden-residency-retired]] |
 | citizenship_by_investment | Not available | No pathway | N/A | [[#citizenship]] |
 
 ## Per-Program Detail
@@ -127,18 +127,18 @@ Bahrain operates a [[investment-residency|golden residency]] programme (permanen
 - **eVisa** available for Russian passport holders (2 weeks, extendable). Not visa-free — visa required in advance or on arrival (discretionary).
 - **Small RU community** — smaller than UAE but present.
 - **No sanctions**, Bahraini banks generally accessible to Russian nationals.
-- **Property route to Golden Residency** is the most accessible pathway: BD 200K (~$530K) via eGovernment or BD 130K via NPRA.
+- **Property route to Golden Residency** is the most accessible pathway: BD 200,000 (~$530,000) via eGovernment or BD 130,000 via NPRA.
 - **Direct flights**: Bahrain–Moscow via Gulf Air (limited, ~2–3 weekly).
 - Bahrain's social environment is the most liberal in the Gulf (alcohol legal, Western lifestyle), making it a softer landing for RU nationals compared to Saudi/Kuwait/Qatar.
 - Awareness low among RU audience; UAE dominates mindshare.
 
 ## Community pulse
-Bahrain is the most underrated Gulf residency destination. Golden Residency is accessible (BD 200K property + BD 300/10yr), fast (5 working days), and liberal. The main drawbacks: smaller economy, less global connectivity (airport), and lower prestige than UAE. For those prioritizing cost-effective permanent residency in a 0% tax Gulf state, Bahrain is a strong option. Expat quality of life is good, cost of living moderate.
+Bahrain is the most underrated Gulf residency destination. Golden Residency is accessible (BD 200,000 property + BD 300/10yr), fast (5 working days), and liberal. The main drawbacks: smaller economy, less global connectivity (airport), and lower prestige than UAE. For those prioritizing cost-effective permanent residency in a 0% tax Gulf state, Bahrain is a strong option. Expat quality of life is good, cost of living moderate.
 
 ## Status
 - **Last monitored**: 2026-10-12
-- **Recent changes**: Golden Residency programme stable. Property threshold appears at BD 200K on eGovernment portal, BD 130K on NPRA (dual routes).
-- **Watch items**: Alignment of BD 130K vs BD 200K thresholds across platforms. Potential introduction of digital nomad / remote work visa (being discussed regionally).
+- **Recent changes**: Golden Residency programme stable. Property threshold appears at BD 200,000 on eGovernment portal, BD 130,000 on NPRA (dual routes).
+- **Watch items**: Alignment of BD 130,000 vs BD 200,000 thresholds across platforms. Potential introduction of digital nomad / remote work visa (being discussed regionally).
 
 ## Country Snapshot
 
@@ -155,7 +155,7 @@ Bahrain is the most underrated Gulf residency destination. Golden Residency is a
 | Cost of living index | 37.8 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Bahrain] [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~$700–$1,000 (Manama city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Bahrain] [soft/estimate] |
 | Effective personal tax rate for remote workers | 0% (no personal income tax) | ^[https://www.nbra.gov.bh/] [soft/estimate] |
-| Remote-work / self-employment residence available? | Yes — Golden Residency (property from BD 130K–200K); freelancer permits available | ^[https://www.npra.gov.bh/] [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Golden Residency (property from BD 130,000–200,000); freelancer permits available | ^[https://www.npra.gov.bh/] [soft/estimate] |
 | Years to citizenship | No pathway (citizenship by exception only; extremely rare for non-Arabs) | ^[https://www.npra.gov.bh/] hard/official |
 | Maximum permitted absence during residence | 6 months | ^[https://www.npra.gov.bh/] [soft/estimate] |
 | Passport strength after citizenship (visa-free count) | 88 (Henley, Jul 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
@@ -228,13 +228,13 @@ _Coverage: 51/55 fields. Only facts verifiable against official sources or publi
 
 ## Country Card
 
-Bahrain is a small island kingdom in the Persian Gulf, connected to Saudi Arabia by the King Fahd Causeway. It was the first Gulf state to diversify beyond oil, developing a financial services hub in Manama. Personal income tax is 0%, and the cost of living is the most affordable among GCC financial centres. The Golden Residency programme offers self-sponsored residence through property purchase (BD 130K–200K), and freelancer permits are available. Approximately half the population are expatriates. Bahrain serves as a weekend destination for Saudi visitors, giving it a more liberal social atmosphere than its neighbors.
+Bahrain is a small island kingdom in the Persian Gulf, connected to Saudi Arabia by the King Fahd Causeway. It was the first Gulf state to diversify beyond oil, developing a financial services hub in Manama. Personal income tax is 0%, and the cost of living is the most affordable among GCC financial centres. The Golden Residency programme offers self-sponsored residence through property purchase (BD 130,000–200,000), and freelancer permits are available. Approximately half the population are expatriates. Bahrain serves as a weekend destination for Saudi visitors, giving it a more liberal social atmosphere than its neighbors.
 
 ### Well-known strong points
 - 0% personal income tax; most affordable financial hub in the GCC
 - Strong financial services sector — long-established offshore banking centre
 - Saudi causeway access: 40-minute drive to the larger Saudi market
-- Golden Residency with property threshold from BD 130K — lowest investment residency in the Gulf
+- Golden Residency with property threshold from BD 130,000 — lowest investment residency in the Gulf
 - More socially liberal than Saudi Arabia/Qatar — alcohol legal, active nightlife
 - Compact and walkable — small size means short commutes and easy lifestyle
 

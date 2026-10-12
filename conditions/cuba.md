@@ -14,7 +14,7 @@ last_checked: 2026-10-12
 ---
 
 ## Overview
-Cuba's migration system is controlled by the state (DIIE, Dirección de Identificación, Inmigración y Extranjería). There is no residence or citizenship by investment. A major reform (new Immigration, Foreigners, and Citizenship Laws, reported May 2026) resets residency and citizenship rules — including a 180-days-per-year physical-presence test to maintain effective residency. Naturalisation needs five years' continuous permanent residence (two for spouses/parents of Cubans). ^[https://www.periodico26.cu/index.php/en/cuba-news-2/25548-new-immigration-foreigners-and-citizenship-laws-transform-cuba-s-migration-system]
+Cuba's migration system is controlled by the state (DIIE, Dirección de Identificación, Inmigración y Extranjería). There is no residence or citizenship by investment. A major reform (new Immigration, Foreigners, and Citizenship Laws, reported May 2026) resets residency and citizenship rules — including a 180-days-per-year physical-presence test to maintain effective residency. Naturalisation needs 5 years' continuous permanent residence (two for spouses/parents of Cubans). ^[https://www.periodico26.cu/index.php/en/cuba-news-2/25548-new-immigration-foreigners-and-citizenship-laws-transform-cuba-s-migration-system]
 
 ## Residency Programs
 

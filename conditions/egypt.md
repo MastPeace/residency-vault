@@ -15,13 +15,13 @@ last_checked: 2026-10-12
 ---
 
 ## Overview
-Egypt is one of the few MENA countries with BOTH a residency-by-investment framework and a citizenship-by-investment programme (Law No. 190 of 2019, amended 2023). The CBI programme starts from $250,000 with four routes: donation, real estate ($300K), business project ($350K+$100K deposit), or bank deposit ($500K). Residency-by-investment through property can be as low as ~$50,000. Egypt permits dual citizenship in practice (does not enforce renunciation). ^[https://csglobalpartners.com/citizenship-investment/egypt]
+Egypt is one of the few MENA countries with BOTH a residency-by-investment framework and a citizenship-by-investment programme (Law No. 190 of 2019, amended 2023). The CBI programme starts from $250,000 with four routes: donation, real estate ($300,000), business project ($350,000+$100,000 deposit), or bank deposit ($500,000). Residency-by-investment through property can be as low as ~$50,000. Egypt permits dual citizenship in practice (does not enforce renunciation). ^[https://csglobalpartners.com/citizenship-investment/egypt]
 
 ## Residency Programs
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Residence by Investment (Property/Business/Bank Deposit) | Real estate from ~$50K; bank deposit; business investment | 1–5 years, renewable | [[#residence-by-investment]] |
+| investment_residency | Residence by Investment (Property/Business/Bank Deposit) | Real estate from ~$50,000; bank deposit; business investment | 1–5 years, renewable | [[#residence-by-investment]] |
 | passive_income_residency | Not available as formal programme | — | — | — |
 | digital_nomad_visa | Not available | No dedicated DN visa | — | — |
 | highly_skilled_employment | Not available as separate track | — | — | — |
@@ -30,15 +30,15 @@ Egypt is one of the few MENA countries with BOTH a residency-by-investment frame
 | student_residency | Student Visa | Enrolment in Egyptian institution | Duration of study | [[#student-residency]] |
 | family_reunification | Family Residence | Sponsor holds valid residence/citizenship | Tied to sponsor | [[#family-reunification]] |
 | retired_residency | Not available as formal programme | Retirees may qualify for standard residence with income proof | 1 year, renewable | — |
-| citizenship_by_investment | Egyptian Citizenship by Investment (Law 190/2019) | $250K–$500K (4 routes) | Citizenship (6–12 months) | [[#citizenship-by-investment]] |
+| citizenship_by_investment | Egyptian Citizenship by Investment (Law 190/2019) | $250,000–$500,000 (4 routes) | Citizenship (6–12 months) | [[#citizenship-by-investment]] |
 
 ## Per-Program Detail
 
 ### Residence by Investment
 - **Official name**: Residence by Investment (real estate / business / bank deposit)
 - **Conditions**: Multiple routes, no single unified programme. ^[https://adamfayed.com/blog/immigration-citizenship/egypt-residence-by-investment]
-  - **Real estate**: Property purchases from ~$50,000 commonly linked to 1-year residence; $100K–200K for 3–5 year permits. Properties in government-licensed projects. Under March 2023 decree, residency through real estate formally recognized.
-  - **Bank deposit**: Fixed deposit in Egyptian bank, thresholds vary (typically $50K+).
+  - **Real estate**: Property purchases from ~$50,000 commonly linked to 1-year residence; $100,000–200,000 for 3–5 year permits. Properties in government-licensed projects. Under March 2023 decree, residency through real estate formally recognized.
+  - **Bank deposit**: Fixed deposit in Egyptian bank, thresholds vary (typically $50,000+).
   - **Business/company**: Investment project registered under Investment Law No. 72/2017. Non-Egyptian investors granted residence for the term of the project.
 - **Duration / renewal**: 1–5 years, renewable. Tied to investment maintenance.
 - **Path to citizenship**: Residence does not lead to citizenship. Separate CBI or naturalization routes.
@@ -57,7 +57,7 @@ Egypt is one of the few MENA countries with BOTH a residency-by-investment frame
 - **Duration / renewal**: Citizenship granted directly (6–12 months processing). No prior residency required. President signs citizenship decrees.
 - **Dual citizenship**: Egypt formally requires renunciation but does NOT enforce it in practice — dual citizenship is de facto tolerated. ^[https://csglobalpartners.com/citizenship-investment/egypt]
 - **Official source**: Citizenship by Investment Unit, Cabinet of Egypt
-- **Community verdict**: Established programme. Relatively affordable (from $250K). Processing 6–12 months is slower than Caribbean CBI but functional.
+- **Community verdict**: Established programme. Relatively affordable (from $250,000). Processing 6–12 months is slower than Caribbean CBI but functional.
 
 ### Employment Residency
 - **Official name**: Work Permit + Residence
@@ -82,7 +82,7 @@ Egypt is one of the few MENA countries with BOTH a residency-by-investment frame
 - **Community verdict**: Standard.
 
 ## Citizenship
-- **Citizenship by Investment**: See above — $250K donation route is the floor.
+- **Citizenship by Investment**: See above — $250,000 donation route is the floor.
 - **Naturalization** (standard): 10 years continuous legal residence + integration (Arabic proficiency, good conduct, self-sufficiency). Discretionary — Minister of Interior decision. ^[https://shuralawfirm.com/en/conditions-for-obtaining-egyptian-citizenship-through-investment/]
 - **Birth**: Born to Egyptian father (paternal descent). Limited maternal transmission.
 - **Marriage**: Foreign wife of Egyptian citizen may obtain citizenship after 2 years of marriage + residence (Ministerial decree). Foreign husband: no equivalent right.
@@ -129,14 +129,14 @@ Egypt is one of the few MENA countries with BOTH a residency-by-investment frame
 - **Visa-free entry** for Russian passport holders (30 days). eVisa extendable to 90 days. One of the most accessible destinations for RU nationals.
 - **Massive RU community** — Hurghada, Sharm El-Sheikh, and Cairo have significant Russian-speaking populations. Long-established tourist infrastructure catering to Russian market.
 - **Banking**: Russian nationals can open bank accounts. Egyptian banks have become more cautious post-sanctions environment but remain accessible. US dollar accounts available.
-- **Property ownership**: Russians are among the top foreign property buyers in Egypt — particularly Hurghada, Sharm, and North Coast. Prices are very low by global standards ($20K–100K for apartments).
+- **Property ownership**: Russians are among the top foreign property buyers in Egypt — particularly Hurghada, Sharm, and North Coast. Prices are very low by global standards ($20,000–100,000 for apartments).
 - **Direct flights**: Cairo–Moscow (EgyptAir, Aeroflot, daily), Hurghada–Moscow/SPB (multiple airlines, daily), Sharm El-Sheikh–Moscow (daily). One of the most connected MENA destinations to Russia.
-- **CBI programme**: Open to Russian nationals. $250K donation is the cheapest CBI route in MENA. US E-2 eligibility through Egyptian passport is a potential indirect US pathway.
+- **CBI programme**: Open to Russian nationals. $250,000 donation is the cheapest CBI route in MENA. US E-2 eligibility through Egyptian passport is a potential indirect US pathway.
 - **Currency risk**: Serious consideration. EGP devaluation means property "value" in hard currency terms fluctuates. Dollar-priced real estate developments exist in resort areas but not standard.
 - **No sanctions**: Egypt maintains strong bilateral relationship with Russia (strategic partnership, nuclear plant, wheat trade).
 
 ## Community pulse
-Egypt is the most accessible residency/CBI destination in MENA for Russian nationals. The CBI programme (from $250K) is the cheapest in the region and includes routes that work for many profiles. The real estate residence route is accessible from ~$50K. Quality of life in expat areas of Cairo, Hurghada, and El Gouna is good at low cost. Main drawbacks: weak passport (~49 visa-free), currency instability (EGP devaluation), bureaucracy, and infrastructure challenges outside premium zones. For those prioritizing affordability and access over passport strength, Egypt is a genuine contender.
+Egypt is the most accessible residency/CBI destination in MENA for Russian nationals. The CBI programme (from $250,000) is the cheapest in the region and includes routes that work for many profiles. The real estate residence route is accessible from ~$50,000. Quality of life in expat areas of Cairo, Hurghada, and El Gouna is good at low cost. Main drawbacks: weak passport (~49 visa-free), currency instability (EGP devaluation), bureaucracy, and infrastructure challenges outside premium zones. For those prioritizing affordability and access over passport strength, Egypt is a genuine contender.
 
 ## Status
 - **Last monitored**: 2026-10-12
@@ -157,8 +157,8 @@ Egypt is the most accessible residency/CBI destination in MENA for Russian natio
 | Median net monthly salary | ~$150–$300 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Egypt] [soft/estimate] |
 | Cost of living index | 18.5 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Egypt] [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~$120–$250 (Cairo city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Egypt] [soft/estimate] |
-| Effective personal tax rate for remote workers | ~0–25% (progressive; top bracket 25% above ~$40K) | ^[https://www.eta.gov.eg/] [soft/estimate] |
-| Remote-work / self-employment residence available? | Partially — investor residency (real estate $300K+); freelancer company registration possible; no dedicated DN visa | ^[https://www.egyptvisa.com/] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~0–25% (progressive; top bracket 25% above ~$40,000) | ^[https://www.eta.gov.eg/] [soft/estimate] |
+| Remote-work / self-employment residence available? | Partially — investor residency (real estate $300,000+); freelancer company registration possible; no dedicated DN visa | ^[https://www.egyptvisa.com/] [soft/estimate] |
 | Years to citizenship | 10 years continuous residence; Arabic proficiency; discretionary; rarely granted | ^[https://www.mfa.gov.eg/] [soft/estimate] |
 | Maximum permitted absence during residence | Varies; generally 6 months | ^[https://www.mfa.gov.eg/] [soft/estimate] |
 | Passport strength after citizenship (visa-free count) | 49 (Henley, Sep 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |

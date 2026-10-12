@@ -21,10 +21,10 @@ Qatar offers several residency pathways: property-linked residence (temporary or
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Property Owner Residency | Temporary: QAR 730K+ property; Permanent: QAR 3.65M+ property | 1 year (temp) / Permanent | [[#property-owner-residency]] |
+| investment_residency | Property Owner Residency | Temporary: QAR 730,000+ property; Permanent: QAR 3,650,000+ property | 1 year (temp) / Permanent | [[#property-owner-residency]] |
 | passive_income_residency | Not available | — | — | — |
 | digital_nomad_visa | Not available | No dedicated DN visa | — | — |
-| highly_skilled_employment | Executive Residency (Jusour) | QAR 50K/mo (C-suite) or QAR 80K/mo (Exec Director), existing QID holder | Up to 10 years | [[#executive-residency]] |
+| highly_skilled_employment | Executive Residency (Jusour) | QAR 50,000/mo (C-suite) or QAR 80,000/mo (Exec Director), existing QID holder | Up to 10 years | [[#executive-residency]] |
 | startup_entrepreneur | Entrepreneur Residency (Jusour) | Incubator endorsement, QAR 36,500+ bank balance | 5 years, renewable | [[#entrepreneur-residency]] |
 | employment_residency | Standard Work Residency Permit | Employer sponsor, labour contract | 1–3 years, renewable | [[#employment-residency]] |
 | student_residency | Student Residency | Enrolment in Qatar institution | Duration of study | [[#student-residency]] |
@@ -141,7 +141,7 @@ Qatar provides high quality of life, safety, and 0% tax. Residency pathways are 
 | Cost of living index | 45.4 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Qatar] [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~$1,200–$1,800 (Doha city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Qatar] [soft/estimate] |
 | Effective personal tax rate for remote workers | 0% (no personal income tax) | ^[https://www.gco.gov.qa/en/] [soft/estimate] |
-| Remote-work / self-employment residence available? | Limited — real estate investor residency ($200K+); freelancer visa via QFC | ^[https://www.moi.gov.qa/] [soft/estimate] |
+| Remote-work / self-employment residence available? | Limited — real estate investor residency ($200,000+); freelancer visa via QFC | ^[https://www.moi.gov.qa/] [soft/estimate] |
 | Years to citizenship | No pathway (permanent residency possible; citizenship by exception only) | ^[https://www.moi.gov.qa/] hard/official |
 | Maximum permitted absence during residence | 6 months | ^[https://www.moi.gov.qa/] [soft/estimate] |
 | Passport strength after citizenship (visa-free count) | 112 (Henley, Jul 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
@@ -152,7 +152,7 @@ Qatar provides high quality of life, safety, and 0% tax. Residency pathways are 
 
 ## Country Card
 
-Qatar has the world's highest GDP per capita (PPP ~$112,000) thanks to enormous natural gas reserves. The country invested heavily in infrastructure for the 2022 FIFA World Cup, leaving Doha with world-class airports, metro, and hotels. Personal income tax is 0%, and the cost of living is moderate for a high-income Gulf state. Expatriates make up roughly 85% of the population. Residency options are more limited than the UAE — property investment ($200K+) and QFC-based freelancer visas are the main self-sponsored routes. Citizenship is almost never granted to foreigners.
+Qatar has the world's highest GDP per capita (PPP ~$112,000) thanks to enormous natural gas reserves. The country invested heavily in infrastructure for the 2022 FIFA World Cup, leaving Doha with world-class airports, metro, and hotels. Personal income tax is 0%, and the cost of living is moderate for a high-income Gulf state. Expatriates make up roughly 85% of the population. Residency options are more limited than the UAE — property investment ($200,000+) and QFC-based freelancer visas are the main self-sponsored routes. Citizenship is almost never granted to foreigners.
 
 ### Well-known strong points
 - Highest GDP per capita in the world (PPP); 0% personal income tax

@@ -32,7 +32,7 @@ Turkey operates one of the world's most popular **citizenship-by-investment** pr
 | student_residency | Student residence | Enrollment in Turkish institution | Duration of studies | [#](#student-residency) |
 | family_reunification | Family residence | Spouse/child of Turkish resident or citizen | 1 year, renewable | [#](#family-reunification) |
 | retired_residency | Short-term residence (property) | Real estate + pension | 1 year, renewable | [#](#investment-residency) |
-| citizenship_by_investment | Turkish Citizenship by Investment (Art. 12, Law No. 5901) | $400K real estate / $500K financial (3-yr hold) | Citizenship in 3–4 months | [#](#citizenship-by-investment) |
+| citizenship_by_investment | Turkish Citizenship by Investment (Art. 12, Law No. 5901) | $400,000 real estate / $500,000 financial (3-yr hold) | Citizenship in 3–4 months | [#](#citizenship-by-investment) |
 
 ## Per-Program Detail
 
@@ -60,7 +60,7 @@ Turkey operates one of the world's most popular **citizenship-by-investment** pr
 - **Duration / renewal**: 1 year, renewable.
 - **Path to citizenship**: 5 years continuous residence → standard naturalization (Turkish language required).
 - **Official source**: [DGMM — Residence Permits](https://en.goc.gov.tr/)
-- **Community verdict**: Works well — straightforward for property owners. Note: CBI is the preferred route for those who can meet $400K threshold.
+- **Community verdict**: Works well — straightforward for property owners. Note: CBI is the preferred route for those who can meet $400,000 threshold.
 
 ### Employment Residency / Highly Skilled Employment
 
@@ -91,7 +91,7 @@ Turkey operates one of the world's most popular **citizenship-by-investment** pr
 
 ## Citizenship
 
-- **CBI route**: $400K/$500K → citizenship in 3–4 months (see [#citizenship-by-investment](#citizenship-by-investment)).
+- **CBI route**: $400,000/$500,000 → citizenship in 3–4 months (see [#citizenship-by-investment](#citizenship-by-investment)).
 - **Standard naturalization**: 5 years continuous residence, Turkish language proficiency, no criminal record.
 - **By marriage**: 3 years of marriage to a Turkish citizen.
 - **Dual citizenship**: Permitted.
@@ -143,7 +143,7 @@ CBI program is well-established and fast. Main risk: fraud in the application ch
 | Monthly rent, 1-bedroom apt | ~€350 (Istanbul avg); €250–300 (Antalya) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Turkey] [soft/estimate] |
 | Effective tax for remote workers | 15–40% progressive PIT (2026: 20-yr foreign-income exemption for qualifying relocants) | ^[https://www.globalcitizensolutions.com/turkey-citizenship-by-investment] [soft/estimate] |
 | Remote-work / self-employment residence? | Not available — no formal DN visa; de facto via property residence or CBI | From page — [soft/estimate] |
-| Years to citizenship | 5 years (standard); 3–4 months (CBI via $400K real estate) | ^[https://www.visaverge.com/visa/turkey-citizenship-by-investment-400-500k-routes-and-timeline] hard/official |
+| Years to citizenship | 5 years (standard); 3–4 months (CBI via $400,000 real estate) | ^[https://www.visaverge.com/visa/turkey-citizenship-by-investment-400-500k-routes-and-timeline] hard/official |
 | Maximum permitted absence | Not specified (standard continuous residence for naturalization; none for CBI) | From page — [soft/estimate] |
 | Passport visa-free count | 71 (Passport Index 2026) | ^[https://www.passportindex.org/passport/turkey] hard/official |
 | Rule of Law Index (WJP 2024) | 0.41 (rank 117/142) | ^[https://worldjusticeproject.org/rule-of-law-index/global/2024] hard/official |
@@ -156,7 +156,7 @@ CBI program is well-established and fast. Main risk: fraud in the application ch
 Turkey is a transcontinental country spanning Europe and Asia with ~88 million people, operating one of the world's most popular citizenship-by-investment programs: $400,000 in real estate yields a passport in 3–4 months with no residence requirement and no language test. The passport grants visa-free access to ~71 destinations and US E-2 Investor Visa eligibility. A 2026 tax reform introduced a 20-year exemption on foreign-source income for qualifying relocants — a de-facto NHR equivalent. The August 2026 revocation of 6,134 fraudulently obtained citizenships underscores the importance of proper legal representation.
 
 ### Well-known strong points
-- Fastest CBI globally: citizenship in 3–4 months via $400K real estate
+- Fastest CBI globally: citizenship in 3–4 months via $400,000 real estate
 - No residence requirement, no language test for CBI; dual citizenship permitted
 - US E-2 Investor Visa eligibility with Turkish passport
 - 2026 tax reform: 20-year exemption on foreign-source income for qualifying relocants

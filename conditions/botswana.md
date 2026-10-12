@@ -94,7 +94,7 @@ Visa-free for 30 days for Russian citizens. Work and investor permits accessible
 | Median net monthly salary | ~$800–1,100 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Botswana] |
 | Cost of living index (relative) | ~37 (NYC=100) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Botswana] |
 | Monthly rent, 1‑bedroom apartment | ~$250–450 (Gaborone centre) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Botswana] |
-| Effective personal tax rate for remote workers | 0%–25% progressive (top rate on BWP 144K+/yr, ~USD 10,500) | [soft/estimate] |
+| Effective personal tax rate for remote workers | 0%–25% progressive (top rate on BWP 144,000+/yr, ~USD 10,500) | [soft/estimate] |
 | Remote‑work / self‑employment residence available? | No — no dedicated digital nomad visa | |
 | Years to citizenship | 10 years minimum lawful residence; dual citizenship NOT permitted | ^[https://www.gov.bw/taxonomy/term/115?page=1] |
 | Maximum permitted absence during residence | Not clearly defined | [soft/estimate] |
@@ -172,7 +172,7 @@ Botswana is one of Africa's most stable democracies and an upper-middle-income c
 
 ### Well-known strong points
 - Exceptional governance: Rule of Law 0.62 (rank 45/142), Freedom House 75/100 (Free)
-- Low personal income tax (max 25% at BWP 144K/yr, ~USD 10,500 — very low threshold)
+- Low personal income tax (max 25% at BWP 144,000/yr, ~USD 10,500 — very low threshold)
 - World-class safari tourism (Okavango Delta — UNESCO World Heritage) with high-value, low-volume model
 - English is the official language; strong democratic traditions and political stability
 - Relatively high GDP per capita (~$19,500 PPP) for sub-Saharan Africa

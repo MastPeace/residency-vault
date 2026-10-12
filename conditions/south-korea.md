@@ -22,11 +22,11 @@ South Korea has a strong passport (top 3 in many rankings) and a structured immi
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | D-8 Corporate/Investor Visa | KRW 100M (min) investment; F-5 after KRW 500M + 5 jobs | 2 yr, renewable | [[#investment-residency]] |
+| investment_residency | D-8 Corporate/Investor Visa | KRW 100,000,000 (min) investment; F-5 after KRW 500,000,000 + 5 jobs | 2 yr, renewable | [[#investment-residency]] |
 | passive_income_residency | Not available | No passive income route (F-5-13 overseas pension is closest) | — | [[#passive-income-residency]] |
 | digital_nomad_visa | Digital Nomad (Workation) F-1-D | 1–2× GNI income; permanent since June 30, 2026 | 1 yr, max 3 yr | [[#digital-nomad-visa]] |
 | highly_skilled_employment | E-7 Specially Designated Activities / E-7-1 points | Designated occupation; E-7-1 points-based; F-2/F-5 path | 2–3 yr | [[#highly-skilled-employment]] |
-| startup_entrepreneur | D-8-4 Tech Startup Visa (OASIS) | KRW 100M investment or patent; designated startup | 2 yr | [[#startup-entrepreneur]] |
+| startup_entrepreneur | D-8-4 Tech Startup Visa (OASIS) | KRW 100,000,000 investment or patent; designated startup | 2 yr | [[#startup-entrepreneur]] |
 | employment_residency | E-7 / E-9 (EPS) → F-2 → F-5 | Job offer; E-7-4 points for skilled workers | 2–3 yr | [[#employment-residency]] |
 | student_residency | D-2 Student → D-10 Job Seeking | University enrollment; D-10 for 6 mo–3 yr | Course + job search | [[#student-residency]] |
 | family_reunification | F-6 (spouse of Korean) / F-3 (dependent) | Marriage to Korean national or sponsorship | 1–3 yr | [[#family-reunification]] |
@@ -41,7 +41,7 @@ South Korea has a strong passport (top 3 in many rankings) and a structured immi
 - **Duration / renewal**: D-8: 2 years, renewable; F-2: 3 years renewable; F-5: permanent (10-year renewal cycle).
 - **Path to citizenship**: F-5 PR after 5 years (or via investment criteria); citizenship after 5 years residence + TOPIK 4 + renunciation of prior nationality.
 - **Official source**: https://www.immigration.go.kr/
-- **Community verdict**: Works well (low entry threshold vs. EU Golden Visas; clear F-5 upgrade path via KRW 500M + jobs).
+- **Community verdict**: Works well (low entry threshold vs. EU Golden Visas; clear F-5 upgrade path via KRW 500,000,000 + jobs).
 
 ### passive_income_residency
 - **Official name**: Not available.
@@ -50,7 +50,7 @@ South Korea has a strong passport (top 3 in many rankings) and a structured immi
 
 ### digital_nomad_visa
 - **Official name**: Digital Nomad (Workation) Visa — F-1-D
-- **Conditions**: Age 18+; employed by a foreign company (or own a foreign business) for 1+ year; work remotely for foreign employer only (no Korean employer). Income: 2× per-capita GNI standard (pilot rule); from June 30, 2026, eased to 1–2× GNI for under-34s and non-metropolitan residents (GNI per capita ~KRW 52.41M in 2025 → 2× = ~KRW 104.8M; 1× for eligible under-34 outside Seoul = ~KRW 52.4M). Medical insurance ≥ USD $75,000. Spouses and children can accompany. ^[https://eiglaw.com/south-korea-officially-launches-digital-nomad-visa]
+- **Conditions**: Age 18+; employed by a foreign company (or own a foreign business) for 1+ year; work remotely for foreign employer only (no Korean employer). Income: 2× per-capita GNI standard (pilot rule); from June 30, 2026, eased to 1–2× GNI for under-34s and non-metropolitan residents (GNI per capita ~KRW 52,410,000 in 2025 → 2× = ~KRW 104,800,000; 1× for eligible under-34 outside Seoul = ~KRW 52,400,000). Medical insurance ≥ USD $75,000. Spouses and children can accompany. ^[https://eiglaw.com/south-korea-officially-launches-digital-nomad-visa]
 - **Duration / renewal**: 1 year, renewable up to max 3 years (extended from 2 years).
 - **Path to citizenship**: No direct path; must transition to a work/investor visa for longer-term residence.
 - **Official source**: https://www.immigration.go.kr/
@@ -66,7 +66,7 @@ South Korea has a strong passport (top 3 in many rankings) and a structured immi
 
 ### startup_entrepreneur
 - **Official name**: D-8-4 Technology Startup Visa (OASIS program)
-- **Conditions**: For tech entrepreneurs; requires investment of KRW 100M+ OR a qualifying patent/IP; endorsement via OASIS (startup incubator) program; must establish a startup in designated fields. D-8-4 can convert to D-8 (investor) or F-2/F-5.
+- **Conditions**: For tech entrepreneurs; requires investment of KRW 100,000,000+ OR a qualifying patent/IP; endorsement via OASIS (startup incubator) program; must establish a startup in designated fields. D-8-4 can convert to D-8 (investor) or F-2/F-5.
 - **Duration / renewal**: 2 years, renewable.
 - **Path to citizenship**: D-8-4 → D-8/F-2 → F-5 → citizenship (5+ years).
 - **Official source**: https://www.immigration.go.kr/
@@ -157,11 +157,11 @@ Korea maintains sanctions against Russia and suspended most visa services for Ru
 ## Country Card
 
 ### General description
-South Korea is an East Asian peninsular nation with one of the world's strongest passports (rank 2, 188 visa-free), a dynamic high-tech economy, and a structured immigration system offering multiple pathways. The D-8 investor visa starts at KRW 100M (~$75K), the E-7 skilled worker visa covers 80+ professions, and the F-1-D Digital Nomad visa (permanent since June 2026) allows up to 3 years. Korea's super-aged society (21.2% over 65) is driving pro-immigration policy reforms. Citizenship requires 5 years, TOPIK Level 4 Korean, and renunciation of prior nationality (with limited exceptions).
+South Korea is an East Asian peninsular nation with one of the world's strongest passports (rank 2, 188 visa-free), a dynamic high-tech economy, and a structured immigration system offering multiple pathways. The D-8 investor visa starts at KRW 100,000,000 (~$75,000), the E-7 skilled worker visa covers 80+ professions, and the F-1-D Digital Nomad visa (permanent since June 2026) allows up to 3 years. Korea's super-aged society (21.2% over 65) is driving pro-immigration policy reforms. Citizenship requires 5 years, TOPIK Level 4 Korean, and renunciation of prior nationality (with limited exceptions).
 
 ### Well-known strong points
 - World's 2nd-strongest passport: 188 visa-free destinations (tied with Japan)
-- D-8 investor visa threshold from just KRW 100M (~$75K) — lowest among developed Asian nations
+- D-8 investor visa threshold from just KRW 100,000,000 (~$75,000) — lowest among developed Asian nations
 - Permanent Digital Nomad visa (F-1-D) since June 2026 with eased income tiers and 3-year max stay
 - F-5-13 Overseas Pension PR: one of few direct-to-PR retirement routes in Asia (age 60+, high pension)
 - Excellent infrastructure, fast internet, world-class public transit, high-quality healthcare

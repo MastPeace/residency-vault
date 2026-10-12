@@ -121,7 +121,7 @@ Polish consulates in Russia have severely reduced operations. Visa issuance for 
 | Median net monthly salary | ~PLN 5,500 (~€1,200) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Poland] [soft/estimate] |
 | Cost of living index (relative to NYC=100) | ~38 (Numbeo) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Poland] [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~PLN 3,000 (city centre) / ~PLN 2,200 (outside) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Poland] [soft/estimate] |
-| Effective personal tax rate for remote workers | 12% up to PLN 120K / 32% above; flat 19% for JDG self-employed | ^[https://www.gov.pl/web/finance] [soft/estimate] |
+| Effective personal tax rate for remote workers | 12% up to PLN 120,000 / 32% above; flat 19% for JDG self-employed | ^[https://www.gov.pl/web/finance] [soft/estimate] |
 | Remote-work / self-employment residence available? | No dedicated digital nomad visa; JDG self-employment route available for IT freelancers | per page residency sections |
 | Years to citizenship | 10 years (2026 tightened rules) | ^[https://www.visaverge.com/news/polands-ministry-of-the-interior-tightens-citizenship-rules-to-curb-immigration] hard/official |
 | Maximum permitted absence during residence | Not explicitly stated for citizenship; continuous residence expected | per page residency sections |

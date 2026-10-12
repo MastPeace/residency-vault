@@ -21,7 +21,7 @@ Jordan is one of the few countries in the Middle East that offers BOTH residency
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | 5-Year Property Residency | JD 150K–300K property (location-dependent) | 5 years, renewable | [[#five-year-property-residency]] |
+| investment_residency | 5-Year Property Residency | JD 150K–300K property (location-dependent) | 5 years, renewable | [[#5-year-property-residency]] |
 | passive_income_residency | Not available | — | — | — |
 | digital_nomad_visa | Not available | No dedicated DN visa | — | — |
 | highly_skilled_employment | Not available as separate track | — | — | — |
@@ -34,8 +34,8 @@ Jordan is one of the few countries in the Middle East that offers BOTH residency
 
 ## Per-Program Detail
 
-### Five-Year Property Residency
-- **Official name**: Five-Year Renewable Residency Through Property Ownership
+### 5-Year Property Residency
+- **Official name**: 5-Year Renewable Residency Through Property Ownership
 - **Conditions** (reformed July 2026): ^[https://invest.jo/sites/default/files/2026-08/Jordanian-Citizenship-Through-Investment-English.pdf]
   - Property from licensed developer: ≥ JD 200,000 (~$282,000)
   - Property from non-developer: ≥ JD 300,000 (~$423,000)
@@ -50,11 +50,11 @@ Jordan is one of the few countries in the Middle East that offers BOTH residency
 ### Citizenship by Investment
 - **Official name**: منح الجنسية الأردنية من خلال الاستثمار (Jordanian Citizenship Through Investment)
 - **Conditions** (amended July 2026): ^[https://jordantimes.com/news/local/cabinet-approves-new-investor-residency-citizenship-rules]
-  - **Share purchase**: JD 1,500,000 (~$2.1M) in new shares of Jordanian companies. Max 10% in one company. Hold 5 years. Within 4 months of approval.
-  - **New project — Amman**: JD 700,000 (~$990K) capital in new project. Grants 3-year temporary passport, then full citizenship.
-  - **New project — outside Amman**: JD 500,000 (~$705K) capital. Same structure.
-  - **Existing project injection**: JD 1,000,000 (~$1.4M) in shares, with JD 500,000 in new fixed assets. Hold 3 years. 20+ jobs created.
-  - **Pharmaceuticals/food logistics**: JD 3,000,000 (~$4.2M).
+  - **Share purchase**: JD 1,500,000 (~$2,100,000) in new shares of Jordanian companies. Max 10% in one company. Hold 5 years. Within 4 months of approval.
+  - **New project — Amman**: JD 700,000 (~$990,000) capital in new project. Grants 3-year temporary passport, then full citizenship.
+  - **New project — outside Amman**: JD 500,000 (~$705,000) capital. Same structure.
+  - **Existing project injection**: JD 1,000,000 (~$1,400,000) in shares, with JD 500,000 in new fixed assets. Hold 3 years. 20+ jobs created.
+  - **Pharmaceuticals/food logistics**: JD 3,000,000 (~$4,200,000).
   - **Employment route**: 150 jobs in Amman or 100 outside Amman.
   - **Amra City Project**: JD 1,500,000.
   - Citizenship extends to: spouse, dependent daughters, parents, unmarried sons under 24 (under 30 if investment > JD 2M).

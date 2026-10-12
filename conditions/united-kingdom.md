@@ -95,7 +95,7 @@ The United Kingdom is not an EU member (Brexit since 2020) but retains a strong 
 - **Progressive income tax**: 0% up to £12,570 (personal allowance), 20% £12,571–£50,270, 40% £50,271–£125,140, 45% above £125,140. Personal allowance tapers away from £100,000.
 - **Non-dom regime abolished** from 6 April 2025. Replaced by FIG (Foreign Income and Gains) regime: new UK residents get 100% relief on foreign income and gains for the first 4 tax years. After 4 years: taxed on worldwide income. This is a residence-based system (no domicile concept). ^[https://www.gov.uk/government/publications/changes-to-the-taxation-of-non-uk-domiciled-individuals]
 - **Inheritance tax**: moving from domicile-based to residence-based (transitional).
-- **Corporate tax**: 25% (small profits rate 19% for profits ≤£50K).
+- **Corporate tax**: 25% (small profits rate 19% for profits ≤£50,000).
 - **VAT**: 20% standard.
 - **Capital gains tax**: 10%–24% (depending on asset and income).
 - **No wealth tax**.
@@ -132,7 +132,7 @@ UK sanctions are among the world's strictest against Russian nationals. Visa pro
 | Median net monthly salary | ~£2,400 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=United+Kingdom] [soft/estimate] |
 | Cost of living index (relative to NYC=100) | ~63 (Numbeo) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=United+Kingdom] [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~£1,400 (London city centre) / ~£900 (outside London) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=United+Kingdom] [soft/estimate] |
-| Effective personal tax rate for remote workers | ~20% up to £50K / 40% above / 45% above £125K; 4-year FIG regime exempts foreign income | ^[https://www.gov.uk/government/publications/changes-to-the-taxation-of-non-uk-domiciled-individuals] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~20% up to £50,000 / 40% above / 45% above £125,000; 4-year FIG regime exempts foreign income | ^[https://www.gov.uk/government/publications/changes-to-the-taxation-of-non-uk-domiciled-individuals] [soft/estimate] |
 | Remote-work / self-employment residence available? | No dedicated visa; remote work prohibited on visitor visa | per page residency sections |
 | Years to citizenship | 6 years (5 + 1 ILR) typical | ^[https://www.gov.uk/british-citizenship] hard/official |
 | Maximum permitted absence during residence | 180 days per 12-month period for ILR | ^[https://www.gov.uk/indefinite-leave-to-remain] hard/official |

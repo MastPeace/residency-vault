@@ -21,7 +21,7 @@ New Zealand has a strong passport and a points-based skilled migration system. T
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Active Investor Plus Visa | NZ $5M (Growth) / $10M (Balanced); 3/5 year investment term | Resident visa → PR | [[#investment-residency]] |
+| investment_residency | Active Investor Plus Visa | NZ $5,000,000 (Growth) / $10,000,000 (Balanced); 3/5 year investment term | Resident visa → PR | [[#investment-residency]] |
 | passive_income_residency | Not available | No passive income route | — | [[#passive-income-residency]] |
 | digital_nomad_visa | Not available | No DN visa; visitor visa allows limited remote work | — | [[#digital-nomad-visa]] |
 | highly_skilled_employment | Skilled Migrant Category (SMC) — 6-point system | Job/job offer from accredited employer; age <=55; 6 points from income/qualification/NZ registration + NZ work experience | Resident visa | [[#highly-skilled-employment]] |
@@ -29,14 +29,14 @@ New Zealand has a strong passport and a points-based skilled migration system. T
 | employment_residency | Accredited Employer Work Visa (AEWV) -> SMC | Job offer from accredited employer; wage >= NZ $35/hr (NZ $52.50/hr for ANZSCO 4-5) | 3 yr work visa -> resident | [[#employment-residency]] |
 | student_residency | Student Visa -> Post-Study Work Visa -> SMC | NZQA-approved course; post-study work 1-3 years | Course + post-study | [[#student-residency]] |
 | family_reunification | Partner / Dependent Child Resident Visa | NZ citizen/resident sponsor; genuine relationship | Resident visa | [[#family-reunification]] |
-| retired_residency | Parent Retirement Resident Visa | NZ $1M investment + NZ $500K settlement funds + NZ $60K/yr income | Resident visa | [[#retired-residency]] |
+| retired_residency | Parent Retirement Resident Visa | NZ $1,000,000 investment + NZ $500,000 settlement funds + NZ $60,000/yr income | Resident visa | [[#retired-residency]] |
 | citizenship_by_investment | Not available | — | — | — |
 
 ## Per-Program Detail
 
 ### investment_residency
 - **Official name**: Active Investor Plus Visa
-- **Conditions**: Growth category: NZ $5M investment, 3-year term. Balanced category: NZ $10M investment, 5-year term. Acceptable investments: managed funds approved by Invest New Zealand, direct investments, NZ-listed equities, government/corporate bonds. No age limit, no English language requirement. ^[htps://www.nzimmigrationpartners.com/residence/skilled-migrant]
+- **Conditions**: Growth category: NZ $5,000,000 investment, 3-year term. Balanced category: NZ $10,000,000 investment, 5-year term. Acceptable investments: managed funds approved by Invest New Zealand, direct investments, NZ-listed equities, government/corporate bonds. No age limit, no English language requirement. ^[htps://www.nzimmigrationpartners.com/residence/skilled-migrant]
 - **Duration / renewal**: Resident visa on grant; Permanent Resident Visa (indefinite return) after meeting presence requirements.
 - **Path to citizenship**: 5 years residence; 1,350 days physical presence (240 days per 12-month period); English proficiency; good character; dual citizenship alowed.
 - **Official source**: htps://www.immigration.govt.nz/new-zealand-visas/visas/visa/active-investor-plus-visa
@@ -154,7 +154,7 @@ New Zealand imposed sanctions on Russia in 2022. Visa processing for Russian nat
 ## Country Card
 
 ### General description
-New Zealand is an island nation in the southwestern Pacific, known for its stunning natural landscapes, political stability, and high quality of life. It operates a simplified 6-point skilled migration system (SMC Resident Visa) that was overhauled in August 2026 with two new pathways (Skilled Work Experience, Trades & Technician). The Active Investor Plus Visa offers residence for NZ$5M–10M investment. New Zealand permits dual citizenship, has one of the strongest passports globally (183 visa-free, Henley 2026 rank 6), and consistently ranks at the top of global rule of law (WJP #6) and freedom (FH 99/100) indices.
+New Zealand is an island nation in the southwestern Pacific, known for its stunning natural landscapes, political stability, and high quality of life. It operates a simplified 6-point skilled migration system (SMC Resident Visa) that was overhauled in August 2026 with two new pathways (Skilled Work Experience, Trades & Technician). The Active Investor Plus Visa offers residence for NZ$5,000,000–10,000,000 investment. New Zealand permits dual citizenship, has one of the strongest passports globally (183 visa-free, Henley 2026 rank 6), and consistently ranks at the top of global rule of law (WJP #6) and freedom (FH 99/100) indices.
 
 ### Well-known strong points
 - Top-tier rule of law (WJP #6/142) and highest Freedom House score (99/100) among all countries analyzed
@@ -169,5 +169,5 @@ New Zealand is an island nation in the southwestern Pacific, known for its stunn
 - Modest economy with limited career opportunities outside primary industries and tourism
 - High cost of living relative to local salaries, especially housing in Auckland
 - No digital nomad visa; no passive income visa; entrepreneur visa closed
-- High capital requirement for investor visa (NZ$5M minimum)
+- High capital requirement for investor visa (NZ$5,000,000 minimum)
 - Brain drain — skilled New Zealanders often leave for higher salaries in Australia

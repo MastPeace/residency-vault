@@ -21,7 +21,7 @@ Indonesia has rapidly built out its residence offering: the Golden Visa (5–10 
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Golden Visa | US$350k (5 yr) / US$700k (10 yr) individual; US$2.5M/5M company | 5 or 10 yr | [[#investment-residency]] |
+| investment_residency | Golden Visa | US$350,000 (5 yr) / US$700,000 (10 yr) individual; US$2,500,000/5M company | 5 or 10 yr | [[#investment-residency]] |
 | passive_income_residency | Second Home Visa (E33) | IDR 2 billion deposit or qualifying property | 5 or 10 yr | [[#passive-income-residency]] |
 | digital_nomad_visa | Remote Worker Visa (E33G) | Foreign employment/income evidence | 1 yr | [[#digital-nomad-visa]] |
 | highly_skilled_employment | Work KITAS / Golden Visa (talent) | Job offer; specialist skills | 1–5 yr | [[#highly-skilled-employment]] |
@@ -36,7 +36,7 @@ Indonesia has rapidly built out its residence offering: the Golden Visa (5–10 
 
 ### investment_residency
 - **Official name**: Golden Visa (Visa Emas)
-- **Conditions**: Individual investor — US$350,000 (5 yr) or US$700,000 (10 yr) in government bonds, listed shares, or mutual funds; or a flat/apartment ≥ US$1,000,000. Company founder (PT PMA) — US$2.5M (5 yr) / US$5M (10 yr). Corporate — US$25M/50M. ^[https://kemlu.go.id/files-service/storage/childmenu/additional_file/1729524087671671775b15a_Indonesian_Golden_Visa.pdf]
+- **Conditions**: Individual investor — US$350,000 (5 yr) or US$700,000 (10 yr) in government bonds, listed shares, or mutual funds; or a flat/apartment ≥ US$1,000,000. Company founder (PT PMA) — US$2,500,000 (5 yr) / US$5,000,000 (10 yr). Corporate — US$25,000,000/50M. ^[https://kemlu.go.id/files-service/storage/childmenu/additional_file/1729524087671671775b15a_Indonesian_Golden_Visa.pdf]
 - **Duration / renewal**: 5 or 10 years.
 - **Path to citizenship**: 5 years continuous residence (10 non-continuous).
 - **Official source**: https://www.imigrasi.go.id/

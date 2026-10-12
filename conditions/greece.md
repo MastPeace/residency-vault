@@ -15,13 +15,13 @@ last_checked: 2026-10-12
 ---
 
 ## Overview
-Greece operates Europe's most affordable [[investment-residency|golden visa]] programme, starting at **€250,000** for qualifying conversions. The Golden Visa has three investment tiers (€250K/€400K/€800K) based on location and property type. Greece also offers a **digital nomad visa** (€3,500/mo), standard work permits, and a 7-year citizenship path. Golden Visa imposes **no minimum physical stay** for permit maintenance, but citizenship requires 183 days/year actual residence. ^[https://getgoldenvisa.com/ultimate-guide-to-greece-golden-visa]
+Greece operates Europe's most affordable [[investment-residency|golden visa]] programme, starting at **€250,000** for qualifying conversions. The Golden Visa has three investment tiers (€250,000/€400,000/€800,000) based on location and property type. Greece also offers a **digital nomad visa** (€3,500/mo), standard work permits, and a 7-year citizenship path. Golden Visa imposes **no minimum physical stay** for permit maintenance, but citizenship requires 183 days/year actual residence. ^[https://getgoldenvisa.com/ultimate-guide-to-greece-golden-visa]
 
 ## Residency Programs
 
 | Type | Official Program | Key Conditions | Duration |
 |------|-----------------|----------------|----------|
-| [[investment-residency]] | Golden Visa (B.5 residence permit, Law 5038/2023) | €250K conversion/€400K general/€800K premium real estate | 5 years |
+| [[investment-residency]] | Golden Visa (B.5 residence permit, Law 5038/2023) | €250,000 conversion/€400,000 general/€800,000 premium real estate | 5 years |
 | [[passive-income-residency]] | Financially Independent Person (FIP) residence permit | €2,000/mo passive income (+20% per dependent) | 2 years |
 | [[digital-nomad-visa]] | Digital Nomad Visa (since 2021) | ~€3,500/mo income | 1 year |
 | [[highly-skilled-employment]] | EU Blue Card | University degree; job offer; salary threshold | ≤2 years |
@@ -44,7 +44,7 @@ Greece operates Europe's most affordable [[investment-residency|golden visa]] pr
 - **Duration / renewal**: 5 years, renewable indefinitely while investment held. Permit validity runs from card issuance date (Law 5275/2026). ^[https://goldenharbors.com/articles/greece-golden-visa]
 - **Path to citizenship**: 7 years legal residence **with 183 days/year minimum physical presence**. Golden Visa alone does NOT count — must actually live in Greece.
 - **Official source**: https://migration.gov.gr/en/
-- **Community verdict**: Works well — Europe's most affordable Golden Visa at €250K tier. Massive backlog (~50,000 pending cases in 2024). Processing 4–12 months in practice.
+- **Community verdict**: Works well — Europe's most affordable Golden Visa at €250,000 tier. Massive backlog (~50,000 pending cases in 2024). Processing 4–12 months in practice.
 
 ### Digital Nomad Visa
 - **Official name**: Ψηφιακή βίζα για ψηφιακούς νομάδες (Digital Nomad Visa)
@@ -80,13 +80,13 @@ Greece operates Europe's most affordable [[investment-residency|golden visa]] pr
 - No wealth tax
 
 ## IT / Digital Nomad
-Greece's DN visa (€3,500/mo) with 50% tax exemption (for 7 years) is highly attractive. Great Mediterranean lifestyle, lower cost of living than Western EU. Major hubs: Athens, Thessaloniki. Good connectivity. Golden Visa €250K tier also appeals to tech entrepreneurs seeking EU base.
+Greece's DN visa (€3,500/mo) with 50% tax exemption (for 7 years) is highly attractive. Great Mediterranean lifestyle, lower cost of living than Western EU. Major hubs: Athens, Thessaloniki. Good connectivity. Golden Visa €250,000 tier also appeals to tech entrepreneurs seeking EU base.
 
 ## Yacht / Maritime
 Greece has one of the world's largest coastlines and is arguably the premier yachting destination in the Mediterranean. Yacht registration under Greek flag available. Recognized captain and crew licensing. Major hubs: Piraeus, Rhodes, Corfu, and thousands of islands. World-class marina infrastructure.
 
 ## Notes for RU Citizens
-Greece's Golden Visa was extremely popular with Russian investors before 2022. Current sanctions complicate property purchases and bank transfers but €250K conversion route remains accessible via third-country structures. DN visa also open. Greece has an established Russian-speaking community (especially in Athens and Thessaloniki). Dual citizenship permitted. Generally more RU-friendly than Baltic/Nordic EU states.
+Greece's Golden Visa was extremely popular with Russian investors before 2022. Current sanctions complicate property purchases and bank transfers but €250,000 conversion route remains accessible via third-country structures. DN visa also open. Greece has an established Russian-speaking community (especially in Athens and Thessaloniki). Dual citizenship permitted. Generally more RU-friendly than Baltic/Nordic EU states.
 
 
 
@@ -116,10 +116,10 @@ Greece's Golden Visa was extremely popular with Russian investors before 2022. C
 
 ## Country Card
 
-Greece is a Mediterranean EU/Schengen/Eurozone member with one of Europe's longest coastlines and a tourism-driven economy. It operates Europe's most affordable Golden Visa (€250K conversion tier) and offers a 7-year citizenship path — one of the EU's shortest, but requiring 183 days/year physical presence. Greece has no minimum physical stay for Golden Visa permit maintenance, making it attractive for investors seeking EU access without relocation. The economy is recovering but still bears the scars of the 2010s debt crisis, with relatively low wages and high youth unemployment.
+Greece is a Mediterranean EU/Schengen/Eurozone member with one of Europe's longest coastlines and a tourism-driven economy. It operates Europe's most affordable Golden Visa (€250,000 conversion tier) and offers a 7-year citizenship path — one of the EU's shortest, but requiring 183 days/year physical presence. Greece has no minimum physical stay for Golden Visa permit maintenance, making it attractive for investors seeking EU access without relocation. The economy is recovering but still bears the scars of the 2010s debt crisis, with relatively low wages and high youth unemployment.
 
 ### Well-known strong points
-- Europe's cheapest Golden Visa at €250K (commercial-to-residential conversion tier)
+- Europe's cheapest Golden Visa at €250,000 (commercial-to-residential conversion tier)
 - 7-year path to citizenship — among the shortest in the EU
 - 50% income tax exemption for qualifying impatriate workers (7 years) and 7% flat tax on foreign pensions
 - No minimum physical stay for Golden Visa permit maintenance
@@ -136,5 +136,5 @@ Greece is a Mediterranean EU/Schengen/Eurozone member with one of Europe's longe
 
 ## Status
 - **Last monitored**: 2026-10-12
-- **Recent changes**: Law 5275/2026 — immigration reform, permit validity from card issuance date. Golden Visa tiers (€250K/€400K/€800K) stable since Aug 2024. Short-term letting prohibition enforced. Demand shift in Jan–Aug 2026: new Golden Visa applications −44% YoY while issued permits +10%; foreign property investment topped €1B in H1 2026. ^[https://agentnews.gr/property/greece-foreign-property-investment-golden-visa-2026]
+- **Recent changes**: Law 5275/2026 — immigration reform, permit validity from card issuance date. Golden Visa tiers (€250,000/€400,000/€800,000) stable since Aug 2024. Short-term letting prohibition enforced. Demand shift in Jan–Aug 2026: new Golden Visa applications −44% YoY while issued permits +10%; foreign property investment topped €1B in H1 2026. ^[https://agentnews.gr/property/greece-foreign-property-investment-golden-visa-2026]
 - **Watch items**: Monitor Golden Visa backlog clearance (~50,000 pending). Track any further threshold increases. Implementation of Law 5275/2026.

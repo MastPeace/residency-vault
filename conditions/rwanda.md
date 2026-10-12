@@ -93,7 +93,7 @@ Rwanda offers visa-free entry for 30 days (or eVisa). Russian citizens can apply
 | Median net monthly salary | ~$250–350 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Rwanda] |
 | Cost of living index (relative) | ~30 (NYC=100) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Rwanda] |
 | Monthly rent, 1‑bedroom apartment | ~$250–450 (Kigali) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Rwanda] |
-| Effective personal tax rate for remote workers | 0%–30% progressive (top rate on RWF 7.2M+/yr) | [soft/estimate] |
+| Effective personal tax rate for remote workers | 0%–30% progressive (top rate on RWF 7,200,000+/yr) | [soft/estimate] |
 | Remote‑work / self‑employment residence available? | Yes — Digital Nomad Visa (1 yr USD 100 / 5 yr USD 500) | ^[https://www.migration.gov.rw/visa] |
 | Years to citizenship | 15 years continuous legal residence | ^[https://www.migration.gov.rw/our-services/citizenshipss] |
 | Maximum permitted absence during residence | Not clearly defined; continuous residence expected | [soft/estimate] |

@@ -22,7 +22,7 @@ The Bahamas has no citizenship-by-investment programme and no digital nomad visa
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Permanent Residence (Economic) | US$1M+ investment (real estate or Zero Coupon Bonds); hold 10 years | Permanent | [[#investment-residency]] |
+| investment_residency | Permanent Residence (Economic) | US$1,000,000+ investment (real estate or Zero Coupon Bonds); hold 10 years | Permanent | [[#investment-residency]] |
 | passive_income_residency | Annual Residence Permit (non-work) | Proof of independent means; property ownership helps | 1 yr, renewable | [[#passive-income-residency]] |
 | digital_nomad_visa | Not available | — | — | — |
 | highly_skilled_employment | Work permit (Scale 1–8) | Job offer; labour market test; employer-sponsored | 1 yr, renewable | [[#employment-residency]] |
@@ -41,7 +41,7 @@ The Bahamas has no citizenship-by-investment programme and no digital nomad visa
 - **Duration / renewal**: Permanent — issued for life (unless revoked). Also possible via: spouse of Bahamian (after 5 years marriage), 20+ years on work permits, 10+ years special categories (police, teachers, nurses, doctors, ministers).
 - **Path to citizenship**: After 10 years of holding permanent residence (including 12 months immediately before application) + 6 years physical presence.
 - **Official source**: https://www.immigration.gov.bs/residence/permanent-residence
-- **Community verdict**: Works well for high-net-worth individuals ($1M+ buy-in); discretionary processing; property ownership is the practical route.
+- **Community verdict**: Works well for high-net-worth individuals ($1,000,000+ buy-in); discretionary processing; property ownership is the practical route.
 
 ### passive_income_residency
 - **Official name**: Annual Residence Permit (non-work)
@@ -61,11 +61,11 @@ The Bahamas has no citizenship-by-investment programme and no digital nomad visa
 
 ### retired_residency
 - **Official name**: Annual Residence Permit (retiree) / Permanent Residence
-- **Conditions**: Proof of pension or foreign-source passive income; property ownership or long-term lease in Bahamas. Homeowner route: purchasing a residence for BSD 1,500,000+ (~US$1.5M) gets "speedy consideration" for permanent residence. ^[https://www.immigration.gov.bs/residence/permanent-residence]
-- **Duration / renewal**: Annual (residence permit) or permanent (if meeting $1.5M property threshold).
+- **Conditions**: Proof of pension or foreign-source passive income; property ownership or long-term lease in Bahamas. Homeowner route: purchasing a residence for BSD 1,500,000+ (~US$1,500,000) gets "speedy consideration" for permanent residence. ^[https://www.immigration.gov.bs/residence/permanent-residence]
+- **Duration / renewal**: Annual (residence permit) or permanent (if meeting $1,500,000 property threshold).
 - **Path to citizenship**: After permanent residence: 10 years + 6 years physical presence.
 - **Official source**: https://mofa.gov.bs/applying-for-permanent-residence
-- **Community verdict**: Mixed (dual-track: wealthy retirees buying $1.5M+ homes get fast-track permanent residence; others on annual permits face slow, discretionary process).
+- **Community verdict**: Mixed (dual-track: wealthy retirees buying $1,500,000+ homes get fast-track permanent residence; others on annual permits face slow, discretionary process).
 
 ## Citizenship
 - **By naturalization**: 10 years as legal permanent resident including 12 months immediately before application, PLUS at least 6 years physical presence in preceding 12-month period's prior years. Good character, English proficiency (no formal exam), intent to reside. ^[https://www.immigration.gov.bs/applying-to-stay/applying-for-citizenship]
@@ -184,7 +184,7 @@ _Coverage: 51/55 fields. Only facts verifiable against official sources or publi
 ## Country Card
 
 ### General description
-The Bahamas is an archipelagic nation of over 700 islands stretching from near Florida to the Caribbean. It is a high-income country with a GDP per capita among the highest in the Americas, driven by tourism (over 60% of GDP) and offshore financial services. The Bahamas combines zero personal income tax with a strong passport (~153 visa-free destinations), making it attractive to high-net-worth individuals. However, residency is reserved for the wealthy: permanent residence requires $1M+ in real estate investment, and the path to citizenship is among the longest in the region at 20+ years. Dual citizenship is not recognized, requiring renunciation of prior nationality.
+The Bahamas is an archipelagic nation of over 700 islands stretching from near Florida to the Caribbean. It is a high-income country with a GDP per capita among the highest in the Americas, driven by tourism (over 60% of GDP) and offshore financial services. The Bahamas combines zero personal income tax with a strong passport (~153 visa-free destinations), making it attractive to high-net-worth individuals. However, residency is reserved for the wealthy: permanent residence requires $1,000,000+ in real estate investment, and the path to citizenship is among the longest in the region at 20+ years. Dual citizenship is not recognized, requiring renunciation of prior nationality.
 
 ### Well-known strong points
 - Zero personal income tax, zero capital gains tax, zero inheritance tax
@@ -196,7 +196,7 @@ The Bahamas is an archipelagic nation of over 700 islands stretching from near F
 
 ### Well-known problems
 - One of the most expensive countries in the Caribbean (Numbeo index 85.1)
-- Permanent residence requires $1M+ investment; no accessible mid-tier residency
+- Permanent residence requires $1,000,000+ investment; no accessible mid-tier residency
 - Path to citizenship is extremely long: 20+ years total
 - Dual citizenship NOT recognized — naturalization requires renouncing prior nationality
 - No digital nomad visa; no legal framework for remote workers beyond tourist entry

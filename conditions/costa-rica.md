@@ -42,7 +42,7 @@ Costa Rica's immigration is managed by the Dirección General de Migración y Ex
 - **Duration / renewal**: 2 years temporary, renewable. Permanent residency after 3 years of temporary.
 - **Path to citizenship**: 5 years (Ibero-American/Spanish by birth) or 7 years (others) from first legal residency.
 - **Official source**: https://www.migracion.go.cr
-- **Community verdict**: Works well (well-established category; USD 200K threshold has been stable).
+- **Community verdict**: Works well (well-established category; USD 200,000 threshold has been stable).
 
 ### passive_income_residency
 - **Official name**: Residencia Temporal — Rentista

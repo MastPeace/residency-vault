@@ -119,8 +119,8 @@ Not available. France does not offer direct citizenship by investment.
 ## Tax
 - **Standard rates**: Progressive 0%–45% (2026 bands: 0% up to €11,497; 11% to €29,315; 30% to €83,523; 41% to €178,145; 45% above). Social charges (CSG/CRDS) add ~9.2% on certain income.
 - **Impatriate regime**: 30% exemption on total remuneration (or actual additional costs) for up to 8 years for employees recruited abroad by French companies.
-- **Wealth tax**: Impôt sur la Fortune Immobilière (IFI) on real estate assets > €1.3M.
-- **No flat-tax regime** comparable to Italian €300K or Spanish Beckham Law. France is a high-tax jurisdiction.
+- **Wealth tax**: Impôt sur la Fortune Immobilière (IFI) on real estate assets > €1,300,000.
+- **No flat-tax regime** comparable to Italian €300,000 or Spanish Beckham Law. France is a high-tax jurisdiction.
 
 ## IT / Digital Nomad
 France does NOT offer a digital nomad visa, and remote work under the VLS-TS Visiteur is explicitly banned (confirmed April 2026). IT professionals should use:

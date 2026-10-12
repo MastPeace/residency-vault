@@ -31,7 +31,7 @@ Uruguay's immigration is managed by the Dirección Nacional de Migración (DNM) 
 | student_residency | Residencia Temporal — Estudiante | Enrollment in Uruguayan institution | Course duration | [[#student-residency]] |
 | family_reunification | Residencia — Reunificación Familiar | Family tie to Uruguayan citizen or resident | 2 yr temp → permanent | [[#family-reunification]] |
 | retired_residency | Residencia — Rentista / Pensionado | Pension or passive income; means-tested | 2 yr temp → permanent | [[#retired-residency]] |
-| citizenship_by_investment | Not available | No CBI program. Tax holiday (Law 20.446) requires ~USD 2M real estate investment. | — | [[#citizenship-by-investment]] |
+| citizenship_by_investment | Not available | No CBI program. Tax holiday (Law 20.446) requires ~USD 2,000,000 real estate investment. | — | [[#citizenship-by-investment]] |
 
 ## Per-Program Detail
 
@@ -108,7 +108,7 @@ Uruguay's immigration is managed by the Dirección Nacional de Migración (DNM) 
 - **Community verdict**: Works well.
 
 ### citizenship_by_investment
-Not available. The "Tax Holiday 2.0" (Law 20.446) offers an 11-year tax exemption for foreigners investing ~USD 2M+ in real estate, but this is a tax benefit, not a citizenship program.
+Not available. The "Tax Holiday 2.0" (Law 20.446) offers an 11-year tax exemption for foreigners investing ~USD 2,000,000+ in real estate, but this is a tax benefit, not a citizenship program.
 
 ## Citizenship
 - **Naturalization (legal citizenship)**: 3 years of continuous legal residence for applicants with family in Uruguay (married, civil union, common-law partnership, dependent children in Uruguay). 5 years for single applicants. ^[https://goldenharbors.com/articles/uruguay-citizenship]
@@ -123,7 +123,7 @@ Not available. The "Tax Holiday 2.0" (Law 20.446) offers an 11-year tax exemptio
 ## Tax
 - **Residency trigger**: 183 days in Uruguay in a calendar year, or center of vital interests.
 - **Tax system**: Worldwide income. Progressive rates 0%–36% (IRPF). ^[https://goldenharbors.com/articles/uruguay-citizenship]
-- **Tax Holiday 2.0** (Law 20.446): 11-year exemption from Uruguayan income tax for qualifying foreign investors (~USD 2M in real estate). Foreign-source income not taxed during holiday.
+- **Tax Holiday 2.0** (Law 20.446): 11-year exemption from Uruguayan income tax for qualifying foreign investors (~USD 2,000,000 in real estate). Foreign-source income not taxed during holiday.
 - **Digital nomads**: Foreign-source income NOT taxed while on the digital nomad permit (non-resident status). Crossing 183 days triggers tax residency.
 - **Wealth tax**: Yes (Impuesto al Patrimonio), progressive.
 
@@ -150,7 +150,7 @@ Not a major yachting hub. Montevideo and Punta del Este have marinas. No special
 
 ## Status
 - **Last monitored**: 2026-10-12
-- Last change: Tax Holiday 2.0 (Law 20.446, 2024) — new real estate investment threshold ~USD 2M.
+- Last change: Tax Holiday 2.0 (Law 20.446, 2024) — new real estate investment threshold ~USD 2,000,000.
 - Digital nomad permit (Decree 238/022) operative since 2023.
 - Last monitored: 2026-09-14.
 ## Country Snapshot
@@ -167,7 +167,7 @@ Not a major yachting hub. Montevideo and Punta del Este have marinas. No special
 | Median net monthly salary | ~$800–900 USD (UYU ~35,000) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Uruguay) [soft/estimate] |
 | Cost of living index | 47.0 (NYC=100, Numbeo 2025) — highest in South America | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~$600 (Montevideo city centre, UYU ~25,000) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Uruguay) [soft/estimate] |
-| Effective personal tax rate for remote workers | 0%–36% progressive (worldwide taxation for residents); Tax Holiday 2.0 available for ~$2M+ real estate investors | [DGI Uruguay](https://www.dgi.gub.uy) [soft/estimate] |
+| Effective personal tax rate for remote workers | 0%–36% progressive (worldwide taxation for residents); Tax Holiday 2.0 available for ~$2,000,000+ real estate investors | [DGI Uruguay](https://www.dgi.gub.uy) [soft/estimate] |
 | Remote-work / self-employment residence available? | Yes — Digital Nomad permit (Hoja de Identidad Provisoria): no minimum income, 180+180 days, ~$30 fee, open to all nationalities; does NOT count toward citizenship; can convert to temp residency | See [[#digital-nomad-visa]] |
 | Years to citizenship | 3 years continuous residence (family ties) / 5 years (single); clock starts from residency filing date | See [[#citizenship]] |
 | Maximum permitted absence during residence | At least 183 days/year physical presence during qualifying period | See [[#citizenship]] |
@@ -187,7 +187,7 @@ Uruguay is South America's smallest Spanish-speaking country, wedged between Bra
 - Cheapest digital nomad permit in the region: ~$30, no income minimum, open to all nationalities
 - Fast citizenship: 3 years (family) / 5 years (single) — clock starts from filing date, not card issuance
 - Strong institutions, reliable judiciary, low corruption — a genuine liberal democracy
-- Tax Holiday 2.0: 11-year income tax exemption for ~$2M+ real estate investors
+- Tax Holiday 2.0: 11-year income tax exemption for ~$2,000,000+ real estate investors
 - MERCOSUR mobility for citizens and permanent residents
 
 ### Well-known problems

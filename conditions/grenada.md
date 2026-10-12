@@ -29,7 +29,7 @@ Grenada's Citizenship by Investment (CBI) programme was established in 2013 by t
 | student_residency | Student visa | Enrollment in St George's University / other | Course duration | — |
 | family_reunification | Dependent permit | Included with principal CBI/work permit | Matches principal | — |
 | retired_residency | Not available | — | — | — |
-| citizenship_by_investment | CBI Programme | NTF Donation $235K / Real Estate $270K+ | 3–4 months | [[#citizenship-by-investment]] |
+| citizenship_by_investment | CBI Programme | NTF Donation $235,000 / Real Estate $270,000+ | 3–4 months | [[#citizenship-by-investment]] |
 
 ## Per-Program Detail
 
@@ -42,7 +42,7 @@ Grenada's Citizenship by Investment (CBI) programme was established in 2013 by t
 - **Duration / renewal**: Citizenship is permanent and irrevocable. No mandatory residency or physical presence. Passport valid 5 years for adults.
 - **Path to citizenship**: Direct citizenship. NTF route permits applying for permanent residence first and citizenship later. No language exam.
 - **Official source**: https://imagrenada.gd/citizenship-by-investment
-- **Community verdict**: Works well (mature programme; July 2024 price increase to $235K NTF / $270K real estate per OECS MoA; single best Caribbean CBI for US E-2 treaty access).
+- **Community verdict**: Works well (mature programme; July 2024 price increase to $235,000 NTF / $270,000 real estate per OECS MoA; single best Caribbean CBI for US E-2 treaty access).
 
 ## Citizenship
 - **By investment**: Direct upon qualifying investment + due diligence.
@@ -116,6 +116,6 @@ Grenada is a tri-island eastern Caribbean nation (Grenada, Carriacou, Petite Mar
 - Hurricane risk; climate vulnerability
 ## Status
 - **Last monitored**: 2026-10-12
-- Last change: July 1, 2024 — investment thresholds raised (NTF $235K, Real Estate $270K) per OECS MoA.
+- Last change: July 1, 2024 — investment thresholds raised (NTF $235,000, Real Estate $270,000) per OECS MoA.
 - Last monitored: 2026-09-14.
 - No open watch items.

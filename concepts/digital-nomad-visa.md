@@ -38,6 +38,6 @@ Distinct from tourist visas: DN visas grant legal residence for remote work. The
 | [[ecuador]] | Visa Nómada — Rentista para Trabajo Remoto | ≥$1,410/mo (3× min wage); ALL nationalities | 2 yr → PR after 3 yr | 3 yr residence | Works well — leads to PR |
 | [[mauritius]] | Premium Visa | $1,500/mo (main) + $500/mo (dependent child) | 1 yr, renewable; no local work | No direct path | Works well |
 | [[kenya]] | Class N — Digital Nomad Permit | Remote work for foreign employer/clients | 1 yr, renewable | 5 yr residence | New — limited track record |
-| [[japan]] | Digital Nomad (Designated Activities) | ¥10M/yr (~$66,000); visa-exempt nationals only | 6 months, NON-renewable | No path | Problematic — short, non-renewable |
+| [[japan]] | Digital Nomad (Designated Activities) | ¥10,000,000/yr (~$66,000); visa-exempt nationals only | 6 months, NON-renewable | No path | Problematic — short, non-renewable |
 
 *Not available* in: Germany, France (banned on visitor visa since Apr 2026), UK, Ireland, Netherlands, Belgium, Sweden, Denmark, Finland, Austria, Switzerland, Canada, Australia, New Zealand, and ~55 others.

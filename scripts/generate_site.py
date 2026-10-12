@@ -642,6 +642,23 @@ REGION_LABELS = {
     "north_america_oceania": "North America & Oceania",
 }
 
+REGION_LABELS.update({"asia": "Asia", "africa_central": "Central Africa"})
+# regions.yaml groups were created per research wave; fold them into the display regions above.
+# Keyed by country slug; only countries whose yaml group has no display label need an entry.
+REGION_FOLD = {
+    "eu_western": "andorra liechtenstein monaco san-marino",
+    "eu_eastern": "belarus moldova ukraine",
+    "africa_west": "benin burkina-faso gambia guinea liberia mauritania sierra-leone togo cabo-verde",
+    "africa_central": "cameroon central-african-republic congo democratic-republic-of-congo equatorial-guinea gabon sao-tome",
+    "africa_east_south": "angola mozambique zambia zimbabwe malawi lesotho madagascar djibouti comoros eswatini",
+    "caribbean_central": "british-virgin-islands cayman-islands cuba dominica haiti st-lucia st-vincent trinidad-and-tobago turks-and-caicos",
+    "asia": "china hong-kong india indonesia malaysia myanmar philippines sri-lanka taiwan thailand",
+    "north_america_oceania": "fiji marshall-islands papua-new-guinea samoa solomon-islands tonga vanuatu",
+    "latin_america": "guyana suriname venezuela",
+    "middle_east_gulf": "lebanon",
+}
+FOLD_OF = {slug: reg for reg, slugs in REGION_FOLD.items() for slug in slugs.split()}
+
 # ── Page Registry ────────────────────────────────────────────────────────────
 
 # These are populated during collection
@@ -944,6 +961,10 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .foot { border-top: 1px solid var(--line); padding: 24px 0 48px; font-size: 13px; color: var(--muted); }
 .foot .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
 .foot a { color: var(--muted); }
+.ctable .col-more { display: none; }
+.ctable.more .col-more { display: table-cell; }
+.ctable.more .col-fit { display: none; }
+.ctable td.col-more { font-size: 13px; white-space: nowrap; }
 .tnote { margin: 14px 0 0; font-size: 13px; color: var(--muted); }
 .ctable th a.gl { color: var(--accent); text-decoration: none; font-weight: 700; margin-left: 2px; }
 .cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; margin: 8px 0 36px; }
@@ -1019,7 +1040,58 @@ def parse_region_meta(filepath):
         if m and region:
             cats = [c.strip() for c in (m.group(2) or "").split(",") if c.strip()]
             meta[m.group(1)] = {"region": region, "categories": cats}
+    for slug, m in meta.items():
+        if m["region"] not in REGION_LABELS and slug in FOLD_OF:
+            m["region"] = FOLD_OF[slug]
     return meta
+
+
+FACTS_FILE = WIKI_DIR / "data" / "facts.json"
+FACTS = json.loads(FACTS_FILE.read_text(encoding="utf-8")) if FACTS_FILE.exists() else {}
+CUR_SYM = {"EUR": "€", "USD": "$", "GBP": "£", "JPY": "¥", "CNY": "¥"}
+# Approximate EUR per unit, used ONLY to sort the investment column; the page always shows the original currency.
+EUR_RATE = {"EUR": 1, "USD": .92, "GBP": 1.17, "AED": .25, "CAD": .67, "AUD": .6, "NZD": .55, "CHF": 1.05,
+            "SGD": .69, "HKD": .12, "JPY": .006, "CNY": .13, "THB": .027, "MYR": .2, "TRY": .022, "BHD": 2.45, "KWD": 3}
+
+
+def money(cur, amount):
+    sym = CUR_SYM.get(cur)
+    n = f"{int(amount):,}"
+    return f"{sym}{n}" if sym else f"{cur} {n}"
+
+
+def fact_gv(slug):
+    f = (FACTS.get(slug) or {}).get("gv_min")
+    if not f:
+        return "", None, ""
+    eur = f["amount"] * EUR_RATE[f["currency"]] if f["currency"] in EUR_RATE else None
+    return money(f["currency"], f["amount"]), eur, f"{f.get('note', '')}: {f['evidence']}"
+
+
+def fact_remote(slug):
+    f = (FACTS.get(slug) or {}).get("remote_visa")
+    if not f:
+        return "", None, ""
+    if not f["available"]:
+        return "No", 0, f["evidence"]
+    inc = ""
+    eur = 1
+    if f.get("min_income") and f.get("currency"):
+        per = {"month": "/mo", "year": "/yr"}.get(f.get("period"), "")
+        inc = f" · {money(f['currency'], f['min_income'])}{per}"
+        if f["currency"] in EUR_RATE:
+            m = f["min_income"] * EUR_RATE[f["currency"]]
+            eur = m if f.get("period") != "year" else m / 12
+    return f"Yes{inc}", eur, f["evidence"]
+
+
+def fact_tax(slug):
+    f = (FACTS.get(slug) or {}).get("remote_tax")
+    if not f:
+        return "", None, ""
+    lo, hi = f["low_pct"], f["high_pct"]
+    fmt = lambda x: f"{x:g}"
+    return (f"{fmt(lo)}%" if lo == hi else f"{fmt(lo)}–{fmt(hi)}%"), lo, f["evidence"]
 
 
 def display_name(title):
@@ -1187,7 +1259,7 @@ INDEX_JS = r"""
 (function () {
   var rows = [].slice.call(document.querySelectorAll('#ctable tbody tr'));
   var q = document.getElementById('f-q'), reg = document.getElementById('f-region'), conf = document.getElementById('f-conf');
-  var chips = [].slice.call(document.querySelectorAll('.fchip')), cnt = document.getElementById('f-count');
+  var chips = [].slice.call(document.querySelectorAll('.fchip[data-cat]')), cnt = document.getElementById('f-count');
   function apply() {
     var s = q.value.trim().toLowerCase(), on = chips.filter(function (c) { return c.getAttribute('aria-pressed') === 'true'; }).map(function (c) { return c.dataset.cat; });
     var n = 0;
@@ -1204,6 +1276,11 @@ INDEX_JS = r"""
     c.setAttribute('aria-pressed', c.getAttribute('aria-pressed') === 'true' ? 'false' : 'true'); apply(); }); });
   [q, reg, conf].forEach(function (el) { el.addEventListener('input', apply); });
 
+  var mb = document.getElementById('more-cols'), ct = document.getElementById('ctable');
+  mb.addEventListener('click', function () {
+    var on = mb.getAttribute('aria-pressed') !== 'true';
+    mb.setAttribute('aria-pressed', on ? 'true' : 'false'); ct.classList.toggle('more', on);
+  });
   var ths = document.querySelectorAll('#ctable th[data-sort]'), tb = document.querySelector('#ctable tbody');
   [].forEach.call(ths, function (th) {
     th.querySelector('button').addEventListener('click', function () {
@@ -1372,17 +1449,25 @@ def render_index(region_meta, region_labels, concept_pages):
         conf = (p.get("confidence") or "").lower()
         upd = p.get("last_checked") or p.get("updated") or ""
         fit = "".join(f'<span class="chip">{CAT_LABELS[c]}</span>' for c in cats)
+        gv_t, gv_n, gv_h = fact_gv(p["slug"])
+        rv_t, rv_n, rv_h = fact_remote(p["slug"])
+        tx_t, tx_n, tx_h = fact_tax(p["slug"])
+        dash = '<span class="none">—</span>'
+        more = (f'<td class="num col-more" title="{html.escape(gv_h, quote=True)}">{html.escape(gv_t) or dash}</td>'
+                f'<td class="col-more" title="{html.escape(rv_h, quote=True)}">{html.escape(rv_t) or dash}</td>'
+                f'<td class="num col-more" title="{html.escape(tx_h, quote=True)}">{html.escape(tx_t) or dash}</td>')
         rows.append(
             f'<tr data-name="{html.escape(name.lower())}" data-code="{html.escape((p.get("country_code") or "").lower())}" '
             f'data-cats="{" ".join(cats)}" data-region="{reg}" data-conf="{conf}" '
             f'data-years="{yrs if yrs is not None else ""}" data-passport="{pp if pp else ""}" '
-            f'data-confn="{ {"low":1,"medium":2,"high":3}.get(conf,"") }" data-date="{html.escape(upd)}">'
+            f'data-confn="{ {"low":1,"medium":2,"high":3}.get(conf,"") }" data-date="{html.escape(upd)}" '
+            f'data-gv="{round(gv_n) if gv_n else ""}" data-rv="{"" if rv_n is None else round(rv_n)}" data-tax="{"" if tx_n is None else tx_n}">'
             f'<td class="name"><a href="conditions/{p["slug"]}.html">{html.escape(name)}</a></td>'
             f'<td class="region col-region">{html.escape(region_labels.get(reg, ""))}</td>'
             f'<td class="fit col-fit">{fit}</td>'
             f'<td class="num">{ylabel if ylabel else "<span class=none>—</span>"}</td>'
             f'<td class="num col-passport">{pp if pp else "<span class=none>—</span>"}</td>'
-            f'<td class="col-conf">{conf_html(conf)}</td></tr>')
+            f'<td class="col-conf">{conf_html(conf)}</td>{more}</tr>')
 
     def th(label, key, typ="text", cls="", note=""):
         star = f'<a class="gl" href="glossary.html#{note}" title="What is this?">*</a>' if note else ""
@@ -1397,7 +1482,10 @@ def render_index(region_meta, region_labels, concept_pages):
                   + '<th class="col-fit">Fit<a class="gl" href="glossary.html#fit-tags" title="What is this?">*</a></th>'
                   + th("To citizenship", "years", "num", "num", note="country-list-columns")
                   + th("Passport", "passport", "num", "num col-passport", note="country-list-columns")
-                  + th("Confidence", "confn", "num", "col-conf", note="confidence"))
+                  + th("Confidence", "confn", "num", "col-conf", note="confidence")
+                  + th("Investment from", "gv", "num", "num col-more", note="more-columns")
+                  + th("Remote visa", "rv", "num", "col-more", note="more-columns")
+                  + th("Remote tax", "tax", "num", "num col-more", note="more-columns"))
 
     # Latest monitoring: pages that carry a monitored date + real recent-changes text
     latest = []
@@ -1432,12 +1520,13 @@ def render_index(region_meta, region_labels, concept_pages):
   <input id="f-q" type="search" placeholder="Filter by name or code" aria-label="Filter countries">
   <select id="f-region" aria-label="Region"><option value="">All regions</option>{region_opts}</select>
   <select id="f-conf" aria-label="Confidence"><option value="">Any confidence</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option></select>
+  <button class="fchip" id="more-cols" type="button" aria-pressed="false">More columns</button>
   <span class="count" id="f-count"></span></div>
   <div class="explore-row" style="margin-top:10px">{chip_btns}</div></div>"""
     table = f"""<table class="ctable" id="ctable"><thead><tr>
 {header_row}
 </tr></thead><tbody>{"".join(rows)}</tbody></table>
-<p class="tnote">* Passport = number of visa-free destinations of the passport you would get after naturalisation. Click a * to see what a column means, or open the <a href="glossary.html">glossary</a>.</p>"""
+<p class="tnote">* Passport = number of visa-free destinations of the passport you would get after naturalisation. The extra columns (press <b>More columns</b>) are extracted from the country pages; hover a value to see the source quote. Click a * to see what a column means, or open the <a href="glossary.html">glossary</a>.</p>"""
     countries_body = f"""<div class="wrap">
 <section class="hero"><div><h1>Countries</h1></div><div><p>{n_c} countries: filter by region or fit, sort by years to citizenship or passport strength.</p></div></section>
 <section id="countries">{explore}{table}</section>

@@ -21,7 +21,7 @@ Colombia's immigration is managed by the Cancillería (Ministry of Foreign Affai
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Type M — Inversionista | Real estate ≥ ~350× minimum wage (~COP 497M / ~USD 120,000) or business investment | Up to 3 yr (M) → R after 5 yr | [[#investment-residency]] |
+| investment_residency | Type M — Inversionista | Real estate ≥ ~350× minimum wage (~COP 497,000,000 / ~USD 120,000) or business investment | Up to 3 yr (M) → R after 5 yr | [[#investment-residency]] |
 | passive_income_residency | Type M — Rentista | Not available as a distinct category; subsumed under investment/pension routes | — | [[#passive-income-residency]] |
 | digital_nomad_visa | Type V — Nómada Digital (Visa V) | Income ≥ 3× minimum wage (~COP 4,270,500 / ~USD 1,042/mo); only for visa-exempt nationalities | Up to 2 yr (renewable); does NOT count toward residency | [[#digital-nomad-visa]] |
 | highly_skilled_employment | Type M — Trabajador | Employment contract with Colombian entity; open work permit on M visa | Up to 3 yr, renewable → R after 5 yr | [[#highly-skilled-employment]] |

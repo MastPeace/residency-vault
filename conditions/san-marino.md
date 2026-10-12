@@ -130,7 +130,7 @@ San Marino is a 61 km² landlocked republic entirely surrounded by Italy, claimi
 - 15-year citizenship path with mandatory renunciation of prior nationality
 - No own visa system — entry only via Italy/Schengen
 - Tiny size limits housing, services, and business scale
-- Elective residence requires €500K–600K investment
+- Elective residence requires €500,000–600,000 investment
 - Italian language required for citizenship
 
 ## Status

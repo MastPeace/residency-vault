@@ -23,7 +23,7 @@ Portugal is one of Europe's most popular immigration destinations. Its immigrati
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | ARI / Golden Visa | €500K investment fund; no real estate since Oct 2023 | 2 yr, renewable | [[#investment-residency]] |
+| investment_residency | ARI / Golden Visa | €500,000 investment fund; no real estate since Oct 2023 | 2 yr, renewable | [[#investment-residency]] |
 | passive_income_residency | D7 Visa | Passive income ≥ €920/mo (min wage); +50% spouse, +30% child | 2 yr → 3 yr | [[#passive-income-residency]] |
 | digital_nomad_visa | D8 Visa | Remote work income ≥ €3,680/mo (4× min wage) | 2 yr, renewable | [[#digital-nomad-visa]] |
 | highly_skilled_employment | EU Blue Card / Tech Visa | Job offer + degree; salary ≥ 1.5× national avg | Up to 4 yr | [[#highly-skilled-employment]] |
@@ -216,7 +216,7 @@ _Coverage: 52/55 fields. Only facts verifiable against official sources or publi
 | Money & tax | Wealth / inheritance / CGT | No wealth tax; stamp duty 10% on inheritance (spouse/descendants exempt); CGT 28% on gains | [source](https://taxsummaries.pwc.com/portugal) — soft/estimate |
 | Money & tax | CFC rules | Yes, CFC rules apply (EU ATAD); foreign income of controlled companies may be attributed to Portuguese resident | [source](https://taxsummaries.pwc.com/portugal) — soft/estimate |
 | Business | Company setup | ~6.5 days, ~€360 (online); very streamlined via 'Empresa na Hora' | unsourced/unverified |
-| Business | Corporate tax | 21% standard CIT (mainland); 14.7% Madeira; reduced rates for SMEs on first €50k | [source](https://taxsummaries.pwc.com/portugal) — soft/estimate |
+| Business | Corporate tax | 21% standard CIT (mainland); 14.7% Madeira; reduced rates for SMEs on first €50,000 | [source](https://taxsummaries.pwc.com/portugal) — soft/estimate |
 | Family & education | Top university | University of Lisbon; QS World 2026 rank ~260 | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
 | Connectivity | Visa-free for Russians | Schengen visa required; visa-free only for EU/EEA citizens; Russia not eligible since Sep 2022 suspension | unsourced/unverified |
 | For Russian citizens | Sanctions position | Full EU sanctions on Russia; arms embargo, financial restrictions, travel bans on individuals | [source](https://www.consilium.europa.eu/en/policies/sanctions/restrictive-measures-against-russia/) — hard/official |

@@ -82,7 +82,7 @@ The dominant narrative is emigration (~7–8 million Venezuelans abroad). There 
 | Main city (capital or largest) | Caracas | [Wikipedia](https://en.wikipedia.org/wiki/Caracas) — hard/official |
 | On the coast? | Yes (Caribbean; ~2,800 km coastline) | Geographical fact [soft/estimate] |
 | Tourism impact in season | Low (declined sharply with crisis) | [soft/estimate] |
-| GDP per capita (PPP) | ~$8,000 (2023, IMF estimate; collapsed from ~$18K in 2013) | [IMF](https://www.imf.org/en/Countries/VEN) — hard/official (confidence low) |
+| GDP per capita (PPP) | ~$8,000 (2023, IMF estimate; collapsed from ~$18,000 in 2013) | [IMF](https://www.imf.org/en/Countries/VEN) — hard/official (confidence low) |
 | Median net monthly salary | ~$150–250 (de-facto dollarised) | [soft/estimate] |
 | Cost of living index | Low–moderate (USD economy) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Venezuela) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~$200–350 (Caracas) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Venezuela) [soft/estimate] |

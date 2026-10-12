@@ -88,13 +88,13 @@ Not available.
 - **Dual citizenship**: Not recognized for ordinary naturalizations.
 
 ## Tax
-- **Personal income tax**: Progressive 5%–40% (top rate on income > NT$4.72M). ^[https://www.mof.gov.tw/]
+- **Personal income tax**: Progressive 5%–40% (top rate on income > NT$4,720,000). ^[https://www.mof.gov.tw/]
 - **Residents vs non-residents**: Residents (183+ days) taxed on worldwide income; non-residents at flat 18% on Taiwan-source salary.
 - **Foreign-special-professional regime**: Qualified Gold Card holders may qualify for favorable tax treatment.
 - **No capital gains tax for individuals on listed securities.**
 
 ## IT / Digital Nomad
-No dedicated DN visa, but the Gold Card is one of Asia's best remote-work vehicles: open work authorization, no employer, NT$160k/mo salary threshold, 1–3 years. Taiwan has strong internet, a large semiconductor/software industry, and a growing expat tech community (Taipei, Hsinchu). Practical option for remote workers with qualifying income/credentials.
+No dedicated DN visa, but the Gold Card is one of Asia's best remote-work vehicles: open work authorization, no employer, NT$160,000/mo salary threshold, 1–3 years. Taiwan has strong internet, a large semiconductor/software industry, and a growing expat tech community (Taipei, Hsinchu). Practical option for remote workers with qualifying income/credentials.
 
 ## Yacht / Maritime
 Island nation with a large maritime industry (fishing, shipping). Ports: Kaohsiung (major container port), Keelung, Taichung. Recreational yachting is modest; some marinas in Taipei and Kaohsiung.
@@ -120,7 +120,7 @@ The Gold Card is the flagship and widely praised for its speed and open work aut
 | Cost of living index | ~45 (NYC=100) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Taiwan) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~NT$17,000 (~$550) city centre | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Taiwan) [soft/estimate] |
 | Effective personal tax rate for remote workers | 5%–40% progressive (residents) | [Ministry of Finance](https://www.mof.gov.tw/) [soft/estimate] |
-| Remote-work / self-employment residence available? | Yes — Gold Card (NT$160k/mo), open work authorization | See [[#highly-skilled-employment]] |
+| Remote-work / self-employment residence available? | Yes — Gold Card (NT$160,000/mo), open work authorization | See [[#highly-skilled-employment]] |
 | Years to citizenship | 5 years (3 if married to a citizen) | See [[#citizenship]] |
 | Maximum permitted absence during residence | 183 days/year required to keep the residence clock | See [[#citizenship]] |
 | Passport strength after citizenship | 139 visa-free destinations (Henley Q3 2025, rank 33) | [Henley & Partners](https://www.henleyglobal.com/publications/global-mobility-report/2025-july) — hard/official |

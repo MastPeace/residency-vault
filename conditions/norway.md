@@ -152,7 +152,7 @@ Norway is a wealthy EEA/Schengen country with the world's largest sovereign weal
 
 ### Well-known problems
 - Very high cost of living — among the highest in Europe
-- Wealth tax of 1.1% on net assets above NOK 1.7M — a significant burden for high-net-worth residents
+- Wealth tax of 1.1% on net assets above NOK 1,700,000 — a significant burden for high-net-worth residents
 - No digital nomad, passive-income, or golden visa routes; entry is almost purely employment-based
 - 8-year citizenship path + Norwegian language requirement
 - Cold, dark winters with short daylight hours in much of the country

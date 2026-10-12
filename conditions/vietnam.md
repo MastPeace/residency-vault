@@ -15,7 +15,7 @@ last_checked: 2026-10-12
 ---
 
 ## Overview
-Vietnam's passport is moderate-strength and its immigration system is built around investor (DT), labor (LĐ), and tourist/e-visa categories rather than a broad residency program. Vietnam has NO formal Golden Visa yet — a five- or ten-year model has been under study through 2026 (a USD $300,000 placement pilot was reported to run from July 1, 2026 to June 30, 2029, though official confirmation is pending). Permanent residence exists but only under four narrow statutory categories. The DT investor visa series (DT1–DT4) functions as the practical long-stay system, with DT1 Temporary Residence Cards (TRCs) valid up to 10 years. ^[https://www.visaverge.com/visa/vietnam-plans-new-golden-visa-for-long-term-tourists-and-investors]
+Vietnam's passport is moderate-strength and its immigration system is built around investor (DT), labor (LĐ), and tourist/e-visa categories rather than a broad residency program. Vietnam has NO formal Golden Visa yet — a five- or 10-year model has been under study through 2026 (a USD $300,000 placement pilot was reported to run from July 1, 2026 to June 30, 2029, though official confirmation is pending). Permanent residence exists but only under four narrow statutory categories. The DT investor visa series (DT1–DT4) functions as the practical long-stay system, with DT1 Temporary Residence Cards (TRCs) valid up to 10 years. ^[https://www.visaverge.com/visa/vietnam-plans-new-golden-visa-for-long-term-tourists-and-investors]
 
 ## Residency Programs
 
@@ -36,7 +36,7 @@ Vietnam's passport is moderate-strength and its immigration system is built arou
 
 ### investment_residency
 - **Official name**: DT Investor Visa (Đầu tư) — DT1, DT2, DT3, DT4 tiers + Temporary Residence Card (TRC, Thẻ tạm trú)
-- **Conditions**: Four tiers by capital contribution: DT1 — VND 100 billion+ (≈ USD $4M+); DT2 — VND 50–100 billion; DT3 — VND 3–50 billion; DT4 — under VND 3 billion. DT1 visa: 5 years; DT2: 5 years; DT3: 3 years; DT4: 1 year. DT1 TRC valid up to 10 years (lower tiers shorter, renewal required). Investment must be active (business), NOT passive property — buying real estate does NOT create residency rights. ^[https://www.visaverge.com/visa/vietnam-launches-golden-visa-offering-up-to-ten-years-residency]
+- **Conditions**: Four tiers by capital contribution: DT1 — VND 100 billion+ (≈ USD $4,000,000+); DT2 — VND 50–100 billion; DT3 — VND 3–50 billion; DT4 — under VND 3 billion. DT1 visa: 5 years; DT2: 5 years; DT3: 3 years; DT4: 1 year. DT1 TRC valid up to 10 years (lower tiers shorter, renewal required). Investment must be active (business), NOT passive property — buying real estate does NOT create residency rights. ^[https://www.visaverge.com/visa/vietnam-launches-golden-visa-offering-up-to-10-years-residency]
 - **Duration / renewal**: DT1–DT2: 5 years; DT3: 3 years; DT4: 1 year; TRC up to 10 years (DT1). Renewal requires investment to remain in place.
 - **Path to citizenship**: DT1 + 5 years continuous residence opens a path to permanent residence. Vietnamese naturalization generally requires 5 years residence + Vietnamese language (investors with contributions supporting national development may be exempted from the 5-year requirement under July 2025 Nationality Law amendments). ^[https://www.vietnam-briefing.com/news/vietnam-immigration-permanent-residence-eligibility-and-application-guide.html]
 - **Official source**: https://xuatnhapcanh.gov.vn/
@@ -65,7 +65,7 @@ Vietnam's passport is moderate-strength and its immigration system is built arou
 
 ### startup_entrepreneur
 - **Official name**: DT4 Investor Visa (small business) — Đầu tư
-- **Conditions**: DT4 for investments under VND 3 billion (≈ USD $125K), 1-year visa. Smaller founders and entrepreneurs use DT4 or DT3. Active business involvement expected.
+- **Conditions**: DT4 for investments under VND 3 billion (≈ USD $125,000), 1-year visa. Smaller founders and entrepreneurs use DT4 or DT3. Active business involvement expected.
 - **Duration / renewal**: 1 year (DT4), 3 years (DT3), renewable.
 - **Path to citizenship**: DT route → TRC → long-term residence → citizenship (5 years).
 - **Official source**: https://xuatnhapcanh.gov.vn/
@@ -109,7 +109,7 @@ Vietnam's passport is moderate-strength and its immigration system is built arou
 
 ## Tax
 - **Residency-based taxation**: Residents (183+ days or permanent residence) taxed on worldwide income; non-residents on Vietnam-source income only.
-- **Income tax**: Progressive rates: 5%, 10%, 15%, 20%, 25%, 30%, 35% (top rate above VND 80M/month). Non-residents: flat 20% on Vietnam-source income.
+- **Income tax**: Progressive rates: 5%, 10%, 15%, 20%, 25%, 30%, 35% (top rate above VND 80,000,000/month). Non-residents: flat 20% on Vietnam-source income.
 - **Capital gains**: Securities 0.1% (transfer tax); real estate 2%.
 - **VAT**: 8% (standard, reduced). Corporate tax: 20% (preferential rates 10–15% for certain sectors/regions).
 - **No wealth tax, no inheritance tax.**
@@ -152,11 +152,11 @@ Vietnam is a highly popular destination for Russian nationals (large Russian-spe
 ## Country Card
 
 ### General description
-Vietnam is a fast-growing Southeast Asian country with a young population of over 100 million, a rapidly industrializing economy, and one of the world's lowest costs of living (Numbeo index 26.6). It has NO formal Golden Visa or permanent residence for most foreigners — the DT investor visa series (DT1–DT4) and Temporary Residence Cards (TRCs) are the practical long-stay tools. A proposed Golden Visa (5–10 years, USD $300K placement) has been under study through 2026 but remains unlaunched. Citizenship is rare for foreigners; dual citizenship is generally not permitted. Vietnam is a primary relocation destination for Russian nationals due to visa-free short stays, no sanctions, and large Russian-speaking communities.
+Vietnam is a fast-growing Southeast Asian country with a young population of over 100 million, a rapidly industrializing economy, and one of the world's lowest costs of living (Numbeo index 26.6). It has NO formal Golden Visa or permanent residence for most foreigners — the DT investor visa series (DT1–DT4) and Temporary Residence Cards (TRCs) are the practical long-stay tools. A proposed Golden Visa (5–10 years, USD $300,000 placement) has been under study through 2026 but remains unlaunched. Citizenship is rare for foreigners; dual citizenship is generally not permitted. Vietnam is a primary relocation destination for Russian nationals due to visa-free short stays, no sanctions, and large Russian-speaking communities.
 
 ### Well-known strong points
 - Among the world's lowest costs of living (Numbeo 26.6) — excellent value for remote workers and retirees
-- DT1 investor visa grants Temporary Residence Card up to 10 years with VND 100B+ (~$4M)
+- DT1 investor visa grants Temporary Residence Card up to 10 years with VND 100B+ (~$4,000,000)
 - New UD1/UD2 talent visas (from Jul 2026) targeting high-skilled tech professionals
 - Fast-growing economy; young, dynamic workforce; rapidly improving infrastructure
 - Popular with Russian nationals: no sanctions, visa-free short stays, large Russian-speaking communities
@@ -173,5 +173,5 @@ Vietnam is a fast-growing Southeast Asian country with a young population of ove
 ## Status
 - **Fix**: content restored from git 949a1bd after SCHEMA v3 template corruption (2026-10-11)
 - **Last monitored**: 2026-10-12
-- **Recent changes**: Golden Visa still under study (proposed 5–10 year model, USD $300K placement pilot reported July 2026–June 2029, unconfirmed). UĐ1/UĐ2 talent visas effective July 1, 2026. Hague Apostille Convention effective September 11, 2026. July 2025 Nationality Law amendments remove 5-year residency for contributing investors.
+- **Recent changes**: Golden Visa still under study (proposed 5–10 year model, USD $300,000 placement pilot reported July 2026–June 2029, unconfirmed). UĐ1/UĐ2 talent visas effective July 1, 2026. Hague Apostille Convention effective September 11, 2026. July 2025 Nationality Law amendments remove 5-year residency for contributing investors.
 - **Watch items**: Golden Visa official launch confirmation. UĐ1/UĐ2 implementation details. DT tier threshold changes.

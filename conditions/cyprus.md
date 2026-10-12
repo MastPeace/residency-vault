@@ -40,7 +40,7 @@ Cyprus is an EU member state (since 2004) with a strong passport, but **NOT in S
 - **Duration / renewal**: **Permanent** — permit does not expire. No renewal needed. Covers entire family (spouse + children ≤25 + parents). Processing: ~8–12 months.
 - **Path to citizenship**: 8 years physical residence (2555 days within 10 years, including final 12 consecutive months) + Greek language proficiency. ^[https://philippoulaw.com/articles/how-to-obtain-a-cyprus-citizenship]
 - **Official source**: https://www.moi.gov.cy/moi/crmd/crmd.nsf
-- **Community verdict**: Works well — lifetime permanent residency, relatively affordable €300K entry, no renewal hassle. Limassol has a very large expat community. Non-Schengen is a tradeoff.
+- **Community verdict**: Works well — lifetime permanent residency, relatively affordable €300,000 entry, no renewal hassle. Limassol has a very large expat community. Non-Schengen is a tradeoff.
 - **⚠ October 2026**: Government notified parliament of plans to **tighten** the Golden Visa (Category F fast-track PR) criteria ahead of expected Schengen accession. Specific changes not yet published; applicants advised to file before new rules take effect. ^[https://plaininvestor.com/article/cyprus-golden-visa/]
 
 ### Passive Income / Retired — Category F (Standard)
@@ -49,7 +49,7 @@ Cyprus is an EU member state (since 2004) with a strong passport, but **NOT in S
 - **Duration / renewal**: 1 year, renewable.
 - **Path to citizenship**: 8 years physical residence.
 - **Official source**: https://www.moi.gov.cy
-- **Community verdict**: Works well — but fast-track (€300K) is overwhelmingly the preferred route.
+- **Community verdict**: Works well — but fast-track (€300,000) is overwhelmingly the preferred route.
 
 ## Citizenship
 - **Standard naturalization (M127)**: **8 years** of legal residence — 2555 days within 10-year period, including 12 continuous months immediately before application ^[https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127]

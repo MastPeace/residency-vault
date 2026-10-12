@@ -74,7 +74,7 @@ Austria is a wealthy EU/Schengen country with a strong passport and a points-bas
 - **Duration / renewal**: 2 years, renewable.
 - **Path to citizenship**: 10 years; B2 German; renunciation generally required.
 - **Official source**: https://www.migration.gv.at/
-- **Community verdict**: Mixed (structured program but high entry bar: €50K capital + innovation test).
+- **Community verdict**: Mixed (structured program but high entry bar: €50,000 capital + innovation test).
 
 ### employment_residency
 - **Official name**: Rot-Weiß-Rot Karte (Red-White-Red Card — points-based)
@@ -246,7 +246,7 @@ Austria is a wealthy, landlocked Central European country with a highly develope
 - No digital nomad visa, no realistic passive-income or retirement route
 - Highest EU Blue Card salary threshold (€55,678 in 2026)
 - Very limited quotas for non-employment residence permits
-- High tax burden: top rate 55% above €1M; no special impatriate regime
+- High tax burden: top rate 55% above €1,000,000; no special impatriate regime
 
 ## Status
 - **Last monitored**: 2026-10-12

@@ -21,15 +21,15 @@ South Africa is the continent's most developed economy with a recently launched 
 
 | Type | Official Program | Key Conditions | Duration | Citizenship Path |
 |------|-----------------|----------------|----------|------------------|
-| investment_residency | Business Visa (Section 15) | Invest ZAR 5M in book value OR capital injection to existing business + 60% SA staff ^[https://www.dha.gov.za] | 2–3 years, renewable | PR after 5 yrs; citizenship after 5 yrs PR ^[https://www.saembassy.org/visas/civic_immigration/citizenship] |
-| passive_income_residency | Financially Independent Permit (PR) | ZAR 12M+ net worth; ongoing monthly income of ZAR 37,000+ ^[https://www.dha.gov.za] | Permanent | Citizenship after 5 yrs PR |
+| investment_residency | Business Visa (Section 15) | Invest ZAR 5,000,000 in book value OR capital injection to existing business + 60% SA staff ^[https://www.dha.gov.za] | 2–3 years, renewable | PR after 5 yrs; citizenship after 5 yrs PR ^[https://www.saembassy.org/visas/civic_immigration/citizenship] |
+| passive_income_residency | Financially Independent Permit (PR) | ZAR 12,000,000+ net worth; ongoing monthly income of ZAR 37,000+ ^[https://www.dha.gov.za] | Permanent | Citizenship after 5 yrs PR |
 | digital_nomad_visa | Remote Work Visitor Visa (S.11(1)(b)(iv)) | Gross salary ≥ R650,796/yr (~USD 35,000); foreign employer; no local employment ^[https://dirco.gov.za/toronto/nomad-visa] | 3 months–3 years ^[https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf] | None — visitor visa; no change of status in-country; does NOT count toward PR |
 | highly_skilled_employment | Critical Skills Visa (points-based) | Degree + 5 yrs experience; R650,796/yr income threshold ^[https://www.sanews.gov.za/south-africa/department-announces-gazetting-remote-work-visitor-visa] | Up to 5 years | PR after 5 yrs; citizenship after 5 yrs PR |
 | startup_entrepreneur | Business Visa | Section 15; see investment_residency above; no dedicated startup visa | 2–3 years, renewable | PR after 5 yrs |
 | employment_residency | General Work Visa (points-based) | Job offer + labour market test; R650,796/yr income threshold ^[https://www.sanews.gov.za] | Duration of contract (max 5 yrs) | PR after 5 yrs |
 | student_residency | Study Visa | Enrolment at registered institution | Course duration | Does not count toward PR |
 | family_reunification | Relative's Visa / Spousal Visa | Marriage to SA citizen/permanent resident OR first-degree relative | 2–3 years, renewable | PR after 5 yrs on spousal visa (2 yrs if married?) |
-| retired_residency | Retired Person's Visa | ZAR 37,000+/mo pension OR ZAR 12M+ net worth | 4 years, renewable | PR after 5 yrs |
+| retired_residency | Retired Person's Visa | ZAR 37,000+/mo pension OR ZAR 12,000,000+ net worth | 4 years, renewable | PR after 5 yrs |
 | citizenship_by_investment | Not available | — | — | — |
 
 ## Per-Program Detail
@@ -61,8 +61,8 @@ South Africa is the continent's most developed economy with a recently launched 
 
 ## Tax
 - Residence-based taxation. Tax residents taxed on worldwide income.
-- Progressive rates: 18%–45% (top bracket kicks in at ZAR 1.8M+).
-- Foreign employment income exemption: up to ZAR 1.25M if >183 days abroad (12-month period, 60+ continuous).
+- Progressive rates: 18%–45% (top bracket kicks in at ZAR 1,800,000+).
+- Foreign employment income exemption: up to ZAR 1,250,000 if >183 days abroad (12-month period, 60+ continuous).
 - Capital gains tax: 18% (effective rate at 45% bracket).
 - No wealth tax. 15% VAT.
 - Remote workers: IRS registration mandatory if >183 days in-country (even on visitor visa) OR if no DTA with home country.
@@ -100,7 +100,7 @@ South Africa is visa-free for Russian citizens (90 days tourist). The Remote Wor
 | Median net monthly salary | ~$1,400–1,800 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=South+Africa] |
 | Cost of living index (relative) | ~38 (NYC=100) — 56% lower than US | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=South+Africa] |
 | Monthly rent, 1‑bedroom apartment | ~$400–650 (Cape Town/Johannesburg centre) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=South+Africa] |
-| Effective personal tax rate for remote workers | 18%–45% progressive (top bracket at ZAR 1.8M+), foreign income exemption up to ZAR 1.25M | [soft/estimate] |
+| Effective personal tax rate for remote workers | 18%–45% progressive (top bracket at ZAR 1,800,000+), foreign income exemption up to ZAR 1,250,000 | [soft/estimate] |
 | Remote‑work / self‑employment residence available? | Yes — Remote Work Visitor Visa (3 months–3 years); no PR path | ^[https://www.dha.gov.za/index.php/notices/1824-remote-work-visa-requirements-9-oct-2024] |
 | Years to citizenship | 5 years permanent residence + physical presence (realistic: 10+ years total) | ^[https://www.saembassy.org/visas/civic_immigration/citizenship] |
 | Maximum permitted absence during residence | 4/8 years physical presence rule for naturalisation | ^[https://www.saembassy.org/visas/civic_immigration/citizenship] |

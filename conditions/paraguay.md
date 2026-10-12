@@ -45,7 +45,7 @@ Paraguay's immigration is managed by the Dirección Nacional de Migraciones (DNM
 
 ### passive_income_residency
 - **Official name**: Residencia Temporal — Rentista (Law 6984/2022)
-- **Conditions**: No published minimum investment. Economic solvency proven via Paraguayan bank deposit (savings/current account in applicant's name) or real estate deed. ~PYG 50M (~USD 9,150) historically; retirement income ~PYG 7,015,600/mo (~USD 1,300). ^[https://residencies.io/residency/paraguay/permanent-residency/py1]
+- **Conditions**: No published minimum investment. Economic solvency proven via Paraguayan bank deposit (savings/current account in applicant's name) or real estate deed. ~PYG 50,000,000 (~USD 9,150) historically; retirement income ~PYG 7,015,600/mo (~USD 1,300). ^[https://residencies.io/residency/paraguay/permanent-residency/py1]
 - **Duration / renewal**: 2 years temporary → permanent residency. Presence: 1 visit every 12 months (temporary).
 - **Path to citizenship**: 3 years of permanent residency.
 - **Official source**: https://www.migraciones.gov.py
@@ -161,7 +161,7 @@ Paraguay is landlocked but is a major flag state for commercial river vessels (P
 | Cost of living index | 26.0 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~$350 (Asunción city centre, PYG ~2,500,000) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Paraguay) [soft/estimate] |
 | Effective personal tax rate for remote workers | 0% on foreign-source income (territorial tax system); Paraguay-source income up to 10% | [SET Paraguay](https://www.set.gov.py) [soft/estimate] |
-| Remote-work / self-employment residence available? | Yes — standard temporary residency (no income verification beyond solvency); no dedicated DN visa; Investor Pass ($70K+) grants direct PR | See [[#passive-income-residency]] and [[#investment-residency]] |
+| Remote-work / self-employment residence available? | Yes — standard temporary residency (no income verification beyond solvency); no dedicated DN visa; Investor Pass ($70,000+) grants direct PR | See [[#passive-income-residency]] and [[#investment-residency]] |
 | Years to citizenship | 3 years of permanent residency (temporary residency does NOT count); ~5–6 years total (standard) or ~3.5–4 years (investor) | See [[#citizenship]] |
 | Maximum permitted absence during residence | Visit once every 3 years to maintain permanent residency; genuine presence (arraigo) required for citizenship | See [[#citizenship]] |
 | Passport strength after citizenship | 146 visa-free destinations (Henley Q3 2025, rank 30) | [Henley & Partners](https://www.henleyglobal.com/publications/global-mobility-report/2025-july) — hard/official |

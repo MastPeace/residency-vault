@@ -80,7 +80,7 @@ Barbados is a high-income Caribbean nation with an established digital nomad pro
 - Welcome Stamp visa holders: no Barbados income tax liability (work is foreign-source).
 
 ## IT / Digital Nomad
-Welcome Stamp is the dedicated programme. 12-month renewable visa. $50K income threshold; $2,000 individual / $3,000 family fee. Zero local tax. Fast approval (~7 business days). Schools accessible for children. ^[https://barbadoswelcomestamp.bb/applynow]
+Welcome Stamp is the dedicated programme. 12-month renewable visa. $50,000 income threshold; $2,000 individual / $3,000 family fee. Zero local tax. Fast approval (~7 business days). Schools accessible for children. ^[https://barbadoswelcomestamp.bb/applynow]
 
 ## Yacht / Maritime
 Barbados has an international ship registry. Yacht registration possible. Full-service marinas available.
@@ -112,7 +112,7 @@ Barbados has an international ship registry. Yacht registration possible. Full-s
 | Cost of living index | 72.8 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~$900 (city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Barbados) [soft/estimate] |
 | Effective personal tax rate for remote workers | 0% on foreign-source income (territorial; Welcome Stamp exempt) | See [[#tax]] |
-| Remote-work / self-employment residence available? | Yes — Welcome Stamp (12 months, $50K income threshold, renewable) | See [[#digital-nomad-visa]] |
+| Remote-work / self-employment residence available? | Yes — Welcome Stamp (12 months, $50,000 income threshold, renewable) | See [[#digital-nomad-visa]] |
 | Years to citizenship | 5–7 years continuous legal residence | See [[#citizenship]] |
 | Maximum permitted absence during residence | Welcome Stamp: no specific absence rule; permanent residence: continuous presence expected | [soft/estimate] |
 | Passport strength after citizenship | ~155 visa-free destinations (Henley Q3 2025) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
@@ -186,7 +186,7 @@ _Coverage: 42/55 fields. Only facts verifiable against official sources or publi
 ## Country Card
 
 ### General description
-Barbados is a high-income eastern Caribbean island nation and a stable parliamentary democracy. It has a service-based economy dominated by tourism, international business, and financial services. Barbados is notable among Caribbean jurisdictions for offering both a well-regarded digital nomad programme (the 12-Month Welcome Stamp, $50K income threshold) and a long-established territorial tax regime with no tax on foreign-source income. It is English-speaking, has high Human Development Index scores for the region, and offers a respected passport with strong visa-free access (~155 destinations). Citizenship requires 5–7 years of residence.
+Barbados is a high-income eastern Caribbean island nation and a stable parliamentary democracy. It has a service-based economy dominated by tourism, international business, and financial services. Barbados is notable among Caribbean jurisdictions for offering both a well-regarded digital nomad programme (the 12-Month Welcome Stamp, $50,000 income threshold) and a long-established territorial tax regime with no tax on foreign-source income. It is English-speaking, has high Human Development Index scores for the region, and offers a respected passport with strong visa-free access (~155 destinations). Citizenship requires 5–7 years of residence.
 
 ### Well-known strong points
 - Welcome Stamp: one of the Caribbean's best digital nomad programmes (7-day approval, zero local tax)

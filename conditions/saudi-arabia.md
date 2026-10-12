@@ -14,17 +14,17 @@ last_checked: 2026-10-12
 ---
 
 ## Overview
-Saudi Arabia launched its [[investment-residency|premium residency]] programme in 2019 as part of Vision 2030 — the first pathway to long-term residence without an employer sponsor (kafeel). The programme now offers multiple tracks: Permanent (SAR 800,000 one-time), Annual (SAR 100,000/year), Investor (SAR 7M), Real Estate (SAR 4M), Entrepreneur, Special Talent, and Gifted. Saudi Arabia does NOT grant citizenship to expatriates. Personal income tax is 0%, though expatriates pay a dependent levy under the standard Iqama system. ^[https://commoner-law.com/saudi/immigration-pathways/permanent-residency]
+Saudi Arabia launched its [[investment-residency|premium residency]] programme in 2019 as part of Vision 2030 — the first pathway to long-term residence without an employer sponsor (kafeel). The programme now offers multiple tracks: Permanent (SAR 800,000 one-time), Annual (SAR 100,000/year), Investor (SAR 7,000,000), Real Estate (SAR 4,000,000), Entrepreneur, Special Talent, and Gifted. Saudi Arabia does NOT grant citizenship to expatriates. Personal income tax is 0%, though expatriates pay a dependent levy under the standard Iqama system. ^[https://commoner-law.com/saudi/immigration-pathways/permanent-residency]
 
 ## Residency Programs
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Premium Residency — Investor Track | SAR 7M+ investment in approved activities | Permanent (direct) | [[#premium-residency-investor]] |
+| investment_residency | Premium Residency — Investor Track | SAR 7,000,000+ investment in approved activities | Permanent (direct) | [[#premium-residency-investor]] |
 | passive_income_residency | Not available | — | — | — |
 | digital_nomad_visa | Not available | No dedicated DN visa | — | — |
 | highly_skilled_employment | Premium Residency — Special Talent / Gifted | Recommendation, credentials, employment contract | 5 years, convertible to permanent | [[#premium-residency-talent]] |
-| startup_entrepreneur | Premium Residency — Entrepreneur | Category 1: SAR 400K funding; Category 2: SAR 15M + 20 jobs | 5 years (Cat 1), permanent (Cat 2) | [[#premium-residency-entrepreneur]] |
+| startup_entrepreneur | Premium Residency — Entrepreneur | Category 1: SAR 400,000 funding; Category 2: SAR 15,000,000 + 20 jobs | 5 years (Cat 1), permanent (Cat 2) | [[#premium-residency-entrepreneur]] |
 | employment_residency | Standard Iqama | Employer sponsor, labour contract | 1–2 years, renewable | [[#employment-residency]] |
 | student_residency | Student Iqama | Enrolment in Saudi institution | Duration of study | [[#student-residency]] |
 | family_reunification | Family Visit / Dependent Iqama | Sponsor must hold valid Iqama | Tied to sponsor | [[#family-reunification]] |
@@ -36,7 +36,7 @@ Saudi Arabia launched its [[investment-residency|premium residency]] programme i
 ### Premium Residency — General Tiers
 Two core tiers open to any qualified applicant regardless of profession:
 - **Limited Duration (Annual)**: SAR 100,000/year (~$26,700). 1–5 years, renewable. Fee reduces 2%/year on continuous renewal. ^[https://commoner-law.com/saudi/immigration-pathways/permanent-residency]
-- **Unlimited Duration (Permanent)**: SAR 800,000 one-time (~$213,000). Lifetime, no renewal. Permanent tier was reduced from SAR 1M to SAR 800,000 in January 2026. ^[https://themiddleeastinsider.com/2026/05/04/saudi-premium-residency-2026-updated-may]
+- **Unlimited Duration (Permanent)**: SAR 800,000 one-time (~$213,000). Lifetime, no renewal. Permanent tier was reduced from SAR 1,000,000 to SAR 800,000 in January 2026. ^[https://themiddleeastinsider.com/2026/05/04/saudi-premium-residency-2026-updated-may]
 - **Universal eligibility**: Age 21+, valid passport, clean criminal record, medical exam (free of communicable diseases), proof of financial solvency, valid health insurance. ^[https://pr.gov.sa/en]
 - **Key benefits**: No employer sponsor (kafeel), property ownership (including Mecca/Medina for investment), business operation without Saudi partner, independent family sponsorship, unrestricted travel (no exit/re-entry permits), exempt from Nitaqat (Saudization) quota impact, exempt from expatriate dependent levy (SAR 400/dependent/month). ^[https://commoner-law.com/saudi/immigration-rights/premium-residency]
 - **Work permit**: Since June 2026, Premium Residency holders must obtain a dedicated work permit via Qiwa platform (SAR 100 fee). ^[https://saudigazette.com.sa/article/662069/saudi-arabia/qiwa-premium-residency-holders-must-obtain-sr100-work-permit]
@@ -45,7 +45,7 @@ Two core tiers open to any qualified applicant regardless of profession:
 
 ### Premium Residency — Investor Track
 - **Official name**: الإقامة المميزة — مسار المستثمر (Premium Residency — Investor Track)
-- **Conditions**: SAR 7,000,000+ (~$1.87M) investment in activities inside KSA as determined by the Premium Residency Center. SAR 4,000 non-refundable application fee. ^[https://baticfirm.com/eligibility-criteria-premium-residency-saudi-arabia]
+- **Conditions**: SAR 7,000,000+ (~$1,870,000) investment in activities inside KSA as determined by the Premium Residency Center. SAR 4,000 non-refundable application fee. ^[https://baticfirm.com/eligibility-criteria-premium-residency-saudi-arabia]
 - **Duration / renewal**: Direct permanent residency upon investment.
 - **Path to citizenship**: None.
 - **Official source**: https://pr.gov.sa/en
@@ -53,7 +53,7 @@ Two core tiers open to any qualified applicant regardless of profession:
 
 ### Premium Residency — Real Estate Track
 - **Official name**: Premium Residency — Real Estate Owner
-- **Conditions**: SAR 4,000,000+ (~$1.07M) completed, mortgage-free residential property in designated zones (including giga-projects). After 7 years of clean ownership, holder qualifies for free conversion to Permanent tier (no SAR 800,000 fee). ^[https://themiddleeastinsider.com/2026/05/04/saudi-premium-residency-2026-updated-may]
+- **Conditions**: SAR 4,000,000+ (~$1,070,000) completed, mortgage-free residential property in designated zones (including giga-projects). After 7 years of clean ownership, holder qualifies for free conversion to Permanent tier (no SAR 800,000 fee). ^[https://themiddleeastinsider.com/2026/05/04/saudi-premium-residency-2026-updated-may]
 - **Duration / renewal**: 5 years, renewable. Valid as long as property held.
 - **Path to citizenship**: None.
 - **Official source**: https://pr.gov.sa/en
@@ -69,7 +69,7 @@ Two core tiers open to any qualified applicant regardless of profession:
 
 ### Premium Residency — Entrepreneur
 - **Official name**: Premium Residency — Entrepreneur
-- **Conditions**: Category 1: SAR 400,000+ (~$107K) from approved investment entities/funding rounds. Category 2: SAR 15,000,000+ (~$4M) + creation of 10 direct jobs in year 1, additional 10 in year 2. SAR 4,000 application fee. ^[https://baticfirm.com/eligibility-criteria-premium-residency-saudi-arabia]
+- **Conditions**: Category 1: SAR 400,000+ (~$107,000) from approved investment entities/funding rounds. Category 2: SAR 15,000,000+ (~$4,000,000) + creation of 10 direct jobs in year 1, additional 10 in year 2. SAR 4,000 application fee. ^[https://baticfirm.com/eligibility-criteria-premium-residency-saudi-arabia]
 - **Duration / renewal**: Category 1: 5 years renewable. Category 2: direct permanent residency.
 - **Path to citizenship**: None.
 - **Official source**: https://pr.gov.sa/en
@@ -134,11 +134,11 @@ Two core tiers open to any qualified applicant regardless of profession:
 - Saudi Arabia has not adopted Western sanctions against Russia; remains neutral/partner position.
 
 ## Community pulse
-Mixed. Premium Residency is functioning but expensive (SAR 800K permanent or SAR 100K/yr). The programme is still maturing. Standard Iqama remains the default for most expats but its employer-dependency and dependent levy are friction points. Cultural conservatism is decreasing but remains significant compared to UAE. Quality of life in Riyadh/Jeddah improving rapidly.
+Mixed. Premium Residency is functioning but expensive (SAR 800,000 permanent or SAR 100,000/yr). The programme is still maturing. Standard Iqama remains the default for most expats but its employer-dependency and dependent levy are friction points. Cultural conservatism is decreasing but remains significant compared to UAE. Quality of life in Riyadh/Jeddah improving rapidly.
 
 ## Status
 - **Last monitored**: 2026-10-12
-- **Recent changes**: Permanent tier fee reduced from SAR 1M to SAR 800,000 (Jan 2026). Real Estate track expanded to SAR 4M with 7-year conversion path. Qiwa work permit requirement for Premium Residency holders (Jun 2026).
+- **Recent changes**: Permanent tier fee reduced from SAR 1,000,000 to SAR 800,000 (Jan 2026). Real Estate track expanded to SAR 4,000,000 with 7-year conversion path. Qiwa work permit requirement for Premium Residency holders (Jun 2026).
 - **Watch items**: Potential further Premium Residency fee adjustments. Introduction of digital nomad / remote work visa. Expat levy reforms.
 
 ## Country Snapshot
@@ -156,7 +156,7 @@ Mixed. Premium Residency is functioning but expensive (SAR 800K permanent or SAR
 | Cost of living index | 38.5 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Saudi+Arabia] [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~$700–$1,200 (Riyadh city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Saudi+Arabia] [soft/estimate] |
 | Effective personal tax rate for remote workers | 0% (no personal income tax) | ^[https://zatca.gov.sa/en/Pages/default.aspx] [soft/estimate] |
-| Remote-work / self-employment residence available? | Yes — Premium Residency (SAR 800K–4M investment); no dedicated DN visa yet | ^[https://pr.gov.sa/en/] [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Premium Residency (SAR 800,000–4,000,000 investment); no dedicated DN visa yet | ^[https://pr.gov.sa/en/] [soft/estimate] |
 | Years to citizenship | No pathway for expatriates (discretionary; extremely rare) | ^[https://pr.gov.sa/en/] hard/official |
 | Maximum permitted absence during residence | No minimum stay for Premium Residency | ^[https://pr.gov.sa/en/] [soft/estimate] |
 | Passport strength after citizenship (visa-free count) | 91 (Henley, Jul 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |
@@ -172,7 +172,7 @@ Saudi Arabia is the largest economy in the Arab world and the only G20 member in
 ### Well-known strong points
 - 0% personal income tax in a G20 economy
 - Largest market in the Arab world (~37 million population) with rapid modernization
-- Premium Residency with no minimum stay and investment thresholds from SAR 800K
+- Premium Residency with no minimum stay and investment thresholds from SAR 800,000
 - Low cost of living by Gulf standards, especially outside Riyadh
 - Massive infrastructure investment under Vision 2030 (NEOM, Red Sea Project, Qiddiya)
 - Strategic location connecting Asia, Africa, and Europe

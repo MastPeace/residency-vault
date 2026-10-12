@@ -22,11 +22,11 @@ Japan has the world's strongest passport (typically #1–2 in rankings) and a we
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Not available (Business Manager Visa serves investors) | ¥30M capital (2025 reform); full-time employee; no property-for-residency | 1–5 yr status | [[#investment-residency]] |
+| investment_residency | Not available (Business Manager Visa serves investors) | ¥30,000,000 capital (2025 reform); full-time employee; no property-for-residency | 1–5 yr status | [[#investment-residency]] |
 | passive_income_residency | Not available | No passive income route; status tied to activity | — | [[#passive-income-residency]] |
-| digital_nomad_visa | Digital Nomad (Designated Activities) | ¥10M/yr income; 6 months; non-renewable; visa-exempt nationals only | 6 months | [[#digital-nomad-visa]] |
+| digital_nomad_visa | Digital Nomad (Designated Activities) | ¥10,000,000/yr income; 6 months; non-renewable; visa-exempt nationals only | 6 months | [[#digital-nomad-visa]] |
 | highly_skilled_employment | Highly Skilled Professional (HSP, 高度専門職) | 70 points → PR in 3 yr; 80 points → PR in 1 yr | 5 yr status | [[#highly-skilled-employment]] |
-| startup_entrepreneur | Business Manager Visa (経営・管理) | ¥30M capital + full-time employee + signed business plan | 1–5 yr | [[#startup-entrepreneur]] |
+| startup_entrepreneur | Business Manager Visa (経営・管理) | ¥30,000,000 capital + full-time employee + signed business plan | 1–5 yr | [[#startup-entrepreneur]] |
 | employment_residency | Engineer/Specialist in Humanities (技術・人文知識・国際業務) | Bachelor's degree or 10 yr experience + job offer | 1–5 yr | [[#employment-residency]] |
 | student_residency | Student Visa (留学) | University/language school enrollment; 28 hr/wk work limit | Course duration | [[#student-residency]] |
 | family_reunification | Dependent / Spouse Visa (家族滞在・配偶者) | Spouse of Japanese national or resident sponsor | 1–3 yr | [[#family-reunification]] |
@@ -50,7 +50,7 @@ Japan has the world's strongest passport (typically #1–2 in rankings) and a we
 
 ### digital_nomad_visa
 - **Official name**: Digital Nomad Visa (Designated Activities status, 特定活動)
-- **Conditions**: Annual income of ¥10,000,000+ from non-Japanese sources; private health insurance covering ¥10M+; restricted to nationals of visa-exempt countries with tax treaties with Japan. Not a residence status — no zairyu card, no dependents. Max 6 months, non-renewable; re-apply possible after 6 months outside Japan. ^[https://japan-visa.com/visas/digital-nomad]
+- **Conditions**: Annual income of ¥10,000,000+ from non-Japanese sources; private health insurance covering ¥10,000,000+; restricted to nationals of visa-exempt countries with tax treaties with Japan. Not a residence status — no zairyu card, no dependents. Max 6 months, non-renewable; re-apply possible after 6 months outside Japan. ^[https://japan-visa.com/visas/digital-nomad]
 - **Duration / renewal**: 6 months, non-renewable.
 - **Path to citizenship**: None directly; must switch to a work/Business Manager status for longer stays.
 - **Official source**: https://www.mofa.go.jp/j_info/visit/visa/long/visa16.html
@@ -66,7 +66,7 @@ Japan has the world's strongest passport (typically #1–2 in rankings) and a we
 
 ### startup_entrepreneur
 - **Official name**: Business Manager Visa (経営・管理)
-- **Conditions**: ¥30,000,000 capital (raised from ¥5M in 2025 reform); full-time employee; business plan confirmed by Japanese-qualified professional; physical office in Japan; active management. For high earners: master's degree + ¥20M annual income, or 10 years experience + ¥20M, or 5 years management + ¥40M — grants 5-year status and PR in 1 year. ^[https://rumavi.com/en/property-guides/japan-residency-visas]
+- **Conditions**: ¥30,000,000 capital (raised from ¥5,000,000 in 2025 reform); full-time employee; business plan confirmed by Japanese-qualified professional; physical office in Japan; active management. For high earners: master's degree + ¥20,000,000 annual income, or 10 years experience + ¥20,000,000, or 5 years management + ¥40,000,000 — grants 5-year status and PR in 1 year. ^[https://rumavi.com/en/property-guides/japan-residency-visas]
 - **Duration / renewal**: 1–5 year status, renewable.
 - **Path to citizenship**: PR after 10 years (standard) or 1 year (J-Skip high-earner); naturalization ~10 years.
 - **Official source**: https://www.moj.go.jp/isa/
@@ -82,7 +82,7 @@ Japan has the world's strongest passport (typically #1–2 in rankings) and a we
 
 ### student_residency
 - **Official name**: Student Visa (留学)
-- **Conditions**: Enrollment at a recognized university, vocational school, or language school; proof of funds (~¥1.5M/yr); part-time work up to 28 hours/week (with permission). Graduates may transition to work visa (change of status) or HSP.
+- **Conditions**: Enrollment at a recognized university, vocational school, or language school; proof of funds (~¥1,500,000/yr); part-time work up to 28 hours/week (with permission). Graduates may transition to work visa (change of status) or HSP.
 - **Duration / renewal**: Course duration (up to 4 years for universities).
 - **Path to citizenship**: Graduate → work visa → PR (10 years) → naturalization.
 - **Official source**: https://www.moj.go.jp/isa/
@@ -109,13 +109,13 @@ Japan has the world's strongest passport (typically #1–2 in rankings) and a we
 
 ## Tax
 - **Residency-based taxation**: "Resident" (domicile or 1+ year residence) taxed on worldwide income; "non-permanent resident" (non-Japanese, <5 of 10 years) taxed on Japan-source income only unless remitted; "non-resident" taxed on Japan-source income only. ^[https://www.nta.go.jp/english/taxes/individual/12006.htm]
-- **Income tax**: Progressive national rates: 5%, 10%, 20%, 23%, 33%, 40%, 45% (above ¥40M). + 2.1% reconstruction surtax.
+- **Income tax**: Progressive national rates: 5%, 10%, 20%, 23%, 33%, 40%, 45% (above ¥40,000,000). + 2.1% reconstruction surtax.
 - **Resident (inhabitant) tax**: 10% flat + per-capita levy (¥5,000).
 - **Capital gains**: Securities 20.315%; real estate varies. Inheritance/gift tax: progressive up to 55%. Exit tax for high-net-worth residents.
 - **Corporate tax**: ~29.74% effective (national + local).
 
 ## IT / Digital Nomad
-Japan has a [[digital-nomad-visa|digital nomad visa]] visa (6 months, ¥10M+ income) but it is short, non-renewable, and not a residence status. The tech ecosystem (Tokyo, Osaka, Fukuoka) is large; HSP category (ii) is tailored to engineers and IT professionals. J-Skip (special HSP for very high earners/researchers) offers 5-year status and PR in 1 year.
+Japan has a [[digital-nomad-visa|digital nomad visa]] visa (6 months, ¥10,000,000+ income) but it is short, non-renewable, and not a residence status. The tech ecosystem (Tokyo, Osaka, Fukuoka) is large; HSP category (ii) is tailored to engineers and IT professionals. J-Skip (special HSP for very high earners/researchers) offers 5-year status and PR in 1 year.
 
 ## Yacht / Maritime
 Japan has extensive coastlines and marinas (Tokyo Bay, Yokohama, Okinawa). Foreign-flagged yachts may visit Japanese ports with proper clearance. Japan Coast Guard oversees maritime matters. No special yacht investor pathway.
@@ -138,7 +138,7 @@ Japan imposed sanctions on Russia after 2022. Visa issuance to Russian nationals
 | Cost of living index (relatve) | 45.6 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~¥90,000–130,000/mo (city centre, 1-bed; Tokyo higher, regional lower) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Japan) [soft/estimate] |
 | Effectve personal tax rate for remote workers | ~20–45% effective (national progressive 5%–45% + 10% local inhabitant tax + 2.1% reconstruction surtax) | [NTA Japan](https://www.nta.g.jp/english/) [soft/estimate] |
-| Remote-work / self-employment residence available? | Yes — Digital Nomad Visa (Designated Activities), 6 months, ¥10M/yr income, non-renewable | See relevant residency section |
+| Remote-work / self-employment residence available? | Yes — Digital Nomad Visa (Designated Activities), 6 months, ¥10,000,000/yr income, non-renewable | See relevant residency section |
 | Years to citizenship | ~10 years (statutory minimum 5 years; effective screening ~10 years since Apr 2026) | See [[#citizenship]] |
 | Maximum permitted absence during residence | Continuous residence expected; long absences reset PR/naturalization clock | See residency program sections |
 | Passport strength after citizenship (visa-free count) | 188 visa-free destinations (rank 2) | [Henley & Partners Jul 2026](https://www.henleyglobal.com/newsroom/press-releases/henley-passport-index-20th-anniversary) — hard/official |
@@ -164,13 +164,13 @@ Japan is an East Asian island nation with the world's second-strongest passport 
 ### Well-known problems
 - No investor Golden Visa, no passive-income route, no retirement visa — activity-based only
 - Citizenship requires ~10 years + renunciation of prior nationality — dual citizenship not permitted
-- Business Manager Visa capital raised to ¥30M (2025) — sharply limits small-scale entrepreneurship
-- Digital Nomad Visa is only 6 months, non-renewable, ¥10M/yr income threshold
+- Business Manager Visa capital raised to ¥30,000,000 (2025) — sharply limits small-scale entrepreneurship
+- Digital Nomad Visa is only 6 months, non-renewable, ¥10,000,000/yr income threshold
 - Language barrier: Japanese is difficult and essential for daily life outside expat bubbles
 - Aging, shrinking population; highest public debt/GDP ratio among developed nations
 
 ## Status
 - **Fix**: content restored from git 949a1bd after SCHEMA v3 template corruption (2026-10-11)
 - **Last monitored**: 2026-10-12
-- **Recent changes**: Naturalization screening tightened to ~10 years (April 1, 2026). PR application fee rising to ¥200,000 (from Oct 1, 2026). Business Manager capital requirement raised to ¥30M (2025). Potential PR revocation for unpaid taxes from April 1, 2027.
+- **Recent changes**: Naturalization screening tightened to ~10 years (April 1, 2026). PR application fee rising to ¥200,000 (from Oct 1, 2026). Business Manager capital requirement raised to ¥30,000,000 (2025). Potential PR revocation for unpaid taxes from April 1, 2027.
 - **Watch items**: Digital Nomad visa extension under consideration. PR fee increase implementation.

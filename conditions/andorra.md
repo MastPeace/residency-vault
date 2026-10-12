@@ -43,7 +43,7 @@ Andorra is a microstate in the Pyrenees between France and Spain. It is not an E
 - **Duration / renewal**: 2-year initial, then renewals of 2+2+10 years.
 - **Path to citizenship**: 20 years residence; Catalan B1 + history/geography exam.
 - **Official source**: https://www.impostos.ad (Andorran government)
-- **Community verdict**: Works well for high-net-worth profiles; the €1M threshold (up from €600K) sharply narrowed eligibility in 2026.
+- **Community verdict**: Works well for high-net-worth profiles; the €1,000,000 threshold (up from €600,000) sharply narrowed eligibility in 2026.
 
 ### Digital Nomad Visa
 - **Official name**: D.3 Residència per a nòmada digital
@@ -51,7 +51,7 @@ Andorra is a microstate in the Pyrenees between France and Spain. It is not an E
 - **Duration / renewal**: 2-year initial, renewable (2+3+10 ladder).
 - **Path to citizenship**: 20 years residence.
 - **Official source**: https://www.govern.ad
-- **Community verdict**: Works well — lower bar than passive residence (no €1M investment); capped at 100 permits/year.
+- **Community verdict**: Works well — lower bar than passive residence (no €1,000,000 investment); capped at 100 permits/year.
 
 ### Self-employed residence
 - **Official name**: Residència per compte propi (self-employed / company owner)
@@ -79,10 +79,10 @@ Andorra runs a dedicated D.3 digital-nomad permit with no large deposit, but the
 Landlocked — no coastline or yachting infrastructure. Not applicable.
 
 ## Notes for RU citizens
-No blanket ban on Russians, but three practical hurdles: needing Schengen access to reach Andorra, last place in the quota queue, and the EU sanctions cap on new deposits above €100,000 in Andorran banks. The €1M investment route and the €50K non-refundable contribution are the entry cost. Andorran banks run enhanced KYC for RU passport holders. ^[https://www.relotus-relocation.com/en/journal/andorra-residence-permit-for-russians]
+No blanket ban on Russians, but three practical hurdles: needing Schengen access to reach Andorra, last place in the quota queue, and the EU sanctions cap on new deposits above €100,000 in Andorran banks. The €1,000,000 investment route and the €50,000 non-refundable contribution are the entry cost. Andorran banks run enhanced KYC for RU passport holders. ^[https://www.relotus-relocation.com/en/journal/andorra-residence-permit-for-russians]
 
 ## Community pulse
-Long-standing reputation as Europe's "low-tax Switzerland alternative" has held, but the Feb 2026 Omnibus-2 reform (€600K → €1M, non-refundable €50K, quota cut to 163) triggered broad criticism from advisors and a shift toward the D.3 nomad permit and self-employed routes. Processing is fast (~6 weeks for passive) once the file is complete.
+Long-standing reputation as Europe's "low-tax Switzerland alternative" has held, but the Feb 2026 Omnibus-2 reform (€600,000 → €1,000,000, non-refundable €50,000, quota cut to 163) triggered broad criticism from advisors and a shift toward the D.3 nomad permit and self-employed routes. Processing is fast (~6 weeks for passive) once the file is complete.
 
 ## Country Snapshot
 
@@ -185,12 +185,12 @@ Andorra is a tiny, mountainous principality of ~83,000 people wedged between Fra
 
 ### Well-known problems
 - Citizenship requires 20 years and renunciation of prior nationality
-- Feb 2026 reform raised passive-residence investment to €1M and made the €50K contribution non-refundable
+- Feb 2026 reform raised passive-residence investment to €1,000,000 and made the €50,000 contribution non-refundable
 - Tiny 2026 quota (163 passive permits)
 - No coastline; small, expensive housing market
 - High income threshold (~€4,400/mo) for the digital-nomad permit
 
 ## Status
 - **Last monitored**: 2026-10-12
-- **Recent changes**: Omnibus 2 / Act 2/2026 (Feb 2026) raised passive-residence investment €600K→€1M, made AFA deposit non-refundable (€50K, was €47.5K refundable), cut 2026 quota to 163. Nationality reform (2026) added mandatory B1 Catalan and raised marriage route to 5 years.
+- **Recent changes**: Omnibus 2 / Act 2/2026 (Feb 2026) raised passive-residence investment €600,000→€1,000,000, made AFA deposit non-refundable (€50,000, was €47,500 refundable), cut 2026 quota to 163. Nationality reform (2026) added mandatory B1 Catalan and raised marriage route to 5 years.
 - **Watch items**: Quota exhaustion; further tightening of nationality rules; AFA contribution guidance on govern.ad still shows old amounts.

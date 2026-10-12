@@ -22,7 +22,7 @@ Italy offers a broad range of residence routes: the Digital Nomad Visa (introduc
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Investor Visa (Golden Visa) | €250K startups / €500K companies / €1M philanthropy / €2M bonds | 2 yr | [[#investment-residency]] |
+| investment_residency | Investor Visa (Golden Visa) | €250,000 startups / €500,000 companies / €1,000,000 philanthropy / €2,000,000 bonds | 2 yr | [[#investment-residency]] |
 | passive_income_residency | Elective Residence Visa (Residenza Elettiva) | Passive income ≥ €31,000/yr; no work; Italian accommodation | 1 yr | [[#passive-income-residency]] |
 | digital_nomad_visa | Digital Nomad / Remote Worker Visa (Art. 27-quater) | Remote work income ≥ €28,000/yr; highly qualified | 1 yr | [[#digital-nomad-visa]] |
 | highly_skilled_employment | EU Blue Card (Carta Blu UE) | Degree + job offer; salary threshold | Up to 2 yr | [[#highly-skilled-employment]] |
@@ -41,7 +41,7 @@ Italy offers a broad range of residence routes: the Digital Nomad Visa (introduc
 - **Duration / renewal**: 2 years, renewable. Permanent residence after 5 years.
 - **Path to citizenship**: 10 years; B1 Italian; dual citizenship permitted.
 - **Official source**: https://investinitaly.gov.it/
-- **Community verdict**: Mixed (lowest EU investor threshold at €250K but startup option is risky; limited uptake compared to Portugal/Greece).
+- **Community verdict**: Mixed (lowest EU investor threshold at €250,000 but startup option is risky; limited uptake compared to Portugal/Greece).
 
 ### passive_income_residency
 - **Official name**: Visto per Residenza Elettiva (Elective Residence Visa)
@@ -49,7 +49,7 @@ Italy offers a broad range of residence routes: the Digital Nomad Visa (introduc
 - **Duration / renewal**: 1 year, renewable. Permanent residence after 5 years.
 - **Path to citizenship**: 10 years; B1 Italian; dual citizenship permitted.
 - **Official source**: https://www.esteri.it/
-- **Community verdict**: Mixed (high income bar: €31K vs Portugal's €11K; consulates routinely expect more than minimum; "you proved money, not income" is frequent refusal reason).
+- **Community verdict**: Mixed (high income bar: €31,000 vs Portugal's €11,000; consulates routinely expect more than minimum; "you proved money, not income" is frequent refusal reason).
 
 ### digital_nomad_visa
 - **Official name**: Visto per Nomadi Digitali / Lavoratori da Remoto (Art. 27-quater, D.Lgs 286/1998)
@@ -73,7 +73,7 @@ Italy offers a broad range of residence routes: the Digital Nomad Visa (introduc
 - **Duration / renewal**: 1 year, renewable.
 - **Path to citizenship**: 10 years; B1 Italian.
 - **Official source**: https://italiastartupvisa.mise.gov.it/
-- **Community verdict**: Works well (streamlined; no quotas; but €50K funding requirement is barrier).
+- **Community verdict**: Works well (streamlined; no quotas; but €50,000 funding requirement is barrier).
 
 ### employment_residency
 - **Official name**: Permesso di Soggiorno per Lavoro Subordinato (Standard Work Permit)
@@ -130,10 +130,10 @@ Italy's Digital Nomad Visa (Art. 27-quater) is the dedicated remote-work route. 
 Italy is a global leader in superyacht building and maintenance (Viareggio, Genoa, Ancona). Italian flag yacht registration available. Major marinas: Portofino, Sardinia (Costa Smeralda), Amalfi Coast, Venice. Captain licensing: Italian-issued credentials (patente nautica) recognized internationally. The yachting industry is a major economic sector; crew visas available under specific arrangements.
 
 ## Notes for RU Citizens
-Italian consulates in Russia may have reduced services — route through third-country consulates. Elective Residence Visa and Investor Visa are accessible to Russian HNWI. The €300K flat-tax regime is a major draw. Digital Nomad Visa is open to Russian applicants but the "highly qualified" bar and source-of-funds scrutiny apply. No official restrictions beyond EU sanctions. Significant Russian community in parts of Tuscany, Liguria, and Sardinia.
+Italian consulates in Russia may have reduced services — route through third-country consulates. Elective Residence Visa and Investor Visa are accessible to Russian HNWI. The €300,000 flat-tax regime is a major draw. Digital Nomad Visa is open to Russian applicants but the "highly qualified" bar and source-of-funds scrutiny apply. No official restrictions beyond EU sanctions. Significant Russian community in parts of Tuscany, Liguria, and Sardinia.
 
 ## Community Pulse
-Italy's DN visa has been well-received — no quotas, clean requirements, and access to impatriate tax breaks. The Elective Residence Visa has a significantly higher income bar (€31K) than Portugal D7 (€11K) or Spain NLV (€28.8K), making it a premium-tier option. The flat-tax regime (€300K/yr) is unique in the EU but the 50% price hike (from €200K) in 2026 cooled some interest. Citizenship processing times (2–3 years) are a frustration point. Investor Visa uptake is low relative to other EU programs.
+Italy's DN visa has been well-received — no quotas, clean requirements, and access to impatriate tax breaks. The Elective Residence Visa has a significantly higher income bar (€31,000) than Portugal D7 (€11,000) or Spain NLV (€28,800), making it a premium-tier option. The flat-tax regime (€300,000/yr) is unique in the EU but the 50% price hike (from €200,000) in 2026 cooled some interest. Citizenship processing times (2–3 years) are a frustration point. Investor Visa uptake is low relative to other EU programs.
 
 ## Country Snapshot
 
@@ -149,7 +149,7 @@ Italy's DN visa has been well-received — no quotas, clean requirements, and ac
 | Median net monthly salary | ~€1,570 (~$1,700) | [Numbeo](https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105) [soft/estimate] |
 | Cost of living index | 51.0 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | €725 (city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Italy) [soft/estimate] |
-| Effective personal tax rate for remote workers | Progressive 23%–43%; flat tax €300K/yr for HNWI; 7% for pensioners in south; impatriate 50% exemption | See [[#tax]] [soft/estimate] |
+| Effective personal tax rate for remote workers | Progressive 23%–43%; flat tax €300,000/yr for HNWI; 7% for pensioners in south; impatriate 50% exemption | See [[#tax]] [soft/estimate] |
 | Remote-work / self-employment residence available? | Yes — Digital Nomad Visa (Art. 27-quater, €28,000/yr) | See [[#digital-nomad-visa]] |
 | Years to citizenship | 10 years (4 for EU citizens) | See [[#citizenship]] |
 | Maximum permitted absence during residence | Must maintain continuous legal residence; significant gaps may reset clock | See [[#citizenship]] |
@@ -162,12 +162,12 @@ Italy's DN visa has been well-received — no quotas, clean requirements, and ac
 ## Country Card
 
 ### General description
-Italy is a southern European country with a rich cultural heritage, the EU's third-largest economy, and extensive Mediterranean coastline. Its economy is driven by manufacturing (especially in the north), tourism, fashion, and design. Italy offers a Digital Nomad Visa (no quotas), an Investor Visa from €250K, and the unique €300K/yr flat-tax regime for HNWI, making it attractive across multiple residency categories — though its 10-year citizenship clock and bureaucratic complexity are notable drawbacks.
+Italy is a southern European country with a rich cultural heritage, the EU's third-largest economy, and extensive Mediterranean coastline. Its economy is driven by manufacturing (especially in the north), tourism, fashion, and design. Italy offers a Digital Nomad Visa (no quotas), an Investor Visa from €250,000, and the unique €300,000/yr flat-tax regime for HNWI, making it attractive across multiple residency categories — though its 10-year citizenship clock and bureaucratic complexity are notable drawbacks.
 
 ### Well-known strong points
 - Top-tier passport: 189 visa-free destinations (joint 3rd globally)
 - Digital Nomad Visa with no quota limits and ~60–90 day processing
-- Unique flat-tax regime: €300K/yr on all foreign income for up to 15 years
+- Unique flat-tax regime: €300,000/yr on all foreign income for up to 15 years
 - Impatriate tax breaks: 50%–70% exemption on Italian-source income
 - Very high quality of life, cuisine, culture, and climate
 - Generous citizenship-by-descent (jure sanguinis) program
@@ -177,10 +177,10 @@ Italy is a southern European country with a rich cultural heritage, the EU's thi
 - Bureaucratic inefficiency: questure (immigration office) processing delays are chronic
 - Lower Rule of Law score (0.67) relative to northern EU peers
 - Modest median salary (~€1,570/mo) and north-south economic divide
-- Elective Residence Visa income bar (€31K/yr) significantly higher than Portugal D7
+- Elective Residence Visa income bar (€31,000/yr) significantly higher than Portugal D7
 - Citizenship processing backlog: 2–3 years wait common
 
 ## Status
 - **Last monitored**: 2026-10-12
-- **Recent changes**: Flat tax raised from €200K to €300K (2026 Budget Law). Digital Nomad Visa fully mature (since April 2024). No Decreto Flussi reform in 2026.
+- **Recent changes**: Flat tax raised from €200,000 to €300,000 (2026 Budget Law). Digital Nomad Visa fully mature (since April 2024). No Decreto Flussi reform in 2026.
 - **Watch items**: Monitor DN visa renewal practice. Track any quota relaxation for employment permits. Watch for further flat-tax adjustments.

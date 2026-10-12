@@ -15,7 +15,7 @@ last_checked: 2026-10-12
 ---
 
 ## Overview
-Trinidad and Tobago (T&T), the wealthiest economy in the Anglophone Caribbean (oil and gas), offers **no citizenship or residence by investment**. The pathway is conventional: work permit → five years' continuous lawful residence → permanent residence → naturalisation. Citizenship decisions are discretionary (Minister of National Security), not a right. ^[https://en.wikipedia.org/wiki/Trinidadian_and_Tobagonian_nationality_law]
+Trinidad and Tobago (T&T), the wealthiest economy in the Anglophone Caribbean (oil and gas), offers **no citizenship or residence by investment**. The pathway is conventional: work permit → 5 years' continuous lawful residence → permanent residence → naturalisation. Citizenship decisions are discretionary (Minister of National Security), not a right. ^[https://en.wikipedia.org/wiki/Trinidadian_and_Tobagonian_nationality_law]
 
 ## Residency Programs
 

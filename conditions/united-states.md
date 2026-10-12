@@ -36,7 +36,7 @@ The United States has one of the world's strongest passports and the largest eco
 
 ### investment_residency
 - **Official name**: EB-5 Immigrant Investor Program (Employment-Based Fifth Preference)
-- **Conditions**: Minimum investment $1,050,000 in a new commercial enterprise, or $800,000 in a Targeted Employment Area (TEA — rural or high-unemployment). Must create at least 10 full-time US jobs within 2 years. Capital must remain "at risk." DHS proposed raising TEA threshold to $1.4M for High Employment Areas (July 2026). ~9,940 EB-5 visas available per fiscal year. Grandfathering deadline: Sept 30, 2026. ^[https://www.eb5investors.com/eb5-basics/eb-5-visa-requirements] ^[https://cis.org/Jacobs/DHS-Proposes-New-Regulation-Revise-EB5-Investor-Visa-Program]
+- **Conditions**: Minimum investment $1,050,000 in a new commercial enterprise, or $800,000 in a Targeted Employment Area (TEA — rural or high-unemployment). Must create at least 10 full-time US jobs within 2 years. Capital must remain "at risk." DHS proposed raising TEA threshold to $1,400,000 for High Employment Areas (July 2026). ~9,940 EB-5 visas available per fiscal year. Grandfathering deadline: Sept 30, 2026. ^[https://www.eb5investors.com/eb5-basics/eb-5-visa-requirements] ^[https://cis.org/Jacobs/DHS-Proposes-New-Regulation-Revise-EB5-Investor-Visa-Program]
 - **Duration / renewal**: Conditional Green Card for 2 years → I-829 petition to remove conditions → permanent 10-year Green Card.
 - **Path to citizenship**: 5 years from conditional residence start (including the 2 conditional years); 30 months physical presence; English + civics test; dual citizenship allowed.
 - **Official source**: https://www.uscis.gov/working-in-the-united-states/permanent-workers/eb-5-immigrant-investor-program
@@ -62,7 +62,7 @@ The United States has one of the world's strongest passports and the largest eco
 
 ### startup_entrepreneur
 - **Official name**: International Entrepreneur Rule (IER) — parole, not visa
-- **Conditions**: No dedicated startup visa exists. IER grants discretionary parole (up to 5 years) for entrepreneurs with significant US investment ($250K+) and 10%+ ownership. O-1 (Extraordinary Ability) and E-2 (Treaty Investor) are used as alternatives. No direct path to green card from IER.
+- **Conditions**: No dedicated startup visa exists. IER grants discretionary parole (up to 5 years) for entrepreneurs with significant US investment ($250,000+) and 10%+ ownership. O-1 (Extraordinary Ability) and E-2 (Treaty Investor) are used as alternatives. No direct path to green card from IER.
 - **Duration / renewal**: IER: initial 2.5 years + 2.5-year extension. Not a visa status.
 - **Path to citizenship**: No direct path from IER; requires transition to another visa/green card route.
 - **Official source**: https://www.uscis.gov/humanitarian/humanitarian-parole/international-entrepreneur-parole
@@ -109,7 +109,7 @@ The United States has one of the world's strongest passports and the largest eco
 ## Tax
 - **Citizenship-based taxation**: US citizens and green card holders taxed on worldwide income regardless of residence. Foreign Earned Income Exclusion (FEIE): ~$130,000 (2026). Foreign Tax Credit available.
 - **Federal income tax**: Progressive rates 10%–37% (top rate above ~$626,350 single). State tax: 0%–13.3% (varies).
-- **Capital gains**: 0%–20% + 3.8% NIIT. No wealth tax. Estate tax: 40% above ~$13.99M exemption (2026).
+- **Capital gains**: 0%–20% + 3.8% NIIT. No wealth tax. Estate tax: 40% above ~$13,990,000 exemption (2026).
 - **Corporate tax**: 21% federal + state.
 
 ## IT / Digital Nomad
@@ -123,7 +123,7 @@ US sanctions and deteriorating bilateral relations make visa processing for RU n
 
 ## Status
 - **Last monitored**: 2026-10-12
-- **Recent changes**: H-1B FY2027 weighted lottery favoring higher-skilled/higher-paid implemented. DHS proposed EB-5 increase (TEA $800K → $1.4M in High Employment Areas). Sept 30, 2026 EB-5 grandfathering deadline.
+- **Recent changes**: H-1B FY2027 weighted lottery favoring higher-skilled/higher-paid implemented. DHS proposed EB-5 increase (TEA $800,000 → $1,400,000 in High Employment Areas). Sept 30, 2026 EB-5 grandfathering deadline.
 - **Watch items**: EB-5 RIA regulatory implementation. H-1B cap season outcomes. Potential IER changes.
 
 ## Country Snapshot
@@ -153,12 +153,12 @@ US sanctions and deteriorating bilateral relations make visa processing for RU n
 ## Country Card
 
 ### General description
-The United States is the world's largest economy and a federal republic of 50 states spanning North America between the Atlantic and Pacific Oceans. It has the most dynamic tech and startup ecosystem globally (Silicon Valley, NYC, Austin), the deepest capital markets, and the highest salaries for skilled professionals. Immigration is employer-driven: the H-1B lottery and employer-sponsored green card (PERM → EB-2/EB-3) are the dominant skilled pathways, and the EB-5 investor program ($800K–$1.05M) offers a direct route to a green card. The US taxes citizens and green card holders on worldwide income regardless of residence.
+The United States is the world's largest economy and a federal republic of 50 states spanning North America between the Atlantic and Pacific Oceans. It has the most dynamic tech and startup ecosystem globally (Silicon Valley, NYC, Austin), the deepest capital markets, and the highest salaries for skilled professionals. Immigration is employer-driven: the H-1B lottery and employer-sponsored green card (PERM → EB-2/EB-3) are the dominant skilled pathways, and the EB-5 investor program ($800,000–$1,050,000) offers a direct route to a green card. The US taxes citizens and green card holders on worldwide income regardless of residence.
 
 ### Well-known strong points
 - Highest professional salaries globally, especially in tech, finance, medicine
 - Deepest and most liquid startup funding and venture capital ecosystem
-- EB-5 program provides direct green card for investors ($800K TEA)
+- EB-5 program provides direct green card for investors ($800,000 TEA)
 - Large, established immigrant communities from every country
 - Vast geographic and climate diversity — from tropical to arctic
 - Top-tier universities and research institutions

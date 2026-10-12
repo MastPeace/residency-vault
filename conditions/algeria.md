@@ -130,7 +130,7 @@ Algeria is effectively closed to individual residency seekers. There are no inve
 | Median net monthly salary | ~$250–$400 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Algeria] [soft/estimate] |
 | Cost of living index | 20.8 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Algeria] [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~$150–$300 (Algiers city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Algeria] [soft/estimate] |
-| Effective personal tax rate for remote workers | ~0–35% (progressive; top bracket 35% above ~$25K) | ^[https://www.mfdgi.gov.dz/] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~0–35% (progressive; top bracket 35% above ~$25,000) | ^[https://www.mfdgi.gov.dz/] [soft/estimate] |
 | Remote-work / self-employment residence available? | Not available — no dedicated DN visa; self-employment extremely restricted for foreigners | ^[https://www.mae.gov.dz/] [soft/estimate] |
 | Years to citizenship | 7 years continuous residence; Arabic proficiency; discretionary | ^[https://www.mae.gov.dz/] [soft/estimate] |
 | Maximum permitted absence during residence | Varies; generally 6 months | ^[https://www.mae.gov.dz/] [soft/estimate] |

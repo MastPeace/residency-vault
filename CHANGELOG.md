@@ -7,7 +7,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [Unreleased]
 
 ### Added
+- `data/facts.json`: structured facts per country (investment-residency minimum, remote-work visa + income threshold, remote tax range), extracted by `scripts/extract_facts.py` (deepseek-v4-pro) with a verbatim evidence quote each; facts whose quote is not found on the page are dropped. 55 investment minimums, 152 remote-visa and 106 tax values for 163 countries.
+- Country table: "More columns" toggle with Investment from / Remote visa / Remote tax (hover shows the source quote).
+- `scripts/normalize_numbers.py`: amounts and durations written as digits (`€250K` -> `€250,000`, `five years` -> `5 years`) across 99 pages; rule added to SCHEMA.md.
 - Site: separate `countries.html`, `programs.html` and `glossary.html` pages (glossary is edited in `glossary.md`); the home page is now a landing page with the latest monitoring changes.
+
+### Fixed
+- Site: 63 countries had an empty Region (registry groups without a display label); they are now folded into display regions (added Asia, Central Africa).
 
 ### Changed
 - Site: country table drops the country-code and "Checked" columns; Passport, To citizenship, Fit and Confidence headers carry a `*` link to the glossary, with a footnote under the table.

@@ -21,10 +21,10 @@ Hong Kong is a Special Administrative Region of China with its own immigration s
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Capital Investment Entrant Scheme (CIES) | HK$30M in permissible assets | 2+2+2 yr → PR at 7 yr | [[#investment-residency]] |
+| investment_residency | Capital Investment Entrant Scheme (CIES) | HK$30,000,000 in permissible assets | 2+2+2 yr → PR at 7 yr | [[#investment-residency]] |
 | passive_income_residency | Not available | — | — | — |
 | digital_nomad_visa | Not available (TTPS covers remote-capable talent) | — | — | — |
-| highly_skilled_employment | Top Talent Pass Scheme (TTPS) / QMAS | Annual income ≥ HK$2.5M, or top-100-university degree | 2 yr, renewable | [[#highly-skilled-employment]] |
+| highly_skilled_employment | Top Talent Pass Scheme (TTPS) / QMAS | Annual income ≥ HK$2,500,000, or top-100-university degree | 2 yr, renewable | [[#highly-skilled-employment]] |
 | startup_entrepreneur | Startup visa (immigration policy) | Viable startup plan; backing by government program | 2 yr | [[#startup-entrepreneur]] |
 | employment_residency | General Employment Policy (GEP) / ASMTP | Job offer; relevant qualifications | 2 yr, renewable | [[#employment-residency]] |
 | student_residency | Student visa + IANG | Enroll in HK institution; IANG gives 2-yr stay post-graduation | Course + 2 yr | [[#student-residency]] |
@@ -36,7 +36,7 @@ Hong Kong is a Special Administrative Region of China with its own immigration s
 
 ### investment_residency
 - **Official name**: New Capital Investment Entrant Scheme (CIES), relaunched 1 Mar 2024
-- **Conditions**: Minimum HK$30 million (~US$3.8M) in permissible assets — HK$27M in financial assets/non-residential real estate (or a single residential property ≥HK$30M) plus HK$3M into the CIES portfolio. Net assets of ≥HK$30M for the preceding 6 months. ^[https://www.info.gov.hk/gia/general/202403/01/P2024022900797.htm]
+- **Conditions**: Minimum HK$30 million (~US$3,800,000) in permissible assets — HK$27,000,000 in financial assets/non-residential real estate (or a single residential property ≥HK$30,000,000) plus HK$3,000,000 into the CIES portfolio. Net assets of ≥HK$30,000,000 for the preceding 6 months. ^[https://www.info.gov.hk/gia/general/202403/01/P2024022900797.htm]
 - **Duration / renewal**: 2-year stay, renewable 2+2; PR after 7 years continuous residence.
 - **Path to citizenship**: Right of Abode (PR) at 7 years; HKSAR passport only with Chinese nationality.
 - **Official source**: https://www.newcies.gov.hk/en/index.html
@@ -44,7 +44,7 @@ Hong Kong is a Special Administrative Region of China with its own immigration s
 
 ### highly_skilled_employment
 - **Official name**: Top Talent Pass Scheme (TTPS)
-- **Conditions**: Category A — annual income ≥ HK$2.5M in prior year; Categories B/C — bachelor's from a top-100 university (B: +3 yrs experience, no quota; C: recent grads, 10,000/yr quota). No job offer required to apply. ^[https://www.immd.gov.hk/eng/faq/TTPS.html]
+- **Conditions**: Category A — annual income ≥ HK$2,500,000 in prior year; Categories B/C — bachelor's from a top-100 university (B: +3 yrs experience, no quota; C: recent grads, 10,000/yr quota). No job offer required to apply. ^[https://www.immd.gov.hk/eng/faq/TTPS.html]
 - **Duration / renewal**: 2 years; extension requires employment with stable income or a business.
 - **Path to citizenship**: PR at 7 years.
 - **Official source**: https://www.immd.gov.hk/
@@ -60,7 +60,7 @@ Hong Kong is a Special Administrative Region of China with its own immigration s
 
 ### employment_residency
 - **Official name**: General Employment Policy (GEP) / ASMTP
-- **Conditions**: Job offer; qualifications normally not readily available locally (labor-market test relaxed for Talent List occupations and salaries ≥HK$2M).
+- **Conditions**: Job offer; qualifications normally not readily available locally (labor-market test relaxed for Talent List occupations and salaries ≥HK$2,000,000).
 - **Duration / renewal**: 2 years, renewable.
 - **Path to citizenship**: PR at 7 years.
 - **Official source**: https://www.immd.gov.hk/
@@ -96,7 +96,7 @@ Not available.
 - **Profits tax**: 8.25%/16.5% (two-tier). No inheritance tax.
 
 ## IT / Digital Nomad
-No dedicated digital-nomad visa, but TTPS Category A (HK$2.5M income) and C (recent top-uni grads) effectively serve remote-capable tech talent. The territorial tax system (no tax on offshore income) makes HK highly attractive to remote entrepreneurs. Major fintech/startup scene (Cyberport, Science Park).
+No dedicated digital-nomad visa, but TTPS Category A (HK$2,500,000 income) and C (recent top-uni grads) effectively serve remote-capable tech talent. The territorial tax system (no tax on offshore income) makes HK highly attractive to remote entrepreneurs. Major fintech/startup scene (Cyberport, Science Park).
 
 ## Yacht / Maritime
 Major international port and one of the world's busiest container ports. Deep-water anchorage, typhoon shelters, and marinas (Royal HK Yacht Club, Discovery Bay, Gold Coast). Popular stopover for cruising yachts; foreign-flagged vessels welcome.
@@ -105,7 +105,7 @@ Major international port and one of the world's busiest container ports. Deep-wa
 HK is a major relocation hub for Russian professionals and entrepreneurs; banking and company formation are accessible (subject to enhanced compliance/sanctions screening). TTPS and CIES are the main routes. Chinese nationality/renunciation questions do not arise for PR.
 
 ## Community Pulse
-HK's talent schemes are widely seen as efficient and predictable. TTPS extension rules (must be employed by renewal) are the main friction point. CIES relaunch (2024) restored an investment path but at HK$30M. PR at 7 years is the widely-understood target.
+HK's talent schemes are widely seen as efficient and predictable. TTPS extension rules (must be employed by renewal) are the main friction point. CIES relaunch (2024) restored an investment path but at HK$30,000,000. PR at 7 years is the widely-understood target.
 
 ## Country Snapshot
 
@@ -152,5 +152,5 @@ Hong Kong is a densely built global financial centre and free port on China's so
 
 ## Status
 - **Last monitored**: 2026-10-12
-- **Recent changes known**: CIES real-estate threshold reduced (HK$50M→HK$30M, 2025 Policy Address); TTPS extension rules require employment.
+- **Recent changes known**: CIES real-estate threshold reduced (HK$50,000,000→HK$30,000,000, 2025 Policy Address); TTPS extension rules require employment.
 - **Watch items**: TTPS quota/extension policy review; any QMAS re-scoping.

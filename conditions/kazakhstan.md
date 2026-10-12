@@ -16,7 +16,7 @@ last_checked: 2026-10-12
 ---
 
 ## Overview
-Kazakhstan launched an innovative [[digital-nomad-visa|digital nomad visa]] Residency programme (10-year permanent residence) and a [[investment-residency|golden visa]]-equivalent investor route ($300K) (10-year permanent residence for qualifying IT specialists) and a Digital Nomad Visa (Neo Nomad Visa) in late 2024. However, traditional residence permit rules were tightened under a 2026 pilot project restricting new applicants and channeling them to specific regions. Kazakhstan is an EAEU member. ^[https://timesca.com/tag/digital-nomads]
+Kazakhstan launched an innovative [[digital-nomad-visa|digital nomad visa]] Residency programme (10-year permanent residence) and a [[investment-residency|golden visa]]-equivalent investor route ($300,000) (10-year permanent residence for qualifying IT specialists) and a Digital Nomad Visa (Neo Nomad Visa) in late 2024. However, traditional residence permit rules were tightened under a 2026 pilot project restricting new applicants and channeling them to specific regions. Kazakhstan is an EAEU member. ^[https://timesca.com/tag/digital-nomads]
 
 ## Residence
 **General residence permit (permanent)**: ^[https://en.tengrinews.kz/article/kazakhstan-has-tightened-migration-policy-who-is-affected-200]
@@ -84,7 +84,7 @@ Kazakhstan is a primary destination for Russian relocants: visa-free entry, no l
 | Cost of living index | ~30 (NYC=100, Numbeo estimate) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2026) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ₸228,000 (~US$500) city centre | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Kazakhstan) [soft/estimate] |
 | Effective personal tax rate for remote workers | Flat 10% income tax; corporate 20%; no social tax for self-employed on simplified regime | [Kazakhstan Tax Code](https://kgd.gov.kz/) [soft/estimate] |
-| Remote-work / self-employment residence available? | Yes — Digital Nomad Residency (10yr PR, no income threshold); Neo Nomad Visa ($3,000/mo); Investor Visa ($300K) | See [[#digital-nomad-visa]] |
+| Remote-work / self-employment residence available? | Yes — Digital Nomad Residency (10yr PR, no income threshold); Neo Nomad Visa ($3,000/mo); Investor Visa ($300,000) | See [[#digital-nomad-visa]] |
 | Years to citizenship | 5 years permanent residence + 183 days/yr physical presence + Kazakh language + renunciation | See [[#citizenship]] |
 | Maximum permitted absence during residence | 183 days/yr physical presence required for citizenship; PR: must maintain genuine residence | See [[#citizenship]] |
 | Passport strength after citizenship | 78 visa-free destinations (Henley 2026, rank 61) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |

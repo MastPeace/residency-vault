@@ -16,13 +16,13 @@ last_checked: 2026-10-12
 ---
 
 ## Overview
-Australia has a strong passport and a large, points-based skilled migration system. The General Skilled Migration program (subclasses 189, 190, 491) is the primary skilled route. The Business Innovation and Investment Program (BIIP, subclass 188) closed to new applications on July 31, 2024, but existing 188 holders continue to transition to PR (subclass 888). The Significant Investor Visa (SIV) required AUD $5M in complying investments. Australia permits dual citizenship. ^[https://immi.homeaffairs.gov.au/]
+Australia has a strong passport and a large, points-based skilled migration system. The General Skilled Migration program (subclasses 189, 190, 491) is the primary skilled route. The Business Innovation and Investment Program (BIIP, subclass 188) closed to new applications on July 31, 2024, but existing 188 holders continue to transition to PR (subclass 888). The Significant Investor Visa (SIV) required AUD $5,000,000 in complying investments. Australia permits dual citizenship. ^[https://immi.homeaffairs.gov.au/]
 
 ## Residency Programs
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | BIIP Significant Investor (188C → 888C) — CLOSED | AUD $5M complying investment; 40 days/yr presence | 4 yr provisional → PR | [[#investment-residency]] |
+| investment_residency | BIIP Significant Investor (188C → 888C) — CLOSED | AUD $5,000,000 complying investment; 40 days/yr presence | 4 yr provisional → PR | [[#investment-residency]] |
 | passive_income_residency | Not available | No passive income residence route | — | [[#passive-income-residency]] |
 | digital_nomad_visa | Not available | No DN visa; visitor visa allows remote work for foreign employer | — | [[#digital-nomad-visa]] |
 | highly_skilled_employment | Skilled Independent (189) / Skilled Nominated (190) / Skilled Regional (491) | Points test (min 65, competitive 85+); skills assessment; English | PR (189/190) or provisional (491) | [[#highly-skilled-employment]] |

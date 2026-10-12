@@ -133,7 +133,7 @@ Atlantic coastline from Buenos Aires to Patagonia. Major ports: Buenos Aires, Ma
 Russian passport holders are visa-free for tourist entry (90 days). Rentista and Pensionado routes accessible. Consulates in Moscow (limited operations), Istanbul, Dubai. No special restrictions beyond standard requirements. Buenos Aires has a Russian-speaking community. Argentine banks may require DNI (residency card) for account opening.
 
 ## Community Pulse
-Argentina's 2-year citizenship timeline is among the fastest globally and is the primary draw. Decree 366/2025's "no exits" rule is the biggest recent tightening — applicants must plan for 2 continuous years in-country. The DN visa is a useful short-term bridge but not a path to citizenship. Inflation and economic instability remain the main practical concerns. The pending CBI program, if launched at $500K, would be a game-changer.
+Argentina's 2-year citizenship timeline is among the fastest globally and is the primary draw. Decree 366/2025's "no exits" rule is the biggest recent tightening — applicants must plan for 2 continuous years in-country. The DN visa is a useful short-term bridge but not a path to citizenship. Inflation and economic instability remain the main practical concerns. The pending CBI program, if launched at $500,000, would be a game-changer.
 
 ## Status
 - **Last monitored**: 2026-10-12

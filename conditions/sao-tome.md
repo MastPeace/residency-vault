@@ -117,5 +117,5 @@ São Tomé and Príncipe is a small, stable, Portuguese-speaking island democrac
 
 ## Status
 - **Last monitored**: 2026-10-12
-- **Recent changes**: CBI programme launched 1 Aug 2025 (Decree-Law 07/2025), NTF donation $90K/$95K.
+- **Recent changes**: CBI programme launched 1 Aug 2025 (Decree-Law 07/2025), NTF donation $90,000/$95,000.
 - **Watch items**: First approval cohorts and processing times; any revision to donation thresholds.

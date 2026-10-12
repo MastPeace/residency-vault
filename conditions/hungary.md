@@ -21,7 +21,7 @@ Hungary is an EU/Schengen/NATO member in Central Europe with Budapest as a major
 
 | Type | Official Program | Key Conditions | Duration |
 |------|-----------------|----------------|----------|
-| [[investment-residency]] | Guest Investor Programme (Golden Visa) | €250K fund / €500K real estate / €1M donation | 10+10 years |
+| [[investment-residency]] | Guest Investor Programme (Golden Visa) | €250,000 fund / €500,000 real estate / €1,000,000 donation | 10+10 years |
 | [[passive-income-residency]] | Not available as dedicated program | — | — |
 | [[digital-nomad-visa]] | Fehér Kártya (White Card) | €3,000/mo net income; remote work for non-HU employer | 1 year (renewable once) |
 | [[highly-skilled-employment]] | EU Blue Card (Kék Kártya) | University degree; job offer; salary threshold | ≤4 years |
@@ -79,13 +79,13 @@ Hungary is an EU/Schengen/NATO member in Central Europe with Budapest as a major
 - Tax residency: 183 days/year or center of vital interests
 
 ## IT / Digital Nomad
-The White Card (see above) is the dedicated digital nomad route — €3,000/mo net, 1 year renewable once. No path to permanent residence from White Card. Budapest is a thriving tech hub with major companies and a growing startup scene. For long-term IT professionals, the Guest Investor Programme (€250K) or EU Blue Card are better pathways.
+The White Card (see above) is the dedicated digital nomad route — €3,000/mo net, 1 year renewable once. No path to permanent residence from White Card. Budapest is a thriving tech hub with major companies and a growing startup scene. For long-term IT professionals, the Guest Investor Programme (€250,000) or EU Blue Card are better pathways.
 
 ## Yacht / Maritime
 Not applicable — Hungary is landlocked.
 
 ## Notes for RU Citizens
-The Guest Investor Programme (Golden Visa, €250K) is formally open to Russian nationals but faces enhanced source-of-funds scrutiny. The White Card (€3,000/mo) is also accessible. Hungarian language is one of Europe's hardest for Russian speakers. Budapest has a small but established Russian-speaking community.
+The Guest Investor Programme (Golden Visa, €250,000) is formally open to Russian nationals but faces enhanced source-of-funds scrutiny. The White Card (€3,000/mo) is also accessible. Hungarian language is one of Europe's hardest for Russian speakers. Budapest has a small but established Russian-speaking community.
 
 
 

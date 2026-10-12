@@ -48,7 +48,7 @@ The Dominican Republic is one of the Caribbean's most accessible immigration des
 - **Duration / renewal**: 1-year temporary residence (RT-9), renewable annually. Permanent residence (RP-1) after minimum 1 year; card valid 1 year → then 4 years. Definitive residence (RD-1) after: 10 years.
 - **Path to citizenship**: After 2 years permanent residence (or 6 months if married to Dominican). ^[https://www.ggi.com/news/global-mobility/residency-and-citizenship-options-in-the-dominican-republic]
 - **Official source**: https://migracion.gob.do/en/servicio/renter-residence
-- **Community verdict**: Works well (popular route for RU expats; $2K/mo is moderate threshold; straightforward docs; processing ~90 business days for permanent residence).
+- **Community verdict**: Works well (popular route for RU expats; $2,000/mo is moderate threshold; straightforward docs; processing ~90 business days for permanent residence).
 
 ### employment_residency
 - **Official name**: Permiso de Trabajo Temporal (PTT) / RT-3 (Residencia Temporal Laboral)
@@ -68,7 +68,7 @@ The Dominican Republic is one of the Caribbean's most accessible immigration des
 
 ### startup_entrepreneur
 - **Official name**: Investment Residence (business)
-- **Conditions**: Business investment in DR; incorporation + business plan; investment amounts per regulation (US$200K+ range). Management Staff/Technician category also available for transferred executives. ^[https://migracion.gob.do/en/servicios/residence]
+- **Conditions**: Business investment in DR; incorporation + business plan; investment amounts per regulation (US$200,000+ range). Management Staff/Technician category also available for transferred executives. ^[https://migracion.gob.do/en/servicios/residence]
 - **Duration / renewal**: 1 year → permanent.
 - **Path to citizenship**: 2 years permanent residence.
 - **Official source**: https://migracion.gob.do/en/servicios/residence
@@ -88,7 +88,7 @@ The Dominican Republic is one of the Caribbean's most accessible immigration des
 - No wealth tax. No inheritance tax.
 
 ## IT / Digital Nomad
-Not available. No dedicated digital nomad visa. Remote workers commonly use tourist entry (visa-free for many; up to 30 days extendable) and may later apply for rentista residence if they can demonstrate passive income stream ($2K/mo). Some remote workers operate in informal grey area on tourist visas.
+Not available. No dedicated digital nomad visa. Remote workers commonly use tourist entry (visa-free for many; up to 30 days extendable) and may later apply for rentista residence if they can demonstrate passive income stream ($2,000/mo). Some remote workers operate in informal grey area on tourist visas.
 
 ## Yacht / Maritime
 Dominican Republic has several full-service marinas (Casa de Campo, Ocean World). Yacht registration possible under Dominican flag. No special yacht-residence programme.
@@ -96,7 +96,7 @@ Dominican Republic has several full-service marinas (Casa de Campo, Ocean World)
 ## Notes for RU citizens
 - One of the most popular destinations for Russian expats in the Caribbean. Large RU-speaking community in Bávaro/Punta Cana.
 - Visa-free for Russian citizens (up to 60 days). Can enter, apply for residence from within.
-- Rentista route widely used by RU citizens: $2K/mo income threshold, docs apostilled and translated.
+- Rentista route widely used by RU citizens: $2,000/mo income threshold, docs apostilled and translated.
 - Citizenship in ~3 years total (1 year temporary + 2 years permanent or faster via marriage).
 - Dominican passport provides visa-free Russia access — fewer than 70 countries total. Less passport power focus, more lifestyle focus.
 
@@ -123,7 +123,7 @@ Dominican Republic has several full-service marinas (Casa de Campo, Ocean World)
 | Cost of living index | 38.1 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~$400 (outside tourist zones) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Dominican+Republic) [soft/estimate] |
 | Effective personal tax rate for remote workers | 0% on foreign-source income (territorial system) | See [[#tax]] |
-| Remote-work / self-employment residence available? | No dedicated DN visa; Rentista ($2K/mo) covers passive income | See [[#passive-income-residency]] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; Rentista ($2,000/mo) covers passive income | See [[#passive-income-residency]] |
 | Years to citizenship | ~3 years (1 temp + 2 permanent); 6 months if married | See [[#citizenship]] |
 | Maximum permitted absence during residence | No strict absence rule for temporary/permanent holders; 12+ months may risk status | [soft/estimate] |
 | Passport strength after citizenship | ~70 visa-free destinations (Henley Q3 2025) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
@@ -135,7 +135,7 @@ Dominican Republic has several full-service marinas (Casa de Campo, Ocean World)
 ## Country Card
 
 ### General description
-The Dominican Republic occupies the eastern two-thirds of Hispaniola in the Caribbean, sharing the island with Haiti. It has the largest economy in the Caribbean and Central America, driven by tourism, services, mining, and agriculture. The DR is one of the most popular expat destinations in the region, particularly for Russian-speaking immigrants, thanks to an accessible residency system (rentista at $2K/mo, investment from $200K), a territorial tax regime, and a relatively fast path to citizenship (~3 years). It combines Caribbean lifestyle with moderate costs and well-developed tourism infrastructure.
+The Dominican Republic occupies the eastern two-thirds of Hispaniola in the Caribbean, sharing the island with Haiti. It has the largest economy in the Caribbean and Central America, driven by tourism, services, mining, and agriculture. The DR is one of the most popular expat destinations in the region, particularly for Russian-speaking immigrants, thanks to an accessible residency system (rentista at $2,000/mo, investment from $200,000), a territorial tax regime, and a relatively fast path to citizenship (~3 years). It combines Caribbean lifestyle with moderate costs and well-developed tourism infrastructure.
 
 ### Well-known strong points
 - Fastest citizenship path in the Caribbean (2 years permanent residence, or 6 months if married)

@@ -37,7 +37,7 @@ Monaco is a sovereign city-state on the French Riviera, famous for **0% personal
 
 ### Carte de séjour
 - **Official name**: Carte de séjour (residence permit)
-- **Conditions**: Demonstrate sufficient financial means — banks require a €500,000+ deposit held in a Monaco bank (€1M+ sometimes requested); proof of accommodation (lease or purchase); private health insurance; clean criminal record; genuine residence (183+ days). Non-EU: French Type D visa first. ^[https://www.monacorg.mc/monaco-residency-requirements]
+- **Conditions**: Demonstrate sufficient financial means — banks require a €500,000+ deposit held in a Monaco bank (€1,000,000+ sometimes requested); proof of accommodation (lease or purchase); private health insurance; clean criminal record; genuine residence (183+ days). Non-EU: French Type D visa first. ^[https://www.monacorg.mc/monaco-residency-requirements]
 - **Duration / renewal**: Carte Temporaire 1 year (renewable to 3); Carte Ordinaire 3 years; Carte Privilégiée 10 years after ~10 years residence.
 - **Path to citizenship**: 10 years residence minimum, then discretionary decision by the Prince.
 - **Official source**: https://monservicepublic.gouv.mc/en/themes/nationality-and-residency
@@ -64,13 +64,13 @@ Monaco is a sovereign city-state on the French Riviera, famous for **0% personal
 - Only ~10 double-tax treaties — foreign-source dividends (US 30%, Swiss 35%) may be taxed at source with no relief. ^[https://www.monacorg.mc/monaco-taxes]
 
 ## IT / Digital Nomad
-No digital-nomad visa and no dedicated IT residence. Remote workers can qualify only via the self-sufficiency route (€500K+ deposit + housing). The 0% income tax is attractive to high earners, but the capital requirement makes Monaco inaccessible to most nomads — unlike [[portugal]]'s D8 or [[andorra]]'s D.3.
+No digital-nomad visa and no dedicated IT residence. Remote workers can qualify only via the self-sufficiency route (€500,000+ deposit + housing). The 0% income tax is attractive to high earners, but the capital requirement makes Monaco inaccessible to most nomads — unlike [[portugal]]'s D8 or [[andorra]]'s D.3.
 
 ## Yacht / Maritime
 Monaco is a global yachting capital — Port Hercule and the Monaco Yacht Show; premier superyacht berthing and a long maritime tradition. Monaco-flag registration is available, and the state has extensive marinas and yacht services. Strong appeal for yacht owners (see also [[malta]]).
 
 ## Notes for RU citizens
-As of 2026, Monaco applies sanctions-compliance review to Russian and Belarusian nationals, extending processing times; some banks refuse RU-origin accounts. The €500K+ deposit requirement and French Type-D visa path remain the operational hurdles. Banking access for Russian nationals has tightened significantly since 2022.
+As of 2026, Monaco applies sanctions-compliance review to Russian and Belarusian nationals, extending processing times; some banks refuse RU-origin accounts. The €500,000+ deposit requirement and French Type-D visa path remain the operational hurdles. Banking access for Russian nationals has tightened significantly since 2022.
 
 ## Community pulse
 Residence is widely seen as "pay-to-live" for the wealthy: capital and property are the real filters. Complaints center on housing costs (among the world's highest, ~€50,000–100,000/m²) and the near-impossibility of citizenship. Processing is efficient once funds are placed.
@@ -113,7 +113,7 @@ Monaco is a 2 km² sovereign city-state on the Mediterranean coast, entirely sur
 - Premier yachting hub and luxury lifestyle (Grand Prix, Monte-Carlo)
 
 ### Well-known problems
-- Entry requires ~€500K+ bank deposit and proof of accommodation — capital-heavy
+- Entry requires ~€500,000+ bank deposit and proof of accommodation — capital-heavy
 - World's most expensive real estate (~€50,000–100,000/m²)
 - Citizenship practically unobtainable; 10+ years and Prince's discretion, no dual nationality
 - No digital-nomad visa; French Type-D visa needed for non-EU/EEA applicants
@@ -122,4 +122,4 @@ Monaco is a 2 km² sovereign city-state on the Mediterranean coast, entirely sur
 ## Status
 - **Last monitored**: 2026-10-12
 - **Recent changes**: Sanctions-compliance review for Iranian/Russian/Belarusian applicants (2026). Corporate rate 33.33% → 25% (2022) confirmed stable.
-- **Watch items**: Any change to the €500K deposit norm; French-nationary treaty status; banking access for RU citizens.
+- **Watch items**: Any change to the €500,000 deposit norm; French-nationary treaty status; banking access for RU citizens.

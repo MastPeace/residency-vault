@@ -130,7 +130,7 @@ Oman is quiet, safe, and culturally more relaxed than Saudi Arabia. The 2026 res
 | Cost of living index | 33.2 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Oman] [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~$500–$800 (Muscat city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Oman] [soft/estimate] |
 | Effective personal tax rate for remote workers | 0% (no personal income tax) | ^[https://www.tax.gov.om/] [soft/estimate] |
-| Remote-work / self-employment residence available? | Yes — Investor Residency (no sponsor, property from OMR 100K); freelance permit available; 2026 reforms expanded options | ^[https://www.rop.gov.om/] [soft/estimate] |
+| Remote-work / self-employment residence available? | Yes — Investor Residency (no sponsor, property from OMR 100,000); freelance permit available; 2026 reforms expanded options | ^[https://www.rop.gov.om/] [soft/estimate] |
 | Years to citizenship | No pathway for expatriates (discretionary; extremely rare) | ^[https://www.rop.gov.om/] hard/official |
 | Maximum permitted absence during residence | 6 months | ^[https://www.rop.gov.om/] [soft/estimate] |
 | Passport strength after citizenship (visa-free count) | 85 (Henley, Jul 2026) | ^[https://www.henleyglobal.com/passport-index/ranking] hard/official |

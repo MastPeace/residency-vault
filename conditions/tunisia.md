@@ -142,7 +142,7 @@ Tunisia is an underrated option for lifestyle-oriented residency seekers. It off
 | Median net monthly salary | ~$250–$400 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Tunisia] [soft/estimate] |
 | Cost of living index | 22.5 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Tunisia] [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~$150–$300 (Tunis city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Tunisia] [soft/estimate] |
-| Effective personal tax rate for remote workers | ~0–35% (progressive; top bracket 35% above ~$16K) | ^[https://www.finances.gov.tn/] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~0–35% (progressive; top bracket 35% above ~$16,000) | ^[https://www.finances.gov.tn/] [soft/estimate] |
 | Remote-work / self-employment residence available? | Partially — self-employment possible via company registration; no dedicated DN visa (under discussion) | ^[https://www.fipa.gov.tn/] [soft/estimate] |
 | Years to citizenship | 5 years continuous residence; Arabic proficiency; discretionary | ^[https://www.juridictunisie.com/] [soft/estimate] |
 | Maximum permitted absence during residence | Varies; generally 6 months | ^[https://www.fipa.gov.tn/] [soft/estimate] |

@@ -20,7 +20,7 @@ Nigeria operates one of Africa's most structured residency-by-investment framewo
 
 | Type | Official Program | Key Conditions | Duration | Citizenship Path |
 |------|-----------------|----------------|----------|------------------|
-| investment_residency | Investor Visas N3A–N3E | N3A: small enterprise; N3B: medium (USD 150K–1M); N3C: large (USD 1M–10M); N3D: ultra-large (USD 10M+); N3E: oil/gas/power. Capital must be imported & retained in Nigeria. ^[https://immigration.gov.ng/info-center/investor-visa-large-scale-corporations-n3c] | 6 years (N3C large-scale), multiple entry + residence permit ^[https://immigration.gov.ng/info-center/investor-visa-large-scale-corporations-n3c] | 15 years continuous lawful residence ^[https://immigration.gov.ng/knowledge-base] |
+| investment_residency | Investor Visas N3A–N3E | N3A: small enterprise; N3B: medium (USD 150,000–1,000,000); N3C: large (USD 1,000,000–10,000,000); N3D: ultra-large (USD 10,000,000+); N3E: oil/gas/power. Capital must be imported & retained in Nigeria. ^[https://immigration.gov.ng/info-center/investor-visa-large-scale-corporations-n3c] | 6 years (N3C large-scale), multiple entry + residence permit ^[https://immigration.gov.ng/info-center/investor-visa-large-scale-corporations-n3c] | 15 years continuous lawful residence ^[https://immigration.gov.ng/knowledge-base] |
 | passive_income_residency | Not available | — | — | — |
 | digital_nomad_visa | Not available | — | — | — |
 | highly_skilled_employment | Highly Skilled Immigrant Visa N4A | Specialised knowledge/technical expertise deemed relevant to Nigerian economy; Skills Gap Assessment letter (ITF); CV credentials vetted ^[https://immigration.gov.ng/info-center/highly-skilled-immigrant-visa-n4a] | 5 years, multiple entry + residence permit ^[https://immigration.gov.ng/info-center/highly-skilled-immigrant-visa-n4a] | 15 years continuous lawful residence |
@@ -35,7 +35,7 @@ Nigeria operates one of Africa's most structured residency-by-investment framewo
 
 ### investment_residency — Investor Visas N3A–N3E
 - **Official name**: Permanent Residence Visa — Investor Visa (N3A through N3E and N3E Oil/Gas)
-- **Conditions**: Capital imported and retained in Nigeria. N3C (Large Scale Corporations): USD 1M–10M capital, security clearance, business plan, Certificate of Incorporation/CAC, previous F4B/F4C visa. ^[https://immigration.gov.ng/info-center/investor-visa-large-scale-corporations-n3c]
+- **Conditions**: Capital imported and retained in Nigeria. N3C (Large Scale Corporations): USD 1,000,000–10,000,000 capital, security clearance, business plan, Certificate of Incorporation/CAC, previous F4B/F4C visa. ^[https://immigration.gov.ng/info-center/investor-visa-large-scale-corporations-n3c]
 - **Duration**: 90-day entry visa then 6-year residence permit (N3C), renewable. ^[https://immigration.gov.ng/info-center/investor-visa-large-scale-corporations-n3c]
 - **Path to citizenship**: 15 years continuous lawful residence. Investor categories are explicitly "eligible to apply for citizenship after meeting certain criteria." ^[https://immigration.gov.ng/knowledge-base]
 - **Official source**: https://immigration.gov.ng/knowledge-base
@@ -59,7 +59,7 @@ Nigeria operates one of Africa's most structured residency-by-investment framewo
 
 ## Tax
 - Residence-based taxation. Tax resident if >183 days or ordinarily resident.
-- Personal income tax: progressive 7%–24% (top rate on NGN 3.2M+/yr, ~USD 4,000). Relatively low top rate.
+- Personal income tax: progressive 7%–24% (top rate on NGN 3,200,000+/yr, ~USD 4,000). Relatively low top rate.
 - Corporate tax: 30% (large companies); 20% (medium).
 - VAT: 7.5%.
 - Capital gains tax: 10%.
@@ -93,7 +93,7 @@ Visa required for Russian citizens (e-visa or embassy). Nigeria maintains cordia
 | Median net monthly salary | ~$200–350 | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Nigeria] |
 | Cost of living index (relative) | ~28 (NYC=100) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Nigeria] |
 | Monthly rent, 1‑bedroom apartment | ~$400–900 (Lagos expat areas: Victoria Island, Ikoyi) | [soft/estimate] ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Nigeria] |
-| Effective personal tax rate for remote workers | 7%–24% progressive (top rate on NGN 3.2M+/yr, ~USD 4,000) | [soft/estimate] |
+| Effective personal tax rate for remote workers | 7%–24% progressive (top rate on NGN 3,200,000+/yr, ~USD 4,000) | [soft/estimate] |
 | Remote‑work / self‑employment residence available? | No — no dedicated digital nomad visa | |
 | Years to citizenship | 15 years continuous lawful residence | ^[https://immigration.gov.ng/knowledge-base] |
 | Maximum permitted absence during residence | Not clearly defined; continuous residence required | [soft/estimate] |
@@ -111,7 +111,7 @@ Nigeria is Africa's most populous nation (~233M) and its largest economy by GDP,
 - Most structured residency framework in Africa: dedicated investor (N3A–E), skilled (N4A), retirement (N5A/B) visas
 - Lagos is Africa's premier tech hub with vibrant startup ecosystem and large market
 - English is the official language — no language barrier
-- Investor visas range from small enterprise (N3A) to ultra-large (N3D, USD 10M+) with 6-year residence
+- Investor visas range from small enterprise (N3A) to ultra-large (N3D, USD 10,000,000+) with 6-year residence
 - Low personal income tax ceiling (24% top rate) compared to regional peers
 - Massive domestic market (~233M consumers) — unmatched business opportunity in Africa
 

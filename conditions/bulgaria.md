@@ -16,13 +16,13 @@ last_checked: 2026-10-12
 ---
 
 ## Overview
-Bulgaria is an EU member (since 2007), entered the Eurozone waiting room (ERM II) in 2020, and joined **full Schengen in January 2025**. It offers the EU's lowest income tax (10% flat) and cost of living. Residence routes: **Golden Visa by investment** (€512K fund → permanent residence; €312K property → temporary), **digital nomad visa** (launched Dec 2025), and standard work permits. Citizenship requires 5 years of permanent residence (or 3 years PR + Bulgarian origin). ^[https://www.bulgarian-citizenship.com/permanent-residence-in-bulgaria]
+Bulgaria is an EU member (since 2007), entered the Eurozone waiting room (ERM II) in 2020, and joined **full Schengen in January 2025**. It offers the EU's lowest income tax (10% flat) and cost of living. Residence routes: **Golden Visa by investment** (€512,000 fund → permanent residence; €312,000 property → temporary), **digital nomad visa** (launched Dec 2025), and standard work permits. Citizenship requires 5 years of permanent residence (or 3 years PR + Bulgarian origin). ^[https://www.bulgarian-citizenship.com/permanent-residence-in-bulgaria]
 
 ## Residency Programs
 
 | Type | Official Program | Key Conditions | Duration |
 |------|-----------------|----------------|----------|
-| [[investment-residency]] | Golden Visa (Art. 25 Foreigners Act) | €512K AIF/ETF fund → PR; €312K property → TR | TR or PR |
+| [[investment-residency]] | Golden Visa (Art. 25 Foreigners Act) | €512,000 AIF/ETF fund → PR; €312,000 property → TR | TR or PR |
 | [[passive-income-residency]] | Trade Representative Office / Pensioner D visa | Proof of sufficient passive funds | 1 year |
 | [[digital-nomad-visa]] | Digital Nomad Residence Permit (since Dec 2025) | ~€27,500/yr income; remote work non-EU | 1 year |
 | [[highly-skilled-employment]] | EU Blue Card (Синя карта) | University degree; job contract; salary threshold | ≤4 years |
@@ -87,7 +87,7 @@ Bulgaria launched its dedicated digital nomad visa in December 2025 — lowest i
 Black Sea coastline (Varna, Burgas). Danube River. Yacht registration under Bulgarian flag available. Growing marina infrastructure but not a premier yachting destination.
 
 ## Notes for RU Citizens
-Bulgaria is one of the most RU-friendly EU countries: Cyrillic alphabet, cultural/historical ties, significant Russian-speaking community (especially in coastal areas and Sofia). The Golden Visa fund route (€512K) is accessible. The new DN visa (€2,300/mo) is also open. Bulgarian language (Slavic) is relatively accessible for Russian speakers. Banking for RU nationals may face enhanced due diligence but is generally more accessible than in Western EU.
+Bulgaria is one of the most RU-friendly EU countries: Cyrillic alphabet, cultural/historical ties, significant Russian-speaking community (especially in coastal areas and Sofia). The Golden Visa fund route (€512,000) is accessible. The new DN visa (€2,300/mo) is also open. Bulgarian language (Slavic) is relatively accessible for Russian speakers. Banking for RU nationals may face enhanced due diligence but is generally more accessible than in Western EU.
 
 
 
@@ -184,7 +184,7 @@ Bulgaria is an EU member (since 2007) and full Schengen member since January 202
 ### Well-known strong points
 - Joint-lowest EU income tax (10% flat) and corporate tax (10%); 5% dividend tax
 - Fastest EU citizenship path: 5 years PR (via Golden Visa fund route)
-- Golden Visa fund route (€512K) grants immediate permanent residence from day one
+- Golden Visa fund route (€512,000) grants immediate permanent residence from day one
 - Digital Nomad visa with EU's lowest income threshold (~€2,300/month)
 - Lowest cost of living in the EU (65% below NYC); Sofia rent among Europe's cheapest
 - Cyrillic script and Slavic language — accessible for Russian/Ukrainian/Belarusian speakers
@@ -195,7 +195,7 @@ Bulgaria is an EU member (since 2007) and full Schengen member since January 202
 - Bulgarian language (Cyrillic alphabet) challenging for non-Slavic speakers; B1 required for citizenship
 - DN visa launched December 2025 — very limited track record; no PR path from DN alone
 - Dual citizenship for naturalized citizens may require renunciation
-- Golden Visa fund route (€512K) is more expensive than comparable programs
+- Golden Visa fund route (€512,000) is more expensive than comparable programs
 
 ## Status
 - **Last monitored**: 2026-10-12

@@ -86,7 +86,7 @@ Belgium is an EU/Schengen member hosting EU institutions (Brussels). Its immigra
 ## Tax
 - **Progressive income tax**: 25%–50% (plus municipal surcharge ~7%).
 - **Expat tax regime** *(new from 2025)*: non-resident taxation treatment; 30% of salary tax-free (capped at €90,000); employer-paid expenses (housing, school fees) excluded from taxable income; minimum salary €75,000 (or €57,000 for researchers). Replaced previous expat regime. ^[https://www.brusselstimes.be/1957907/belgium-relaxes-tax-regime-for-expats-what-changes]
-- **Corporate tax**: 25% (reduced 20% for SMEs on first €100K).
+- **Corporate tax**: 25% (reduced 20% for SMEs on first €100,000).
 - **No wealth tax**; capital gains on shares generally tax-free for private investors.
 - **Municipal tax**: varies by commune (~0–9% surcharge on income tax).
 
@@ -116,7 +116,7 @@ Belgium applies EU sanctions against Russia. Visa processing for Russian citizen
 | Median net monthly salary | ~€2,490 (~$2,700) | [Numbeo](https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=105) [soft/estimate] |
 | Cost of living index | 56.5 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~€850 (Brussels city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Belgium) [soft/estimate] |
-| Effective personal tax rate for remote workers | Progressive 25%–50% + municipal surcharge ~7%; expat regime: 30% tax-free up to €90K | See [[#tax]] [soft/estimate] |
+| Effective personal tax rate for remote workers | Progressive 25%–50% + municipal surcharge ~7%; expat regime: 30% tax-free up to €90,000 | See [[#tax]] [soft/estimate] |
 | Remote-work / self-employment residence available? | No — no digital nomad visa; Professional Card for self-employed | See [[#digital-nomad-visa]] |
 | Years to citizenship | 5 years | See [[#citizenship]] |
 | Maximum permitted absence during residence | Must maintain uninterrupted legal residence | See [[#citizenship]] |
@@ -196,7 +196,7 @@ Belgium is a small, wealthy Western European country hosting the EU and NATO hea
 ### Well-known strong points
 - EU/NATO institutional hub: excellent international environment and networking
 - Relatively fast citizenship: 5 years with dual citizenship permitted
-- Expat tax regime: 30% of salary tax-free (capped at €90K, new from 2025)
+- Expat tax regime: 30% of salary tax-free (capped at €90,000, new from 2025)
 - Strong passport (188 destinations) and high political freedom (FH 96/100)
 - Good work-life balance, excellent healthcare, and education
 - No wealth tax; capital gains on shares generally tax-free for private investors

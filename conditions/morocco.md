@@ -141,7 +141,7 @@ Morocco is not a "residency programme" country — it's a lifestyle destination 
 | Median net monthly salary | ~$350–$500 | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Morocco] [soft/estimate] |
 | Cost of living index | 25.2 (Numbeo, NYC=100) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Morocco] [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~$200–$400 (Casablanca city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Morocco] [soft/estimate] |
-| Effective personal tax rate for remote workers | ~10–38% (progressive; top bracket 38% above ~$18K) | ^[https://www.tax.gov.ma/] [soft/estimate] |
+| Effective personal tax rate for remote workers | ~10–38% (progressive; top bracket 38% above ~$18,000) | ^[https://www.tax.gov.ma/] [soft/estimate] |
 | Remote-work / self-employment residence available? | Partially — investor/self-employment residence; no dedicated DN visa yet (under discussion) | ^[https://www.igoc.gov.ma/] [soft/estimate] |
 | Years to citizenship | 5 years continuous residence; knowledge of Arabic; discretionary approval | ^[https://www.consulat.ma/] [soft/estimate] |
 | Maximum permitted absence during residence | Varies; generally 6 months | ^[https://www.igoc.gov.ma/] [soft/estimate] |

@@ -15,13 +15,13 @@ Income thresholds range from €920/mo (Portugal D7 — lowest in Western Europe
 
 ## Current State
 
-32 countries in the wiki offer passive income residence. Western Europe dominates: Portugal (D7), Spain (NLV), Italy (Elective), Greece (FIP), France (VLS-TS Visiteur) are the headline programs. Latin America offers alternatives at lower cost: Costa Rica Rentista, Panama Friendly Nations CD route, Ecuador Rentista. Ireland's Stamp 0 exists but requires €50K/yr + lump sum. Germany, Netherlands, and most Nordic countries do NOT offer this route.
+32 countries in the wiki offer passive income residence. Western Europe dominates: Portugal (D7), Spain (NLV), Italy (Elective), Greece (FIP), France (VLS-TS Visiteur) are the headline programs. Latin America offers alternatives at lower cost: Costa Rica Rentista, Panama Friendly Nations CD route, Ecuador Rentista. Ireland's Stamp 0 exists but requires €50,000/yr + lump sum. Germany, Netherlands, and most Nordic countries do NOT offer this route.
 
 ## Cross-Country Comparison
 
 | Country | Official Program | Key Threshold | Duration | Citizenship Path | Community Verdict |
 |---------|-----------------|---------------|----------|------------------|-------------------|
-| [[portugal]] | D7 Visa (Passive Income) | ≥€920/mo passive income; +50% spouse, +30% child; savings ~€11K | 2 yr → 3 yr; PR after 5 yr | 10 yr (7 EU/CPLP); A2 Portuguese | Works well — lowest EU threshold |
+| [[portugal]] | D7 Visa (Passive Income) | ≥€920/mo passive income; +50% spouse, +30% child; savings ~€11,000 | 2 yr → 3 yr; PR after 5 yr | 10 yr (7 EU/CPLP); A2 Portuguese | Works well — lowest EU threshold |
 | [[spain]] | Non-Lucrative Visa (NLV) | ≥400% IPREM (~€2,400/mo; €28,800/yr); +100% IPREM/dependent | 1 yr → 2 yr; PR after 5 yr | 10 yr; DELE A2 + CCSE | Works well — strict "no work" rule |
 | [[italy]] | Elective Residence Visa | ≥€31,000/yr passive income; +~20% spouse; Italian accommodation; no work | 1 yr, renewable; PR after 5 yr | 10 yr; B1 Italian | Mixed — consular expectations exceed minimum |
 | [[greece]] | Financially Independent Person (FIP) | ≥€2,000/mo passive income; +20%/dependent | 2 yr, renewable | 7 yr (183 days/yr presence) | Works well |

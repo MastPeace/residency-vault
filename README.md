@@ -59,7 +59,7 @@ and deploys it to GitHub Pages. No manual build step required.
 
 **URL:** [https://mastpeace.github.io/residency-vault/](https://mastpeace.github.io/residency-vault/)
 
-The site features: light/dark theme, filterable and sortable country table, Ctrl/Cmd+K search, per-page TOC,
+The site features: light/dark theme, filterable and sortable country table (with optional structured-fact columns from `data/facts.json`), separate Countries/Programs/Glossary pages, Ctrl/Cmd+K search, per-page TOC,
 concept pages, wikilink-aware internal linking, footnotes, and responsive layout.
 
 ---

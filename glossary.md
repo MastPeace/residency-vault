@@ -13,6 +13,16 @@ Every country page has a header with key facts, a monitoring panel, the conditio
 | Passport | Passport strength: the number of destinations a holder of that country's passport can enter visa-free (a Henley-type visa-free count). It describes the passport you would get after naturalisation, not the one you hold now. |
 | Confidence | How well the page is backed by sources (see **Confidence** below). |
 
+## More columns
+
+Press **More columns** above the country table to show these. They are extracted from the country pages into `data/facts.json`; every value keeps the quote it came from (hover a value to see it) and is dropped if the quote cannot be found on the page.
+
+| Column | Meaning |
+|---|---|
+| Investment from | The cheapest qualifying amount of the country's investment-residency route (Golden Visa style: property, fund, business or deposit), in the currency the page states. Empty means the route is closed, absent or has no stated amount. Sorting converts currencies at approximate fixed rates; the displayed amount is never converted. |
+| Remote visa | Whether a digital-nomad or remote-work residence exists, with the headline income requirement per month or year. `No` means the page says there is none; empty means the page does not say. |
+| Remote tax | Effective personal income tax range for a remote worker, in percent. Indicative only: real tax depends on residency days, regime and income. |
+
 ## Confidence
 
 - **High**: key facts are confirmed by official or authoritative sources.

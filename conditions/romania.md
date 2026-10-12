@@ -128,10 +128,10 @@ Romania is an EU member (since 2007) and full Schengen member since January 2025
 - DN visa max 36 months total — no direct path to permanent residence
 - Citizenship requires permanent residence status (mandatory since 2025 law) plus B1 Romanian
 - Freedom House score declining (82 in 2025, down from 83); corruption remains a concern
-- Proposed Golden Visa (€400K) not yet enacted — no passive-investment residency route
+- Proposed Golden Visa (€400,000) not yet enacted — no passive-investment residency route
 - Limited yachting infrastructure on the Black Sea; not a premier maritime destination
 
 ## Status
 - **Last monitored**: 2026-10-12
-- **Recent changes**: Golden Visa (€400K) proposed, not enacted. Full Schengen since Jan 2025. 2025 citizenship law: permanent residence mandatory before citizenship.
+- **Recent changes**: Golden Visa (€400,000) proposed, not enacted. Full Schengen since Jan 2025. 2025 citizenship law: permanent residence mandatory before citizenship.
 - **Watch items**: Track Golden Visa legislation progress. Monitor any DN visa threshold changes.

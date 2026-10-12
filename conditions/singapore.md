@@ -27,7 +27,7 @@ Singapore has one of the world's strongest passports (#1 in many rankings). It i
 
 **ICA assessment factors**: family ties to Singaporeans, economic contributions, qualifications, age, family profile, and length of residency. Unlike most [[investment-residency|golden visa]] programmes, Singapore's GIP grants PR directly. No guaranteed approval — ICA's decision is discretionary. ^[https://www.eh-immigration.com/articles/pr-requirements-in-singapore-2026]
 
-**Global Investor Programme (GIP)**: minimum SGD 10M investment in a new or existing business, or SGD 25M in a GIP-approved fund. Grants PR directly.
+**Global Investor Programme (GIP)**: minimum SGD 10,000,000 investment in a new or existing business, or SGD 25,000,000 in a GIP-approved fund. Grants PR directly.
 
 **Other permits**: Employment Pass (EP), S Pass, EntrePass (entrepreneurs), Tech.Pass (top-tier tech talent).
 
@@ -40,7 +40,7 @@ Singapore has one of the world's strongest passports (#1 in many rankings). It i
 - Processing: ~12 months after submission
 
 ## Tax
-Progressive income tax: 0%–24% (top rate above SGD 1M). Corporate tax: 17%. No capital gains tax. No wealth tax. No inheritance tax. Extensive double taxation treaty network. Singapore is a premier low-tax jurisdiction globally.
+Progressive income tax: 0%–24% (top rate above SGD 1,000,000). Corporate tax: 17%. No capital gains tax. No wealth tax. No inheritance tax. Extensive double taxation treaty network. Singapore is a premier low-tax jurisdiction globally.
 
 ## IT / Digital Nomad
 Singapore does not have a dedicated [[digital-nomad-visa|digital nomad visa]] visa, but the Tech.Pass offers a route for top-tier tech talent (founders, CTOs, senior engineers) — 2-year pass allowing employment with multiple companies, consulting, and starting businesses. The general tech ecosystem is world-class with extensive startup support.
@@ -49,7 +49,7 @@ Singapore does not have a dedicated [[digital-nomad-visa|digital nomad visa]] vi
 Singapore is one of the world's busiest ports and a major maritime hub. ONE°15 Marina Sentosa Cove is a world-class yacht club. Yacht registration under the Singapore flag is available. Recognized maritime and captain licensing. Singapore's strategic location makes it a prime base for Southeast Asian cruising.
 
 ## Notes for RU citizens
-Singapore maintains sanctions against Russia. The visa and PR application environment for Russian nationals is difficult due to geopolitical factors and enhanced bank due diligence. The discretionary nature of PR approval makes outcomes unpredictable. The ban on dual citizenship is a major barrier. Singapore has a small Russian-speaking expat community. The GIP route (SGD 10M+) is theoretically open but practically challenging for RU nationals.
+Singapore maintains sanctions against Russia. The visa and PR application environment for Russian nationals is difficult due to geopolitical factors and enhanced bank due diligence. The discretionary nature of PR approval makes outcomes unpredictable. The ban on dual citizenship is a major barrier. Singapore has a small Russian-speaking expat community. The GIP route (SGD 10,000,000+) is theoretically open but practically challenging for RU nationals.
 
 ## Country Snapshot
 
@@ -65,7 +65,7 @@ Singapore maintains sanctions against Russia. The visa and PR application enviro
 | Median net monthly salary | ~SG $5,500–7,000/mo net (~$4,100–5,200 USD) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Singapore) [soft/estimate] |
 | Cost of living index (relatve) | 79.1 (NYC=100, Numbeo 2025) — among the world's highest | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~SG $3,500–4,500/mo (city centre, 1-bed) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Singapore) [soft/estimate] |
-| Effectve personal tax rate for remote workers | ~0–24% progressive (top rate above SG $1M); effective ~5–15% for mid-incomes — among the world's lowest | [IRAS](https://www.iras.gv.sg/) [soft/estimate] |
+| Effectve personal tax rate for remote workers | ~0–24% progressive (top rate above SG $1,000,000); effective ~5–15% for mid-incomes — among the world's lowest | [IRAS](https://www.iras.gv.sg/) [soft/estimate] |
 | Remote-work / self-employment residence available? | No — no dedicated digital nomad visa; Tech.Pass for top-tier tech talent (founders, CTOs) | See relevant residency section |
 | Years to citizenship | 2+ years as PR + application (~12 months processing); total ~3 years minimum, typically longer | See [[#citizenship]] |
 | Maximum permitted absence during residence | PR renewal discretionary; long absence risks non-renewal | See residency program sections |
@@ -79,14 +79,14 @@ Singapore maintains sanctions against Russia. The visa and PR application enviro
 ## Country Card
 
 ### General description
-Singapore is a city-state and global financial hub with the world's strongest passport (192 visa-free), ultra-high GDP per capita (~$153K PPP), and one of the most business-friendly environments globally. Permanent Residence (PR) is granted by discretionary government application (~40,000/year target), not by meeting fixed criteria — the Global Investor Programme (GIP, SG $10M+) is the only investment route. Citizenship requires 2+ years of PR and comes with the world's strongest passport, but dual citizenship is not permitted and male citizens/PRs face mandatory National Service. Singapore has among the world's lowest personal taxes but also among the highest costs of living.
+Singapore is a city-state and global financial hub with the world's strongest passport (192 visa-free), ultra-high GDP per capita (~$153,000 PPP), and one of the most business-friendly environments globally. Permanent Residence (PR) is granted by discretionary government application (~40,000/year target), not by meeting fixed criteria — the Global Investor Programme (GIP, SG $10,000,000+) is the only investment route. Citizenship requires 2+ years of PR and comes with the world's strongest passport, but dual citizenship is not permitted and male citizens/PRs face mandatory National Service. Singapore has among the world's lowest personal taxes but also among the highest costs of living.
 
 ### Well-known strong points
 - World's strongest passport: 192 visa-free destinations (Henley rank 1)
 - Ultra-low taxes: 0–24% progressive with no capital gains tax, no wealth tax, no inheritance tax
 - WJP Rule of Law 0.92 (rank 16 globally); near-zero corruption; excellent public safety
 - Global financial hub with world-class infrastructure, healthcare, education, and connectivity
-- Global Investor Programme (GIP): SG $10M investment grants PR directly
+- Global Investor Programme (GIP): SG $10,000,000 investment grants PR directly
 - Strategic location: 6–8 hour flight radius covers all of Asia-Pacific; major aviation hub
 
 ### Well-known problems

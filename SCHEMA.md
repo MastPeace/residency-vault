@@ -231,3 +231,8 @@ Immutable web extracts in `raw/articles/` with frontmatter (source_url, ingested
 
 ## Weekly Alert (alerts/YYYY-MM-DD.md)
 Deltas only: Changed / New / Unchanged(count) / Discovered-countries / validation status.
+
+## Number format (site tables depend on it)
+Write amounts and durations as digits with the currency: `€250,000`, `USD 1,500,000`, `5 years` — never `€250K`, `$1.5M` or `five years`.
+`scripts/normalize_numbers.py` rewrites shorthand idempotently; `scripts/extract_facts.py` then refreshes `data/facts.json`
+(investment minimum, remote-work visa, remote tax) for changed pages, each fact with a verbatim evidence quote.

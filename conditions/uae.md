@@ -21,15 +21,15 @@ The UAE operates the region's most comprehensive [[investment-residency|golden v
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Golden Visa — Investor | AED 2M+ public investment / real estate | 5 or 10 years | [[#golden-visa-investor]] |
+| investment_residency | Golden Visa — Investor | AED 2,000,000+ public investment / real estate | 5 or 10 years | [[#golden-visa-investor]] |
 | passive_income_residency | Not available | — | — | — |
 | digital_nomad_visa | Virtual Work Programme | $3,500/mo income, foreign employer | 1 year, renewable | [[#virtual-work-programme]] |
 | highly_skilled_employment | Golden Visa — Exceptional Talent | PhD, doctors, scientists, executives, recommendation letter | 10 years | [[#golden-visa-talent]] |
-| startup_entrepreneur | Golden Visa — Entrepreneur | AED 500K+ project, innovation-based | 5 years | [[#golden-visa-entrepreneur]] |
+| startup_entrepreneur | Golden Visa — Entrepreneur | AED 500,000+ project, innovation-based | 5 years | [[#golden-visa-entrepreneur]] |
 | employment_residency | Standard Employment Visa | Employer-sponsored, MoHRE labour contract | 2–3 years | [[#employment-residency]] |
 | student_residency | Golden Visa — Outstanding Students | Top GPA, UAE or top-100 university | 5–10 years | [[#golden-visa-student]] |
 | family_reunification | Family sponsorship | Sponsor must hold valid residence | Tied to sponsor | [[#family-reunification]] |
-| retired_residency | Retirement Visa | AED 20K/mo income OR AED 1M savings OR AED 2M property; age 55+ | 5 years, renewable | [[#retirement-visa]] |
+| retired_residency | Retirement Visa | AED 20,000/mo income OR AED 1,000,000 savings OR AED 2,000,000 property; age 55+ | 5 years, renewable | [[#retirement-visa]] |
 | citizenship_by_investment | Not available | No pathway for expatriates | N/A | [[#citizenship]] |
 
 ## Per-Program Detail
@@ -92,7 +92,7 @@ The UAE operates the region's most comprehensive [[investment-residency|golden v
 
 ### Retirement Visa
 - **Official name**: Retirement Visa (Abu Dhabi/Dubai)
-- **Conditions**: Age 55+. EITHER AED 20,000/mo income, OR AED 1M in savings, OR AED 2M property. Valid health insurance.
+- **Conditions**: Age 55+. EITHER AED 20,000/mo income, OR AED 1,000,000 in savings, OR AED 2,000,000 property. Valid health insurance.
 - **Duration / renewal**: 5 years, renewable.
 - **Path to citizenship**: None.
 - **Official source**: https://www.added.gov.ae/en/live/long-term-residency/abu-dhabi-non-work-visa/for-retirement-visa
@@ -136,7 +136,7 @@ The UAE is the #1 destination for Russian HNWI, entrepreneurs, and IT profession
 - **No sanctions**, accessible banking (though enhanced compliance since 2023).
 - **0% tax**, direct flights to Moscow/SPB/regions.
 - **Large Russian-speaking community** — Dubai Marina, JLT, Palm Jumeirah, Business Bay.
-- **Golden Visa accessible** — AED 2M property route is the most common entry path for Russian nationals.
+- **Golden Visa accessible** — AED 2,000,000 property route is the most common entry path for Russian nationals.
 - Russian capital inflows have significantly impacted Dubai real estate since 2022; market has adjusted but remains accessible.
 - UAE banks have tightened KYC for Russian nationals; corporate accounts require substance and clean source-of-funds documentation.
 
@@ -229,7 +229,7 @@ _Coverage: 50/55 fields. Only facts verifiable against official sources or publi
 | Money & tax | Wealth / inheritance / CGT | No personal income tax, no wealth tax, no inheritance tax, no CGT for individuals (except 9% corporate tax from 2023) | [source](https://taxsummaries.pwc.com/united-arab-emirates) — soft/estimate |
 | Money & tax | CFC rules | No CFC rules for individuals; 9% CIT from Jun 2023 applies to onshore businesses only | [source](https://taxsummaries.pwc.com/united-arab-emirates) — soft/estimate |
 | Business | Company setup | 1-5 days in free zones (~$5,000-$15,000/year including license); mainland 2-4 weeks; World Bank Ease of Doing Business 2020: rank 16 | [source](https://www.doingbusiness.org/en/data/exploreeconomies/united-arab-emirates) — soft/estimate |
-| Business | Corporate tax | 9% federal CIT (from June 2023, on profits above AED 375k); 0% in many free zones; 0% personal income tax | [source](https://taxsummaries.pwc.com/united-arab-emirates) — soft/estimate |
+| Business | Corporate tax | 9% federal CIT (from June 2023, on profits above AED 375,000); 0% in many free zones; 0% personal income tax | [source](https://taxsummaries.pwc.com/united-arab-emirates) — soft/estimate |
 | Family & education | Top university | Khalifa University; QS World 2026 rank ~200 | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
 | Connectivity | Visa-free for Russians | Visa-free for Russian citizens (30 days, extendable); e-visa also available for longer stays | unsourced/unverified |
 | For Russian citizens | Sanctions position | UAE has not imposed sanctions on Russia; neutral stance; trade/financial intermediary; some Western pressure to close loopholes | [source](https://www.reuters.com/world/middle-east/uae-tightens-scrutiny-russian-funds-2024/) — soft/estimate |

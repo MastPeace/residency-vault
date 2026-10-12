@@ -16,21 +16,21 @@ last_checked: 2026-10-12
 ---
 
 ## Overview
-The Cayman Islands is a British Overseas Territory and one of the world's leading offshore financial centres. It imposes **zero direct taxation** (no income, capital gains, corporate, property, or inheritance tax). There is no citizenship-by-investment programme, but a "Person of Independent Means" certificate grants residence for a substantial investment, and permanent residence (with a points system) is available after eight years' lawful residence. ^[https://www.oecd.org/content/dam/oecd/en/topics/policy-issue-focus/aeoi/cayman_tax_residency.pdf]
+The Cayman Islands is a British Overseas Territory and one of the world's leading offshore financial centres. It imposes **zero direct taxation** (no income, capital gains, corporate, property, or inheritance tax). There is no citizenship-by-investment programme, but a "Person of Independent Means" certificate grants residence for a substantial investment, and permanent residence (with a points system) is available after 8 years' lawful residence. ^[https://www.oecd.org/content/dam/oecd/en/topics/policy-issue-focus/aeoi/cayman_tax_residency.pdf]
 
 ## Residency Programs
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Certificate of Permanent Residence (Independent Means) | CI$2,000,000 (~US$2.44M) in developed real estate | Lifetime | [[#investment-residency]] |
-| passive_income_residency | Residency Certificate (Independent Means) | CI$1.2M invested + CI$120,000/yr income | 25 yr, renewable | [[#passive-income-residency]] |
+| investment_residency | Certificate of Permanent Residence (Independent Means) | CI$2,000,000 (~US$2,440,000) in developed real estate | Lifetime | [[#investment-residency]] |
+| passive_income_residency | Residency Certificate (Independent Means) | CI$1,200,000 invested + CI$120,000/yr income | 25 yr, renewable | [[#passive-income-residency]] |
 | digital_nomad_visa | Global Citizen Concierge | Remote worker earning ≥US$100,000/yr | 2 yr | [[#digital-nomad-visa]] |
 | highly_skilled_employment | Work permit | Job offer; employer-sponsored | Tied to job | — |
 | startup_entrepreneur | Not available | — | — | — |
 | employment_residency | Work permit | Job offer; 8 yrs residence → PR points system | Tied to job | [[#employment-residency]] |
 | student_residency | Student permit | Enrollment at local institution | Course duration | — |
 | family_reunification | Dependent permit | Sponsor with valid permit | Aligned with sponsor | — |
-| retired_residency | Residency Certificate (Independent Means) | CI$1.2M + income (see passive route) | 25 yr | [[#passive-income-residency]] |
+| retired_residency | Residency Certificate (Independent Means) | CI$1,200,000 + income (see passive route) | 25 yr | [[#passive-income-residency]] |
 | citizenship_by_investment | Not available | — | — | — |
 
 ## Per-Program Detail
@@ -80,10 +80,10 @@ The Global Citizen Concierge (see above) is Cayman's only remote-work route. Oth
 Cayman is a major yacht-registration flag (Cayman Islands Shipping Registry, part of the UK Red Ensign group). George Town is a yachting and offshore-finance hub.
 
 ## Notes for RU Citizens
-No CBI; all routes require substantial capital (CI$1.2M+ for Independent Means) or a sponsored job. 0% tax is the main draw. Enhanced compliance/source-of-funds scrutiny applies in this financial centre.
+No CBI; all routes require substantial capital (CI$1,200,000+ for Independent Means) or a sponsored job. 0% tax is the main draw. Enhanced compliance/source-of-funds scrutiny applies in this financial centre.
 
 ## Community Pulse
-Expat finance workers and wealthy retirees dominate discussion: the zero-tax environment and rule-of-law stability are praised; the 8-year work-permit clock and CI$1.2M+ Independent Means threshold are the main barriers. Cost of living is very high.
+Expat finance workers and wealthy retirees dominate discussion: the zero-tax environment and rule-of-law stability are praised; the 8-year work-permit clock and CI$1,200,000+ Independent Means threshold are the main barriers. Cost of living is very high.
 
 ## Country Snapshot
 
@@ -100,7 +100,7 @@ Expat finance workers and wealthy retirees dominate discussion: the zero-tax env
 | Cost of living index | No recent data (very high) | [soft/estimate] low |
 | Monthly rent, 1-bedroom apartment | No recent data | [soft/estimate] low |
 | Effective personal tax rate for remote workers | 0% | See [[#tax]] [soft/estimate] |
-| Remote-work / self-employment residence available? | Yes — Global Citizen Concierge (US$100k/yr) | See [[#digital-nomad-visa]] |
+| Remote-work / self-employment residence available? | Yes — Global Citizen Concierge (US$100,000/yr) | See [[#digital-nomad-visa]] |
 | Years to citizenship | ~5 yrs residence for BOTC (15 for Caymanian status) | See [[#citizenship]] |
 | Maximum permitted absence during residence | 90 days/yr for Independent Means | See [[#passive-income-residency]] |
 | Passport strength after citizenship | British/BOTC passport ~182 destinations | [Henley & Partners](https://cdn.henleyglobal.com/storage/app/media/HPI/Henley%20Passport%20Index%202026%20October%20Global%20Ranking.pdf) hard/official |
@@ -184,7 +184,7 @@ The Cayman Islands is a wealthy British Overseas Territory and a top-five global
 
 ### Well-known problems
 - Very high cost of living and property prices
-- High residency thresholds (CI$1.2M–2M) and 8-year PR clock
+- High residency thresholds (CI$1,200,000–2,000,000) and 8-year PR clock
 - Work-permit term limits; no general self-employment right
 - Hurricane exposure
 

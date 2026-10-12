@@ -21,11 +21,11 @@ Mauritius is a premier Indian Ocean relocation destination with one of Africa's 
 
 | Type | Official Program | Key Conditions | Duration | Citizenship Path |
 |------|-----------------|----------------|----------|------------------|
-| investment_residency | Occupation Permit — Investor | USD 100,000 initial investment; MUR 5M turnover from yr 3 ^[https://residency.mu/invest/investment-of-usd-50000] | 10 years, renewable | PR after 5 yrs; citizenship after 5–7 yrs ^[https://dha.govmu.org/Documents/services/MAURITIUS%20CITIZENSHIP%20ACT(2).pdf] |
+| investment_residency | Occupation Permit — Investor | USD 100,000 initial investment; MUR 5,000,000 turnover from yr 3 ^[https://residency.mu/invest/investment-of-usd-50000] | 10 years, renewable | PR after 5 yrs; citizenship after 5–7 yrs ^[https://dha.govmu.org/Documents/services/MAURITIUS%20CITIZENSHIP%20ACT(2).pdf] |
 | passive_income_residency | Not available | — | — | — |
 | digital_nomad_visa | Premium Visa | USD 1,500/mo income (main), USD 500/mo (dependent child); no local work ^[https://passport.govmu.org/passport?page_id=595] | 1 year, renewable | Does NOT count toward PR/citizenship ^[https://edbmauritius.org] |
-| highly_skilled_employment | Occupation Permit — Professional | MUR 50,000/mo basic salary (all sectors, harmonised) ^[https://edbmauritius.org/newsletter-july-2026-op] | Max 3 years (employment duration), renewable | PR after 5 yrs with MUR 400K/mo salary ^[https://assets.kpmg.com/content/dam/kpmgsites/za/pdf/2025/Tax%20Alert%2095.pdf] |
-| startup_entrepreneur | Occupation Permit — Self-Employed | USD 50,000 initial; MUR 2M income from yr 3 ^[https://passport.govmu.org/passport?mdocs-file=887] | 10 years, renewable | PR after 5 yrs; MUR 3M/yr income required ^[https://passport.govmu.org/passport?page_id=626] |
+| highly_skilled_employment | Occupation Permit — Professional | MUR 50,000/mo basic salary (all sectors, harmonised) ^[https://edbmauritius.org/newsletter-july-2026-op] | Max 3 years (employment duration), renewable | PR after 5 yrs with MUR 400,000/mo salary ^[https://assets.kpmg.com/content/dam/kpmgsites/za/pdf/2025/Tax%20Alert%2095.pdf] |
+| startup_entrepreneur | Occupation Permit — Self-Employed | USD 50,000 initial; MUR 2,000,000 income from yr 3 ^[https://passport.govmu.org/passport?mdocs-file=887] | 10 years, renewable | PR after 5 yrs; MUR 3,000,000/yr income required ^[https://passport.govmu.org/passport?page_id=626] |
 | employment_residency | Occupation Permit — Professional (employer-sponsored) | MUR 50,000/mo; employer sponsorship ^[https://edbmauritius.org] | Max 3 years, renewable | PR after 5 yrs on OP |
 | student_residency | Student Visa / Residence Permit | Enrolment at recognised institution | Course duration | Does not count toward PR (unless converted) |
 | family_reunification | Dependent Residence Permit | Tied to principal OP/RP holder's validity | Same as principal | Linked to principal's path |
@@ -36,9 +36,9 @@ Mauritius is a premier Indian Ocean relocation destination with one of Africa's 
 
 ### investment_residency — Occupation Permit (Investor)
 - **Official name**: Occupation Permit — Investor
-- **Conditions**: USD 100,000 initial investment (of which min USD 25,000 transferred to MAU company account; remainder in equipment/R&D). MUR 5M turnover from year 3, MUR 8M from year 5 for renewal. ^[https://edbmauritius.org/newsletter-july-2026-op]
+- **Conditions**: USD 100,000 initial investment (of which min USD 25,000 transferred to MAU company account; remainder in equipment/R&D). MUR 5,000,000 turnover from year 3, MUR 8,000,000 from year 5 for renewal. ^[https://edbmauritius.org/newsletter-july-2026-op]
 - **Duration**: 10 years, renewable with turnover compliance.
-- **Path to citizenship**: Permanent Residence Permit (20-year) after 5 years on OP with MUR 15M annual turnover or MUR 75M over 5 years. Citizenship via naturalisation: 12 months continuous + 5/7 years aggregate residence. USD 500K investment reduces to 2 years continuous residence. ^[https://dha.govmu.org/Documents/services/MAURITIUS%20CITIZENSHIP%20ACT(2).pdf]
+- **Path to citizenship**: Permanent Residence Permit (20-year) after 5 years on OP with MUR 15,000,000 annual turnover or MUR 75,000,000 over 5 years. Citizenship via naturalisation: 12 months continuous + 5/7 years aggregate residence. USD 500,000 investment reduces to 2 years continuous residence. ^[https://dha.govmu.org/Documents/services/MAURITIUS%20CITIZENSHIP%20ACT(2).pdf]
 - **Official source**: https://passport.govmu.org/passport?page_id=626
 - **Community verdict**: Mixed — established framework but frequent threshold revisions (2025 Finance Act raised salary/turnover requirements significantly); bureaucracy manageable via agencies. Source: expat forums, KPMG alerts.
 
@@ -89,7 +89,7 @@ Mauritius offers visa-free entry for 90 days for Russian citizens (visa-waiver e
 
 ## Status
 - **Last monitored**: 2026-10-12
-- **Recent changes**: Finance Act 2025 raised OP salary thresholds (Investor USD 100K, Professional MUR 50K, PR requirement extended from 3 to 5 years on OP/RP). Premium Visa fee remains zero. Property tax for non-citizens rose from 5% to 10% effective July 2026.
+- **Recent changes**: Finance Act 2025 raised OP salary thresholds (Investor USD 100,000, Professional MUR 50,000, PR requirement extended from 3 to 5 years on OP/RP). Premium Visa fee remains zero. Property tax for non-citizens rose from 5% to 10% effective July 2026.
 - **Watch items**: Track PR threshold changes. Monitor Premium Visa path to residence discussions.
 
 ## Country Snapshot
@@ -131,7 +131,7 @@ Mauritius is the premier Indian Ocean relocation destination, a stable democracy
 ### Well-known problems
 - Premium Visa time does NOT count toward PR or citizenship — must switch to OP/RP
 - Dual citizenship restricted for naturalised persons (deprivation risk if abroad 5+ years)
-- 2025 Finance Act raised thresholds significantly (OP salary MUR 50K, PR MUR 400K)
+- 2025 Finance Act raised thresholds significantly (OP salary MUR 50,000, PR MUR 400,000)
 - High property prices in expat areas; non-citizen property tax rose from 5% to 10% (July 2026)
 - Small island economy — limited career opportunities outside finance/tourism
 - Cyclone risk during summer (November–April)

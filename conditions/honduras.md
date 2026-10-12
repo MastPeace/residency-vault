@@ -39,7 +39,7 @@ Honduras offers two income-based permanent residence routes: the Rentista (US$2,
 - **Duration / renewal**: PERMANENT residence directly (recognized under Immigration and Foreigners Law rentier category). Maintain by visiting Honduras at least once per year (1 day sufficient). Absence over 12 consecutive months breaks residency.
 - **Path to citizenship**: 5 years continuous legal residence (3 years for Central Americans and Spaniards; 1 year for spouses of Hondurans). ^[https://mylatinlife.com/honduras-citizenship-naturalization]
 - **Official source**: https://inm.gob.hn (Instituto Nacional de Migración)
-- **Community verdict**: Works well (permanent residence directly; ~$2.5K threshold is moderate; minimal presence; popular with expats seeking territorial tax + low-key lifestyle).
+- **Community verdict**: Works well (permanent residence directly; ~$2,500 threshold is moderate; minimal presence; popular with expats seeking territorial tax + low-key lifestyle).
 
 ### retired_residency
 - **Official name**: Residencia de Pensionado (retiree permanent residence)
@@ -63,7 +63,7 @@ Honduras offers two income-based permanent residence routes: the Rentista (US$2,
 - **Duration / renewal**: Permanent-path residency.
 - **Path to citizenship**: 5 years (3 Central American/Spanish; 1 spouse).
 - **Official source**: https://inm.gob.hn
-- **Community verdict**: Mixed (low threshold of $50K but operational complexity in practice).
+- **Community verdict**: Mixed (low threshold of $50,000 but operational complexity in practice).
 
 ## Citizenship
 - **By naturalization**: 5 years continuous legal residence for most foreign nationals; 3 years for citizens of other Central American countries + Spain; 1 year for spouses of Honduran citizens. ^[https://mylatinlife.com/honduras-citizenship-naturalization]
@@ -78,7 +78,7 @@ Honduras offers two income-based permanent residence routes: the Rentista (US$2,
 - No digital nomad tax regime.
 
 ## IT / Digital Nomad
-Not available — no dedicated digital nomad visa. Remote workers with foreign income often qualify for Rentista (if income ≥$2.5K/mo) or operate informally via tourist visas (90 days + 30-day extension). Honduras does not formally forbid or tax remote foreign work within the territory, but no specific framework exists. ^[https://thelatinvestor.com/blogs/news/honduras-expat-guide]
+Not available — no dedicated digital nomad visa. Remote workers with foreign income often qualify for Rentista (if income ≥$2,500/mo) or operate informally via tourist visas (90 days + 30-day extension). Honduras does not formally forbid or tax remote foreign work within the territory, but no specific framework exists. ^[https://thelatinvestor.com/blogs/news/honduras-expat-guide]
 
 ## Yacht / Maritime
 Honduras has an international ship registry. Roatán (Bay Islands) is a modest Caribbean sailing destination. Yacht registration possible. No dedicated yacht-residence programme.
