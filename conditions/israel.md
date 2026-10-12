@@ -2,6 +2,7 @@
 title: Israel — State of Israel
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, digital_nomad_visa, tax, popular_ru]
 category: it_friendly
@@ -157,6 +158,68 @@ Israel is fundamentally a Jewish immigration country (Law of Return). For eligib
 | Freedom House score | 73/100 — Free (2025) | ^[https://freedomhouse.org/country/israel/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~3,300 | ^[https://weatherspark.com/countries/IL] hard/official |
 | Average annual temperature | ~20°C (Mediterranean coastal) | ^[https://weatherspark.com/countries/IL] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 22 070 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=IL) — hard/official |
+| Geography & size | Population density | 462 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=IL) — hard/official |
+| Geography & size | Urban population | 92% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=IL) — hard/official |
+| Geography & size | Coastline | 273 km | [source](https://en.wikipedia.org/wiki/Geography_of_Israel) — soft/estimate |
+| Geography & size | Highest point | Mount Hermon, 2,224 m (Israeli-controlled); Mount Meron 1,208 m (internationally recognized) | [source](https://en.wikipedia.org/wiki/Geography_of_Israel) — soft/estimate |
+| Geography & size | Type | mainland (coastal) | [source](https://en.wikipedia.org/wiki/Israel) — soft/estimate |
+| Geography & size | Time zone | UTC+2 (IST) / UTC+3 (IDT summer), Moscow -1h/0h | [source](https://www.timeanddate.com/time/zone/israel) — soft/estimate |
+| Climate | Avg precipitation | 435 mm/yr (2021) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=IL) — hard/official |
+| Climate | PM2.5 exposure | 21.9 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=IL) — hard/official |
+| Climate | Climate zone | Csa (hot-summer Mediterranean, Tel Aviv); BSh (hot semi-arid, Jerusalem) | [source](https://weatherspark.com/countries/IL) — soft/estimate |
+| Climate | Temp winter / summer | Tel Aviv: Jan avg 17°C, Aug avg 32°C | [source](https://temperatures.com/weather/tel-aviv/climate) — soft/estimate |
+| Climate | Rainy days | Tel Aviv: ~53 rainy days/year | [source](https://temperatures.com/weather/jerusalem/climate) — soft/estimate |
+| Climate | Humidity | Tel Aviv: ~70% average annual relative humidity | [source](https://weatherspark.com/countries/IL) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, droughts, sandstorms; INFORM Risk Index 2024 rank 122 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5: 20.8 μg/m³ (IQAir 2023) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $610.8B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IL) — hard/official |
+| Economy | GDP growth | 2.9% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=IL) — hard/official |
+| Economy | Inflation (CPI) | 3.0% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IL) — hard/official |
+| Economy | Unemployment | 3.5% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=IL) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 38.3 (2022) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=IL) — hard/official |
+| Economy | Tourism receipts | 2% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=IL) — hard/official |
+| Economy | Remittances | 0.2% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=IL) — hard/official |
+| Economy | Credit rating | S&P: A (negative), Moody's: Baa1 (negative), Fitch: A (negative) (2024-2025) | [source](https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/13487004) — hard/official |
+| Economy | Currency | ILS, managed float; ~-8% vs USD over 5 years (2021-2026) | [source](https://www.xe.com/currencycharts/?from=USD&to=ILS) — soft/estimate |
+| Economy | Top industries | High-tech & IT ~20%, Manufacturing ~15%, Financial services ~12% of GDP | [source](https://www.cbs.gov.il/) — soft/estimate |
+| Economy | Economic Complexity | ECI 1.20, rank 21 of 133 (2023) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_economic_complexity) — soft/estimate |
+| Technology | Internet users | 88% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=IL) — hard/official |
+| Technology | Fixed broadband subs | 29.2 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=IL) — hard/official |
+| Technology | High-tech exports | 37.2% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=IL) — hard/official |
+| Technology | R&D spend | 6.35% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=IL) — hard/official |
+| Technology | Global Innovation Index | 14th of 139 (GII 2025) | [source](https://www.wipo.int/edocs/gii-ranking/2025/il.pdf) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.8971, rank 29 of 193 (UN 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/84-Israel) — hard/official |
+| Technology | Median broadband speed | Median fixed broadband: 388.10 Mbps (Ookla Aug 2026) | [source](https://www.speedtest.net/global-index/israel) — hard/official |
+| Technology | 5G | 5G launched Sep 2020; ~95% population coverage (2025) | [source](https://www.gov.il/en/departments/ministry_of_communications) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank 3 globally (2025) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 83.2 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=IL) — hard/official |
+| Human development & health | Hospital beds | 3.1 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=IL) — hard/official |
+| Human development & health | HDI | HDI 0.915, rank 25 of 193 (2023/24) | [source](https://hdr.undp.org/system/files/documents/global-report-document/hdr2023-24snapshoten.pdf) — hard/official |
+| Safety | Global Peace Index | GPI rank 153, score 3.268 (2026) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 3: Reconsider Travel (Aug 2026) | [source](https://travel.state.gov/content/travel/en/international-travel/travel-advisories.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; CGT 25% (plus surtax) | [source](https://taxsummaries.pwc.com/israel) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply | [source](https://taxsummaries.pwc.com/israel) — soft/estimate |
+| Business | Company setup | ~11 days, cost ~2.7% of GNI per capita (DB 2020) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/israel) — soft/estimate |
+| Business | Corporate tax | 23% headline rate (2025) | [source](https://taxsummaries.pwc.com/israel) — soft/estimate |
+| Family & education | Top university | Hebrew University of Jerusalem, QS rank 251 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | ETA-IL required from Jan 2025; Russians need pre-approval (visa-free entry suspended) | [source](https://embassies.gov.il/russia/en/announcements/eta-announcement-citizen-or-resident-russian-federation) — hard/official |
+| For Russian citizens | Sanctions position | Israel has not imposed sanctions on Russia; maintains diplomatic relations | [source](https://www.gov.il/en/departments/ministry_of_foreign_affairs) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness Report 2025: rank 8 | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank 41 | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 22, score 550; English widely spoken in business/tech | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

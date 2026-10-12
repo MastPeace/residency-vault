@@ -2,6 +2,7 @@
 title: Jamaica — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, tax, clear_pathway]
 category: clear_pathway
@@ -113,6 +114,68 @@ Jamaica has an international ship registry (Maritime Authority of Jamaica). Yach
 | Freedom House score | 80/100 (Free) | [Freedom House](https://freedomhouse.org/country/jamaica/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,800 h | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Jamaica#Climate) — hard/official |
 | Average annual temperature | ~27 °C (coastal) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Jamaica#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 10 991 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=JM) — hard/official |
+| Geography & size | Population density | 262 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=JM) — hard/official |
+| Geography & size | Urban population | 59% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=JM) — hard/official |
+| Geography & size | Coastline | 1,022 km | [source](https://www.embassyofjamaica.org/about_jamaica/geography.htm) — soft/estimate |
+| Geography & size | Highest point | Blue Mountain Peak, 2,256 m | [source](https://www.britannica.com/place/Jamaica) — soft/estimate |
+| Geography & size | Type | island | [source](https://en.wikipedia.org/wiki/Jamaica) — soft/estimate |
+| Geography & size | Time zone | UTC-5 (EST), no DST; Moscow -8h | [source](https://www.timeanddate.com/time/zone/jamaica) — soft/estimate |
+| Climate | Avg precipitation | 2051 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=JM) — hard/official |
+| Climate | PM2.5 exposure | 21.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=JM) — hard/official |
+| Climate | Climate zone | Aw (tropical savanna, Kingston); Am (tropical monsoon in mountains) | [source](https://www.weather-atlas.com/en/jamaica/kingston-climate) — soft/estimate |
+| Climate | Temp winter / summer | Kingston: Jan avg 26°C, Jul avg 29°C | [source](https://weathervio.com/climate/kingston) — soft/estimate |
+| Climate | Rainy days | Kingston: ~110 rainy days/year | [source](https://www.weather-atlas.com/en/jamaica/kingston-climate) — soft/estimate |
+| Climate | Humidity | Kingston: ~75% average annual relative humidity | [source](https://www.weather-atlas.com/en/jamaica/kingston-climate) — soft/estimate |
+| Climate | Natural hazards | Hurricanes, tropical storms, earthquakes, floods; World Risk Index 2024 rank 48 | [source](https://weltrisikobericht.de/en/) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5: 11.3 μg/m³ (IQAir 2023) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $22.7B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=JM) — hard/official |
+| Economy | GDP growth | 0.1% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=JM) — hard/official |
+| Economy | Inflation (CPI) | 4.0% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=JM) — hard/official |
+| Economy | Unemployment | 3.3% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=JM) — hard/official |
+| Economy | Central govt debt | 98% of GDP (2020) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=JM) — hard/official |
+| Economy | Gini index | 39.9 (2021) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=JM) — hard/official |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 16.3% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=JM) — hard/official |
+| Economy | Credit rating | S&P: BB (stable), Moody's: B1, Fitch: B+ (2025) | [source](https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/101645867) — hard/official |
+| Economy | Currency | JMD, managed float; ~-18% vs USD over 5 years (2021-2026) | [source](https://www.xe.com/currencycharts/?from=USD&to=JMD) — soft/estimate |
+| Economy | Top industries | Services ~62% (tourism), Industry ~20%, Agriculture ~8% of GDP (2024) | [source](https://statinja.gov.jm/) — soft/estimate |
+| Economy | Economic Complexity | ECI -0.58, rank 92 of 133 (2023) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_economic_complexity) — soft/estimate |
+| Technology | Internet users | 90% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=JM) — hard/official |
+| Technology | Fixed broadband subs | 16.0 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=JM) — hard/official |
+| Technology | High-tech exports | 2.6% of manufactured exports (2023) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=JM) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | 83rd of 139 (GII 2025) | [source](https://www.wipo.int/gii-ranking/en/jamaica) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.5859, rank 111 of 193 (UN 2024) | [source](https://publicadministration.un.org/egovkb/en-us/data/country-information/id/84-Jamaica) — hard/official |
+| Technology | Median broadband speed | Median fixed broadband: 84.15 Mbps (Ookla Aug 2026) | [source](https://www.speedtest.net/global-index/jamaica) — hard/official |
+| Technology | 5G | 5G launched 2022; limited urban coverage | [source](https://www.itu.int/en/ITU-D/Statistics/) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank 79 globally (2025) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 71.6 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=JM) — hard/official |
+| Human development & health | Hospital beds | 1.6 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=JM) — hard/official |
+| Human development & health | HDI | HDI 0.706, rank 115 of 193 (2023/24) | [source](https://hdr.undp.org/system/files/documents/global-report-document/hdr2023-24snapshoten.pdf) — hard/official |
+| Safety | Global Peace Index | GPI rank 77, score 1.965 (2026) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 2: Exercise Increased Caution (Jun 2026) | [source](https://travel.state.gov/content/travel/en/international-travel/travel-advisories.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; CGT: none on securities, 15% on property | [source](https://taxsummaries.pwc.com/jamaica) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules | [source](https://taxsummaries.pwc.com/jamaica) — soft/estimate |
+| Business | Company setup | ~3 days, cost ~4.2% of GNI per capita (DB 2020) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/jamaica) — soft/estimate |
+| Business | Corporate tax | 25% headline rate (regulated companies 33.33%) | [source](https://taxsummaries.pwc.com/jamaica) — soft/estimate |
+| Family & education | Top university | University of the West Indies (Mona), QS rank ~1001-1200 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Visa-free for up to 90 days (visa waiver agreement signed 2023) | [source](https://mfaft.gov.jm/site/jamaica-and-russia-visa-waiver-agreement-johnson-smith) — hard/official |
+| For Russian citizens | Sanctions position | Jamaica has not imposed sanctions on Russia; maintains normal relations | [source](https://mfaft.gov.jm/) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness Report 2025: rank 73 | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: not ranked | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 30, score 532; English is official language, widely spoken | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

@@ -2,6 +2,7 @@
 title: Ireland — Ireland
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, strong_passport, it_friendly, clear_pathway]
 category: strong_passport
@@ -150,6 +151,68 @@ Irish visas for Russian citizens are available but processing may be delayed. No
 | Freedom House score | 97/100 (Free) | ^[https://freedomhouse.org/country/ireland/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~1,424 (Dublin) | ^[https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php] hard/official |
 | Average annual temperature | ~9.5°C (Dublin) | ^[https://www.met.ie/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 70 280 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=IE) — hard/official |
+| Geography & size | Population density | 78 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=IE) — hard/official |
+| Geography & size | Urban population | 65% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=IE) — hard/official |
+| Geography & size | Coastline | 7,524 km | [source](https://en.wikipedia.org/wiki/Geography_of_Ireland) — soft/estimate |
+| Geography & size | Highest point | Carrauntoohil, 1,039 m | [source](https://en.wikipedia.org/wiki/Geography_of_Ireland) — soft/estimate |
+| Geography & size | Type | island | [source](https://en.wikipedia.org/wiki/Republic_of_Ireland) — soft/estimate |
+| Geography & size | Time zone | UTC+0 (GMT) / UTC+1 (IST summer), Moscow -3h/-2h | [source](https://www.timeanddate.com/time/zone/ireland) — soft/estimate |
+| Climate | Avg precipitation | 1118 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=IE) — hard/official |
+| Climate | PM2.5 exposure | 7.5 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=IE) — hard/official |
+| Climate | Climate zone | Cfb (temperate oceanic) | [source](https://climatememory.com/en/climate/ireland/dublin) — soft/estimate |
+| Climate | Temp winter / summer | Dublin: Jan avg 8°C, Jul avg 19°C | [source](https://temperatures.com/weather/dublin/climate) — soft/estimate |
+| Climate | Rainy days | Dublin: ~150 rainy days/year | [source](https://www.weather-atlas.com/en/ireland/dublin-climate) — soft/estimate |
+| Climate | Humidity | Dublin: ~80% average annual relative humidity | [source](https://www.weather-atlas.com/en/ireland/dublin-climate) — soft/estimate |
+| Climate | Natural hazards | Winter storms, flooding; INFORM Risk Index 2024 rank 166 (low risk) | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5: 6.3 μg/m³ (IQAir 2023) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $721.7B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IE) — hard/official |
+| Economy | GDP growth | 12.3% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=IE) — hard/official |
+| Economy | Inflation (CPI) | 2.2% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IE) — hard/official |
+| Economy | Unemployment | 4.6% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=IE) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 29.0 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=IE) — hard/official |
+| Economy | Tourism receipts | 1% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=IE) — hard/official |
+| Economy | Remittances | 0.1% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=IE) — hard/official |
+| Economy | Credit rating | S&P: AA, Moody's: Aa3, Fitch: AA (2024-2025); all stable | [source](https://www.fitchratings.com/research/sovereigns/fitch-upgrades-ireland-to-aa-outlook-stable-31-05-2024) — hard/official |
+| Economy | Currency | EUR, free float; ~-5% vs USD over 5 years (2021-2026) | [source](https://www.xe.com/currencycharts/?from=USD&to=EUR) — soft/estimate |
+| Economy | Top industries | Services ~60%, Industry ~38%, Agriculture ~1% of GDP (2024) | [source](https://www.cso.ie/) — soft/estimate |
+| Economy | Economic Complexity | ECI 1.36, rank 17 of 133 (2023) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_economic_complexity) — soft/estimate |
+| Technology | Internet users | 97% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=IE) — hard/official |
+| Technology | Fixed broadband subs | 32.3 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=IE) — hard/official |
+| Technology | High-tech exports | 53.5% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=IE) — hard/official |
+| Technology | R&D spend | 1.59% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=IE) — hard/official |
+| Technology | Global Innovation Index | 18th of 139 (GII 2025) | [source](https://www.wipo.int/edocs/gii-ranking/2025/ie.pdf) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.9369, rank 19 of 193 (UN 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/84-Ireland) — hard/official |
+| Technology | Median broadband speed | Median fixed broadband: 293.55 Mbps (Ookla Aug 2026) | [source](https://www.speedtest.net/global-index/ireland) — hard/official |
+| Technology | 5G | 5G widely available; ~95% population coverage (2025) | [source](https://www.comreg.ie/) — soft/estimate |
+| Technology | Online payments | Stripe available (founded in Ireland); PayPal/Apple Pay available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank 22 globally (2025) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 83.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=IE) — hard/official |
+| Human development & health | Hospital beds | 3.0 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=IE) — hard/official |
+| Human development & health | HDI | HDI 0.950, rank 7 of 193 (2023/24) | [source](https://hdr.undp.org/system/files/documents/global-report-document/hdr2023-24snapshoten.pdf) — hard/official |
+| Safety | Global Peace Index | GPI rank 5, score 1.371 (2026) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 1: Exercise Normal Precautions (Mar 2026) | [source](https://travel.state.gov/content/travel/en/international-travel/travel-advisories.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax (CAT) 33%; CGT 33% | [source](https://taxsummaries.pwc.com/ireland) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules in force | [source](https://taxsummaries.pwc.com/ireland) — soft/estimate |
+| Business | Company setup | ~11 days, cost ~0.2% of GNI per capita (DB 2020) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/ireland) — soft/estimate |
+| Business | Corporate tax | 12.5% trading income; 15% for large MNEs (Pillar Two) | [source](https://taxsummaries.pwc.com/ireland) — soft/estimate |
+| Family & education | Top university | Trinity College Dublin, QS rank 87 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Schengen short-stay visa required for Russians (non-EU); application via Irish embassy (2025) | [source](https://www.ireland.ie/en/moscow/services/visas/visas-for-ireland/) — soft/estimate |
+| For Russian citizens | Sanctions position | Ireland implements EU sanctions against Russia, including financial and trade restrictions | [source](https://www.dfa.ie/) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness Report 2025: rank 17 | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank 30 | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 2, score 638; English is primary language | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

@@ -2,6 +2,7 @@
 title: Indonesia — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, golden-visa, it_friendly, clear_pathway, retirement]
 category: it_friendly
@@ -147,6 +148,68 @@ Indonesia is a top-3 global nomad/retirement destination. The Golden Visa and Se
 | Freedom House score | 56/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/indonesia/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,700 h (Jakarta) | [Current Results](https://www.currentresults.com/Weather/Indonesia/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~27 °C | [Wikipedia](https://en.wikipedia.org/wiki/Indonesia#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 1 916 907 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=ID) — hard/official |
+| Geography & size | Population density | 150 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=ID) — hard/official |
+| Geography & size | Urban population | 59% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=ID) — hard/official |
+| Geography & size | Coastline | 54,720 km (CIA World Factbook) | [source](https://en.wikipedia.org/wiki/Geography_of_Indonesia) — soft/estimate |
+| Geography & size | Highest point | Puncak Jaya (Carstensz Pyramid), 4,884 m | [source](https://en.wikipedia.org/wiki/Geography_of_Indonesia) — soft/estimate |
+| Geography & size | Type | archipelago | [source](https://en.wikipedia.org/wiki/Indonesia) — soft/estimate |
+| Geography & size | Time zone | UTC+7/+8/+9 (WIB/WITA/WIT), Moscow -4h to -2h | [source](https://www.happyzebra.com/country-time/indonesia) — soft/estimate |
+| Climate | Avg precipitation | 2702 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=ID) — hard/official |
+| Climate | PM2.5 exposure | 20.8 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=ID) — hard/official |
+| Climate | Climate zone | Af (tropical rainforest, Jakarta); also Am, Aw across islands | [source](https://en.climate-data.org/asia/indonesia/jakarta-special-capital-region/jakarta-714756/) — soft/estimate |
+| Climate | Temp winter / summer | Jakarta: Jan avg 27.1°C, Jul avg 27.7°C (1991-2020 normals) | unsourced/unverified |
+| Climate | Rainy days | Jakarta: ~160 rainy days/year | unsourced/unverified |
+| Climate | Humidity | Jakarta: ~80% average annual relative humidity | [source](https://www.timeanddate.com/weather/indonesia/jakarta) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, tsunamis, volcanic eruptions, floods; World Risk Index 2024 rank 2 | [source](https://weltrisikobericht.de/en/) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5: 37.1 μg/m³ (IQAir 2023) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $1.4T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ID) — hard/official |
+| Economy | GDP growth | 5.1% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=ID) — hard/official |
+| Economy | Inflation (CPI) | 1.9% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=ID) — hard/official |
+| Economy | Unemployment | 3.2% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=ID) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 34.4 (2025) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=ID) — hard/official |
+| Economy | Tourism receipts | 2% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=ID) — hard/official |
+| Economy | Remittances | 1.2% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=ID) — hard/official |
+| Economy | Credit rating | S&P: BBB (Jul 2025), Moody's: Baa2, Fitch: BBB; all stable outlook | [source](https://www.bi.go.id/en/iru/economic-market-data/) — soft/estimate |
+| Economy | Currency | IDR, managed float; ~-15% vs USD over 5 years (2021-2026) | [source](https://www.xe.com/currencycharts/?from=USD&to=IDR) — soft/estimate |
+| Economy | Top industries | Manufacturing 19%, Agriculture 13%, Trade 13% of GDP (2024) | [source](https://www.bps.go.id/) — soft/estimate |
+| Economy | Economic Complexity | ECI 0.02, rank 61 of 133 (2023) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_economic_complexity) — soft/estimate |
+| Technology | Internet users | 73% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=ID) — hard/official |
+| Technology | Fixed broadband subs | 4.9 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=ID) — hard/official |
+| Technology | High-tech exports | 8.7% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=ID) — hard/official |
+| Technology | R&D spend | 0.28% of GDP (2020) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=ID) — hard/official |
+| Technology | Global Innovation Index | 55th of 139 (GII 2025) | [source](https://www.wipo.int/edocs/gii-ranking/2025/id.pdf) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.6980, rank 104 of 193 (UN 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/101-Indonesia) — hard/official |
+| Technology | Median broadband speed | Median fixed broadband: 84.19 Mbps (Ookla Aug 2026) | [source](https://www.speedtest.net/global-index/indonesia) — hard/official |
+| Technology | 5G | 5G launched 2021; limited coverage in major cities | [source](https://www.itu.int/en/ITU-D/Statistics/) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses; PayPal available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank 34 globally (2025) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 71.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=ID) — hard/official |
+| Human development & health | Hospital beds | 1.4 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=ID) — hard/official |
+| Human development & health | HDI | HDI 0.713, rank 112 of 193 (2023/24) | [source](https://hdr.undp.org/system/files/documents/global-report-document/hdr2023-24snapshoten.pdf) — hard/official |
+| Safety | Global Peace Index | GPI rank 69, score 1.857 (2026) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 2: Exercise Increased Caution (Jul 2026) | [source](https://travel.state.gov/content/travel/en/international-travel/travel-advisories.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains at normal CIT rate (22%) | [source](https://taxsummaries.pwc.com/indonesia) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply (deemed dividend from foreign subsidiaries) | [source](https://taxsummaries.pwc.com/indonesia) — soft/estimate |
+| Business | Company setup | ~13 days, cost ~5.7% of GNI per capita (DB 2020); B-Ready data pending | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/indonesia) — soft/estimate |
+| Business | Corporate tax | 22% headline rate (2025) | [source](https://taxsummaries.pwc.com/indonesia) — soft/estimate |
+| Family & education | Top university | Universitas Indonesia, QS rank 206 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | e-VOA (electronic Visa on Arrival) available for Russians; 30 days (2026) | [source](https://indonesianvisas.com/indonesian-voa-russia) — soft/estimate |
+| For Russian citizens | Sanctions position | Indonesia has not imposed sanctions on Russia; maintains normal relations | [source](https://kemlu.go.id/) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness Report 2025: rank 83 | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank 13 | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 79, score 473; English not widely spoken outside business/tourism | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

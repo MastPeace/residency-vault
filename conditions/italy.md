@@ -2,6 +2,7 @@
 title: Italy — Residency & Citizenship Conditions
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, digital-nomad, investor-visa, flat-tax, it_friendly]
 category: it_friendly
@@ -158,6 +159,68 @@ Italy's DN visa has been well-received — no quotas, clean requirements, and ac
 | Freedom House score | 89/100 (Free) | [Freedom House](https://freedomhouse.org/country/italy/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,400 h (Rome ~2,470; south higher) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~14 °C (Rome ~15 °C; Milan ~13 °C; south warmer) | [Wikipedia](https://en.wikipedia.org/wiki/Italy#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 302 070 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=IT) — hard/official |
+| Geography & size | Population density | 199 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=IT) — hard/official |
+| Geography & size | Urban population | 70% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=IT) — hard/official |
+| Geography & size | Coastline | 7,600 km | [source](https://en.wikipedia.org/wiki/Geography_of_Italy) — soft/estimate |
+| Geography & size | Highest point | Mont Blanc (Monte Bianco), 4,810 m | [source](https://en.wikipedia.org/wiki/Geography_of_Italy) — soft/estimate |
+| Geography & size | Type | mainland (peninsula) | [source](https://en.wikipedia.org/wiki/Italy) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET) / UTC+2 (CEST summer), Moscow -2h/-1h | [source](https://www.timeanddate.com/time/zone/italy) — soft/estimate |
+| Climate | Avg precipitation | 832 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=IT) — hard/official |
+| Climate | PM2.5 exposure | 14.3 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=IT) — hard/official |
+| Climate | Climate zone | Csa (hot-summer Mediterranean, Rome); varies from alpine to subtropical | [source](https://weathervio.com/climate/rome) — soft/estimate |
+| Climate | Temp winter / summer | Rome: Jan avg 8°C, Jul avg 26°C | [source](https://temperatures.com/weather/rome/climate) — soft/estimate |
+| Climate | Rainy days | Rome: ~107 rainy days/year | [source](https://temperatures.com/weather/rome/climate) — soft/estimate |
+| Climate | Humidity | Rome: ~72% average annual relative humidity | [source](https://www.weathermonth.com/en/average-temperature-rome) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, volcanic activity, landslides, floods; INFORM Risk Index 2024 rank 98 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5: 18.9 μg/m³ (IQAir 2023) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $2.6T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IT) — hard/official |
+| Economy | GDP growth | 0.5% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=IT) — hard/official |
+| Economy | Inflation (CPI) | 1.5% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IT) — hard/official |
+| Economy | Unemployment | 6.4% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=IT) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 34.3 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=IT) — hard/official |
+| Economy | Tourism receipts | 4% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=IT) — hard/official |
+| Economy | Remittances | 0.5% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=IT) — hard/official |
+| Economy | Credit rating | S&P: BBB (positive), Moody's: Baa3, Fitch: BBB+ (2025) | [source](https://www.reuters.com/markets/rates-bonds/fitch-boosts-italys-rating-improved-fiscal-performance-political-stability-2025-09-19) — soft/estimate |
+| Economy | Currency | EUR, free float; ~-5% vs USD over 5 years (2021-2026) | [source](https://www.xe.com/currencycharts/?from=USD&to=EUR) — soft/estimate |
+| Economy | Top industries | Services ~67%, Industry ~24%, Agriculture ~2% of GDP (2024) | [source](https://www.istat.it/) — soft/estimate |
+| Economy | Economic Complexity | ECI 1.44, rank 14 of 133 (2023) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_economic_complexity) — soft/estimate |
+| Technology | Internet users | 89% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=IT) — hard/official |
+| Technology | Fixed broadband subs | 31.8 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=IT) — hard/official |
+| Technology | High-tech exports | 11.9% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=IT) — hard/official |
+| Technology | R&D spend | 1.38% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=IT) — hard/official |
+| Technology | Global Innovation Index | 28th of 139 (GII 2025) | [source](https://www.wipo.int/edocs/gii-ranking/2025/it.pdf) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.8968, rank 32 of 193 (UN 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/84-Italy) — hard/official |
+| Technology | Median broadband speed | Median fixed broadband: 281.08 Mbps (Ookla Aug 2026) | [source](https://www.speedtest.net/global-index/italy) — hard/official |
+| Technology | 5G | 5G launched 2019; ~99% population coverage (2025) | [source](https://www.agcom.it/) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank 27 globally (2025) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 84.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=IT) — hard/official |
+| Human development & health | Hospital beds | 3.1 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=IT) — hard/official |
+| Human development & health | HDI | HDI 0.906, rank 30 of 193 (2023/24) | [source](https://hdr.undp.org/system/files/documents/global-report-document/hdr2023-24snapshoten.pdf) — hard/official |
+| Safety | Global Peace Index | GPI rank 33, score 1.541 (2026) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 2: Exercise Increased Caution (Sep 2026) | [source](https://travel.state.gov/content/travel/en/international-travel/travel-advisories.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 4-8% (spouse/children exempt up to €1M); CGT 26% | [source](https://taxsummaries.pwc.com/italy) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules in force | [source](https://taxsummaries.pwc.com/italy) — soft/estimate |
+| Business | Company setup | ~6 days, cost ~13.8% of GNI per capita (DB 2020) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/italy) — soft/estimate |
+| Business | Corporate tax | 24% IRES + ~3.9% IRAP (regional); effective rate ~27.9% | [source](https://taxsummaries.pwc.com/italy) — soft/estimate |
+| Family & education | Top university | Politecnico di Milano, QS rank 111 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Schengen visa required; EU tightened rules for Russians in 2022/2025 | [source](https://ec.europa.eu/commission/presscorner/detail/en/ip_22_5430) — hard/official |
+| For Russian citizens | Sanctions position | Italy implements all EU sanctions against Russia | [source](https://www.esteri.it/) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness Report 2025: rank 40 | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank 44 | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 33, score 528; English moderate in cities, low in rural areas | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

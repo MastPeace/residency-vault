@@ -2,6 +2,7 @@
 title: India — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, it_friendly, clear_pathway]
 category: it_friendly
@@ -119,6 +120,68 @@ India is not a residence-by-investment market; the only true long-stay vehicle i
 | Freedom House score | 62/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/india/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,700 h (Delhi) | [Current Results](https://www.currentresults.com/Weather/India/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~25 °C (varies widely by region) | [Wikipedia](https://en.wikipedia.org/wiki/India#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 53/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 3 287 263 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=IN) — hard/official |
+| Geography & size | Population density | 488 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=IN) — hard/official |
+| Geography & size | Urban population | 36% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=IN) — hard/official |
+| Geography & size | Coastline | 7,000 km (CIA World Factbook) | [source](https://www.countryreports.org/country/India/geography.htm) — soft/estimate |
+| Geography & size | Highest point | Kanchenjunga, 8,586 m | [source](https://en.wikipedia.org/wiki/Geography_of_India) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/India) — soft/estimate |
+| Geography & size | Time zone | UTC+5:30 (IST), Moscow -2.5h | [source](https://www.timeanddate.com/time/zone/india) — soft/estimate |
+| Climate | Avg precipitation | 1083 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=IN) — hard/official |
+| Climate | PM2.5 exposure | 54.1 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=IN) — hard/official |
+| Climate | Climate zone | Cwa (humid subtropical, Delhi); varies from tropical monsoon to alpine | [source](https://en.wikipedia.org/wiki/Climate_of_India) — soft/estimate |
+| Climate | Temp winter / summer | Delhi: Jan avg 13°C, Jul avg 30°C (2016-2025 ERA5) | [source](https://weathervio.com/climate/delhi) — soft/estimate |
+| Climate | Rainy days | Delhi: ~47 rainy days/year | [source](https://worldstats.io/country/in/climate) — soft/estimate |
+| Climate | Humidity | Delhi: ~55% annual avg relative humidity | [source](https://weatherspark.com/countries/IN) — soft/estimate |
+| Climate | Natural hazards | Floods, cyclones, earthquakes, droughts, landslides; INFORM Risk Index 2024 rank 36 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5: 54.4 μg/m³ (IQAir 2023) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $4.0T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IN) — hard/official |
+| Economy | GDP growth | 7.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=IN) — hard/official |
+| Economy | Inflation (CPI) | 2.4% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN) — hard/official |
+| Economy | Unemployment | 4.2% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=IN) — hard/official |
+| Economy | Central govt debt | 47% of GDP (2018) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=IN) — hard/official |
+| Economy | Gini index | 23.0 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=IN) — hard/official |
+| Economy | Tourism receipts | 3% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=IN) — hard/official |
+| Economy | Remittances | 3.8% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=IN) — hard/official |
+| Economy | Credit rating | S&P: BBB (Aug 2025), Moody's: Baa3, Fitch: BBB- | [source](https://www.reuters.com/world/india/sp-lifts-indias-rating-bbb-first-upgrade-since-2007-2025-08-14) — soft/estimate |
+| Economy | Currency | INR, managed float; ~-12% vs USD over 5 years (2021-2026) | [source](https://www.xe.com/currencycharts/?from=USD&to=INR) — soft/estimate |
+| Economy | Top industries | Services 49.9%, Industry 24.6%, Agriculture 16.3% (2024) | [source](https://www.economicindicators.com/india-gdp-by-sector-2024) — soft/estimate |
+| Economy | Economic Complexity | ECI 0.54, rank 42 of 133 (2023) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_economic_complexity) — soft/estimate |
+| Technology | Internet users | 70% of population (2025) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=IN) — hard/official |
+| Technology | Fixed broadband subs | 3.2 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=IN) — hard/official |
+| Technology | High-tech exports | 18.6% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=IN) — hard/official |
+| Technology | R&D spend | 0.65% of GDP (2020) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=IN) — hard/official |
+| Technology | Global Innovation Index | 38th of 139 (GII 2025) | [source](https://www.wipo.int/gii-ranking/en/india) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.6911, rank 108 of 193 (UN 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/84-India) — hard/official |
+| Technology | Median broadband speed | Median fixed broadband: 97.76 Mbps (Ookla Aug 2026) | [source](https://www.speedtest.net/global-index/india) — hard/official |
+| Technology | 5G | 5G launched Oct 2022; ~90% population coverage by 2025 | [source](https://www.itu.int/en/ITU-D/Statistics/) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank 19 globally (2025) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 72.2 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=IN) — hard/official |
+| Human development & health | Hospital beds | 1.6 per 1000 (2021) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=IN) — hard/official |
+| Human development & health | HDI | HDI 0.644, rank 134 of 193 (2023/24) | [source](https://hdr.undp.org/system/files/documents/global-report-document/hdr2023-24snapshoten.pdf) — hard/official |
+| Safety | Global Peace Index | GPI rank 115, score 2.304 (2025) | [source](https://www.visionofhumanity.org/maps/global-peace-index/) — hard/official |
+| Safety | US travel advisory | US State Dept Level 2: Exercise Increased Caution (Jun 2025) | [source](https://travel.state.gov/content/travel/en/international-travel/travel-advisories.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains: 12.5% LTCG / 20% STCG | [source](https://taxsummaries.pwc.com/india) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules introduced in 2024 | [source](https://taxsummaries.pwc.com/india) — soft/estimate |
+| Business | Company setup | ~18 days, cost ~7.2% of GNI per capita (DB 2020); B-Ready data pending | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/india) — soft/estimate |
+| Business | Corporate tax | 25% domestic companies (30% if turnover >₹400cr); 15% new manufacturing | [source](https://taxsummaries.pwc.com/india) — soft/estimate |
+| Family & education | Top university | IIT Bombay, QS rank 118 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | e-Visa required; Russians must apply online before travel (2025) | [source](https://indianembassy-moscow.gov.in/ru/Revised-Entry-Guidelines.php) — hard/official |
+| For Russian citizens | Sanctions position | India has not imposed sanctions on Russia; maintains normal trade relations | [source](https://www.mea.gov.in/) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness Report 2025: rank 118 | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank 37 | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 74, score 484; English widely used in business/education | [source](https://www.ef.edu/epi/regions/asia/india/) — soft/estimate |
 
 ## Country Card
 
