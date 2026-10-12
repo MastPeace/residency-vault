@@ -7,6 +7,7 @@ Pure Python 3 stdlib — no external dependencies.
 
 import os
 import re
+import urllib.parse
 import sys
 import html
 import json
@@ -898,6 +899,7 @@ kbd { font: 11px var(--mono); padding: 1px 6px; border: 1px solid var(--line-str
 .qa { margin: 18px 0 0; padding: 14px 18px 12px; border: 1px solid var(--line); border-left: 3px solid var(--ink); border-radius: 4px; background: var(--card, transparent); }
 .qa-h { font: 600 11px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin-bottom: 8px; }
 .qa-h span { font-weight: 400; text-transform: none; letter-spacing: 0; margin-left: 8px; }
+.qa-src { font: 400 12px var(--sans); color: var(--muted); margin-left: 4px; white-space: nowrap; }
 .qa ul { margin: 0; padding: 0; list-style: none; }
 .qa li { font: 400 15.5px/1.5 var(--serif); padding: 3px 0; }
 .qa li b { font: 600 11px var(--sans); letter-spacing: .05em; text-transform: uppercase; color: var(--ink-2); margin-right: 8px; }
@@ -1510,18 +1512,33 @@ def build_facts(page):
     return f'<dl class="facts">{"".join(items)}</dl>' if len(items) >= 3 else ""
 
 
-QA_SLUGS = {"portugal", "spain", "italy", "greece", "malta", "austria", "estonia", "czechia", "germany", "uae",
-            "georgia", "serbia", "montenegro", "turkey", "armenia", "kazakhstan", "cyprus"}
 QA_ROWS = [("passive_income_residency", "Passive income / no work"), ("digital_nomad_visa", "Remote workers"),
            ("investment_residency", "Investment"), ("highly_skilled_employment", "Skilled workers"),
            ("startup_entrepreneur", "Founders"), ("retired_residency", "Retirees"),
            ("citizenship_by_investment", "Citizenship by investment")]
 QA_MAX = 5
+QA_MIN = 3   # minimum program rows for the block to appear
 
 
 def _qa_cell(c):
     c = strip_md(re.sub(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]", lambda m: m.group(2) or m.group(1), c))
     return c.strip()
+
+
+def _qa_sources(page):
+    """type-key -> first official URL from '### <type>' sections of '## Per-Program Detail'."""
+    m = re.search(r"^## Per-Program Detail\s*\n(.*?)(?=^## )", page["body"], re.S | re.M)
+    out = {}
+    if not m:
+        return out
+    for blk in re.split(r"^### ", m.group(1), flags=re.M)[1:]:
+        head, _, rest = blk.partition("\n")
+        key = re.sub(r"[^a-z]+", "_", head.strip().lower()).strip("_")
+        sm = re.search(r"\*\*Official source\*\*:\s*(.*)", rest)
+        um = re.search(r"https?://[^\s)\]>,;]+", sm.group(1)) if sm else None
+        if um:
+            out[key] = um.group(0).rstrip(".")
+    return out
 
 
 def quick_answer_items(page):
@@ -1531,6 +1548,7 @@ def quick_answer_items(page):
     if not m:
         return []
     found = {}
+    srcs = _qa_sources(page)
     for ln in m.group(1).splitlines():
         if not ln.startswith("|") or ln.startswith("|--") or ln.startswith("| Type"):
             continue
@@ -1544,10 +1562,16 @@ def quick_answer_items(page):
             continue
         if cond in ("", "—") and not re.search(r"closed|terminated|suspended", prog, re.I):
             continue
-        found.setdefault(key, (prog, cond if cond != "—" else "", dur if dur not in ("—", "N/A") else ""))
-    out = []
+        if re.search(r"\bsee \w+ above\b|does not grant (?:residen|permanent)", cond, re.I):
+            continue
+        found.setdefault(key, (prog, cond if cond != "—" else "", dur if dur not in ("—", "N/A") else "", srcs.get(key, "")))
+    out, seen = [], set()
     for key, label in QA_ROWS:
         if key in found:
+            sig = (found[key][0].lower(), found[key][1].lower())
+            if sig in seen or found[key][0].lower() in {x[0] for x in seen}:
+                continue  # same program listed under two types (e.g. Stamp 0 as passive income and retirement)
+            seen.add(sig)
             out.append((label,) + found[key])
         if len(out) >= QA_MAX:
             break
@@ -1562,16 +1586,16 @@ def quick_answer_citizenship(page):
 
 
 def quick_answer_data(page):
-    if page["type"] != "entity" or page["slug"] not in QA_SLUGS:
+    if page["type"] != "entity":
         return None
     rows = quick_answer_items(page)
-    if len(rows) < 2:
+    if len(rows) < QA_MIN:
         return None
     return {"rows": rows, "citizenship": quick_answer_citizenship(page),
             "checked": page.get("last_checked") or page.get("updated") or ""}
 
 
-def _qa_line(label, prog, cond, dur):
+def _qa_line(label, prog, cond, dur, src=""):
     t = f"{prog}" + (f": {cond}" if cond else "")
     t = clip_words(t, 190)
     return t + (f" ({dur})" if dur and len(t) < 160 else "")
@@ -1582,22 +1606,31 @@ def quick_answer_text(page):
     d = quick_answer_data(page)
     if not d:
         return ""
-    lines = [f"- {l}: {_qa_line(l, p, c, du)}" for l, p, c, du in d["rows"]]
+    lines = [f"- {l}: {_qa_line(l, p, c, du)}" + (f" [source: {src}]" if src else "") for l, p, c, du, src in d["rows"]]
     if d["citizenship"]:
         lines.append(f"- Citizenship by naturalisation: {d['citizenship']}")
     return "\n".join(lines)
+
+
+def _qa_src_html(src):
+    if not src:
+        return ""
+    host = re.sub(r"^www\.", "", urllib.parse.urlparse(src).netloc)
+    return f' <a class="qa-src" href="{html.escape(src)}" rel="noopener" target="_blank">{html.escape(host)}</a>'
 
 
 def build_quick_answer(page):
     d = quick_answer_data(page)
     if not d:
         return ""
-    items = "".join(f"<li><b>{html.escape(l)}</b> {html.escape(_qa_line(l, p, c, du))}</li>" for l, p, c, du in d["rows"])
-    if d["citizenship"]:
+    items = "".join(f"<li><b>{html.escape(l)}</b> {html.escape(_qa_line(l, p, c, du))}{_qa_src_html(src)}</li>"
+                    for l, p, c, du, src in d["rows"])
+    # the facts strip right above already shows "Years to citizenship"; don't repeat it there
+    if d["citizenship"] and "Years to citizenship" not in build_facts(page):
         items += f"<li><b>Citizenship</b> {html.escape(d['citizenship'])}</li>"
-    chk = f' · verified {html.escape(d["checked"])}' if d["checked"] else ""
-    return (f'<section class="qa" aria-label="Quick answer"><div class="qa-h">Quick answer<span>{chk[3:] if chk else ""}</span></div>'
-            f'<ul>{items}</ul></section>')
+    chk = html.escape(d["checked"])
+    return (f'<section class="qa" aria-label="Quick answer"><div class="qa-h">Quick answer'
+            f'{f"<span>verified {chk}</span>" if chk else ""}</div><ul>{items}</ul></section>')
 
 
 def build_monitor(page):
@@ -2335,6 +2368,8 @@ def _md_alt_href(rel):
 def _md_clean(page):
     """Page as plain markdown: title header + freshness line + body (frontmatter dropped, sources kept)."""
     name = page["title"]
+    if page["type"] == "entity":
+        name = f"{display_name(name)} — Residency & Citizenship Conditions"
     fm = page.get("frontmatter", {})
     lines = [f"# {name}", ""]
     meta = [f"Source: {SITE_URL}{'conditions' if page['type'] == 'entity' else 'concepts'}/{page['slug']}.html"]

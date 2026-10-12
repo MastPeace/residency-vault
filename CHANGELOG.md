@@ -7,7 +7,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [Unreleased]
 
 ### Added
-- "Quick answer" block on 17 top country pages (Portugal, Spain, Italy, Greece, Malta, Austria, Estonia, Czechia, Germany, UAE, Georgia, Serbia, Montenegro, Turkey, Armenia, Kazakhstan, Cyprus): key thresholds per program type, years to citizenship and the verified date, built from the page's own Residency Programs table (no new facts). Also emitted as `abstract` in JSON-LD and at the top of the `.md` twin.
+- "Quick answer" block on every country page with at least 3 program rows (102 of 163): key thresholds per program type with a link to the official source and the verified date, built from the page's own Residency Programs table (no new facts). Years-to-citizenship is not repeated when the facts strip above already shows it. Also emitted as `abstract` in JSON-LD and at the top of the `.md` twin.
+- `.md` twin H1 for countries is now "Country — Residency & Citizenship Conditions" (was duplicated, e.g. "Estonia — Estonia").
 - AI-search (GEO) layer: `llms.txt` index and `llms-full.txt`, markdown twin of every country/concept page (`/conditions/x.md`, linked via `rel=alternate`), explicit AI-crawler rules in `robots.txt`, IndexNow ping after each deploy (`scripts/indexnow.py`).
 
 ### Fixed
