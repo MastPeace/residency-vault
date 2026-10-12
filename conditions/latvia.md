@@ -2,6 +2,7 @@
 title: Latvia — Latvia
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, golden-visa, digital-nomad, strong_passport]
 category: strong_passport
@@ -113,6 +114,68 @@ Latvia has adopted a highly restrictive stance toward Russian citizens since 202
 | Freedom House score | 89/100 (Free) | [Freedom House](https://freedomhouse.org/country/latvia/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~1,700–1,900 h (Riga ~1,770h) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~6°C annual mean (Riga: −3°C Feb, +18°C Jul) | [Latvian Environment, Geology and Meteorology Centre](https://www.meteo.lv/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 48/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 64 590 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=LV) — hard/official |
+| Geography & size | Population density | 30 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=LV) — hard/official |
+| Geography & size | Urban population | 69% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=LV) — hard/official |
+| Geography & size | Coastline | 498 km | [source](https://www.worlddata.info/europe/latvia/index.php) — soft/estimate |
+| Geography & size | Highest point | Gaiziņkalns, 312 m | [source](https://www.worlddata.info/europe/latvia/index.php) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://www.worlddata.info/europe/latvia/index.php) — soft/estimate |
+| Geography & size | Time zone | UTC+2 (EET), 1h behind Moscow | [source](https://www.worlddata.info/europe/latvia/index.php) — soft/estimate |
+| Climate | Avg precipitation | 667 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=LV) — hard/official |
+| Climate | PM2.5 exposure | 13.0 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=LV) — hard/official |
+| Climate | Climate zone | Dfb (humid continental) | [source](https://www.worlddata.info/europe/latvia/climate.php) — soft/estimate |
+| Climate | Temp winter / summer | Riga: avg Jan -3°C, avg Jul 18°C | [source](https://www.worlddata.info/europe/latvia/climate.php) — soft/estimate |
+| Climate | Rainy days | Riga: ~107 rainy days/year | [source](https://www.worlddata.info/europe/latvia/climate-semigallia.php) — soft/estimate |
+| Climate | Humidity | No reliable data | — |
+| Climate | Natural hazards | Floods, storms; low overall risk | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | PM2.5 7.7 µg/m³ (2023, IQAir) | [source](https://www.iqair.com/world-most-polluted-countries) — soft/estimate |
+| Economy | GDP (nominal) | $48.6B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LV) — hard/official |
+| Economy | GDP growth | 2.1% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=LV) — hard/official |
+| Economy | Inflation (CPI) | 3.7% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=LV) — hard/official |
+| Economy | Unemployment | 6.6% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=LV) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 34.0 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=LV) — hard/official |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 3.0% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=LV) — hard/official |
+| Economy | Credit rating | S&P A, Moody's A3 (2025) | [source](https://tradingeconomics.com/latvia/rating) — soft/estimate |
+| Economy | Currency | EUR, Eurozone member, ~-5% vs USD (2021-2026) | [source](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/,) — hard/official |
+| Economy | Top industries | Services (~74%), industry (~22%), agriculture (~4%) | [source](https://www.cia.gov/the-world-factbook/countries/latvia/) — hard/official |
+| Economy | Economic Complexity | ECI rank 38 of 145 (2024) | [source](https://atlas.hks.harvard.edu/countries/428) — soft/estimate |
+| Technology | Internet users | 93% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=LV) — hard/official |
+| Technology | Fixed broadband subs | 25.8 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=LV) — hard/official |
+| Technology | High-tech exports | 17.5% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=LV) — hard/official |
+| Technology | R&D spend | 0.82% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=LV) — hard/official |
+| Technology | Global Innovation Index | Rank 41 of 139 (GII 2025) | [source](https://statbase.org/datasets/indexes-and-ratings/global-innovation-index) — soft/estimate |
+| Technology | E-Government (UN EGDI) | EGDI 0.8852, rank 29 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | Fixed broadband 124 Mbps (Aug 2026, Ookla) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G commercially available (2025) | unsourced/unverified |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 76.4 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=LV) — hard/official |
+| Human development & health | Hospital beds | 5.0 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=LV) — hard/official |
+| Human development & health | HDI | HDI 0.889, rank 41 (2023) | [source](https://www.destatis.de/EN/Themes/Countries-Regions/International-Statistics/Country-Profiles/latvia.pdf) — soft/estimate |
+| Safety | Global Peace Index | Rank 19, score 1.589 (GPI 2026) | [source](https://visionofhumanity.org/global-peace-index-2026/) — hard/official |
+| Safety | US travel advisory | Level 1: Exercise normal precautions (Apr 2026) | [source](https://travel.state.gov/.../international-travel/travel-advisories.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance/gift tax for close relatives; capital gains tax 20% | [source](https://taxsummaries.pwc.com/latvia) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC regime applies (PwC Latvia) | [source](https://taxsummaries.pwc.com/latvia) — soft/estimate |
+| Business | Company setup | ~5 days, ~1% of GNI per capita (Doing Business 2020) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/latvia) — soft/estimate |
+| Business | Corporate tax | Headline 20% (on distributed profits only) | [source](https://taxsummaries.pwc.com/latvia) — soft/estimate |
+| Family & education | Top university | University of Latvia, QS Rank ~1001-1200 (2025) | [source](https://www.topuniversities.com/world-university-rankings) — hard/official |
+| Connectivity | Visa-free for Russians | Visa required for Russian citizens (EU/Schengen suspension, 2024) | [source](https://www.mfa.gov.lv/en/) — hard/official |
+| For Russian citizens | Sanctions position | Has imposed EU sanctions against Russia; strong supporter | [source](https://www.mfa.gov.lv/en/) — hard/official |
+| Quality of life | World Happiness rank | Rank 48, score 6.37 (WHR 2025) | [source](https://countryeconomy.com/demography/world-happiness-index/latvia) — soft/estimate |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI rank 16, score 598, very high English proficiency | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

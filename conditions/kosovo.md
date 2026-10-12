@@ -2,6 +2,7 @@
 title: Kosovo — Kosovo
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax]
 category: clear_pathway
@@ -135,6 +136,68 @@ Kosovo is not a popular expat destination. Those who relocate are typically dipl
 | Freedom House score (2025) | 60/100 — Partly Free | ^[https://freedomhouse.org/country/kosovo/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,200 (Pristina) | ^[https://en.wikipedia.org/wiki/Pristina#Climate] hard/official |
 | Average annual temperature | ~11°C (Pristina) | ^[https://en.wikipedia.org/wiki/Pristina#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 33/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | No reliable data | — |
+| Geography & size | Population density | No reliable data | — |
+| Geography & size | Urban population | 51% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=XK) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://en.wikipedia.org/wiki/Geography_of_Kosovo) — soft/estimate |
+| Geography & size | Highest point | Đeravica/Gjeravica, 2,656 m | [source](https://en.wikipedia.org/wiki/Geography_of_Kosovo) — soft/estimate |
+| Geography & size | Type | landlocked | [source](https://en.wikipedia.org/wiki/Geography_of_Kosovo) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), 2h behind Moscow | [source](https://www.worlddata.info/europe/kosovo/index.php) — soft/estimate |
+| Climate | Avg precipitation | No reliable data | — |
+| Climate | PM2.5 exposure | No reliable data | — |
+| Climate | Climate zone | Cfb (oceanic/temperate) and Dfb (humid continental) | [source](https://en.wikipedia.org/wiki/Geography_of_Kosovo) — soft/estimate |
+| Climate | Temp winter / summer | Pristina: avg Jan -1°C, avg Jul 21°C | [source](https://en.wikipedia.org/wiki/Geography_of_Kosovo) — soft/estimate |
+| Climate | Rainy days | No reliable data | — |
+| Climate | Humidity | No reliable data | — |
+| Climate | Natural hazards | Earthquakes, floods; moderate risk | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | PM2.5 ~25 µg/m³ (2023, IQAir) | [source](https://www.iqair.com/world-most-polluted-countries) — soft/estimate |
+| Economy | GDP (nominal) | $12.5B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=XK) — hard/official |
+| Economy | GDP growth | 3.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=XK) — hard/official |
+| Economy | Inflation (CPI) | 3.9% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=XK) — hard/official |
+| Economy | Unemployment | No reliable data | — |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 38.3 (2022) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=XK) — hard/official |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 17.3% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=XK) — hard/official |
+| Economy | Credit rating | Not rated by major agencies | [source](https://tradingeconomics.com/kosovo/rating) — soft/estimate |
+| Economy | Currency | EUR, unilaterally adopted | unsourced/unverified |
+| Economy | Top industries | Services (~65%), industry (~25%), agriculture (~12%) | [source](https://www.cia.gov/the-world-factbook/countries/kosovo/) — hard/official |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 89% of population (2018) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=XK) — hard/official |
+| Technology | Fixed broadband subs | No reliable data | — |
+| Technology | High-tech exports | No reliable data | — |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | Not ranked in GII 2025 top 100 | [source](https://www.wipo.int/gii-ranking/en/) — hard/official |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | Limited 5G deployment (2024) | [source](https://www.arkep-rks.org/) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 78.2 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=XK) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | HDI ~0.797 (2023, Global Data Lab estimate) | [source](https://globaldatalab.org/shdi/shdi/) — soft/estimate |
+| Safety | Global Peace Index | Rank 54, score 1.83 (GPI 2026) | [source](https://visionofhumanity.org/global-peace-index-2026/) — hard/official |
+| Safety | US travel advisory | Level 2: Exercise increased caution (Aug 2026) | [source](https://travel.state.gov/.../kosovo-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance/gift tax for direct descendants | [source](https://taxsummaries.pwc.com/kosovo) — soft/estimate |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | ~5 days, ~1% of GNI per capita (Doing Business 2020) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/kosovo) — soft/estimate |
+| Business | Corporate tax | Headline 10% (2025) | [source](https://taxsummaries.pwc.com/kosovo) — soft/estimate |
+| Family & education | Top university | University of Pristina, not in QS top 1500 (2025) | [source](https://www.topuniversities.com/world-university-rankings) — hard/official |
+| Connectivity | Visa-free for Russians | Visa-free for short stays up to 90 days (Kosovo MFA, 2024) | [source](https://mfa-ks.net/) — soft/estimate |
+| For Russian citizens | Sanctions position | Has imposed sanctions against Russia, aligned with EU policy | [source](https://mfa-ks.net/) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 16, score 6.91 (WHR 2025) | [source](https://data.worldhappiness.report/country/XKX) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | No reliable data | — |
 
 ## Country Card
 

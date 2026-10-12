@@ -2,6 +2,7 @@
 title: Kenya — Republic of Kenya
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, digital-nomad, it_friendly]
 category: it_friendly
@@ -104,6 +105,68 @@ Kenya offers eTA for Russian citizens (tourist, up to 90 days). The Class N perm
 | Freedom House score | 51/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/kenya/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,500 (Nairobi) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Nairobi,Kenya] hard/official |
 | Average annual temperature | ~19°C (Nairobi, high-altitude) | ^[https://en.climate-data.org/africa/kenya/nairobi/nairobi-542/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 47/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 591 970 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=KE) — hard/official |
+| Geography & size | Population density | 97 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=KE) — hard/official |
+| Geography & size | Urban population | 32% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=KE) — hard/official |
+| Geography & size | Coastline | 536 km | [source](https://www.worlddata.info/africa/kenya/index.php) — soft/estimate |
+| Geography & size | Highest point | Mount Kenya, 5,199 m | [source](https://www.worlddata.info/africa/kenya/index.php) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://www.worlddata.info/africa/kenya/index.php) — soft/estimate |
+| Geography & size | Time zone | UTC+3 (EAT), same as Moscow | [source](https://www.worlddata.info/africa/kenya/index.php) — soft/estimate |
+| Climate | Avg precipitation | 630 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=KE) — hard/official |
+| Climate | PM2.5 exposure | 20.3 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=KE) — hard/official |
+| Climate | Climate zone | Tropical savanna (Aw) to subtropical highland (Cfb) | [source](https://www.worlddata.info/africa/kenya/climate.php) — soft/estimate |
+| Climate | Temp winter / summer | Nairobi: avg Jan 18°C, avg Jul 16°C | [source](https://www.worlddata.info/africa/kenya/climate-nairobi-area.php) — soft/estimate |
+| Climate | Rainy days | Nairobi: ~73 rainy days/year | [source](https://www.worlddata.info/africa/kenya/climate-nairobi-area.php) — soft/estimate |
+| Climate | Humidity | Nairobi: ~66% annual avg | [source](https://www.worlddata.info/africa/kenya/climate-nairobi-area.php) — soft/estimate |
+| Climate | Natural hazards | Drought, floods; INFORM Risk Index 2024: moderate-high | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | PM2.5 13.8 µg/m³ (2023, IQAir) | [source](https://www.iqair.com/world-most-polluted-countries) — soft/estimate |
+| Economy | GDP (nominal) | $135.9B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KE) — hard/official |
+| Economy | GDP growth | 4.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=KE) — hard/official |
+| Economy | Inflation (CPI) | 4.1% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=KE) — hard/official |
+| Economy | Unemployment | 5.4% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=KE) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 38.5 (2022) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=KE) — hard/official |
+| Economy | Tourism receipts | 15% of exports (2019) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=KE) — hard/official |
+| Economy | Remittances | 3.8% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=KE) — hard/official |
+| Economy | Credit rating | S&P B+, Fitch B+ (2025) | [source](https://tradingeconomics.com/kenya/rating) — soft/estimate |
+| Economy | Currency | KES, managed float, ~-35% vs USD (2021-2026) | [source](https://www.xe.com/currencycharts/?from=KES&to=USD) — soft/estimate |
+| Economy | Top industries | Agriculture (~22%), transport & logistics (~13%), real estate (~8%) | unsourced/unverified |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 35% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=KE) — hard/official |
+| Technology | Fixed broadband subs | 3.0 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=KE) — hard/official |
+| Technology | High-tech exports | 3.2% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=KE) — hard/official |
+| Technology | R&D spend | 0.81% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=KE) — hard/official |
+| Technology | Global Innovation Index | Not ranked in GII 2025 top 100 | [source](https://www.wipo.int/gii-ranking/en/) — hard/official |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | Mobile ~43 Mbps, 80th globally (Dec 2025) | [source](https://www.ookla.com/articles/mea-global-index-2025) — hard/official |
+| Technology | 5G | 5G available in major cities (Nairobi, Mombasa, 2025) | [source](https://www.ookla.com/articles/mea-global-index-2025) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 63.8 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=KE) — hard/official |
+| Human development & health | Hospital beds | 1.3 per 1000 (2019) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=KE) — hard/official |
+| Human development & health | HDI | HDI 0.628, rank 143 (2023) | [source](https://data.undp.org/countries-and-territories/KEN) — hard/official |
+| Safety | Global Peace Index | No reliable data | — |
+| Safety | US travel advisory | Level 2: Exercise increased caution (Jul 2026) | [source](https://travel.state.gov/.../international-travel/travel-advisories.html) — hard/official |
+| Money & tax | FATF status | On FATF grey list (increased monitoring) (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance/gift tax; capital gains tax 15% | [source](https://taxsummaries.pwc.com/kenya) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC regime applies (PwC Kenya) | [source](https://taxsummaries.pwc.com/kenya) — soft/estimate |
+| Business | Company setup | ~21 days, ~28% of GNI per capita (Doing Business 2020) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/kenya) — soft/estimate |
+| Business | Corporate tax | Headline 30% (resident companies, 2025) | [source](https://taxsummaries.pwc.com/kenya) — soft/estimate |
+| Family & education | Top university | University of Nairobi, QS Rank ~1001-1200 (2025) | [source](https://www.topuniversities.com/world-university-rankings) — hard/official |
+| Connectivity | Visa-free for Russians | eTA/e-Visa required for Russian citizens (2024) | [source](https://www.etakenya.go.ke/) — soft/estimate |
+| For Russian citizens | Sanctions position | Has not imposed direct sanctions on Russia; maintains neutral stance | [source](https://www.mfa.go.ke/) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 110, score 4.67 (WHR 2025) | [source](https://countryeconomy.com/demography/world-happiness-index/kenya) — soft/estimate |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI rank 19, score 593, high English proficiency (official language) | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

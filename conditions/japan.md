@@ -2,6 +2,7 @@
 title: Japan — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, highly-skilled-professional, strong_passport]
 category: strong_passport
@@ -147,6 +148,68 @@ Japan imposed sanctions on Russia after 2022. Visa issuance to Russian nationals
 | Average annual sunshine hours | ~1,900 h (Tokyo); ~2,000 h (Osaka); ~1,700 h (Sapporo) | [JMA](https://www.jma.g.jp/) — hard/official |
 | Average annual temperature | Tokyo ~2°C (Jan) to ~31°C (Aug); Sappro -7°C to 26°C; Naha (Okinawa) ~17°C–32°C | [JMA](https://www.jma.g.jp/) — hard/official |
 
+
+## Extended Snapshot
+
+_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 377 975 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=JP) — hard/official |
+| Geography & size | Population density | 340 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=JP) — hard/official |
+| Geography & size | Urban population | 92% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=JP) — hard/official |
+| Geography & size | Coastline | 29,751 km | [source](https://en.wikipedia.org/wiki/Geography_of_Japan) — soft/estimate |
+| Geography & size | Highest point | Mount Fuji, 3,776 m | [source](https://en.wikipedia.org/wiki/Geography_of_Japan) — soft/estimate |
+| Geography & size | Type | island (archipelago) | [source](https://en.wikipedia.org/wiki/Geography_of_Japan) — soft/estimate |
+| Geography & size | Time zone | UTC+9 (JST), 6h ahead of Moscow | [source](https://www.worlddata.info/asia/japan/index.php) — soft/estimate |
+| Climate | Avg precipitation | 1668 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=JP) — hard/official |
+| Climate | PM2.5 exposure | 11.5 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=JP) — hard/official |
+| Climate | Climate zone | Cfa (humid subtropical) to Dfa (humid continental) | [source](https://www.worlddata.info/asia/japan/climate.php) — soft/estimate |
+| Climate | Temp winter / summer | Tokyo: avg Jan 5.2°C, avg Jul 26.4°C | [source](https://www.worlddata.info/asia/japan/climate.php) — soft/estimate |
+| Climate | Rainy days | Tokyo: ~104 rainy days/year | [source](https://www.worlddata.info/asia/japan/climate-kanto.php) — soft/estimate |
+| Climate | Humidity | Tokyo: ~64% annual avg relative humidity | [source](https://www.worlddata.info/asia/japan/climate-kanto.php) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, tsunamis, typhoons, volcanic eruptions; World Risk Index 2023 rank 16 | [source](https://weltrisikobericht.de/en/) — soft/estimate |
+| Climate | Air quality | PM2.5 9.8 µg/m³ (2023, IQAir) | [source](https://www.iqair.com/world-most-polluted-countries) — soft/estimate |
+| Economy | GDP (nominal) | $4.4T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=JP) — hard/official |
+| Economy | GDP growth | 1.2% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=JP) — hard/official |
+| Economy | Inflation (CPI) | 3.2% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=JP) — hard/official |
+| Economy | Unemployment | 2.5% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=JP) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 32.3 (2020) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=JP) — hard/official |
+| Economy | Tourism receipts | 1% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=JP) — hard/official |
+| Economy | Remittances | 0.1% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=JP) — hard/official |
+| Economy | Credit rating | S&P A+, Moody's A1, Fitch A (2025) | [source](https://tradingeconomics.com/japan/rating) — soft/estimate |
+| Economy | Currency | JPY, free-floating, ~-30% vs USD (2021-2026) | [source](https://www.xe.com/currencycharts/?from=JPY&to=USD) — soft/estimate |
+| Economy | Top industries | Services (~70%), manufacturing (~20%), agriculture (~1%) | [source](https://www.cia.gov/the-world-factbook/countries/japan/) — hard/official |
+| Economy | Economic Complexity | ECI rank 1 of 145 (2024) | [source](https://atlas.hks.harvard.edu/countries/392) — soft/estimate |
+| Technology | Internet users | 86% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=JP) — hard/official |
+| Technology | Fixed broadband subs | 38.6 per 100 people (2023) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=JP) — hard/official |
+| Technology | High-tech exports | 17.6% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=JP) — hard/official |
+| Technology | R&D spend | 3.44% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=JP) — hard/official |
+| Technology | Global Innovation Index | Rank 12 of 139 (GII 2025) | [source](https://www.wipo.int/gii-ranking/en/japan) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.9351, rank 13 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | Fixed broadband 234 Mbps median (Aug 2026, Ookla) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G commercially available; ~95% population coverage (2025) | unsourced/unverified |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 84.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=JP) — hard/official |
+| Human development & health | Hospital beds | 12.6 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=JP) — hard/official |
+| Human development & health | HDI | HDI 0.925, rank 23 (2023) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | Rank 10, score 1.489 (GPI 2026) | [source](https://visionofhumanity.org/global-peace-index-2026/) — hard/official |
+| Safety | US travel advisory | Level 1: Exercise normal precautions (May 2025) | [source](https://travel.state.gov/.../japan-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | Inheritance/gift tax up to 55%; no wealth tax; capital gains tax 20.315% | [source](https://taxsummaries.pwc.com/japan) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC regime applies (PwC Tax Summaries 2025) | [source](https://taxsummaries.pwc.com/japan) — soft/estimate |
+| Business | Company setup | ~11 days, ~7.5% of GNI per capita (Doing Business 2020) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/japan) — soft/estimate |
+| Business | Corporate tax | Headline 23.2% (national + local, 2025) | [source](https://taxsummaries.pwc.com/japan) — soft/estimate |
+| Family & education | Top university | University of Tokyo, QS World Rank 32 (2025) | [source](https://www.topuniversities.com/world-university-rankings) — hard/official |
+| Connectivity | Visa-free for Russians | Visa required for Russian citizens for short stays (MOFA Japan, Apr 2025) | [source](https://www.mofa.go.jp/files/000130342.pdf) — soft/estimate |
+| For Russian citizens | Sanctions position | Has imposed sanctions against Russia (Foreign Minister Iwaya, Jan 2025) | [source](https://www.mofa.go.jp/press/kaiken/kaiken24e_000024.html) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 61, score 6.13 (WHR 2025) | [source](https://countryeconomy.com/demography/world-happiness-index/japan) — soft/estimate |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI rank 96, score 446, low English proficiency | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 
