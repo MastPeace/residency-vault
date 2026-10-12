@@ -4,24 +4,21 @@ Every country page has a header with key facts, a monitoring panel, the conditio
 
 ## Country list columns
 
+Next to the country name the table shows its region and fit tags. Click a column title to sort; click the * next to a title for a short explanation. Hover a value to see where it came from.
+
 | Column | Meaning |
 |---|---|
-| Country | Country name, links to its page. |
-| Region | Geographic region used for filtering. |
-| Fit | Editorial tags assigned by this project (see **Fit tags** below). |
+| Programs | Icons for the residency routes the country offers (see **Program types**). Routes that are closed or not available are left out. The program buttons above the table filter countries that offer all selected routes. |
 | To citizenship | Years of legal residence before you can apply for citizenship under the standard route. `10+ yr` means ten years or more; `no path` means there is no realistic route for a foreigner. |
 | Passport | Passport strength: the number of destinations a holder of that country's passport can enter visa-free (a Henley-type visa-free count). It describes the passport you would get after naturalisation, not the one you hold now. |
-| Confidence | How well the page is backed by sources (see **Confidence** below). |
-
-## More columns
-
-Press **More columns** above the country table to show these. They are extracted from the country pages into `data/facts.json`; every value keeps the quote it came from (hover a value to see it) and is dropped if the quote cannot be found on the page.
-
-| Column | Meaning |
-|---|---|
-| Investment from | The cheapest qualifying amount of the country's investment-residency route (Golden Visa style: property, fund, business or deposit), in the currency the page states. Empty means the route is closed, absent or has no stated amount. Sorting converts currencies at approximate fixed rates; the displayed amount is never converted. |
+| Cost index | Numbeo cost-of-living index with New York City = 100; lower means cheaper. Ranges on the page are shown as their midpoint. |
+| Rent $/mo | Typical monthly rent of a 1-bedroom apartment, usually in the city centre, converted to US dollars at approximate fixed exchange rates (a range stays a range). It is a rough comparison figure, not a quote. |
+| Invest. from | The cheapest qualifying amount of the country's investment-residency route (Golden Visa style: property, fund, business or deposit), in the currency the page states and never converted. Empty means the route is closed, absent or has no stated amount. Sorting converts at approximate rates. |
 | Remote visa | Whether a digital-nomad or remote-work residence exists, with the headline income requirement per month or year. `No` means the page says there is none; empty means the page does not say. |
 | Remote tax | Effective personal income tax range for a remote worker, in percent. Indicative only: real tax depends on residency days, regime and income. |
+| Confidence | How well the page is backed by sources (see **Confidence** below). |
+
+Invest. from, Remote visa and Remote tax are extracted from the country pages into `data/facts.json`; every value keeps the quote it came from and is dropped if the quote cannot be found on the page.
 
 ## Confidence
 
@@ -82,16 +79,16 @@ Tags are editorial and help you filter the list. They are not official classific
 
 Each type has a comparison page across countries.
 
-- [Investment residency](concepts/investment-residency.html): residence in exchange for an investment, often called a Golden Visa.
-- [Citizenship by investment](concepts/citizenship-by-investment.html): a passport in exchange for a contribution or investment (CBI).
-- [Passive-income residency](concepts/passive-income-residency.html): residence based on stable income that does not require local work.
-- [Retired residency](concepts/retired-residency.html): residence for pensioners with a foreign pension.
-- [Digital nomad visa](concepts/digital-nomad-visa.html): residence for people who work remotely for foreign clients or employers.
-- [Employment residency](concepts/employment-residency.html): residence tied to a local job offer.
-- [Highly skilled employment](concepts/highly-skilled-employment.html): fast-track permits for qualified specialists, including the EU Blue Card.
-- [Startup / entrepreneur](concepts/startup-entrepreneur.html): residence for founders and business owners.
-- [Student residency](concepts/student-residency.html): residence for enrolled students.
-- [Family reunification](concepts/family-reunification.html): residence for relatives of a legal resident or citizen.
+- 💰 [Investment residency](concepts/investment-residency.html): residence in exchange for an investment, often called a Golden Visa.
+- 🛂 [Citizenship by investment](concepts/citizenship-by-investment.html): a passport in exchange for a contribution or investment (CBI).
+- 🏦 [Passive-income residency](concepts/passive-income-residency.html): residence based on stable income that does not require local work.
+- 🌴 [Retired residency](concepts/retired-residency.html): residence for pensioners with a foreign pension.
+- 💻 [Digital nomad visa](concepts/digital-nomad-visa.html): residence for people who work remotely for foreign clients or employers.
+- 💼 [Employment residency](concepts/employment-residency.html): residence tied to a local job offer.
+- 🧠 [Highly skilled employment](concepts/highly-skilled-employment.html): fast-track permits for qualified specialists, including the EU Blue Card.
+- 🚀 [Startup / entrepreneur](concepts/startup-entrepreneur.html): residence for founders and business owners.
+- 🎓 [Student residency](concepts/student-residency.html): residence for enrolled students.
+- 👨‍👩‍👧 [Family reunification](concepts/family-reunification.html): residence for relatives of a legal resident or citizen.
 
 ## Abbreviations
 

@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [Unreleased]
 
 ### Added
+- Country table: Programs column with icons per offered residency route (closed routes left out) plus program filter buttons; Cost index (Numbeo, NYC=100) and Rent $/mo (approximate USD) columns.
 - `data/facts.json`: structured facts per country (investment-residency minimum, remote-work visa + income threshold, remote tax range), extracted by `scripts/extract_facts.py` (deepseek-v4-pro) with a verbatim evidence quote each; facts whose quote is not found on the page are dropped. 55 investment minimums, 152 remote-visa and 106 tax values for 163 countries.
 - Country table: "More columns" toggle with Investment from / Remote visa / Remote tax (hover shows the source quote).
 - `scripts/normalize_numbers.py`: amounts and durations written as digits (`€250K` -> `€250,000`, `five years` -> `5 years`) across 99 pages; rule added to SCHEMA.md.
@@ -16,6 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Site: 63 countries had an empty Region (registry groups without a display label); they are now folded into display regions (added Asia, Central Africa).
 
 ### Changed
+- Country table shows all columns at once (the "More columns" toggle is gone); region and fit tags moved under the country name; `*` next to column titles opens a popover with a short definition and a glossary link instead of jumping to the glossary.
 - Site: country table drops the country-code and "Checked" columns; Passport, To citizenship, Fit and Confidence headers carry a `*` link to the glossary, with a footnote under the table.
 - Site: top nav keeps only in-site links (Countries, Programs); Telegram is a highlighted 'News channel' button next to search; GitHub and Telegram are icon links in the footer.
 - Site: country header fact `1-bed rent` relabelled `1-bed rent / month` (the underlying field was already monthly).
