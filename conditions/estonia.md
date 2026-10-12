@@ -28,9 +28,9 @@ Estonia is an EU/Schengen/NATO/Eurozone member and widely recognized as the worl
 | [[highly-skilled-employment]] | EU Blue Card | University degree; job offer; salary ≥ 1.5× Estonian average | ≤2yr 3mo |
 | [[startup-entrepreneur]] | Startup Visa | Startup Committee approval; innovative business | 18 months (+183 days) |
 | [[employment-residency]] | Temporary residence for employment | Job offer from Estonian employer; salary ≥ national average | ≤5 years |
-| [[student-residency|student residency]] | Student residence permit | Enrollment in Estonian institution | Duration of studies |
-| [[family-reunification|family reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
-| [[retired-residency|retired residency]] | Not available as dedicated program | — | — |
+| [[student-residency\|student residency]] | Student residence permit | Enrollment in Estonian institution | Duration of studies |
+| [[family-reunification\|family reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
+| [[retired-residency\|retired residency]] | Not available as dedicated program | — | — |
 | [[citizenship-by-investment]] | Not available | — | — |
 
 ## Per-Program Detail

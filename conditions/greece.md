@@ -28,9 +28,9 @@ Greece operates Europe's most affordable [[investment-residency|golden visa]] pr
 | [[highly-skilled-employment]] | EU Blue Card | University degree; job offer; salary threshold | ≤2 years |
 | [[startup-entrepreneur]] | Business residence permit | Business plan; investment ≥€300,000 or job creation | 2 years |
 | [[employment-residency]] | Standard work permit | Job offer; labor market test | ≤2 years |
-| [[student-residency|student residency]] | Student residence permit | Enrollment in Greek institution | Duration of studies |
-| [[family-reunification|family reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
-| [[retired-residency|retired residency]] | Financially Independent Person (FIP) | Passive income (pension) ≥€2,000/mo | 2 years |
+| [[student-residency\|student residency]] | Student residence permit | Enrollment in Greek institution | Duration of studies |
+| [[family-reunification\|family reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
+| [[retired-residency\|retired residency]] | Financially Independent Person (FIP) | Passive income (pension) ≥€2,000/mo | 2 years |
 | [[citizenship-by-investment]] | Not available | — | — |
 
 ## Per-Program Detail

@@ -27,9 +27,9 @@ Czechia (Czech Republic) is an EU/Schengen member with the EU's lowest unemploym
 | [[highly-skilled-employment]] | Modrá karta EU (EU Blue Card) | University degree or 3+yr experience; job contract; salary ≥ 1.5× national average | ≤3 years |
 | [[startup-entrepreneur]] | Business visa (trade license — živnostenský list) | Registered trade license; proof of funds | ≤2 years |
 | [[employment-residency]] | Zaměstnanecká karta (Employee Card) | Job offer; labor market test; dual-purpose work+residence | ≤2 years |
-| [[student-residency|student residency]] | Student residence permit | Enrollment in Czech institution | Duration of studies |
-| [[family-reunification|family reunification]] | Family reunification permit | Sponsor with valid permit; income + accommodation | Matching sponsor |
-| [[retired-residency|retired residency]] | Not available as dedicated program | — | — |
+| [[student-residency\|student residency]] | Student residence permit | Enrollment in Czech institution | Duration of studies |
+| [[family-reunification\|family reunification]] | Family reunification permit | Sponsor with valid permit; income + accommodation | Matching sponsor |
+| [[retired-residency\|retired residency]] | Not available as dedicated program | — | — |
 | [[citizenship-by-investment]] | Not available | — | — |
 
 ## Per-Program Detail

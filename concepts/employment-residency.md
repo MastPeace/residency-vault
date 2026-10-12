@@ -30,7 +30,7 @@ Employment residency — standard work permits tied to a job offer from a local 
 | [[canada]] | Provincial Nominee Programs (PNP) + TFW | Job offer + provincial nomination; various streams | PR path via PNP | 3 yr physical presence / 5 yr | Works well |
 | [[australia]] | Employer Nomination Scheme (186) / SID 482 | Job offer; occupation on list; 2 yr → PR via 186 TRT | 2–4 yr → PR | 4 yr residence (1 yr PR) | Works well |
 | [[uae]] | Standard Employment Visa (MoHRE) | Employer sponsorship; labour contract; employer-locked | 2–3 yr | No citizenship path | Standard — employer-tied |
-| [[united-states|USA]] | H-1B / L-1 / PERM → Green Card | H-1B: lottery; L-1: intra-company; PERM: employer sponsors green card | 3 yr (H-1B); 6 yr max → GC | 5 yr PR | Mixed — H-1B lottery is bottleneck |
+| [[united-states\|USA]] | H-1B / L-1 / PERM → Green Card | H-1B: lottery; L-1: intra-company; PERM: employer sponsors green card | 3 yr (H-1B); 6 yr max → GC | 5 yr PR | Mixed — H-1B lottery is bottleneck |
 | [[japan]] | Engineer/Specialist in Humanities Visa | Degree + job offer in relevant field | 1–5 yr, renewable | 5 yr residence | Works well |
 | [[singapore]] | S Pass / Work Permit | Salary ≥SGD 3,150 (S Pass); quota + levy | 2 yr, renewable | 2 yr PR → citizenship | Mixed — quota system |
 | [[brazil]] | VITEM V (Work Visa) | Employment contract with Brazilian entity | 1 yr → PR after 4 yr | 1 yr PR → citizenship | Works well |

@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Fixed
+- **Table columns shifted by aliased wikilinks:** `[[united-states|USA]]` inside a table row was split at the pipe, adding a column (student/employment residency and country tables). Source rows now use `[[x\|label]]` (Obsidian/GitHub-safe), and the site generator's row splitter understands both `\|` and pipes inside `[[...]]`. RU `source_hash` values refreshed (formatting-only change).
+
 ### Added
 - **Disclaimer coverage in Telegram:** bot profile description (EN + RU) now states "overview only, not legal, tax or immigration advice"; channel posts end with "Не юридическая консультация. Перед подачей документов сверяйтесь с официальными источниками." (generator, unpublished drafts, plus a publish-time safety net); the weekly digest posted by `post_digest.py` ends with the English disclaimer.
 - **Russian version at `/ru/`** with an EN/RU switcher in the header (desktop + mobile menu), `hreflang` pairs and ru URLs in the sitemap. All 163 country pages, all 10 program pages, the glossary and the full UI are translated (about 1.4 untranslated fragments per page remain: official program names in other languages and a few long passages that failed number validation). A page whose English source changed falls back to English under a "not translated yet" banner (`noindex`, canonical to the English page) until `translate_ru.py --stale` refreshes it. Translations live in `i18n/ru/` and are produced by the new `scripts/translate_ru.py` (deepseek-v4-pro via OpenRouter; numbers/URLs/citations validated, ~$0.02 per country page). A translation is used only while its `source_hash` matches the English page (hash ignores `last_checked`/`Last monitored`), so stale text is never published; `translate_ru.py --stale` is wired into the weekly pipeline. Weekly changes stay English-only. Markdown twins exist for translated ru pages.

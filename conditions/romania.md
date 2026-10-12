@@ -27,9 +27,9 @@ Romania is an EU member (since 2007) and a **full Schengen member since January 
 | [[highly-skilled-employment]] | EU Blue Card (Cartea Albastră) | University degree; job contract; salary threshold | ≤2 years |
 | [[startup-entrepreneur]] | Business visa | Registered company in Romania; investment + jobs | ≤2 years |
 | [[employment-residency]] | Single Permit (work + residence) | Job offer from Romanian employer | ≤2 years |
-| [[student-residency|student residency]] | Student residence permit | Enrollment in Romanian institution | Duration of studies |
-| [[family-reunification|family reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
-| [[retired-residency|retired residency]] | Not available as dedicated program | — | — |
+| [[student-residency\|student residency]] | Student residence permit | Enrollment in Romanian institution | Duration of studies |
+| [[family-reunification\|family reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
+| [[retired-residency\|retired residency]] | Not available as dedicated program | — | — |
 | [[citizenship-by-investment]] | Not available | — | — |
 
 ## Per-Program Detail

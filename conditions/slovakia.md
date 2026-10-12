@@ -27,9 +27,9 @@ Slovakia is an EU/Schengen/Eurozone member in Central Europe with a growing auto
 | [[highly-skilled-employment]] | Modrá karta EÚ (EU Blue Card) | University degree; job contract ≥6mo; salary ≥ 1.5× national average | 5 years |
 | [[startup-entrepreneur]] | Trade license (živnostenský list) residence permit | Registered trade; proof of funds | ≤6 years |
 | [[employment-residency]] | Temporary residence for employment | Job offer; labor market test (vacancy reporting) | ≤2 years |
-| [[student-residency|student residency]] | Temporary residence for study | Enrollment in Slovak institution | Duration of studies |
-| [[family-reunification|family reunification]] | Temporary residence for family reunification | Sponsor with valid permit; income + accommodation | Matching sponsor |
-| [[retired-residency|retired residency]] | Not available as dedicated program | — | — |
+| [[student-residency\|student residency]] | Temporary residence for study | Enrollment in Slovak institution | Duration of studies |
+| [[family-reunification\|family reunification]] | Temporary residence for family reunification | Sponsor with valid permit; income + accommodation | Matching sponsor |
+| [[retired-residency\|retired residency]] | Not available as dedicated program | — | — |
 | [[citizenship-by-investment]] | Not available | — | — |
 
 ## Per-Program Detail

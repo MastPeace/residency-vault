@@ -280,7 +280,9 @@ def md_to_html(body, page_type="entity", current_slug=""):
         
         # Table row (already in table)
         if in_table and "|" in line and line.strip().startswith("|"):
-            cells = [c.strip() for c in line.strip().strip("|").split("|")]
+            # Split on | but keep pipes inside [[target|label]] wikilinks (and \| escapes)
+            cells = [c.replace("\\|", "|").strip() for c in
+                     re.split(r'(?<!\\)\|(?![^\[\]]*\]\])', line.strip().strip("|"))]
             out_lines.append("<tr>")
             for cell in cells:
                 out_lines.append(f'<td>{process_inline(escape_table_cell(cell))}</td>')

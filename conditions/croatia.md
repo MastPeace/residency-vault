@@ -27,9 +27,9 @@ Croatia joined the EU in 2013, the Eurozone and Schengen in 2023. It has one of 
 | [[highly-skilled-employment]] | EU Blue Card (Plava karta EU) | University degree; job offer; salary threshold | ≤2 years |
 | [[startup-entrepreneur]] | Company registration residence | Registered company (d.o.o.) in Croatia | 1 year |
 | [[employment-residency]] | Temporary residence for work | Job offer; labor market test; Aliens Act rules | ≤1 year |
-| [[student-residency|student residency]] | Student residence permit | Enrollment in Croatian institution | Duration of studies |
-| [[family-reunification|family reunification]] | Family reunification (up to 2yr permit) | Sponsor with valid permit; income + accommodation | ≤2 years |
-| [[retired-residency|retired residency]] | Not available as dedicated program | — | — |
+| [[student-residency\|student residency]] | Student residence permit | Enrollment in Croatian institution | Duration of studies |
+| [[family-reunification\|family reunification]] | Family reunification (up to 2yr permit) | Sponsor with valid permit; income + accommodation | ≤2 years |
+| [[retired-residency\|retired residency]] | Not available as dedicated program | — | — |
 | [[citizenship-by-investment]] | Not available | — | — |
 
 ## Per-Program Detail

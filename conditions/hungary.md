@@ -28,9 +28,9 @@ Hungary is an EU/Schengen/NATO member in Central Europe with Budapest as a major
 | [[highly-skilled-employment]] | EU Blue Card (Kék Kártya) | University degree; job offer; salary threshold | ≤4 years |
 | [[startup-entrepreneur]] | Guest self-employment permit | Business plan; proof of funds | ≤3 years |
 | [[employment-residency]] | Residence permit for employment | Job offer; labor market test | ≤3 years |
-| [[student-residency|student residency]] | Residence permit for studies | Enrollment in Hungarian institution | Duration of studies |
-| [[family-reunification|family reunification]] | Family reunification permit | Sponsor with valid permit; income + accommodation | Matching sponsor |
-| [[retired-residency|retired residency]] | Not available as dedicated program | — | — |
+| [[student-residency\|student residency]] | Residence permit for studies | Enrollment in Hungarian institution | Duration of studies |
+| [[family-reunification\|family reunification]] | Family reunification permit | Sponsor with valid permit; income + accommodation | Matching sponsor |
+| [[retired-residency\|retired residency]] | Not available as dedicated program | — | — |
 | [[citizenship-by-investment]] | Not available | — | — |
 
 ## Per-Program Detail

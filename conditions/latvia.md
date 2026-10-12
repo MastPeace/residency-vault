@@ -28,9 +28,9 @@ Latvia is an EU/Schengen/NATO/Eurozone member in the Baltic region. It offers th
 | [[highly-skilled-employment]] | EU Blue Card | University degree; job offer; salary threshold | ≤5 years |
 | [[startup-entrepreneur]] | Startup visa | Innovative startup; Startup Committee approval | ≤3 years |
 | [[employment-residency]] | Standard work permit + residence | Job offer from Latvian employer | ≤5 years |
-| [[student-residency|student residency]] | Student residence permit | Enrollment in Latvian institution | Duration of studies |
-| [[family-reunification|family reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
-| [[retired-residency|retired residency]] | Not available as dedicated program | — | — |
+| [[student-residency\|student residency]] | Student residence permit | Enrollment in Latvian institution | Duration of studies |
+| [[family-reunification\|family reunification]] | Family reunification permit | Sponsor with valid permit | Matching sponsor |
+| [[retired-residency\|retired residency]] | Not available as dedicated program | — | — |
 | [[citizenship-by-investment]] | Not available | — | — |
 
 ## Per-Program Detail

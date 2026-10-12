@@ -27,9 +27,9 @@ Slovenia is an EU/Schengen/Eurozone member in Central Europe at the crossroads o
 | [[highly-skilled-employment]] | EU Blue Card (Modra karta EU) | University degree; job offer; salary ≥ 1.5× average | ≤2 years |
 | [[startup-entrepreneur]] | Company registration + residence permit | Registered company (d.o.o.) in Slovenia | 1 year |
 | [[employment-residency]] | Single Permit (work + residence) | Job offer from Slovenian employer | ≤1 year |
-| [[student-residency|student residency]] | Student residence permit | Enrollment in Slovenian institution | Duration of studies |
-| [[family-reunification|family reunification]] | Family reunification permit | Sponsor with valid permit; income + accommodation | Matching sponsor |
-| [[retired-residency|retired residency]] | Not available as dedicated program | — | — |
+| [[student-residency\|student residency]] | Student residence permit | Enrollment in Slovenian institution | Duration of studies |
+| [[family-reunification\|family reunification]] | Family reunification permit | Sponsor with valid permit; income + accommodation | Matching sponsor |
+| [[retired-residency\|retired residency]] | Not available as dedicated program | — | — |
 | [[citizenship-by-investment]] | Not available | — | — |
 
 ## Per-Program Detail
