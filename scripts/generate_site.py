@@ -944,6 +944,14 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .foot { border-top: 1px solid var(--line); padding: 24px 0 48px; font-size: 13px; color: var(--muted); }
 .foot .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
 .foot a { color: var(--muted); }
+.tg-btn { display: inline-flex; align-items: center; gap: 7px; height: 36px; padding: 0 13px; border-radius: 6px; background: var(--accent);
+  color: var(--accent-ink); font: 600 13px var(--sans); text-decoration: none; white-space: nowrap; }
+.tg-btn:hover { filter: brightness(1.1); text-decoration: none; }
+.topbar .wrap { gap: 12px; }
+.topbar .brand { margin-right: 16px; }
+.foot-r { display: inline-flex; align-items: center; gap: 14px; }
+.foot-ic { display: inline-flex; color: var(--muted); }
+.foot-ic:hover { color: var(--ink); }
 
 @media (max-width: 960px) {
   .hero { grid-template-columns: minmax(0, 1fr); gap: 16px; padding-top: 36px; }
@@ -951,6 +959,7 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
   .page-grid { grid-template-columns: minmax(0, 1fr); }
   .toc { display: none; }
   .topnav { display: none; }
+  .tg-btn span { display: none; } .tg-btn { width: 36px; padding: 0; justify-content: center; }
   .search-btn { min-width: 0; flex: 1; }
   .ctable .col-region, .ctable .col-passport { display: none; }
   .progs li { grid-template-columns: 1fr; gap: 4px; }
@@ -1222,16 +1231,17 @@ def shell(title, body, base, extra_js="", desc=""):
 <body data-base="{base}">
 <header class="topbar"><div class="wrap">
   <a class="brand" href="{base}index.html">Residency<span>Vault</span></a>
-  <nav class="topnav"><a href="{base}index.html#countries">Countries</a><a href="{base}index.html#programs">Programs</a><a href="{REPO_URL}">GitHub</a><a href="{TG_URL}" rel="noopener">Telegram</a></nav>
+  <nav class="topnav"><a href="{base}index.html#countries">Countries</a><a href="{base}index.html#programs">Programs</a></nav>
   <span class="spacer"></span>
   <button class="search-btn" id="search-btn" type="button"><span>Search countries and programs</span><kbd>/</kbd></button>
+  <a class="tg-btn" href="{TG_URL}" rel="noopener" title="News channel on Telegram"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.6 19.6c-.2 1-.9 1.3-1.7.8l-4.7-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.8 8.7-7.9c.4-.3-.1-.5-.6-.2L6.5 13.4l-4.6-1.4c-1-.3-1-1 .2-1.5L20 3.5c.8-.3 1.6.2 1.9.8z"/></svg><span>News channel</span></a>
   <button class="icon-btn" id="theme-btn" type="button" aria-label="Toggle theme">☾</button>
 </div></header>
 <div class="palette" id="palette" role="dialog" aria-label="Search"><div class="palette-box">
   <input type="text" placeholder="Country, code or program…" autocomplete="off" aria-label="Search"><ul></ul>
 </div></div>
 {body}
-<footer class="foot"><div class="wrap"><span>Not legal advice. Conditions change — check the sources cited on each page.</span><span>Built {now} · <a href="{TG_URL}" rel="noopener">Telegram channel</a> · <a href="{REPO_URL}">source</a></span></div></footer>
+<footer class="foot"><div class="wrap"><span>Not legal advice. Conditions change — check the sources cited on each page.</span><span class="foot-r">Built {now}<a class="foot-ic" href="{TG_URL}" rel="noopener" aria-label="Telegram channel" title="Telegram channel"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.6 19.6c-.2 1-.9 1.3-1.7.8l-4.7-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.8 8.7-7.9c.4-.3-.1-.5-.6-.2L6.5 13.4l-4.6-1.4c-1-.3-1-1 .2-1.5L20 3.5c.8-.3 1.6.2 1.9.8z"/></svg></a><a class="foot-ic" href="{REPO_URL}" aria-label="Source on GitHub" title="Source on GitHub"><svg viewBox="0 0 16 16" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38v-1.33c-2.23.48-2.7-1.07-2.7-1.07-.36-.92-.89-1.17-.89-1.17-.73-.5.05-.49.05-.49.8.06 1.23.83 1.23.83.72 1.22 1.88.87 2.34.66.07-.52.28-.87.5-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.6 7.6 0 0 1 4 0c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.28.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48v2.2c0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg></a></span></div></footer>
 <script>{SHELL_JS}</script>
 {extra_js}
 </body>
