@@ -2,6 +2,7 @@
 title: Morocco — Kingdom of Morocco
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, tax, popular_ru]
 category: multi
@@ -150,6 +151,68 @@ Morocco is not a "residency programme" country — it's a lifestyle destination 
 | Freedom House score | 37/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/morocco/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,900 (coastal); ~3,400 (Marrakech) | ^[https://weatherspark.com/countries/MA] hard/official |
 | Average annual temperature | ~18°C (coastal; varies strongly by region) | ^[https://weatherspark.com/countries/MA] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 42/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 446 550 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=MA) — hard/official |
+| Geography & size | Population density | 85 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=MA) — hard/official |
+| Geography & size | Urban population | 63% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=MA) — hard/official |
+| Geography & size | Coastline | 1,835 km (Atlantic + Mediterranean) | [source](https://en.wikipedia.org/wiki/Geography_of_Morocco) — soft/estimate |
+| Geography & size | Highest point | Jebel Toubkal 4,167 m | [source](https://en.wikipedia.org/wiki/Morocco) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Morocco) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (WAT); -2h from Moscow (UTC+3) | [source](https://en.wikipedia.org/wiki/Morocco) — soft/estimate |
+| Climate | Avg precipitation | 346 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=MA) — hard/official |
+| Climate | PM2.5 exposure | 18.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=MA) — hard/official |
+| Climate | Climate zone | Csa (hot-summer Mediterranean) north, BSh/BWh (hot semi-arid/arid) south | [source](https://en.wikipedia.org/wiki/Morocco) — soft/estimate |
+| Climate | Temp winter / summer | Casablanca: Jan avg ~13°C, Aug avg ~23°C (Mediterranean coastal) | [source](https://en.climate-data.org/africa/morocco/grand-casablanca/casablanca-438/) — soft/estimate |
+| Climate | Rainy days | No reliable data | — |
+| Climate | Humidity | No reliable data | — |
+| Climate | Natural hazards | Earthquakes, droughts, occasional flooding | [source](https://en.wikipedia.org/wiki/Morocco) — soft/estimate |
+| Climate | Air quality | PM2.5 ~18-20 µg/m³ annual mean (IQAir 2024) | [source](https://www.iqair.com/air-quality/morocco) — soft/estimate |
+| Economy | GDP (nominal) | $182.4B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MA) — hard/official |
+| Economy | GDP growth | 4.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=MA) — hard/official |
+| Economy | Inflation (CPI) | 0.7% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=MA) — hard/official |
+| Economy | Unemployment | 9.0% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=MA) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 12% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=MA) — hard/official |
+| Economy | Remittances | 7.5% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=MA) — hard/official |
+| Economy | Credit rating | S&P BB+/BBB-, Moody's Ba1, Fitch BB+ (2025) | [source](https://maroc.ma/en/news/economy-fitch-affirms-morocco-bb-outlook-stable) — soft/estimate |
+| Economy | Currency | MAD (Moroccan dirham), managed float pegged to basket (EUR/USD 60/40) | [source](https://en.wikipedia.org/wiki/Morocco) — soft/estimate |
+| Economy | Top industries | Agriculture (~14% GDP), tourism, manufacturing (automotive, aerospace) | [source](https://en.wikipedia.org/wiki/Economy_of_Morocco) — soft/estimate |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 91% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=MA) — hard/official |
+| Technology | Fixed broadband subs | 7.3 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=MA) — hard/official |
+| Technology | High-tech exports | 5.4% of manufactured exports (2023) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=MA) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | 66th (WIPO GII 2024, innovation overperformer) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | 5G launched 2024; major cities covered by 2025 | [source](https://www.maroc.ma/en/news/morocco-goes-5g-operators-roll-out-next-generation-connectivity) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses; PayPal limited | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Rank 90 (StartupBlink GSEI 2026) | [source](https://www.startupblink.com/startup-ecosystem/morocco) — soft/estimate |
+| Human development & health | Life expectancy | 75.5 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=MA) — hard/official |
+| Human development & health | Hospital beds | 0.7 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=MA) — hard/official |
+| Human development & health | HDI | 0.698, rank 120 of 193 (UNDP 2023/2024) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | Rank 79, score 2.054 (GPI 2024) | [source](https://countryeconomy.com/demography/global-peace-index/morocco) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise increased caution (terrorism risk) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/morocco-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax under Islamic law principles; capital gains taxed as income | [source](https://taxsummaries.pwc.com/morocco) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply (PwC Morocco 2026) | [source](https://taxsummaries.pwc.com/morocco/corporate/taxes-on-corporate-income) — soft/estimate |
+| Business | Company setup | No reliable data | — |
+| Business | Corporate tax | 20% on income <100M MAD, 35% on ≥100M MAD (2026) | [source](https://taxsummaries.pwc.com/morocco/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | No reliable data | — |
+| Connectivity | Visa-free for Russians | Russians need visa to enter Morocco (2025) | [source](https://en.wikipedia.org/wiki/Visa_policy_of_Morocco) — soft/estimate |
+| For Russian citizens | Sanctions position | Morocco maintains neutral position; did not join Western sanctions on Russia; abstained in UN votes | [source](https://en.hespress.com/99666-russia-thanks-morocco-for-refusing-to-take-anti-russian-stance-on-ukrain.html) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 99, score ~5.1 (WHR 2025) | [source](https://worldhappiness.report/) — soft/estimate |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | Rank 68, score 492, moderate proficiency (EF EPI 2024); English not widely spoken outside tourism | [source](https://www.ef.edu/epi/regions/africa/morocco) — soft/estimate |
 
 ## Country Card
 

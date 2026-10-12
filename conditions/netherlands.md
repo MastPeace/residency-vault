@@ -2,6 +2,7 @@
 title: Netherlands — Residency & Citizenship Conditions
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, blue-card, highly-skilled-migrant, daft, startup, it_friendly]
 category: it_friendly
@@ -158,6 +159,68 @@ The Netherlands has an efficient, employer-driven immigration system: HSM is fas
 | Freedom House score | 97/100 (Free) | [Freedom House](https://freedomhouse.org/country/netherlands/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | 1,662 h (Amsterdam) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~10 °C | [Wikipedia / KNMI](https://en.wikipedia.org/wiki/Netherlands#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 44/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 41 540 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=NL) — hard/official |
+| Geography & size | Population density | 534 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=NL) — hard/official |
+| Geography & size | Urban population | 96% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=NL) — hard/official |
+| Geography & size | Coastline | 451 km (North Sea); 1,275 km including Wadden Sea islands | [source](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_length_of_coastline) — soft/estimate |
+| Geography & size | Highest point | Vaalserberg 322 m | [source](https://en.wikipedia.org/wiki/Netherlands) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Netherlands) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 (CEST summer); -2h from Moscow (UTC+3) | [source](https://en.wikipedia.org/wiki/Netherlands) — soft/estimate |
+| Climate | Avg precipitation | 778 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=NL) — hard/official |
+| Climate | PM2.5 exposure | 8.6 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=NL) — hard/official |
+| Climate | Climate zone | Cfb (oceanic/temperate maritime) | [source](https://en.wikipedia.org/wiki/Netherlands) — soft/estimate |
+| Climate | Temp winter / summer | Amsterdam: Jan avg ~3°C, Jul avg ~18°C (maritime) | [source](https://en.climate-data.org/europe/the-netherlands/north-holland/amsterdam-3330/) — soft/estimate |
+| Climate | Rainy days | No reliable data | — |
+| Climate | Humidity | No reliable data | — |
+| Climate | Natural hazards | Flooding, storm surges; extensive flood defences (Delta Works) | [source](https://en.wikipedia.org/wiki/Netherlands) — soft/estimate |
+| Climate | Air quality | PM2.5 ~10-12 µg/m³ annual mean (IQAir 2024) | [source](https://www.iqair.com/air-quality/netherlands) — soft/estimate |
+| Economy | GDP (nominal) | $1.3T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NL) — hard/official |
+| Economy | GDP growth | 1.8% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=NL) — hard/official |
+| Economy | Inflation (CPI) | 3.2% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=NL) — hard/official |
+| Economy | Unemployment | 3.9% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=NL) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 25.7 (2021) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=NL) — hard/official |
+| Economy | Tourism receipts | 1% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=NL) — hard/official |
+| Economy | Remittances | 0.4% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=NL) — hard/official |
+| Economy | Credit rating | S&P AAA, Moody's Aaa, Fitch AAA (2025) | [source](https://en.wikipedia.org/wiki/Economy_of_the_Netherlands) — soft/estimate |
+| Economy | Currency | EUR (euro), floating, Eurozone member | [source](https://en.wikipedia.org/wiki/Netherlands) — soft/estimate |
+| Economy | Top industries | Services (~70% GDP), manufacturing (high-tech, chemicals), agriculture (world #2 exporter) | [source](https://en.wikipedia.org/wiki/Economy_of_the_Netherlands) — soft/estimate |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 97% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=NL) — hard/official |
+| Technology | Fixed broadband subs | 43.0 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=NL) — hard/official |
+| Technology | High-tech exports | 23.5% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=NL) — hard/official |
+| Technology | R&D spend | 2.27% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=NL) — hard/official |
+| Technology | Global Innovation Index | 7th (WIPO GII 2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | 5G widely available nationwide (2025) | [source](https://www.overons.kpn/nieuws/en/the-next-phase-of-5g-arrives-today) — soft/estimate |
+| Technology | Online payments | Stripe fully available; PayPal, Apple Pay, iDEAL widely used | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 82.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=NL) — hard/official |
+| Human development & health | Hospital beds | 2.4 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=NL) — hard/official |
+| Human development & health | HDI | 0.946, rank 10 of 193 (UNDP 2023/2024, very high) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | Rank 18, score 1.527 (GPI 2024) | [source](https://www.visionofhumanity.org/wp-content/uploads/2024/06/GPI-2024-A3-map-poster.pdf) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise increased caution (terrorism risk) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/netherlands-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | Net wealth tax (Box 3) ~2% on deemed return; inheritance tax 10-40% (PwC 2024) | [source](https://www.pwc.nl/en/insights-and-publications/services-and-industries/tax/doing-business-in-the-netherlands/taxation-in-the-netherlands.html) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply under Dutch implementation of EU ATAD | [source](https://taxsummaries.pwc.com/netherlands) — soft/estimate |
+| Business | Company setup | No reliable data | — |
+| Business | Corporate tax | 25.8% CIT rate (19% on first €200k profit), 2025 | [source](https://taxsummaries.pwc.com/netherlands/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | TU Delft, QS rank 49 (2025) | [source](https://delta.tudelft.nl/en/article/tu-delft-again-highest-ranked-dutch-university-in-qs-ranking) — soft/estimate |
+| Connectivity | Visa-free for Russians | Schengen visa required for Russians; Netherlands suspended visa facilitation (2025) | [source](https://www.netherlandsworldwide.nl/visa-the-netherlands/schengen-visa/apply-russian-federation) — soft/estimate |
+| For Russian citizens | Sanctions position | Strong supporter of EU sanctions on Russia; advocates for stricter enforcement | [source](https://www.government.nl/themes/international-cooperation/russia-and-ukraine/the-netherlands-position) — hard/official |
+| Quality of life | World Happiness rank | Rank 6, score ~7.3 (WHR 2024-2025) | [source](https://www.iamsterdam.com/en/business/the-netherlands-ranks-6-in-the-2024-world-happiness-report) — soft/estimate |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | Rank 1, very high proficiency (EF EPI 2024); English widely spoken | [source](https://www.ef.com/assetscdn/WIBIwq6RdJvcD9bc8RMd/cefcom-epi-site/fact-sheets/2024/ef-epi-fact-sheet-netherlands-english.pdf) — soft/estimate |
 
 ## Country Card
 

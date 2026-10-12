@@ -2,6 +2,7 @@
 title: Montenegro — Montenegro
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, digital-nomad, popular_ru, yacht_captain]
 category: multi
@@ -150,6 +151,68 @@ Expats report Montenegro as a friendly, affordable destination. Property-based r
 | Freedom House score (2025) | 69/100 — Partly Free | ^[https://freedomhouse.org/country/montenegro/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,500 (coast) | ^[https://en.wikipedia.org/wiki/Podgorica#Climate] hard/official |
 | Average annual temperature | ~15°C (coast); ~10°C (mountains) | ^[https://en.wikipedia.org/wiki/Podgorica#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 39/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 13 883 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=ME) — hard/official |
+| Geography & size | Population density | 46 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=ME) — hard/official |
+| Geography & size | Urban population | 66% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=ME) — hard/official |
+| Geography & size | Coastline | 293.5 km (World Vector Shoreline) | [source](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_length_of_coastline) — soft/estimate |
+| Geography & size | Highest point | Zla Kolata 2,534 m | [source](https://en.wikipedia.org/wiki/List_of_mountains_in_Montenegro) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Montenegro) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 (CEST summer); -2h from Moscow (UTC+3) | [source](https://en.wikipedia.org/wiki/Montenegro) — soft/estimate |
+| Climate | Avg precipitation | No reliable data | — |
+| Climate | PM2.5 exposure | 18.5 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=ME) — hard/official |
+| Climate | Climate zone | Cfa (humid subtropical) inland, Csa (hot-summer Mediterranean) coast | [source](https://en.wikipedia.org/wiki/Montenegro) — soft/estimate |
+| Climate | Temp winter / summer | Podgorica: Jan avg 4.2°C, Aug avg 26.3°C | [source](https://en.climate-data.org/europe/montenegro/podgorica/podgorica-1324/) — soft/estimate |
+| Climate | Rainy days | No reliable data | — |
+| Climate | Humidity | No reliable data | — |
+| Climate | Natural hazards | Earthquakes, floods; no INFORM rank found | [source](https://en.wikipedia.org/wiki/Montenegro) — soft/estimate |
+| Climate | Air quality | PM2.5 16.5 µg/m³ annual mean (2025, IQAir) | [source](https://www.iqair.com/air-quality/montenegro) — soft/estimate |
+| Economy | GDP (nominal) | $9.2B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ME) — hard/official |
+| Economy | GDP growth | 2.7% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=ME) — hard/official |
+| Economy | Inflation (CPI) | 3.9% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=ME) — hard/official |
+| Economy | Unemployment | 13.6% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=ME) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 34.3 (2021) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=ME) — hard/official |
+| Economy | Tourism receipts | 14% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=ME) — hard/official |
+| Economy | Remittances | 9.7% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=ME) — hard/official |
+| Economy | Credit rating | S&P B+, Moody's B1 (2024) | [source](https://www.theglobaleconomy.com/Montenegro/credit_rating) — soft/estimate |
+| Economy | Currency | EUR (unilaterally adopted, euroised; not official Eurozone member) | [source](https://en.wikipedia.org/wiki/Montenegro_and_the_euro) — soft/estimate |
+| Economy | Top industries | Tourism (~25% GDP), energy, agriculture | [source](https://en.wikipedia.org/wiki/Economy_of_Montenegro) — soft/estimate |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 89% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=ME) — hard/official |
+| Technology | Fixed broadband subs | 32.3 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=ME) — hard/official |
+| Technology | High-tech exports | 14.5% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=ME) — hard/official |
+| Technology | R&D spend | 0.36% of GDP (2019) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=ME) — hard/official |
+| Technology | Global Innovation Index | 65th (WIPO GII 2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | No reliable data | — |
+| Technology | Online payments | Stripe tax collection available; PayPal available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 77.9 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=ME) — hard/official |
+| Human development & health | Hospital beds | 3.8 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=ME) — hard/official |
+| Human development & health | HDI | 0.844, rank 50 of 193 (UNDP 2023/2024) | [source](https://www.undp.org/montenegro/press-releases/montenegro-among-countries-very-high-development) — hard/official |
+| Safety | Global Peace Index | Rank 35, score 1.746 (GPI 2024) | [source](https://countryeconomy.com/demography/global-peace-index/montenegro) — soft/estimate |
+| Safety | US travel advisory | Level 1: Exercise normal precautions (2026) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/montenegro-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 3-6% (real estate only); capital gains tax 15% | [source](https://taxsummaries.pwc.com/montenegro) — soft/estimate |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | No reliable data | — |
+| Business | Corporate tax | 9% up to €100k, 12% €100k-1.5M, 15% above €1.5M (PwC 2026) | [source](https://taxsummaries.pwc.com/montenegro/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | No reliable data | — |
+| Connectivity | Visa-free for Russians | Visa-free up to 30 days until Oct 31, 2026; visa required from Nov 1, 2026 | [source](https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/russian-federation) — hard/official |
+| For Russian citizens | Sanctions position | EU candidate country; aligned with EU sanctions on Russia; NATO member since 2017 | [source](https://en.wikipedia.org/wiki/Montenegro) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 60, score 6.139 (WHR 2025) | [source](https://data.worldhappiness.report/country/MNE) — soft/estimate |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | No reliable data | — |
 
 ## Country Card
 
