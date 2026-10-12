@@ -896,10 +896,6 @@ kbd { font: 11px var(--mono); padding: 1px 6px; border: 1px solid var(--line-str
 .page-head .sub .code { font: 600 13px var(--mono); padding: 1px 8px; background: var(--ink); color: var(--bg); border-radius: 3px; }
 .page-head .sub .dates { font: 13px var(--mono); color: var(--muted); }
 .page-head .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
-.qa-h span { font-weight: 400; text-transform: none; letter-spacing: 0; margin-left: 8px; }
-.qa ul { margin: 0; padding: 0; list-style: none; }
-.qa li { font: 400 15.5px/1.5 var(--serif); padding: 3px 0; }
-.qa li b { font: 600 11px var(--sans); letter-spacing: .05em; text-transform: uppercase; color: var(--ink-2); margin-right: 8px; }
 .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); margin: 28px 0 0; border-top: 2px solid var(--ink); border-bottom: 1px solid var(--line); }
 .facts div { padding: 12px 16px 14px 0; }
 .facts div + div { padding-left: 16px; border-left: 1px solid var(--line); }
