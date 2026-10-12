@@ -2,6 +2,7 @@
 title: Colombia — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, digital-nomad, tax, investor, type-m, type-r]
 category: multi
@@ -163,6 +164,68 @@ Not a major yachting hub. Cartagena has marina facilities. No special yacht/capt
 | Freedom House score | 70/100 (Free) | [Freedom House](https://freedomhouse.org/country/colombia/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~1,800 h (Bogotá, high-altitude equatorial); 2,400+ h (Medellín, Caribbean) | [Current Results](https://www.currentresults.com/Weather/Colombia/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~14 °C (Bogotá — cool highland); 24–28 °C (Medellín, coast, lowlands) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/colombia/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 53/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 1 140 619 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=CO) — hard/official |
+| Geography & size | Population density | 48 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=CO) — hard/official |
+| Geography & size | Urban population | 79% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=CO) — hard/official |
+| Geography & size | Coastline | 3,208 km (Caribbean 1,760 km, Pacific 1,448 km) (CIA 2025) | [source](https://www.cia.gov/the-world-factbook/countries/colombia/) — hard/official |
+| Geography & size | Highest point | Pico Cristobal Colon, 5,775 m (CIA 2025) | [source](https://www.cia.gov/the-world-factbook/countries/colombia/) — hard/official |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Colombia) — soft/estimate |
+| Geography & size | Time zone | UTC-5 (COT), 8 hours behind Moscow (MSK UTC+3) | [source](https://www.timeanddate.com/worldclock/colombia/bogota) — soft/estimate |
+| Climate | Avg precipitation | 3240 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=CO) — hard/official |
+| Climate | PM2.5 exposure | 18.4 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=CO) — hard/official |
+| Climate | Climate zone | Bogota: Cfb (subtropical highland/oceanic); tropical along coast and eastern plains | [source](https://www.weather-atlas.com/en/colombia/bogota-climate) — soft/estimate |
+| Climate | Temp winter / summer | Bogota: Jan avg 14°C (57°F), Jul avg 13.5°C (56°F); minimal seasonal variation | [source](https://www.weather-atlas.com/en/colombia/bogota-climate) — soft/estimate |
+| Climate | Rainy days | ~177 rainy days/year, Bogota | [source](https://temperatures.com/weather/bogota/climate) — soft/estimate |
+| Climate | Humidity | 78–87% relative humidity, Bogota | [source](https://www.weather-atlas.com/en/colombia/bogota-climate) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, volcanic eruptions, landslides, floods; INFORM Risk 2025 rank ~52 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | 14.8 µg/m³ PM2.5 annual mean (2024 IQAir report) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $457.4B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CO) — hard/official |
+| Economy | GDP growth | 2.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CO) — hard/official |
+| Economy | Inflation (CPI) | 5.1% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=CO) — hard/official |
+| Economy | Unemployment | 8.3% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=CO) — hard/official |
+| Economy | Central govt debt | 71% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=CO) — hard/official |
+| Economy | Gini index | 54.4 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=CO) — hard/official |
+| Economy | Tourism receipts | 5% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=CO) — hard/official |
+| Economy | Remittances | 2.9% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=CO) — hard/official |
+| Economy | Credit rating | S&P BB+ stable, Moody's Baa3 stable, Fitch BB+ negative outlook (2025) | [source](https://www.worldgovernmentbonds.com/credit-rating/colombia) — soft/estimate |
+| Economy | Currency | COP (Colombian peso), floating; ~20% depreciation vs USD 2021-2026 | [source](https://www.xe.com/currencycharts/?from=USD&to=COP) — soft/estimate |
+| Economy | Top industries | Services (57% GDP), industry (22%), agriculture (7%) (2024 est.) | [source](https://www.cia.gov/the-world-factbook/countries/colombia/) — hard/official |
+| Economy | Economic Complexity | ECI rank 56th (Harvard Growth Lab, 2024) | [source](https://atlas.cid.harvard.edu/countries/49) — hard/official |
+| Technology | Internet users | 79% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CO) — hard/official |
+| Technology | Fixed broadband subs | 17.2 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=CO) — hard/official |
+| Technology | High-tech exports | 9.0% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=CO) — hard/official |
+| Technology | R&D spend | 0.29% of GDP (2020) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=CO) — hard/official |
+| Technology | Global Innovation Index | GII 2025 rank 61st out of 139 economies | [source](https://www.wipo.int/global_innovation_index/en/2025/) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 2024: 0.7705 (high), rank 58/193 | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/42-Colombia) — hard/official |
+| Technology | Median broadband speed | ~95 Mbps median fixed broadband (Ookla, mid-2025) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G launched 2024, limited coverage in major cities (2025) | [source](https://www.gsma.com) — soft/estimate |
+| Technology | Online payments | Stripe not available for Colombia-based businesses (not on stripe.com/global 2026) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank 35th globally (2025), 2nd in Latin America | [source](https://www.startupblink.com/startups/colombia) — soft/estimate |
+| Human development & health | Life expectancy | 77.9 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CO) — hard/official |
+| Human development & health | Hospital beds | 1.7 per 1000 (2020) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=CO) — hard/official |
+| Human development & health | HDI | HDI 0.758 (2023), rank 91/193 (high human development) | [source](https://hdr.undp.org/data-center/specific-country-data#/countries/COL) — hard/official |
+| Safety | Global Peace Index | GPI 2024 rank 146/163, score 2.887 | [source](https://countryeconomy.com/demography/global-peace-index/colombia) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 3: Reconsider travel (Mar 2026) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | Wealth tax 0–1.5% on net equity >COP 5B; no inheritance tax; capital gains 15% general rate | [source](https://taxsummaries.pwc.com/colombia) — soft/estimate |
+| Money & tax | CFC rules | Yes, Colombia has CFC rules (PwC Worldwide Tax Summaries 2025) | [source](https://taxsummaries.pwc.com/colombia) — soft/estimate |
+| Business | Company setup | ~10 days, cost ~14% of income per capita (World Bank DB 2019) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/colombia) — soft/estimate |
+| Business | Corporate tax | 35% headline corporate income tax rate (2025) | [source](https://taxsummaries.pwc.com/colombia) — soft/estimate |
+| Family & education | Top university | Universidad de los Andes, QS World Rank 198 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Visa-free up to 90 days for Russian passport holders (2026) | [source](https://visachecker.org/visa/colombia) — soft/estimate |
+| For Russian citizens | Sanctions position | Colombia has condemned Russia's invasion at UN; has not imposed unilateral sanctions beyond UN positions | [source](https://www.cancilleria.gov.co/en) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness Report 2025: rank 62, score 6.125 | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2025: rank 2 out of 46 countries | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI 2025: rank ~75, English not widely spoken; Spanish essential | [source](https://www.ef.com/epi/) — soft/estimate |
 
 ## Country Card
 

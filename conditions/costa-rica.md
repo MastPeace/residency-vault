@@ -2,6 +2,7 @@
 title: Costa Rica — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, digital-nomad, rentista, pensionado, investor, tax]
 category: multi
@@ -172,6 +173,68 @@ Pacific and Caribbean coastlines make Costa Rica a notable yachting destination 
 | Freedom House score | 91/100 (Free) | [Freedom House](https://freedomhouse.org/country/costa-rica/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,000 h (San José, Central Valley); 2,500+ h (Pacific coast, Guanacaste) | [Current Results](https://www.currentresults.com/Weather/Costa-Rica/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~22 °C (San José, Central Valley — "eternal spring"); 27–30 °C (coastal lowlands) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/costa-rica/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 51 100 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=CR) — hard/official |
+| Geography & size | Population density | 101 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=CR) — hard/official |
+| Geography & size | Urban population | 80% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=CR) — hard/official |
+| Geography & size | Coastline | 1,290 km (CIA World Factbook) | [source](https://www.cia.gov/the-world-factbook/countries/costa-rica/) — hard/official |
+| Geography & size | Highest point | Cerro Chirripo, 3,820 m | [source](https://dev.peakvisor.com/adm/costa-rica.html) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Costa_Rica) — soft/estimate |
+| Geography & size | Time zone | UTC-6 (CST), 9 hours behind Moscow (MSK UTC+3) | [source](https://www.timeanddate.com/worldclock/costa-rica/san-jose) — soft/estimate |
+| Climate | Avg precipitation | 2926 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=CR) — hard/official |
+| Climate | PM2.5 exposure | 17.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=CR) — hard/official |
+| Climate | Climate zone | San Jose: Aw/Cfb (tropical savanna/highland); diverse microclimates | [source](https://en.wikipedia.org/wiki/Costa_Rica) — soft/estimate |
+| Climate | Temp winter / summer | San Jose: Jan avg 22°C (72°F), Jul avg 23°C (73°F); minimal seasonal variation | [source](https://www.weather-atlas.com/en/costa-rica/san-jose-climate) — soft/estimate |
+| Climate | Rainy days | ~170 rainy days/year, San Jose | [source](https://www.climatestotravel.com/climate/costa-rica/san-jose) — soft/estimate |
+| Climate | Humidity | ~75–82% annual relative humidity, San Jose | [source](https://www.weather-atlas.com/en/costa-rica/san-jose-climate) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, volcanic eruptions, hurricanes, floods; INFORM Risk 2025 rank ~95 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | 9.1 µg/m³ PM2.5 annual mean (2024 IQAir report) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $102.9B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CR) — hard/official |
+| Economy | GDP growth | 4.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CR) — hard/official |
+| Economy | Inflation (CPI) | -0.1% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=CR) — hard/official |
+| Economy | Unemployment | 6.8% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=CR) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 45.5 (2025) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=CR) — hard/official |
+| Economy | Tourism receipts | 7% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=CR) — hard/official |
+| Economy | Remittances | 0.8% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=CR) — hard/official |
+| Economy | Credit rating | S&P BB stable, Moody's Ba2 stable, Fitch BB positive outlook (2025) | [source](https://www.fitchratings.com/entity/costa-rica-80442261) — hard/official |
+| Economy | Currency | CRC (Costa Rican colon), managed float; ~5% depreciation vs USD 2021-2026 | [source](https://www.xe.com/currencycharts/?from=USD&to=CRC) — soft/estimate |
+| Economy | Top industries | Services (75% GDP), industry (21%), agriculture (4%) (2024 est.) | [source](https://www.cia.gov/the-world-factbook/countries/costa-rica/) — hard/official |
+| Economy | Economic Complexity | ECI rank 47th (OEC, 2024) | [source](https://oec.world/en/profile/country/cri) — hard/official |
+| Technology | Internet users | 87% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CR) — hard/official |
+| Technology | Fixed broadband subs | 23.3 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=CR) — hard/official |
+| Technology | High-tech exports | 22.9% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=CR) — hard/official |
+| Technology | R&D spend | 0.34% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=CR) — hard/official |
+| Technology | Global Innovation Index | GII 2025 rank 72nd out of 139 economies | [source](https://www.wipo.int/global_innovation_index/en/2025/) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 2024: 0.7630 (high), rank 63/193 | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/50-Costa-Rica) — hard/official |
+| Technology | Median broadband speed | ~70 Mbps median fixed broadband (Ookla, mid-2025) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G launched 2025 by Liberty (first in Central America); limited coverage | [source](https://www.ericsson.com/en/press-releases/2025/) — soft/estimate |
+| Technology | Online payments | Stripe not available for Costa Rica-based businesses (not on stripe.com/global 2026) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank 58th globally (2025) | [source](https://www.startupblink.com/startups/costa-rica) — soft/estimate |
+| Human development & health | Life expectancy | 81.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CR) — hard/official |
+| Human development & health | Hospital beds | 1.1 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=CR) — hard/official |
+| Human development & health | HDI | HDI 0.805 (2023), rank 64/193 (very high human development) | [source](https://hdr.undp.org/data-center/specific-country-data#/countries/CRI) — hard/official |
+| Safety | Global Peace Index | GPI 2025 rank 58/163, score 1.950 | [source](https://www.visionofhumanity.org/maps/) — hard/official |
+| Safety | US travel advisory | US State Dept Level 2: Exercise increased caution (Apr 2026) | [source](https://travel.state.gov/content/travel/en/international-travel/travel-advisories/costa-rica.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains tax 15% general rate (2025) | [source](https://taxsummaries.pwc.com/costa-rica) — soft/estimate |
+| Money & tax | CFC rules | No comprehensive CFC rules (PwC 2025) | [source](https://taxsummaries.pwc.com/costa-rica) — soft/estimate |
+| Business | Company setup | ~23 days, cost ~9% of income per capita (World Bank DB 2019) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/costa-rica) — soft/estimate |
+| Business | Corporate tax | 30% headline corporate income tax rate (2025) | [source](https://taxsummaries.pwc.com/costa-rica) — soft/estimate |
+| Family & education | Top university | University of Costa Rica, QS rank 501–550 band (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Visa-free up to 90 days for Russian passport holders (2026) | [source](https://embassyinformation.com/visa/ru/costa-rica) — soft/estimate |
+| For Russian citizens | Sanctions position | Costa Rica has condemned Russia's invasion at UN and aligned with Western positions; no independent sanctions | [source](https://www.rree.go.cr/) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness Report 2025: rank 11, score 6.956 | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2025: not ranked in top 46 | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI 2025: rank 4 globally (Costa Rica), score 534; English widely spoken in business/tourism | [source](https://www.ef.com/epi/) — soft/estimate |
 
 ## Country Card
 

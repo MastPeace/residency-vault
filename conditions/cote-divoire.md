@@ -2,6 +2,7 @@
 title: Côte d'Ivoire — Republic of Côte d'Ivoire
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, employment_residency, investment_residency]
 category: clear_pathway
@@ -100,6 +101,68 @@ Visa required (e-visa or embassy). French is the working language. Abidjan has a
 | Freedom House score | 49/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/cote-divoire/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,600 (Abidjan) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Abidjan,Cote-d%27Ivoire] hard/official |
 | Average annual temperature | ~27°C (Abidjan, tropical coastal) | ^[https://en.climate-data.org/africa/cote-d-ivoire/lagunes/abidjan-521/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 48/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 322 460 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=CI) — hard/official |
+| Geography & size | Population density | 100 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=CI) — hard/official |
+| Geography & size | Urban population | 55% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=CI) — hard/official |
+| Geography & size | Coastline | 515 km on Gulf of Guinea | [source](https://en.wikipedia.org/wiki/Geography_of_Ivory_Coast) — soft/estimate |
+| Geography & size | Highest point | Mount Nimba, 1,752 m | [source](https://en.wikipedia.org/wiki/Geography_of_Ivory_Coast) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Ivory_Coast) — soft/estimate |
+| Geography & size | Time zone | UTC+0 (GMT), 3 hours behind Moscow (MSK UTC+3) | [source](https://www.worldtimeserver.com/current_time_in_CI.aspx) — soft/estimate |
+| Climate | Avg precipitation | 1348 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=CI) — hard/official |
+| Climate | PM2.5 exposure | 20.4 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=CI) — hard/official |
+| Climate | Climate zone | Aw (tropical savanna) in most areas; Am (tropical monsoon) in southwest | [source](https://en.wikipedia.org/wiki/Geography_of_Ivory_Coast) — soft/estimate |
+| Climate | Temp winter / summer | Abidjan: Jan avg 27.8°C (82°F), Aug avg 25.2°C (77°F) | [source](https://www.climatestotravel.com/climate/ivory-coast/abidjan) — soft/estimate |
+| Climate | Rainy days | ~137 rainy days/year, Abidjan | [source](https://www.climatestotravel.com/climate/ivory-coast/abidjan) — soft/estimate |
+| Climate | Humidity | ~85% average annual relative humidity, Abidjan | [source](https://www.climatestotravel.com/climate/ivory-coast/abidjan) — soft/estimate |
+| Climate | Natural hazards | Coastal flooding, heavy surf, torrential flooding during rainy season; INFORM Risk 2025 rank ~60 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | ~38 µg/m³ PM2.5 annual mean (2024 IQAir report, estimated) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $99.8B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CI) — hard/official |
+| Economy | GDP growth | 6.5% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CI) — hard/official |
+| Economy | Inflation (CPI) | 0.1% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=CI) — hard/official |
+| Economy | Unemployment | 2.3% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=CI) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 35.3 (2021) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=CI) — hard/official |
+| Economy | Tourism receipts | 2% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=CI) — hard/official |
+| Economy | Remittances | 2.0% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=CI) — hard/official |
+| Economy | Credit rating | S&P BB- stable, Moody's Ba3 positive, Fitch BB- (2025) | [source](https://www.worldgovernmentbonds.com/credit-rating/ivory-coast) — soft/estimate |
+| Economy | Currency | XOF (CFA franc BCEAO), pegged to EUR; ~7% depreciation vs USD 2021-2026 | [source](https://www.xe.com/currencycharts/?from=USD&to=XOF) — soft/estimate |
+| Economy | Top industries | Agriculture (~17% GDP), services (~57%), industry (~26%) (2024 est.) | [source](https://www.cia.gov/the-world-factbook/countries/cote-divoire/) — hard/official |
+| Economy | Economic Complexity | ECI rank ~100th (Harvard Growth Lab, 2024) | [source](https://atlas.cid.harvard.edu/rankings) — hard/official |
+| Technology | Internet users | 41% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CI) — hard/official |
+| Technology | Fixed broadband subs | 1.6 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=CI) — hard/official |
+| Technology | High-tech exports | 5.3% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=CI) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | GII 2025 rank 114th out of 139 economies | [source](https://www.wipo.int/global_innovation_index/en/2025/) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 2024: 0.5021 (high), rank 140/193 | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/42-Cote-dIvoire) — hard/official |
+| Technology | Median broadband speed | ~25 Mbps median fixed broadband (Ookla, 2025 est.) | [source](https://www.speedtest.net/global-index) — soft/estimate |
+| Technology | 5G | 5G launched 2024 in Abidjan; limited coverage (2025) | [source](https://www.gsma.com) — soft/estimate |
+| Technology | Online payments | Stripe not available (not on stripe.com/global) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank 95th globally (2025); top in Francophone West Africa | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 62.1 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CI) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | HDI 0.544 (2023), rank 166/193 (low human development) | [source](https://hdr.undp.org/data-center/specific-country-data#/countries/CIV) — hard/official |
+| Safety | Global Peace Index | No reliable data | — |
+| Safety | US travel advisory | US State Dept Level 2: Exercise increased caution (Feb 2026) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html) — hard/official |
+| Money & tax | FATF status | On FATF grey list (increased monitoring) (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax applies; capital gains taxed as income | [source](https://taxsummaries.pwc.com/cote-divoire) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply (WAEMU framework, PwC 2025) | [source](https://taxsummaries.pwc.com/cote-divoire) — soft/estimate |
+| Business | Company setup | ~6 days, cost ~44% of income per capita (World Bank DB 2019) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/cote-divoire) — soft/estimate |
+| Business | Corporate tax | 25% headline corporate income tax rate (2025) | [source](https://taxsummaries.pwc.com/cote-divoire) — soft/estimate |
+| Family & education | Top university | Universite Felix Houphouet-Boigny; not ranked in QS top 1500 | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | eVisa required for Russian citizens; ~73 EUR, 90 days multiple entry (2026) | [source](https://www.entryconditions.com/russia/cote-divoire) — soft/estimate |
+| For Russian citizens | Sanctions position | UN member; voted for UNGA resolutions on Ukraine; no independent sanctions against Russia | [source](https://digitallibrary.un.org/) — hard/official |
+| Quality of life | World Happiness rank | World Happiness Report 2025: rank 121, score 4.511 | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI 2025: rank 122 globally, score 393; English very limited; French essential | unsourced/unverified |
 
 ## Country Card
 

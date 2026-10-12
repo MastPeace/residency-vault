@@ -2,6 +2,7 @@
 title: China — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, work-permit, clear_pathway]
 category: clear_pathway
@@ -116,6 +117,68 @@ China is rarely a target for independent relocants or digital nomads because the
 | Freedom House score | 9/100 (Not Free) | [Freedom House](https://freedomhouse.org/country/china/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,670 h (Beijing); higher in south | [Current Results](https://www.currentresults.com/Weather/China/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~13 °C (Beijing, north); ~22 °C (south) | [Wikipedia](https://en.wikipedia.org/wiki/China#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 9 562 910 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=CN) — hard/official |
+| Geography & size | Population density | 150 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=CN) — hard/official |
+| Geography & size | Urban population | 66% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=CN) — hard/official |
+| Geography & size | Coastline | 14,500 km (2021 CIA World Factbook) | [source](https://en.wikipedia.org/wiki/Geography_of_China) — soft/estimate |
+| Geography & size | Highest point | Mount Everest, 8,848.86 m (2020 joint survey) | [source](https://en.wikipedia.org/wiki/Geography_of_China) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/China) — soft/estimate |
+| Geography & size | Time zone | UTC+8 (CST), 5 hours ahead of Moscow (MSK UTC+3) | [source](https://www.timeanddate.com/worldclock/converted.html?p1=166&p2=33) — soft/estimate |
+| Climate | Avg precipitation | 645 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=CN) — hard/official |
+| Climate | PM2.5 exposure | 32.0 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=CN) — hard/official |
+| Climate | Climate zone | Diverse: Cwa (humid subtropical), BSk (cold semi-arid), Dwb (warm summer continental); Beijing BSk | [source](https://www.climate-zone.com/climate/cn/beijing) — soft/estimate |
+| Climate | Temp winter / summer | Beijing: Jan avg -3.7°C (25°F), Jul avg 26.2°C (79°F) | [source](https://www.climate-zone.com/climate/cn/beijing) — soft/estimate |
+| Climate | Rainy days | ~66 days/year, Beijing (1991-2020) | [source](https://en.wikipedia.org/wiki/Beijing) — soft/estimate |
+| Climate | Humidity | ~56% annual avg, Beijing | [source](https://en.wikipedia.org/wiki/Beijing) — soft/estimate |
+| Climate | Natural hazards | Floods, earthquakes, typhoons, landslides; INFORM Risk Index 2025: rank 110/191 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | 32.5 µg/m³ PM2.5 annual mean (2024 IQAir report) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $19.5T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CN) — hard/official |
+| Economy | GDP growth | 5.0% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CN) — hard/official |
+| Economy | Inflation (CPI) | 0.1% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=CN) — hard/official |
+| Economy | Unemployment | 4.6% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=CN) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 36.0 (2022) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=CN) — hard/official |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 0.2% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=CN) — hard/official |
+| Economy | Credit rating | S&P A+ stable, Moody's A3, Fitch A stable (2025) | [source](https://www.fitchratings.com/entity/china-80442243) — hard/official |
+| Economy | Currency | CNY (renminbi), managed float; ~6% depreciation vs USD 2021-2026 | [source](https://www.xe.com/currencycharts/?from=USD&to=CNY) — soft/estimate |
+| Economy | Top industries | Manufacturing (27% GDP), services (54%), agriculture (7%) (2024 est.) | [source](https://www.cia.gov/the-world-factbook/countries/china/) — hard/official |
+| Economy | Economic Complexity | ECI rank 16th (Harvard Growth Lab, 2024) | [source](https://atlas.cid.harvard.edu/countries/43) — hard/official |
+| Technology | Internet users | 92% of population (2025) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CN) — hard/official |
+| Technology | Fixed broadband subs | 47.2 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=CN) — hard/official |
+| Technology | High-tech exports | 26.3% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=CN) — hard/official |
+| Technology | R&D spend | 2.58% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=CN) — hard/official |
+| Technology | Global Innovation Index | GII 2025 rank 3rd out of 139 economies | [source](https://www.wipo.int/global_innovation_index/en/2025/) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 2024: 0.8718 (high), rank 35/193 | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/36-China) — hard/official |
+| Technology | Median broadband speed | ~220 Mbps median fixed broadband (Ookla, mid-2025) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | Extensive 5G coverage, over 90% of population covered (2025) | [source](https://www.gsma.com) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses (stripe.com/global lists Mainland China) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank 12th globally (2025) | [source](https://www.startupblink.com/startups/china) — soft/estimate |
+| Human development & health | Life expectancy | 78.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CN) — hard/official |
+| Human development & health | Hospital beds | 5.6 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=CN) — hard/official |
+| Human development & health | HDI | HDI 0.788 (2023), rank 75/193 (high human development) | [source](https://hdr.undp.org/data-center/specific-country-data#/countries/CHN) — hard/official |
+| Safety | Global Peace Index | GPI 2025 rank 86/163, score 2.045 | [source](https://www.visionofhumanity.org/maps/) — hard/official |
+| Safety | US travel advisory | US State Dept Level 2: Exercise increased caution (Nov 2024) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/china-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains tax 20% | [source](https://taxsummaries.pwc.com/peoples-republic-of-china) — soft/estimate |
+| Money & tax | CFC rules | Yes, China has CFC rules (PwC Tax Facts 2025) | [source](https://taxsummaries.pwc.com/peoples-republic-of-china) — soft/estimate |
+| Business | Company setup | ~8.5 days, cost ~1% of income per capita (World Bank DB 2019) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/china) — soft/estimate |
+| Business | Corporate tax | 25% headline corporate income tax rate (2025) | [source](https://taxsummaries.pwc.com/peoples-republic-of-china) — soft/estimate |
+| Family & education | Top university | Tsinghua University, QS World Rank 20 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Visa-free up to 30 days (trial Sept 15 2025–Sept 14 2026, MFA announcement Sept 2025) | [source](https://ee.china-embassy.gov.cn/eng/tzygg/202509/t20250903_11701633.htm) — hard/official |
+| For Russian citizens | Sanctions position | Does not impose sanctions on Russia; maintains strategic partnership; opposes unilateral sanctions | [source](https://www.fmprc.gov.cn/eng/xwfw_665399/s2510_665401/) — hard/official |
+| Quality of life | World Happiness rank | World Happiness Report 2025: rank 65, score 6.074 | [source](https://countryeconomy.com/demography/world-happiness-index/china) — soft/estimate |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2025: rank 5 out of 46 countries | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI 2025: rank ~85, English not widely spoken outside major cities | [source](https://www.ef.com/epi/) — soft/estimate |
 
 ## Country Card
 

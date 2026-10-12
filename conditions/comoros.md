@@ -2,6 +2,7 @@
 title: Comoros — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 last_checked: 2026-10-12
 type: entity
 tags: [citizenship, citizenship_by_investment, strong_passport, tax]
@@ -96,6 +97,68 @@ Very little expat activity. The dominant narrative is the Economic Citizenship P
 | Freedom House score | 42/100 — Partly Free (2025) | [Freedom House](https://freedomhouse.org/country/comoros/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,500 h | [Climates to Travel](https://www.climatestotravel.com/climate/comoros) — hard/official |
 | Average annual temperature | ~26 °C | [Climates to Travel](https://www.climatestotravel.com/climate/comoros) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 48/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 1 870 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=KM) — hard/official |
+| Geography & size | Population density | 464 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=KM) — hard/official |
+| Geography & size | Urban population | 34% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=KM) — hard/official |
+| Geography & size | Coastline | 340 km (CIA World Factbook) | [source](https://globaledge.msu.edu/countries/comoros/statistics) — soft/estimate |
+| Geography & size | Highest point | Mount Karthala, 2,360 m (active volcano) | [source](https://en.wikipedia.org/wiki/Geography_of_the_Comoros) — soft/estimate |
+| Geography & size | Type | archipelago | [source](https://en.wikipedia.org/wiki/Comoros) — soft/estimate |
+| Geography & size | Time zone | UTC+3 (EAT), same as Moscow (MSK UTC+3) | [source](https://www.timeanddate.com/worldclock/comoros/moroni) — soft/estimate |
+| Climate | Avg precipitation | 900 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=KM) — hard/official |
+| Climate | PM2.5 exposure | 10.2 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=KM) — hard/official |
+| Climate | Climate zone | Aw (tropical savanna); tropical marine with rainy season Nov–May | [source](https://en.climate-data.org/africa/comoros/grande-comore/moroni-4063/) — soft/estimate |
+| Climate | Temp winter / summer | Moroni: Jan/Feb avg 28°C (82°F), Jul/Aug avg 25°C (77°F) | [source](https://www.climatestotravel.com/climate/comoros) — soft/estimate |
+| Climate | Rainy days | ~167 rainy days/year, Moroni | [source](https://www.climatestotravel.com/climate/comoros) — soft/estimate |
+| Climate | Humidity | ~75–80% annual relative humidity (tropical marine) | [source](https://www.weather-atlas.com/en/comoros/moroni-climate) — soft/estimate |
+| Climate | Natural hazards | Volcanic activity (Karthala), cyclones, floods; INFORM Risk 2025 rank ~95 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | ~15–20 µg/m³ PM2.5 estimated (2024, limited monitoring) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $1.8B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KM) — hard/official |
+| Economy | GDP growth | 3.8% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=KM) — hard/official |
+| Economy | Inflation (CPI) | 3.2% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=KM) — hard/official |
+| Economy | Unemployment | 3.8% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=KM) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 30.3 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=KM) — hard/official |
+| Economy | Tourism receipts | 27% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=KM) — hard/official |
+| Economy | Remittances | 20.8% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=KM) — hard/official |
+| Economy | Credit rating | not rated by S&P, Moody's, or Fitch | [source](https://www.worldgovernmentbonds.com/credit-rating/comoros) — soft/estimate |
+| Economy | Currency | KMF (Comorian franc), pegged to EUR; ~7% depreciation vs USD 2021-2026 | [source](https://www.xe.com/currencycharts/?from=USD&to=KMF) — soft/estimate |
+| Economy | Top industries | Services (~50% GDP), agriculture (~35%), industry (~15%) (2025 est.) | [source](https://www.afdb.org/en/countries/east-africa/comoros) — soft/estimate |
+| Economy | Economic Complexity | ECI rank ~160th (Harvard Growth Lab, 2024) | [source](https://atlas.cid.harvard.edu/rankings) — hard/official |
+| Technology | Internet users | 33% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=KM) — hard/official |
+| Technology | Fixed broadband subs | 0.4 per 100 people (2023) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=KM) — hard/official |
+| Technology | High-tech exports | 3.1% of manufactured exports (2023) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=KM) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | GII 2025: not ranked (insufficient data) | [source](https://www.wipo.int/global_innovation_index/en/2025/) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 2024: 0.3318 (low), rank 170/193 | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/44-Comoros) — hard/official |
+| Technology | Median broadband speed | ~8–12 Mbps median fixed broadband (estimated, limited Ookla data) | [source](https://www.speedtest.net/global-index) — soft/estimate |
+| Technology | 5G | No 5G deployment as of 2025 | [source](https://www.gsma.com) — soft/estimate |
+| Technology | Online payments | Stripe not available (not on stripe.com/global) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink: not ranked in top 100 (2025) | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 67.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=KM) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | HDI 0.586 (2023), rank 152/193 (medium human development) | [source](https://hdr.undp.org/data-center/specific-country-data#/countries/COM) — hard/official |
+| Safety | Global Peace Index | No reliable data | — |
+| Safety | US travel advisory | US State Dept Level 2: Exercise increased caution (Jan 2026) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains treated as ordinary income | [source](https://taxsummaries.pwc.com/comoros) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (limited tax framework) | [source](https://taxsummaries.pwc.com/comoros) — soft/estimate |
+| Business | Company setup | ~16 days, cost ~145% of income per capita (World Bank DB 2019) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/comoros) — soft/estimate |
+| Business | Corporate tax | 50% headline corporate tax rate (highest globally, Tax Foundation 2025) | [source](https://taxfoundation.org/data/all/global/corporate-tax-rates-by-country-2025/) — soft/estimate |
+| Family & education | Top university | University of Comoros; not ranked in QS top 1500 | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Visa on arrival, 45 days, ~30 EUR fee (2026) | [source](https://www.earthvisa.in/passport/russia/comoros) — soft/estimate |
+| For Russian citizens | Sanctions position | UN member; voted for UNGA resolutions condemning Russia's invasion (2022-2025) | [source](https://digitallibrary.un.org/) — hard/official |
+| Quality of life | World Happiness rank | World Happiness Report 2025: not ranked (insufficient data) | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | French and Arabic official; English very limited; EF EPI not ranked | [source](https://www.ef.com/epi/) — soft/estimate |
 
 ## Country Card
 
