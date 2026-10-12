@@ -11,16 +11,16 @@ Click a column title to sort; click the * next to a title for a short explanatio
 | Region | Region code; hover for the full name (see **Region codes**). |
 | Tags | Editorial #tags (see **Fit tags**). |
 | Programs | Icons for the residency routes the country offers (see **Program types**). Routes that are closed or not available are left out. The program buttons above the table filter countries that offer all selected routes. |
-| To citizenship | Years of legal residence before you can apply for citizenship under the standard route. `10+ yr` means ten years or more; `no path` means there is no realistic route for a foreigner. |
-| Passport | Passport strength: the number of destinations a holder of that country's passport can enter visa-free (a Henley-type visa-free count). It describes the passport you would get after naturalisation, not the one you hold now. |
-| Cost index | Numbeo cost-of-living index with New York City = 100; lower means cheaper. Ranges on the page are shown as their midpoint. |
+| Citizen yrs | Years of legal residence before you can apply for citizenship under the standard route. `10+ yr` means ten years or more; `no path` means there is no realistic route for a foreigner. |
+| Visa-free | Passport strength: the number of destinations a holder of that country's passport can enter visa-free (a Henley-type visa-free count). It describes the passport you would get after naturalisation, not the one you hold now. |
+| Cost idx | Numbeo cost-of-living index with New York City = 100; lower means cheaper. Ranges on the page are shown as their midpoint. |
 | Rent $/mo | Typical monthly rent of a 1-bedroom apartment, usually in the city centre, converted to US dollars at approximate fixed exchange rates (a range stays a range). It is a rough comparison figure, not a quote. |
-| Invest. from | The cheapest qualifying amount of the country's investment-residency route (Golden Visa style: property, fund, business or deposit), in US dollars. Amounts stated in other currencies are converted at approximate fixed rates and marked `≈` (rounded to two significant digits); hover to see the original amount and the source quote. Empty means the route is closed, absent or has no stated amount. |
-| Remote visa | Whether a digital-nomad or remote-work residence exists, with the headline income requirement per month or year, in US dollars (converted and marked `≈` when the page uses another currency). `No` means the page says there is none; empty means the page does not say. |
-| Remote tax | Effective personal income tax range for a remote worker, in percent. Indicative only: real tax depends on residency days, regime and income. |
-| Confidence | How well the page is backed by sources (see **Confidence** below). |
+| Invest min | The cheapest qualifying amount of the country's investment-residency route (Golden Visa style: property, fund, business or deposit), in US dollars. Amounts stated in other currencies are converted at approximate fixed rates and marked `≈` (rounded to two significant digits); hover to see the original amount and the source quote. Empty means the route is closed, absent or has no stated amount. |
+| Nomad visa | Whether a digital-nomad or remote-work residence exists, with the headline income requirement per month or year, in US dollars (converted and marked `≈` when the page uses another currency). `No` means the page says there is none; empty means the page does not say. |
+| Tax % | Effective personal income tax range for a remote worker, in percent. Indicative only: real tax depends on residency days, regime and income. |
+| Trust | Confidence level of the page: how well it is backed by sources (see **Confidence** below). 3 bars = high, 2 = medium, 1 = low. |
 
-Invest. from, Remote visa and Remote tax are extracted from the country pages into `data/facts.json`; every value keeps the quote it came from and is dropped if the quote cannot be found on the page.
+Invest min, Nomad visa and Tax % are extracted from the country pages into `data/facts.json`; every value keeps the quote it came from and is dropped if the quote cannot be found on the page.
 
 ## Confidence
 

@@ -836,7 +836,7 @@ kbd { font: 11px var(--mono); padding: 1px 6px; border: 1px solid var(--line-str
 .latest li a:hover { color: var(--accent); text-decoration: underline; }
 .latest li span { color: var(--ink-2); }
 
-.explore { position: sticky; top: 56px; z-index: 10; background: var(--bg); padding: 14px 0 12px; border-bottom: 1px solid var(--line); }
+.explore { background: var(--bg); padding: 14px 0 12px; border-bottom: 1px solid var(--line); }
 .explore-row { display: flex; flex-wrap: wrap; gap: 8px 10px; align-items: center; }
 .explore input[type=search], .explore select { height: 36px; padding: 0 12px; border: 1px solid var(--line-strong); border-radius: 6px;
   background: var(--surface); color: var(--ink); font: 14px var(--sans); }
@@ -966,7 +966,10 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .ctable td.tags-cell { font: 12px var(--mono); color: var(--accent); white-space: nowrap; }
 .ctable td.tags-cell span { margin-right: 6px; }
 .ctable td.progs-cell { white-space: nowrap; font-size: 14px; letter-spacing: 0; }
-.tscroll { overflow-x: auto; }
+.ctable thead th { position: sticky; top: 56px; z-index: 6; background: var(--bg); box-shadow: 0 1px 0 var(--line-strong); }
+.ctable thead th:first-child { z-index: 8; }
+.tscroll { overflow: visible; }
+@media (max-width: 1240px) { .tscroll { overflow-x: auto; } .ctable thead th { position: static; } }
 .ctable th:first-child, .ctable td:first-child { position: sticky; left: 0; z-index: 2; background: var(--bg); box-shadow: 1px 0 0 var(--line); }
 .ctable tbody tr:hover td:first-child { background: var(--accent-soft); }
 .ctable th, .ctable td { padding-left: 6px; padding-right: 6px; }
@@ -1566,14 +1569,14 @@ TIPS = {
     "region": ("Region code; hover for the full name. All codes are listed in the glossary.", "region-codes"),
     "tags": ("Editorial tags: #passport strong passport, #it IT-friendly, #path clear pathway, #ru popular with RU, #yacht yacht captain.", "fit-tags"),
     "progs": ("Residency routes the country offers (closed or unavailable routes are left out). Hover an icon for its name; use the program buttons above to filter.", "program-types"),
-    "years": ("Years of legal residence before you can apply for citizenship on the standard route.", "country-list-columns"),
-    "passport": ("Visa-free destinations of the passport you would hold after naturalisation.", "country-list-columns"),
+    "years": ("Years of legal residence before you can apply for citizenship on the standard route ('no path' = none).", "country-list-columns"),
+    "passport": ("Passport strength: number of visa-free destinations of the passport you would hold after naturalisation.", "country-list-columns"),
     "cost": ("Numbeo cost-of-living index with New York City = 100. Lower means cheaper.", "country-list-columns"),
     "rent": ("Typical monthly rent of a 1-bedroom apartment, shown in USD at approximate exchange rates (mostly city centre).", "country-list-columns"),
     "gv": ("Cheapest qualifying amount of the investment-residency route, in the currency the page states. Empty: route closed or no amount stated.", "country-list-columns"),
-    "rv": ("Digital-nomad / remote-work residence. Yes shows the headline income requirement.", "country-list-columns"),
-    "tax": ("Effective personal income tax range for a remote worker. Indicative only.", "country-list-columns"),
-    "conf": ("How well the page is backed by sources: high, medium or low.", "confidence"),
+    "rv": ("Digital-nomad / remote-work residence. Yes shows the headline income requirement in USD.", "country-list-columns"),
+    "tax": ("Effective personal income tax range for a remote worker, in percent. Indicative only.", "country-list-columns"),
+    "conf": ("Trust level: how well the page is backed by sources (3 bars = high, 2 = medium, 1 = low).", "confidence"),
 }
 
 
@@ -1637,14 +1640,14 @@ def render_index(region_meta, region_labels, concept_pages):
 
     header_row = (th("Country", "name") + th("Region", "region", tip="region") + th("Tags", "", tip="tags")
                   + th("Programs", "", cls="", tip="progs")
-                  + th("To citizenship", "years", "num", "num", tip="years")
-                  + th("Passport", "passport", "num", "num", tip="passport")
-                  + th("Cost index", "cost", "num", "num col-cost", tip="cost")
+                  + th("Citizen yrs", "years", "num", "num", tip="years")
+                  + th("Visa-free", "passport", "num", "num", tip="passport")
+                  + th("Cost idx", "cost", "num", "num col-cost", tip="cost")
                   + th("Rent $/mo", "rent", "num", "num col-cost", tip="rent")
-                  + th("Invest. from", "gv", "num", "num col-gv col-r", tip="gv")
-                  + th("Remote visa", "rv", "num", "col-rv col-r", tip="rv")
-                  + th("Remote tax", "tax", "num", "num col-cost col-r", tip="tax")
-                  + th("Confidence", "confn", "num", "col-conf col-r", tip="conf"))
+                  + th("Invest min", "gv", "num", "num col-gv col-r", tip="gv")
+                  + th("Nomad visa", "rv", "num", "col-rv col-r", tip="rv")
+                  + th("Tax %", "tax", "num", "num col-cost col-r", tip="tax")
+                  + th("Trust", "confn", "num", "col-conf col-r", tip="conf"))
     prog_chips = "".join(
         f'<button class="fchip" type="button" data-prog="{k}" aria-pressed="false" title="{n}">{e} {n}</button>'
         for k, (e, n) in PROG_ICONS.items())
@@ -1681,7 +1684,7 @@ def render_index(region_meta, region_labels, concept_pages):
     explore = f"""<div class="explore"><div class="explore-row">
   <input id="f-q" type="search" placeholder="Filter by name or code" aria-label="Filter countries">
   <select id="f-region" aria-label="Region"><option value="">All regions</option>{region_opts}</select>
-  <select id="f-conf" aria-label="Confidence"><option value="">Any confidence</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option></select>
+  <select id="f-conf" aria-label="Trust level"><option value="">Any trust level</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option></select>
   <span class="count" id="f-count"></span></div>
   <div class="explore-row" style="margin-top:10px">{chip_btns}</div>
   <div class="explore-row" style="margin-top:8px">{prog_chips}</div></div>"""
