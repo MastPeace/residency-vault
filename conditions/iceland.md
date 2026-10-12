@@ -2,6 +2,7 @@
 title: Iceland — Iceland
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, clear_pathway]
 category: clear_pathway
@@ -132,6 +133,68 @@ Iceland applies EEA-aligned sanctions against Russia. The extremely small size o
 | Freedom House score | 94/100 (Free) | ^[https://freedomhouse.org/country/iceland/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~1,268 (Reykjavík) | ^[https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php] hard/official |
 | Average annual temperature | ~4.5°C (Reykjavík) | ^[https://en.vedur.is/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 103 000 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=IS) — hard/official |
+| Geography & size | Population density | 4 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=IS) — hard/official |
+| Geography & size | Urban population | 94% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=IS) — hard/official |
+| Geography & size | Coastline | 4,970 km (CIA World Factbook) | [source](https://www.cia.gov/the-world-factbook/countries/iceland/) — hard/official |
+| Geography & size | Highest point | Hvannadalshnúkur, 2,110 m | [source](https://www.icelandia.com/attractions/hvannadalshnukur) — soft/estimate |
+| Geography & size | Type | island | [source](https://www.britannica.com/place/Iceland) — soft/estimate |
+| Geography & size | Time zone | UTC+0 (GMT), Moscow -3h | [source](https://www.timeanddate.com/worldclock/iceland) — soft/estimate |
+| Climate | Avg precipitation | 1940 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=IS) — hard/official |
+| Climate | PM2.5 exposure | 4.9 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=IS) — hard/official |
+| Climate | Climate zone | Cfc (subpolar oceanic) coastal, ET (tundra) highlands | [source](https://en.wikipedia.org/wiki/Climate_of_Iceland) — soft/estimate |
+| Climate | Temp winter / summer | Reykjavík: Jan avg ~1°C, Jul avg ~11°C | [source](https://en.climate-data.org/europe/iceland/reykjavik/reykjavik-764736) — soft/estimate |
+| Climate | Rainy days | ~213 rainy days/year, Reykjavík | [source](https://en.climate-data.org/europe/iceland/reykjavik/reykjavik-764736) — soft/estimate |
+| Climate | Humidity | ~80% annual avg, Reykjavík | [source](https://en.climate-data.org/europe/iceland/reykjavik/reykjavik-764736) — soft/estimate |
+| Climate | Natural hazards | Volcanic eruptions, earthquakes, avalanches, storms; low INFORM risk | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | PM2.5 annual mean: ~5 μg/m³ (2024 IQAir, among cleanest globally) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $38.6B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IS) — hard/official |
+| Economy | GDP growth | 1.3% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=IS) — hard/official |
+| Economy | Inflation (CPI) | 4.1% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IS) — hard/official |
+| Economy | Unemployment | 3.6% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=IS) — hard/official |
+| Economy | Central govt debt | 80% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=IS) — hard/official |
+| Economy | Gini index | 26.8 (2019) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=IS) — hard/official |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 0.7% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=IS) — hard/official |
+| Economy | Credit rating | Moody's: A1 (Stable); S&P: A+ (Positive, 2026); Fitch: A (Stable) | [source](https://countryeconomy.com/ratings/iceland) — soft/estimate |
+| Economy | Currency | ISK (Icelandic króna), free float; ~-15% vs USD 2019-2024 | [source](https://tradingeconomics.com/iceland/currency) — soft/estimate |
+| Economy | Top industries | Tourism, fisheries, renewable energy (geothermal, hydro) | [source](https://www.britannica.com/place/Iceland) — soft/estimate |
+| Economy | Economic Complexity | ECI rank: 46 (2022, Atlas of Economic Complexity) | [source](https://atlas.hks.harvard.edu/countries/352) — soft/estimate |
+| Technology | Internet users | 98% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=IS) — hard/official |
+| Technology | Fixed broadband subs | 37.5 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=IS) — hard/official |
+| Technology | High-tech exports | 54.0% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=IS) — hard/official |
+| Technology | R&D spend | 2.64% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=IS) — hard/official |
+| Technology | Global Innovation Index | 22nd of 133 (GII 2024, score 48.50) | [source](https://countryeconomy.com/government/global-innovation-index/iceland) — soft/estimate |
+| Technology | E-Government (UN EGDI) | EGDI: 0.9404, rank 5 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information) — hard/official |
+| Technology | Median broadband speed | Fixed broadband median: ~230 Mbps (2024, Ookla, among top globally) | [source](https://www.ookla.com/research) — soft/estimate |
+| Technology | 5G | 5G widely available in populated areas since 2020 | [source](https://www.ookla.com/research) — soft/estimate |
+| Technology | Online payments | Stripe available for businesses in Iceland | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank: 38 (2024) | [source](https://www.startupblink.com/pantheons) — soft/estimate |
+| Human development & health | Life expectancy | 82.8 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=IS) — hard/official |
+| Human development & health | Hospital beds | 2.8 per 1000 (2020) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=IS) — hard/official |
+| Human development & health | HDI | HDI: 0.959, rank 3 (2023-24) | [source](https://hdr.undp.org/data-center/specific-country-data) — hard/official |
+| Safety | Global Peace Index | Score 1.112, rank 1 of 163 (GPI 2024) | [source](https://countryeconomy.com/demography/global-peace-index/iceland) — soft/estimate |
+| Safety | US travel advisory | Level 1: Exercise Normal Precautions | [source](https://travel.state.gov/en/international-travel/travel-advisories/destination.isl.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 10%; capital gains 22% | unsourced/unverified |
+| Money & tax | CFC rules | Yes, CFC rules apply (KPMG Iceland Tax Facts 2025) | unsourced/unverified |
+| Business | Company setup | ~3 days, cost ~2% of income per capita (WB Doing Business 2020) | [source](https://documents1.worldbank.org/curated/en/278901574946181804/pdf/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies.pdf) — hard/official |
+| Business | Corporate tax | 21% (reduced from 22% in 2025) | unsourced/unverified |
+| Family & education | Top university | University of Iceland; QS rank ~368 (2025), THE rank ~501-600 | [source](https://www.timeshighereducation.com/world-university-rankings/university-iceland) — soft/estimate |
+| Connectivity | Visa-free for Russians | Schengen visa required for Russian citizens (Iceland is Schengen) | [source](https://www.entryconditions.com/russia/iceland) — soft/estimate |
+| For Russian citizens | Sanctions position | Implements all EU/EEA sanctions against Russia; strong supporter of Ukraine | [source](https://www.government.is/topics/foreign-affairs/war-in-ukraine) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 2nd, score 7.540 (WHR 2025) | [source](https://countryeconomy.com/demography/world-happiness-index/iceland) — soft/estimate |
+| Quality of life | Expat friendliness | Rank 20th (InterNations Expat Insider 2024) | [source](https://content.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank: not listed separately; English widely spoken (~98% proficiency) | [source](https://www.britannica.com/place/Iceland) — soft/estimate |
 
 ## Country Card
 

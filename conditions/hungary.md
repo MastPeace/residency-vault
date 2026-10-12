@@ -2,6 +2,7 @@
 title: Hungary — Hungary
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, golden-visa, digital-nomad, tax, strong_passport]
 category: strong_passport
@@ -112,6 +113,68 @@ The Guest Investor Programme (Golden Visa, €250,000) is formally open to Russi
 | Freedom House score | 65/100 Partly Free | ^[https://freedomhouse.org/country/hungary/freedom-world/2025] hard/official |
 | Average annual sunshine hours | 1,928 (Budapest) | ^[https://en.wikipedia.org/wiki/List_of_cities_in_Europe_by_sunshine_duration] hard/official |
 | Average annual temperature | ~11.7°C (Budapest) | ^[https://en.wikipedia.org/wiki/Budapest#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 93 030 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=HU) — hard/official |
+| Geography & size | Population density | 105 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=HU) — hard/official |
+| Geography & size | Urban population | 71% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=HU) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://www.britannica.com/place/Hungary) — soft/estimate |
+| Geography & size | Highest point | Kékes, 1,014 m | [source](https://www.britannica.com/place/Mount-Kekes) — soft/estimate |
+| Geography & size | Type | landlocked | [source](https://www.britannica.com/place/Hungary) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 summer (CEST); Moscow -2h/-1h | [source](https://www.timeanddate.com/time/zone/hungary/budapest) — soft/estimate |
+| Climate | Avg precipitation | 589 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=HU) — hard/official |
+| Climate | PM2.5 exposure | 13.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=HU) — hard/official |
+| Climate | Climate zone | Cfa (humid subtropical), transitioning from Dfa | [source](https://en.wikipedia.org/wiki/Climate_of_Budapest) — soft/estimate |
+| Climate | Temp winter / summer | Budapest: Jan mean 0.0°C, Jul mean 22.5°C (1991-2020) | [source](https://en.wikipedia.org/wiki/Climate_of_Budapest) — soft/estimate |
+| Climate | Rainy days | ~125 rainy days/year, Budapest | [source](https://en.wikipedia.org/wiki/Climate_of_Budapest) — soft/estimate |
+| Climate | Humidity | ~70% annual avg, Budapest | [source](https://en.climate-data.org/europe/hungary/budapest/budapest-1218) — soft/estimate |
+| Climate | Natural hazards | Floods, droughts; INFORM Risk rank: low (not in top 100) | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | PM2.5 annual mean: ~15 μg/m³ (2024 IQAir) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $246.5B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=HU) — hard/official |
+| Economy | GDP growth | 0.5% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=HU) — hard/official |
+| Economy | Inflation (CPI) | 4.4% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=HU) — hard/official |
+| Economy | Unemployment | 4.5% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=HU) — hard/official |
+| Economy | Central govt debt | 82% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=HU) — hard/official |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 3% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=HU) — hard/official |
+| Economy | Remittances | 2.3% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=HU) — hard/official |
+| Economy | Credit rating | Moody's: Baa2 (Negative); S&P: BBB- (Negative, 2025); Fitch: BBB (Stable) | [source](https://countryeconomy.com/ratings/hungary) — soft/estimate |
+| Economy | Currency | HUF (Hungarian forint), free float; ~-15% vs USD 2019-2024 | [source](https://alfred.stlouisfed.org/series?seid=CCUSMA02HUQ618N) — soft/estimate |
+| Economy | Top industries | Manufacturing (automotive, electronics), services, agriculture | [source](https://www.britannica.com/place/Hungary) — soft/estimate |
+| Economy | Economic Complexity | ECI rank: 14 (2022, Atlas of Economic Complexity) | [source](https://atlas.hks.harvard.edu/countries/348) — soft/estimate |
+| Technology | Internet users | 94% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=HU) — hard/official |
+| Technology | Fixed broadband subs | 37.5 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=HU) — hard/official |
+| Technology | High-tech exports | 22.6% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=HU) — hard/official |
+| Technology | R&D spend | 1.38% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=HU) — hard/official |
+| Technology | Global Innovation Index | 36th of 133 (GII 2024, score 39.60) | [source](https://countryeconomy.com/government/global-innovation-index/hungary) — soft/estimate |
+| Technology | E-Government (UN EGDI) | EGDI: 0.8427, rank 42 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information) — hard/official |
+| Technology | Median broadband speed | Fixed broadband median: ~185 Mbps (2024, Ookla) | [source](https://www.ookla.com/research) — soft/estimate |
+| Technology | 5G | 5G widely available in cities since 2020 | [source](https://www.ookla.com/research) — soft/estimate |
+| Technology | Online payments | Stripe available for businesses in Hungary | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank: 43 (2024) | [source](https://www.startupblink.com/pantheons) — soft/estimate |
+| Human development & health | Life expectancy | 76.7 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=HU) — hard/official |
+| Human development & health | Hospital beds | 6.6 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=HU) — hard/official |
+| Human development & health | HDI | HDI: 0.851, rank 47 (2023-24) | [source](https://hdr.undp.org/data-center/specific-country-data) — hard/official |
+| Safety | Global Peace Index | Score 1.502, rank 14 of 163 (GPI 2024) | [source](https://countryeconomy.com/demography/global-peace-index/hungary) — soft/estimate |
+| Safety | US travel advisory | Level 1: Exercise Normal Precautions | [source](https://travel.state.gov/en/international-travel/travel-advisories/destination.hun.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 9-18%; capital gains 15% flat | [source](https://taxsummaries.pwc.com/hungary) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply since 2017 (PwC) | [source](https://taxsummaries.pwc.com/hungary) — soft/estimate |
+| Business | Company setup | ~7 days, cost ~5% of income per capita (WB Doing Business 2020) | [source](https://documents1.worldbank.org/curated/en/278901574946181804/pdf/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies.pdf) — hard/official |
+| Business | Corporate tax | 9% (lowest in EU) | [source](https://tradingeconomics.com/hungary/corporate-tax-rate) — soft/estimate |
+| Family & education | Top university | Eötvös Loránd University (ELTE); QS rank ~564 (2025) | [source](https://www.elte.hu/en/qs-ranking-elte-takes-the-lead-in-hungary) — soft/estimate |
+| Connectivity | Visa-free for Russians | Schengen visa required for Russian citizens (Hungary is Schengen) | [source](https://www.reuters.com/world/europe/eu-warns-hungary-over-easing-visa-rules-russians-2024-08-01/) — soft/estimate |
+| For Russian citizens | Sanctions position | Implements EU sanctions but often opposes new sanctions packages | [source](https://www.reuters.com/business/energy/hungary-slovakia-block-russian-sanctions-package-budapest-said-2025-03-14/) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 74th, score 5.937 (WHR 2025) | [source](https://countryeconomy.com/demography/world-happiness-index/hungary) — soft/estimate |
+| Quality of life | Expat friendliness | Rank 31st (InterNations Expat Insider 2024) | [source](https://content.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank: 17 (2024, 'High Proficiency'); English widely spoken in Budapest, less in rural areas | unsourced/unverified |
 
 ## Country Card
 

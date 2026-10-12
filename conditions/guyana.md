@@ -2,6 +2,7 @@
 title: Guyana — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, employment_residency, tax]
@@ -88,6 +89,68 @@ Rising interest driven by the oil boom (foreign workers, services), but no inves
 | Freedom House score | 74/100 — Free (2026) | [Freedom House](https://freedomhouse.org/country/guyana/freedom-world/2026) — hard/official |
 | Average annual sunshine hours | ~2,300 h (Georgetown) | [Weather & Climate](https://weather-and-climate.com/average-monthly-hours-Sunshine,Georgetown,Guyana) — hard/official |
 | Average annual temperature | ~27 °C (tropical coastal) | [Weather & Climate](https://weather-and-climate.com/average-monthly-hours-Sunshine,Georgetown,Guyana) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 48/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 214 970 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=GY) — hard/official |
+| Geography & size | Population density | 4 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=GY) — hard/official |
+| Geography & size | Urban population | 26% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=GY) — hard/official |
+| Geography & size | Coastline | 459 km (CIA World Factbook) | [source](https://www.cia.gov/the-world-factbook/countries/guyana/) — hard/official |
+| Geography & size | Highest point | Mount Roraima, 2,772 m (on Venezuela border) | [source](https://www.britannica.com/place/Guyana) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://www.britannica.com/place/Guyana) — soft/estimate |
+| Geography & size | Time zone | UTC-4 (GYT), Moscow -7h | [source](https://www.timeanddate.com/time/zones/gyt) — soft/estimate |
+| Climate | Avg precipitation | 2387 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=GY) — hard/official |
+| Climate | PM2.5 exposure | 16.9 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=GY) — hard/official |
+| Climate | Climate zone | Af (tropical rainforest), some Aw (tropical savanna) | [source](https://en.climate-data.org/south-america/guyana-81) — soft/estimate |
+| Climate | Temp winter / summer | Georgetown: Jan avg 26.3°C, Jul avg 27.5°C | [source](https://www.weather-atlas.com/en/guyana/georgetown-climate) — soft/estimate |
+| Climate | Rainy days | ~180 rainy days/year, Georgetown | [source](https://www.weather-atlas.com/en/guyana/georgetown-climate) — soft/estimate |
+| Climate | Humidity | ~80% annual avg, Georgetown | [source](https://www.weather-atlas.com/en/guyana/georgetown-climate) — soft/estimate |
+| Climate | Natural hazards | Floods, droughts; INFORM Risk rank: 101 (2024) | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | PM2.5 annual mean: ~12 μg/m³ (2024 IQAir est.) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $27.1B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GY) — hard/official |
+| Economy | GDP growth | 19.3% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=GY) — hard/official |
+| Economy | Inflation (CPI) | 3.3% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=GY) — hard/official |
+| Economy | Unemployment | 12.0% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=GY) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 3.2% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=GY) — hard/official |
+| Economy | Credit rating | Fitch: not rated; Moody's/S&P: not rated | [source](https://www.fitchratings.com/region/guyana) — hard/official |
+| Economy | Currency | GYD (Guyanese dollar), managed float; ~-3% vs USD 2019-2024 | [source](https://fx-rate.net/GYD/USD) — soft/estimate |
+| Economy | Top industries | Oil & gas, mining (gold, bauxite), agriculture (rice, sugar) | [source](https://www.britannica.com/place/Guyana) — soft/estimate |
+| Economy | Economic Complexity | ECI rank: 111 (2022, Atlas of Economic Complexity) | [source](https://atlas.hks.harvard.edu/countries/328) — soft/estimate |
+| Technology | Internet users | 83% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=GY) — hard/official |
+| Technology | Fixed broadband subs | 12.9 per 100 people (2022) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=GY) — hard/official |
+| Technology | High-tech exports | 13.3% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=GY) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | Not ranked in GII 2023-2024 (last ranked 2015: 86th) | [source](https://countryeconomy.com/government/global-innovation-index/guyana) — soft/estimate |
+| Technology | E-Government (UN EGDI) | EGDI: 0.5603, rank 116 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information) — hard/official |
+| Technology | Median broadband speed | Fixed broadband median: ~40 Mbps (2024 est.) | [source](https://www.ookla.com/research) — soft/estimate |
+| Technology | 5G | Limited 5G deployment started 2023-2024 | [source](https://www.ookla.com/research) — soft/estimate |
+| Technology | Online payments | Stripe not available in Guyana | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Not ranked in StartupBlink Global 2024 | [source](https://www.startupblink.com/pantheons) — soft/estimate |
+| Human development & health | Life expectancy | 70.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=GY) — hard/official |
+| Human development & health | Hospital beds | 3.2 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=GY) — hard/official |
+| Human development & health | HDI | HDI: 0.742, rank 95 (2023-24) | [source](https://hdr.undp.org/data-center/specific-country-data) — hard/official |
+| Safety | Global Peace Index | Score 2.286, rank 111 of 163 (GPI 2024) | [source](https://countryeconomy.com/demography/global-peace-index/guyana) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (crime) | [source](https://travel.state.gov/en/international-travel/travel-advisories/guyana.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains tax 20% on certain assets | [source](https://gra.gov.gy/quick-links-2/rates-calculations) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (KPMG Guyana Tax Fact Sheet 2024) | [source](https://assets.kpmg.com/content/dam/kpmgsites/jm/pdf/guyana-tax-fact-sheet.pdf) — soft/estimate |
+| Business | Company setup | ~4 days, cost ~9% of income per capita (WB Doing Business 2020) | [source](https://documents1.worldbank.org/curated/en/278901574946181804/pdf/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies.pdf) — hard/official |
+| Business | Corporate tax | 25% (commercial), 40% (petroleum companies) | [source](https://gra.gov.gy/quick-links-2/rates-calculations) — soft/estimate |
+| Family & education | Top university | University of Guyana; not QS-ranked | [source](https://uog.edu.gy/) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free, 90 days (verified Aug 2026) | [source](https://www.entryconditions.com/russia/guyana) — soft/estimate |
+| For Russian citizens | Sanctions position | Has not imposed sanctions on Russia; maintains diplomatic relations | [source](https://en.wikipedia.org/wiki/Foreign_relations_of_Guyana) — soft/estimate |
+| Quality of life | World Happiness rank | Not ranked in WHR 2025 top countries | [source](https://files.worldhappiness.report/WHR25_Ch02_Appendix_B.pdf) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI: not ranked; English is official language, widely spoken | [source](https://www.britannica.com/place/Guyana) — soft/estimate |
 
 ## Country Card
 

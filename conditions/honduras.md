@@ -2,6 +2,7 @@
 title: Honduras — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, retired_residency, tax, clear_pathway]
 category: clear_pathway
@@ -120,6 +121,68 @@ Honduras has an international ship registry. Roatán (Bay Islands) is a modest C
 | Freedom House score | 48/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/honduras/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,300 h (Tegucigalpa; varies by region) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Honduras#Climate) — hard/official |
 | Average annual temperature | ~25 °C (coastal; cooler in highlands) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Honduras#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 112 492 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=HN) — hard/official |
+| Geography & size | Population density | 97 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=HN) — hard/official |
+| Geography & size | Urban population | 59% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=HN) — hard/official |
+| Geography & size | Coastline | 820 km (Caribbean 669 km + Pacific 151 km) | [source](https://en.wikipedia.org/wiki/Geography_of_Honduras) — soft/estimate |
+| Geography & size | Highest point | Cerro Las Minas, 2,870 m | [source](https://www.britannica.com/place/Honduras) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://www.britannica.com/place/Honduras) — soft/estimate |
+| Geography & size | Time zone | UTC-6 (CST), Moscow -9h | [source](https://www.timeanddate.com/worldclock/honduras) — soft/estimate |
+| Climate | Avg precipitation | 1976 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=HN) — hard/official |
+| Climate | PM2.5 exposure | 30.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=HN) — hard/official |
+| Climate | Climate zone | Aw (tropical savanna), Cfb in highlands | [source](https://en.climate-data.org/north-america/honduras/francisco-morazan/tegucigalpa-3766) — soft/estimate |
+| Climate | Temp winter / summer | Tegucigalpa: Jan mean 19.5°C, Jul mean 22.1°C | [source](https://en.wikipedia.org/wiki/Climate_of_Honduras) — soft/estimate |
+| Climate | Rainy days | ~110 rainy days/year, Tegucigalpa | [source](https://en.wikipedia.org/wiki/Climate_of_Honduras) — soft/estimate |
+| Climate | Humidity | ~70% annual avg, Tegucigalpa | [source](https://en.wikipedia.org/wiki/Climate_of_Honduras) — soft/estimate |
+| Climate | Natural hazards | Hurricanes, floods, earthquakes, landslides; INFORM Risk rank: 59 (2024) | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | PM2.5 annual mean: ~22 μg/m³ (2024 IQAir est.) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $39.6B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=HN) — hard/official |
+| Economy | GDP growth | 3.8% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=HN) — hard/official |
+| Economy | Inflation (CPI) | 4.6% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=HN) — hard/official |
+| Economy | Unemployment | 4.9% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=HN) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 45.7 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=HN) — hard/official |
+| Economy | Tourism receipts | 3% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=HN) — hard/official |
+| Economy | Remittances | 30.1% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=HN) — hard/official |
+| Economy | Credit rating | S&P: BB- (Negative, 2025); Moody's: B1 (Stable) | [source](https://countryeconomy.com/ratings/honduras) — soft/estimate |
+| Economy | Currency | HNL (Honduran lempira), crawling peg; ~-10% vs USD 2019-2024 | [source](https://wise.com/in/currency-converter/hnl-to-usd-rate/history) — soft/estimate |
+| Economy | Top industries | Agriculture (coffee, bananas), textiles/maquiladoras, mining | [source](https://www.britannica.com/place/Honduras) — soft/estimate |
+| Economy | Economic Complexity | ECI rank: 103 (2022, Atlas of Economic Complexity) | [source](https://atlas.hks.harvard.edu/countries/340) — soft/estimate |
+| Technology | Internet users | 59% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=HN) — hard/official |
+| Technology | Fixed broadband subs | 4.6 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=HN) — hard/official |
+| Technology | High-tech exports | 3.9% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=HN) — hard/official |
+| Technology | R&D spend | 0.06% of GDP (2019) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=HN) — hard/official |
+| Technology | Global Innovation Index | 114th of 133 (GII 2024, score 16.70) | [source](https://countryeconomy.com/government/global-innovation-index/honduras) — soft/estimate |
+| Technology | E-Government (UN EGDI) | EGDI: 0.4843, rank 131 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information) — hard/official |
+| Technology | Median broadband speed | Fixed broadband median: ~30 Mbps (2024 est.) | [source](https://www.ookla.com/research) — soft/estimate |
+| Technology | 5G | Limited 5G in major cities since 2023 | [source](https://www.ookla.com/research) — soft/estimate |
+| Technology | Online payments | Stripe not available in Honduras | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank: ~120 (2024) | [source](https://www.startupblink.com/startup-ecosystem/honduras) — soft/estimate |
+| Human development & health | Life expectancy | 73.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=HN) — hard/official |
+| Human development & health | Hospital beds | 0.5 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=HN) — hard/official |
+| Human development & health | HDI | HDI: 0.624, rank 138 (2023-24) | [source](https://hdr.undp.org/data-center/specific-country-data) — hard/official |
+| Safety | Global Peace Index | Score 2.415, rank 123 of 163 (GPI 2024) | [source](https://countryeconomy.com/demography/global-peace-index/honduras) — soft/estimate |
+| Safety | US travel advisory | Level 3: Reconsider Travel | [source](https://travel.state.gov/en/international-travel/travel-advisories/honduras.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax varies by region; capital gains: 10% | [source](https://taxsummaries.pwc.com/honduras) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (PwC Worldwide Tax Summaries) | [source](https://taxsummaries.pwc.com/honduras) — soft/estimate |
+| Business | Company setup | ~13 days, cost ~34% of income per capita (WB Doing Business 2020) | [source](https://documents1.worldbank.org/curated/en/278901574946181804/pdf/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies.pdf) — hard/official |
+| Business | Corporate tax | 25% standard corporate income tax rate | [source](https://latamref.dev/corporate-tax) — soft/estimate |
+| Family & education | Top university | Universidad Nacional Autónoma de Honduras (UNAH); QS LatAm rank ~200-250 | [source](https://www.topuniversities.com/universities/universidad-nacional-autonoma-de-honduras-unah) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free, 90 days (verified Aug 2026) | [source](https://www.entryconditions.com/russia/honduras) — soft/estimate |
+| For Russian citizens | Sanctions position | Has not imposed sanctions on Russia; maintains diplomatic relations | [source](https://www.britannica.com/place/Honduras) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 63rd, score 6.096 (WHR 2025) | [source](https://countryeconomy.com/demography/world-happiness-index/honduras) — soft/estimate |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI: not ranked; Spanish official, English spoken on Caribbean coast | [source](https://www.britannica.com/place/Honduras) — soft/estimate |
 
 ## Country Card
 
