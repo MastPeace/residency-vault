@@ -10,6 +10,8 @@ weekly/monthly monitor and published as a Wikipedia-style static website.
 
 ---
 
+> **Disclaimer.** This project is overview information compiled from public sources with automated tools. It is not legal, tax or immigration advice and may be incomplete or out of date. Verify with the official sources cited on each page and consult a licensed professional before acting. Plans: see [ROADMAP.md](ROADMAP.md).
+
 ## 1. What It Is
 
 - **163 country pages** covering every region: Western/Eastern Europe, Balkans & Caucasus,

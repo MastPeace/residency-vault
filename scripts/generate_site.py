@@ -972,6 +972,8 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .toc a { display: block; padding: 4px 0 4px 14px; margin-left: -1px; border-left: 2px solid transparent; color: var(--ink-2); text-decoration: none; line-height: 1.35; }
 .toc a:hover { color: var(--ink); }
 .toc a.on { color: var(--ink); font-weight: 600; border-left-color: var(--accent); }
+.notice { margin: 16px 0; padding: 10px 14px; border: 1px solid var(--line); border-left: 3px solid var(--accent, #c9a227); border-radius: 6px; font-size: 13px; line-height: 1.5; color: var(--muted); }
+.notice b { color: var(--ink-2, inherit); }
 .foot { border-top: 1px solid var(--line); padding: 24px 0 48px; font-size: 13px; color: var(--muted); }
 .foot .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
 .foot a { color: var(--muted); }
@@ -1059,6 +1061,11 @@ CAT_LABELS = OrderedDict([
     ("yacht_captain", "Yacht captain"),
 ])
 REPO_URL = "https://github.com/MastPeace/residency-vault"
+SITE_URL = "https://mastpeace.github.io/residency-vault/"
+NOTICE_HTML = ('<aside class="notice" role="note"><b>Overview information only.</b> This page is a general summary compiled '
+    'from public sources with the help of automated tools. It is <b>not legal, tax or immigration advice</b> and may be '
+    'incomplete or out of date. Rules, thresholds and fees change often and are applied case by case. Always verify with the '
+    'official sources cited on the page and consult a licensed professional before you apply or make a decision.</aside>')
 TG_URL = "https://t.me/migrate_easy"
 
 
@@ -1387,7 +1394,7 @@ def shell(title, body, base, extra_js="", desc=""):
   <input type="text" placeholder="Country, code or program…" autocomplete="off" aria-label="Search"><ul></ul>
 </div></div>
 {body}
-<footer class="foot"><div class="wrap"><span>Residency Radar · powered by the Residency Vault knowledge base. Not legal advice — conditions change, check the sources cited on each page.</span><span class="foot-r">Built {now}<a class="foot-ic" href="{TG_URL}" rel="noopener" aria-label="Telegram channel" title="Telegram channel"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.6 19.6c-.2 1-.9 1.3-1.7.8l-4.7-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.8 8.7-7.9c.4-.3-.1-.5-.6-.2L6.5 13.4l-4.6-1.4c-1-.3-1-1 .2-1.5L20 3.5c.8-.3 1.6.2 1.9.8z"/></svg></a><a class="foot-ic" href="{REPO_URL}" aria-label="Source on GitHub" title="Source on GitHub"><svg viewBox="0 0 16 16" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38v-1.33c-2.23.48-2.7-1.07-2.7-1.07-.36-.92-.89-1.17-.89-1.17-.73-.5.05-.49.05-.49.8.06 1.23.83 1.23.83.72 1.22 1.88.87 2.34.66.07-.52.28-.87.5-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.6 7.6 0 0 1 4 0c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.28.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48v2.2c0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg></a></span></div></footer>
+<footer class="foot"><div class="wrap"><span>Residency Radar · powered by the Residency Vault knowledge base. Overview information only — not legal, tax or immigration advice. Conditions change; verify with the official sources cited on each page.</span><span class="foot-r">Built {now}<a class="foot-ic" href="{TG_URL}" rel="noopener" aria-label="Telegram channel" title="Telegram channel"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.6 19.6c-.2 1-.9 1.3-1.7.8l-4.7-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.8 8.7-7.9c.4-.3-.1-.5-.6-.2L6.5 13.4l-4.6-1.4c-1-.3-1-1 .2-1.5L20 3.5c.8-.3 1.6.2 1.9.8z"/></svg></a><a class="foot-ic" href="{REPO_URL}" aria-label="Source on GitHub" title="Source on GitHub"><svg viewBox="0 0 16 16" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38v-1.33c-2.23.48-2.7-1.07-2.7-1.07-.36-.92-.89-1.17-.89-1.17-.73-.5.05-.49.05-.49.8.06 1.23.83 1.23.83.72 1.22 1.88.87 2.34.66.07-.52.28-.87.5-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.6 7.6 0 0 1 4 0c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.28.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48v2.2c0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg></a></span></div></footer>
 <script>{SHELL_JS}</script>
 {extra_js}
 </body>
@@ -1507,6 +1514,7 @@ def render_page(page, region_meta, region_labels):
     head = f"""<div class="crumbs">{crumbs}</div>
 <div class="page-head"><h1>{html.escape(name)}</h1>
 <div class="sub">{"".join(sub)}</div>{f'<div class="chips">{chips}</div>' if chips else ''}</div>
+{NOTICE_HTML}
 {build_facts(page) if is_entity else ''}
 {monitor_html}"""
 
@@ -1743,6 +1751,7 @@ def render_index(region_meta, region_labels, concept_pages):
   <div class="stamp">{n_c} countries · {n_p} program comparisons · built {now}</div></div>
 </section>
 <section class="cards">{cards}</section>
+{NOTICE_HTML}
 {latest_html}
 </div>"""
     return {
@@ -1808,5 +1817,29 @@ def build():
     return count + 1
 
 
+def seo_pass():
+    """Add canonical + Open Graph tags to every page; write sitemap.xml and robots.txt."""
+    urls = []
+    for f in sorted(OUTPUT_DIR.rglob("*.html")):
+        rel = f.relative_to(OUTPUT_DIR).as_posix()
+        url = SITE_URL + ("" if rel == "index.html" else rel)
+        doc = f.read_text(encoding="utf-8")
+        t = re.search(r"<title>(.*?)</title>", doc, re.S)
+        d = re.search(r'<meta name="description" content="(.*?)">', doc, re.S)
+        tags = f'<link rel="canonical" href="{url}">\n<meta property="og:type" content="website">\n<meta property="og:site_name" content="Residency Radar">\n'
+        if t: tags += f'<meta property="og:title" content="{t.group(1)}">\n'
+        if d: tags += f'<meta property="og:description" content="{d.group(1)}">\n'
+        tags += f'<meta property="og:url" content="{url}">\n<meta property="og:image" content="{SITE_URL}assets/logo-dark.png">\n<meta name="twitter:card" content="summary">\n'
+        if "rel=\"canonical\"" not in doc:
+            f.write_text(doc.replace("</head>", tags + "</head>", 1), encoding="utf-8")
+        urls.append(url)
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    body = "\n".join(f"  <url><loc>{u}</loc><lastmod>{today}</lastmod></url>" for u in urls)
+    (OUTPUT_DIR / "sitemap.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{body}\n</urlset>\n', encoding="utf-8")
+    (OUTPUT_DIR / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}sitemap.xml\n", encoding="utf-8")
+    return len(urls)
+
+
 if __name__ == "__main__":
     build()
+    print(f"SEO: canonical/OG on {seo_pass()} pages, sitemap.xml + robots.txt")
