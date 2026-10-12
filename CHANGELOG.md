@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [Unreleased]
 
 ### Fixed
+- Mobile header: Telegram and theme buttons no longer shrink on narrow phones (<=360 px); the brand shrinks/ellipsizes instead, logo hidden below 340 px.
 - Mobile header: the search box collapsed into an "S." square; below 960 px it is now a magnifier icon button (tap opens the search palette).
 - Confidence label in the page header reads "High confidence" (was "High") instead of an unlabeled bar.
 - `extended_batch.py`: a successful snapshot resets the attempt counter (otherwise a country would be skipped for good after 3 refreshes in total). Cron gate `ext_pending.sh` includes the UTC hour while work is pending, so the batch no longer stalls after a tick skipped by the Monday monitor window.

@@ -1051,6 +1051,16 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .foot-ic { display: inline-flex; color: var(--muted); }
 .foot-ic:hover { color: var(--ink); }
 
+.search-btn, .tg-btn, .icon-btn { flex-shrink: 0; }
+.brand { min-width: 0; }
+.brand .bt { min-width: 0; overflow: hidden; }
+.brand .bn { overflow: hidden; text-overflow: ellipsis; }
+@media (max-width: 400px) {
+  .topbar .wrap { gap: 8px; }
+  .brand { gap: 8px; font-size: 16px; }
+  .brand .logo { width: 30px; height: 30px; }
+}
+@media (max-width: 340px) { .brand .logo { display: none !important; } }
 @media (max-width: 960px) {
   .hero { grid-template-columns: minmax(0, 1fr); gap: 16px; padding-top: 36px; }
   .latest ol { grid-template-columns: 1fr; }
