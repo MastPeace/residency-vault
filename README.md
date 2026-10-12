@@ -1,5 +1,7 @@
 # Residency Vault
 
+> The public brand is **Residency Radar** (Telegram channel and website header); *Residency Vault* is the name of the knowledge base and repository. Logos and favicons live in `assets/` and are copied into the site by `scripts/generate_site.py`.
+
 An Obsidian-compatible markdown knowledge base of residency & citizenship conditions
 across 163 countries, using a canonical residency-type taxonomy, auto-refreshed by a
 weekly/monthly monitor and published as a Wikipedia-style static website.

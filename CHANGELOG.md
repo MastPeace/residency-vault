@@ -17,6 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Site: 63 countries had an empty Region (registry groups without a display label); they are now folded into display regions (added Asia, Central Africa).
 
 ### Changed
+- Branding: site header now shows the Residency Radar logo (round, light and dark variants that follow the theme) and the name "ResidencyRadar"; new favicon set (SVG, PNG 16/32/48, ICO, Apple touch icon) built from `assets/`; footer notes "powered by the Residency Vault knowledge base". Repository name and site URL are unchanged.
 - Country table: header stays visible while scrolling; column titles shortened (Citizen yrs, Visa-free, Cost idx, Invest min, Nomad visa, Tax %, Trust); filter bar no longer sticky.
 - Country table: investment minimums and remote-visa income thresholds are shown in US dollars (`≈` when converted at approximate rates); the original amount stays in the tooltip.
 - Country table: region and fit tags moved to their own compact columns (region codes like `EU-W`, tags like `#passport #path`; hover for full names; codes listed in the glossary).

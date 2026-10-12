@@ -786,6 +786,16 @@ a:hover { text-decoration-thickness: 2px; }
 .topbar .wrap { display: flex; align-items: center; gap: 28px; height: 56px; }
 .brand { font: 600 18px/1 var(--serif); color: var(--ink); text-decoration: none; letter-spacing: -.01em; white-space: nowrap; }
 .brand span { color: var(--accent); }
+.brand .bn { color: inherit; }
+.brand { display: inline-flex; align-items: center; gap: 10px; }
+.brand .logo { border-radius: 50%; box-shadow: 0 0 0 1.5px #c9953a; }
+.brand .logo-dark { display: none; }
+:root[data-theme="dark"] .brand .logo-light { display: none; }
+:root[data-theme="dark"] .brand .logo-dark { display: inline-block; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .brand .logo-light { display: none; }
+  :root:not([data-theme="light"]) .brand .logo-dark { display: inline-block; }
+}
 .topnav { display: flex; gap: 20px; font-size: 14px; }
 .topnav a { color: var(--ink-2); text-decoration: none; }
 .topnav a:hover { color: var(--ink); text-decoration: underline; }
@@ -1047,10 +1057,6 @@ CAT_LABELS = OrderedDict([
 ])
 REPO_URL = "https://github.com/MastPeace/residency-vault"
 TG_URL = "https://t.me/migrate_easy"
-
-FAVICON = ("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E"
-           "%3Crect width='32' height='32' rx='6' fill='%231f5f4a'/%3E"
-           "%3Cpath d='M9 24V8h8a5 5 0 0 1 0 10h-8m7 0 6 6' stroke='white' stroke-width='3' fill='none'/%3E%3C/svg%3E")
 
 
 def parse_region_meta(filepath):
@@ -1358,13 +1364,16 @@ def shell(title, body, base, extra_js="", desc=""):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(title)}</title>
 <meta name="description" content="{html.escape(desc or SITE_SUBTITLE)}">
-<link rel="icon" href="{FAVICON}">
+<link rel="icon" type="image/svg+xml" href="{base}assets/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="{base}assets/favicon-32.png">
+<link rel="alternate icon" href="{base}assets/favicon.ico">
+<link rel="apple-touch-icon" href="{base}assets/apple-touch-icon.png">
 {THEME_BOOT}
 <style>{CSS}</style>
 </head>
 <body data-base="{base}">
 <header class="topbar"><div class="wrap">
-  <a class="brand" href="{base}index.html">Residency<span>Vault</span></a>
+  <a class="brand" href="{base}index.html"><img class="logo logo-light" src="{base}assets/logo-light.png" width="34" height="34" alt=""><img class="logo logo-dark" src="{base}assets/logo-dark.png" width="34" height="34" alt=""><span class="bn">Residency<span>Radar</span></span></a>
   <nav class="topnav"><a href="{base}countries.html">Countries</a><a href="{base}programs.html">Programs</a><a href="{base}glossary.html">Glossary</a></nav>
   <span class="spacer"></span>
   <button class="search-btn" id="search-btn" type="button"><span>Search countries and programs</span><kbd>/</kbd></button>
@@ -1375,7 +1384,7 @@ def shell(title, body, base, extra_js="", desc=""):
   <input type="text" placeholder="Country, code or program…" autocomplete="off" aria-label="Search"><ul></ul>
 </div></div>
 {body}
-<footer class="foot"><div class="wrap"><span>Not legal advice. Conditions change — check the sources cited on each page.</span><span class="foot-r">Built {now}<a class="foot-ic" href="{TG_URL}" rel="noopener" aria-label="Telegram channel" title="Telegram channel"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.6 19.6c-.2 1-.9 1.3-1.7.8l-4.7-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.8 8.7-7.9c.4-.3-.1-.5-.6-.2L6.5 13.4l-4.6-1.4c-1-.3-1-1 .2-1.5L20 3.5c.8-.3 1.6.2 1.9.8z"/></svg></a><a class="foot-ic" href="{REPO_URL}" aria-label="Source on GitHub" title="Source on GitHub"><svg viewBox="0 0 16 16" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38v-1.33c-2.23.48-2.7-1.07-2.7-1.07-.36-.92-.89-1.17-.89-1.17-.73-.5.05-.49.05-.49.8.06 1.23.83 1.23.83.72 1.22 1.88.87 2.34.66.07-.52.28-.87.5-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.6 7.6 0 0 1 4 0c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.28.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48v2.2c0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg></a></span></div></footer>
+<footer class="foot"><div class="wrap"><span>Residency Radar · powered by the Residency Vault knowledge base. Not legal advice — conditions change, check the sources cited on each page.</span><span class="foot-r">Built {now}<a class="foot-ic" href="{TG_URL}" rel="noopener" aria-label="Telegram channel" title="Telegram channel"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.6 19.6c-.2 1-.9 1.3-1.7.8l-4.7-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.8 8.7-7.9c.4-.3-.1-.5-.6-.2L6.5 13.4l-4.6-1.4c-1-.3-1-1 .2-1.5L20 3.5c.8-.3 1.6.2 1.9.8z"/></svg></a><a class="foot-ic" href="{REPO_URL}" aria-label="Source on GitHub" title="Source on GitHub"><svg viewBox="0 0 16 16" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38v-1.33c-2.23.48-2.7-1.07-2.7-1.07-.36-.92-.89-1.17-.89-1.17-.73-.5.05-.49.05-.49.8.06 1.23.83 1.23.83.72 1.22 1.88.87 2.34.66.07-.52.28-.87.5-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.6 7.6 0 0 1 4 0c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.28.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48v2.2c0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg></a></span></div></footer>
 <script>{SHELL_JS}</script>
 {extra_js}
 </body>
@@ -1769,6 +1778,8 @@ def build():
     count += 1
     (OUTPUT_DIR / "search-index.json").write_text(generate_search_index(), encoding="utf-8")
     (OUTPUT_DIR / ".nojekyll").write_text("")
+    if (WIKI_DIR / "assets").is_dir():
+        shutil.copytree(WIKI_DIR / "assets", OUTPUT_DIR / "assets")
     print(f"Build complete: {count + 1} files written to {OUTPUT_DIR}")
     return count + 1
 

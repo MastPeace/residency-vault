@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<defs><linearGradient id="gd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6d77a"/><stop offset="1" stop-color="#c9953a"/></linearGradient><clipPath id="c"><circle cx="32" cy="32" r="32"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="64" height="64" fill="#14130f"/>
+<circle cx="32" cy="76" r="40" fill="#1f5f4a" stroke="#7cc3a1" stroke-width="2.5"/>
+<circle cx="32" cy="26" r="17" fill="#14130f" stroke="url(#gd)" stroke-width="3.5"/>
+<text x="32" y="33" text-anchor="middle" font-family="DejaVu Serif, Georgia, serif" font-weight="700" font-size="19" fill="url(#gd)" letter-spacing="-1">RR</text></g></svg>
