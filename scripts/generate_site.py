@@ -1052,6 +1052,16 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .foot-ic:hover { color: var(--ink); }
 
 .search-btn, .tg-btn, .icon-btn { flex-shrink: 0; }
+.burger, .mnav { display: none; }
+.mnav a, .mnav-theme { display: block; width: 100%; box-sizing: border-box; padding: 14px 4px; font: 500 17px var(--sans); color: var(--ink); text-decoration: none; text-align: left; background: none; border: 0; border-top: 1px solid var(--line); cursor: pointer; }
+.mnav a:first-child { border-top: 0; }
+.mnav-theme { color: var(--muted); }
+@media (max-width: 960px) {
+  .burger { display: inline-flex; align-items: center; justify-content: center; }
+  #theme-btn { display: none; }
+  .mnav { position: absolute; top: 100%; left: 0; right: 0; padding: 4px 16px 8px; background: var(--bg); border-bottom: 1px solid var(--line); box-shadow: 0 10px 24px rgba(0,0,0,.08); }
+  .mnav.open { display: block; }
+}
 .brand { min-width: 0; }
 .brand .bt { min-width: 0; overflow: hidden; }
 .brand .bn { overflow: hidden; text-overflow: ellipsis; }
@@ -1306,13 +1316,19 @@ THEME_BOOT = ("<script>try{var t=localStorage.getItem('rv-theme');"
 SHELL_JS = r"""
 (function () {
   var root = document.documentElement;
-  var tb = document.getElementById('theme-btn');
+  var tb = document.getElementById('theme-btn'), tbm = document.getElementById('theme-btn-m');
   function isDark() { var t = root.dataset.theme; return t ? t === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches; }
-  function sync() { tb.textContent = isDark() ? '☀' : '☾'; tb.setAttribute('aria-label', isDark() ? 'Switch to light theme' : 'Switch to dark theme'); }
-  tb.addEventListener('click', function () {
+  function sync() { tb.textContent = isDark() ? '☀' : '☾'; tb.setAttribute('aria-label', isDark() ? 'Switch to light theme' : 'Switch to dark theme'); if (tbm) tbm.textContent = isDark() ? 'Light theme' : 'Dark theme'; }
+  function flip() {
     var n = isDark() ? 'light' : 'dark'; root.dataset.theme = n;
     try { localStorage.setItem('rv-theme', n); } catch (e) {} sync();
-  }); sync();
+  }
+  tb.addEventListener('click', flip); if (tbm) tbm.addEventListener('click', flip); sync();
+  var mb = document.getElementById('menu-btn'), mn = document.getElementById('mnav');
+  function menu(open) { mn.classList.toggle('open', open); mb.setAttribute('aria-expanded', open ? 'true' : 'false'); }
+  mb.addEventListener('click', function (e) { e.stopPropagation(); menu(!mn.classList.contains('open')); });
+  document.addEventListener('click', function (e) { if (!mn.contains(e.target)) menu(false); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') menu(false); });
 
   var pal = document.getElementById('palette'), inp = pal.querySelector('input'), list = pal.querySelector('ul');
   var idx = null, sel = 0, shown = [], base = document.body.dataset.base || '';
@@ -1440,7 +1456,10 @@ def shell(title, body, base, extra_js="", desc="", ld=""):
   <button class="search-btn" id="search-btn" type="button" aria-label="Search countries and programs"><svg class="si" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><span>Search countries and programs</span><kbd>/</kbd></button>
   <a class="tg-btn" href="{TG_URL}" rel="noopener" title="News channel on Telegram"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.6 19.6c-.2 1-.9 1.3-1.7.8l-4.7-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.8 8.7-7.9c.4-.3-.1-.5-.6-.2L6.5 13.4l-4.6-1.4c-1-.3-1-1 .2-1.5L20 3.5c.8-.3 1.6.2 1.9.8z"/></svg><span>News channel</span></a>
   <button class="icon-btn" id="theme-btn" type="button" aria-label="Toggle theme">☾</button>
-</div></header>
+  <button class="icon-btn burger" id="menu-btn" type="button" aria-label="Menu" aria-expanded="false" aria-controls="mnav"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+</div>
+<nav class="mnav" id="mnav" aria-label="Menu"><a href="{base}countries.html">Countries</a><a href="{base}programs.html">Programs</a><a href="{base}changes/index.html">Changes</a><a href="{base}glossary.html">Glossary</a><button type="button" class="mnav-theme" id="theme-btn-m">Dark theme</button></nav>
+</header>
 <div class="palette" id="palette" role="dialog" aria-label="Search"><div class="palette-box">
   <input type="text" placeholder="Country, code or program…" autocomplete="off" aria-label="Search"><ul></ul>
 </div></div>

@@ -17,6 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Site integrity audit: ~650 dead in-page links (`[[#employment-residency]]` vs `employment_residency` ids) now resolve to the matching heading; unresolved anchors render as plain text; concept-to-concept links no longer point to `conditions/`; `[[usa]]` -> `[[united-states]]`; README counts 100 -> 163.
 
 ### Added
+- Mobile menu: below 960 px a burger button opens Countries / Programs / Changes / Glossary and the theme switch (the header theme button is hidden on mobile).
 - `404.html` (noindex, links to the main sections).
 - `/changes/`: weekly changes section built from `alerts/YYYY-MM-DD.md` (Changed + New items; only weeks with changes), one page per week plus an archive, "Changes" menu item, "Change history" block on country pages, link from the home page, sitemap entries. The monitor recipe documents the item format the parser expects.
 - SEO pass: data-driven page titles and unique meta descriptions for country and program pages (routes offered, years to citizenship, remote-worker tax), keyword-bearing H1 suffix, JSON-LD (Article, BreadcrumbList, WebSite, Organization), robots meta, social card (`assets/og-card.png`), "More countries in <region>" and "program types" internal-link blocks, sitemap `lastmod` from the page's content-change date.
