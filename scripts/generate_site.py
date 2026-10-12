@@ -1245,7 +1245,7 @@ FACT_FIELDS = [
     ("Passport strength", "Passport"),
     ("Remote-work", "Remote-work visa"),
     ("Effective personal tax", "Tax, remote workers"),
-    ("Monthly rent", "1-bed rent"),
+    ("Monthly rent", "1-bed rent / month"),
     ("Main language", "Language"),
 ]
 
