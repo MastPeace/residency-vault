@@ -896,10 +896,7 @@ kbd { font: 11px var(--mono); padding: 1px 6px; border: 1px solid var(--line-str
 .page-head .sub .code { font: 600 13px var(--mono); padding: 1px 8px; background: var(--ink); color: var(--bg); border-radius: 3px; }
 .page-head .sub .dates { font: 13px var(--mono); color: var(--muted); }
 .page-head .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
-.qa { margin: 18px 0 0; padding: 14px 18px 12px; border: 1px solid var(--line); border-left: 3px solid var(--ink); border-radius: 4px; background: var(--card, transparent); }
-.qa-h { font: 600 11px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin-bottom: 8px; }
 .qa-h span { font-weight: 400; text-transform: none; letter-spacing: 0; margin-left: 8px; }
-.qa-src { font: 400 12px var(--sans); color: var(--muted); margin-left: 4px; white-space: nowrap; }
 .qa ul { margin: 0; padding: 0; list-style: none; }
 .qa li { font: 400 15.5px/1.5 var(--serif); padding: 3px 0; }
 .qa li b { font: 600 11px var(--sans); letter-spacing: .05em; text-transform: uppercase; color: var(--ink-2); margin-right: 8px; }
@@ -1612,25 +1609,6 @@ def quick_answer_text(page):
     return "\n".join(lines)
 
 
-def _qa_src_html(src):
-    if not src:
-        return ""
-    host = re.sub(r"^www\.", "", urllib.parse.urlparse(src).netloc)
-    return f' <a class="qa-src" href="{html.escape(src)}" rel="noopener" target="_blank">{html.escape(host)}</a>'
-
-
-def build_quick_answer(page):
-    d = quick_answer_data(page)
-    if not d:
-        return ""
-    items = "".join(f"<li><b>{html.escape(l)}</b> {html.escape(_qa_line(l, p, c, du))}{_qa_src_html(src)}</li>"
-                    for l, p, c, du, src in d["rows"])
-    # the facts strip right above already shows "Years to citizenship"; don't repeat it there
-    if d["citizenship"] and "Years to citizenship" not in build_facts(page):
-        items += f"<li><b>Citizenship</b> {html.escape(d['citizenship'])}</li>"
-    chk = html.escape(d["checked"])
-    return (f'<section class="qa" aria-label="Quick answer"><div class="qa-h">Quick answer'
-            f'{f"<span>verified {chk}</span>" if chk else ""}</div><ul>{items}</ul></section>')
 
 
 def build_monitor(page):
@@ -2000,7 +1978,6 @@ def render_page(page, region_meta, region_labels):
 <div class="page-head"><h1>{html.escape(name)}{'<span class="h1-sub"> residency &amp; citizenship</span>' if is_entity else ''}</h1>
 <div class="sub">{"".join(sub)}</div>{f'<div class="chips">{chips}</div>' if chips else ''}</div>
 {build_facts(page) if is_entity else ''}
-{build_quick_answer(page)}
 {monitor_html}"""
 
     main = f"""<div class="wrap"><div class="page-grid">
