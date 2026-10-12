@@ -61,10 +61,10 @@ UI = {
     "Highly skilled": "Квалифицированные специалисты", "Startup / entrepreneur": "Стартап / предприниматель",
     "Student": "Студенты", "Family": "Семья",
     # country list
-    "Residency & Citizenship by Country: Compare 163 Countries | Residency Radar": "ВНЖ и гражданство по странам: сравнение 163 стран | Residency Radar",
+    "Compare Residency & Citizenship by Country | Residency Radar": "ВНЖ и гражданство по странам: сравнение | Residency Radar",
     "Compare residency and citizenship conditions in 163 countries: programs, years to citizenship, passport strength, cost of living and tax for remote workers.":
         "Сравнение условий ВНЖ и гражданства в 163 странах: программы, срок до гражданства, сила паспорта, стоимость жизни и налоги для удалёнщиков.",
-    "Residency Programs Compared: Golden Visa, Digital Nomad, Retirement & More | Residency Radar": "Программы ВНЖ: золотая виза, цифровой кочевник, пенсионный ВНЖ и другие | Residency Radar",
+    "Residency Programs Compared: Golden Visa & More | Residency Radar": "Программы ВНЖ: золотая виза и другие | Residency Radar",
     "Ten residency and citizenship program types (investment, digital nomad, passive income, work, student, family and more), each compared across countries.":
         "Десять типов программ ВНЖ и гражданства (инвестиции, цифровой кочевник, пассивный доход, работа, учёба, семья и другие), каждый — в сравнении по странам.",
     "Filter by name or code": "Фильтр по названию или коду", "Filter countries": "Фильтр стран", "Region": "Регион",

@@ -1800,6 +1800,10 @@ def seo_country(page, name):
         return title, first_sentences(re.sub(r"\^\[[^\]]*\]", "", ov.group(1) if ov else ""), 158)
     year = seo_year(page)
     title = f"{name} Residency & Citizenship Requirements {year}"
+    if len(title) > 65:  # Bing flags titles over ~70 chars
+        title = f"{name} Residency & Citizenship Rules {year}"
+    if len(title) > 65:
+        title = f"{name} Residency Requirements {year}"
     if len(title) + 18 <= 62:
         title += " | Residency Radar"
     progs = [SEO_SHORT[x] for x in programs_of(page) if x in SEO_SHORT]
@@ -1833,6 +1837,8 @@ def seo_concept(page, name):
         first = strip_md(re.sub(r"\[\[([^\]|#]+)(?:\|([^\]]+))?\]\]", lambda m: m.group(2) or m.group(1).replace("-", " "), body.strip().split("\n\n")[0]))
         return title, clip_words(first, 158)
     title = f"{base}: Requirements Compared Across Countries"
+    if len(title) > 65:
+        title = f"{base}: Requirements by Country"
     if len(title) <= 52:
         title += " | Residency Radar"
     body = re.sub(r"^## .*$", "", page["body"], flags=re.M)
@@ -2360,15 +2366,15 @@ def render_index(region_meta, region_labels, concept_pages):
 </div>"""
     if LANG == "ru":
         home_t, home_d = T("HOME_TITLE"), T("HOME_DESC")
-        cnt_t = T("Residency & Citizenship by Country: Compare 163 Countries | Residency Radar")
+        cnt_t = T("Compare Residency & Citizenship by Country | Residency Radar")
         cnt_d = T("Compare residency and citizenship conditions in 163 countries: programs, years to citizenship, passport strength, cost of living and tax for remote workers.")
-        prg_t = T("Residency Programs Compared: Golden Visa, Digital Nomad, Retirement & More | Residency Radar")
+        prg_t = T("Residency Programs Compared: Golden Visa & More | Residency Radar")
         prg_d = T("Ten residency and citizenship program types (investment, digital nomad, passive income, work, student, family and more), each compared across countries.")
     else:
         home_t, home_d = HOME_TITLE, HOME_DESC
-        cnt_t = "Residency & Citizenship by Country: Compare 163 Countries | Residency Radar"
+        cnt_t = "Compare Residency & Citizenship by Country | Residency Radar"
         cnt_d = "Compare residency and citizenship conditions in 163 countries: programs, years to citizenship, passport strength, cost of living and tax for remote workers."
-        prg_t = "Residency Programs Compared: Golden Visa, Digital Nomad, Retirement & More | Residency Radar"
+        prg_t = "Residency Programs Compared: Golden Visa & More | Residency Radar"
         prg_d = "Ten residency and citizenship program types (investment, digital nomad, passive income, work, student, family and more), each compared across countries."
     U = SITE_URL + LP
     return {
