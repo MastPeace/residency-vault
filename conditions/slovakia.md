@@ -102,7 +102,7 @@ Russian citizens need a Schengen visa. Blue Card and work permit routes are form
 | Cost of living index (relative, base note) | 42.1 (Numbeo 2025; 57.9% below NYC baseline) | ^[https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025] [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~€550–700 (Bratislava city centre) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Slovakia] [soft/estimate] |
 | Effective personal tax rate for remote workers | 19% (up to ~€41,500) / 25% above; 13.4% social+health; 7% dividend tax | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Slovakia] [soft/estimate] |
-| Remote-work / self-employment residence available? | No dedicated DN visa; trade license (živnosť) route for self-employed; EU Blue Card | Consistent with [[#digital-nomad-visa]]; [soft/estimate] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; trade license (živnosť) route for self-employed; EU Blue Card | Consistent with [[#it-digital-nomad]]; [soft/estimate] |
 | Years to citizenship | 8 years of permanent residence (after 5 years to obtain PR) | Consistent with [[#citizenship]]; hard/official |
 | Maximum permitted absence during residence | Continuous permanent residence required for citizenship clock | Consistent with [[#citizenship]]; [soft/estimate] |
 | Passport strength after citizenship (visa-free count) | 183 destinations | ^[https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025] hard/official |

@@ -1,5 +1,5 @@
 ---
-title: Kazakhstan — Kazakhstan
+title: Kazakhstan — Residency & Citizenship Conditions
 created: 2026-09-13
 updated: 2026-09-13
 extended_snapshot: 2026-10-11
@@ -18,20 +18,68 @@ last_checked: 2026-10-12
 ## Overview
 Kazakhstan launched an innovative [[digital-nomad-visa|digital nomad visa]] Residency programme (10-year permanent residence) and a [[investment-residency|golden visa]]-equivalent investor route ($300,000) (10-year permanent residence for qualifying IT specialists) and a Digital Nomad Visa (Neo Nomad Visa) in late 2024. However, traditional residence permit rules were tightened under a 2026 pilot project restricting new applicants and channeling them to specific regions. Kazakhstan is an EAEU member. ^[https://timesca.com/tag/digital-nomads]
 
-## Residence
-**General residence permit (permanent)**: ^[https://en.tengrinews.kz/article/kazakhstan-has-tightened-migration-policy-who-is-affected-200]
-- Valid: 10 years
-- Processing: up to 45 calendar days
-- **2026 pilot project restrictions** (effective until Dec 31, 2026):
-  - Annual proof of ≥ 5.7M tenge (~$12,000) in a bank account
-  - Mandatory 1-year residence in designated regions: East Kazakhstan, Kostanay, Pavlodar, or North Kazakhstan (Almaty and Astana effectively closed for new applicants)
-  - Exceptions: certain categories (healthcare, education, specific skills)
+## Residency Programs
+| Type | Official Program | Key Conditions | Duration | Detail |
+|---|---|---|---|---|
+| investment_residency | Investor visa (Golden Visa) | ≥ $300,000 investment in Kazakh companies/securities on local exchanges; electronic application available ^[https://timesca.com/tag/digital-nomads] | 10-year residence permit | [[#investment_residency]] |
+| passive_income_residency | Not available | — | — | — |
+| digital_nomad_visa | Digital Nomad Visa (Neo Nomad Visa) | $3,000/month income requirement; valid health insurance; clean criminal record; permits work with both foreign and Kazakh companies ^[https://astanatimes.com/2026/08/262-foreign-it-specialists-receive-digital-nomad-status-in-kazakhstan] | — | [[#digital_nomad_visa]] |
+| highly_skilled_employment | Digital Nomad Residency | For qualified IT specialists; no income requirement; petitions issued by Astana Hub ^[https://astanatimes.com/2026/08/262-foreign-it-specialists-receive-digital-nomad-status-in-kazakhstan] | 10-year permanent residence permit | [[#highly_skilled_employment]] |
+| startup_entrepreneur | Not available | — | — | — |
+| employment_residency | Temporary residence permit | Based on employment; renewable | 1 year | [[#employment_residency]] |
+| student_residency | Temporary residence permit | Based on study; renewable | 1 year | [[#student_residency]] |
+| family_reunification | Temporary residence permit | Based on family reunification; renewable | 1 year | [[#family_reunification]] |
+| retired_residency | Not available | — | — | — |
+| citizenship_by_investment | Not available | — | — | — |
 
-**Temporary residence permit**: issued for 1 year, renewable, based on employment, study, or family reunification.
+## Per-Program Detail
+### investment_residency
+- **Official name**: Investor visa (Golden Visa)
+- **Conditions**: ≥ $300,000 investment in Kazakh companies/securities on local exchanges; electronic application available ^[https://timesca.com/tag/digital-nomads]
+- **Duration / renewal**: 10-year residence permit
+- **Path to citizenship**: 5 years of permanent residence + 183 days/year physical presence + Kazakh language proficiency (basic) + renunciation of previous citizenship
+- **Official source**: see sources in frontmatter
+- **Community verdict**: Not yet assessed
 
-**Investor visa (Golden Visa)**: ≥ $300,000 investment in Kazakh companies/securities on local exchanges → 10-year residence permit. Electronic application available. ^[https://timesca.com/tag/digital-nomads]
+### digital_nomad_visa
+- **Official name**: Digital Nomad Visa (Neo Nomad Visa)
+- **Conditions**: $3,000/month income requirement; valid health insurance; clean criminal record; permits work with both foreign and Kazakh companies ^[https://astanatimes.com/2026/08/262-foreign-it-specialists-receive-digital-nomad-status-in-kazakhstan]
+- **Duration / renewal**: 12 visas issued as of August 2026
+- **Path to citizenship**: 5 years of permanent residence + 183 days/year physical presence + Kazakh language proficiency (basic) + renunciation of previous citizenship
+- **Official source**: see sources in frontmatter
+- **Community verdict**: Not yet assessed
 
-As of March 2026: 241,000 foreigners permanently reside in Kazakhstan; 40.4% (97,500) are Russian citizens. ^[https://en.tengrinews.kz/kazakhstan_news/legal-status-of-a-foreigner-in-kazakhstan-residence-permit-271239]
+### highly_skilled_employment
+- **Official name**: Digital Nomad Residency
+- **Conditions**: For qualified IT specialists; no income requirement; petitions issued by Astana Hub ^[https://astanatimes.com/2026/08/262-foreign-it-specialists-receive-digital-nomad-status-in-kazakhstan]
+- **Duration / renewal**: 10-year permanent residence permit; as of August 2026: 250 IT specialists have received permits; 1,069 petitions issued by Astana Hub out of 1,517 applications from 71 countries
+- **Path to citizenship**: 5 years of permanent residence + 183 days/year physical presence + Kazakh language proficiency (basic) + renunciation of previous citizenship
+- **Official source**: see sources in frontmatter
+- **Community verdict**: Not yet assessed
+
+### employment_residency
+- **Official name**: Temporary residence permit (employment-based)
+- **Conditions**: Based on employment; renewable; 2026 pilot project restrictions (effective until Dec 31, 2026): annual proof of ≥ 5.7M tenge (~$12,000) in a bank account; mandatory 1-year residence in designated regions: East Kazakhstan, Kostanay, Pavlodar, or North Kazakhstan (Almaty and Astana effectively closed for new applicants); exceptions: certain categories (healthcare, education, specific skills) ^[https://en.tengrinews.kz/article/kazakhstan-has-tightened-migration-policy-who-is-affected-200]
+- **Duration / renewal**: 1 year, renewable
+- **Path to citizenship**: 5 years of permanent residence + 183 days/year physical presence + Kazakh language proficiency (basic) + renunciation of previous citizenship
+- **Official source**: see sources in frontmatter
+- **Community verdict**: Not yet assessed
+
+### student_residency
+- **Official name**: Temporary residence permit (study-based)
+- **Conditions**: Based on study; renewable; 2026 pilot project restrictions (effective until Dec 31, 2026): annual proof of ≥ 5.7M tenge (~$12,000) in a bank account; mandatory 1-year residence in designated regions: East Kazakhstan, Kostanay, Pavlodar, or North Kazakhstan (Almaty and Astana effectively closed for new applicants); exceptions: certain categories (healthcare, education, specific skills) ^[https://en.tengrinews.kz/article/kazakhstan-has-tightened-migration-policy-who-is-affected-200]
+- **Duration / renewal**: 1 year, renewable
+- **Path to citizenship**: 5 years of permanent residence + 183 days/year physical presence + Kazakh language proficiency (basic) + renunciation of previous citizenship
+- **Official source**: see sources in frontmatter
+- **Community verdict**: Not yet assessed
+
+### family_reunification
+- **Official name**: Temporary residence permit (family reunification-based)
+- **Conditions**: Based on family reunification; renewable; 2026 pilot project restrictions (effective until Dec 31, 2026): annual proof of ≥ 5.7M tenge (~$12,000) in a bank account; mandatory 1-year residence in designated regions: East Kazakhstan, Kostanay, Pavlodar, or North Kazakhstan (Almaty and Astana effectively closed for new applicants); exceptions: certain categories (healthcare, education, specific skills) ^[https://en.tengrinews.kz/article/kazakhstan-has-tightened-migration-policy-who-is-affected-200]
+- **Duration / renewal**: 1 year, renewable
+- **Path to citizenship**: 5 years of permanent residence + 183 days/year physical presence + Kazakh language proficiency (basic) + renunciation of previous citizenship
+- **Official source**: see sources in frontmatter
+- **Community verdict**: Not yet assessed
 
 ## Citizenship
 - 5 years of permanent residence (after obtaining residence permit)
@@ -64,10 +112,8 @@ Not applicable. Kazakhstan is landlocked (Caspian Sea access but limited yachtin
 ## Notes for RU citizens
 Kazakhstan is a primary destination for Russian relocants: visa-free entry, no language barrier, accessible banking, EAEU membership (mutual recognition of qualifications). The 2026 pilot project tightening has made Almaty and Astana inaccessible for new residence permit applicants — this is a significant change affecting Russian relocants who typically cluster in these cities. The Digital Nomad Residency (10-year permit, no income requirement) is exceptionally generous and widely used by Russian IT professionals. ^[https://en.tengrinews.kz/article/kazakhstan-has-tightened-migration-policy-who-is-affected-200]
 
-## Status
-- **Last monitored**: 2026-10-12
-- **Recent changes**: 2026 pilot project severely restricted new residence permit applications (regional restrictions, financial requirements). Digital Nomad Residency programme growing rapidly (250+ permits issued).
-- **Watch items**: Pilot project expires Dec 31, 2026 — monitor extension or permanent adoption. Track Digital Nomad Residency application success rate.
+## Community Pulse
+The 2026 pilot project has severely restricted new residence permit applications, making Almaty and Astana inaccessible for new applicants and channeling them to designated northern regions — a significant change affecting Russian relocants who typically cluster in these cities. The Digital Nomad Residency (10-year permit, no income requirement) is exceptionally generous and widely used by Russian IT professionals, with 250 permits issued as of August 2026. The pilot project expires December 31, 2026, and its potential extension or permanent adoption is a key watch item.
 
 ## Country Snapshot
 
@@ -84,7 +130,7 @@ Kazakhstan is a primary destination for Russian relocants: visa-free entry, no l
 | Cost of living index | ~30 (NYC=100, Numbeo estimate) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2026) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ₸228,000 (~US$500) city centre | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Kazakhstan) [soft/estimate] |
 | Effective personal tax rate for remote workers | Flat 10% income tax; corporate 20%; no social tax for self-employed on simplified regime | [Kazakhstan Tax Code](https://kgd.gov.kz/) [soft/estimate] |
-| Remote-work / self-employment residence available? | Yes — Digital Nomad Residency (10yr PR, no income threshold); Neo Nomad Visa ($3,000/mo); Investor Visa ($300,000) | See [[#digital-nomad-visa]] |
+| Remote-work / self-employment residence available? | Yes — Digital Nomad Residency (10yr PR, no income threshold); Neo Nomad Visa ($3,000/mo); Investor Visa ($300,000) | See [[#it-digital-nomad]] |
 | Years to citizenship | 5 years permanent residence + 183 days/yr physical presence + Kazakh language + renunciation | See [[#citizenship]] |
 | Maximum permitted absence during residence | 183 days/yr physical presence required for citizenship; PR: must maintain genuine residence | See [[#citizenship]] |
 | Passport strength after citizenship | 78 visa-free destinations (Henley 2026, rank 61) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |
@@ -92,9 +138,6 @@ Kazakhstan is a primary destination for Russian relocants: visa-free entry, no l
 | Freedom House score | 23/100 (Not Free) | [Freedom House](https://freedomhouse.org/country/kazakhstan/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,200–2,600 h (Astana ~2,500h, Almaty ~2,400h) | [Kazakhstan Weather Service](https://www.kazhydromet.kz/) — hard/official |
 | Average annual temperature | ~5°C annual mean (continental: Astana −15°C Jan to +21°C Jul; Almaty −5°C Jan to +25°C Jul) | [Kazakhstan Weather Service](https://www.kazhydromet.kz/) — hard/official |
-
-
-
 
 ## Extended Snapshot
 
@@ -178,3 +221,8 @@ Kazakhstan is the largest Central Asian economy and an EAEU member, spanning fro
 - Weak passport (78 visa-free destinations, Henley #61) — limited global mobility
 - Citizenship requires renunciation of previous citizenship — dual citizenship not permitted
 - Harsh continental climate — Astana is the second-coldest capital in the world
+
+## Status
+- **Last monitored**: 2026-10-12
+- **Recent changes**: 2026 pilot project severely restricted new residence permit applications (regional restrictions, financial requirements). Digital Nomad Residency programme growing rapidly (250+ permits issued).
+- **Watch items**: Pilot project expires Dec 31, 2026 — monitor extension or permanent adoption. Track Digital Nomad Residency application success rate.

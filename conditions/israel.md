@@ -25,7 +25,7 @@ Israel's immigration system is unique: the Law of Return grants automatic citize
 | passive_income_residency | Not available | — | — | — |
 | digital_nomad_visa | Digital Nomad Visa (announced) | $5,000/mo active income (foreign source) | 12 months, renewable | [[#digital-nomad-visa]] |
 | highly_skilled_employment | B/1 Work Visa | Employer sponsor, specialist skills | 1 year, renewable | [[#work-visa]] |
-| startup_entrepreneur | Innovation Visas (various) | Tech ecosystem programmes, Approved Enterprise | 1–3 years | [[#startup-visa]] |
+| startup_entrepreneur | Innovation Visas (various) | Tech ecosystem programmes, Approved Enterprise | 1–3 years | [[#startupinnovation-visa]] |
 | employment_residency | B/1 Work Visa | Employer sponsor | 1 year, renewable | [[#work-visa]] |
 | student_residency | A/2 Student Visa | Enrolment in Israeli institution | Duration of study | [[#student-residency]] |
 | family_reunification | Gradual Process | Spouse of Israeli citizen: 4.5-year staged process to citizenship | 4.5 years + | [[#family-reunification]] |

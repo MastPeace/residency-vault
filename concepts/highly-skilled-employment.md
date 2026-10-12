@@ -4,7 +4,9 @@ created: 2026-09-14
 updated: 2026-09-14
 type: concept
 tags: [highly_skilled_employment, blue-card, hsm, skilled-worker, it_friendly]
+category: it_friendly
 confidence: high
+last_checked: 2026-10-12
 ---
 
 ## Definition

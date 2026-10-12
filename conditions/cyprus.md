@@ -96,7 +96,7 @@ Cyprus is one of the most RU-friendly EU jurisdictions. Limassol has a very larg
 | Cost of living index (relative, base note) | 49.5 (Numbeo 2025; 50.5% below NYC baseline) | ^[https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025] [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~€850–1,000 (city centre, Limassol/Nicosia) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Cyprus] [soft/estimate] |
 | Effective personal tax rate for remote workers | 0% on dividends/interest (non-dom, 17 years); 0–35% progressive on income; 12.5% corporate | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Cyprus] [soft/estimate] |
-| Remote-work / self-employment residence available? | No dedicated DN visa; non-dom + Pink Slip route is de facto path | Consistent with [[#digital-nomad-visa]]; [soft/estimate] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; non-dom + Pink Slip route is de facto path | Consistent with [[#it-digital-nomad]]; [soft/estimate] |
 | Years to citizenship | 8 years (2,555 days within 10 years; 12 months continuous before application) | Consistent with [[#citizenship]]; hard/official |
 | Maximum permitted absence during residence | Must accumulate 2,555 days physical presence over 10 years for citizenship | Consistent with [[#citizenship]]; [soft/estimate] |
 | Passport strength after citizenship (visa-free count) | 178 destinations | ^[https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025] hard/official |

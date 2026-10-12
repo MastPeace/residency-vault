@@ -28,7 +28,7 @@ El Salvador requires temporary residence with work authorization plus a separate
 | employment_residency | Temporary residence + work permit | Job offer; 90% local-staff rule for large employers | 1–2 yr | [[#employment-residency]] |
 | student_residency | Student residence | Enrollment in Salvadoran institution | Course duration | — |
 | family_reunification | Dependent residence | Sponsor with valid residence + family tie | Matches principal | — |
-| retired_residency | Temporary residence (pensionado) | US$1,224+/mo foreign pension | 1 yr, extendable | [[#retired-residency]] |
+| retired_residency | Temporary residence (pensionado) | US$1,224+/mo foreign pension | 1 yr, extendable | [[#passive_income_residency-retired_residency]] |
 | citizenship_by_investment | Not available | — | — | — |
 
 ## Per-Program Detail

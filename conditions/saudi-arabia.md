@@ -23,7 +23,7 @@ Saudi Arabia launched its [[investment-residency|premium residency]] programme i
 | investment_residency | Premium Residency — Investor Track | SAR 7,000,000+ investment in approved activities | Permanent (direct) | [[#premium-residency-investor]] |
 | passive_income_residency | Not available | — | — | — |
 | digital_nomad_visa | Not available | No dedicated DN visa | — | — |
-| highly_skilled_employment | Premium Residency — Special Talent / Gifted | Recommendation, credentials, employment contract | 5 years, convertible to permanent | [[#premium-residency-talent]] |
+| highly_skilled_employment | Premium Residency — Special Talent / Gifted | Recommendation, credentials, employment contract | 5 years, convertible to permanent | [[#premium-residency-special-talent-gifted]] |
 | startup_entrepreneur | Premium Residency — Entrepreneur | Category 1: SAR 400,000 funding; Category 2: SAR 15,000,000 + 20 jobs | 5 years (Cat 1), permanent (Cat 2) | [[#premium-residency-entrepreneur]] |
 | employment_residency | Standard Iqama | Employer sponsor, labour contract | 1–2 years, renewable | [[#employment-residency]] |
 | student_residency | Student Iqama | Enrolment in Saudi institution | Duration of study | [[#student-residency]] |

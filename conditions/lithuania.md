@@ -106,7 +106,7 @@ Lithuania has adopted a very restrictive stance toward Russian citizens since 20
 | Cost of living index | ~47 (NYC=100, Numbeo estimate) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2026) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | €550 (city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Lithuania) [soft/estimate] |
 | Effective personal tax rate for remote workers | ~25–30% (progressive 20%/32% + social ~19.5% employee) | [Lithuanian Tax Authority](https://www.vmi.lt/) [soft/estimate] |
-| Remote-work / self-employment residence available? | No dedicated DN visa; Startup Visa for founders; EU Blue Card for employed IT professionals | See [[#startup-entrepreneur]] and [[#highly-skilled-employment]] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; Startup Visa for founders; EU Blue Card for employed IT professionals | See [[#it-digital-nomad]] and [[#highly-skilled-employment]] |
 | Years to citizenship | 10 years permanent residence (7 if married to Lithuanian) | See [[#citizenship]] |
 | Maximum permitted absence during residence | Must maintain continuous permanent residence; citizenship requires genuine residence throughout 10 years | See [[#citizenship]] |
 | Passport strength after citizenship | 181 visa-free destinations (Henley 2026, rank 8) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |

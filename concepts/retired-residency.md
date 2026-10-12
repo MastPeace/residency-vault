@@ -4,7 +4,9 @@ created: 2026-09-14
 updated: 2026-09-14
 type: concept
 tags: [retired_residency, pensionado, retiree, retirement-visa, clear_pathway]
+category: clear_pathway
 confidence: high
+last_checked: 2026-10-12
 ---
 
 ## Definition

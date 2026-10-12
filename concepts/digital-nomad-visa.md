@@ -4,7 +4,9 @@ created: 2026-09-14
 updated: 2026-09-14
 type: concept
 tags: [digital_nomad_visa, remote-work, dn-visa, d8, it_friendly]
+category: it_friendly
 confidence: high
+last_checked: 2026-10-12
 ---
 
 ## Definition

@@ -20,11 +20,11 @@ Tunisia offers a moderately open residency framework anchored by employment spon
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Not available as formal programme | Investors/directors may obtain work permit exemption + residency | 1 year, renewable | [[#investor-residency]] |
+| investment_residency | Not available as formal programme | Investors/directors may obtain work permit exemption + residency | 1 year, renewable | [[#investorentrepreneur-residency]] |
 | passive_income_residency | Not available | — | — | — |
 | digital_nomad_visa | Not available | No dedicated DN visa | — | — |
 | highly_skilled_employment | Work Permit | Employer sponsor, labour market test | 1 year, renewable | [[#work-permit]] |
-| startup_entrepreneur | Investment project registration (FIPA) | Investment project approved by FIPA; may support residency | Linked to project | [[#investor-residency]] |
+| startup_entrepreneur | Investment project registration (FIPA) | Investment project approved by FIPA; may support residency | Linked to project | [[#investorentrepreneur-residency]] |
 | employment_residency | Work Permit + Carte de Séjour | Employer sponsor | 1 year, renewable | [[#work-permit]] |
 | student_residency | Student Visa | Enrolment in Tunisian institution | Duration of study | [[#student-residency]] |
 | family_reunification | Family Residence | Sponsor holds valid residence/citizenship | Tied to sponsor | [[#family-reunification]] |

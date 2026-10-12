@@ -7,6 +7,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [Unreleased]
 
 ### Fixed
+- Kazakhstan and Singapore migrated from v1 to SCHEMA v2 (Residency Programs table, Per-Program Detail, Community Pulse) with `scripts/migrate_v2.py` (deepseek-v4-pro, facts from the page only; other sections kept verbatim). Singapore title fixed.
+- 12 country pages: Detail/snapshot anchors that pointed to non-existent headings repaired; footnote back-links without a reference are dropped. Site now has 0 broken internal links/anchors and 0 broken wikilinks.
+- Concept pages got `category` and `last_checked` in frontmatter.
 - Site integrity audit: ~650 dead in-page links (`[[#employment-residency]]` vs `employment_residency` ids) now resolve to the matching heading; unresolved anchors render as plain text; concept-to-concept links no longer point to `conditions/`; `[[usa]]` -> `[[united-states]]`; README counts 100 -> 163.
 
 ### Added

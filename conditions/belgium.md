@@ -117,7 +117,7 @@ Belgium applies EU sanctions against Russia. Visa processing for Russian citizen
 | Cost of living index | 56.5 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~€850 (Brussels city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Belgium) [soft/estimate] |
 | Effective personal tax rate for remote workers | Progressive 25%–50% + municipal surcharge ~7%; expat regime: 30% tax-free up to €90,000 | See [[#tax]] [soft/estimate] |
-| Remote-work / self-employment residence available? | No — no digital nomad visa; Professional Card for self-employed | See [[#digital-nomad-visa]] |
+| Remote-work / self-employment residence available? | No — no digital nomad visa; Professional Card for self-employed | See [[#it-digital-nomad]] |
 | Years to citizenship | 5 years | See [[#citizenship]] |
 | Maximum permitted absence during residence | Must maintain uninterrupted legal residence | See [[#citizenship]] |
 | Passport strength after citizenship | 188 visa-free destinations (Henley Q3 2025, rank 4) | [Henley & Partners](https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025) — hard/official |

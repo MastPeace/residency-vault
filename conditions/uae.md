@@ -24,10 +24,10 @@ The UAE operates the region's most comprehensive [[investment-residency|golden v
 | investment_residency | Golden Visa — Investor | AED 2,000,000+ public investment / real estate | 5 or 10 years | [[#golden-visa-investor]] |
 | passive_income_residency | Not available | — | — | — |
 | digital_nomad_visa | Virtual Work Programme | $3,500/mo income, foreign employer | 1 year, renewable | [[#virtual-work-programme]] |
-| highly_skilled_employment | Golden Visa — Exceptional Talent | PhD, doctors, scientists, executives, recommendation letter | 10 years | [[#golden-visa-talent]] |
+| highly_skilled_employment | Golden Visa — Exceptional Talent | PhD, doctors, scientists, executives, recommendation letter | 10 years | [[#golden-visa-exceptional-talent]] |
 | startup_entrepreneur | Golden Visa — Entrepreneur | AED 500,000+ project, innovation-based | 5 years | [[#golden-visa-entrepreneur]] |
 | employment_residency | Standard Employment Visa | Employer-sponsored, MoHRE labour contract | 2–3 years | [[#employment-residency]] |
-| student_residency | Golden Visa — Outstanding Students | Top GPA, UAE or top-100 university | 5–10 years | [[#golden-visa-student]] |
+| student_residency | Golden Visa — Outstanding Students | Top GPA, UAE or top-100 university | 5–10 years | [[#golden-visa-outstanding-students]] |
 | family_reunification | Family sponsorship | Sponsor must hold valid residence | Tied to sponsor | [[#family-reunification]] |
 | retired_residency | Retirement Visa | AED 20,000/mo income OR AED 1,000,000 savings OR AED 2,000,000 property; age 55+ | 5 years, renewable | [[#retirement-visa]] |
 | citizenship_by_investment | Not available | No pathway for expatriates | N/A | [[#citizenship]] |

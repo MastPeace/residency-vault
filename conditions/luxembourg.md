@@ -145,7 +145,7 @@ EU sanctions apply. The investor residence route is accessible in principle but 
 | Cost of living index | 64.8 (NYC=100, Numbeo 2025) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2025) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | ~€1,600 (Luxembourg City centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Luxembourg) [soft/estimate] |
 | Effective personal tax rate for remote workers | Progressive 8%–42%; impatriate regime: 50% exemption on salary (max €400,000/yr, 5 years) | See [[#tax]] [soft/estimate] |
-| Remote-work / self-employment residence available? | No — no digital nomad visa; independent worker residence available | See [[#digital-nomad-visa]] |
+| Remote-work / self-employment residence available? | No — no digital nomad visa; independent worker residence available | See [[#it-digital-nomad]] |
 | Years to citizenship | 5 years | See [[#citizenship]] |
 | Maximum permitted absence during residence | Must include 12 continuous months immediately before citizenship application | See [[#citizenship]] |
 | Passport strength after citizenship | 188 visa-free destinations (Henley Q3 2025, rank 4) | [Henley & Partners](https://www.henleyglobal.com/newsroom/press-releases/henley-global-mobility-report-july-2025) — hard/official |

@@ -24,7 +24,7 @@ New Zealand has a strong passport and a points-based skilled migration system. T
 | investment_residency | Active Investor Plus Visa | NZ $5,000,000 (Growth) / $10,000,000 (Balanced); 3/5 year investment term | Resident visa → PR | [[#investment-residency]] |
 | passive_income_residency | Not available | No passive income route | — | [[#passive-income-residency]] |
 | digital_nomad_visa | Not available | No DN visa; visitor visa allows limited remote work | — | [[#digital-nomad-visa]] |
-| highly_skilled_employment | Skilled Migrant Category (SMC) — 6-point system | Job/job offer from accredited employer; age <=55; 6 points from income/qualification/NZ registration + NZ work experience | Resident visa | [[#highly-skilled-employment]] |
+| highly_skilled_employment | Skilled Migrant Category (SMC) — 6-point system | Job/job offer from accredited employer; age <=55; 6 points from income/qualification/NZ registration + NZ work experience | Resident visa | [[#highly_skilled_employment]] |
 | startup_entrepreneur | Not available | No dedicated startup visa; Entrepreneur Work Visa closed | — | [[#startup-entrepreneur]] |
 | employment_residency | Accredited Employer Work Visa (AEWV) -> SMC | Job offer from accredited employer; wage >= NZ $35/hr (NZ $52.50/hr for ANZSCO 4-5) | 3 yr work visa -> resident | [[#employment-residency]] |
 | student_residency | Student Visa -> Post-Study Work Visa -> SMC | NZQA-approved course; post-study work 1-3 years | Course + post-study | [[#student-residency]] |
@@ -52,7 +52,7 @@ New Zealand has a strong passport and a points-based skilled migration system. T
 - **Conditions**: No DN visa. Visitor visa alows limited remote work for foreign employers but no residence rights. Working Holiday Schemes are available for younger nationals of partner countries.
 - **Community verdict**: Mixed (visitor route used informally; no permanent DN framework).
 
-### highly_skiled_employment
+### highly_skilled_employment
 - **Official name**: Skiled Migrant Category Resident Visa (6-point system)
 - **Conditions**: Must claim 6 skilled resident points. Points from qualification: PhD = 6 pts, Master's = 5 pts, Bachelor Honours/PGDip = 4 pts (extra points for NZ qualifications from Aug 2026). Or from income: 3x median wage = 6 pts, 2x = 4 pts, 1.5x = 3 pts. Or from NZ occupational registration (>=2 years training) = 3-6 pts. Additional points from NZ skilled work experience: 1 pt/yr up to max 3 pts. Must have a skilled job or job offer from an accredited employer paying >= NZ $35.00/hr (median wage, 2025) for ANZSCO 1-3, or >= $52.50/hr for ANZSCO 4-5. Age <=55. ^[htps://www.immigration.govt.nz/opsmanual/77812.htm]
 - **Duration / renewal**: Resident visa on grant.
@@ -142,7 +142,7 @@ New Zealand imposed sanctions on Russia in 2022. Visa processing for Russian nat
 | Cost of living index | 60.2 (NYC=100, Numbeo 2026 Mid-Year) | [Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp?title=2026) [soft/estimate] |
 | Monthly rent, 1-bedroom apartment | NZ$1,900 (city centre) | [Numbeo](https://www.numbeo.com/cost-of-living/country_result.jsp?country=New+Zealand) [soft/estimate] |
 | Effective personal tax rate for remote workers | ~20–28% (progressive: 10.5% up to NZ$15,600; 17.5–39% above; self-employed ~28% at median income) | [IRD](https://www.ird.govt.nz/) [soft/estimate] |
-| Remote-work / self-employment residence available? | No dedicated DN visa; visitor visa allows limited informal remote work; SMC 6-point system for skilled PR | See [[#digital-nomad-visa]] and [[#highly-skilled-employment]] |
+| Remote-work / self-employment residence available? | No dedicated DN visa; visitor visa allows limited informal remote work; SMC 6-point system for skilled PR | See [[#digital-nomad-visa]] and [[#highly_skilled_employment]] |
 | Years to citizenship | 5 years residence; 1,350 days physical presence (240 days per 12-month period) | See [[#citizenship]] |
 | Maximum permitted absence during residence | 240 days presence required per 12-month period; max ~1,200 days absent over 5 years | See [[#citizenship]] |
 | Passport strength after citizenship | 183 visa-free destinations (Henley 2026, rank 6) | [Henley & Partners](https://www.henleyglobal.com/passport-index) — hard/official |

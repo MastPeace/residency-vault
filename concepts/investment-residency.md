@@ -4,7 +4,9 @@ created: 2026-09-14
 updated: 2026-09-14
 type: concept
 tags: [investment_residency, golden-visa, rbi, residence, strong_passport]
+category: strong_passport
 confidence: high
+last_checked: 2026-10-12
 ---
 
 ## Definition

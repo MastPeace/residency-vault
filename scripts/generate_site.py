@@ -1461,8 +1461,8 @@ def fix_inpage_anchors(doc):
         return f'href="#{cand[0]}"' if cand else m.group(0)
     doc = re.sub(r'href="#([^"]+)"', fix, doc)
     # unresolved non-footnote anchors -> plain text instead of a dead link
-    doc = re.sub(r'<a (?:class="wikilink" )?href="#([^"]+)">([^<]*)</a>',
-                 lambda m: m.group(0) if m.group(1) in idset or m.group(1).startswith("fn") else m.group(2), doc)
+    doc = re.sub(r'<a (?:class="wikilink" )?href="#([^"]+)"(?: class="footnote-back")?>([^<]*)</a>',
+                 lambda m: m.group(0) if m.group(1) in idset else m.group(2), doc)
     return doc
 
 

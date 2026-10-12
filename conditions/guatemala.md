@@ -28,7 +28,7 @@ Guatemala has one of Central America's most attractive retiree residency program
 | employment_residency | Work permit (temporary) | Job offer; labour market considerations | 1 yr, renewable | [[#employment-residency]] |
 | student_residency | Student residence | Enrollment in Guatemalan institution | Course duration | — |
 | family_reunification | Family reunification | Sponsor with valid residence; spouse/dependents | Matches principal | — |
-| retired_residency | Residencia de Pensionado (Permanent) | US$1,250/mo pension + $300/dependent; one-time fee | Permanent (direct) | [[#retired-residency]] |
+| retired_residency | Residencia de Pensionado (Permanent) | US$1,250/mo pension + $300/dependent; one-time fee | Permanent (direct) | [[#passive_income_residency-retired_residency]] |
 | citizenship_by_investment | Not available | — | — | — |
 
 ## Per-Program Detail

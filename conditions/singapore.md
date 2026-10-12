@@ -1,5 +1,5 @@
 ---
-title: Singapore — Singapore
+title: Singapore — Residency & Citizenship Conditions
 created: 2026-09-13
 updated: 2026-09-13
 type: entity
@@ -17,19 +17,68 @@ last_checked: 2026-10-12
 ## Overview
 Singapore has one of the world's strongest passports (#1 in many rankings). It is not an EU country but a global financial hub in Asia. Permanent Residence (PR) is by invitation/application through the Immigration & Checkpoints Authority (ICA). The target is ~40,000 PR grants/year for 2026–2030 (up from ~35,000 historically). Citizenship requires 2 years of PR + application. ^[https://www.eh-immigration.com/articles/pr-requirements-in-singapore-2026]
 
-## Residence
-**Permanent Residence (PR)** application categories: ^[https://www.one-visa.com/singapore-visa-resources/singapore-permanent-resident-pr-application]
-- Employment Pass or S Pass holders (working professionals)
-- Global Investor Programme (GIP) investors
-- Spouses and children of Singapore Citizens/PRs
-- Aged parents of Singapore Citizens
-- Foreign students studying in Singapore
+## Residency Programs
+| Type | Official Program | Key Conditions | Duration | Detail |
+|---|---|---|---|---|
+| investment_residency | Global Investor Programme (GIP) | Minimum SGD 10,000,000 investment in a new or existing business, or SGD 25,000,000 in a GIP-approved fund. Grants PR directly. ^[https://www.eh-immigration.com/articles/pr-requirements-in-singapore-2026] | Permanent Residence | [[#investment_residency]] |
+| passive_income_residency | Not available | — | — | — |
+| digital_nomad_visa | Not available | — | — | — |
+| highly_skilled_employment | Tech.Pass | Top-tier tech talent (founders, CTOs, senior engineers) — 2-year pass allowing employment with multiple companies, consulting, and starting businesses. | 2 years | [[#highly_skilled_employment]] |
+| startup_entrepreneur | EntrePass | For entrepreneurs. | — | [[#startup_entrepreneur]] |
+| employment_residency | Employment Pass (EP) / S Pass | Working professionals. ^[https://www.one-visa.com/singapore-visa-resources/singapore-permanent-resident-pr-application] | — | [[#employment_residency]] |
+| student_residency | Foreign students studying in Singapore | Foreign students studying in Singapore. ^[https://www.one-visa.com/singapore-visa-resources/singapore-permanent-resident-pr-application] | — | [[#student_residency]] |
+| family_reunification | Spouses and children of Singapore Citizens/PRs; Aged parents of Singapore Citizens | Spouses and children of Singapore Citizens/PRs; Aged parents of Singapore Citizens. ^[https://www.one-visa.com/singapore-visa-resources/singapore-permanent-resident-pr-application] | — | [[#family_reunification]] |
+| retired_residency | Not available | — | — | — |
+| citizenship_by_investment | Not available | — | — | — |
 
-**ICA assessment factors**: family ties to Singaporeans, economic contributions, qualifications, age, family profile, and length of residency. Unlike most [[investment-residency|golden visa]] programmes, Singapore's GIP grants PR directly. No guaranteed approval — ICA's decision is discretionary. ^[https://www.eh-immigration.com/articles/pr-requirements-in-singapore-2026]
+## Per-Program Detail
+### investment_residency
+- **Official name**: Global Investor Programme (GIP)
+- **Conditions**: Minimum SGD 10,000,000 investment in a new or existing business, or SGD 25,000,000 in a GIP-approved fund. Grants PR directly. ^[https://www.eh-immigration.com/articles/pr-requirements-in-singapore-2026]
+- **Duration / renewal**: Permanent Residence
+- **Path to citizenship**: PR for at least 2 years + application
+- **Official source**: see sources in frontmatter
+- **Community verdict**: Not yet assessed
 
-**Global Investor Programme (GIP)**: minimum SGD 10,000,000 investment in a new or existing business, or SGD 25,000,000 in a GIP-approved fund. Grants PR directly.
+### highly_skilled_employment
+- **Official name**: Tech.Pass
+- **Conditions**: Top-tier tech talent (founders, CTOs, senior engineers) — 2-year pass allowing employment with multiple companies, consulting, and starting businesses.
+- **Duration / renewal**: 2 years
+- **Path to citizenship**: Not directly; may lead to PR application via Employment Pass or S Pass holder route
+- **Official source**: see sources in frontmatter
+- **Community verdict**: Not yet assessed
 
-**Other permits**: Employment Pass (EP), S Pass, EntrePass (entrepreneurs), Tech.Pass (top-tier tech talent).
+### startup_entrepreneur
+- **Official name**: EntrePass
+- **Conditions**: For entrepreneurs.
+- **Duration / renewal**: —
+- **Path to citizenship**: Not directly; may lead to PR application
+- **Official source**: see sources in frontmatter
+- **Community verdict**: Not yet assessed
+
+### employment_residency
+- **Official name**: Employment Pass (EP) / S Pass
+- **Conditions**: Working professionals. ^[https://www.one-visa.com/singapore-visa-resources/singapore-permanent-resident-pr-application]
+- **Duration / renewal**: —
+- **Path to citizenship**: PR application via Employment Pass or S Pass holder route, then citizenship after 2+ years as PR
+- **Official source**: see sources in frontmatter
+- **Community verdict**: Not yet assessed
+
+### student_residency
+- **Official name**: Foreign students studying in Singapore
+- **Conditions**: Foreign students studying in Singapore. ^[https://www.one-visa.com/singapore-visa-resources/singapore-permanent-resident-pr-application]
+- **Duration / renewal**: —
+- **Path to citizenship**: PR application route, then citizenship after 2+ years as PR
+- **Official source**: see sources in frontmatter
+- **Community verdict**: Not yet assessed
+
+### family_reunification
+- **Official name**: Spouses and children of Singapore Citizens/PRs; Aged parents of Singapore Citizens
+- **Conditions**: Spouses and children of Singapore Citizens/PRs; Aged parents of Singapore Citizens. ^[https://www.one-visa.com/singapore-visa-resources/singapore-permanent-resident-pr-application]
+- **Duration / renewal**: —
+- **Path to citizenship**: PR application route, then citizenship after 2+ years as PR
+- **Official source**: see sources in frontmatter
+- **Community verdict**: Not yet assessed
 
 ## Citizenship
 - PR for at least 2 years
@@ -50,6 +99,9 @@ Singapore is one of the world's busiest ports and a major maritime hub. ONE°15 
 
 ## Notes for RU citizens
 Singapore maintains sanctions against Russia. The visa and PR application environment for Russian nationals is difficult due to geopolitical factors and enhanced bank due diligence. The discretionary nature of PR approval makes outcomes unpredictable. The ban on dual citizenship is a major barrier. Singapore has a small Russian-speaking expat community. The GIP route (SGD 10,000,000+) is theoretically open but practically challenging for RU nationals.
+
+## Community Pulse
+PR approval is fully discretionary with no guaranteed criteria or appeal process, making outcomes unpredictable. The ban on dual citizenship is a major barrier for many applicants. The GIP route is theoretically open but practically challenging for certain nationalities, including Russian nationals, due to geopolitical factors and enhanced bank due diligence.
 
 ## Country Snapshot
 
@@ -74,7 +126,6 @@ Singapore maintains sanctions against Russia. The visa and PR application enviro
 | Freedom House score | 48/100 (Partly Free) | [Freedom House 2025](https://freedomhouse.org/country/singapore/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,000 h (tropical; consistent year-round with afternoon thunderstorms) | [Meteorological Service Singapore](http://www.weather.gv.sg/) — hard/official |
 | Average annual temperature | ~25°C to 32°C year-round (tropical; high humidity ~80%) — almost no seasonal variation | [Meteorological Service Singapore](http://www.weather.gv.sg/) — hard/official |
-
 
 ## Country Card
 

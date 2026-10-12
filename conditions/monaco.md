@@ -22,15 +22,15 @@ Monaco is a sovereign city-state on the French Riviera, famous for **0% personal
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Carte de séjour (residence) | No formal investment visa; €500,000+ bank deposit + proof of accommodation | 1 yr → 3 yr → 10 yr | [[#carte-de-sejour]] |
-| passive_income_residency | Residence without professional activity | €500,000+ deposit held in a Monaco bank + accommodation | 1 yr renewable | [[#carte-de-sejour]] |
+| investment_residency | Carte de séjour (residence) | No formal investment visa; €500,000+ bank deposit + proof of accommodation | 1 yr → 3 yr → 10 yr | [[#carte-de-séjour]] |
+| passive_income_residency | Residence without professional activity | €500,000+ deposit held in a Monaco bank + accommodation | 1 yr renewable | [[#carte-de-séjour]] |
 | digital_nomad_visa | Not available | — | — | — |
 | highly_skilled_employment | Not available | — | — | — |
 | startup_entrepreneur | Business-owner residence | Incorporate a Monaco company, own ≥25% | 1 yr | [[#business-residence]] |
 | employment_residency | Employment residence | Job offer from a Monaco employer (work permit) | 1 yr | [[#business-residence]] |
 | student_residency | Not available | — | — | — |
 | family_reunification | Family residence | Dependent of a resident; dependent accommodation/means | Tied to sponsor | — |
-| retired_residency | Retirement residence | Same as passive-income (bank deposit + accommodation) | 1 yr | [[#carte-de-sejour]] |
+| retired_residency | Retirement residence | Same as passive-income (bank deposit + accommodation) | 1 yr | [[#carte-de-séjour]] |
 | citizenship_by_investment | Not available | Citizenship by the Sovereign Prince's discretion only | — | [[#citizenship]] |
 
 ## Per-Program Detail
@@ -91,7 +91,7 @@ Residence is widely seen as "pay-to-live" for the wealthy: capital and property 
 | Cost of living index | ~110 (Numbeo, NYC=100; among world's highest)  [soft/estimate] | [soft/estimate](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp) |
 | Monthly rent, 1-bedroom apartment | ~€3,500+ (city centre)  [soft/estimate] | [soft/estimate](https://www.numbeo.com/cost-of-living/country_result.jsp?country=Monaco) |
 | Effective personal tax rate for remote workers | 0% (non-French residents) | [hard/official](https://monservicepublic.gouv.mc/en/themes/tax/information/general-information/tax-in-monaco) |
-| Remote-work / self-employment residence available? | No dedicated visa — self-sufficiency route only | See [[#carte-de-sejour]] | hard/official |
+| Remote-work / self-employment residence available? | No dedicated visa — self-sufficiency route only | See [[#carte-de-séjour]] | hard/official |
 | Years to citizenship | 10 years + discretionary approval | See [[#citizenship]] | hard/official |
 | Maximum permitted absence | ~183-day presence expected for tax residence | [soft/estimate] | soft/estimate |
 | Passport strength | 177 visa-free destinations (Henley 2026) | [hard/official](https://www.henleyglobal.com/passport-index/ranking) |

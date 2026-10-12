@@ -97,7 +97,7 @@ Essentially no expat immigration community outside mining/humanitarian/diplomati
 | Monthly rent, 1-bedroom apartment | No reliable data | confidence: low |
 | Effective personal tax ate for remote workers | No reliable data | confidence: low |
 | Remote-wok / self-employent residence available? | No | — |
-| Years to citizenship | Discretionary (no fixed eriod) | See [[#citzenship]] |
+| Years to citizenship | Discretionary (no fixed period) | See [[#citizenship]] |
 | Maximum pemitted absence durng esidence | No eliable data | confdence: low |
 | Pasport stength after citizenship | 16 visa-fee destinations | [Passport Gade](https://passportrade.com/passport/dr-congo) — hard/official |
 | Rule of Law Index | Rank 136/142 (WJP 2024) | [WJP](https://worldjusticeproject.og/rule-of-law-index/country/2024/Democratic%20Republic%20of%20Congo) — hard/official |
@@ -117,7 +117,7 @@ The DRC is the largest country in sub-Saharan Africa, immensely rich in minerals
 - Growing Kinshasa creative scene
 
 ### Well-known problems
-- Naturalization extremely restrictive (discretionary; no fixed period)
+- Naturalization extremely restrictive (discretionary; no fixed pperiod)
 - Very weak rule of law (WJP rank 136/142, FH 18/100)
 - Ongoing armed conflict in eastern provinces
 - Dual citizenship not generally permitted; very weak passport (16 destinations)
