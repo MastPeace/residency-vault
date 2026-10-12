@@ -972,6 +972,8 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .toc a { display: block; padding: 4px 0 4px 14px; margin-left: -1px; border-left: 2px solid transparent; color: var(--ink-2); text-decoration: none; line-height: 1.35; }
 .toc a:hover { color: var(--ink); }
 .toc a.on { color: var(--ink); font-weight: 600; border-left-color: var(--accent); }
+.flag { width: 20px; height: auto; max-height: 14px; object-fit: cover; border-radius: 2px; vertical-align: -2px; margin-right: 8px; box-shadow: 0 0 0 1px rgba(0,0,0,.12); }
+.flag-lg { width: 28px; max-height: 20px; margin-right: 0; vertical-align: middle; }
 .notice { margin: 16px 0; padding: 10px 14px; border: 1px solid var(--line); border-left: 3px solid var(--accent, #c9a227); border-radius: 6px; font-size: 13px; line-height: 1.5; color: var(--muted); }
 .notice b { color: var(--ink-2, inherit); }
 .foot { border-top: 1px solid var(--line); padding: 24px 0 48px; font-size: 13px; color: var(--muted); }
@@ -1205,12 +1207,19 @@ def passport_count(page):
     return None
 
 
+def flag_img(code, base, cls="flag"):
+    c = (code or "").strip().lower()
+    if not c or not (WIKI_DIR / "assets" / "flags" / f"{c}.png").exists():
+        return ""
+    return f'<img class="{cls}" src="{base}assets/flags/{c}.png" alt="" width="24" height="16" loading="lazy">'
+
+
 def conf_html(level, compact=False):
     n = {"low": 1, "medium": 2, "high": 3}.get((level or "").lower())
     if not n:
         return '<span class="none">—</span>'
     bars = "".join(f'<b class="{"on" if i < n else ""}"></b>' for i in range(3))
-    return f'<span class="conf" title="Confidence: {level}"><i>{bars}</i>{'' if compact else level.capitalize()}</span>'
+    return f'<span class="conf" title="Confidence: {level}"><i>{bars}</i>{'' if compact else level.capitalize() + ' confidence'}</span>'
 
 
 def first_sentences(text, limit=190):
@@ -1491,7 +1500,7 @@ def render_page(page, region_meta, region_labels):
 
     sub = []
     if page.get("country_code"):
-        sub.append(f'<span class="code">{html.escape(page["country_code"])}</span>')
+        sub.append(flag_img(page["country_code"], "../", "flag flag-lg") + f'<span class="code">{html.escape(page["country_code"])}</span>')
     reg = region_meta.get(page["slug"], {}).get("region")
     if reg:
         sub.append(f'<span>{html.escape(region_labels.get(reg, reg))}</span>')
@@ -1514,12 +1523,11 @@ def render_page(page, region_meta, region_labels):
     head = f"""<div class="crumbs">{crumbs}</div>
 <div class="page-head"><h1>{html.escape(name)}</h1>
 <div class="sub">{"".join(sub)}</div>{f'<div class="chips">{chips}</div>' if chips else ''}</div>
-{NOTICE_HTML}
 {build_facts(page) if is_entity else ''}
 {monitor_html}"""
 
     main = f"""<div class="wrap"><div class="page-grid">
-<main class="main"><article>{head}<div class="article">{body}</div></article></main>
+<main class="main"><article>{head}<div class="article">{body}</div>{NOTICE_HTML}</article></main>
 {build_toc(body)}
 </div></div>"""
     main = fix_inpage_anchors(main)
@@ -1650,7 +1658,7 @@ def render_index(region_meta, region_labels, concept_pages):
             f'data-confn="{ {"low":1,"medium":2,"high":3}.get(conf,"") }" '
             f'data-cost="{"" if ci_n is None else round(ci_n)}" data-rent="{"" if rn_n is None else round(rn_n)}" '
             f'data-gv="{round(gv_n) if gv_n else ""}" data-rv="{"" if rv_n is None else round(rv_n)}" data-tax="{"" if tx_n is None else tx_n}">'
-            f'<td class="name"><a href="conditions/{p["slug"]}.html">{html.escape(name)}</a></td>'
+            f'<td class="name">{flag_img(p.get("country_code"), "")}<a href="conditions/{p["slug"]}.html">{html.escape(name)}</a></td>'
             f'<td class="reg-cell">{reg_t or dash}</td>'
             f'<td class="tags-cell">{tags_t or dash}</td>'
             f'<td class="progs-cell">{icons or dash}</td>'
@@ -1751,8 +1759,8 @@ def render_index(region_meta, region_labels, concept_pages):
   <div class="stamp">{n_c} countries · {n_p} program comparisons · built {now}</div></div>
 </section>
 <section class="cards">{cards}</section>
-{NOTICE_HTML}
 {latest_html}
+{NOTICE_HTML}
 </div>"""
     return {
         "index.html": shell(SITE_TITLE, index_body, ""),

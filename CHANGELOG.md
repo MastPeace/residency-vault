@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [Unreleased]
 
 ### Fixed
+- Confidence label in the page header reads "High confidence" (was "High") instead of an unlabeled bar.
 - `extended_batch.py`: a successful snapshot resets the attempt counter (otherwise a country would be skipped for good after 3 refreshes in total). Cron gate `ext_pending.sh` includes the UTC hour while work is pending, so the batch no longer stalls after a tick skipped by the Monday monitor window.
 - Kazakhstan and Singapore migrated from v1 to SCHEMA v2 (Residency Programs table, Per-Program Detail, Community Pulse) with `scripts/migrate_v2.py` (deepseek-v4-pro, facts from the page only; other sections kept verbatim). Singapore title fixed.
 - 12 country pages: Detail/snapshot anchors that pointed to non-existent headings repaired; footnote back-links without a reference are dropped. Site now has 0 broken internal links/anchors and 0 broken wikilinks.
@@ -14,7 +15,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Site integrity audit: ~650 dead in-page links (`[[#employment-residency]]` vs `employment_residency` ids) now resolve to the matching heading; unresolved anchors render as plain text; concept-to-concept links no longer point to `conditions/`; `[[usa]]` -> `[[united-states]]`; README counts 100 -> 163.
 
 ### Added
-- Overview/"not advice" notice on every country and program page and on the home page, expanded footer and README disclaimer.
+- Country flags (vendored PNGs in `assets/flags/`, ~650 KB) next to the country code on every country page and in the countries table.
+- Overview/"not advice" notice at the bottom of every country and program page and of the home page, expanded footer and README disclaimer.
 - Technical SEO: canonical + Open Graph tags on all pages, `sitemap.xml`, `robots.txt` (site was not discoverable before).
 - `ROADMAP.md`: staged plan (findability, community channels, experts/helpers, reviews, quiz bot, monetization).
 - Country table: Programs column with icons per offered residency route (closed routes left out) plus program filter buttons; Cost index (Numbeo, NYC=100) and Rent $/mo (approximate USD) columns.
