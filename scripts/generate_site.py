@@ -974,6 +974,14 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .toc a.on { color: var(--ink); font-weight: 600; border-left-color: var(--accent); }
 .flag { width: 20px; height: auto; max-height: 14px; object-fit: cover; border-radius: 2px; vertical-align: -2px; margin-right: 8px; box-shadow: 0 0 0 1px rgba(0,0,0,.12); }
 .flag-lg { width: 28px; max-height: 20px; margin-right: 0; vertical-align: middle; }
+.h1-sub { font-size: 0.38em; font-weight: 400; color: var(--muted); letter-spacing: 0; white-space: nowrap; }
+.related { margin: 40px 0 8px; }
+.related .rel-h { font-size: 15px; margin: 0 0 10px; }
+.related-list { list-style: none; padding: 0; margin: 0 0 18px; display: flex; flex-wrap: wrap; gap: 8px 10px; }
+.related-list li { margin: 0; }
+.related-list a { display: inline-flex; align-items: center; padding: 4px 12px; border: 1px solid var(--line); border-radius: 999px; font-size: 13px; text-decoration: none; color: var(--ink); }
+.related-list a:hover { border-color: var(--accent, #1f5b45); }
+.related-list .flag { margin-right: 6px; }
 .notice { margin: 16px 0; padding: 10px 14px; border: 1px solid var(--line); border-left: 3px solid var(--accent, #c9a227); border-radius: 6px; font-size: 13px; line-height: 1.5; color: var(--muted); }
 .notice b { color: var(--ink-2, inherit); }
 .foot { border-top: 1px solid var(--line); padding: 24px 0 48px; font-size: 13px; color: var(--muted); }
@@ -1064,6 +1072,9 @@ CAT_LABELS = OrderedDict([
 ])
 REPO_URL = "https://github.com/MastPeace/residency-vault"
 SITE_URL = "https://residencyradar.org/"
+HOME_TITLE = "Residency & Citizenship Conditions for 163 Countries | Residency Radar"
+HOME_DESC = ("Source-cited residency and citizenship requirements for 163 countries: golden visas, digital nomad, work and "
+             "passive-income routes, years to citizenship, tax. Updated weekly.")
 NOTICE_HTML = ('<aside class="notice" role="note"><b>Overview information only.</b> This page is a general summary compiled '
     'from public sources with the help of automated tools. It is <b>not legal, tax or immigration advice</b> and may be '
     'incomplete or out of date. Rules, thresholds and fees change often and are applied case by case. Always verify with the '
@@ -1374,7 +1385,7 @@ INDEX_JS = r"""
 """
 
 
-def shell(title, body, base, extra_js="", desc=""):
+def shell(title, body, base, extra_js="", desc="", ld=""):
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -1383,6 +1394,8 @@ def shell(title, body, base, extra_js="", desc=""):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(title)}</title>
 <meta name="description" content="{html.escape(desc or SITE_SUBTITLE)}">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+{ld}
 <link rel="icon" type="image/svg+xml" href="{base}assets/favicon.svg">
 <link rel="icon" type="image/png" sizes="32x32" href="{base}assets/favicon-32.png">
 <link rel="alternate icon" href="{base}assets/favicon.ico">
@@ -1482,6 +1495,114 @@ def fix_inpage_anchors(doc):
     return doc
 
 
+
+SEO_SHORT = {
+    "investment-residency": "investment", "citizenship-by-investment": "citizenship by investment",
+    "passive-income-residency": "passive income", "retired-residency": "retirement",
+    "digital-nomad-visa": "digital nomad", "employment-residency": "work permit",
+    "highly-skilled-employment": "highly skilled", "startup-entrepreneur": "startup / business",
+    "student-residency": "student", "family-reunification": "family",
+}
+SEO_LASTMOD = {}      # relative url -> ISO date, filled while rendering, read by seo_pass()
+
+
+def clip_words(text, limit):
+    text = re.sub(r"\s+", " ", text).strip()
+    if len(text) <= limit:
+        return text
+    cut = text[:limit - 1].rsplit(" ", 1)[0].rstrip(",;:-– ")
+    return cut + "…"
+
+
+def seo_year(page):
+    d = page.get("last_checked") or page.get("updated") or ""
+    return d[:4] if re.match(r"\d{4}", d) else str(datetime.now(timezone.utc).year)
+
+
+def seo_country(page, name):
+    year = seo_year(page)
+    title = f"{name} Residency & Citizenship Requirements {year}"
+    if len(title) + 18 <= 62:
+        title += " | Residency Radar"
+    progs = [SEO_SHORT[x] for x in programs_of(page) if x in SEO_SHORT]
+    ys = strip_md(snapshot_value(page, "Years to citizenship"))
+    ys = re.split(r"[;(\[]", ys)[0].strip(" .—-")
+    cit = f"citizenship after {ys}" if ys and len(ys) <= 24 and re.match(r"^~?\d", ys) and "year" in ys.lower() else ""
+    tax = strip_md(snapshot_value(page, "Effective personal tax"))
+    tax = re.split(r",\s*or\s|;|\sor\s|\(|\[", tax)[0].strip(" .—-")
+    tx = f"remote-worker tax {tax}" if tax and len(tax) <= 22 and re.search(r"\d", tax) else ""
+    checked = page.get("last_checked") or page.get("updated") or ""
+    best = ""
+    for n in (4, 3, 2, 1):
+        for use_cit, use_tax in ((True, True), (True, False), (False, True), (False, False)):
+            bits = ([f"routes: {', '.join(progs[:n])}"] if progs else []) + ([cit] if use_cit and cit else []) + ([tx] if use_tax and tx else [])
+            cand = f"{name} residency — " + "; ".join(bits) + f". Sources cited, checked {checked}." if bits else ""
+            if cand and len(cand) <= 158:
+                best = cand
+                break
+        if best:
+            break
+    if not best:
+        best = first_sentences(page["body"].split("\n## Residency")[0].replace("## Overview", ""), 155)
+    return title, clip_words(best, 158)
+
+
+def seo_concept(page, name):
+    base = re.split(r"\s[—–-]\s", name, maxsplit=1)[0].strip()
+    title = f"{base}: Requirements Compared Across Countries"
+    if len(title) <= 52:
+        title += " | Residency Radar"
+    body = re.sub(r"^## .*$", "", page["body"], flags=re.M)
+    first = strip_md(re.sub(r"\[\[([^\]|#]+)(?:\|([^\]]+))?\]\]", lambda m: m.group(2) or m.group(1).replace("-", " "), body.strip().split("\n\n")[0]))
+    desc = clip_words(f"{first}", 158)
+    return title, desc
+
+
+def seo_ld(kind, url, name, desc, page=None, crumbs=()):
+    org = {"@type": "Organization", "name": "Residency Radar", "url": SITE_URL,
+           "logo": SITE_URL + "assets/logo-dark.png", "sameAs": [TG_URL, REPO_URL]}
+    graph = []
+    if kind == "home":
+        graph += [org, {"@type": "WebSite", "name": "Residency Radar", "url": SITE_URL, "description": desc,
+                        "publisher": {"@type": "Organization", "name": "Residency Radar"}}]
+    else:
+        item = {"@type": "Article" if page else "WebPage", "headline": name, "name": name, "description": desc,
+                "url": url, "mainEntityOfPage": url, "inLanguage": "en", "publisher": {"@type": "Organization", "name": "Residency Radar", "url": SITE_URL}}
+        if page:
+            if page.get("created"): item["datePublished"] = page["created"]
+            dm = page.get("updated") or page.get("last_checked")
+            if dm: item["dateModified"] = dm
+            item["author"] = {"@type": "Organization", "name": "Residency Radar", "url": SITE_URL}
+            item["image"] = SITE_URL + "assets/og-card.png"
+        graph.append(item)
+        if crumbs:
+            graph.append({"@type": "BreadcrumbList", "itemListElement": [
+                {"@type": "ListItem", "position": i + 1, "name": n, "item": SITE_URL + u} for i, (n, u) in enumerate(crumbs)]})
+    return '<script type="application/ld+json">' + json.dumps({"@context": "https://schema.org", "@graph": graph}, ensure_ascii=False).replace("</", "<\\/") + "</script>"
+
+
+def related_html(page, region_meta, region_labels, is_entity):
+    items = []
+    if is_entity:
+        reg = region_meta.get(page["slug"], {}).get("region")
+        peers = [p for sl, p in all_pages.items() if p["type"] == "entity" and sl != page["slug"]
+                 and region_meta.get(sl, {}).get("region") == reg]
+        peers.sort(key=lambda p: display_name(p["title"]))
+        heading = f"More countries in {region_labels.get(reg, 'this region')}"
+        items = [(f'{sl}.html', display_name(p["title"]), p.get("country_code")) for p in peers[:10] for sl in [p["slug"]]]
+        progs = [(f'../concepts/{x}.html', PROG_ICONS[x][1]) for x in programs_of(page)]
+        extra = ("<h2 class=\"rel-h\">Program types offered here</h2><ul class=\"related-list\">"
+                 + "".join(f'<li><a href="{u}">{html.escape(n)} compared</a></li>' for u, n in progs) + "</ul>") if progs else ""
+    else:
+        heading = "Other residency program types"
+        items = [(f'{sl}.html', p["title"].split(" — ")[0], None) for sl, p in all_pages.items() if p["type"] != "entity" and sl != page["slug"]]
+        extra = ""
+    if not items and not extra:
+        return ""
+    lis = "".join(f'<li><a href="{u}">{flag_img(cc, "../")}{html.escape(n)}</a></li>' for u, n, cc in items)
+    return (f'<section class="related"><h2 class="rel-h">{html.escape(heading)}</h2><ul class="related-list">{lis}</ul>{extra}</section>') if items else f'<section class="related">{extra}</section>'
+
+
 def render_page(page, region_meta, region_labels):
     title = page["title"]
     name = display_name(title) if page["type"] == "entity" else title
@@ -1521,17 +1642,24 @@ def render_page(page, region_meta, region_labels):
     crumbs += f'<span class="sep">/</span><span>{html.escape(name)}</span>'
 
     head = f"""<div class="crumbs">{crumbs}</div>
-<div class="page-head"><h1>{html.escape(name)}</h1>
+<div class="page-head"><h1>{html.escape(name)}{'<span class="h1-sub"> residency &amp; citizenship</span>' if is_entity else ''}</h1>
 <div class="sub">{"".join(sub)}</div>{f'<div class="chips">{chips}</div>' if chips else ''}</div>
 {build_facts(page) if is_entity else ''}
 {monitor_html}"""
 
     main = f"""<div class="wrap"><div class="page-grid">
-<main class="main"><article>{head}<div class="article">{body}</div>{NOTICE_HTML}</article></main>
+<main class="main"><article>{head}<div class="article">{body}</div>{related_html(page, region_meta, region_labels, is_entity)}{NOTICE_HTML}</article></main>
 {build_toc(body)}
 </div></div>"""
     main = fix_inpage_anchors(main)
-    return shell(f"{name} — {SITE_TITLE}", main, "../", desc=first_sentences(page["body"].split("\n## Residency")[0].replace("## Overview", ""), 160))
+    sub_dir = "conditions" if is_entity else "concepts"
+    seo_title, seo_desc = seo_country(page, name) if is_entity else seo_concept(page, name)
+    url = f"{SITE_URL}{sub_dir}/{page['slug']}.html"
+    SEO_LASTMOD[f"{sub_dir}/{page['slug']}.html"] = (page.get("updated") or page.get("last_checked") or "")[:10]
+    crumbs = [("Home", ""), ("Countries" if is_entity else "Programs", "countries.html" if is_entity else "programs.html"),
+              (name.split(" — ")[0], f"{sub_dir}/{page['slug']}.html")]
+    ld = seo_ld("page", url, seo_title.replace(" | Residency Radar", ""), seo_desc, page=page, crumbs=crumbs)
+    return shell(seo_title, main, "../", desc=seo_desc, ld=ld)
 
 
 REGION_ABBR = {
@@ -1763,9 +1891,9 @@ def render_index(region_meta, region_labels, concept_pages):
 {NOTICE_HTML}
 </div>"""
     return {
-        "index.html": shell(SITE_TITLE, index_body, ""),
-        "countries.html": shell(f"Countries — {SITE_TITLE}", countries_body, "", extra_js=f"<script>{INDEX_JS}</script>"),
-        "programs.html": shell(f"Programs — {SITE_TITLE}", programs_body, ""),
+        "index.html": shell(HOME_TITLE, index_body, "", desc=HOME_DESC, ld=seo_ld("home", SITE_URL, HOME_TITLE, HOME_DESC)),
+        "countries.html": shell("Residency & Citizenship by Country: Compare 163 Countries | Residency Radar", countries_body, "", extra_js=f"<script>{INDEX_JS}</script>", desc="Compare residency and citizenship conditions in 163 countries: programs, years to citizenship, passport strength, cost of living and tax for remote workers.", ld=seo_ld("page", SITE_URL + "countries.html", "Residency & Citizenship by Country", "Compare residency and citizenship conditions in 163 countries.", crumbs=[("Home", ""), ("Countries", "countries.html")])),
+        "programs.html": shell("Residency Programs Compared: Golden Visa, Digital Nomad, Retirement & More | Residency Radar", programs_body, "", desc="Ten residency and citizenship program types (investment, digital nomad, passive income, work, student, family and more), each compared across countries.", ld=seo_ld("page", SITE_URL + "programs.html", "Residency Programs Compared", "Ten residency and citizenship program types compared across countries.", crumbs=[("Home", ""), ("Programs", "programs.html")])),
     }
 
 
@@ -1778,7 +1906,7 @@ def render_glossary():
 <div class="page-head"><h1>Glossary</h1></div><div class="article">{body}</div></article></main>
 {build_toc(body)}
 </div></div>"""
-    return shell(f"Glossary — {SITE_TITLE}", main, "", desc="What the columns, labels and abbreviations on this site mean.")
+    return shell(f"Glossary — {SITE_TITLE}", main, "", desc="What the columns, labels, confidence levels and abbreviations on Residency Radar mean: how to read country pages, program types and data sources.")
 
 
 def generate_search_index():
@@ -1837,12 +1965,16 @@ def seo_pass():
         tags = f'<link rel="canonical" href="{url}">\n<meta property="og:type" content="website">\n<meta property="og:site_name" content="Residency Radar">\n'
         if t: tags += f'<meta property="og:title" content="{t.group(1)}">\n'
         if d: tags += f'<meta property="og:description" content="{d.group(1)}">\n'
-        tags += f'<meta property="og:url" content="{url}">\n<meta property="og:image" content="{SITE_URL}assets/logo-dark.png">\n<meta name="twitter:card" content="summary">\n'
+        tags += f'<meta property="og:url" content="{url}">\n<meta property="og:image" content="{SITE_URL}assets/og-card.png">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n<meta name="twitter:card" content="summary_large_image">\n'
         if "rel=\"canonical\"" not in doc:
             f.write_text(doc.replace("</head>", tags + "</head>", 1), encoding="utf-8")
         urls.append(url)
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    body = "\n".join(f"  <url><loc>{u}</loc><lastmod>{today}</lastmod></url>" for u in urls)
+    def lm(u):
+        rel = u[len(SITE_URL):] or "index.html"
+        d = SEO_LASTMOD.get(rel, "")
+        return d if re.match(r"\d{4}-\d\d-\d\d$", d) else today
+    body = "\n".join(f"  <url><loc>{u}</loc><lastmod>{lm(u)}</lastmod></url>" for u in urls)
     (OUTPUT_DIR / "sitemap.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{body}\n</urlset>\n', encoding="utf-8")
     (OUTPUT_DIR / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}sitemap.xml\n", encoding="utf-8")
     return len(urls)
