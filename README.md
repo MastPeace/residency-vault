@@ -186,7 +186,7 @@ sitemap). Page text comes from `i18n/ru/*.md`, produced by `scripts/translate_ru
   a translation only while the hash matches; otherwise the ru page shows the English text with a "not translated yet"
   banner, `noindex` and a canonical link to the English page. Data-derived values (rates, tax, facts strip) come from the English page.
 - `python3 scripts/translate_ru.py --top` (launch set), `<slug> ...`, `--stale` (re-translate changed pages), `--status`, `--names`.
-  Needs `OPENROUTER_API_KEY` (env or `~/.hermes/.env`). Cost is about $0.02 per country page.
+  Needs `OPENROUTER_API_KEY` (env or `~/.hermes/.env`). Cost is about $0.013 per country page; `--all` translates everything not yet translated.
 - Weekly changes (`/changes/`) exist in English only; the ru nav links to them.
 
 ### How a Change Reaches the Live Site

@@ -3,6 +3,7 @@
 
     python3 scripts/translate_ru.py portugal spain          # country pages by slug
     python3 scripts/translate_ru.py --top                   # the launch set (TOP_COUNTRIES + all concepts + glossary)
+    python3 scripts/translate_ru.py --all                   # everything not yet translated
     python3 scripts/translate_ru.py --stale                 # re-translate only pages whose English source changed
     python3 scripts/translate_ru.py --names                 # (re)build i18n/ru/names.json for all countries
     python3 scripts/translate_ru.py --status                # what is translated / stale
@@ -483,6 +484,10 @@ def main(argv):
         slugs += TOP_COUNTRIES
         slugs += [f.stem for f in (ROOT / "concepts").glob("*.md")]
         jobs.append((ROOT / "glossary.md", I18N / "glossary.md", "concept"))
+    if "--all" in argv:   # every country/concept without a fresh translation yet
+        done = {(r[0], r[1]) for r in status() if r[2] == "ok"}
+        for sub in ("conditions", "concepts"):
+            slugs += [f.stem for f in sorted((ROOT / sub).glob("*.md")) if (sub, f.stem) not in done]
     if "--glossary" in argv:
         jobs.append((ROOT / "glossary.md", I18N / "glossary.md", "concept"))
     if "--stale" in argv:

@@ -12,7 +12,7 @@ Overview-level, source-cited, continuously monitored reference for residency and
 - [x] "Overview information only, not advice" notice on every page + footer
 - [x] Technical SEO: canonical, Open Graph, sitemap.xml, robots.txt
 - [ ] Extended Snapshot for all 163 countries (cron `extended-snapshot-batch`, ~1 day)
-- [x] Disclaimer in the Telegram bot (all answers, /start, /subscribe, Stars invoices); channel digest posts and bot profile description still to cover
+- [x] Disclaimer in the Telegram bot (all answers, /start, /subscribe, Stars invoices, bot profile description EN+RU, channel posts and digest)
 
 ## Stage 1 — Be findable (traffic is currently ~0)
 - [x] Site verified in Google Search Console and Bing Webmaster Tools (verification files in `static/`); sitemap submission = owner action
@@ -52,4 +52,4 @@ Ordered by speed. Ranges are rough assumptions, not market data.
 ## Later / ideas
 - **Special residency conditions per country** — a catch-all for residence programs that do not fit the 10 canonical types (SCHEMA taxonomy): ancestry/heritage and repatriation routes, regimes for nationals of specific countries (treaty/quota), humanitarian and temporary-protection statuses, special professional or regional schemes. Plan: add an "Other / special programs" section to the country page schema (free-form rows: program, who qualifies, conditions, source), collect it during the monitor pass, and promote a type to a canonical class once it shows up in many countries.
 
-- **Russian version, remaining pages** — launch set is the top-17 countries + 10 program pages + glossary; translate the other 146 country pages (about $0.02 each) and the weekly changes feed. Keep `translate_ru.py --stale` in the weekly pipeline so translations never lag the English pages.
+- **Russian version, next steps** — weekly changes feed (`/changes/`) is English-only; Yandex Webmaster verification; `translate_ru.py --stale` runs in the weekly pipeline so translations never lag the English pages.
