@@ -1041,7 +1041,12 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .cards .card:hover { border-color: var(--accent); }
 .cards .card b { font: 600 20px/1.2 var(--serif); }
 .cards .card span { color: var(--ink-2); font-size: 14px; }
-@media (max-width: 760px) { .cards { grid-template-columns: 1fr; } }
+@media (max-width: 760px) {
+  .cards { gap: 8px; margin: 0 0 28px; }
+  .cards .card { padding: 12px 6px; text-align: center; align-items: center; justify-content: center; }
+  .cards .card b { font-size: 16px; }
+  .cards .card span { display: none; }
+}
 .tg-btn { display: inline-flex; align-items: center; gap: 7px; height: 36px; padding: 0 13px; border-radius: 6px; background: var(--accent);
   color: var(--accent-ink); font: 600 13px var(--sans); text-decoration: none; white-space: nowrap; }
 .tg-btn:hover { filter: brightness(1.1); text-decoration: none; }
