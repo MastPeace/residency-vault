@@ -2,6 +2,7 @@
 title: France — Residency & Citizenship Conditions
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, talent-passport, tech-visa, tax, strong_passport]
 category: strong_passport
@@ -161,6 +162,68 @@ France's lack of a digital nomad visa is a notable gap compared to Spain, Portug
 | Freedom House score | 89/100 (Free) | [Freedom House](https://freedomhouse.org/country/france/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~1,700 h (Paris ~1,660; Mediterranean coast ~2,700) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~12 °C (Paris; Mediterranean coast ~16 °C) | [Wikipedia / Météo-France](https://en.wikipedia.org/wiki/France#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 606 410 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=FR) — hard/official |
+| Geography & size | Population density | 127 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=FR) — hard/official |
+| Geography & size | Urban population | 79% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=FR) — hard/official |
+| Geography & size | Coastline | 5500 km (metropolitan France) | [source](https://en.wikipedia.org/wiki/Geography_of_France) — soft/estimate |
+| Geography & size | Highest point | Mont Blanc, 4808 m | [source](https://en.wikipedia.org/wiki/Geography_of_France) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://www.cia.gov/the-world-factbook/countries/france/) — hard/official |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 summer; Moscow-2h/-1h | [source](https://www.timeanddate.com/time/zone/france) — soft/estimate |
+| Climate | Avg precipitation | 867 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=FR) — hard/official |
+| Climate | PM2.5 exposure | 8.2 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=FR) — hard/official |
+| Climate | Climate zone | Cfb (temperate oceanic, Paris); Csa Mediterranean south | [source](https://en.climate-data.org/europe/france/ile-de-france/paris-44/) — soft/estimate |
+| Climate | Temp winter / summer | Paris: Jan avg 5°C, Jul avg 20°C | [source](https://en.climate-data.org/europe/france/ile-de-france/paris-44/) — soft/estimate |
+| Climate | Rainy days | ~170 rainy days/year (Paris) | [source](https://en.climate-data.org/europe/france/ile-de-france/paris-44/) — soft/estimate |
+| Climate | Humidity | ~78% avg annual (Paris) | [source](https://en.climate-data.org/europe/france/ile-de-france/paris-44/) — soft/estimate |
+| Climate | Natural hazards | Flooding, avalanches, windstorms, forest fires in south | [source](https://en.wikipedia.org/wiki/Geography_of_France) — soft/estimate |
+| Climate | Air quality | PM2.5 ~11 µg/m³ annual mean (IQAir 2024) | [source](https://www.iqair.com/france) — soft/estimate |
+| Economy | GDP (nominal) | $3.4T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=FR) — hard/official |
+| Economy | GDP growth | 0.8% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=FR) — hard/official |
+| Economy | Inflation (CPI) | 0.9% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=FR) — hard/official |
+| Economy | Unemployment | 7.5% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=FR) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 31.8 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=FR) — hard/official |
+| Economy | Tourism receipts | 5% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=FR) — hard/official |
+| Economy | Remittances | 1.3% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=FR) — hard/official |
+| Economy | Credit rating | Moody's Aa2, S&P AA-, Fitch AA- (2024) | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-france-at-aa-outlook-stable-26-04-2024) — hard/official |
+| Economy | Currency | EUR (euro), floating, ~8% depreciation vs USD 5yr | [source](https://economy-finance.ec.europa.eu/euro/eu-countries-and-euro_en) — hard/official |
+| Economy | Top industries | Aerospace, tourism, luxury goods (2023 est.) | [source](https://www.cia.gov/the-world-factbook/countries/france/) — hard/official |
+| Economy | Economic Complexity | ECI rank ~16 (OEC/Harvard Atlas 2022) | [source](https://oec.world/en/profile/country/fra) — soft/estimate |
+| Technology | Internet users | 89% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=FR) — hard/official |
+| Technology | Fixed broadband subs | 48.9 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=FR) — hard/official |
+| Technology | High-tech exports | 23.1% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=FR) — hard/official |
+| Technology | R&D spend | 2.18% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=FR) — hard/official |
+| Technology | Global Innovation Index | GII 2024: rank 12 (WIPO) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 2024: 0.9038, rank 10 (UN) | [source](https://desapublications.un.org/file/20751/download) — hard/official |
+| Technology | Median broadband speed | ~230 Mbps median fixed broadband (Ookla Jul 2026) | [source](https://www.speedtest.net/global-index/) — hard/official |
+| Technology | 5G | >90% population coverage (Arcep 2024) | [source](https://www.arcep.fr/cartes-et-donnees/nos-cartes.html) — soft/estimate |
+| Technology | Online payments | Stripe available for French businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank ~9 (2024) | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 83.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=FR) — hard/official |
+| Human development & health | Hospital beds | 5.7 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=FR) — hard/official |
+| Human development & health | HDI | HDI 0.910, rank 28 (UNDP 2022) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | GPI 2026: rank ~52, score ~1.88 (IEP) | [source](https://www.visionofhumanity.org/global-peace-index-2026/) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 1: Exercise Normal Caution (2024) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/France.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No net wealth tax (abolished 2018); inheritance tax 5-45%; capital gains 30% flat (PwC 2024) | [source](https://taxsummaries.pwc.com/france/individual/other-taxes) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply (Art. 209 B of French Tax Code, PwC) | [source](https://taxsummaries.pwc.com/france) — soft/estimate |
+| Business | Company setup | ~3.5 days, €144-250 registration fee (2024) | [source](https://formalites.entreprises.gouv.fr) — hard/official |
+| Business | Corporate tax | 25% headline rate (PwC 2024) | [source](https://taxsummaries.pwc.com/france/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Université PSL (Paris Sciences et Lettres), QS 2025 rank 24 | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Visa required (Schengen, Russian citizens need visa, 2024) | unsourced/unverified |
+| For Russian citizens | Sanctions position | Full EU sanctions against Russia in force | [source](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3243) — hard/official |
+| Quality of life | World Happiness rank | World Happiness Report 2025: rank 27 | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank ~35 | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI 2024: rank 38, score 539; French essential, English moderate | [source](https://www.ef.com/wwen/epi/) — soft/estimate |
 
 ## Country Card
 

@@ -2,6 +2,7 @@
 title: Finland — Finland
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, it_friendly, clear_pathway]
 category: it_friendly
@@ -136,6 +137,68 @@ Finland fully closed its land border with Russia in late 2023 (remaining closed 
 | Freedom House score | 100/100 (Free) | ^[https://freedomhouse.org/country/finland/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~1,780 (Helsinki) | ^[https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php] hard/official |
 | Average annual temperature | ~5.5°C (Helsinki) | ^[https://en.ilmatieteenlaitos.fi/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 338 485 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=FI) — hard/official |
+| Geography & size | Population density | 18 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=FI) — hard/official |
+| Geography & size | Urban population | 75% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=FI) — hard/official |
+| Geography & size | Coastline | 1250 km (mainland, CIA Factbook; excl. islands) | [source](https://www.cia.gov/the-world-factbook/countries/finland/) — hard/official |
+| Geography & size | Highest point | Halti, 1324 m | [source](https://www.cia.gov/the-world-factbook/countries/finland/) — hard/official |
+| Geography & size | Type | mainland | [source](https://www.cia.gov/the-world-factbook/countries/finland/) — hard/official |
+| Geography & size | Time zone | UTC+2 (EET), UTC+3 summer; Moscow-1h/-0h | [source](https://www.timeanddate.com/time/zone/finland) — soft/estimate |
+| Climate | Avg precipitation | 536 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=FI) — hard/official |
+| Climate | PM2.5 exposure | 4.6 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=FI) — hard/official |
+| Climate | Climate zone | Dfc (subarctic/humid continental, Helsinki Dfb) | [source](https://en.climate-data.org/europe/finland/helsinki/helsinki-1538/) — soft/estimate |
+| Climate | Temp winter / summer | Helsinki: Jan avg -4°C, Jul avg 18°C | [source](https://en.climate-data.org/europe/finland/helsinki/helsinki-1538/) — soft/estimate |
+| Climate | Rainy days | ~185 rainy/snowy days/year (Helsinki) | [source](https://en.climate-data.org/europe/finland/helsinki/helsinki-1538/) — soft/estimate |
+| Climate | Humidity | ~80% avg annual (Helsinki) | [source](https://en.climate-data.org/europe/finland/helsinki/helsinki-1538/) — soft/estimate |
+| Climate | Natural hazards | Severe winter storms, occasional spring flooding | [source](https://www.cia.gov/the-world-factbook/countries/finland/) — hard/official |
+| Climate | Air quality | PM2.5 ~5 µg/m³ annual mean (IQAir 2024, among cleanest globally) | [source](https://www.iqair.com/finland) — soft/estimate |
+| Economy | GDP (nominal) | $317.0B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=FI) — hard/official |
+| Economy | GDP growth | 0.2% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=FI) — hard/official |
+| Economy | Inflation (CPI) | 0.3% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=FI) — hard/official |
+| Economy | Unemployment | 9.5% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=FI) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 27.4 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=FI) — hard/official |
+| Economy | Tourism receipts | 2% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=FI) — hard/official |
+| Economy | Remittances | 0.3% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=FI) — hard/official |
+| Economy | Credit rating | Moody's Aa1 (stable), S&P AA+, Fitch AA+ (2024) | [source](https://ratings.moodys.com/ratings-news/434544) — hard/official |
+| Economy | Currency | EUR (euro), floating, ~8% depreciation vs USD 5yr | [source](https://economy-finance.ec.europa.eu/euro/eu-countries-and-euro/finland-and-euro_en) — hard/official |
+| Economy | Top industries | Electronics, machinery, forestry/pulp/paper (2023 est.) | [source](https://www.cia.gov/the-world-factbook/countries/finland/) — hard/official |
+| Economy | Economic Complexity | ECI rank ~11 (OEC/Harvard Atlas 2022) | [source](https://oec.world/en/profile/country/fin) — soft/estimate |
+| Technology | Internet users | 94% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=FI) — hard/official |
+| Technology | Fixed broadband subs | 36.5 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=FI) — hard/official |
+| Technology | High-tech exports | 9.3% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=FI) — hard/official |
+| Technology | R&D spend | 3.09% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=FI) — hard/official |
+| Technology | Global Innovation Index | GII 2024: rank 7 (WIPO) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 2024: 0.9547, rank 2 (UN) | [source](https://desapublications.un.org/file/20751/download) — hard/official |
+| Technology | Median broadband speed | ~110 Mbps median fixed broadband (Ookla Jul 2026) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 96% of households covered by 4G/5G (Traficom 2024) | [source](https://www.traficom.fi/en/news/) — soft/estimate |
+| Technology | Online payments | Stripe available for Finnish businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank ~15 (2024) | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 82.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=FI) — hard/official |
+| Human development & health | Hospital beds | 2.6 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=FI) — hard/official |
+| Human development & health | HDI | HDI 0.942, rank 12 (UNDP 2022) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | GPI 2026: rank 9, score 1.478 (IEP) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 1: Exercise Normal Caution (2024) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Finland.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No net wealth tax; inheritance tax progressive 7-19% (PwC 2024) | [source](https://taxsummaries.pwc.com/finland/individual/other-taxes) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply (PwC) | [source](https://taxsummaries.pwc.com/finland) — soft/estimate |
+| Business | Company setup | Online registration, ~5 days, EUR 400 (2024) | [source](https://www.prh.fi/en/kaupparekisteri.html) — soft/estimate |
+| Business | Corporate tax | 20% (PwC 2024) | [source](https://taxsummaries.pwc.com/finland/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | University of Helsinki, QS 2025 rank 106 | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Visa required (Schengen, Russian citizens need visa, 2024) | unsourced/unverified |
+| For Russian citizens | Sanctions position | Full EU sanctions against Russia in force | [source](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3243) — hard/official |
+| Quality of life | World Happiness rank | World Happiness Report 2025: rank 1 | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank 51 (of 53) | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI 2024: rank 12, score 603; English widely spoken | [source](https://www.ef.com/wwen/epi/) — soft/estimate |
 
 ## Country Card
 

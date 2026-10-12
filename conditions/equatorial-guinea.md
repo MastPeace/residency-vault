@@ -2,6 +2,7 @@
 title: Equatorial Guinea - Residency Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax]
 category: clear_pathway
@@ -103,6 +104,68 @@ No expat immigration community outside oil industry and diplomatic enclaves. One
 | Freedom House score | 5/100 (Not Free) | [Freedom House](https://freedomhouse.org/country/equatorial-guinea/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,000 h (Malabo) | [Climate-data.org](https://en.climate-data.org) — hard/official |
 | Average annual temperature | ~25 C (Malabo; tropical) | [Wikipedia](https://en.wikipedia.org/wiki/Equatorial_Guinea#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 47/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 28 052 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=GQ) — hard/official |
+| Geography & size | Population density | 67 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=GQ) — hard/official |
+| Geography & size | Urban population | 72% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=GQ) — hard/official |
+| Geography & size | Coastline | 296 km (CIA World Factbook) | [source](https://www.cia.gov/the-world-factbook/countries/equatorial-guinea/) — hard/official |
+| Geography & size | Highest point | Pico Basile, 3008 m | [source](https://www.cia.gov/the-world-factbook/countries/equatorial-guinea/) — hard/official |
+| Geography & size | Type | mainland + islands | [source](https://www.cia.gov/the-world-factbook/countries/equatorial-guinea/) — hard/official |
+| Geography & size | Time zone | UTC+1 (WAT); Moscow-2h | [source](https://www.timeanddate.com/time/zone/equatorial-guinea) — soft/estimate |
+| Climate | Avg precipitation | 2156 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=GQ) — hard/official |
+| Climate | PM2.5 exposure | 42.2 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=GQ) — hard/official |
+| Climate | Climate zone | Am (tropical monsoon) | [source](https://en.climate-data.org/africa/equatorial-guinea/) — soft/estimate |
+| Climate | Temp winter / summer | Malabo: Jan avg 27°C, Jul avg 25°C | [source](https://www.weather-atlas.com/en/equatorial-guinea/malabo-climate) — soft/estimate |
+| Climate | Rainy days | ~170 rainy days/year (Malabo) | [source](https://www.weather-atlas.com/en/equatorial-guinea/malabo-climate) — soft/estimate |
+| Climate | Humidity | ~85% avg annual (Malabo) | [source](https://www.weather-atlas.com/en/equatorial-guinea/malabo-climate) — soft/estimate |
+| Climate | Natural hazards | Volcanic activity, occasional flooding | [source](https://www.cia.gov/the-world-factbook/countries/equatorial-guinea/) — hard/official |
+| Climate | Air quality | PM2.5 ~30-35 µg/m³ (IQAir estimate 2024) | [source](https://www.iqair.com/equatorial-guinea) — soft/estimate |
+| Economy | GDP (nominal) | $12.8B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GQ) — hard/official |
+| Economy | GDP growth | -5.8% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=GQ) — hard/official |
+| Economy | Inflation (CPI) | 2.9% (2024) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=GQ) — hard/official |
+| Economy | Unemployment | 8.3% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=GQ) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 38.5 (2022) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=GQ) — hard/official |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | No reliable data | — |
+| Economy | Credit rating | Not rated by S&P, Moody's, or Fitch | [source](https://www.finobservatory.org/sovereign/GNQ) — soft/estimate |
+| Economy | Currency | XAF (Central African CFA franc), pegged to EUR (€1=655.957 XAF) | [source](https://www.cia.gov/the-world-factbook/countries/equatorial-guinea/) — hard/official |
+| Economy | Top industries | Oil and gas extraction, timber, construction (2023 est.) | [source](https://www.cia.gov/the-world-factbook/countries/equatorial-guinea/) — hard/official |
+| Economy | Economic Complexity | ECI rank ~130+ (OEC, very low complexity) | [source](https://oec.world/en/profile/country/gnq) — soft/estimate |
+| Technology | Internet users | 63% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=GQ) — hard/official |
+| Technology | Fixed broadband subs | 0.1 per 100 people (2022) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=GQ) — hard/official |
+| Technology | High-tech exports | No reliable data | — |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | GII 2024: rank ~130 (WIPO) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 2024 ~0.35, rank ~165 (UN) | [source](https://desapublications.un.org/file/20751/download) — hard/official |
+| Technology | Median broadband speed | ~10-15 Mbps median fixed broadband (Ookla estimate 2024) | [source](https://www.speedtest.net/global-index) — soft/estimate |
+| Technology | 5G | No 5G deployment (2024) | [source](https://www.gsma.com/membership/) — soft/estimate |
+| Technology | Online payments | Stripe not available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Not ranked by StartupBlink (2024) | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 63.9 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=GQ) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | HDI 0.650, rank 140 (UNDP 2022) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | GPI 2026: rank 38, score 1.729 (IEP) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 2: Exercise Increased Caution (2024) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/EquatorialGuinea.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | Data limited; no wealth tax; inheritance rules under Civil Code | [source](https://taxsummaries.pwc.com/equatorial-guinea) — soft/estimate |
+| Money & tax | CFC rules | No specific CFC rules (PwC) | [source](https://taxsummaries.pwc.com/equatorial-guinea) — soft/estimate |
+| Business | Company setup | ~33 days, ~11 procedures (Doing Business 2020) | [source](https://www.doingbusiness.org/en/data/exploreeconomies/equatorial-guinea) — soft/estimate |
+| Business | Corporate tax | 35% headline rate (PwC 2024) | [source](https://taxsummaries.pwc.com/equatorial-guinea/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Universidad Nacional de Guinea Ecuatorial; unranked globally | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa required for Russian citizens (2024) | [source](https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens) — soft/estimate |
+| For Russian citizens | Sanctions position | No independent sanctions against Russia | [source](https://www.state.gov/reports/) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness Report 2025: not ranked (insufficient data) | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | Not ranked in InterNations Expat Insider 2024 | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI not ranked; Spanish and French official, limited English | [source](https://www.ef.com/wwen/epi/) — soft/estimate |
 
 ## Country Card
 

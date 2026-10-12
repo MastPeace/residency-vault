@@ -2,6 +2,7 @@
 title: Eswatini — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, employment_residency, tax]
@@ -87,6 +88,68 @@ Minimal expat activity outside development-sector and South Africa-linked busine
 | Freedom House score | 17/100 — Not Free (2025) | [Freedom House](https://freedomhouse.org/country/eswatini/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,800 h | [Weather & Climate](https://weather-and-climate.com/average-monthly-hours-Sunshine,Mbabane,Swaziland) — hard/official |
 | Average annual temperature | ~18 °C (highland subtropical) | [Weather & Climate](https://weather-and-climate.com/average-monthly-hours-Sunshine,Mbabane,Swaziland) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 17 364 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=SZ) — hard/official |
+| Geography & size | Population density | 72 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=SZ) — hard/official |
+| Geography & size | Urban population | 27% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=SZ) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://www.cia.gov/the-world-factbook/countries/eswatini/) — hard/official |
+| Geography & size | Highest point | Emlembe, 1862 m | [source](https://www.cia.gov/the-world-factbook/countries/eswatini/) — hard/official |
+| Geography & size | Type | landlocked | [source](https://www.cia.gov/the-world-factbook/countries/eswatini/) — hard/official |
+| Geography & size | Time zone | UTC+2 (SAST); Moscow-1h | [source](https://www.timeanddate.com/time/zone/eswatini) — soft/estimate |
+| Climate | Avg precipitation | 788 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=SZ) — hard/official |
+| Climate | PM2.5 exposure | 16.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=SZ) — hard/official |
+| Climate | Climate zone | Cwb (subtropical highland) | [source](https://en.climate-data.org/africa/swaziland/sifundza-sehhohho/mbabane-2190/) — soft/estimate |
+| Climate | Temp winter / summer | Mbabane: Jan avg 19°C (summer), Jul avg 11°C (winter) | [source](https://en.climate-data.org/africa/swaziland/sifundza-sehhohho/mbabane-2190/) — soft/estimate |
+| Climate | Rainy days | ~108 rainy days/year (Mbabane) | [source](https://en.climate-data.org/africa/swaziland/sifundza-sehhohho/mbabane-2190/) — soft/estimate |
+| Climate | Humidity | ~71% avg annual (Mbabane) | [source](https://en.climate-data.org/africa/swaziland/sifundza-sehhohho/mbabane-2190/) — soft/estimate |
+| Climate | Natural hazards | Drought; occasional flooding | [source](https://www.cia.gov/the-world-factbook/countries/eswatini/) — hard/official |
+| Climate | Air quality | PM2.5 ~15-20 µg/m³ (IQAir estimate 2024) | [source](https://www.iqair.com/eswatini) — soft/estimate |
+| Economy | GDP (nominal) | $5.2B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SZ) — hard/official |
+| Economy | GDP growth | 4.2% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SZ) — hard/official |
+| Economy | Inflation (CPI) | 2.6% (2019) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SZ) — hard/official |
+| Economy | Unemployment | 34.2% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=SZ) — hard/official |
+| Economy | Central govt debt | 36% of GDP (2021) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=SZ) — hard/official |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 0% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=SZ) — hard/official |
+| Economy | Remittances | 0.7% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=SZ) — hard/official |
+| Economy | Credit rating | Not rated by S&P, Moody's, or Fitch | [source](https://www.coface.com/news-economy-and-insights/business-risk-dashboard/country-risk-files/eswatini) — soft/estimate |
+| Economy | Currency | SZL (lilangeni), pegged to ZAR at 1:1 | [source](https://www.cia.gov/the-world-factbook/countries/eswatini/) — hard/official |
+| Economy | Top industries | Sugar processing, textiles, mining (coal, quarry stone) (2023) | [source](https://www.cia.gov/the-world-factbook/countries/eswatini/) — hard/official |
+| Economy | Economic Complexity | ECI rank 172 of 176 (OEC, very low complexity) | [source](https://dev.oec.world/en/profile/country/swz) — soft/estimate |
+| Technology | Internet users | 63% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=SZ) — hard/official |
+| Technology | Fixed broadband subs | 2.5 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=SZ) — hard/official |
+| Technology | High-tech exports | 0.3% of manufactured exports (2023) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=SZ) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | GII 2024: rank ~110 (WIPO) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 2024 ~0.48, rank ~138 (UN) | [source](https://desapublications.un.org/file/20751/download) — hard/official |
+| Technology | Median broadband speed | ~20-25 Mbps median fixed broadband (Ookla estimate 2024) | [source](https://www.speedtest.net/global-index) — soft/estimate |
+| Technology | 5G | No commercial 5G deployment (2024) | [source](https://www.gsma.com/membership/) — soft/estimate |
+| Technology | Online payments | Stripe not available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Not ranked by StartupBlink (2024) | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 64.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SZ) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | HDI 0.610, rank 149 (UNDP 2022) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | GPI 2026: rank 104, score ~2.10 | [source](https://www.times.co.sz/news/global-peace-index-eswatini-drops/) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 2: Exercise Increased Caution (2024) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Eswatini.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax applies (2024, PwC) | [source](https://taxsummaries.pwc.com/eswatini) — soft/estimate |
+| Money & tax | CFC rules | No specific CFC rules (PwC) | [source](https://taxsummaries.pwc.com/eswatini) — soft/estimate |
+| Business | Company setup | ~30 days, ~12 procedures (Doing Business 2020) | [source](https://www.doingbusiness.org/en/data/exploreeconomies/eswatini) — soft/estimate |
+| Business | Corporate tax | 25% (since July 2024, previously 27.5%) | [source](https://afriref.com/countries/eswatini) — soft/estimate |
+| Family & education | Top university | University of Eswatini; unranked globally in QS | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens (up to 30 days, 2024) | [source](https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens) — soft/estimate |
+| For Russian citizens | Sanctions position | No independent sanctions against Russia | [source](https://www.state.gov/reports/) — soft/estimate |
+| Quality of life | World Happiness rank | World Happiness Report 2025: not ranked (insufficient data) | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | Not ranked in InterNations Expat Insider 2024 | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI not ranked; siSwati and English official, English widely used in business | [source](https://www.ef.com/wwen/epi/) — soft/estimate |
 
 ## Country Card
 
