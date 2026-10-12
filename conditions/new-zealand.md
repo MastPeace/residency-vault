@@ -2,6 +2,7 @@
 title: New Zealand — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, skilled-migrant, investor-visa, strong_passport]
 category: strong_passport
@@ -150,6 +151,68 @@ New Zealand imposed sanctions on Russia in 2022. Visa processing for Russian nat
 | Freedom House score | 99/100 (Free) | [Freedom House](https://freedomhouse.org/country/new-zealand/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~1,700–2,100 h (varies: Blenheim ~2,500h, Auckland ~2,060h) | [NIWA / Stats NZ](https://www.stats.govt.nz/indicators/sunshine-hours) — hard/official |
 | Average annual temperature | ~12–16°C (varies: Auckland ~16°C, Christchurch ~12°C) | [NIWA](https://niwa.co.nz/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 267 710 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=NZ) — hard/official |
+| Geography & size | Population density | 20 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=NZ) — hard/official |
+| Geography & size | Urban population | 84% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=NZ) — hard/official |
+| Geography & size | Coastline | 15,134 km | [source](https://en.wikipedia.org/wiki/New_Zealand) — soft/estimate |
+| Geography & size | Highest point | Aoraki / Mount Cook, 3,724 m | [source](https://en.wikipedia.org/wiki/New_Zealand) — soft/estimate |
+| Geography & size | Type | island (archipelago) | [source](https://en.wikipedia.org/wiki/New_Zealand) — soft/estimate |
+| Geography & size | Time zone | UTC+12/UTC+13 (NZST/NZDT), Moscow +9h/+10h | [source](https://en.wikipedia.org/wiki/New_Zealand) — soft/estimate |
+| Climate | Avg precipitation | 1732 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=NZ) — hard/official |
+| Climate | PM2.5 exposure | 6.9 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=NZ) — hard/official |
+| Climate | Climate zone | temperate maritime (Cfb) | [source](https://en.wikipedia.org/wiki/New_Zealand) — soft/estimate |
+| Climate | Temp winter / summer | Wellington: Jan avg 17°C, Jul avg 9°C | [source](https://en.wikipedia.org/wiki/Wellington) — soft/estimate |
+| Climate | Rainy days | Wellington: ~124 rainy days/year | [source](https://weatherspark.com/y/14481/Average-Weather-in-Wellington-New-Zealand-Year-Round) — soft/estimate |
+| Climate | Humidity | Wellington: ~82% avg annual | [source](https://en.wikipedia.org/wiki/Wellington) — soft/estimate |
+| Climate | Natural hazards | earthquakes, volcanic activity, floods; INFORM Risk 2024 rank 155/191 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | PM2.5: 5.2 µg/m³ annual mean (2024, IQAir) | [source](https://www.iqair.com/world-most-polluted-countries) — soft/estimate |
+| Economy | GDP (nominal) | $264.1B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NZ) — hard/official |
+| Economy | GDP growth | 0.5% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=NZ) — hard/official |
+| Economy | Inflation (CPI) | 2.8% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=NZ) — hard/official |
+| Economy | Unemployment | 5.1% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=NZ) — hard/official |
+| Economy | Central govt debt | 52% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=NZ) — hard/official |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 19% of exports (2018) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=NZ) — hard/official |
+| Economy | Remittances | 0.2% of GDP (2022) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=NZ) — hard/official |
+| Economy | Credit rating | S&P AA+ / Moody's Aaa / Fitch AA+ (2025) | [source](https://www.fitchratings.com/entity/new-zealand-80442261) — hard/official |
+| Economy | Currency | NZD (dollar), free float; ~-18% vs USD 5yr | [source](https://www.xe.com/currency/nzd-new-zealand-dollar/) — soft/estimate |
+| Economy | Top industries | services (66% GDP), manufacturing (12%), agriculture (6%) | unsourced/unverified |
+| Economy | Economic Complexity | ECI rank 44/133 (2023) | [source](https://oec.world/en/profile/country/nzl) — soft/estimate |
+| Technology | Internet users | 94% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=NZ) — hard/official |
+| Technology | Fixed broadband subs | 38.0 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=NZ) — hard/official |
+| Technology | High-tech exports | 13.0% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=NZ) — hard/official |
+| Technology | R&D spend | 1.55% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=NZ) — hard/official |
+| Technology | Global Innovation Index | 26th (GII 2025) | [source](https://www.wipo.int/gii-ranking/en/new-zealand) — hard/official |
+| Technology | E-Government (UN EGDI) | 16th, 0.9265 (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | 5G available nationwide since 2019 | [source](https://www.gsma.com/5g/new-zealand/) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 82.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=NZ) — hard/official |
+| Human development & health | Hospital beds | 2.5 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=NZ) — hard/official |
+| Human development & health | HDI | 17th, 0.938 (2023 data, HDR 2025) | [source](https://hdr.undp.org/data-center/human-development-index) — hard/official |
+| Safety | Global Peace Index | 3rd, score 1.282 (GPI 2025) | [source](https://www.visionofhumanity.org/global-peace-index) — hard/official |
+| Safety | US travel advisory | Level 1: Exercise Normal Precautions (2026) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/new-zealand-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | no wealth tax; no inheritance tax; no capital gains tax | [source](https://taxsummaries.pwc.com/new-zealand) — soft/estimate |
+| Money & tax | CFC rules | yes, CFC rules apply (PwC 2025) | [source](https://taxsummaries.pwc.com/new-zealand) — soft/estimate |
+| Business | Company setup | 1 day, minimal cost (online registration) | [source](https://www.business.govt.nz/) — soft/estimate |
+| Business | Corporate tax | 28% headline (2025) | [source](https://taxsummaries.pwc.com/new-zealand/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | University of Auckland, QS rank #65 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | visa required for Russian nationals (2024) | [source](https://www.immigration.govt.nz/) — soft/estimate |
+| For Russian citizens | Sanctions position | imposes sanctions on Russia (since 2022) | [source](https://www.mfat.govt.nz/en/countries-and-regions/europe/ukraine/russian-invasion-of-ukraine/sanctions/) — soft/estimate |
+| Quality of life | World Happiness rank | 12th, score 6.952 (WHR 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | ranked 5th in Expat Insider 2024 | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI: not ranked (native English); English is primary language | [source](https://en.wikipedia.org/wiki/New_Zealand) — soft/estimate |
 
 ## Country Card
 

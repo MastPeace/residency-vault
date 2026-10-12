@@ -2,6 +2,7 @@
 title: Myanmar — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, clear_pathway]
 category: clear_pathway
@@ -120,6 +121,68 @@ Myanmar is effectively not a relocation market. Since the 2021 coup and ongoing 
 | Freedom House score | 4/100 (Not Free) | [Freedom House](https://freedomhouse.org/country/myanmar/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,500 h | [Current Results](https://www.currentresults.com/Weather/Myanmar/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~27 °C | [Wikipedia](https://en.wikipedia.org/wiki/Myanmar#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 48/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 676 578 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=MM) — hard/official |
+| Geography & size | Population density | 84 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=MM) — hard/official |
+| Geography & size | Urban population | 31% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=MM) — hard/official |
+| Geography & size | Coastline | ~1,930 km | [source](https://en.wikipedia.org/wiki/Myanmar) — soft/estimate |
+| Geography & size | Highest point | Hkakabo Razi, 5,881 m | [source](https://en.wikipedia.org/wiki/Myanmar) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Myanmar) — soft/estimate |
+| Geography & size | Time zone | UTC+6:30 (MMT), Moscow +3.5h | [source](https://en.wikipedia.org/wiki/Myanmar) — soft/estimate |
+| Climate | Avg precipitation | 2091 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=MM) — hard/official |
+| Climate | PM2.5 exposure | 35.1 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=MM) — hard/official |
+| Climate | Climate zone | tropical monsoon (Am), savanna (Aw) central | [source](https://en.wikipedia.org/wiki/Myanmar) — soft/estimate |
+| Climate | Temp winter / summer | Yangon: Jan avg 25°C, Apr avg 31°C | [source](https://en.wikipedia.org/wiki/Yangon) — soft/estimate |
+| Climate | Rainy days | Yangon: ~130 rainy days/year | [source](https://weatherspark.com/y/112802/Average-Weather-in-Yangon-Myanmar-Year-Round) — soft/estimate |
+| Climate | Humidity | Yangon: ~78% avg annual | [source](https://en.wikipedia.org/wiki/Yangon) — soft/estimate |
+| Climate | Natural hazards | cyclones, earthquakes, floods; INFORM Risk 2024 rank 27/191 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | PM2.5: 27.4 µg/m³ annual mean (2024, IQAir) | [source](https://www.iqair.com/world-most-polluted-countries) — soft/estimate |
+| Economy | GDP (nominal) | $81.7B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MM) — hard/official |
+| Economy | GDP growth | -2.0% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=MM) — hard/official |
+| Economy | Inflation (CPI) | 8.8% (2019) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=MM) — hard/official |
+| Economy | Unemployment | 3.0% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=MM) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 14% of exports (2019) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=MM) — hard/official |
+| Economy | Remittances | 3.4% of GDP (2019) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=MM) — hard/official |
+| Economy | Credit rating | not rated by major agencies (S&P/Moody's/Fitch) | [source](https://www.fitchratings.com/) — soft/estimate |
+| Economy | Currency | MMK (kyat), managed float, ~-55% vs USD 5yr | unsourced/unverified |
+| Economy | Top industries | agriculture (24% GDP), manufacturing (22%), trade (20%) | [source](https://www.worldbank.org/en/country/myanmar/overview) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 103/133 (2023) | [source](https://oec.world/en/profile/country/mmr) — soft/estimate |
+| Technology | Internet users | 45% of population (2020) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=MM) — hard/official |
+| Technology | Fixed broadband subs | 2.9 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=MM) — hard/official |
+| Technology | High-tech exports | 5.2% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=MM) — hard/official |
+| Technology | R&D spend | 0.02% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=MM) — hard/official |
+| Technology | Global Innovation Index | 122nd (GII 2025) | [source](https://www.wipo.int/gii-ranking/en/myanmar) — hard/official |
+| Technology | E-Government (UN EGDI) | 138th, 0.5001 (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/117-Myanmar) — hard/official |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | 5G not available (2025) | [source](https://www.gsma.com/5g/myanmar/) — soft/estimate |
+| Technology | Online payments | Stripe not available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 67.1 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=MM) — hard/official |
+| Human development & health | Hospital beds | 1.1 per 1000 (2020) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=MM) — hard/official |
+| Human development & health | HDI | 150th, 0.609 (2023 data, HDR 2025) | [source](https://hdr.undp.org/data-center/human-development-index) — hard/official |
+| Safety | Global Peace Index | 153rd, score 3.045 (GPI 2025) | [source](https://www.visionofhumanity.org/global-peace-index) — hard/official |
+| Safety | US travel advisory | Level 4: Do Not Travel (2026) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/burma-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | On FATF black list (call for action) (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | no wealth tax; inheritance tax applies; capital gains 10% | [source](https://taxsummaries.pwc.com/myanmar) — soft/estimate |
+| Money & tax | CFC rules | no CFC rules | [source](https://taxsummaries.pwc.com/myanmar) — soft/estimate |
+| Business | Company setup | ~7 days, cost ~13% GNI per capita | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/myanmar) — soft/estimate |
+| Business | Corporate tax | 22% headline (2025) | [source](https://taxsummaries.pwc.com/myanmar/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | University of Yangon; not in QS global top 1500 | [source](https://www.topuniversities.com/world-university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | visa on arrival; e-visa available (2024) | [source](https://evisa.moip.gov.mm/) — soft/estimate |
+| For Russian citizens | Sanctions position | does not impose sanctions on Russia | [source](https://en.wikipedia.org/wiki/International_sanctions_during_the_Russo-Ukrainian_War) — soft/estimate |
+| Quality of life | World Happiness rank | 126th, score 4.321 (WHR 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI #99 (score 444); English not widely spoken | [source](https://www.ef.com/wwen/epi/regions/asia/myanmar/) — soft/estimate |
 
 ## Country Card
 

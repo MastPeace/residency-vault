@@ -2,6 +2,7 @@
 title: Namibia — Republic of Namibia
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, digital-nomad, it_friendly]
 category: it_friendly
@@ -101,6 +102,68 @@ Visa-free entry for 30 days for Russian citizens. DN visa accessible. Namibia ma
 | Freedom House score | 77/100 — Free (2025) | ^[https://freedomhouse.org/country/namibia/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~3,600 (Windhoek — one of the sunniest capitals globally) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Windhoek,Namibia] hard/official |
 | Average annual temperature | ~19°C (Windhoek, high-altitude semi-arid) | ^[https://en.climate-data.org/africa/namibia/khomas/windhoek-906/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 47/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 824 292 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=NA) — hard/official |
+| Geography & size | Population density | 4 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=NA) — hard/official |
+| Geography & size | Urban population | 51% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=NA) — hard/official |
+| Geography & size | Coastline | 1,572 km | [source](https://en.wikipedia.org/wiki/Namibia) — soft/estimate |
+| Geography & size | Highest point | Königstein, 2,573 m | [source](https://en.wikipedia.org/wiki/Namibia) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Namibia) — soft/estimate |
+| Geography & size | Time zone | UTC+2 (CAT), Moscow +1h | [source](https://en.wikipedia.org/wiki/Namibia) — soft/estimate |
+| Climate | Avg precipitation | 285 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=NA) — hard/official |
+| Climate | PM2.5 exposure | 14.2 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=NA) — hard/official |
+| Climate | Climate zone | hot desert (BWh) and semi-arid (BSh) | [source](https://en.wikipedia.org/wiki/Namibia) — soft/estimate |
+| Climate | Temp winter / summer | Windhoek: Jan avg 23°C, Jul avg 13°C | [source](https://en.wikipedia.org/wiki/Windhoek) — soft/estimate |
+| Climate | Rainy days | Windhoek: ~40 rainy days/year | [source](https://weatherspark.com/y/76546/Average-Weather-in-Windhoek-Namibia-Year-Round) — soft/estimate |
+| Climate | Humidity | Windhoek: ~37% avg annual | [source](https://en.wikipedia.org/wiki/Windhoek) — soft/estimate |
+| Climate | Natural hazards | droughts, floods; INFORM Risk 2024 rank 112/191 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | PM2.5: 9.5 µg/m³ annual mean (2024, IQAir) | [source](https://www.iqair.com/world-most-polluted-countries) — soft/estimate |
+| Economy | GDP (nominal) | $15.1B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NA) — hard/official |
+| Economy | GDP growth | 1.7% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=NA) — hard/official |
+| Economy | Inflation (CPI) | 3.5% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=NA) — hard/official |
+| Economy | Unemployment | 19.3% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=NA) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 4% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=NA) — hard/official |
+| Economy | Remittances | 0.7% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=NA) — hard/official |
+| Economy | Credit rating | Fitch BB- (2025) | [source](https://www.fitchratings.com/entity/namibia-80442263) — hard/official |
+| Economy | Currency | NAD (dollar, pegged to ZAR); ~-30% vs USD 5yr | [source](https://www.xe.com/currency/nad-namibian-dollar/) — soft/estimate |
+| Economy | Top industries | mining (12% GDP), agriculture (8%), tourism (7%) | [source](https://www.worldbank.org/en/country/namibia/overview) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 89/133 (2023) | [source](https://oec.world/en/profile/country/nam) — soft/estimate |
+| Technology | Internet users | 65% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=NA) — hard/official |
+| Technology | Fixed broadband subs | 2.8 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=NA) — hard/official |
+| Technology | High-tech exports | 0.1% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=NA) — hard/official |
+| Technology | R&D spend | 0.65% of GDP (2022) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=NA) — hard/official |
+| Technology | Global Innovation Index | 91st (GII 2025) | [source](https://www.wipo.int/gii-ranking/en/namibia) — hard/official |
+| Technology | E-Government (UN EGDI) | 114th, 0.6007 (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/118-Namibia) — hard/official |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | 5G limited; MTC launched 5G in 2023 | [source](https://www.gsma.com/5g/namibia/) — soft/estimate |
+| Technology | Online payments | Stripe not available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 67.5 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=NA) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | 136th, 0.665 (2023 data, HDR 2025) | [source](https://hdr.undp.org/data-center/human-development-index) — hard/official |
+| Safety | Global Peace Index | 50th, score 1.789 (GPI 2025) | [source](https://www.visionofhumanity.org/global-peace-index) — hard/official |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/namibia-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | no wealth tax; no inheritance tax; capital gains at income rate (max 37%) | [source](https://taxsummaries.pwc.com/namibia) — soft/estimate |
+| Money & tax | CFC rules | yes, CFC rules apply (PwC 2025) | [source](https://taxsummaries.pwc.com/namibia) — soft/estimate |
+| Business | Company setup | ~8 days, cost ~8% GNI per capita | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/namibia) — soft/estimate |
+| Business | Corporate tax | 32% headline (2025) | [source](https://taxsummaries.pwc.com/namibia/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | University of Namibia; not in QS global top 1500 | [source](https://www.topuniversities.com/world-university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | visa on arrival for 90 days (2024) | [source](https://mfa.gov.na/visa-requirements) — soft/estimate |
+| For Russian citizens | Sanctions position | does not impose sanctions on Russia | [source](https://en.wikipedia.org/wiki/International_sanctions_during_the_Russo-Ukrainian_War) — soft/estimate |
+| Quality of life | World Happiness rank | 103rd, score 4.911 (WHR 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI: not in top 100; English official but not widely spoken daily | [source](https://www.ef.com/wwen/epi/) — soft/estimate |
 
 ## Country Card
 

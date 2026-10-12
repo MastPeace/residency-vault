@@ -2,6 +2,7 @@
 title: Nicaragua — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, retired_residency, tax, clear_pathway]
 category: clear_pathway
@@ -113,6 +114,68 @@ Nicaragua has both Caribbean and Pacific coasts. Maritime infrastructure limited
 | Freedom House score | 25/100 (Not Free) | [Freedom House](https://freedomhouse.org/country/nicaragua/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,700 h | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Nicaragua#Climate) — hard/official |
 | Average annual temperature | ~27 °C (lowlands; cooler in highlands) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Nicaragua#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 46/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 130 370 km² (2023) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=NI) — hard/official |
+| Geography & size | Population density | 57 /km² (2023) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=NI) — hard/official |
+| Geography & size | Urban population | 59% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=NI) — hard/official |
+| Geography & size | Coastline | ~910 km | [source](https://en.wikipedia.org/wiki/Nicaragua) — soft/estimate |
+| Geography & size | Highest point | Mogotón, 2,107 m | [source](https://en.wikipedia.org/wiki/Nicaragua) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Nicaragua) — soft/estimate |
+| Geography & size | Time zone | UTC-6 (CST), Moscow -9h | [source](https://en.wikipedia.org/wiki/Nicaragua) — soft/estimate |
+| Climate | Avg precipitation | 2280 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=NI) — hard/official |
+| Climate | PM2.5 exposure | 20.4 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=NI) — hard/official |
+| Climate | Climate zone | tropical savanna (Aw), monsoon (Am) Caribbean | [source](https://en.wikipedia.org/wiki/Nicaragua) — soft/estimate |
+| Climate | Temp winter / summer | Managua: Jan avg 27°C, May avg 29°C | [source](https://en.wikipedia.org/wiki/Managua) — soft/estimate |
+| Climate | Rainy days | Managua: ~115 rainy days/year | [source](https://weatherspark.com/y/14830/Average-Weather-in-Managua-Nicaragua-Year-Round) — soft/estimate |
+| Climate | Humidity | Managua: ~74% avg annual | [source](https://en.wikipedia.org/wiki/Managua) — soft/estimate |
+| Climate | Natural hazards | earthquakes, hurricanes, volcanoes; INFORM Risk 2024 rank 71/191 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | PM2.5: 13.1 µg/m³ annual mean (2024, IQAir) | [source](https://www.iqair.com/world-most-polluted-countries) — soft/estimate |
+| Economy | GDP (nominal) | $22.2B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NI) — hard/official |
+| Economy | GDP growth | 4.9% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=NI) — hard/official |
+| Economy | Inflation (CPI) | 2.1% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=NI) — hard/official |
+| Economy | Unemployment | 5.0% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=NI) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 26.6% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=NI) — hard/official |
+| Economy | Credit rating | Fitch B (2025) | [source](https://www.fitchratings.com/entity/nicaragua-80442258) — hard/official |
+| Economy | Currency | NIO (córdoba), crawling peg; ~-12% vs USD 5yr | [source](https://www.xe.com/currency/nio-nicaraguan-cordoba/) — soft/estimate |
+| Economy | Top industries | agriculture (17% GDP), manufacturing (15%), trade (12%) | [source](https://www.worldbank.org/en/country/nicaragua/overview) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 107/133 (2023) | [source](https://oec.world/en/profile/country/nic) — soft/estimate |
+| Technology | Internet users | 61% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=NI) — hard/official |
+| Technology | Fixed broadband subs | 5.8 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=NI) — hard/official |
+| Technology | High-tech exports | 0.6% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=NI) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | 130th (GII 2025) | [source](https://en.wikipedia.org/wiki/Global_Innovation_Index) — soft/estimate |
+| Technology | E-Government (UN EGDI) | 132nd, 0.5318 (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/123-Nicaragua) — hard/official |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | 5G not available (2025) | [source](https://www.gsma.com/5g/nicaragua/) — soft/estimate |
+| Technology | Online payments | Stripe not available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 75.1 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=NI) — hard/official |
+| Human development & health | Hospital beds | 1.0 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=NI) — hard/official |
+| Human development & health | HDI | 123rd, 0.706 (2023 data, HDR 2025) | [source](https://hdr.undp.org/data-center/human-development-index) — hard/official |
+| Safety | Global Peace Index | 111th, score 2.207 (GPI 2025) | [source](https://www.visionofhumanity.org/global-peace-index) — hard/official |
+| Safety | US travel advisory | Level 3: Reconsider Travel (2026) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/nicaragua-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | no wealth tax; no inheritance tax; capital gains 15% | [source](https://taxsummaries.pwc.com/nicaragua) — soft/estimate |
+| Money & tax | CFC rules | no CFC rules | [source](https://taxsummaries.pwc.com/nicaragua) — soft/estimate |
+| Business | Company setup | ~14 days, cost ~42% GNI per capita | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/nicaragua) — soft/estimate |
+| Business | Corporate tax | 30% headline (2025) | [source](https://taxsummaries.pwc.com/nicaragua/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Universidad Nacional Autónoma de Nicaragua; not in QS global top 1500 | [source](https://www.topuniversities.com/world-university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | visa-free for 90 days (2025) | [source](https://www.migob.gob.ni/) — soft/estimate |
+| For Russian citizens | Sanctions position | does not impose sanctions on Russia | [source](https://en.wikipedia.org/wiki/International_sanctions_during_the_Russo-Ukrainian_War) — soft/estimate |
+| Quality of life | World Happiness rank | 47th, score 6.330 (WHR 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI #60; English not widely spoken | [source](https://www.ef.edu/epi/regions/latin-america/nicaragua) — soft/estimate |
 
 ## Country Card
 

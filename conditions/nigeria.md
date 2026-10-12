@@ -2,6 +2,7 @@
 title: Nigeria — Federal Republic of Nigeria
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, investment_residency, employment_residency]
 category: clear_pathway
@@ -102,6 +103,68 @@ Visa required for Russian citizens (e-visa or embassy). Nigeria maintains cordia
 | Freedom House score | 44/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/nigeria/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,200 (Lagos); ~2,800 (Abuja) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Lagos,Nigeria] hard/official |
 | Average annual temperature | ~27°C (Lagos, tropical coastal) / ~26°C (Abuja, inland) | ^[https://en.climate-data.org/africa/nigeria/lagos/lagos-552/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 49/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 923 768 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=NG) — hard/official |
+| Geography & size | Population density | 255 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=NG) — hard/official |
+| Geography & size | Urban population | 64% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=NG) — hard/official |
+| Geography & size | Coastline | 853 km | [source](https://en.wikipedia.org/wiki/Nigeria) — soft/estimate |
+| Geography & size | Highest point | Chappal Waddi, 2,419 m | [source](https://en.wikipedia.org/wiki/Nigeria) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Nigeria) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (WAT), Moscow +0h | [source](https://en.wikipedia.org/wiki/Nigeria) — soft/estimate |
+| Climate | Avg precipitation | 1150 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=NG) — hard/official |
+| Climate | PM2.5 exposure | 65.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=NG) — hard/official |
+| Climate | Climate zone | tropical savanna (Aw), monsoon (Am) in south | [source](https://en.wikipedia.org/wiki/Nigeria) — soft/estimate |
+| Climate | Temp winter / summer | Lagos: Jan avg 27°C, Mar avg 29°C | [source](https://en.wikipedia.org/wiki/Lagos) — soft/estimate |
+| Climate | Rainy days | Lagos: ~90 rainy days/year | [source](https://weatherspark.com/y/49165/Average-Weather-in-Lagos-Nigeria-Year-Round) — soft/estimate |
+| Climate | Humidity | Lagos: ~83% avg annual | [source](https://en.wikipedia.org/wiki/Lagos) — soft/estimate |
+| Climate | Natural hazards | floods, droughts; INFORM Risk 2024 rank 8/191 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | PM2.5: 38.2 µg/m³ annual mean (2024, IQAir) | [source](https://www.iqair.com/world-most-polluted-countries) — soft/estimate |
+| Economy | GDP (nominal) | $290.8B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NG) — hard/official |
+| Economy | GDP growth | 4.0% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=NG) — hard/official |
+| Economy | Inflation (CPI) | 23.0% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=NG) — hard/official |
+| Economy | Unemployment | 3.1% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=NG) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 33.9 (2022) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=NG) — hard/official |
+| Economy | Tourism receipts | 1% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=NG) — hard/official |
+| Economy | Remittances | 7.8% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=NG) — hard/official |
+| Economy | Credit rating | Fitch B / S&P B- / Moody's B3 (2025) | [source](https://www.fitchratings.com/entity/nigeria-80442262) — hard/official |
+| Economy | Currency | NGN (naira), managed float; ~-70% vs USD 5yr | [source](https://www.xe.com/currency/ngn-nigerian-naira/) — soft/estimate |
+| Economy | Top industries | services (53% GDP), agriculture (24%), manufacturing (9%) | [source](https://www.worldbank.org/en/country/nigeria/overview) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 127/133 (2023) | [source](https://oec.world/en/profile/country/nga) — soft/estimate |
+| Technology | Internet users | 41% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=NG) — hard/official |
+| Technology | Fixed broadband subs | 0.1 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=NG) — hard/official |
+| Technology | High-tech exports | 2.7% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=NG) — hard/official |
+| Technology | R&D spend | 0.28% of GDP (2019) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=NG) — hard/official |
+| Technology | Global Innovation Index | 105th (GII 2025) | [source](https://www.wipo.int/gii-ranking/en/nigeria) — hard/official |
+| Technology | E-Government (UN EGDI) | 144th, 0.4815 (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | mobile median 90.42 Mbps (Aug 2026) | [source](https://www.speedtest.net/global-index) — soft/estimate |
+| Technology | 5G | 5G available in major cities since 2022 | [source](https://www.gsma.com/5g/nigeria/) — soft/estimate |
+| Technology | Online payments | Stripe not available; Flutterwave/Paystack popular | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 54.6 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=NG) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | 164th, 0.560 (2023 data, HDR 2025) | [source](https://hdr.undp.org/data-center/human-development-index) — hard/official |
+| Safety | Global Peace Index | 148th, score 2.869 (GPI 2025) | [source](https://www.visionofhumanity.org/global-peace-index) — hard/official |
+| Safety | US travel advisory | Level 3: Reconsider Travel (2026) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/nigeria-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | no wealth tax; inheritance tax 10% (Lagos); capital gains 10% | [source](https://taxsummaries.pwc.com/nigeria) — soft/estimate |
+| Money & tax | CFC rules | yes, CFC rules apply (PwC 2025) | [source](https://taxsummaries.pwc.com/nigeria) — soft/estimate |
+| Business | Company setup | ~7 days, cost ~26% GNI per capita | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/nigeria) — soft/estimate |
+| Business | Corporate tax | 30% headline (large companies, 2025) | [source](https://taxsummaries.pwc.com/nigeria/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | University of Ibadan; not in QS global top 500 | [source](https://www.topuniversities.com/world-university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | visa required; e-visa on arrival available (2024) | [source](https://immigration.gov.ng/) — soft/estimate |
+| For Russian citizens | Sanctions position | does not impose sanctions on Russia | [source](https://en.wikipedia.org/wiki/International_sanctions_during_the_Russo-Ukrainian_War) — soft/estimate |
+| Quality of life | World Happiness rank | 105th, score 4.885 (WHR 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI #29; English official and widely spoken | [source](https://www.ef.com/wwen/epi/regions/africa/nigeria/) — soft/estimate |
 
 ## Country Card
 
