@@ -2,6 +2,7 @@
 title: Belgium — Belgium
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, clear_pathway, it_friendly]
 category: clear_pathway
@@ -123,6 +124,68 @@ Belgium applies EU sanctions against Russia. Visa processing for Russian citizen
 | Freedom House score | 96/100 (Free) | [Freedom House](https://freedomhouse.org/country/belgium/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | 1,546 h (Brussels) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~10 °C | [Wikipedia / RMI](https://en.wikipedia.org/wiki/Belgium#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 47/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 30 689 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=BE) — hard/official |
+| Geography & size | Population density | 389 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=BE) — hard/official |
+| Geography & size | Urban population | 88% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=BE) — hard/official |
+| Geography & size | Coastline | 66.5 km | [source](https://en.wikipedia.org/wiki/Geography_of_Belgium) — soft/estimate |
+| Geography & size | Highest point | Signal de Botrange, 694 m | [source](https://en.wikipedia.org/wiki/Geography_of_Belgium) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Belgium) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 (CEST summer); Moscow diff -2h winter, -1h summer | [source](https://www.timeanddate.com/time/zone/belgium) — soft/estimate |
+| Climate | Avg precipitation | 847 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=BE) — hard/official |
+| Climate | PM2.5 exposure | 8.4 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=BE) — hard/official |
+| Climate | Climate zone | Cfb (Oceanic/maritime temperate) | [source](https://en.wikipedia.org/wiki/Climate_of_Belgium) — soft/estimate |
+| Climate | Temp winter / summer | Jan avg 3°C, Jul avg 18°C (Brussels) | [source](https://en.wikipedia.org/wiki/Climate_of_Belgium) — soft/estimate |
+| Climate | Rainy days | ~199 days per year (Brussels) | [source](https://www.worlddata.info/europe/belgium/climate.php) — soft/estimate |
+| Climate | Humidity | ~82% annual average (Brussels) | [source](https://www.worlddata.info/europe/belgium/climate.php) — soft/estimate |
+| Climate | Natural hazards | Flooding; low INFORM risk rank | [source](https://en.wikipedia.org/wiki/Geography_of_Belgium) — soft/estimate |
+| Climate | Air quality | PM2.5 annual mean 9.3 µg/m³ (2025) | [source](https://www.iqair.com/belgium) — soft/estimate |
+| Economy | GDP (nominal) | $725.5B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BE) — hard/official |
+| Economy | GDP growth | 1.0% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=BE) — hard/official |
+| Economy | Inflation (CPI) | 2.5% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BE) — hard/official |
+| Economy | Unemployment | 5.9% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=BE) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 26.8 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=BE) — hard/official |
+| Economy | Tourism receipts | 2% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=BE) — hard/official |
+| Economy | Remittances | 2.3% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=BE) — hard/official |
+| Economy | Credit rating | Moody's Aa3 (negative, 2024), S&P AA (stable), Fitch AA- (stable, 2026) | [source](https://countryeconomy.com/ratings/belgium) — soft/estimate |
+| Economy | Currency | EUR, free float, -5% vs USD over 5yr (2021-2026) | [source](https://en.wikipedia.org/wiki/Euro) — soft/estimate |
+| Economy | Top industries | Services (finance, logistics), manufacturing (chemicals, pharma), food processing | [source](https://en.wikipedia.org/wiki/Economy_of_Belgium) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 17 (2023) | [source](https://oec.world/en/profile/country/bel) — hard/official |
+| Technology | Internet users | 96% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BE) — hard/official |
+| Technology | Fixed broadband subs | 44.2 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=BE) — hard/official |
+| Technology | High-tech exports | 19.8% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=BE) — hard/official |
+| Technology | R&D spend | 3.27% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=BE) — hard/official |
+| Technology | Global Innovation Index | No reliable data | — |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | Widespread 5G coverage; all 3 operators (Proximus, Orange, Telenet) deployed | [source](https://en.wikipedia.org/wiki/Telecommunications_in_Belgium) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 82.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=BE) — hard/official |
+| Human development & health | Hospital beds | 5.4 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=BE) — hard/official |
+| Human development & health | HDI | 0.942, rank 12 (2022) | [source](https://countryeconomy.com/hdi/belgium) — soft/estimate |
+| Safety | Global Peace Index | Rank 16, score 1.510 (2024) | [source](https://countryeconomy.com/demography/global-peace-index/belgium) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/belgium-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No net wealth tax; inheritance tax 3%–80% depending on region and relationship (2025) | [source](https://taxsummaries.pwc.com/belgium/individual/other-taxes) — soft/estimate |
+| Money & tax | CFC rules | Yes; CFC rules implemented per EU ATAD (2017), EBITDA-based rule | [source](https://taxsummaries.pwc.com/belgium/corporate/group-taxation) — soft/estimate |
+| Business | Company setup | ~4 days, ~5% of income per capita; fully online via Crossroads Bank for Enterprises | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/belgium) — soft/estimate |
+| Business | Corporate tax | 25% standard rate (2025) | [source](https://taxsummaries.pwc.com/belgium/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | KU Leuven, QS rank 63 (2025) | [source](https://www.topuniversities.com/world-university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | Schengen visa required for Russian citizens; Belgium suspended visa facilitation agreement with Russia (2022) | [source](https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en) — hard/official |
+| For Russian citizens | Sanctions position | Enforces EU sanctions against Russia; strong supporter of sanctions regime | [source](https://diplomatie.belgium.be/en/policy/policy-areas/peace-and-security/sanctions) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 16, score 6.895 (2024) | [source](https://worldhappiness.report/ed/2024) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI rank 6 (very high proficiency); English widely spoken in business/tourism | [source](https://www.ef.com/epi) — hard/official |
 
 ## Country Card
 

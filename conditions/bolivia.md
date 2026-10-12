@@ -2,6 +2,7 @@
 title: Bolivia — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, mercosur]
 category: clear_pathway
@@ -148,6 +149,68 @@ Landlocked country. No maritime/yacht residency relevance.
 | Freedom House score | 66/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/bolivia/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,300 h (La Paz — high altitude); 2,500+ h (Santa Cruz, lowlands) | [Current Results](https://www.currentresults.com/Weather/Bolivia/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~14 °C (La Paz — 3,640m altitude); ~25 °C (Santa Cruz, lowlands) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/bolivia/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 46/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 1 098 580 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=BO) — hard/official |
+| Geography & size | Population density | 11 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=BO) — hard/official |
+| Geography & size | Urban population | 72% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=BO) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://en.wikipedia.org/wiki/Geography_of_Bolivia) — soft/estimate |
+| Geography & size | Highest point | Nevado Sajama, 6,542 m | [source](https://en.wikipedia.org/wiki/Geography_of_Bolivia) — soft/estimate |
+| Geography & size | Type | landlocked | [source](https://en.wikipedia.org/wiki/Bolivia) — soft/estimate |
+| Geography & size | Time zone | UTC-4 (BOT, no DST); Moscow UTC+3, diff -7h | [source](https://www.timeanddate.com/worldclock/bolivia) — soft/estimate |
+| Climate | Avg precipitation | 1146 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=BO) — hard/official |
+| Climate | PM2.5 exposure | 28.1 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=BO) — hard/official |
+| Climate | Climate zone | Varied: Aw (tropical savanna) to ET (tundra) by altitude | [source](https://en.wikipedia.org/wiki/Climate_of_Bolivia) — soft/estimate |
+| Climate | Temp winter / summer | Jan avg 8°C, Jul avg 7°C (La Paz, 3600m); lowlands: Jan 26°C, Jul 22°C | [source](https://en.wikipedia.org/wiki/Climate_of_Bolivia) — soft/estimate |
+| Climate | Rainy days | 67 days per year (La Paz) | [source](https://en.wikipedia.org/wiki/Climate_of_Bolivia) — soft/estimate |
+| Climate | Humidity | 59% annual average (La Paz) | [source](https://en.wikipedia.org/wiki/Climate_of_Bolivia) — soft/estimate |
+| Climate | Natural hazards | Flooding in lowlands, landslides, earthquakes (Andean region) | [source](https://en.wikipedia.org/wiki/Geography_of_Bolivia) — soft/estimate |
+| Climate | Air quality | PM2.5 annual mean 10.0 µg/m³ (2024) | [source](https://www.iqair.com/bolivia) — soft/estimate |
+| Economy | GDP (nominal) | $64.8B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BO) — hard/official |
+| Economy | GDP growth | -1.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=BO) — hard/official |
+| Economy | Inflation (CPI) | 19.5% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BO) — hard/official |
+| Economy | Unemployment | 3.0% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=BO) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 40.9 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=BO) — hard/official |
+| Economy | Tourism receipts | 3% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=BO) — hard/official |
+| Economy | Remittances | 1.9% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=BO) — hard/official |
+| Economy | Credit rating | S&P CCC+ (stable, 2026), Fitch B- (negative, 2023); Moody's not rated | [source](https://countryeconomy.com/ratings/bolivia) — soft/estimate |
+| Economy | Currency | BOB, crawling peg to USD, -15% over 5yr (2021-2026) | [source](https://en.wikipedia.org/wiki/Bolivian_boliviano) — soft/estimate |
+| Economy | Top industries | Mining (zinc, silver, tin), natural gas, agriculture (soy, quinoa) | [source](https://en.wikipedia.org/wiki/Economy_of_Bolivia) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 98 (2023) | [source](https://oec.world/en/profile/country/bol) — hard/official |
+| Technology | Internet users | 80% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BO) — hard/official |
+| Technology | Fixed broadband subs | 12.1 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=BO) — hard/official |
+| Technology | High-tech exports | 8.8% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=BO) — hard/official |
+| Technology | R&D spend | 0.06% of GDP (2021) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=BO) — hard/official |
+| Technology | Global Innovation Index | No reliable data | — |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | No commercial 5G deployment as of 2024 | [source](https://en.wikipedia.org/wiki/Telecommunications_in_Bolivia) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 68.7 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=BO) — hard/official |
+| Human development & health | Hospital beds | 1.5 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=BO) — hard/official |
+| Human development & health | HDI | 0.698, rank 120 (2022) | [source](https://countryeconomy.com/hdi/bolivia) — soft/estimate |
+| Safety | Global Peace Index | Rank 92, score 2.054 (2024) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bolivia-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | On FATF grey list (increased monitoring) (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 1%–20% depending on relationship (2025) | [source](https://taxsummaries.pwc.com/bolivia/individual/other-taxes) — soft/estimate |
+| Money & tax | CFC rules | No formal CFC rules; worldwide income not taxed for non-residents | [source](https://taxsummaries.pwc.com/bolivia/corporate/group-taxation) — soft/estimate |
+| Business | Company setup | ~42 days, high cost; complex municipal licensing | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/bolivia) — soft/estimate |
+| Business | Corporate tax | 25% standard corporate income tax (IUE, 2025) | [source](https://taxsummaries.pwc.com/bolivia/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | No reliable data | — |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens for tourist stays (up to 90 days) | [source](https://en.wikipedia.org/wiki/Visa_policy_of_Bolivia) — soft/estimate |
+| For Russian citizens | Sanctions position | No sanctions against Russia; maintains neutral stance, growing ties with Russia and China | [source](https://crsreports.congress.gov/product/pdf/IF/IF12778) — hard/official |
+| Quality of life | World Happiness rank | Rank ~80, score ~5.6 (2024) | [source](https://worldhappiness.report/ed/2024) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | Spanish is the official language; English rarely spoken, EF EPI ranked low (~80) | [source](https://www.ef.com/epi) — soft/estimate |
 
 ## Country Card
 

@@ -2,6 +2,7 @@
 title: Belarus — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 last_checked: 2026-10-11
 type: entity
 tags: [residence, citizenship, tax, it_friendly, popular_ru]
@@ -106,6 +107,68 @@ Expat and relocator forums report functional but arbitrary bureaucracy, surveill
 | Freedom House score | 7/100 Not Free (2025) | [hard/official](https://freedomhouse.org/country/belarus/freedom-world/2025) |
 | Average annual sunshine hours | ~1,700 h (Minsk)  [soft/estimate] | [soft/estimate](https://www.climatestotravel.com/climate/belarus) |
 | Average annual temperature | ~6.7 °C (Minsk) | [hard/official](https://statsclimat.com/Europe/Belarus/report_Minsk) |
+
+## Extended Snapshot
+
+_Coverage: 46/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 207 629 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=BY) — hard/official |
+| Geography & size | Population density | 45 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=BY) — hard/official |
+| Geography & size | Urban population | 79% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=BY) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://en.wikipedia.org/wiki/Geography_of_Belarus) — soft/estimate |
+| Geography & size | Highest point | Dzyarzhynskaya Hara, 345 m | [source](https://www.britannica.com/place/Dzyarzhynskaya-Hill) — soft/estimate |
+| Geography & size | Type | landlocked | [source](https://en.wikipedia.org/wiki/Belarus) — soft/estimate |
+| Geography & size | Time zone | UTC+3 (MSK, no DST); same as Moscow, diff 0h | [source](https://www.timeanddate.com/time/zone/belarus/minsk) — soft/estimate |
+| Climate | Avg precipitation | 618 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=BY) — hard/official |
+| Climate | PM2.5 exposure | 12.0 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=BY) — hard/official |
+| Climate | Climate zone | Dfb (Humid continental, warm summer) | [source](https://en.wikipedia.org/wiki/Climate_of_Belarus) — soft/estimate |
+| Climate | Temp winter / summer | Jan avg -6°C, Jul avg 18°C (Minsk) | [source](https://en.wikipedia.org/wiki/Climate_of_Belarus) — soft/estimate |
+| Climate | Rainy days | 114 days per year (Minsk) | [source](https://www.worlddata.info/europe/belarus/climate.php) — soft/estimate |
+| Climate | Humidity | High humidity, >100 days/year over 80% | [source](https://en.wikipedia.org/wiki/Climate_of_Belarus) — soft/estimate |
+| Climate | Natural hazards | Occasional floods, forest fires; INFORM risk rank moderate | [source](https://en.wikipedia.org/wiki/Geography_of_Belarus) — soft/estimate |
+| Climate | Air quality | No reliable data | — |
+| Economy | GDP (nominal) | $93.4B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BY) — hard/official |
+| Economy | GDP growth | 1.3% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=BY) — hard/official |
+| Economy | Inflation (CPI) | 6.6% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BY) — hard/official |
+| Economy | Unemployment | 3.4% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=BY) — hard/official |
+| Economy | Central govt debt | 33% of GDP (2019) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=BY) — hard/official |
+| Economy | Gini index | 24.4 (2020) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=BY) — hard/official |
+| Economy | Tourism receipts | 1% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=BY) — hard/official |
+| Economy | Remittances | 2.5% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=BY) — hard/official |
+| Economy | Credit rating | S&P CCC (2022), Moody's Caa1 (2016), Fitch CCC (2022); effectively not rated since sanctions | [source](https://countryeconomy.com/ratings/belarus) — soft/estimate |
+| Economy | Currency | BYN (Belarusian ruble), managed float, -40% vs USD over 5yr (2021-2026) | [source](https://en.wikipedia.org/wiki/Belarusian_ruble) — soft/estimate |
+| Economy | Top industries | Manufacturing (machinery, tractors), petrochemicals, agriculture (potash) | [source](https://en.wikipedia.org/wiki/Economy_of_Belarus) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 30 (2023) | [source](https://oec.world/en/profile/country/blr) — hard/official |
+| Technology | Internet users | 94% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BY) — hard/official |
+| Technology | Fixed broadband subs | 36.3 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=BY) — hard/official |
+| Technology | High-tech exports | 6.0% of manufactured exports (2021) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=BY) — hard/official |
+| Technology | R&D spend | 0.59% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=BY) — hard/official |
+| Technology | Global Innovation Index | No reliable data | — |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | 5G test networks launched (A1, 2020) but no full commercial rollout | [source](https://en.wikipedia.org/wiki/Telecommunications_in_Belarus) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses; local payment systems dominant | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 74.4 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=BY) — hard/official |
+| Human development & health | Hospital beds | 9.8 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=BY) — hard/official |
+| Human development & health | HDI | 0.801, rank 69 (2022) | [source](https://countryeconomy.com/hdi/belarus) — soft/estimate |
+| Safety | Global Peace Index | Rank 116, score ~2.3 (2024) | [source](https://www.visionofhumanity.org/maps/) — hard/official |
+| Safety | US travel advisory | Level 4: Do Not Travel | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/belarus-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 0% for close relatives, up to 20% for others (2025) | [source](https://taxsummaries.pwc.com/belarus/individual/other-taxes) — soft/estimate |
+| Money & tax | CFC rules | Yes; CFC rules introduced 2023 for residents controlling foreign entities | [source](https://taxsummaries.pwc.com/belarus/corporate/group-taxation) — soft/estimate |
+| Business | Company setup | ~5 days, ~0.5% of GNI per capita cost; online registration available | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/belarus) — soft/estimate |
+| Business | Corporate tax | 20% standard corporate income tax (2025) | [source](https://taxsummaries.pwc.com/belarus/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Belarusian State University; not ranked in QS top 1500; #1231 in EduRank global (2026) | [source](https://edurank.org/geo/by/) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free; Union State agreement allows free movement for Russian citizens | [source](https://en.wikipedia.org/wiki/Union_State) — soft/estimate |
+| For Russian citizens | Sanctions position | Under EU, US, UK sanctions for support of Russia's war in Ukraine; aligned with Russia | [source](https://home.treasury.gov/news/press-releases/jy2531) — hard/official |
+| Quality of life | World Happiness rank | No reliable data | — |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI score 533, ranked ~35-40; Russian widely spoken, English proficiency moderate | [source](https://www.ef.com/assetscdn/WIBIwq6RdJvcD9bc8RMd/cefcom-epi-site/fact-sheets/2025/ef-epi-fact-sheet-belarus-english.pdf) — soft/estimate |
 
 ## Country Card
 

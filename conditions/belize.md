@@ -2,6 +2,7 @@
 title: Belize — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, retired_residency, tax, clear_pathway]
 category: clear_pathway
@@ -114,6 +115,68 @@ Belize operates an international ship registry (IMMARBE). Yacht registration ava
 | Freedom House score | 86/100 (Free) | [Freedom House](https://freedomhouse.org/country/belize/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,500 h (varies; coastal areas sunnier) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Belize#Climate) — hard/official |
 | Average annual temperature | ~26 °C (coastal; cooler inland) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Belize#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 43/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 22 966 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=BZ) — hard/official |
+| Geography & size | Population density | 18 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=BZ) — hard/official |
+| Geography & size | Urban population | 42% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=BZ) — hard/official |
+| Geography & size | Coastline | 386 km (Caribbean) | [source](https://en.wikipedia.org/wiki/Geography_of_Belize) — soft/estimate |
+| Geography & size | Highest point | Doyle's Delight, 1,124 m | [source](https://en.wikipedia.org/wiki/Geography_of_Belize) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Belize) — soft/estimate |
+| Geography & size | Time zone | UTC-6 (CST, no DST); Moscow UTC+3, diff -9h | [source](https://www.timeanddate.com/time/zone/belize) — soft/estimate |
+| Climate | Avg precipitation | 1705 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=BZ) — hard/official |
+| Climate | PM2.5 exposure | 16.8 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=BZ) — hard/official |
+| Climate | Climate zone | Am/Aw (Tropical monsoon/savanna) | [source](https://en.wikipedia.org/wiki/Climate_of_Belize) — soft/estimate |
+| Climate | Temp winter / summer | Jan avg 24°C, Jul avg 28°C (Belmopan) | [source](https://en.wikipedia.org/wiki/Climate_of_Belize) — soft/estimate |
+| Climate | Rainy days | 130 days per year (Belize District) | [source](https://www.worlddata.info/america/belize/climate.php) — soft/estimate |
+| Climate | Humidity | High, ~85% annual average | [source](https://www.worlddata.info/america/belize/climate.php) — soft/estimate |
+| Climate | Natural hazards | Hurricanes (Jun-Nov), coastal flooding | [source](https://en.wikipedia.org/wiki/Geography_of_Belize) — soft/estimate |
+| Climate | Air quality | No reliable data | — |
+| Economy | GDP (nominal) | $3.3B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BZ) — hard/official |
+| Economy | GDP growth | 2.7% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=BZ) — hard/official |
+| Economy | Inflation (CPI) | 1.1% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BZ) — hard/official |
+| Economy | Unemployment | 8.9% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=BZ) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 39.9 (2018) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=BZ) — hard/official |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 3.7% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=BZ) — hard/official |
+| Economy | Credit rating | Moody's Caa1 (stable, 2024), S&P B- (stable, 2021) | [source](https://countryeconomy.com/ratings/belize) — soft/estimate |
+| Economy | Currency | BZD, pegged to USD at 2:1, 5yr trend 0% | [source](https://en.wikipedia.org/wiki/Belize_dollar) — soft/estimate |
+| Economy | Top industries | Tourism, agriculture (sugar, bananas, citrus), aquaculture | [source](https://en.wikipedia.org/wiki/Economy_of_Belize) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 120 (2023) | [source](https://oec.world/en/profile/country/blz) — hard/official |
+| Technology | Internet users | 80% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BZ) — hard/official |
+| Technology | Fixed broadband subs | 9.8 per 100 people (2022) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=BZ) — hard/official |
+| Technology | High-tech exports | 0.0% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=BZ) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | No reliable data | — |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | No commercial 5G deployment as of 2024 | [source](https://en.wikipedia.org/wiki/Telecommunications_in_Belize) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses; PayPal limited | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 73.7 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=BZ) — hard/official |
+| Human development & health | Hospital beds | 1.0 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=BZ) — hard/official |
+| Human development & health | HDI | 0.700, rank 118 (2022) | [source](https://countryeconomy.com/hdi/belize) — soft/estimate |
+| Safety | Global Peace Index | Rank ~43, score ~1.9 (2024) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/belize-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; stamp duty on estates up to 4% on property transfers | [source](https://taxsummaries.pwc.com/belize/individual/other-taxes) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules; territorial tax system | [source](https://taxsummaries.pwc.com/belize/corporate/group-taxation) — soft/estimate |
+| Business | Company setup | ~28 days; online registration available via BELTRAIDE | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/belize) — soft/estimate |
+| Business | Corporate tax | Business tax 1.75%–25% depending on sector; 0% for some international business companies | [source](https://taxsummaries.pwc.com/belize) — soft/estimate |
+| Family & education | Top university | No reliable data | — |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens for tourist stays (up to 30 days) | [source](https://en.wikipedia.org/wiki/Visa_policy_of_Belize) — soft/estimate |
+| For Russian citizens | Sanctions position | Generally aligned with CARICOM/Commonwealth positions; no independent sanctions on Russia | [source](https://www.state.gov/u-s-relations-with-belize/) — soft/estimate |
+| Quality of life | World Happiness rank | Rank ~28, score 6.711 (2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | English is the official language; widely spoken | [source](https://en.wikipedia.org/wiki/Belize) — soft/estimate |
 
 ## Country Card
 

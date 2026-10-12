@@ -2,6 +2,7 @@
 title: Benin — Republic of Benin
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, employment_residency, investment_residency, tax]
 category: clear_pathway
@@ -99,6 +100,68 @@ Limited English-language expat forum data. The expat presence is small, concentr
 | Freedom House score | 60/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/benin/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,700 h | ^[https://en.climate-data.org/africa/benin/] hard/official |
 | Average annual temperature | ~27 °C (tropical) | ^[https://en.climate-data.org/africa/benin/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 44/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 114 760 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=BJ) — hard/official |
+| Geography & size | Population density | 128 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=BJ) — hard/official |
+| Geography & size | Urban population | 53% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=BJ) — hard/official |
+| Geography & size | Coastline | 121 km | [source](https://en.wikipedia.org/wiki/Geography_of_Benin) — soft/estimate |
+| Geography & size | Highest point | Mont Sokbaro, 658 m | [source](https://2009-2017.state.gov/outofdate/bgn/benin/37753.htm) — hard/official |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Benin) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (WAT, no DST); Moscow UTC+3, diff -2h | [source](https://www.timeanddate.com/worldclock/benin) — soft/estimate |
+| Climate | Avg precipitation | 1039 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=BJ) — hard/official |
+| Climate | PM2.5 exposure | 39.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=BJ) — hard/official |
+| Climate | Climate zone | Aw (Tropical savanna) | [source](https://www.weather-atlas.com/en/benin/cotonou-climate) — soft/estimate |
+| Climate | Temp winter / summer | Jan avg 28°C, Jul avg 25°C (Cotonou) | [source](https://en.wikipedia.org/wiki/Climate_of_Benin) — soft/estimate |
+| Climate | Rainy days | 75 days per year (Cotonou) | [source](https://en.wikipedia.org/wiki/Climate_of_Benin) — soft/estimate |
+| Climate | Humidity | 84% annual average (Cotonou) | [source](https://en.wikipedia.org/wiki/Climate_of_Benin) — soft/estimate |
+| Climate | Natural hazards | Flooding, coastal erosion; moderate INFORM risk | [source](https://en.wikipedia.org/wiki/Geography_of_Benin) — soft/estimate |
+| Climate | Air quality | No reliable data | — |
+| Economy | GDP (nominal) | $24.6B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BJ) — hard/official |
+| Economy | GDP growth | 8.1% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=BJ) — hard/official |
+| Economy | Inflation (CPI) | 1.1% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BJ) — hard/official |
+| Economy | Unemployment | 1.6% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=BJ) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 34.4 (2021) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=BJ) — hard/official |
+| Economy | Tourism receipts | 7% of exports (2019) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=BJ) — hard/official |
+| Economy | Remittances | 1.7% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=BJ) — hard/official |
+| Economy | Credit rating | Fitch B+ (stable, 2021); S&P and Moody's not rated | [source](https://countryeconomy.com/ratings/benin) — soft/estimate |
+| Economy | Currency | XOF (West African CFA franc), pegged to EUR at 655.957:1, 5yr trend -5% vs USD | [source](https://en.wikipedia.org/wiki/West_African_CFA_franc) — soft/estimate |
+| Economy | Top industries | Agriculture (cotton, palm oil), trade, transport/logistics | [source](https://en.wikipedia.org/wiki/Economy_of_Benin) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 122 (2023) | [source](https://oec.world/en/profile/country/ben) — hard/official |
+| Technology | Internet users | 34% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BJ) — hard/official |
+| Technology | Fixed broadband subs | 0.3 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=BJ) — hard/official |
+| Technology | High-tech exports | 30.5% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=BJ) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | No reliable data | — |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | 5G launched by MTN Benin (2024), Moov Africa (2026) in Cotonou | [source](https://www.datacenterdynamics.com/en/news/mtn-launches-benins-first-commercial-5g-network/) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 61.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=BJ) — hard/official |
+| Human development & health | Hospital beds | 0.4 per 1000 (2021) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=BJ) — hard/official |
+| Human development & health | HDI | 0.504, rank 173 (2022) | [source](https://countryeconomy.com/hdi/benin) — soft/estimate |
+| Safety | Global Peace Index | Rank 93, score ~2.1 (2024) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/benin-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax progressive up to 30% for non-direct line | [source](https://taxsummaries.pwc.com/benin/individual/other-taxes) — soft/estimate |
+| Money & tax | CFC rules | CFC rules introduced 2020 per WAEMU directive; income attributed if >50% owned | [source](https://taxsummaries.pwc.com/benin/corporate/group-taxation) — soft/estimate |
+| Business | Company setup | ~8 days; one-stop shop available (CFE) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/benin) — soft/estimate |
+| Business | Corporate tax | 30% standard corporate income tax (2025) | [source](https://taxsummaries.pwc.com/benin/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | No reliable data | — |
+| Connectivity | Visa-free for Russians | eVisa required; available online via evisa.bj (2025) | [source](https://evisa.bj) — soft/estimate |
+| For Russian citizens | Sanctions position | Voted for UN resolutions condemning Russia's invasion (2022); no independent sanctions | [source](https://crsreports.congress.gov/product/pdf/IF/IF12712) — soft/estimate |
+| Quality of life | World Happiness rank | Rank ~120, score ~4.3 (2024) | [source](https://worldhappiness.report/ed/2024) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | French is the official language; English rarely spoken, EF EPI not ranked | [source](https://en.wikipedia.org/wiki/Benin) — soft/estimate |
 
 ## Country Card
 
