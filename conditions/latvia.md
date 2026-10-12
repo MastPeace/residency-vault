@@ -11,6 +11,7 @@ sources:
   - https://www.pmlp.gov.lv/en/naturalisation
   - https://www.pmlp.gov.lv/en/article/government-approves-regulation-remote-work-visas
 country_code: LV
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -85,7 +86,7 @@ Baltic Sea coastline (Riga, Ventspils, Liepāja). Yacht registration under Latvi
 Latvia has adopted a highly restrictive stance toward Russian citizens since 2022. Golden Visa and work permit routes are formally open but face enhanced scrutiny. Latvian language requirement for citizenship is demanding. Significant Russian-speaking minority (~30% of population) provides cultural familiarity, but the political environment is unwelcoming for new Russian applicants. Banking for RU nationals is extremely difficult in Latvia.
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: September 2026 — Latvian President signed law restricting Golden Visa issuance (details still emerging). Golden Visa core framework under political pressure.
 - **Watch items**: Monitor Golden Visa restriction law implementation. Track any DN visa policy changes.
 

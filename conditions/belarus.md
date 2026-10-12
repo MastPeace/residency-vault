@@ -3,7 +3,7 @@ title: Belarus — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-12
-last_checked: 2026-10-11
+last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, it_friendly, popular_ru]
 category: popular_ru
@@ -190,6 +190,6 @@ Belarus is a landlocked Eastern European country of ~9 million with a heavily st
 - Sanctions and capital controls; banking restrictions for foreigners
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Presidential election (Jan 2025) amid internet blocks; HTP regime unchanged (valid to 2049). Permanent-residence rules (Resolution 144) amended to 2026.
 - **Watch items**: Any tightening of exit controls; further HTP exodus; Union State immigration integration.

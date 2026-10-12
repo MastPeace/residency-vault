@@ -10,6 +10,7 @@ sources:
   - https://www.immigration.go.tz/index.php/residence-permit-class-a
   - https://www.tic.go.tz/pages/resident-permit
 country_code: TZ
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -72,7 +73,7 @@ Tanzania has an Indian Ocean coastline (Dar es Salaam, Zanzibar). Zanzibar is a 
 Visa on arrival or eVisa for Russian citizens (90 days tourist). Tanzania is a popular tourist destination for Russians (Zanzibar). Banking: functional but limited. Direct flights from Moscow (seasonal charters). Tanzania maintains neutral relations with Russia.
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Online Work Permit Application System (OWAIS) integrated with e-Permit system. TISEZA (Tanzania Investment Special Economic Zone Authority) facilitating permits. No major policy shifts.
 - **Watch items**: Monitor any introduction of DN visa (regional trend).
 

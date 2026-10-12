@@ -11,6 +11,7 @@ sources:
   - https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/investisseur/investisseur-pays-tiers.html
   - https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/hautement-qualifie/salarie-hautement-qualifie.html
 country_code: LU
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -175,6 +176,6 @@ Luxembourg is a tiny, exceptionally wealthy EU founding member with the world's 
 - High salary thresholds for work permits (Blue Card ~€78K) reflect high-wage economy
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Impatriate tax regime maintained. No major immigration reform in 2026.
 - **Watch items**: EU Blue Card salary threshold adjustments. Track investor residence approval statistics.

@@ -10,6 +10,7 @@ sources:
   - https://mpb.rks-gov.net/Uploads/EditorFiles/FAQ/86/ENG%20_%20RESIDENCE%20PERMIT%20FOR%20THE%20PURPOSE%20OF%20EMPLOYMENT.pdf
   - https://old.kuvendikosoves.org/common/docs/ligjet/Law%20on%20foreigners.pdf
 country_code: XK
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -107,7 +108,7 @@ Kosovo is not a popular expat destination. Those who relocate are typically dipl
 
 ## Status
 
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: No significant recent changes to immigration framework. EU visa liberalization for Kosovo citizens effective January 2024.
 - **Watch items**: EU visa liberalization implementation. Potential progress toward EU candidate status. Normalization dialogue with Serbia.
 

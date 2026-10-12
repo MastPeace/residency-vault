@@ -2,7 +2,7 @@
 title: Guyana — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
-last_checked: 2026-10-11
+last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, employment_residency, tax]
 category: clear_pathway
@@ -109,6 +109,6 @@ Guyana is a small, English-speaking South American nation and CARICOM member on 
 - Under-developed infrastructure
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: No immigration-policy changes confirmed; CBI discussed but not legislated.
 - **Watch items**: Possible CBI introduction; work-permit capacity; border-tension spillover.

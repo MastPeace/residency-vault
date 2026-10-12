@@ -11,6 +11,7 @@ sources:
   - https://freedomhouse.org/country/guinea/freedom-world/2025
   - https://worldjusticeproject.org/rule-of-law-index/country/2024/Guinea
 country_code: GN
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -122,6 +123,6 @@ Guinea is a mineral‑rich West African coastal nation with a predominantly Musl
 - Dual citizenship not generally permitted; passport weak (28 destinations)
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: No known recent changes. Political instability (2021 coup, ongoing transition).
 - **Watch items**: Potential legal reforms under transitional government. Security situation in Conakry.

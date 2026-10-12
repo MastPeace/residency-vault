@@ -10,6 +10,7 @@ sources:
   - https://data.worldbank.org/country/DJ
   - https://freedomhouse.org/country/djibouti/freedom-world/2025
 country_code: DJ
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -121,6 +122,6 @@ Djibouti is a small, arid Horn of Africa nation strategically located on one of 
 - No formal residency programs; dual citizenship not permitted
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: No known recent changes. Stable authoritarian rule under President Guelleh (since 1999).
 - **Watch items**: Regional security (Yemen conflict spillover, Red Sea instability). Political succession.

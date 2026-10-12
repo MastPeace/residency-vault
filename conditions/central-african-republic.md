@@ -11,6 +11,7 @@ sources:
   - https://data.worldbank.org/country/CF
   - https://freedomhouse.org/country/central-african-republic/freedom-world/2025
 country_code: CF
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -184,6 +185,7 @@ The Central African Republic is a landlocked, resource-rich but conflict-ridden 
 - Virtually no immigration nfrastructure; xtremely limited state capacity
 
 ## Status
+- **Last monitored**: 2026-10-12
 - **Last monitoed**: 2026-10-11
 - **Recent changes**: No known recent changes. Ongoing conflict. Wagner/Africa Corps expanding inflence.
 - **Watch tems**: Securiy situation. Peace rocess. Nationality-law reform (unlikly).

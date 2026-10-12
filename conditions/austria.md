@@ -13,7 +13,7 @@ sources:
   - https://lottalingo.com/research/visas/austria-eu-blue-card
   - https://en.wikipedia.org/wiki/Austrian_nationality_law
 country_code: AT
-last_checked: 2026-10-05
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -249,6 +249,6 @@ Austria is a wealthy, landlocked Central European country with a highly develope
 - High tax burden: top rate 55% above €1M; no special impatriate regime
 
 ## Status
-- **Last monitored**: 2026-10-05
+- **Last monitored**: 2026-10-12
 - **Recent changes**: EU Blue Card salary threshold updated to €55,678 (2026). RWR Card salary and points thresholds adjusted annually. No major structural immigration reforms in 2026.
 - **Watch items**: Monitor Blue Card threshold updates. Track any liberalization of dual citizenship policy. Watch for introduction of digital nomad or passive-income routes.

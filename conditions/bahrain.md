@@ -11,6 +11,7 @@ sources:
   - https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency
   - https://services.bahrain.bh
 country_code: BH
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -135,7 +136,7 @@ Bahrain operates a [[investment-residency|golden residency]] programme (permanen
 Bahrain is the most underrated Gulf residency destination. Golden Residency is accessible (BD 200K property + BD 300/10yr), fast (5 working days), and liberal. The main drawbacks: smaller economy, less global connectivity (airport), and lower prestige than UAE. For those prioritizing cost-effective permanent residency in a 0% tax Gulf state, Bahrain is a strong option. Expat quality of life is good, cost of living moderate.
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Golden Residency programme stable. Property threshold appears at BD 200K on eGovernment portal, BD 130K on NPRA (dual routes).
 - **Watch items**: Alignment of BD 130K vs BD 200K thresholds across platforms. Potential introduction of digital nomad / remote work visa (being discussed regionally).
 

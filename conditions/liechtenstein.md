@@ -2,7 +2,7 @@
 title: Liechtenstein — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
-last_checked: 2026-10-11
+last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, strong_passport]
 category: strong_passport
@@ -120,6 +120,6 @@ Liechtenstein is a 160 km² Alpine principality of ~40,000 people, economically 
 - No coastline; small and opaque for outsiders
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: No major program changes; quota system unchanged. Wealth-management sector continuing post-2022 KYC tightening.
 - **Watch items**: Any quota increase; third-country "independent means" policy shifts.

@@ -11,7 +11,7 @@ sources:
   - https://us.china-embassy.gov.cn/eng/lsfw/zj/notice/202509/t20250920_11712385.htm
   - https://www.mohrss.gov.cn/
 country_code: CN
-last_checked: 2026-10-11
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -137,6 +137,6 @@ China is the world's most populous country and second-largest economy, a manufac
 - Heavy bureaucratic compliance for residence permits and tax
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes known**: None material for foreign residence since 2025; visa categories stable.
 - **Watch items**: Any reform to permanent residence criteria; expansion of visa-free lists.

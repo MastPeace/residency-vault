@@ -10,6 +10,7 @@ sources:
   - https://www.mondaq.com/work-visas/1628642/how-to-obtain-a-work-visa-and-a-residence-card-in-c%C3%B4te-divoire
   - https://www.ibn.co.za/ivory-coast
 country_code: CI
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -72,7 +73,7 @@ Côte d'Ivoire has an Atlantic coastline (Abidjan, San-Pédro). The Port Autonom
 Visa required (e-visa or embassy). French is the working language. Abidjan has a small international community. Côte d'Ivoire maintains neutral relations with Russia. Banking: functional within the CFA franc zone. Currency stability via EUR peg (CFA franc).
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: No major immigration policy shifts. Investment Code (2018) remains the framework.
 - **Watch items**: Track any DN visa or CBI introduction in Francophone West Africa.
 

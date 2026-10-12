@@ -10,6 +10,7 @@ sources:
   - https://data.worldbank.org/country/congo-rep
   - https://freedomhouse.org/country/republic-congo/freedom-world/2025
 country_code: CG
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -121,6 +122,6 @@ The Republic of the Congo (Congo-Brazzaville) is an oil-rich Central African coa
 - Weak passport (19 destinations
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: No known recent changes. Stable though authoritarian rule under Preident Denis Sassou Nguesso (since 1997).
 - **Watch items**: Oil revenue volatility. Political succession. CFA reform debate.

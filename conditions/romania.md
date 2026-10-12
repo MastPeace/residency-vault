@@ -11,6 +11,7 @@ sources:
   - https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-romania_en
   - https://rrpb.ro/dreptul-imigrarii-en/the-romanian-citizenship-law-changes-from-2025
 country_code: RO
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -131,6 +132,6 @@ Romania is an EU member (since 2007) and full Schengen member since January 2025
 - Limited yachting infrastructure on the Black Sea; not a premier maritime destination
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Golden Visa (€400K) proposed, not enacted. Full Schengen since Jan 2025. 2025 citizenship law: permanent residence mandatory before citizenship.
 - **Watch items**: Track Golden Visa legislation progress. Monitor any DN visa threshold changes.

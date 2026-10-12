@@ -2,7 +2,7 @@
 title: Tonga — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
-last_checked: 2026-10-11
+last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, investment, clear_pathway]
 category: clear_pathway
@@ -117,6 +117,6 @@ Tonga is a small Polynesian constitutional monarchy whose king retains real powe
 - Land laws and monarchical powers raise governance concerns
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: No enacted changes; 2026 CBI relaunch proposal (Henley & Partners) under discussion.
 - **Watch items**: Whether Parliament/King approve the USD 190,000 CBI proposal.

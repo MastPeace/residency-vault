@@ -12,6 +12,7 @@ sources:
   - https://goldenharbors.com/articles/argentina-citizenship
   - https://goldenharbors.com/articles/argentina-digital-nomad-visa
 country_code: AR
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -135,7 +136,7 @@ Russian passport holders are visa-free for tourist entry (90 days). Rentista and
 Argentina's 2-year citizenship timeline is among the fastest globally and is the primary draw. Decree 366/2025's "no exits" rule is the biggest recent tightening — applicants must plan for 2 continuous years in-country. The DN visa is a useful short-term bridge but not a path to citizenship. Inflation and economic instability remain the main practical concerns. The pending CBI program, if launched at $500K, would be a game-changer.
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Decree 366/2025 (May 2025) — tightened residency continuity, citizenship processing moved to DNM. Decree 524/2025 (July 2025) — CBI framework. SMVM minimum wage updates alter Rentista thresholds periodically.
 ## Country Snapshot
 

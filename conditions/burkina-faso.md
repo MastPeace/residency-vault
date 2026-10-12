@@ -12,6 +12,7 @@ sources:
   - https://freedomhouse.org/country/burkina-faso/freedom-world/2025
   - https://worldjusticeproject.org/rule-of-law-index/country/2024/Burkina%20Faso
 country_code: BF
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -185,6 +186,6 @@ Burkina Faso is a landlocked, low-income Sahelian country facing severe jihadist
 - No formal residency programs; weak passport
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Junta government (since 2022 coups). Ongoing security deterioration.
 - **Watch items**: Political transition. Nationality-law reforms. Security situation.

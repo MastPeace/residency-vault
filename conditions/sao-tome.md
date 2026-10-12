@@ -2,7 +2,7 @@
 title: São Tomé and Príncipe — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
-last_checked: 2026-10-11
+last_checked: 2026-10-12
 type: entity
 tags: [citizenship, citizenship_by_investment, residence, tax]
 category: clear_pathway
@@ -116,6 +116,6 @@ São Tomé and Príncipe is a small, stable, Portuguese-speaking island democrac
 - Limited infrastructure, internet and services
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: CBI programme launched 1 Aug 2025 (Decree-Law 07/2025), NTF donation $90K/$95K.
 - **Watch items**: First approval cohorts and processing times; any revision to donation thresholds.

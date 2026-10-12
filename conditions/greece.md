@@ -1,7 +1,7 @@
 ---
 title: Greece — Greece
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-10-12
 type: entity
 tags: [residence, citizenship, golden-visa, digital-nomad, popular_ru, clear_pathway]
 category: clear_pathway
@@ -11,7 +11,7 @@ sources:
   - https://harveylawcorporation.com/greek-golden-visa-new-regulations
   - https://www.globalcitizensolutions.com/greek-dual-citizenship
 country_code: GR
-last_checked: 2026-10-05
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -135,6 +135,6 @@ Greece is a Mediterranean EU/Schengen/Eurozone member with one of Europe's longe
 - Bureaucratic complexity and historically long processing times across all permit types
 
 ## Status
-- **Last monitored**: 2026-10-05
-- **Recent changes**: Law 5275/2026 — immigration reform, permit validity from card issuance date. Golden Visa tiers (€250K/€400K/€800K) stable since Aug 2024. Short-term letting prohibition enforced.
+- **Last monitored**: 2026-10-12
+- **Recent changes**: Law 5275/2026 — immigration reform, permit validity from card issuance date. Golden Visa tiers (€250K/€400K/€800K) stable since Aug 2024. Short-term letting prohibition enforced. Demand shift in Jan–Aug 2026: new Golden Visa applications −44% YoY while issued permits +10%; foreign property investment topped €1B in H1 2026. ^[https://agentnews.gr/property/greece-foreign-property-investment-golden-visa-2026]
 - **Watch items**: Monitor Golden Visa backlog clearance (~50,000 pending). Track any further threshold increases. Implementation of Law 5275/2026.

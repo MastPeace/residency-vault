@@ -11,6 +11,7 @@ sources:
   - https://www.mzv.sk/web/washington-en/services/slovak-citizenship/naturalization
   - https://mic.iom.sk/en/citizenship/conditions-for-granting-slovak-citizenship-naturalization.html
 country_code: SK
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -131,6 +132,6 @@ Slovakia is a landlocked EU/Schengen/Eurozone member in Central Europe with a st
 - Trade license route requires Slovak-language business setup
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: July 2024 — no labor market test for Blue Card (only vacancy reporting). July 2025 — changes to visa/residence legislation.
 - **Watch items**: Monitor any further changes to business residence permit rules.

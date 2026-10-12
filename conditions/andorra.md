@@ -3,7 +3,7 @@ title: Andorra — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-11
-last_checked: 2026-10-11
+last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, passive-income, digital-nomad, strong_passport, clear_pathway]
 category: strong_passport
@@ -191,6 +191,6 @@ Andorra is a tiny, mountainous principality of ~83,000 people wedged between Fra
 - High income threshold (~€4,400/mo) for the digital-nomad permit
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Omnibus 2 / Act 2/2026 (Feb 2026) raised passive-residence investment €600K→€1M, made AFA deposit non-refundable (€50K, was €47.5K refundable), cut 2026 quota to 163. Nationality reform (2026) added mandatory B1 Catalan and raised marriage route to 5 years.
 - **Watch items**: Quota exhaustion; further tightening of nationality rules; AFA contribution guidance on govern.ad still shows old amounts.

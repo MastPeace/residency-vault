@@ -12,6 +12,7 @@ sources:
   - https://www.immigration.gov.bs/residence/permanent-residence
   - https://www.immigration.gov.bs/applying-to-stay/applying-for-citizenship
 country_code: BS
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -201,6 +202,7 @@ The Bahamas is an archipelagic nation of over 700 islands stretching from near F
 - No digital nomad visa; no legal framework for remote workers beyond tourist entry
 - Annual residence permits are discretionary with 8–12 week processing
 ## Status
+- **Last monitored**: 2026-10-12
 - Last change: September 1, 2025 — Labour Certificate now required for all Scale 8 work permits.
 - Last monitored: 2026-09-14.
 - No open watch items.

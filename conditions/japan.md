@@ -12,6 +12,7 @@ sources:
   - https://rumavi.com/en/property-guides/japan-residency-visas
   - https://www.japantimes.co.jp/news/2026/03/27/japan/politics/japan-new-naturalization-requirements
 country_code: JP
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -170,6 +171,6 @@ Japan is an East Asian island nation with the world's second-strongest passport 
 
 ## Status
 - **Fix**: content restored from git 949a1bd after SCHEMA v3 template corruption (2026-10-11)
-- **Last monitored**: 2026-09-14
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Naturalization screening tightened to ~10 years (April 1, 2026). PR application fee rising to ¥200,000 (from Oct 1, 2026). Business Manager capital requirement raised to ¥30M (2025). Potential PR revocation for unpaid taxes from April 1, 2027.
 - **Watch items**: Digital Nomad visa extension under consideration. PR fee increase implementation.

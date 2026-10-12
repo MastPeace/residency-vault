@@ -11,6 +11,7 @@ sources:
   - https://rumavi.com/en/property-guides/vietnam-golden-visa
   - https://www.vietnam-briefing.com/news/vietnam-immigration-permanent-residence-eligibility-and-application-guide.html
 country_code: VN
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -171,6 +172,6 @@ Vietnam is a fast-growing Southeast Asian country with a young population of ove
 
 ## Status
 - **Fix**: content restored from git 949a1bd after SCHEMA v3 template corruption (2026-10-11)
-- **Last monitored**: 2026-09-14
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Golden Visa still under study (proposed 5–10 year model, USD $300K placement pilot reported July 2026–June 2029, unconfirmed). UĐ1/UĐ2 talent visas effective July 1, 2026. Hague Apostille Convention effective September 11, 2026. July 2025 Nationality Law amendments remove 5-year residency for contributing investors.
 - **Watch items**: Golden Visa official launch confirmation. UĐ1/UĐ2 implementation details. DT tier threshold changes.

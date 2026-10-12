@@ -10,7 +10,7 @@ sources:
   - https://www.pra.gov.ph/
   - https://www.immigration.gov.ph/
 country_code: PH
-last_checked: 2026-10-11
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -146,6 +146,6 @@ The Philippines is a Southeast Asian archipelago of ~7,600 islands with a young,
 - Typhoons and seismic risk
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes known**: SRRV age floor adjusted to 40 (Classic 50+) with Smile option; no material 2025–2026 changes.
 - **Watch items**: SRRV deposit/age rules; any DN visa introduction.

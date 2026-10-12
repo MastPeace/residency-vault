@@ -11,7 +11,7 @@ sources:
   - https://www.one-visa.com/singapore-visa-resources/singapore-permanent-resident-pr-application
   - https://tip.com.sg/resource/singapore-citizenship-guide
 country_code: SG
-last_checked: 2026-10-05
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -99,6 +99,6 @@ Singapore is a city-state and global financial hub with the world's strongest pa
 
 ## Status
 - **Fix**: content restored from git 949a1bd after SCHEMA v3 template corruption (2026-10-11)
-- **Last monitored**: 2026-10-05
+- **Last monitored**: 2026-10-12
 - **Recent changes**: PR grant target increased to ~40,000/year for 2026–2030. No major structural changes.
 - **Watch items**: Monitor PR approval rates by nationality. Track GIP investment thresholds.

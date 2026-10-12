@@ -10,6 +10,7 @@ sources:
   - https://investnorthmacedonia.gov.mk/work-visas-and-permits
   - https://mfa.gov.mk/en-GB/konzularni-uslugi/vidovi-vizi-za-vlez-vo-rsm
 country_code: MK
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -100,7 +101,7 @@ North Macedonia is not a popular expat destination. Low cost of living is the pr
 
 ## Status
 
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: No significant recent changes. EU accession negotiations ongoing (screening phase).
 - **Watch items**: EU accession progress. Potential introduction of digital nomad visa as part of EU alignment.
 

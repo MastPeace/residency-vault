@@ -12,7 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Turkish_Citizenship_by_Investment
   - https://www.invest.gov.tr/en/news/news-from-turkey/pages/new-turkish-citizenship-rules-encourage-foreign-investment.aspx
 country_code: TR
-last_checked: 2026-10-05
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -123,7 +123,7 @@ CBI program is well-established and fast. Main risk: fraud in the application ch
 
 ## Status
 
-- **Last monitored**: 2026-10-05
+- **Last monitored**: 2026-10-12
 - **Recent changes**: August 2026 — 6,134 fraudulently obtained citizenships revoked. 2026 tax reform: 20-year foreign income exemption for relocating individuals.
 - **Watch items**: Potential CBI threshold increase (rumored to $600,000). Post-revocation due diligence tightening. Impact of tax reform on relocant inflow.
 

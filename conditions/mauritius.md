@@ -11,6 +11,7 @@ sources:
   - https://edbmauritius.org
   - https://residency.mu
 country_code: MU
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -87,7 +88,7 @@ Mauritius is a growing Indian Ocean yachting hub. Port Louis Harbour and Grand B
 Mauritius offers visa-free entry for 90 days for Russian citizens (visa-waiver extension to 180 days under discussion). The Premium Visa is accessible. Local banking has become more cautious post-2022 but remains workable. The Russian-speaking community is small but present. No direct sanctions impact. Mauritius's non-aligned foreign policy is a plus.
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Finance Act 2025 raised OP salary thresholds (Investor USD 100K, Professional MUR 50K, PR requirement extended from 3 to 5 years on OP/RP). Premium Visa fee remains zero. Property tax for non-citizens rose from 5% to 10% effective July 2026.
 - **Watch items**: Track PR threshold changes. Monitor Premium Visa path to residence discussions.
 

@@ -12,6 +12,7 @@ sources:
   - https://www.racc.net.au/single-post/189-190-or-491-visa-australia-which-skilled-migration-pathway-leads-to-permanent-residency
   - https://oneplanetmigrationlaw.com.au/immigration-blog/australian-citizenship-by-conferral-2026
 country_code: AU
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -123,7 +124,7 @@ Australia has a massive coastline with world-class marinas (Sydney, Gold Coast, 
 Australia maintains sanctions against Russia. Visa processing for Russian nationals continues but faces enhanced security screening and longer processing times. Skilled migration remains open in principle — nationality is not a bar — but obtaining police clearances and financial documents from Russia is logistically difficult. Small but established Russian-speaking community in Sydney and Melbourne. BIIP closure means investor route is no longer available.
 
 ## Status
-- **Last monitored**: 2026-09-14
+- **Last monitored**: 2026-10-12
 - **Recent changes**: BIIP closed to new applications (July 2024); existing pathways remain operational. SID (subclass 482) replaced TSS 482. Points test revision under review.
 - **Watch items**: New National Innovation Visa (replaced Global Talent). Points test reform. State nomination allocation for 2026–2027.
 

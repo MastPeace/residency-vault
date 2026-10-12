@@ -12,6 +12,7 @@ sources:
   - https://www.cbiu.gov.dm/news/dominica-citizenship-cost-and-fees
   - https://www.cbiu.gov.dm/dominica-citizenship
 country_code: DM
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -168,6 +169,6 @@ Dominica is a mountainous Eastern Caribbean island nation between Guadeloupe and
 - Limited economy and local job market
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Caribbean MoU price floor ($200,000) in force since 1 Jul 2024; mandatory interview for 16+ applicants.
 - **Watch items**: Post-Maria infrastructure; any further Caribbean-wide CBI price harmonisation; EU/UK access negotiations.

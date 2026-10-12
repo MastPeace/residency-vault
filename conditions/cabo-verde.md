@@ -3,7 +3,7 @@ title: Cabo Verde — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-12
-last_checked: 2026-10-11
+last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, investment_residency, digital-nomad, tax]
 category: clear_pathway
@@ -191,6 +191,6 @@ Cabo Verde is a stable, democratic Portuguese-speaking archipelago off West Afri
 - Limited banking and professional services depth
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Corporate tax cut 21% → 20% for 2025. Green Card and Remote Working programmes operational.
 - **Watch items**: Green Card thresholds/law revisions; Tech Park development; any CBI proposal (none active).

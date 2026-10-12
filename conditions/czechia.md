@@ -10,7 +10,7 @@ sources:
   - https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-czechia_en
   - https://www.mvcr.cz/mvcren/
 country_code: CZ
-last_checked: 2026-10-05
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -88,7 +88,7 @@ Not applicable — Czechia is landlocked.
 Russian citizens need a Schengen visa. Employee Card and Blue Card routes open but processing at Czech consulates in Russia may face delays. Czech language requirement (B1) for citizenship is a significant hurdle. Russian-speaking community exists in Prague and Karlovy Vary. Czech public sentiment toward Russia is generally negative since 2022.
 
 ## Status
-- **Last monitored**: 2026-10-05
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Digital nomad programme launched for IT specialists. Employee Card and Blue Card processes stable.
 - **Watch items**: Monitor Digital Nomad Programme uptake and any processing time trends.
 

@@ -10,6 +10,7 @@ sources:
   - https://www.fragomen.com/countries/tunisia.html
   - https://www.fipa.gov.tn
 country_code: TN
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -123,7 +124,7 @@ Tunisia offers a moderately open residency framework anchored by employment spon
 Tunisia is an underrated option for lifestyle-oriented residency seekers. It offers a Mediterranean climate, low cost of living, French-speaking environment, and visa-free access for many nationalities. The formal residency framework has gaps (no investment residency, no DN visa) but practical pathways exist via FIPA-registered investment or company formation. Processing is bureaucratic but functional. For retirees and remote workers, Tunisia offers a genuine quality-of-life proposition at a fraction of European costs.
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Investment incentives updated (2024). Startup Act continues. FIPA investment promotion active. No major residency framework changes.
 - **Watch items**: Potential formalization of a digital nomad or remote work visa. Offshore regime developments. FIPA investment thresholds.
 

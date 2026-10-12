@@ -12,6 +12,7 @@ sources:
   - https://canada.diplomatie.belgium.be/en/visa/visa-belgium/long-stay-visa-d-visa
   - https://www.brusselstimes.com/2235048/how-to-apply-for-permanent-residency-in-belgium-tbtb
 country_code: BE
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -209,6 +210,6 @@ Belgium is a small, wealthy Western European country hosting the EU and NATO hea
 - Language barrier: Dutch/French/German requirements vary by region
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: New expat tax regime effective from 2025. No major immigration reform in 2026.
 - **Watch items**: Monitor implementation of EU Migration and Asylum Pact. Track professional card processing times.

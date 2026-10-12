@@ -10,6 +10,7 @@ sources:
   - https://consortiumlegal.com/en/2025/07/29/work-permits-for-foreigners-in-el-salvador-requirements-and-legal-considerations
   - https://en.wikipedia.org/wiki/Salvadoran_nationality_law
 country_code: SV
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -140,6 +141,7 @@ El Salvador is the smallest and most densely populated country in Central Americ
 - Spanish essential; very limited English outside tourist surf towns
 - No dedicated digital nomad visa despite crypto-friendly positioning
 ## Status
+- **Last monitored**: 2026-10-12
 - Last change: March 2026 — bill to amend Special Law on Migration and Foreigners submitted to Legislative Assembly; proposed changes to temporary residence and naturalization provisions pending.
 - Last monitored: 2026-09-14.
 - No open watch items.

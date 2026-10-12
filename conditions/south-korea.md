@@ -12,6 +12,7 @@ sources:
   - https://eiglaw.com/south-korea-officially-launches-digital-nomad-visa
   - https://legalclarity.org/how-to-become-a-citizen-of-south-korea
 country_code: KR
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -176,6 +177,6 @@ South Korea is an East Asian peninsular nation with one of the world's strongest
 
 ## Status
 - **Fix**: content restored from git 949a1bd after SCHEMA v3 template corruption (2026-10-11)
-- **Last monitored**: 2026-09-14
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Digital Nomad (F-1-D) formally launched June 30, 2026, with eased income tiers (1–2× GNI) and 3-year max stay. D-10 job-seeking visa extended to 3 years (Oct 2025).
 - **Watch items**: F-5 points-based threshold adjustments. D-8 investor threshold changes. Super-aged society policy evolution.

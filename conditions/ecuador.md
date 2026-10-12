@@ -12,6 +12,7 @@ sources:
   - https://visa-digital-nomad.com/ecuador
   - https://www.expatfocus.com/ecuador/guide/ecuador-citizenship
 country_code: EC
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -142,6 +143,7 @@ Not a major yachting hub. Guayaquil and Manta have marinas. No special yacht/cap
 - **Rejection risk**: Low if documentation is complete.
 
 ## Status
+- **Last monitored**: 2026-10-12
 - Last change: Digital nomad visa (Rentista Trabajador Nómada) introduced June 2022 under Human Mobility Law.
 - Last monitored: 2026-09-14.
 ## Country Snapshot

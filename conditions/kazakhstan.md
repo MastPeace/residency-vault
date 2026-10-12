@@ -12,6 +12,7 @@ sources:
   - https://astanatimes.com/2026/08/262-foreign-it-specialists-receive-digital-nomad-status-in-kazakhstan
   - https://timesca.com/tag/digital-nomads
 country_code: KZ
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -64,7 +65,7 @@ Not applicable. Kazakhstan is landlocked (Caspian Sea access but limited yachtin
 Kazakhstan is a primary destination for Russian relocants: visa-free entry, no language barrier, accessible banking, EAEU membership (mutual recognition of qualifications). The 2026 pilot project tightening has made Almaty and Astana inaccessible for new residence permit applicants — this is a significant change affecting Russian relocants who typically cluster in these cities. The Digital Nomad Residency (10-year permit, no income requirement) is exceptionally generous and widely used by Russian IT professionals. ^[https://en.tengrinews.kz/article/kazakhstan-has-tightened-migration-policy-who-is-affected-200]
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: 2026 pilot project severely restricted new residence permit applications (regional restrictions, financial requirements). Digital Nomad Residency programme growing rapidly (250+ permits issued).
 - **Watch items**: Pilot project expires Dec 31, 2026 — monitor extension or permanent adoption. Track Digital Nomad Residency application success rate.
 

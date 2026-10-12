@@ -11,7 +11,7 @@ sources:
   - https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127
   - https://philippoulaw.com/articles/how-to-obtain-a-cyprus-citizenship
 country_code: CY
-last_checked: 2026-10-05
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -126,6 +126,6 @@ Cyprus is an EU member state with a strong passport but outside Schengen — a s
 - Previous citizenship-by-investment programme terminated in 2020 after scandal
 
 ## Status
-- **Last monitored**: 2026-10-05
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Non-dom dual tax residency permitted from Jan 1, 2026. Citizenship bill for foreign spouses (Sep 12, 2026) proposing reduced residence requirement from 3 years to 6 months for spouses abroad (marriage ≥5 years). Biometric card mandate from Aug 2026. **Schengen**: EC approved Cyprus's technical readiness August 2026; Council vote pending. **Medical exams**: mandatory for Immigration Permit A-F from Sep 1, 2026 (blood tests + chest X-ray, documents require legalization). **Golden Visa tightening (Oct 2026)**: Government notified parliament of plans to tighten Category F PR criteria ahead of Schengen accession — details pending.
 - **Watch items**: Track citizenship bill for foreign spouses (public consultation). Monitor biometric card transition deadlines. **Schengen accession**: European Commission approved Cyprus's technical readiness in August 2026; Council of the EU vote (unanimity required). **Golden Visa**: pending tightening — apply before new rules published. **Medical exams**: From September 1, 2026, Immigration Permit (Categories A–F) applicants must provide blood tests for Hepatitis B, C, HIV, syphilis and a chest X-ray for TB. ^[https://www.visasupdate.com/post/cyprus-medical-examinations-immigration-permits-categories-a-f-2026]

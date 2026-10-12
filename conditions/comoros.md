@@ -2,7 +2,7 @@
 title: Comoros — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
-last_checked: 2026-10-11
+last_checked: 2026-10-12
 type: entity
 tags: [citizenship, citizenship_by_investment, strong_passport, tax]
 category: strong_passport
@@ -114,6 +114,6 @@ Comoros is a small, lower-income island nation in the Indian Ocean with a Sunni-
 - Thin, unpublished residence and tax rules
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Economic Citizenship Programme suspended/disputed at various points since 2018; no confirmed reactivation.
 - **Watch items**: Any official reactivation or reform of the CBI programme; clarification of dual-nationality conflict between constitution and 1979 code.

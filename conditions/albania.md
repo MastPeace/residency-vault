@@ -12,6 +12,7 @@ sources:
   - https://wise.com/gb/blog/albania-digital-nomad-visa
   - https://www.euronews.com/travel/2026/01/10/want-to-move-to-europe-here-are-all-the-digital-nomads-visas-available-for-remote-workers
 country_code: AL
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -124,7 +125,7 @@ Albania is an up-and-coming destination, particularly among digital nomads attra
 
 ## Status
 
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Unique Permit framework in place. Albania's EU accession negotiations formally opened.
 - **Watch items**: EU accession progress. Potential formalization of a standalone digital nomad visa category separate from the Unique Permit.
 

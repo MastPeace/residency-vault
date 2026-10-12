@@ -10,6 +10,7 @@ sources:
   - https://www.seychelles.govtas.com
   - https://www.imidaily.com/seychelles-investor-pr
 country_code: SC
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -74,7 +75,7 @@ Seychelles is a major Indian Ocean yachting destination. Port Victoria (Mahé) h
 Visa-free entry for 90 days for Russian citizens. Direct flights from Moscow resumed in 2024/2025. No sanctions issues. Russian tourism has grown significantly. Banking: more limited than Mauritius. Seychelles has a notable Russian-speaking expat community.
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Workcation Retreat Program stable since launch. PR investment threshold unchanged.
 - **Watch items**: Monitor any changes to PR investment requirements.
 

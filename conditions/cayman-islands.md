@@ -12,6 +12,7 @@ sources:
   - https://www.bedellcristin.com/imported-media/2886/guide-to-residency-options-in-ci-for-persons-of-independent-means-sept-2020.pdf
   - https://www.oecd.org/content/dam/oecd/en/topics/policy-issue-focus/aeoi/cayman_tax_residency.pdf
 country_code: KY
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -188,6 +189,6 @@ The Cayman Islands is a wealthy British Overseas Territory and a top-five global
 - Hurricane exposure
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: No material change to the Independent Means thresholds in 2025–26.
 - **Watch items**: Any Pillar Two/QDMTT shift away from zero corporate tax; Global Citizen Concierge renewal.

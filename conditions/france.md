@@ -12,6 +12,7 @@ sources:
   - https://goldenharbors.com/articles/talent-passport-france
   - https://goldenharbors.com/articles/french-citizenship
 country_code: FR
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -183,6 +184,6 @@ France is Western Europe's largest country by area and the EU's second-largest e
 - Labor market rigidities and high social charges on employment
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Remote work ban under VLS-TS Visiteur confirmed (April 2026). Citizenship language bar raised to B1 (Jan 2026). ANEF digital platform fully operational for online applications.
 - **Watch items**: Monitor any introduction of a dedicated digital nomad visa. Track Talent Passport policy changes. Watch for reform of impatriate tax regime.

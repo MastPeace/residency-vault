@@ -12,6 +12,7 @@ sources:
   - https://ircc.com/business-immigration
   - https://immigration.ca/canada-start-up-visa-2026-irccs-strict-active-management-rules
 country_code: CA
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -121,7 +122,7 @@ Canada has extensive coastlines and well-developed marinas (Vancouver, Halifax, 
 Canada maintains sanctions against Russia. Visitor visa and study permit processing for RU nationals is slow but possible. Express Entry remains open — no nationality-based exclusion — but background checks are protracted. Quebec's QIIP requires French, which some RU applicants have. No ban on applications, but approval rates have declined. Significant Russian-speaking communities exist in Toronto and Vancouver.
 
 ## Status
-- **Last monitored**: 2026-09-14
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Start-Up Visa suspended (Dec 2025). Express Entry record ITAs in 2026. Bill C-3 extended citizenship by descent. IRCC stabilized admissions at 380,000/year for 2026–2028.
 - **Watch items**: New entrepreneur pilot launch date pending. CRS cutoff trends. CEC draw frequency.
 

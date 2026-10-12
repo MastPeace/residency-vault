@@ -12,6 +12,7 @@ sources:
   - https://www.globalcitizensolutions.com/uruguayan-citizenship
   - https://practiceguides.chambers.com/practice-guides/corporate-immigration-2026/uruguay
 country_code: UY
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -148,6 +149,7 @@ Not a major yachting hub. Montevideo and Punta del Este have marinas. No special
 - **Cost**: Government fees are low; legal fees moderate (lawyer recommended for residency and citizenship).
 
 ## Status
+- **Last monitored**: 2026-10-12
 - Last change: Tax Holiday 2.0 (Law 20.446, 2024) — new real estate investment threshold ~USD 2M.
 - Digital nomad permit (Decree 238/022) operative since 2023.
 - Last monitored: 2026-09-14.

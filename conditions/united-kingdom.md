@@ -12,6 +12,7 @@ sources:
   - https://www.gov.uk/indefinite-leave-to-remain
   - https://www.gov.uk/government/publications/changes-to-the-taxation-of-non-uk-domiciled-individuals
 country_code: GB
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -113,7 +114,7 @@ UK is a global maritime hub with a long coastline. Yacht registration under the 
 UK sanctions are among the world's strictest against Russian nationals. Visa processing is slow and subject to enhanced scrutiny. The Innovator Founder route is open in principle but endorsement is competitive. The Global Talent route in digital technology (Tech Nation endorsement) is accessible to genuinely exceptional individuals. Family visa minimum income requirement is a significant barrier. The UK has a sizable Russian-speaking community in London and the South East. Banking is extremely difficult for newly arrived Russian nationals.
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Tier 1 Investor closed (Feb 2022). Skilled Worker salary threshold raised to £38,700 (April 2024). Non-dom regime replaced by 4-year FIG regime (April 2025). Student dependant restrictions in force (Jan 2024). Family visa income threshold at £29,000, proposed increase to £38,700 under review.
 - **Watch items**: Monitor the proposed £38,700 family visa threshold. Track FIG regime implementation details. Watch for any replacement for the closed Tier 1 Investor.
 

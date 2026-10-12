@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Sierra_Leonean_nationality_law
   - https://citizenshiprightsafrica.org/en/region/sierra-leone
 country_code: SL
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -118,6 +119,6 @@ Sierra Leone is an English-speaking West African country on the Atlantic coast, 
 - Limited banking and financial services
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: No major immigration-policy shifts known; 1973 Citizenship Act (amended 2006/2017) remains the framework.
 - **Watch items**: Any naturalisation-period reform; digital-nomad visa in the ECOWAS region.

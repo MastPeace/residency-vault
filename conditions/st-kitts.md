@@ -10,6 +10,7 @@ sources:
   - https://ciu.gov.kn/cbi-options
   - https://ciu.gov.kn/news-why-choose-st-kitts-and-nevis-for-second-citizenship/
 country_code: KN
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -117,6 +118,7 @@ St Kitts & Nevis is the smallest sovereign state in the Western Hemisphere and o
 - Mandatory virtual/consular interview introduced per 2024 OECS MoA
 - Naturalization without CBI takes 14 years — impractical for most
 ## Status
+- **Last monitored**: 2026-10-12
 - Last change: July 2024 — investment thresholds raised per OECS Memorandum of Agreement (SISC $250K, Real Estate $325K, Private RE $600K).
 - Last monitored: 2026-09-14.
 - No open watch items.

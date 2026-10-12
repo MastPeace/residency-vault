@@ -11,6 +11,7 @@ sources:
   - https://www.eb5investors.com/eb5-basics/eb-5-visa-requirements
   - https://cis.org/Jacobs/DHS-Proposes-New-Regulation-Revise-EB5-Investor-Visa-Program
 country_code: US
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -121,7 +122,7 @@ US is a major yachting jurisdiction with extensive marinas (Florida, California,
 US sanctions and deteriorating bilateral relations make visa processing for RU nationals very difficult. The US Consulate in Moscow has suspended most visa services; applicants must travel to third countries. H-1B and EB-5 remain legally open but face enhanced scrutiny. Russian-source funds for EB-5 face enhanced source-of-funds documentation requirements. Existing RU diaspora communities in NYC, Florida, and California, but new arrivals face significant obstacles.
 
 ## Status
-- **Last monitored**: 2026-09-14
+- **Last monitored**: 2026-10-12
 - **Recent changes**: H-1B FY2027 weighted lottery favoring higher-skilled/higher-paid implemented. DHS proposed EB-5 increase (TEA $800K → $1.4M in High Employment Areas). Sept 30, 2026 EB-5 grandfathering deadline.
 - **Watch items**: EB-5 RIA regulatory implementation. H-1B cap season outcomes. Potential IER changes.
 

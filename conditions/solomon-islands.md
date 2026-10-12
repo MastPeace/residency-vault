@@ -2,7 +2,7 @@
 title: Solomon Islands — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
-last_checked: 2026-10-11
+last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, clear_pathway]
 category: clear_pathway
@@ -123,6 +123,6 @@ The Solomon Islands is a poor, aid-dependent Melanesian state with weak rule of 
 - Very low GDP per capita (~$2,600 PPP)
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: No known 2025–2026 program changes.
 - **Watch items**: Any revival of the 2020 "sell citizenship" proposal.

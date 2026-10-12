@@ -11,7 +11,7 @@ sources:
   - https://www.newcies.gov.hk/en/index.html
   - https://www.info.gov.hk/gia/general/202403/01/P2024022900797.htm
 country_code: HK
-last_checked: 2026-10-11
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -151,6 +151,6 @@ Hong Kong is a densely built global financial centre and free port on China's so
 - TTPS extension requires actual employment or a business
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes known**: CIES real-estate threshold reduced (HK$50M→HK$30M, 2025 Policy Address); TTPS extension rules require employment.
 - **Watch items**: TTPS quota/extension policy review; any QMAS re-scoping.

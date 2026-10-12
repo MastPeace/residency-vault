@@ -12,7 +12,7 @@ sources:
   - https://getgoldenvisa.com/italy-golden-visa
   - https://consperth.esteri.it/wp-content/uploads/2026/07/Digital-Nomads.pdf
 country_code: IT
-last_checked: 2026-10-05
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -181,6 +181,6 @@ Italy is a southern European country with a rich cultural heritage, the EU's thi
 - Citizenship processing backlog: 2–3 years wait common
 
 ## Status
-- **Last monitored**: 2026-10-05
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Flat tax raised from €200K to €300K (2026 Budget Law). Digital Nomad Visa fully mature (since April 2024). No Decreto Flussi reform in 2026.
 - **Watch items**: Monitor DN visa renewal practice. Track any quota relaxation for employment permits. Watch for further flat-tax adjustments.

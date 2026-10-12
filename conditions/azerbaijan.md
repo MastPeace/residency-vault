@@ -12,6 +12,7 @@ sources:
   - https://www.caspianlegalcenter.az/insights/more/residency-investment-azerbaijan
   - https://oktamam.com/en/residence-permit-in-azerbaijan
 country_code: AZ
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -120,7 +121,7 @@ Azerbaijan is not a popular expat destination outside the oil/gas sector. Those 
 
 ## Status
 
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: New requirements for residence permits introduced; digitalization of migration services ongoing.
 - **Watch items**: Potential changes to investment thresholds. Geopolitical developments with Armenia. Caspian Sea legal status resolution.
 

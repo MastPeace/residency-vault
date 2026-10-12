@@ -11,6 +11,7 @@ sources:
   - https://expressglobalemployment.com/countries/visa-work-permit-immigration-support-in-algeria
   - https://embbucharest.mfa.gov.dz
 country_code: DZ
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -111,7 +112,7 @@ Algeria has one of the most restrictive residency frameworks in the MENA region.
 Algeria is effectively closed to individual residency seekers. There are no investment, retirement, or remote-work pathways. The work visa process is employer-dependent and bureaucratic. Foreign investment (via ANDI) is possible but separates business presence from personal residency. The non-convertible currency and exchange controls create practical barriers to daily life for foreigners earning in foreign currency. Algeria is not recommended as a residency destination for global mobility purposes.
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: No significant residency reform. Investment code updated but does not address residency. Visa policy unchanged.
 - **Watch items**: Potential investment law reforms (unlikely to impact residency significantly). Dinar convertibility — no timeline.
 

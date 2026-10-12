@@ -10,6 +10,7 @@ sources:
   - https://imagrenada.gd/citizenship-by-investment
   - https://ntlinternational.com/press/grenada-cbi-regulations-2024
 country_code: GD
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -114,6 +115,7 @@ Grenada is a tri-island eastern Caribbean nation (Grenada, Carriacou, Petite Mar
 - Small population and economy; limited infrastructure
 - Hurricane risk; climate vulnerability
 ## Status
+- **Last monitored**: 2026-10-12
 - Last change: July 1, 2024 — investment thresholds raised (NTF $235K, Real Estate $270K) per OECS MoA.
 - Last monitored: 2026-09-14.
 - No open watch items.

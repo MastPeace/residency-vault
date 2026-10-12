@@ -11,6 +11,7 @@ sources:
   - https://www.belizetourismboard.org/programs-events/retirement-program
   - https://belize.com/residency-and-retirement-in-belize
 country_code: BZ
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -199,6 +200,7 @@ Belize is a small English-speaking nation on the Caribbean coast of Central Amer
 - Higher cost of living than neighbouring Central American countries (Numbeo 48.5)
 - No digital nomad visa; QRP is the only accessible long-stay route
 ## Status
+- **Last monitored**: 2026-10-12
 - Last change: QRP programme operational since 1999; income threshold unchanged at $2K/mo for many years.
 - Last monitored: 2026-09-14.
 - No open watch items.

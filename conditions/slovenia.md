@@ -11,6 +11,7 @@ sources:
   - https://www.gov.si/en/topics/citizenship
   - https://data.si/en/blog/start-business-in-slovenia-open-a-company-get-residency
 country_code: SI
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -130,6 +131,6 @@ Slovenia is an EU/Schengen/Eurozone member at the crossroads of the Alps, the Me
 - High top marginal tax rate (50%) for high earners; social contributions add ~22%
 
 ## Status
-- **Last monitored**: 2026-09-13
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Digital Nomad residence permit launched November 21, 2025. New program — limited track record.
 - **Watch items**: Monitor DN permit uptake and processing practice. Track any policy refinements.

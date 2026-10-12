@@ -11,6 +11,7 @@ sources:
   - https://www.immigration.govt.nz/about-us/news-centre/final-details-about-changes-to-the-skilled-migrant-category-resident-visa-and-work-to-residence-visa
   - https://nzimmigration.info/dual-citizenship-nz-complete-guide
 country_code: NZ
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -122,7 +123,7 @@ New Zealand is a world-renowned yachting destination (Bay of Islands, Auckland �
 New Zealand imposed sanctions on Russia in 2022. Visa processing for Russian nationals is possible but subject to enhanced scrutiny and longer timelines. The skilled migrant pathway remains formally open — nationality is not a statutory bar. Small Russian-speaking community in Auckland and Christchurch. Active Investor Plus is theoretically open but source-of-funds verification is stringent.
 
 ## Status
-- **Last monitored**: 2026-09-14
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Major SMC reform efective August 24, 2026 — two new pathways (Skilled Work Experience, Trades & Technician), extra points for NZ qualifications, more points for overseas bachelor's degrees, wage threshold grace periods.
 - **Watch items**: SMC draw outcomes under the new system. Active Investor Plus uptake.
 

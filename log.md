@@ -103,3 +103,14 @@
 - Unchanged (6): armenia (×2), cyprus (×2), georgia (×2) — all already in DB.
 - Discovery: 36 countries seen, 2 not in regions.yaml: china, india.
 - Alert written: alerts/2026-09-28.md
+
+## [2026-10-12] update | Weekly monitor (v5 two-tier) — 163 screened → 34 flagged → 3 analyzed → 2 pages updated
+- Screening: 163 registry countries screened in 9 batches; 34 flagged needs_update (20.9%), 129 no_change stamped.
+- Deep collection: 34 flagged countries → 618 raw items (102 with full-text extract); 10 watchlist countries passed to analyzer.
+- Analyzer (deepseek-v4-pro): 3 items from 3 countries (armenia, greece, uae). Validated OK.
+- Changed (2):
+  - greece.md: Golden Visa demand shift Jan–Aug 2026 — applications −44% YoY, issued permits +10%, foreign property investment >€1B H1 2026. Source: agentnews.gr.
+  - uae.md: Dubai extended 10-year Golden Visas to outstanding private-school teachers (World Teachers' Day, ~835 applications since Oct 2024 launch); added educators to Exceptional Talent conditions. Source: iranianuae.ae.
+- Unchanged (1): armenia.md — Nov 1, 2026 reform (quotas, financial thresholds, online submission) already in DB from prior week; anti-duplicate, no edit.
+- Discovery: 37 countries seen, 0 new (all in registry).
+- Alert written: alerts/2026-10-12.md

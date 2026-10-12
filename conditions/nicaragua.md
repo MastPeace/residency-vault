@@ -10,6 +10,7 @@ sources:
   - https://www.liveandinvestoverseas.com/country-hub/nicaragua/nicaragua-visa-and-residency-information
   - https://consortiumlegal.com/en/2025/07/29/immigration-reform-in-nicaragua-changes-of-interest-for-2024
 country_code: NI
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -134,6 +135,7 @@ Nicaragua is the largest country in Central America by area, with both Caribbean
 - No digital nomad visa; rentista requires age 45+
 - Healthcare quality poor; medical evacuation may be needed
 ## Status
+- **Last monitored**: 2026-10-12
 - Last change: November 2024 — Law No. 1228 (Immigration Reform): pensionado/rentista → temporary only; permanent residence pathway via 3 consecutive years eliminated; naturalization extended to 7 years; Law No. 694 (tax benefits) repealed.
 - Last monitored: 2026-09-14.
 - Open watch: monitor implementation of reform; evaluate whether programme remains viable or becomes increasingly restrictive.

@@ -12,6 +12,7 @@ sources:
   - https://goldenharbors.com/articles/paraguay-residency-citizenship
   - https://residencies.io/residency/paraguay/permanent-residency/py1
 country_code: PY
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -141,6 +142,7 @@ Paraguay is landlocked but is a major flag state for commercial river vessels (P
 - **Warning**: Naturalization still requires genuine presence/arraigo — the "1 visit every 3 years" residency-maintenance rule does NOT satisfy the citizenship clock.
 
 ## Status
+- **Last monitored**: 2026-10-12
 - Last change: Investor Pass (Resolución 0283/2026) codified the four investment tracks and direct PR.
 - Residency demand surge: ~47,000 applications in 2025 (projected 80,000 in 2026).
 - Last monitored: 2026-09-14.

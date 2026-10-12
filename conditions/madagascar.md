@@ -11,6 +11,7 @@ sources:
   - https://expatsi.com/visas/madagascar/investor-visa
   - https://investmentpolicy.unctad.org/investment-laws/laws/367/madagascar-madagascar-investment-law-2023
 country_code: MG
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -120,6 +121,6 @@ Madagascar is a large, biodiverse island nation in the Indian Ocean, famed for u
 - Very low median incomes
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: 2023 Investment Law (Ch. IV on visas/employment permits) is the current framework.
 - **Watch items**: Any digital-nomad visa; dual-citizenship reform; EDBM permit processing.

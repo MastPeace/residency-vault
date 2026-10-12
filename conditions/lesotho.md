@@ -10,6 +10,7 @@ sources:
   - https://data.worldbank.org/country/LS
   - https://freedomhouse.org/country/lesotho/freedom-world/2025
 country_code: LS
+last_checked: 2026-10-12
 ---
 
 ## Overview
@@ -121,6 +122,6 @@ Lesotho is a high-altitude, landlocked kingdom entirely surrounded by South Afri
 - Dual citizenship not generally permitted (under revision)
 
 ## Status
-- **Last monitored**: 2026-10-11
+- **Last monitored**: 2026-10-12
 - **Recent changes**: Immigration and Citizenship Bill (2018) pending full enactment. Political instability (parliamentary reforms ongoing).
 - **Watch items**: Citizenship Bill enactment. Dual citizenship reform. Political stability.
