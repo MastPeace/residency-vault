@@ -12,7 +12,7 @@ Overview-level, source-cited, continuously monitored reference for residency and
 - [x] "Overview information only, not advice" notice on every page + footer
 - [x] Technical SEO: canonical, Open Graph, sitemap.xml, robots.txt
 - [ ] Extended Snapshot for all 163 countries (cron `extended-snapshot-batch`, ~1 day)
-- [ ] Disclaimer in the Telegram bot (welcome message, /start and every quiz result)
+- [x] Disclaimer in the Telegram bot (all answers, /start, /subscribe, Stars invoices); channel digest posts and bot profile description still to cover
 
 ## Stage 1 — Be findable (traffic is currently ~0)
 - [ ] Register the site in Google Search Console and Bing Webmaster Tools, submit `sitemap.xml` (owner action: needs the Google account)
