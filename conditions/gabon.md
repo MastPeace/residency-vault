@@ -2,6 +2,7 @@
 title: Gabon — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, employment_residency, tax]
@@ -87,6 +88,68 @@ Very little expat-residency activity outside the oil and mining sectors. No digi
 | Freedom House score | 21/100 — Not Free (2025) | [Freedom House](https://freedomhouse.org/country/gabon/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~1,800 h (Libreville) | [Weather & Climate](https://weather-and-climate.com/average-monthly-hours-Sunshine,Libreville,Gabon) — hard/official |
 | Average annual temperature | ~26 °C (Libreville, equatorial) | [Weather & Climate](https://weather-and-climate.com/average-monthly-hours-Sunshine,Libreville,Gabon) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 47/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 267 670 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=GA) — hard/official |
+| Geography & size | Population density | 10 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=GA) — hard/official |
+| Geography & size | Urban population | 92% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=GA) — hard/official |
+| Geography & size | Coastline | 885 km (CIA World Factbook) | [source](https://en.wikipedia.org/wiki/Geography_of_Gabon) — soft/estimate |
+| Geography & size | Highest point | Mont Iboundji, 1,575 m | [source](https://en.wikipedia.org/wiki/Geography_of_Gabon) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Gabon) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (WAT), Moscow -2h | [source](https://en.wikipedia.org/wiki/Gabon) — soft/estimate |
+| Climate | Avg precipitation | 1831 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=GA) — hard/official |
+| Climate | PM2.5 exposure | 31.3 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=GA) — hard/official |
+| Climate | Climate zone | Am/Aw (tropical monsoon/savanna) | [source](https://www.weather-atlas.com/en/gabon/libreville-climate) — soft/estimate |
+| Climate | Temp winter / summer | Libreville: Jan 27°C, Jul 24°C avg | [source](https://www.weather-atlas.com/en/gabon/libreville-climate) — soft/estimate |
+| Climate | Rainy days | Libreville: ~150 rainy days/year | [source](https://www.weather-atlas.com/en/gabon/libreville-climate) — soft/estimate |
+| Climate | Humidity | ~85% annual avg (Libreville) | [source](https://www.weather-atlas.com/en/gabon/libreville-climate) — soft/estimate |
+| Climate | Natural hazards | Flooding, coastal erosion | [source](https://en.wikipedia.org/wiki/Geography_of_Gabon) — soft/estimate |
+| Climate | Air quality | PM2.5 ~28 µg/m³ (2024 IQAir est.) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $21.4B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GA) — hard/official |
+| Economy | GDP growth | 2.5% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=GA) — hard/official |
+| Economy | Inflation (CPI) | 1.8% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=GA) — hard/official |
+| Economy | Unemployment | 20.2% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=GA) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | No reliable data | — |
+| Economy | Credit rating | Fitch CCC- (Dec 2025); not rated by S&P/Moody's | [source](https://www.fitchratings.com/research/sovereigns/fitch-downgrades-gabon-ltfc-idr-to-ccc-ltlc-idr-to-cc-19-12-2025) — hard/official |
+| Economy | Currency | XAF (CFA franc), pegged to EUR at 655.957 | [source](https://en.wikipedia.org/wiki/Central_African_CFA_franc) — soft/estimate |
+| Economy | Top industries | Oil & gas, mining (manganese), timber | [source](https://www.britannica.com/place/Gabon) — soft/estimate |
+| Economy | Economic Complexity | ECI rank ~116 (OEC 2022) | [source](https://oec.world/en/profile/country/gab) — hard/official |
+| Technology | Internet users | 69% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=GA) — hard/official |
+| Technology | Fixed broadband subs | 4.7 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=GA) — hard/official |
+| Technology | High-tech exports | 1.8% of manufactured exports (2023) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=GA) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | Not in top 132 (GII 2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.5741, rank 121/193 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/62-Gabon) — hard/official |
+| Technology | Median broadband speed | ~12 Mbps median fixed broadband (2024 est.) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | Limited; Africell launched 5G in Libreville 2024 | [source](https://en.wikipedia.org/wiki/Gabon_Telecom) — soft/estimate |
+| Technology | Online payments | Stripe: not available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink: not in top 100 | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 68.5 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=GA) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | 0.693, rank 123/193 (2022) | [source](https://countryeconomy.com/hdi/gabon) — soft/estimate |
+| Safety | Global Peace Index | 2.372, rank 118/163 (2024) | [source](https://countryeconomy.com/demography/global-peace-index/gabon) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 2 (Mar 2026) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax exists; capital gains taxed as income | [source](https://taxsummaries.pwc.com/gabon) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules | [source](https://taxsummaries.pwc.com/gabon) — soft/estimate |
+| Business | Company setup | ~10 days, cost ~15% GNI per capita (World Bank Doing Business) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/gabon) — soft/estimate |
+| Business | Corporate tax | 30% (35% for oil/gas/mining) | [source](https://taxsummaries.pwc.com/gabon) — soft/estimate |
+| Family & education | Top university | Université Omar Bongo; not QS ranked | [source](https://www.topuniversities.com/) — soft/estimate |
+| Connectivity | Visa-free for Russians | eVisa required (e-visa launched 2023); source: 2025 | [source](https://en.wikipedia.org/wiki/Visa_policy_of_Gabon) — soft/estimate |
+| For Russian citizens | Sanctions position | Gabon voted for UN resolutions condemning Russia's invasion (2022-2024) | [source](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_ES-11/1) — soft/estimate |
+| Quality of life | World Happiness rank | 5.167, rank 96/147 (2025) | [source](https://countryeconomy.com/demography/world-happiness-index/gabon) — soft/estimate |
+| Quality of life | Expat friendliness | Not listed in InterNations Expat Insider | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI: no data; French is official language, English not widely spoken | [source](https://www.ef.edu/epi/) — soft/estimate |
 
 ## Country Card
 

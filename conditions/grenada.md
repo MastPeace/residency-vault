@@ -2,6 +2,7 @@
 title: Grenada — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [citizenship, citizenship_by_investment, cbi, strong_passport, tax]
 category: strong_passport
@@ -93,6 +94,68 @@ Grenada operates an international ship registry. Yacht registration available. S
 | Freedom House score | 89/100 (Free) | [Freedom House](https://freedomhouse.org/country/grenada/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,800 h | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Grenada#Climate) — hard/official |
 | Average annual temperature | ~27 °C | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Grenada#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 344 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=GD) — hard/official |
+| Geography & size | Population density | 341 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=GD) — hard/official |
+| Geography & size | Urban population | 37% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=GD) — hard/official |
+| Geography & size | Coastline | 121 km | [source](https://en.wikipedia.org/wiki/Geography_of_Grenada) — soft/estimate |
+| Geography & size | Highest point | Mount Saint Catherine, 840 m | [source](https://en.wikipedia.org/wiki/Geography_of_Grenada) — soft/estimate |
+| Geography & size | Type | island (archipelago with 6 smaller islands) | [source](https://en.wikipedia.org/wiki/Grenada) — soft/estimate |
+| Geography & size | Time zone | UTC-4 (AST), Moscow -7h | [source](https://en.wikipedia.org/wiki/Grenada) — soft/estimate |
+| Climate | Avg precipitation | 2350 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=GD) — hard/official |
+| Climate | PM2.5 exposure | 11.0 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=GD) — hard/official |
+| Climate | Climate zone | Aw (tropical savanna) | [source](https://weathersweep.com/countries/grenada/climate) — soft/estimate |
+| Climate | Temp winter / summer | St George's: ~26-28°C year-round | [source](https://www.weather-atlas.com/en/grenada/saint-georges-climate) — soft/estimate |
+| Climate | Rainy days | St George's: ~140 rainy days/year | [source](https://www.weather-atlas.com/en/grenada/saint-georges-climate) — soft/estimate |
+| Climate | Humidity | ~78% annual avg | [source](https://www.weather-atlas.com/en/grenada/saint-georges-climate) — soft/estimate |
+| Climate | Natural hazards | Hurricanes, tropical storms; INFORM risk: low | [source](https://drmkc.jrc.ec.europa.eu/inform-index/) — hard/official |
+| Climate | Air quality | PM2.5 ~10 µg/m³ (2024 IQAir est.) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $1.4B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GD) — hard/official |
+| Economy | GDP growth | 4.4% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=GD) — hard/official |
+| Economy | Inflation (CPI) | 0.6% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=GD) — hard/official |
+| Economy | Unemployment | No reliable data | — |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 43.8 (2018) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=GD) — hard/official |
+| Economy | Tourism receipts | 88% of exports (2018) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=GD) — hard/official |
+| Economy | Remittances | 3.3% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=GD) — hard/official |
+| Economy | Credit rating | Not rated by S&P, Moody's, or Fitch | [source](https://www.fitchratings.com/) — hard/official |
+| Economy | Currency | XCD (East Caribbean dollar), pegged to USD at 2.70 | [source](https://www.eccb-centralbank.org/currency) — soft/estimate |
+| Economy | Top industries | Tourism, agriculture (nutmeg, cocoa), education services | [source](https://www.gov.gd/econdev) — soft/estimate |
+| Economy | Economic Complexity | ECI rank ~150 (OEC 2022) | [source](https://oec.world/en/profile/country/grd) — hard/official |
+| Technology | Internet users | 70% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=GD) — hard/official |
+| Technology | Fixed broadband subs | 29.8 per 100 people (2022) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=GD) — hard/official |
+| Technology | High-tech exports | 6.4% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=GD) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | Not in top 132 (GII 2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.6458, rank 104/193 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/68-Grenada) — hard/official |
+| Technology | Median broadband speed | ~30 Mbps median fixed broadband (2024 est.) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G launched by Digicel (2023), limited coverage | [source](https://www.gsma.com/) — soft/estimate |
+| Technology | Online payments | Stripe: not available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink: not in top 100 | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 75.4 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=GD) — hard/official |
+| Human development & health | Hospital beds | 3.0 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=GD) — hard/official |
+| Human development & health | HDI | 0.793, rank 73/193 (2022) | [source](https://countryeconomy.com/hdi/grenada) — soft/estimate |
+| Safety | Global Peace Index | Not ranked in GPI 2024 | [source](https://www.visionofhumanity.org/) — hard/official |
+| Safety | US travel advisory | US State Dept Level 1: exercise normal precautions | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/grenada-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains tax 0% (no CGT) | [source](https://taxsummaries.pwc.com/grenada) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules | [source](https://taxsummaries.pwc.com/grenada) — soft/estimate |
+| Business | Company setup | ~10 days, cost ~$200-500 | [source](https://www.doingbusiness.org/) — soft/estimate |
+| Business | Corporate tax | 28% (standard rate) | [source](https://taxfoundation.org/data/all/global/corporate-tax-rates-by-country-2025/) — soft/estimate |
+| Family & education | Top university | St. George's University (SGU); not in QS World Rankings | [source](https://edurank.org/uni/st-george-s-university/rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free for up to 90 days (2025) | [source](https://www.entryconditions.com/russia/grenada) — soft/estimate |
+| For Russian citizens | Sanctions position | Grenada voted for UN resolutions condemning Russia's invasion (2022) | [source](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_ES-11/1) — soft/estimate |
+| Quality of life | World Happiness rank | Not ranked in World Happiness Report 2025 | [source](https://worldhappiness.report/) — hard/official |
+| Quality of life | Expat friendliness | Not listed in InterNations Expat Insider | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI: no data; English is official language and widely spoken | unsourced/unverified |
 
 ## Country Card
 

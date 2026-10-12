@@ -2,6 +2,7 @@
 title: Greece — Greece
 created: 2026-09-13
 updated: 2026-10-12
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, golden-visa, digital-nomad, popular_ru, clear_pathway]
 category: clear_pathway
@@ -113,6 +114,68 @@ Greece's Golden Visa was extremely popular with Russian investors before 2022. C
 | Freedom House score | 85/100 Free | ^[https://freedomhouse.org/country/greece/freedom-world/2025] hard/official |
 | Average annual sunshine hours | 2,771 (Athens) | ^[https://en.wikipedia.org/wiki/List_of_cities_in_Europe_by_sunshine_duration] hard/official |
 | Average annual temperature | ~17.8°C (Athens) | ^[https://en.wikipedia.org/wiki/Athens#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 131 960 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=GR) — hard/official |
+| Geography & size | Population density | 81 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=GR) — hard/official |
+| Geography & size | Urban population | 79% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=GR) — hard/official |
+| Geography & size | Coastline | 13,676 km | [source](https://en.wikipedia.org/wiki/Geography_of_Greece) — soft/estimate |
+| Geography & size | Highest point | Mount Olympus, 2,917 m | [source](https://en.wikipedia.org/wiki/Geography_of_Greece) — soft/estimate |
+| Geography & size | Type | mainland with archipelago (~3,000 islands) | [source](https://en.wikipedia.org/wiki/Greece) — soft/estimate |
+| Geography & size | Time zone | UTC+2/UTC+3 (EET/EEST), Moscow -1h/0h | [source](https://en.wikipedia.org/wiki/Greece) — soft/estimate |
+| Climate | Avg precipitation | 652 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=GR) — hard/official |
+| Climate | PM2.5 exposure | 14.1 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=GR) — hard/official |
+| Climate | Climate zone | Csa/BSk (Mediterranean/hot semi-arid) | [source](https://en.climate-data.org/europe/greece/attica/athens-7/) — soft/estimate |
+| Climate | Temp winter / summer | Athens: Jan 8.2°C, Jul 27.7°C avg | [source](https://en.climate-data.org/europe/greece/attica/athens-7/) — soft/estimate |
+| Climate | Rainy days | Athens: ~50 rainy days/year | [source](https://en.climate-data.org/europe/greece/attica/athens-7/) — soft/estimate |
+| Climate | Humidity | ~61% annual avg (Athens) | [source](https://en.climate-data.org/europe/greece/attica/athens-7/) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, wildfires; World Risk Index: low (rank 78/193) | [source](https://weltrisikobericht.de/) — soft/estimate |
+| Climate | Air quality | PM2.5 ~13 µg/m³ (2024 IQAir) | unsourced/unverified |
+| Economy | GDP (nominal) | $280.6B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GR) — hard/official |
+| Economy | GDP growth | 2.1% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=GR) — hard/official |
+| Economy | Inflation (CPI) | 2.5% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=GR) — hard/official |
+| Economy | Unemployment | 8.5% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=GR) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 33.4 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=GR) — hard/official |
+| Economy | Tourism receipts | 10% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=GR) — hard/official |
+| Economy | Remittances | 0.2% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=GR) — hard/official |
+| Economy | Credit rating | Fitch BBB / S&P BBB- / Moody's Ba1 (2025) | [source](https://www.fitchratings.com/research/sovereigns/fitch-upgrades-greece-to-bbb-outlook-stable-14-11-2025) — hard/official |
+| Economy | Currency | EUR, floating, ~5% depreciation vs USD 2020-2025 | [source](https://www.ecb.europa.eu/) — hard/official |
+| Economy | Top industries | Tourism (~13% GDP), shipping, agriculture | [source](https://money-tourism.gr/en/insete-tourism-is-the-main-pillar-of-the-greek-economy-with-a-13-contribution-to-gdp) — soft/estimate |
+| Economy | Economic Complexity | ECI rank ~50 (OEC 2023) | [source](https://oec.world/en/country-rankings/hs17/2023/complexity) — hard/official |
+| Technology | Internet users | 86% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=GR) — hard/official |
+| Technology | Fixed broadband subs | 44.7 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=GR) — hard/official |
+| Technology | High-tech exports | 15.0% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=GR) — hard/official |
+| Technology | R&D spend | 1.49% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=GR) — hard/official |
+| Technology | Global Innovation Index | Rank 45/133 (GII 2024) | [source](https://www.wipo.int/gii-ranking/en/greece) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.8674, rank 36/193 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/67-Greece) — hard/official |
+| Technology | Median broadband speed | ~55 Mbps median fixed broadband (2025) | unsourced/unverified |
+| Technology | 5G | ~90% population coverage (2025) | [source](https://digital-strategy.ec.europa.eu/en/policies/digital-connectivity-greece) — hard/official |
+| Technology | Online payments | Stripe: available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink: rank ~40 globally (2024) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 81.8 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=GR) — hard/official |
+| Human development & health | Hospital beds | 4.3 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=GR) — hard/official |
+| Human development & health | HDI | 0.893, rank 33/193 (2022) | [source](https://countryeconomy.com/hdi/greece) — soft/estimate |
+| Safety | Global Peace Index | 1.793, rank 40/163 (2024) | [source](https://countryeconomy.com/demography/global-peace-index/greece) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 1: exercise normal precautions | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Greece.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 1-40%; capital gains 15% (shares), 0-15% (real estate) | [source](https://minfin.gov.gr/en/tax-policy/tax-guide/capital-taxation) — hard/official |
+| Money & tax | CFC rules | Yes, CFC rules apply (ATAD implementation, Law 5100/2024) | unsourced/unverified |
+| Business | Company setup | ~4 days, cost ~€100-500 depending on entity type | unsourced/unverified |
+| Business | Corporate tax | 22% (standard rate) | [source](https://taxsummaries.pwc.com/greece/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | National and Kapodistrian University of Athens, QS rank ~400 (2025) | [source](https://edurank.org/geo/gr) — soft/estimate |
+| Connectivity | Visa-free for Russians | Schengen visa required; restricted processing for Russians (2025) | [source](https://ru-gr.gvcworld.eu/en/visa-info-official) — soft/estimate |
+| For Russian citizens | Sanctions position | Greece enforces EU sanctions against Russia (2025) | [source](https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/21st-package-of-sanctions-eu-hits-russian-energy-financial-services-and-crypto-hard/) — hard/official |
+| Quality of life | World Happiness rank | 5.697, rank 85/147 (2025) | [source](https://countryeconomy.com/demography/world-happiness-index/greece) — soft/estimate |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank 35/53 | [source](https://www.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 20, score 592 (high proficiency); English spoken in tourism/urban | [source](https://www.ef.edu/epi/regions/europe/greece) — soft/estimate |
 
 ## Country Card
 

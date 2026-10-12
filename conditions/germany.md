@@ -2,6 +2,7 @@
 title: Germany — Residency & Citizenship Conditions
 created: 2026-09-13
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, blue-card, opportunity-card, skilled-worker, strong_passport]
 category: strong_passport
@@ -162,6 +163,68 @@ Germany's immigration system is overwhelmingly employment-oriented: the EU Blue 
 | Freedom House score | 95/100 (Free) | [Freedom House](https://freedomhouse.org/country/germany/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | 1,625 h (Berlin) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~9 °C | [Wikipedia / DWD](https://en.wikipedia.org/wiki/Germany#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 357 680 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=DE) — hard/official |
+| Geography & size | Population density | 239 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=DE) — hard/official |
+| Geography & size | Urban population | 82% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=DE) — hard/official |
+| Geography & size | Coastline | 2,389 km | [source](https://en.wikipedia.org/wiki/Geography_of_Germany) — soft/estimate |
+| Geography & size | Highest point | Zugspitze, 2,962 m | [source](https://en.wikipedia.org/wiki/Geography_of_Germany) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Germany) — soft/estimate |
+| Geography & size | Time zone | UTC+1/UTC+2 (CET/CEST), Moscow -2h/-1h | [source](https://en.wikipedia.org/wiki/Germany) — soft/estimate |
+| Climate | Avg precipitation | 700 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=DE) — hard/official |
+| Climate | PM2.5 exposure | 8.8 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=DE) — hard/official |
+| Climate | Climate zone | Cfb/Dfb (temperate oceanic/continental) | [source](https://en.climate-data.org/europe/germany/berlin-439/) — soft/estimate |
+| Climate | Temp winter / summer | Berlin: Jan 0.5°C, Jul 19°C avg | [source](https://en.climate-data.org/europe/germany/berlin-439/) — soft/estimate |
+| Climate | Rainy days | Berlin: ~160 rainy days/year | [source](https://en.climate-data.org/europe/germany/berlin-439/) — soft/estimate |
+| Climate | Humidity | ~78% annual avg (Berlin) | [source](https://en.climate-data.org/europe/germany/berlin-439/) — soft/estimate |
+| Climate | Natural hazards | Flooding, storms; World Risk Index: very low (rank 146/193) | [source](https://weltrisikobericht.de/) — soft/estimate |
+| Climate | Air quality | PM2.5 ~9.2 µg/m³ (2024 IQAir) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $5.1T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DE) — hard/official |
+| Economy | GDP growth | 0.2% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=DE) — hard/official |
+| Economy | Inflation (CPI) | 2.2% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=DE) — hard/official |
+| Economy | Unemployment | 3.7% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=DE) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 33.7 (2022) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=DE) — hard/official |
+| Economy | Tourism receipts | 3% of exports (2019) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=DE) — hard/official |
+| Economy | Remittances | 0.5% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=DE) — hard/official |
+| Economy | Credit rating | Fitch AAA / S&P AAA / Moody's Aaa (2025) | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-germany-at-aaa-outlook-stable-28-02-2025) — hard/official |
+| Economy | Currency | EUR, floating, ~5% depreciation vs USD 2020-2025 | [source](https://www.ecb.europa.eu/) — hard/official |
+| Economy | Top industries | Automotive, machinery, chemicals | [source](https://www.oecd.org/en/publications/oecd-economic-surveys-germany-2025_39d62aed-en.html) — hard/official |
+| Economy | Economic Complexity | ECI rank 5 (OEC 2023) | [source](https://oec.world/en/country-rankings/hs17/2023/complexity) — hard/official |
+| Technology | Internet users | 93% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=DE) — hard/official |
+| Technology | Fixed broadband subs | 45.6 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=DE) — hard/official |
+| Technology | High-tech exports | 18.0% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=DE) — hard/official |
+| Technology | R&D spend | 3.15% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=DE) — hard/official |
+| Technology | Global Innovation Index | Rank 9/133 (GII 2024) | [source](https://www.wipo.int/gii-ranking/en/germany) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.9382, rank 12/193 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/65-Germany) — hard/official |
+| Technology | Median broadband speed | ~95 Mbps median fixed broadband (2025) | [source](https://www.ookla.com/articles/germany-fixed-2026) — hard/official |
+| Technology | 5G | ~92% population coverage (2025) | [source](https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/EN/2025/20251215_5G.html) — soft/estimate |
+| Technology | Online payments | Stripe: available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink: rank 6 globally (2024) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 80.8 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=DE) — hard/official |
+| Human development & health | Hospital beds | 7.5 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=DE) — hard/official |
+| Human development & health | HDI | 0.950, rank 7/193 (2022) | [source](https://countryeconomy.com/hdi/germany) — soft/estimate |
+| Safety | Global Peace Index | 1.542, rank 20/163 (2024) | [source](https://countryeconomy.com/demography/global-peace-index/germany) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 1: exercise normal precautions | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Germany.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 7-50%; capital gains tax 25% + solidarity surcharge | [source](https://taxsummaries.pwc.com/germany/individual/other-taxes) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply (ATAD implementation) | [source](https://taxsummaries.pwc.com/germany) — soft/estimate |
+| Business | Company setup | ~8 days, cost ~€400 (GmbH registration) | [source](https://www.healyconsultants.com/germany-company-registration/fees-timelines) — soft/estimate |
+| Business | Corporate tax | ~30% combined (CIT 15.825% + trade tax 8.75-20.3%) | [source](https://taxsummaries.pwc.com/germany) — soft/estimate |
+| Family & education | Top university | Technical University of Munich (TUM), QS rank 28 (2025) | [source](https://www.tum.de/en/news-and-events/all-news/press-releases/details/tum-ranks-28th-worldwide) — soft/estimate |
+| Connectivity | Visa-free for Russians | Schengen visa required; biometric passport mandatory from Jan 2026 | [source](https://www.visametric.com/Russia/Germany/en/news/news_details/s-01-01-2026-dlya-vezda-grazhdanam-rf-potrebuetsya-biometricheskiy-zagranichnyy-passport-eng/245) — soft/estimate |
+| For Russian citizens | Sanctions position | Germany enforces EU sanctions against Russia; strong supporter of sanctions | [source](https://ec.europa.eu/commission/presscorner/api/files/document/print/en/statement_25_2138/STATEMENT_25_2138_EN.pdf) — hard/official |
+| Quality of life | World Happiness rank | 6.882, rank 17/147 (2025) | [source](https://countryeconomy.com/demography/world-happiness-index/germany) — soft/estimate |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank 49/53 | [source](https://www.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 4, score 615 (very high proficiency); English widely spoken in business | [source](https://www.ef.edu/epi/regions/europe/germany/) — soft/estimate |
 
 ## Country Card
 

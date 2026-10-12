@@ -2,6 +2,7 @@
 title: Gambia - Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax]
 category: clear_pathway
@@ -104,6 +105,68 @@ The Gambia has a modest expat community centered on tourism, NGOs, and diplomacy
 | Freedom House score | 50/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/gambia/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~3,000 h (Banjul) | [Climate-data.org](https://en.climate-data.org) — hard/official |
 | Average annual temperature | ~26 C (Banjul; tropical) | [Wikipedia](https://en.wikipedia.org/wiki/The_Gambia#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 11 295 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=GM) — hard/official |
+| Geography & size | Population density | 273 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=GM) — hard/official |
+| Geography & size | Urban population | 65% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=GM) — hard/official |
+| Geography & size | Coastline | 80 km | [source](https://en.wikipedia.org/wiki/Geography_of_the_Gambia) — soft/estimate |
+| Geography & size | Highest point | Red Rock, 53 m | [source](https://en.wikipedia.org/wiki/Geography_of_the_Gambia) — soft/estimate |
+| Geography & size | Type | mainland (narrow enclave along Gambia River) | [source](https://en.wikipedia.org/wiki/The_Gambia) — soft/estimate |
+| Geography & size | Time zone | UTC+0 (GMT), Moscow -3h | [source](https://en.wikipedia.org/wiki/The_Gambia) — soft/estimate |
+| Climate | Avg precipitation | 836 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=GM) — hard/official |
+| Climate | PM2.5 exposure | 38.3 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=GM) — hard/official |
+| Climate | Climate zone | Aw (tropical savanna) | [source](https://www.weather-atlas.com/en/the-gambia/banjul-climate) — soft/estimate |
+| Climate | Temp winter / summer | Banjul: Jan 25°C, Jul 27.6°C avg | [source](https://www.climatestotravel.com/climate/gambia/banjul) — soft/estimate |
+| Climate | Rainy days | Banjul: ~60 rainy days/year | [source](https://www.climatestotravel.com/climate/gambia/banjul) — soft/estimate |
+| Climate | Humidity | ~65% annual avg (Banjul) | [source](https://www.climatestotravel.com/climate/gambia/banjul) — soft/estimate |
+| Climate | Natural hazards | Drought, flooding, coastal erosion | [source](https://en.wikipedia.org/wiki/Geography_of_the_Gambia) — soft/estimate |
+| Climate | Air quality | PM2.5 ~35 µg/m³ (2024 IQAir est.) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $2.6B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GM) — hard/official |
+| Economy | GDP growth | 5.9% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=GM) — hard/official |
+| Economy | Inflation (CPI) | 11.6% (2024) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=GM) — hard/official |
+| Economy | Unemployment | 6.5% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=GM) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 38.8 (2020) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=GM) — hard/official |
+| Economy | Tourism receipts | 30% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=GM) — hard/official |
+| Economy | Remittances | 23.8% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=GM) — hard/official |
+| Economy | Credit rating | Not rated by S&P, Moody's, or Fitch | [source](https://www.fitchratings.com/) — hard/official |
+| Economy | Currency | GMD (dalasi), floating, ~40% depreciation vs USD 2020-2025 | [source](https://wise.com/us/currency-converter/gmd-to-usd-rate/history) — soft/estimate |
+| Economy | Top industries | Agriculture, tourism, remittances | [source](https://en.wikipedia.org/wiki/Economy_of_The_Gambia) — soft/estimate |
+| Economy | Economic Complexity | ECI rank ~140 (OEC 2022) | [source](https://oec.world/en/profile/country/gmb) — hard/official |
+| Technology | Internet users | 49% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=GM) — hard/official |
+| Technology | Fixed broadband subs | 0.5 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=GM) — hard/official |
+| Technology | High-tech exports | 3.3% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=GM) — hard/official |
+| Technology | R&D spend | 0.07% of GDP (2018) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=GM) — hard/official |
+| Technology | Global Innovation Index | Not in top 132 (GII 2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.2552, rank 181/193 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/63-Gambia) — hard/official |
+| Technology | Median broadband speed | ~8 Mbps median fixed broadband (2024 est.) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | No 5G service | [source](https://www.gsma.com/) — soft/estimate |
+| Technology | Online payments | Stripe: not available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink: not in top 100 | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 66.1 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=GM) — hard/official |
+| Human development & health | Hospital beds | 1.1 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=GM) — hard/official |
+| Human development & health | HDI | 0.495, rank 174/193 (2022) | [source](https://countryeconomy.com/hdi/gambia) — soft/estimate |
+| Safety | Global Peace Index | 2.079, rank 83/163 (2024) | [source](https://countryeconomy.com/demography/global-peace-index/gambia) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 2: exercise increased caution | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains tax 15% | [source](https://taxsummaries.pwc.com/gambia) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules | [source](https://taxsummaries.pwc.com/gambia) — soft/estimate |
+| Business | Company setup | ~25 days, cost ~120% GNI per capita | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/gambia) — soft/estimate |
+| Business | Corporate tax | 27% (standard rate) | [source](https://taxfoundation.org/data/all/global/corporate-tax-rates-by-country-2025/) — soft/estimate |
+| Family & education | Top university | University of The Gambia; not QS ranked | [source](https://www.topuniversities.com/universities/university-gambia) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free for up to 90 days (2025) | [source](https://www.entryconditions.com/russia/gambia) — soft/estimate |
+| For Russian citizens | Sanctions position | Gambia voted for UN resolutions condemning Russia's invasion (2022) | [source](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_ES-11/1) — soft/estimate |
+| Quality of life | World Happiness rank | 4.306, rank 128/147 (2025) | [source](https://countryeconomy.com/demography/world-happiness-index) — soft/estimate |
+| Quality of life | Expat friendliness | Not listed in InterNations Expat Insider | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI: no data; English is official language and widely spoken | [source](https://www.ef.edu/epi/) — soft/estimate |
 
 ## Country Card
 
