@@ -4,10 +4,12 @@ Every country page has a header with key facts, a monitoring panel, the conditio
 
 ## Country list columns
 
-Next to the country name the table shows its region and fit tags. Click a column title to sort; click the * next to a title for a short explanation. Hover a value to see where it came from.
+Click a column title to sort; click the * next to a title for a short explanation. Hover a value to see where it came from.
 
 | Column | Meaning |
 |---|---|
+| Region | Region code; hover for the full name (see **Region codes**). |
+| Tags | Editorial #tags (see **Fit tags**). |
 | Programs | Icons for the residency routes the country offers (see **Program types**). Routes that are closed or not available are left out. The program buttons above the table filter countries that offer all selected routes. |
 | To citizenship | Years of legal residence before you can apply for citizenship under the standard route. `10+ yr` means ten years or more; `no path` means there is no realistic route for a foreigner. |
 | Passport | Passport strength: the number of destinations a holder of that country's passport can enter visa-free (a Henley-type visa-free count). It describes the passport you would get after naturalisation, not the one you hold now. |
@@ -26,15 +28,32 @@ Invest. from, Remote visa and Remote tax are extracted from the country pages in
 - **Medium**: a mix of official sources and secondary or estimated data.
 - **Low**: mostly unverified, or important data is missing. Check the sources before relying on it.
 
+## Region codes
+
+| Code | Region |
+|---|---|
+| EU-W | Western Europe |
+| EU-E | Eastern Europe |
+| BALK | Balkans & Caucasus |
+| ME | Middle East & Gulf |
+| AF-N | North Africa |
+| AF-W | West Africa |
+| AF-C | Central Africa |
+| AF-ES | East & South Africa |
+| LATAM | Latin America |
+| CARIB | Caribbean & Central America |
+| NA-OC | North America & Oceania |
+| ASIA | Asia |
+
 ## Fit tags
 
 Tags are editorial and help you filter the list. They are not official classifications.
 
-- **Strong passport**: citizenship would give a high visa-free count.
-- **IT-friendly**: a remote-work or tech-friendly route plus a workable environment for IT specialists.
-- **Clear pathway**: a well-defined, documented route from residence to a passport.
-- **Popular with RU**: a common destination for Russian-speaking applicants.
-- **Yacht captain**: a country with a maritime or yachting infrastructure relevant to captains.
+- **#passport** (Strong passport): citizenship would give a high visa-free count.
+- **#it** (IT-friendly): a remote-work or tech-friendly route plus a workable environment for IT specialists.
+- **#path** (Clear pathway): a well-defined, documented route from residence to a passport.
+- **#ru** (Popular with RU): a common destination for Russian-speaking applicants.
+- **#yacht** (Yacht captain): a country with a maritime or yachting infrastructure relevant to captains.
 
 ## Country header facts
 

@@ -962,15 +962,20 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .foot .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
 .foot a { color: var(--muted); }
 .ctable th a.gl { display: none; }
-.ctable td.name .fitline { font: 12px/1.3 var(--sans); color: var(--muted); margin-top: 3px; }
+.ctable td.reg-cell { font: 12px var(--mono); color: var(--ink-2); white-space: nowrap; }
+.ctable td.tags-cell { font: 12px var(--mono); color: var(--accent); white-space: nowrap; }
+.ctable td.tags-cell span { margin-right: 6px; }
 .ctable td.progs-cell { white-space: nowrap; font-size: 14px; letter-spacing: 0; }
 .tscroll { overflow-x: auto; }
+.ctable th:first-child, .ctable td:first-child { position: sticky; left: 0; z-index: 2; background: var(--bg); box-shadow: 1px 0 0 var(--line); }
+.ctable tbody tr:hover td:first-child { background: var(--accent-soft); }
 .ctable th, .ctable td { padding-left: 6px; padding-right: 6px; }
 .ctable th { letter-spacing: .03em; }
-.ctable td.name { min-width: 150px; }
+.ctable td.name { min-width: 110px; max-width: 170px; }
 .ctable td.progs-cell .pi { cursor: default; }
 .ctable td.col-rv, .ctable td.col-gv, .ctable td.col-cost { white-space: nowrap; font-size: 13px; }
-.ctable th { position: relative; white-space: nowrap; }
+.ctable th { position: relative; white-space: normal; vertical-align: bottom; line-height: 1.25; }
+.ctable th button { text-align: left; }
 .tip { position: relative; display: inline-block; }
 .tip .gl { all: unset; cursor: pointer; color: var(--accent); font-weight: 700; padding: 0 3px; }
 .tip-box { display: none; position: absolute; top: 100%; left: -8px; z-index: 40; width: 250px; padding: 10px 12px; text-align: left;
@@ -981,6 +986,7 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .tip-box a { color: var(--accent); white-space: nowrap; }
 @media (max-width: 1180px) { .ctable .col-region { display: none; } }
 @media (max-width: 960px) { .ctable .col-cost, .ctable .col-conf { display: none; } }
+@media (max-width: 720px) { .ctable td.tags-cell, .ctable th:nth-child(3) { display: none; } }
 @media (max-width: 720px) { .ctable .col-gv, .ctable .col-rv { display: none; } }
 .tnote { margin: 14px 0 0; font-size: 13px; color: var(--muted); }
 .ctable th a.gl { color: var(--accent); text-decoration: none; font-weight: 700; margin-left: 2px; }
@@ -1456,6 +1462,14 @@ def render_page(page, region_meta, region_labels):
     return shell(f"{name} — {SITE_TITLE}", main, "../", desc=first_sentences(page["body"].split("\n## Residency")[0].replace("## Overview", ""), 160))
 
 
+REGION_ABBR = {
+    "eu_western": "EU-W", "eu_eastern": "EU-E", "balkans_caucasus": "BALK", "middle_east_gulf": "ME",
+    "africa_north": "AF-N", "africa_west": "AF-W", "africa_central": "AF-C", "africa_east_south": "AF-ES",
+    "latin_america": "LATAM", "caribbean_central": "CARIB", "north_america_oceania": "NA-OC", "asia": "ASIA",
+}
+CAT_TAGS = {"strong_passport": "#passport", "it_friendly": "#it", "clear_pathway": "#path",
+            "popular_ru": "#ru", "yacht_captain": "#yacht"}
+
 PROG_ICONS = OrderedDict([
     ("investment-residency", ("💰", "Investment residency")),
     ("citizenship-by-investment", ("🛂", "Citizenship by investment")),
@@ -1529,6 +1543,8 @@ def cost_index(page):
 
 
 TIPS = {
+    "region": ("Region code; hover for the full name. All codes are listed in the glossary.", "region-codes"),
+    "tags": ("Editorial tags: #passport strong passport, #it IT-friendly, #path clear pathway, #ru popular with RU, #yacht yacht captain.", "fit-tags"),
     "progs": ("Residency routes the country offers (closed or unavailable routes are left out). Hover an icon for its name; use the program buttons above to filter.", "program-types"),
     "years": ("Years of legal residence before you can apply for citizenship on the standard route.", "country-list-columns"),
     "passport": ("Visa-free destinations of the passport you would hold after naturalisation.", "country-list-columns"),
@@ -1551,7 +1567,9 @@ def render_index(region_meta, region_labels, concept_pages):
         yrs, ylabel = years_to_citizenship(p)
         pp = passport_count(p)
         conf = (p.get("confidence") or "").lower()
-        fit = " · ".join([x for x in [region_labels.get(reg, "")] + [CAT_LABELS[c] for c in cats] if x])
+        reg_t = (f'<span title="{html.escape(region_labels.get(reg, ""), quote=True)}">{REGION_ABBR.get(reg, "")}</span>'
+                 if REGION_ABBR.get(reg) else "")
+        tags_t = " ".join(f'<span title="{CAT_LABELS[c]}">{CAT_TAGS[c]}</span>' for c in cats)
         progs_found = programs_of(p)
         icons = "".join(f'<span class="pi" title="{PROG_ICONS[x][1]}" aria-label="{PROG_ICONS[x][1]}">{PROG_ICONS[x][0]}</span>' for x in progs_found)
         gv_t, gv_n, gv_h = fact_gv(p["slug"])
@@ -1568,7 +1586,9 @@ def render_index(region_meta, region_labels, concept_pages):
             f'data-confn="{ {"low":1,"medium":2,"high":3}.get(conf,"") }" '
             f'data-cost="{"" if ci_n is None else round(ci_n)}" data-rent="{"" if rn_n is None else round(rn_n)}" '
             f'data-gv="{round(gv_n) if gv_n else ""}" data-rv="{"" if rv_n is None else round(rv_n)}" data-tax="{"" if tx_n is None else tx_n}">'
-            f'<td class="name"><a href="conditions/{p["slug"]}.html">{html.escape(name)}</a><div class="fitline">{html.escape(fit)}</div></td>'
+            f'<td class="name"><a href="conditions/{p["slug"]}.html">{html.escape(name)}</a></td>'
+            f'<td class="reg-cell">{reg_t or dash}</td>'
+            f'<td class="tags-cell">{tags_t or dash}</td>'
             f'<td class="progs-cell">{icons or dash}</td>'
             f'<td class="num">{ylabel if ylabel else dash}</td>'
             f'<td class="num">{pp if pp else dash}</td>'
@@ -1595,7 +1615,7 @@ def render_index(region_meta, region_labels, concept_pages):
     used_cats = [c for c in CAT_LABELS if any(c in cats_of(p, region_meta) for p in countries)]
     chip_btns = "".join(f'<button class="fchip" type="button" data-cat="{c}" aria-pressed="false">{CAT_LABELS[c]}</button>' for c in used_cats)
 
-    header_row = (th("Country", "name")
+    header_row = (th("Country", "name") + th("Region", "region", tip="region") + th("Tags", "", tip="tags")
                   + th("Programs", "", cls="", tip="progs")
                   + th("To citizenship", "years", "num", "num", tip="years")
                   + th("Passport", "passport", "num", "num", tip="passport")
