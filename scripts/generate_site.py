@@ -786,7 +786,10 @@ a:hover { text-decoration-thickness: 2px; }
 .topbar .wrap { display: flex; align-items: center; gap: 28px; height: 56px; }
 .brand { font: 600 18px/1 var(--serif); color: var(--ink); text-decoration: none; letter-spacing: -.01em; white-space: nowrap; }
 .brand span { color: var(--accent); }
-.brand .bn { color: inherit; }
+.brand .bn { color: inherit; display: block; }
+.brand .bt { display: flex; flex-direction: column; gap: 3px; color: inherit; }
+.brand .bs { font: 500 10.5px/1 var(--sans); color: var(--muted); letter-spacing: .02em; }
+@media (max-width: 720px) { .brand .bs { display: none; } }
 .brand { display: inline-flex; align-items: center; gap: 10px; }
 .brand .logo { border-radius: 50%; box-shadow: 0 0 0 1.5px #c9953a; }
 .brand .logo-dark { display: none; }
@@ -1372,7 +1375,7 @@ def shell(title, body, base, extra_js="", desc=""):
 </head>
 <body data-base="{base}">
 <header class="topbar"><div class="wrap">
-  <a class="brand" href="{base}index.html"><img class="logo logo-light" src="{base}assets/logo-light.png" width="34" height="34" alt=""><img class="logo logo-dark" src="{base}assets/logo-dark.png" width="34" height="34" alt=""><span class="bn">Residency<span>Radar</span></span></a>
+  <a class="brand" href="{base}index.html"><img class="logo logo-light" src="{base}assets/logo-light.png" width="34" height="34" alt=""><img class="logo logo-dark" src="{base}assets/logo-dark.png" width="34" height="34" alt=""><span class="bt"><span class="bn">Residency<span>Radar</span></span><small class="bs">powered by Residency Vault</small></span></a>
   <nav class="topnav"><a href="{base}countries.html">Countries</a><a href="{base}programs.html">Programs</a><a href="{base}glossary.html">Glossary</a></nav>
   <span class="spacer"></span>
   <button class="search-btn" id="search-btn" type="button"><span>Search countries and programs</span><kbd>/</kbd></button>
