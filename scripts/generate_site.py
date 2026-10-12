@@ -974,6 +974,22 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .toc a.on { color: var(--ink); font-weight: 600; border-left-color: var(--accent); }
 .flag { width: 20px; height: auto; max-height: 14px; object-fit: cover; border-radius: 2px; vertical-align: -2px; margin-right: 8px; box-shadow: 0 0 0 1px rgba(0,0,0,.12); }
 .flag-lg { width: 28px; max-height: 20px; margin-right: 0; vertical-align: middle; }
+.chg-lead { color: var(--muted); max-width: 62ch; }
+.chg-weeks { list-style: none; padding: 0; margin: 20px 0 0; max-width: none; }
+.chg-weeks li { display: flex; flex-direction: column; gap: 2px; padding: 14px 0; border-top: 1px solid var(--line); }
+.chg-weeks span { color: var(--muted); font-size: 14px; }
+.chg-list { list-style: none; padding: 0; margin: 20px 0; max-width: none; }
+.chg-item { padding: 16px 0; border-top: 1px solid var(--line); }
+.chg-item p { margin: 6px 0 0; }
+.chg-h { font-size: 16px; }
+.chg-h .flag { margin-right: 8px; }
+.chg-imp { font: 600 11px var(--sans); text-transform: uppercase; letter-spacing: .06em; padding: 2px 8px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); margin-left: 6px; }
+.chg-high { color: #a33; border-color: #a33; }
+.chg-src { font-size: 13px; margin-left: 4px; }
+.chg-more { margin: 14px 0 0; font-size: 14px; }
+.hist-list { list-style: none; padding: 0; margin: 0 0 8px; max-width: none; }
+.hist-list li { margin: 4px 0; font-size: 14px; }
+.hist-list time { font-family: var(--mono); font-size: 12px; color: var(--muted); margin-right: 8px; }
 .h1-sub { font-size: 0.38em; font-weight: 400; color: var(--muted); letter-spacing: 0; white-space: nowrap; }
 .related { margin: 40px 0 8px; }
 .related .rel-h { font-size: 15px; margin: 0 0 10px; }
@@ -1406,7 +1422,7 @@ def shell(title, body, base, extra_js="", desc="", ld=""):
 <body data-base="{base}">
 <header class="topbar"><div class="wrap">
   <a class="brand" href="{base}index.html"><img class="logo logo-light" src="{base}assets/logo-light.png" width="34" height="34" alt=""><img class="logo logo-dark" src="{base}assets/logo-dark.png" width="34" height="34" alt=""><span class="bt"><span class="bn">Residency<span>Radar</span></span><small class="bs">powered by Residency Vault</small></span></a>
-  <nav class="topnav"><a href="{base}countries.html">Countries</a><a href="{base}programs.html">Programs</a><a href="{base}glossary.html">Glossary</a></nav>
+  <nav class="topnav"><a href="{base}countries.html">Countries</a><a href="{base}programs.html">Programs</a><a href="{base}changes/index.html">Changes</a><a href="{base}glossary.html">Glossary</a></nav>
   <span class="spacer"></span>
   <button class="search-btn" id="search-btn" type="button"><span>Search countries and programs</span><kbd>/</kbd></button>
   <a class="tg-btn" href="{TG_URL}" rel="noopener" title="News channel on Telegram"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.6 19.6c-.2 1-.9 1.3-1.7.8l-4.7-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.8 8.7-7.9c.4-.3-.1-.5-.6-.2L6.5 13.4l-4.6-1.4c-1-.3-1-1 .2-1.5L20 3.5c.8-.3 1.6.2 1.9.8z"/></svg><span>News channel</span></a>
@@ -1603,6 +1619,177 @@ def related_html(page, region_meta, region_labels, is_entity):
     return (f'<section class="related"><h2 class="rel-h">{html.escape(heading)}</h2><ul class="related-list">{lis}</ul>{extra}</section>') if items else f'<section class="related">{extra}</section>'
 
 
+# ── Weekly changes (built from alerts/YYYY-MM-DD.md; only weeks that have changes are published) ──
+
+ALERTS_DIR = WIKI_DIR / "alerts"
+CHANGE_WEEKS = []          # [{date, items:[{country, slug, headline, text, impact, url}]}] newest first
+CHANGES_BY_SLUG = {}       # slug -> [(date, headline)]
+
+
+def _section(text, name):
+    m = re.search(r"^## " + name + r"[^\n]*\n(.*?)(?=^## |\Z)", text, re.S | re.M)
+    return m.group(1) if m else ""
+
+
+def _clean_item_text(t):
+    t = re.sub(r"\^\[[^\]]*\]", "", t)
+    t = re.sub(r"\s*Source:.*$", "", t.strip())
+    t = re.sub(r"\*\*|__", "", t)
+    t = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", t)
+    t = re.sub(r"\s+", " ", t).strip(" .:;")
+    t = re.sub(r"^\(([^)]*)\):\s*(.*)$", lambda m: m.group(2) + f" ({m.group(1)})", t)
+    return (t[:1].upper() + t[1:] + ".") if t else ""
+
+
+def _src_of(raw):
+    """(url, host) from a raw item text: ^[url], markdown link, bare url, or 'Source: domain'."""
+    m = re.search(r"\^\[(https?://[^\]\s]+)\]", raw) or re.search(r"\]\((https?://[^)\s]+)\)", raw) or re.search(r"(https?://[^\s\])]+)", raw)
+    if m:
+        return m.group(1).rstrip(".,)"), ""
+    m = re.search(r"Source:\s*([\w\-]+(?:\.[\w\-]+)+)", raw)
+    return "", (m.group(1) if m else "")
+
+
+def _headline_of(txt):
+    if ": " in txt[:90]:
+        h = txt.split(": ", 1)[0]
+        r = txt.split(": ", 1)[1]
+        return h, r[:1].upper() + r[1:]
+    clause = re.split(r"\s\(|;|\.\s", txt, maxsplit=1)[0]
+    return clip_words(clause, 80).rstrip(".…"), txt
+
+
+def _country_slug(name):
+    key = re.sub(r"[^a-z0-9]", "", name.lower())
+    for sl, pg in all_pages.items():
+        if pg["type"] == "entity" and (re.sub(r"[^a-z0-9]", "", display_name(pg["title"]).lower()) == key or re.sub(r"[^a-z0-9]", "", sl) == key):
+            return sl
+    return ""
+
+
+def _mk_item(country, headline, text, impact="", url="", host=""):
+    return {"country": country, "slug": _country_slug(country), "headline": headline.strip(" .:"), "text": text.strip(), "impact": impact, "url": url, "host": host}
+
+
+def parse_alert_items(block):
+    items = []
+    # style B: numbered "1. **Country** — text"
+    for m in re.finditer(r"^\d+\.\s+\*\*(.+?)\*\*\s+[—-]\s+(.*)$", block, re.M):
+        country, body = m.group(1), m.group(2)
+        url, host = _src_of(body)
+        txt = _clean_item_text(body)
+        head, rest = _headline_of(txt)
+        items.append(_mk_item(country, head, rest, url=url, host=host))
+    if items:
+        return items
+    # style A: "### Country[ — headline]" blocks with bullets
+    for blk in re.split(r"^### ", block, flags=re.M)[1:]:
+        title, _, rest = blk.partition("\n")
+        country, _, headline = re.split(r"\s+[—-]\s+", title.strip(), 1) + [""] if False else (title.strip(), "", "")
+        parts = re.split(r"\s+[—-]\s+", title.strip(), maxsplit=1)
+        country = parts[0].strip(); headline = parts[1].strip() if len(parts) > 1 else ""
+        bullets = re.findall(r"^- \*\*(.+?)\*\*:?\s*(.*)$", rest, re.M)
+        labels = {b[0].strip().lower(): b[1].strip() for b in bullets}
+        if "what" in labels:
+            url, host = _src_of("Source: " + labels.get("source", "")) if False else _src_of(labels.get("source", "") or "")
+            items.append(_mk_item(country, headline or "Update", _clean_item_text(labels["what"]), impact=labels.get("impact", "").split(" ")[0].strip(" —-,.:").lower(), url=url, host=host))
+        else:
+            for lab, val in bullets:
+                if lab.strip().lower() in ("categories", "db", "source", "impact", "urgency"):
+                    continue
+                imp = re.search(r"Impact:\s*(\w+)", rest[rest.find(lab):rest.find(lab) + 600])
+                u_, h_ = _src_of(val)
+                items.append(_mk_item(country, lab, _clean_item_text(val), impact=imp.group(1).lower() if imp else "", url=u_, host=h_))
+    return items
+
+
+def load_changes():
+    CHANGE_WEEKS.clear(); CHANGES_BY_SLUG.clear()
+    if not ALERTS_DIR.is_dir():
+        return
+    for f in sorted(ALERTS_DIR.glob("20??-??-??.md"), reverse=True):
+        t = f.read_text(encoding="utf-8")
+        items = parse_alert_items(_section(t, "Changed")) + parse_alert_items(_section(t, "New"))
+        if not items:
+            m = re.search(r"^## Changed \((\d+)\)", t, re.M)
+            if m and int(m.group(1)) > 0:
+                print(f"   WARNING: {f.name} reports {m.group(1)} changes but none could be parsed (unknown format)")
+            continue
+        CHANGE_WEEKS.append({"date": f.stem, "items": items})
+        for it in items:
+            if it["slug"]:
+                CHANGES_BY_SLUG.setdefault(it["slug"], []).append((f.stem, it["headline"]))
+
+
+def _fmt_date(d):
+    return datetime.strptime(d, "%Y-%m-%d").strftime("%-d %b %Y")
+
+
+def _item_html(it):
+    flag = ""
+    pg = all_pages.get(it["slug"]) if it["slug"] else None
+    if pg:
+        flag = flag_img(pg.get("country_code"), "../")
+    name = (f'<a href="../conditions/{it["slug"]}.html">{html.escape(it["country"])}</a>' if it["slug"] else html.escape(it["country"]))
+    imp = f' <span class="chg-imp chg-{html.escape(it["impact"])}">{html.escape(it["impact"])} impact</span>' if it["impact"] in ("high", "medium", "low") else ""
+    src = ""
+    if it["url"]:
+        host = re.sub(r"^www\.", "", re.sub(r"^https?://", "", it["url"]).split("/")[0])
+        src = f' <a class="chg-src" href="{html.escape(it["url"])}" rel="noopener nofollow">Source: {html.escape(host)}</a>'
+    if not src and it.get("host"):
+        src = f' <span class="chg-src">Source: {html.escape(it["host"])}</span>'
+    return (f'<li class="chg-item"><div class="chg-h">{flag}<b>{name}</b> — {html.escape(it["headline"])}{imp}</div>'
+            f'<p>{html.escape(it["text"])}{src}</p></li>')
+
+
+def render_changes_pages():
+    """Returns {relative_filename: html}."""
+    out = {}
+    if not CHANGE_WEEKS:
+        return out
+    n = len(CHANGE_WEEKS)
+    for w in CHANGE_WEEKS:
+        d, items = w["date"], w["items"]
+        countries = []
+        for it in items:
+            if it["country"] not in countries:
+                countries.append(it["country"])
+        title = f"Residency & Citizenship Changes, Week of {_fmt_date(d)}"
+        lead = "; ".join(f'{it["country"]}: {it["headline"]}' for it in items[:3])
+        desc = clip_words(f"{len(items)} verified change{'s' if len(items) != 1 else ''} in {', '.join(countries[:4])}. {lead}.", 158)
+        body = (f'<div class="crumbs"><a href="../index.html">Home</a><span class="sep">/</span><a href="index.html">Changes</a><span class="sep">/</span><span>{_fmt_date(d)}</span></div>'
+                f'<div class="page-head"><h1>Changes, week of {_fmt_date(d)}</h1>'
+                f'<div class="sub"><span>{len(items)} update{"s" if len(items) != 1 else ""}</span><span>{len(countries)} countr{"ies" if len(countries) != 1 else "y"}</span></div></div>'
+                f'<ul class="chg-list">{"".join(_item_html(it) for it in items)}</ul>'
+                f'<p class="chg-more"><a href="index.html">← All weekly changes</a></p>{NOTICE_HTML}')
+        main = f'<div class="wrap"><main class="main"><article>{body}</article></main></div>'
+        url = f"{SITE_URL}changes/{d}.html"
+        SEO_LASTMOD[f"changes/{d}.html"] = d
+        ld = seo_ld("page", url, title, desc, crumbs=[("Home", ""), ("Changes", "changes/index.html"), (title, f"changes/{d}.html")])
+        out[f"{d}.html"] = shell(f"{title} | Residency Radar" if len(title) < 46 else title, main, "../", desc=desc, ld=ld)
+    rows = "".join(
+        f'<li><a href="{w["date"]}.html"><b>Week of {_fmt_date(w["date"])}</b></a><span>{len(w["items"])} update{"s" if len(w["items"]) != 1 else ""}: '
+        f'{html.escape(", ".join(dict.fromkeys(i["country"] for i in w["items"])))}</span></li>' for w in CHANGE_WEEKS)
+    idx_title = "Residency & Citizenship Law Changes by Week | Residency Radar"
+    idx_desc = "Weekly log of verified changes to residency and citizenship rules: golden visas, digital nomad visas, fees, thresholds and citizenship requirements."
+    body = (f'<div class="crumbs"><a href="../index.html">Home</a><span class="sep">/</span><span>Changes</span></div>'
+            f'<div class="page-head"><h1>Weekly changes</h1><div class="sub"><span>{n} week{"s" if n != 1 else ""} with changes</span></div></div>'
+            f'<p class="chg-lead">What changed in residency and citizenship rules, week by week. Only changes that passed review are listed, each linked to the country page and its source.</p>'
+            f'<ol class="chg-weeks">{rows}</ol>{NOTICE_HTML}')
+    main = f'<div class="wrap"><main class="main"><article>{body}</article></main></div>'
+    SEO_LASTMOD["changes/index.html"] = CHANGE_WEEKS[0]["date"]
+    out["index.html"] = shell(idx_title, main, "../", desc=idx_desc, ld=seo_ld("page", SITE_URL + "changes/index.html", idx_title, idx_desc, crumbs=[("Home", ""), ("Changes", "changes/index.html")]))
+    return out
+
+
+def history_html(page):
+    rows = CHANGES_BY_SLUG.get(page["slug"]) if page["type"] == "entity" else None
+    if not rows:
+        return ""
+    lis = "".join(f'<li><a href="../changes/{d}.html"><time>{_fmt_date(d)}</time> {html.escape(h)}</a></li>' for d, h in rows[:8])
+    return f'<section class="related"><h2 class="rel-h">Change history</h2><ul class="hist-list">{lis}</ul><p class="chg-more"><a href="../changes/index.html">All weekly changes →</a></p></section>'
+
+
 def render_page(page, region_meta, region_labels):
     title = page["title"]
     name = display_name(title) if page["type"] == "entity" else title
@@ -1648,7 +1835,7 @@ def render_page(page, region_meta, region_labels):
 {monitor_html}"""
 
     main = f"""<div class="wrap"><div class="page-grid">
-<main class="main"><article>{head}<div class="article">{body}</div>{related_html(page, region_meta, region_labels, is_entity)}{NOTICE_HTML}</article></main>
+<main class="main"><article>{head}<div class="article">{body}</div>{history_html(page)}{related_html(page, region_meta, region_labels, is_entity)}{NOTICE_HTML}</article></main>
 {build_toc(body)}
 </div></div>"""
     main = fix_inpage_anchors(main)
@@ -1843,7 +2030,7 @@ def render_index(region_meta, region_labels, concept_pages):
         lis = "".join(
             f'<li><time>{html.escape(d[5:] if len(d) >= 10 else d)}</time><div><a href="conditions/{s}.html">{html.escape(n)}</a> '
             f'<span>{html.escape(first_sentences(rc, 170))}</span></div></li>' for d, n, s, rc in latest[:8])
-        latest_html = f'<section class="latest"><h2>Latest from monitoring</h2><ol>{lis}</ol></section>'
+        latest_html = f'<section class="latest"><h2>Latest from monitoring</h2><ol>{lis}</ol>{'<p class="chg-more"><a href="changes/index.html">All weekly changes →</a></p>' if CHANGE_WEEKS else ''}</section>'
 
     progs = []
     for slug, p in concept_pages.items():
@@ -1926,6 +2113,7 @@ def generate_search_index():
 def build():
     print(f"Building static site: {SITE_TITLE}")
     collect_pages()
+    load_changes()
     region_meta = parse_region_meta(REGIONS_FILE)
     concept_pages = OrderedDict(sorted(((s, p) for s, p in all_pages.items() if p["type"] == "concept"), key=lambda x: x[0]))
     n_ent = sum(1 for p in all_pages.values() if p["type"] == "entity")
@@ -1945,6 +2133,12 @@ def build():
         count += 1
     (OUTPUT_DIR / "glossary.html").write_text(render_glossary(), encoding="utf-8")
     count += 1
+    changes = render_changes_pages()
+    if changes:
+        (OUTPUT_DIR / "changes").mkdir()
+        for fn, doc in changes.items():
+            (OUTPUT_DIR / "changes" / fn).write_text(doc, encoding="utf-8")
+            count += 1
     (OUTPUT_DIR / "search-index.json").write_text(generate_search_index(), encoding="utf-8")
     (OUTPUT_DIR / ".nojekyll").write_text("")
     if (WIKI_DIR / "assets").is_dir():

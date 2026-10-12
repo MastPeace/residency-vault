@@ -20,7 +20,7 @@ Overview-level, source-cited, continuously monitored reference for residency and
 - [ ] Check indexing after 1-2 weeks (`site:residencyradar.org`)
 - [ ] SEO pass on country/program pages: titles and descriptions per target query ("Portugal D7 visa requirements 2026"), structured data (FAQ/Article), internal links between countries and programs
 - [ ] Backlinks / distribution: Telegram channel @migrate_easy, relevant communities, Reddit/HN-style launch post, lists of "digital nomad visa" resources
-- [ ] Public "Changes this week" page (shows freshness, gives search engines something new weekly)
+- [x] Public weekly changes section `/changes/` (one page per week with changes, auto-built from the weekly alert)
 
 ## Stage 2 — Content depth (the differentiators)
 - [ ] **Community channels per country** — Telegram/forums/Facebook groups/Reddit for expats in each country, with a short note per channel. New section on the country page.
