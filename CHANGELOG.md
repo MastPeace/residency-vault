@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Added
+- AI-search (GEO) layer: `llms.txt` index and `llms-full.txt`, markdown twin of every country/concept page (`/conditions/x.md`, linked via `rel=alternate`), explicit AI-crawler rules in `robots.txt`, IndexNow ping after each deploy (`scripts/indexnow.py`).
+
 ### Fixed
 - Mobile header: Telegram and theme buttons no longer shrink on narrow phones (<=360 px); the brand shrinks/ellipsizes instead, logo hidden below 340 px.
 - Mobile header: the search box collapsed into an "S." square; below 960 px it is now a magnifier icon button (tap opens the search palette).

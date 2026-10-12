@@ -2205,6 +2205,8 @@ def seo_pass():
         if t: tags += f'<meta property="og:title" content="{t.group(1)}">\n'
         if d: tags += f'<meta property="og:description" content="{d.group(1)}">\n'
         tags += f'<meta property="og:url" content="{url}">\n<meta property="og:image" content="{SITE_URL}assets/og-card.png">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n<meta name="twitter:card" content="summary_large_image">\n'
+        md_alt = _md_alt_href(rel)
+        if md_alt: tags += f'<link rel="alternate" type="text/markdown" href="{SITE_URL}{md_alt}">\n'
         if "rel=\"canonical\"" not in doc:
             f.write_text(doc.replace("</head>", tags + "</head>", 1), encoding="utf-8")
         urls.append(url)
@@ -2215,8 +2217,67 @@ def seo_pass():
         return d if re.match(r"\d{4}-\d\d-\d\d$", d) else today
     body = "\n".join(f"  <url><loc>{u}</loc><lastmod>{lm(u)}</lastmod></url>" for u in urls)
     (OUTPUT_DIR / "sitemap.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{body}\n</urlset>\n', encoding="utf-8")
-    (OUTPUT_DIR / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}sitemap.xml\n", encoding="utf-8")
+    ai = "\n".join(f"User-agent: {b}\nAllow: /\n" for b in AI_BOTS)
+    (OUTPUT_DIR / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\n{ai}\nSitemap: {SITE_URL}sitemap.xml\n", encoding="utf-8")
+    geo_pass()
     return len(urls)
+
+
+AI_BOTS = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "Claude-User",
+           "PerplexityBot", "Perplexity-User", "Google-Extended", "Applebot-Extended", "Bingbot", "YandexBot", "CCBot"]
+
+
+def _md_alt_href(rel):
+    """Markdown twin of a rendered page (conditions/x.html -> conditions/x.md), or '' if none."""
+    m = re.match(r"(conditions|concepts)/([^/]+)\.html$", rel)
+    return f"{m.group(1)}/{m.group(2)}.md" if m and m.group(2) in all_pages else ""
+
+
+def _md_clean(page):
+    """Page as plain markdown: title header + freshness line + body (frontmatter dropped, sources kept)."""
+    name = page["title"]
+    fm = page.get("frontmatter", {})
+    lines = [f"# {name}", ""]
+    meta = [f"Source: {SITE_URL}{'conditions' if page['type'] == 'entity' else 'concepts'}/{page['slug']}.html"]
+    if page.get("last_checked"): meta.append(f"Last checked: {page['last_checked']}")
+    if page.get("updated"): meta.append(f"Last updated: {page['updated']}")
+    lines += ["> " + " | ".join(meta), ""]
+    srcs = fm.get("sources") or []
+    body = page["body"].strip() + "\n"
+    if isinstance(srcs, list) and srcs:
+        body += "\n## Official and primary sources\n" + "\n".join(f"- {u}" for u in srcs) + "\n"
+    return "\n".join(lines) + "\n" + body
+
+
+def geo_pass():
+    """AI-search layer: markdown twins of every page, llms.txt (index), llms-full.txt (everything)."""
+    countries = sorted((p for p in all_pages.values() if p["type"] == "entity"), key=lambda p: p["title"])
+    concepts = sorted((p for p in all_pages.values() if p["type"] != "entity"), key=lambda p: p["title"])
+    full = []
+    for p in countries + concepts:
+        sub = "conditions" if p["type"] == "entity" else "concepts"
+        md = _md_clean(p)
+        (OUTPUT_DIR / sub).mkdir(exist_ok=True)
+        (OUTPUT_DIR / sub / f"{p['slug']}.md").write_text(md, encoding="utf-8")
+        full.append(md)
+    def line(p):
+        sub = "conditions" if p["type"] == "entity" else "concepts"
+        lc = p.get("last_checked") or p.get("updated") or ""
+        return f"- [{display_name(p['title']) if p['type'] == 'entity' else p['title'].split(' — ')[0]}]({SITE_URL}{sub}/{p['slug']}.md)" + (f": checked {lc}" if lc else "")
+    idx = ["# Residency Radar", "",
+           "> Continuously monitored knowledge base of residency, citizenship and visa conditions for "
+           f"{len(countries)} countries, with official sources and a weekly change digest. Each page states the date it was last verified.",
+           "",
+           "Facts are drawn from official government sources (linked at the bottom of every page). "
+           "Check the 'Last checked' date before relying on a figure; rules change often.", "",
+           "## Countries", *map(line, countries), "",
+           "## Residency program types (cross-country comparisons)", *map(line, concepts), "",
+           "## Optional",
+           f"- [Full content of all pages in one file]({SITE_URL}llms-full.txt)",
+           f"- [Weekly changes]({SITE_URL}changes/index.html)",
+           f"- [Sitemap]({SITE_URL}sitemap.xml)", ""]
+    (OUTPUT_DIR / "llms.txt").write_text("\n".join(idx), encoding="utf-8")
+    (OUTPUT_DIR / "llms-full.txt").write_text("\n\n---\n\n".join(full), encoding="utf-8")
 
 
 if __name__ == "__main__":
