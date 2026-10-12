@@ -2,6 +2,7 @@
 title: Bulgaria — Bulgaria
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, golden-visa, digital-nomad, tax, popular_ru, clear_pathway]
 category: clear_pathway
@@ -112,6 +113,68 @@ Bulgaria is one of the most RU-friendly EU countries: Cyrillic alphabet, cultura
 | Freedom House score | 77/100 Free | ^[https://freedomhouse.org/country/bulgaria/freedom-world/2025] hard/official |
 | Average annual sunshine hours | 2,035 (Sofia) | ^[https://en.wikipedia.org/wiki/List_of_cities_in_Europe_by_sunshine_duration] hard/official |
 | Average annual temperature | ~10.6°C (Sofia) | ^[https://en.wikipedia.org/wiki/Sofia#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 111 000 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=BG) — hard/official |
+| Geography & size | Population density | 59 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=BG) — hard/official |
+| Geography & size | Urban population | 74% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=BG) — hard/official |
+| Geography & size | Coastline | 354 km (Black Sea coast) | [source](https://en.wikipedia.org/wiki/Geography_of_Bulgaria) — soft/estimate |
+| Geography & size | Highest point | Musala, 2925 m | [source](https://en.wikipedia.org/wiki/Musala) — soft/estimate |
+| Geography & size | Type | mainland (Black Sea coast) | [source](https://en.wikipedia.org/wiki/Bulgaria) — soft/estimate |
+| Geography & size | Time zone | UTC+2 (EET), UTC+3 summer; Moscow -1h (winter), -1h (summer) | [source](https://www.timeanddate.com/time/zone/bulgaria) — soft/estimate |
+| Climate | Avg precipitation | 608 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=BG) — hard/official |
+| Climate | PM2.5 exposure | 19.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=BG) — hard/official |
+| Climate | Climate zone | Dfb (humid continental) in Sofia; Cfa (humid subtropical) along coast | [source](https://en.wikipedia.org/wiki/Sofia#Climate) — soft/estimate |
+| Climate | Temp winter / summer | Sofia: Jan avg -0.5°C, Jul avg 21.1°C (1991-2020) | [source](https://en.wikipedia.org/wiki/Sofia#Climate) — soft/estimate |
+| Climate | Rainy days | ~100 days/year (Sofia) | [source](https://en.wikipedia.org/wiki/Sofia#Climate) — soft/estimate |
+| Climate | Humidity | ~70% avg annual (Sofia) | [source](https://en.wikipedia.org/wiki/Sofia#Climate) — soft/estimate |
+| Climate | Natural hazards | earthquakes, floods, landslides; INFORM Risk rank 102 (low) | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | annual mean PM2.5 ~19 µg/m³ (2023, IQAir/WHO) - among highest in EU | [source](https://www.iqair.com/world-air-quality-ranking) — soft/estimate |
+| Economy | GDP (nominal) | $130.8B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BG) — hard/official |
+| Economy | GDP growth | 3.1% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=BG) — hard/official |
+| Economy | Inflation (CPI) | 4.6% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BG) — hard/official |
+| Economy | Unemployment | 3.5% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=BG) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 39.5 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=BG) — hard/official |
+| Economy | Tourism receipts | 4% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=BG) — hard/official |
+| Economy | Remittances | 2.1% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=BG) — hard/official |
+| Economy | Credit rating | BBB (S&P, positive); Baa1 (Moody's, stable); BBB (Fitch, positive) - 2025 | [source](https://www.spglobal.com/ratings/en/) — hard/official |
+| Economy | Currency | BGN (lev), pegged to EUR at 1.95583; euro adoption expected 2026 | [source](https://en.wikipedia.org/wiki/Bulgarian_lev) — soft/estimate |
+| Economy | Top industries | services (~67% GDP), industry (~28%), agriculture (~5%) | [source](https://www.cia.gov/the-world-factbook/countries/bulgaria) — soft/estimate |
+| Economy | Economic Complexity | ECI 0.46, rank 41 of 133 (2023) | [source](https://atlas.hks.harvard.edu/rankings) — soft/estimate |
+| Technology | Internet users | 82% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BG) — hard/official |
+| Technology | Fixed broadband subs | 37.0 per 100 people (2023) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=BG) — hard/official |
+| Technology | High-tech exports | 13.4% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=BG) — hard/official |
+| Technology | R&D spend | 0.79% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=BG) — hard/official |
+| Technology | Global Innovation Index | rank 38 (WIPO GII 2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-at-a-glance.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.8247, rank 52 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | 190.56 Mbps fixed broadband (Ookla, Aug 2026) | [source](https://www.speedtest.net/global-index/bulgaria) — hard/official |
+| Technology | 5G | 5G available in major cities via A1, Vivacom, Yettel; ~65% population coverage (2025) | [source](https://www.crc.bg/) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses; PayPal available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | rank 38 (StartupBlink 2024) | [source](https://www.startupblink.com/startup-ecosystem/bulgaria) — soft/estimate |
+| Human development & health | Life expectancy | 75.8 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=BG) — hard/official |
+| Human development & health | Hospital beds | 8.2 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=BG) — hard/official |
+| Human development & health | HDI | 0.799, Very High, rank 70 (UNDP 2023 data, 2025 report) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | rank 29, score 1.61 (GPI 2025) | [source](https://www.visionofhumanity.org/wp-content/uploads/2025/06/Global-Peace-Index-2025-web.pdf) — hard/official |
+| Safety | US travel advisory | Level 1: Exercise Normal Precautions (US State Dept, 2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/) — hard/official |
+| Money & tax | FATF status | On FATF grey list (increased monitoring) (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | no wealth tax; inheritance tax: 0.4-6.6% (spouse/children exempt); capital gains: 10% (CIT rate on gains) | [source](https://taxsummaries.pwc.com/bulgaria) — soft/estimate |
+| Money & tax | CFC rules | yes, CFC rules implemented (EU ATAD compliant) | [source](https://taxsummaries.pwc.com/bulgaria) — soft/estimate |
+| Business | Company setup | ~6-10 days online; cost ~BGN 100-200 (EUR 50-100) for registration | [source](https://www.registryagency.bg/en) — soft/estimate |
+| Business | Corporate tax | 10% (flat rate); 15% alternative tax on certain gambling income | [source](https://taxsummaries.pwc.com/bulgaria/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Sofia University St. Kliment Ohridski, QS rank 711-720 (2025) | [source](https://www.topuniversities.com/world-university-rankings) — hard/official |
+| Connectivity | Visa-free for Russians | visa required for Russians (Schengen area rules apply from 2025) | [source](https://www.mfa.bg/en/) — soft/estimate |
+| For Russian citizens | Sanctions position | fully enforces EU sanctions on Russia; member of EU and NATO | [source](https://www.consilium.europa.eu/en/policies/sanctions-against-russia/) — hard/official |
+| Quality of life | World Happiness rank | rank 84, score 5.47 (WHR 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | rank 42 of 53 (InterNations Expat Insider 2024) | [source](https://www.internations.org/expat-insider/2024/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 18 of 116 (score 594, high proficiency); English widely spoken in cities among younger people | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

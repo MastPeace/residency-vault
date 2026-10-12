@@ -2,6 +2,7 @@
 title: Brazil — Residency & Citizenship Conditions
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, investment, digital-nomad, tax, mercosur]
 category: multi
@@ -153,6 +154,68 @@ VIPER is one of the most competitive investment residencies in Latin America wit
 | Freedom House score | 72/100 (Free) | [Freedom House](https://freedomhouse.org/country/brazil/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,200 h (São Paulo); 2,400+ h (Rio de Janeiro, Northeast) | [Current Results](https://www.currentresults.com/Weather/Brazil/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~21 °C (São Paulo); 24–28 °C (coastal/Northeast) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/brazil/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 53/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 8 510 420 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=BR) — hard/official |
+| Geography & size | Population density | 25 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=BR) — hard/official |
+| Geography & size | Urban population | 88% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=BR) — hard/official |
+| Geography & size | Coastline | 7491 km (CIA World Factbook) | [source](https://www.cia.gov/the-world-factbook/countries/brazil) — hard/official |
+| Geography & size | Highest point | Pico da Neblina, 2995 m | [source](https://en.wikipedia.org/wiki/Geography_of_Brazil) — soft/estimate |
+| Geography & size | Type | mainland (Atlantic coast) | [source](https://en.wikipedia.org/wiki/Brazil) — soft/estimate |
+| Geography & size | Time zone | UTC-2 to UTC-5 (Brasília UTC-3); Moscow -6h to -8h | [source](https://www.timeanddate.com/time/zone/brazil) — soft/estimate |
+| Climate | Avg precipitation | 1761 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=BR) — hard/official |
+| Climate | PM2.5 exposure | 13.4 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=BR) — hard/official |
+| Climate | Climate zone | Aw (tropical savanna) at Brasília; varies from Af (rainforest) to Cfa/Cfb (subtropical) | [source](https://en.wikipedia.org/wiki/Bras%C3%ADlia#Climate) — soft/estimate |
+| Climate | Temp winter / summer | Brasília: Jan avg 22°C, Jul avg 19°C; varies widely by region (1991-2020) | [source](https://en.wikipedia.org/wiki/Bras%C3%ADlia#Climate) — soft/estimate |
+| Climate | Rainy days | ~120 days/year (Brasília); varies widely by region | [source](https://en.wikipedia.org/wiki/Bras%C3%ADlia#Climate) — soft/estimate |
+| Climate | Humidity | ~68% avg annual (Brasília) | [source](https://en.wikipedia.org/wiki/Bras%C3%ADlia#Climate) — soft/estimate |
+| Climate | Natural hazards | floods, droughts, landslides; INFORM Risk rank 85 (moderate) | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | annual mean PM2.5 ~11 µg/m³ (2023, WHO/IQAir) | [source](https://www.iqair.com/world-air-quality-ranking) — soft/estimate |
+| Economy | GDP (nominal) | $2.3T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BR) — hard/official |
+| Economy | GDP growth | 2.3% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=BR) — hard/official |
+| Economy | Inflation (CPI) | 5.0% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BR) — hard/official |
+| Economy | Unemployment | 6.0% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=BR) — hard/official |
+| Economy | Central govt debt | 82% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=BR) — hard/official |
+| Economy | Gini index | 50.3 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=BR) — hard/official |
+| Economy | Tourism receipts | 1% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=BR) — hard/official |
+| Economy | Remittances | 0.2% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=BR) — hard/official |
+| Economy | Credit rating | BB (S&P, stable); Ba1 (Moody's, positive); BB (Fitch, stable) - 2025 | [source](https://www.spglobal.com/ratings/en/) — hard/official |
+| Economy | Currency | BRL (real), floating; ~-25% vs USD over 5 years (2021-2026) | [source](https://www.xe.com/currencyconverter/convert/?From=BRL&To=USD) — soft/estimate |
+| Economy | Top industries | services (~63% GDP), industry (~21%), agriculture (~6%) | [source](https://www.cia.gov/the-world-factbook/countries/brazil) — soft/estimate |
+| Economy | Economic Complexity | ECI -0.52, rank 93 of 133 (2023) | [source](https://atlas.hks.harvard.edu/rankings) — soft/estimate |
+| Technology | Internet users | 84% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BR) — hard/official |
+| Technology | Fixed broadband subs | 24.1 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=BR) — hard/official |
+| Technology | High-tech exports | 11.1% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=BR) — hard/official |
+| Technology | R&D spend | 1.19% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=BR) — hard/official |
+| Technology | Global Innovation Index | rank 50 (WIPO GII 2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-at-a-glance.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.7897, rank 58 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | 308.11 Mbps fixed broadband (Ookla, Aug 2026) | [source](https://www.speedtest.net/global-index/brazil) — hard/official |
+| Technology | 5G | 5G available in all state capitals and major cities; ~40% population coverage (2025) | [source](https://www.anatel.gov.br/) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses; PayPal available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | rank 27 (StartupBlink 2024) | [source](https://www.startupblink.com/startup-ecosystem/brazil) — soft/estimate |
+| Human development & health | Life expectancy | 76.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=BR) — hard/official |
+| Human development & health | Hospital beds | 2.5 per 1000 (2021) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=BR) — hard/official |
+| Human development & health | HDI | 0.760, High, rank 84 (UNDP 2023 data) | [source](https://agenciabrasil.ebc.com.br/en/economia/noticia/2025-05/brazil-climbs-five-spots-reaches-84th-place-hdi-ranking) — soft/estimate |
+| Safety | Global Peace Index | rank 131, score 2.41 (GPI 2025) | [source](https://www.visionofhumanity.org/wp-content/uploads/2025/06/Global-Peace-Index-2025-web.pdf) — hard/official |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (US State Dept, 2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | no wealth tax; inheritance/gift tax: up to 8% (state level); capital gains: 15-22.5% (progressive) | [source](https://taxsummaries.pwc.com/brazil) — soft/estimate |
+| Money & tax | CFC rules | yes, CFC rules implemented (worldwide taxation of controlled foreign corporations) | [source](https://taxsummaries.pwc.com/brazil) — soft/estimate |
+| Business | Company setup | ~16.6 days, cost ~4.2% of GNI per capita (World Bank, 2019) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/brazil) — soft/estimate |
+| Business | Corporate tax | 34% combined (IRPJ 15% + surtax 10% + CSLL 9%); effective rate varies by regime | [source](https://taxsummaries.pwc.com/brazil/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Universidade de São Paulo (USP), QS rank 85 (2025) | [source](https://www.topuniversities.com/world-university-rankings) — hard/official |
+| Connectivity | Visa-free for Russians | visa-free for up to 90 days (tourism/business, 2024) | [source](https://www.gov.br/mre/en/) — hard/official |
+| For Russian citizens | Sanctions position | has not imposed unilateral sanctions on Russia; condemns invasion but maintains neutrality | unsourced/unverified |
+| Quality of life | World Happiness rank | rank 32, score 6.63 (WHR 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | rank 12 of 53 (InterNations Expat Insider 2024) | [source](https://www.internations.org/expat-insider/2024/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 70 of 113 (score 491, low proficiency); Portuguese essential, English not widely spoken | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

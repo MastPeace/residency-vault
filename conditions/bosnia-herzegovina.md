@@ -2,6 +2,7 @@
 title: Bosnia and Herzegovina — Bosnia and Herzegovina
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax]
 category: clear_pathway
@@ -135,6 +136,68 @@ BiH is not a popular expat destination. Those who relocate report slow bureaucra
 | Freedom House score (2025) | 52/100 — Partly Free | ^[https://freedomhouse.org/country/bosnia-and-herzegovina/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~1,900 (Sarajevo) | ^[https://en.wikipedia.org/wiki/Sarajevo#Climate] hard/official |
 | Average annual temperature | ~10°C (Sarajevo) | ^[https://en.wikipedia.org/wiki/Sarajevo#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 53/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 51 210 km² (2023) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=BA) — hard/official |
+| Geography & size | Population density | 62 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=BA) — hard/official |
+| Geography & size | Urban population | 53% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=BA) — hard/official |
+| Geography & size | Coastline | 20 km (2024) | [source](https://en.wikipedia.org/wiki/Geography_of_Bosnia_and_Herzegovina) — soft/estimate |
+| Geography & size | Highest point | Maglić, 2386 m | [source](https://en.wikipedia.org/wiki/Magli%C4%87_(mountain)) — soft/estimate |
+| Geography & size | Type | mainland (small Adriatic coast at Neum) | [source](https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 summer; Moscow -2h | [source](https://www.timeanddate.com/time/zone/bosnia-herzegovina) — soft/estimate |
+| Climate | Avg precipitation | 1028 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=BA) — hard/official |
+| Climate | PM2.5 exposure | 26.1 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=BA) — hard/official |
+| Climate | Climate zone | Cfb (oceanic) / Dfb (humid continental) | [source](https://en.wikipedia.org/wiki/Sarajevo#Climate) — soft/estimate |
+| Climate | Temp winter / summer | Sarajevo: Jan avg 0.6°C, Jul avg 20.4°C (2020) | [source](https://en.wikipedia.org/wiki/Sarajevo#Climate) — soft/estimate |
+| Climate | Rainy days | 113.5 days/year (Sarajevo, 1991-2020) | [source](https://en.wikipedia.org/wiki/Sarajevo#Climate) — soft/estimate |
+| Climate | Humidity | 70.1% avg annual (Sarajevo) | [source](https://en.wikipedia.org/wiki/Sarajevo#Climate) — soft/estimate |
+| Climate | Natural hazards | earthquakes, floods, landslides | [source](https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina) — soft/estimate |
+| Climate | Air quality | annual mean PM2.5 ~27 µg/m³ (2023, IQAir estimate) | [source](https://www.iqair.com/world-air-quality-ranking) — soft/estimate |
+| Economy | GDP (nominal) | $32.6B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BA) — hard/official |
+| Economy | GDP growth | 2.1% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=BA) — hard/official |
+| Economy | Inflation (CPI) | 4.0% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BA) — hard/official |
+| Economy | Unemployment | 11.0% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=BA) — hard/official |
+| Economy | Central govt debt | 40% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=BA) — hard/official |
+| Economy | Gini index | 30.3 (2021) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=BA) — hard/official |
+| Economy | Tourism receipts | 6% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=BA) — hard/official |
+| Economy | Remittances | 10.7% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=BA) — hard/official |
+| Economy | Credit rating | B+ (S&P, stable, 2025) | [source](https://www.spglobal.com/ratings/en/) — hard/official |
+| Economy | Currency | BAM (convertible mark), pegged to EUR at 1.95583 | [source](https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina_convertible_mark) — soft/estimate |
+| Economy | Top industries | services, industry/manufacturing, agriculture | [source](https://www.cia.gov/the-world-factbook/countries/bosnia-and-herzegovina) — soft/estimate |
+| Economy | Economic Complexity | ECI 0.53, rank 39 of 133 (2023) | [source](https://atlas.hks.harvard.edu/rankings) — soft/estimate |
+| Technology | Internet users | 86% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BA) — hard/official |
+| Technology | Fixed broadband subs | 29.4 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=BA) — hard/official |
+| Technology | High-tech exports | 6.2% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=BA) — hard/official |
+| Technology | R&D spend | 0.21% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=BA) — hard/official |
+| Technology | Global Innovation Index | rank 77 (WIPO GII 2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.7052, rank 97 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | 82.82 Mbps fixed broadband (Ookla, Aug 2026) | [source](https://www.speedtest.net/global-index/bosnia-and-herzegovina) — hard/official |
+| Technology | 5G | limited; major operators (BH Telecom, m:tel) offer 5G in major cities | [source](https://en.wikipedia.org/wiki/Telecommunications_in_Bosnia_and_Herzegovina) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | rank 81 (StartupBlink 2024) | [source](https://www.startupblink.com/startup-ecosystem/bosnia-and-herzegovina) — soft/estimate |
+| Human development & health | Life expectancy | 78.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=BA) — hard/official |
+| Human development & health | Hospital beds | 2.4 per 1000 (2019) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=BA) — hard/official |
+| Human development & health | HDI | 0.779, rank 80 (UNDP 2023 data, 2025 report) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | rank 48, score 1.81 (GPI 2024) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (US State Dept, 2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/) — hard/official |
+| Money & tax | FATF status | On FATF grey list (increased monitoring) (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | no wealth tax; no inheritance/gift tax in FBiH and RS; capital gains: 10% (CIT on gains) | [source](https://taxsummaries.pwc.com/bosnia-and-herzegovina) — soft/estimate |
+| Money & tax | CFC rules | CFC rules not implemented | [source](https://taxsummaries.pwc.com/bosnia-and-herzegovina) — soft/estimate |
+| Business | Company setup | ~13 days, cost ~10.7% of GNI per capita (World Bank, 2019) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/bosnia-and-herzegovina) — soft/estimate |
+| Business | Corporate tax | 10% (flat rate in both FBiH and RS) | [source](https://taxsummaries.pwc.com/bosnia-and-herzegovina/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | University of Sarajevo, not in QS top 1000 | [source](https://www.topuniversities.com/world-university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | visa-free for up to 30 days within any 60-day period (MFA BiH, 2025) | [source](https://www.mvp.gov.ba/konzularne_informacije/vize/) — hard/official |
+| For Russian citizens | Sanctions position | aligns with EU sanctions on Russia; enforces most EU restrictive measures | [source](https://www.consilium.europa.eu/en/policies/sanctions-against-russia/) — hard/official |
+| Quality of life | World Happiness rank | rank 62, score 5.63 (WHR 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | rank 47 of 53 (InterNations Expat Insider 2024) | [source](https://www.internations.org/expat-insider/2024/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 21 of 116 (score 591, high proficiency); English moderately spoken in cities | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

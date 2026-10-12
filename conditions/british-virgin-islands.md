@@ -2,6 +2,7 @@
 title: British Virgin Islands — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, clear_pathway]
 category: clear_pathway
@@ -89,6 +90,68 @@ Discussion is dominated by yachting professionals (crew permits, the BVI's saili
 | Freedom House score | No reliable data (territory; not separately scored) | [Freedom House](https://freedomhouse.org/) low |
 | Average annual sunshine hours | ~2,800 h | [Wikipedia](https://en.wikipedia.org/wiki/British_Virgin_Islands#Climate) hard/official |
 | Average annual temperature | ~27 °C | [Wikipedia](https://en.wikipedia.org/wiki/British_Virgin_Islands#Climate) hard/official |
+
+## Extended Snapshot
+
+_Coverage: 30/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 151 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=VG) — hard/official |
+| Geography & size | Population density | 261 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=VG) — hard/official |
+| Geography & size | Urban population | 57% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=VG) — hard/official |
+| Geography & size | Coastline | 80 km (approximate, multiple islands) | [source](https://en.wikipedia.org/wiki/Geography_of_the_British_Virgin_Islands) — soft/estimate |
+| Geography & size | Highest point | Mount Sage (Tortola), 521 m | [source](https://en.wikipedia.org/wiki/British_Virgin_Islands) — soft/estimate |
+| Geography & size | Type | archipelago (British Overseas Territory) | [source](https://en.wikipedia.org/wiki/British_Virgin_Islands) — soft/estimate |
+| Geography & size | Time zone | UTC-4 (AST); Moscow -7h | [source](https://www.timeanddate.com/time/zone/british-virgin-islands) — soft/estimate |
+| Climate | Avg precipitation | No reliable data | — |
+| Climate | PM2.5 exposure | No reliable data | — |
+| Climate | Climate zone | Am (tropical monsoon), bordering Aw | [source](https://en.wikipedia.org/wiki/Road_Town#Climate) — soft/estimate |
+| Climate | Temp winter / summer | Road Town: Jan avg 26°C, Jul avg 31°C; varies little year-round | [source](https://en.wikipedia.org/wiki/Road_Town#Climate) — soft/estimate |
+| Climate | Rainy days | ~160 days/year (tropical, wet season May-Nov) | [source](https://en.wikipedia.org/wiki/Climate_of_the_British_Virgin_Islands) — soft/estimate |
+| Climate | Humidity | ~75% avg annual (tropical maritime) | [source](https://en.wikipedia.org/wiki/Road_Town#Climate) — soft/estimate |
+| Climate | Natural hazards | hurricanes (Jun-Nov), tropical storms | [source](https://en.wikipedia.org/wiki/British_Virgin_Islands) — soft/estimate |
+| Climate | Air quality | annual mean PM2.5 ~8 µg/m³ (good, small island) | [source](https://www.iqair.com/world-air-quality-ranking) — soft/estimate |
+| Economy | GDP (nominal) | No reliable data | — |
+| Economy | GDP growth | No reliable data | — |
+| Economy | Inflation (CPI) | No reliable data | — |
+| Economy | Unemployment | No reliable data | — |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | No reliable data | — |
+| Economy | Credit rating | not rated (British Overseas Territory, no sovereign rating) | [source](https://www.spglobal.com/ratings/en/) — hard/official |
+| Economy | Currency | USD, no peg needed (uses US dollar) | [source](https://en.wikipedia.org/wiki/British_Virgin_Islands) — soft/estimate |
+| Economy | Top industries | financial services, tourism, yacht charter/registration | [source](https://en.wikipedia.org/wiki/Economy_of_the_British_Virgin_Islands) — soft/estimate |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | No reliable data | — |
+| Technology | Fixed broadband subs | 24.9 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=VG) — hard/official |
+| Technology | High-tech exports | No reliable data | — |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | No reliable data | — |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | limited; some 5G coverage on Tortola via local providers (2024) | [source](https://en.wikipedia.org/wiki/British_Virgin_Islands) — soft/estimate |
+| Technology | Online payments | Stripe not explicitly listed for BVI; PayPal may be available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 77.4 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=VG) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | No reliable data | — |
+| Safety | Global Peace Index | No reliable data | — |
+| Safety | US travel advisory | Level 1: Exercise Normal Precautions (US State Dept, 2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/) — hard/official |
+| Money & tax | FATF status | On FATF grey list (increased monitoring) (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | no wealth tax, no inheritance tax, no capital gains tax (BVI territorial tax system) | [source](https://www.bvi.gov.vg/) — soft/estimate |
+| Money & tax | CFC rules | no CFC rules (BVI territorial tax system) | [source](https://www.bvi.gov.vg/) — soft/estimate |
+| Business | Company setup | ~1-3 days, cost ~USD 1000-1500 (BVI Business Companies Act) | [source](https://www.bvifsc.vg/) — soft/estimate |
+| Business | Corporate tax | 0% (no corporate income tax in BVI; payroll tax applies) | [source](https://www.bvi.gov.vg/) — soft/estimate |
+| Family & education | Top university | H. Lavity Stoutt Community College; not in QS rankings | [source](https://www.topuniversities.com/world-university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | visa required for Russians (UK visa policy applies to BVI) | [source](https://www.gov.uk/foreign-travel-advice/british-virgin-islands) — hard/official |
+| For Russian citizens | Sanctions position | follows UK sanctions on Russia; enforces Russia Sanctions Regulations | [source](https://www.bvifsc.vg/) — soft/estimate |
+| Quality of life | World Happiness rank | No reliable data | — |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | English is the official language; widely spoken | [source](https://en.wikipedia.org/wiki/British_Virgin_Islands) — soft/estimate |
 
 ## Country Card
 
