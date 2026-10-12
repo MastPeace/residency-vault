@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [Unreleased]
 
 ### Fixed
+- Mobile header: the search box collapsed into an "S." square; below 960 px it is now a magnifier icon button (tap opens the search palette).
 - Confidence label in the page header reads "High confidence" (was "High") instead of an unlabeled bar.
 - `extended_batch.py`: a successful snapshot resets the attempt counter (otherwise a country would be skipped for good after 3 refreshes in total). Cron gate `ext_pending.sh` includes the UTC hour while work is pending, so the batch no longer stalls after a tick skipped by the Monday monitor window.
 - Kazakhstan and Singapore migrated from v1 to SCHEMA v2 (Residency Programs table, Per-Program Detail, Community Pulse) with `scripts/migrate_v2.py` (deepseek-v4-pro, facts from the page only; other sections kept verbatim). Singapore title fixed.
@@ -15,6 +16,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Site integrity audit: ~650 dead in-page links (`[[#employment-residency]]` vs `employment_residency` ids) now resolve to the matching heading; unresolved anchors render as plain text; concept-to-concept links no longer point to `conditions/`; `[[usa]]` -> `[[united-states]]`; README counts 100 -> 163.
 
 ### Added
+- `404.html` (noindex, links to the main sections).
 - `/changes/`: weekly changes section built from `alerts/YYYY-MM-DD.md` (Changed + New items; only weeks with changes), one page per week plus an archive, "Changes" menu item, "Change history" block on country pages, link from the home page, sitemap entries. The monitor recipe documents the item format the parser expects.
 - SEO pass: data-driven page titles and unique meta descriptions for country and program pages (routes offered, years to citizenship, remote-worker tax), keyword-bearing H1 suffix, JSON-LD (Article, BreadcrumbList, WebSite, Organization), robots meta, social card (`assets/og-card.png`), "More countries in <region>" and "program types" internal-link blocks, sitemap `lastmod` from the page's content-change date.
 - `static/` directory: files copied verbatim to the site root (Google Search Console verification file).

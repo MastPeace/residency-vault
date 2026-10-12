@@ -807,6 +807,7 @@ a:hover { text-decoration-thickness: 2px; }
 .search-btn { display: flex; align-items: center; gap: 10px; min-width: 240px; height: 36px; padding: 0 10px 0 12px;
   background: var(--surface); border: 1px solid var(--line-strong); border-radius: 6px; color: var(--muted);
   font: 14px var(--sans); cursor: pointer; text-align: left; }
+.search-btn .si { display: none; }
 .search-btn:hover { border-color: var(--ink-2); }
 .search-btn span:first-child { flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 kbd { font: 11px var(--mono); padding: 1px 6px; border: 1px solid var(--line-strong); border-radius: 4px; color: var(--muted); background: var(--bg); }
@@ -1057,7 +1058,9 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
   .toc { display: none; }
   .topnav { display: none; }
   .tg-btn span { display: none; } .tg-btn { width: 36px; padding: 0; justify-content: center; }
-  .search-btn { min-width: 0; flex: 1; }
+  .search-btn { min-width: 0; width: 36px; padding: 0; justify-content: center; gap: 0; flex: none; }
+  .search-btn .si { display: block; }
+  .search-btn span, .search-btn kbd { display: none; }
   .ctable .col-region, .ctable .col-passport { display: none; }
   .progs li { grid-template-columns: 1fr; gap: 4px; }
   .proscons { grid-template-columns: 1fr; gap: 24px; }
@@ -1424,7 +1427,7 @@ def shell(title, body, base, extra_js="", desc="", ld=""):
   <a class="brand" href="{base}index.html"><img class="logo logo-light" src="{base}assets/logo-light.png" width="34" height="34" alt=""><img class="logo logo-dark" src="{base}assets/logo-dark.png" width="34" height="34" alt=""><span class="bt"><span class="bn">Residency<span>Radar</span></span><small class="bs">powered by Residency Vault</small></span></a>
   <nav class="topnav"><a href="{base}countries.html">Countries</a><a href="{base}programs.html">Programs</a><a href="{base}changes/index.html">Changes</a><a href="{base}glossary.html">Glossary</a></nav>
   <span class="spacer"></span>
-  <button class="search-btn" id="search-btn" type="button"><span>Search countries and programs</span><kbd>/</kbd></button>
+  <button class="search-btn" id="search-btn" type="button" aria-label="Search countries and programs"><svg class="si" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><span>Search countries and programs</span><kbd>/</kbd></button>
   <a class="tg-btn" href="{TG_URL}" rel="noopener" title="News channel on Telegram"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.6 19.6c-.2 1-.9 1.3-1.7.8l-4.7-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.8 8.7-7.9c.4-.3-.1-.5-.6-.2L6.5 13.4l-4.6-1.4c-1-.3-1-1 .2-1.5L20 3.5c.8-.3 1.6.2 1.9.8z"/></svg><span>News channel</span></a>
   <button class="icon-btn" id="theme-btn" type="button" aria-label="Toggle theme">☾</button>
 </div></header>
@@ -2133,6 +2136,12 @@ def build():
         count += 1
     (OUTPUT_DIR / "glossary.html").write_text(render_glossary(), encoding="utf-8")
     count += 1
+    nf = (f'<div class="wrap"><main class="main"><article style="padding:48px 0 40px"><div class="page-head"><h1>Page not found</h1></div>'
+          f'<p class="chg-lead">This page does not exist or has moved. Try search (top right) or start from one of these:</p>'
+          f'<ul class="related-list"><li><a href="{SITE_URL}countries.html">All countries</a></li><li><a href="{SITE_URL}programs.html">Program types</a></li>'
+          f'<li><a href="{SITE_URL}changes/index.html">Weekly changes</a></li><li><a href="{SITE_URL}index.html">Home</a></li></ul></article></main></div>')
+    (OUTPUT_DIR / "404.html").write_text(shell("Page not found | Residency Radar", nf, SITE_URL, desc="Page not found.").replace('content="index,follow,max-image-preview:large,max-snippet:-1"', 'content="noindex"'), encoding="utf-8")
+    count += 1
     changes = render_changes_pages()
     if changes:
         (OUTPUT_DIR / "changes").mkdir()
@@ -2152,6 +2161,8 @@ def seo_pass():
     urls = []
     for f in sorted(OUTPUT_DIR.rglob("*.html")):
         rel = f.relative_to(OUTPUT_DIR).as_posix()
+        if rel == "404.html":
+            continue
         url = SITE_URL + ("" if rel == "index.html" else rel)
         doc = f.read_text(encoding="utf-8")
         t = re.search(r"<title>(.*?)</title>", doc, re.S)
