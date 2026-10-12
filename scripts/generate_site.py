@@ -895,6 +895,12 @@ kbd { font: 11px var(--mono); padding: 1px 6px; border: 1px solid var(--line-str
 .page-head .sub .code { font: 600 13px var(--mono); padding: 1px 8px; background: var(--ink); color: var(--bg); border-radius: 3px; }
 .page-head .sub .dates { font: 13px var(--mono); color: var(--muted); }
 .page-head .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+.qa { margin: 18px 0 0; padding: 14px 18px 12px; border: 1px solid var(--line); border-left: 3px solid var(--ink); border-radius: 4px; background: var(--card, transparent); }
+.qa-h { font: 600 11px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin-bottom: 8px; }
+.qa-h span { font-weight: 400; text-transform: none; letter-spacing: 0; margin-left: 8px; }
+.qa ul { margin: 0; padding: 0; list-style: none; }
+.qa li { font: 400 15.5px/1.5 var(--serif); padding: 3px 0; }
+.qa li b { font: 600 11px var(--sans); letter-spacing: .05em; text-transform: uppercase; color: var(--ink-2); margin-right: 8px; }
 .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); margin: 28px 0 0; border-top: 2px solid var(--ink); border-bottom: 1px solid var(--line); }
 .facts div { padding: 12px 16px 14px 0; }
 .facts div + div { padding-left: 16px; border-left: 1px solid var(--line); }
@@ -1504,6 +1510,96 @@ def build_facts(page):
     return f'<dl class="facts">{"".join(items)}</dl>' if len(items) >= 3 else ""
 
 
+QA_SLUGS = {"portugal", "spain", "italy", "greece", "malta", "austria", "estonia", "czechia", "germany", "uae",
+            "georgia", "serbia", "montenegro", "turkey", "armenia", "kazakhstan", "cyprus"}
+QA_ROWS = [("passive_income_residency", "Passive income / no work"), ("digital_nomad_visa", "Remote workers"),
+           ("investment_residency", "Investment"), ("highly_skilled_employment", "Skilled workers"),
+           ("startup_entrepreneur", "Founders"), ("retired_residency", "Retirees"),
+           ("citizenship_by_investment", "Citizenship by investment")]
+QA_MAX = 5
+
+
+def _qa_cell(c):
+    c = strip_md(re.sub(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]", lambda m: m.group(2) or m.group(1), c))
+    return c.strip()
+
+
+def quick_answer_items(page):
+    """Rows derived from the '## Residency Programs' table: [(label, program, conditions, duration)].
+    Skips 'Not available' rows. Only text already on the page is used."""
+    m = re.search(r"^## Residency Programs\s*\n(.*?)(?=^## )", page["body"], re.S | re.M)
+    if not m:
+        return []
+    found = {}
+    for ln in m.group(1).splitlines():
+        if not ln.startswith("|") or ln.startswith("|--") or ln.startswith("| Type"):
+            continue
+        ln = re.sub(r"\[\[([^\]|]+)\|[^\]]+\]\]", r"\1", ln)  # drop the pipe inside [[a|b]] before splitting cells
+        cells = [c.strip() for c in ln.strip().strip("|").split("|")]
+        if len(cells) < 4:
+            continue
+        key = re.sub(r"[^a-z]+", "_", _qa_cell(cells[0]).lower()).strip("_")
+        prog, cond, dur = _qa_cell(cells[1]), _qa_cell(cells[2]), _qa_cell(cells[3])
+        if prog.lower().startswith("not available"):
+            continue
+        if cond in ("", "—") and not re.search(r"closed|terminated|suspended", prog, re.I):
+            continue
+        found.setdefault(key, (prog, cond if cond != "—" else "", dur if dur not in ("—", "N/A") else ""))
+    out = []
+    for key, label in QA_ROWS:
+        if key in found:
+            out.append((label,) + found[key])
+        if len(out) >= QA_MAX:
+            break
+    return out
+
+
+def quick_answer_citizenship(page):
+    y, lab = years_to_citizenship(page)
+    if y:
+        return f"{y} years of legal residence"
+    return "No standard naturalisation path" if lab == "no path" else ""
+
+
+def quick_answer_data(page):
+    if page["type"] != "entity" or page["slug"] not in QA_SLUGS:
+        return None
+    rows = quick_answer_items(page)
+    if len(rows) < 2:
+        return None
+    return {"rows": rows, "citizenship": quick_answer_citizenship(page),
+            "checked": page.get("last_checked") or page.get("updated") or ""}
+
+
+def _qa_line(label, prog, cond, dur):
+    t = f"{prog}" + (f": {cond}" if cond else "")
+    t = clip_words(t, 190)
+    return t + (f" ({dur})" if dur and len(t) < 160 else "")
+
+
+def quick_answer_text(page):
+    """Plain-text list, used for the markdown twin and JSON-LD."""
+    d = quick_answer_data(page)
+    if not d:
+        return ""
+    lines = [f"- {l}: {_qa_line(l, p, c, du)}" for l, p, c, du in d["rows"]]
+    if d["citizenship"]:
+        lines.append(f"- Citizenship by naturalisation: {d['citizenship']}")
+    return "\n".join(lines)
+
+
+def build_quick_answer(page):
+    d = quick_answer_data(page)
+    if not d:
+        return ""
+    items = "".join(f"<li><b>{html.escape(l)}</b> {html.escape(_qa_line(l, p, c, du))}</li>" for l, p, c, du in d["rows"])
+    if d["citizenship"]:
+        items += f"<li><b>Citizenship</b> {html.escape(d['citizenship'])}</li>"
+    chk = f' · verified {html.escape(d["checked"])}' if d["checked"] else ""
+    return (f'<section class="qa" aria-label="Quick answer"><div class="qa-h">Quick answer<span>{chk[3:] if chk else ""}</span></div>'
+            f'<ul>{items}</ul></section>')
+
+
 def build_monitor(page):
     st = parse_status(page)
     if not st:
@@ -1627,6 +1723,8 @@ def seo_ld(kind, url, name, desc, page=None, crumbs=()):
             if dm: item["dateModified"] = dm
             item["author"] = {"@type": "Organization", "name": "Residency Radar", "url": SITE_URL}
             item["image"] = SITE_URL + "assets/og-card.png"
+            qa = quick_answer_text(page)
+            if qa: item["abstract"] = re.sub(r"^- ", "", qa, flags=re.M).replace("\n", " ")
         graph.append(item)
         if crumbs:
             graph.append({"@type": "BreadcrumbList", "itemListElement": [
@@ -1869,6 +1967,7 @@ def render_page(page, region_meta, region_labels):
 <div class="page-head"><h1>{html.escape(name)}{'<span class="h1-sub"> residency &amp; citizenship</span>' if is_entity else ''}</h1>
 <div class="sub">{"".join(sub)}</div>{f'<div class="chips">{chips}</div>' if chips else ''}</div>
 {build_facts(page) if is_entity else ''}
+{build_quick_answer(page)}
 {monitor_html}"""
 
     main = f"""<div class="wrap"><div class="page-grid">
@@ -2242,6 +2341,9 @@ def _md_clean(page):
     if page.get("last_checked"): meta.append(f"Last checked: {page['last_checked']}")
     if page.get("updated"): meta.append(f"Last updated: {page['updated']}")
     lines += ["> " + " | ".join(meta), ""]
+    qa = quick_answer_text(page)
+    if qa:
+        lines += ["## Quick answer", "", qa, ""]
     srcs = fm.get("sources") or []
     body = page["body"].strip() + "\n"
     if isinstance(srcs, list) and srcs:
