@@ -46,9 +46,13 @@ wiki/
 ├── conditions/            ← 163 country pages (conditions/<country>.md)
 ├── concepts/              ← 10 residency-type generalizer pages
 ├── alerts/                ← weekly delta reports (alerts/YYYY-MM-DD.md)
+├── i18n/ru/               ← Russian translations (conditions/, concepts/, glossary.md, terms.json, names.json)
 ├── raw/articles/          ← immutable web extracts (monitor snapshots)
 ├── scripts/
-│   ├── generate_site.py   ← stdlib-only static site generator
+│   ├── generate_site.py   ← stdlib-only static site generator (builds en at / and ru at /ru/)
+│   ├── i18n_ru.py         ← Russian UI strings + shared translation-hash function
+│   ├── translate_ru.py    ← EN→RU translation pipeline (OpenRouter, deepseek-v4-pro)
+│   ├── indexnow.py        ← pings IndexNow after deploy
 │   └── auto-sync.sh       ← auto-commit + push to GitHub
 └── .github/workflows/
     └── gh-pages.yml       ← GitHub Actions deploy to GitHub Pages
@@ -169,6 +173,21 @@ HTML pages with a dark Wikipedia-style theme. Output lands in `site_output/` (gi
 2. Apply changes to all affected country pages.
 3. Regenerate concept pages if cross-country tables changed.
 4. Append log + CHANGELOG entries.
+
+### Russian Version (`/ru/`)
+
+The site is built twice: English at `/`, Russian at `/ru/` (EN/RU switch in the header, `hreflang` pairs, ru URLs in the
+sitemap). Page text comes from `i18n/ru/*.md`, produced by `scripts/translate_ru.py`:
+
+- Prose, list items and table cells are translated; headings stay English in the markdown and are mapped through
+  `i18n/ru/terms.json` at render time (anchors and parsers keep working). URLs, `[[wikilinks]]`, `^[citations]` and the
+  Source/Confidence columns are never touched; every number must survive verbatim (validated, failures stay English).
+- Each translation stores `source_hash` (English body + title, ignoring `last_checked`/`Last monitored`). The generator uses
+  a translation only while the hash matches; otherwise the ru page shows the English text with a "not translated yet"
+  banner, `noindex` and a canonical link to the English page. Data-derived values (rates, tax, facts strip) come from the English page.
+- `python3 scripts/translate_ru.py --top` (launch set), `<slug> ...`, `--stale` (re-translate changed pages), `--status`, `--names`.
+  Needs `OPENROUTER_API_KEY` (env or `~/.hermes/.env`). Cost is about $0.02 per country page.
+- Weekly changes (`/changes/`) exist in English only; the ru nav links to them.
 
 ### How a Change Reaches the Live Site
 

@@ -3,7 +3,7 @@
 Working plan for Residency Radar / Residency Vault. Order = priority inside each stage. Update when something ships (and add it to CHANGELOG.md).
 
 ## Positioning
-Overview-level, source-cited, continuously monitored reference for residency and citizenship conditions in 163 countries. Information only, never legal advice. English first; a Russian version is deferred until the English product has an audience.
+Overview-level, source-cited, continuously monitored reference for residency and citizenship conditions in 163 countries. Information only, never legal advice. English first; a Russian version (`/ru/`) is rolled out page by page via `scripts/translate_ru.py`.
 
 ## Stage 0 — Foundations (done / in progress)
 - [x] 163 country pages + 10 program pages in one schema (v2)
@@ -50,5 +50,4 @@ Ordered by speed. Ranges are rough assumptions, not market data.
 ## Later / ideas
 - **Special residency conditions per country** — a catch-all for residence programs that do not fit the 10 canonical types (SCHEMA taxonomy): ancestry/heritage and repatriation routes, regimes for nationals of specific countries (treaty/quota), humanitarian and temporary-protection statuses, special professional or regional schemes. Plan: add an "Other / special programs" section to the country page schema (free-form rows: program, who qualifies, conditions, source), collect it during the monitor pass, and promote a type to a canonical class once it shows up in many countries.
 
-## Parked
-- Russian-language version (revisit when the English site has steady traffic)
+- **Russian version, remaining pages** — launch set is the top-17 countries + 10 program pages + glossary; translate the other 146 country pages (about $0.02 each) and the weekly changes feed. Keep `translate_ru.py --stale` in the weekly pipeline so translations never lag the English pages.

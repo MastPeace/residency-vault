@@ -5,3 +5,5 @@ scripts/auto-sync.env
 
 # Static site generator output (regenerated on every build)
 site_output/
+__pycache__/
+*.pyc

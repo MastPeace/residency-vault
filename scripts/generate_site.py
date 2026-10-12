@@ -19,7 +19,15 @@ from collections import OrderedDict
 # ── Configuration ────────────────────────────────────────────────────────────
 
 WIKI_DIR = Path(__file__).resolve().parent.parent  # /home/vovka/wiki
-OUTPUT_DIR = WIKI_DIR / "site_output"
+SITE_DIR = WIKI_DIR / "site_output"          # site root (en at /, ru under /ru/)
+OUTPUT_DIR = SITE_DIR                        # where the language currently being built is written
+I18N_DIR = WIKI_DIR / "i18n" / "ru"
+LANG = "en"                                  # language of the current build pass: "en" | "ru"
+LP = ""                                      # URL/path prefix of the current language ("" or "ru/")
+UI_MISSING = set()
+RU_UNTRANSLATED = set()                      # rel paths of ru pages that still show English text (noindex, canonical -> en)
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import i18n_ru
 CONDITIONS_DIR = WIKI_DIR / "conditions"
 CONCEPTS_DIR = WIKI_DIR / "concepts"
 REGIONS_FILE = WIKI_DIR / "regions.yaml"
@@ -28,6 +36,17 @@ SITE_TITLE = "Residency & Citizenship Wiki"
 SITE_SUBTITLE = "Cross-country living conditions for every kind of residency program"
 
 # ── YAML Frontmatter Parser (minimal, stdlib) ────────────────────────────────
+
+def T(s):
+    """UI string in the language of the current build pass (English falls through)."""
+    if LANG != "ru":
+        return s
+    v = i18n_ru.UI.get(s)
+    if v is None:
+        UI_MISSING.add(s)
+        return s
+    return v
+
 
 def parse_frontmatter(text):
     """Parse YAML frontmatter (--- ... ---) at start of text.
@@ -460,9 +479,9 @@ def fmt_source(s):
         w = re.search(r'\[\[#([\w-]+)\]\]', s)
         if w: link = f'<a class="wikilink" href="#{w.group(1)}">{html.escape(w.group(1).replace("-", " "))}</a>'
     low = s.lower()
-    if 'hard/official' in low: badge = '<span class="off" title="official source">&#10003;</span>'
-    elif 'unsourced' in low: badge = '<span class="est unsrc" title="no verifiable source">?</span>'
-    elif 'soft/estimate' in low: badge = '<span class="est" title="estimate or secondary source \u2014 may be outdated">~</span>'
+    if 'hard/official' in low: badge = '<span class="off" title="' + T("official source") + '">&#10003;</span>'
+    elif 'unsourced' in low: badge = '<span class="est unsrc" title="' + T("no verifiable source") + '">?</span>'
+    elif 'soft/estimate' in low: badge = '<span class="est" title="' + T("estimate or secondary source — may be outdated") + '">~</span>'
     else: badge = ''
     return (link + ' ' + badge).strip()
 
@@ -478,7 +497,7 @@ def render_snapshot_html(section_text):
             break
     content = '\n'.join(lines[content_start:]).strip()
     if not content:
-        return '<div class="snapshot-section"><h2 id="country-snapshot">Country Snapshot</h2><p class="snapshot-empty">No data yet.</p></div>'
+        return f'<div class="snapshot-section"><h2 id="country-snapshot">Country Snapshot</h2><p class="snapshot-empty">{T("No data yet.")}</p></div>'
 
     # Detect format: table or list
     if '|' in content and any('---' in l for l in content.split('\n')):
@@ -487,14 +506,14 @@ def render_snapshot_html(section_text):
         rows = parse_snapshot_list(content)
 
     if not rows:
-        return '<div class="snapshot-section"><h2 id="country-snapshot">Country Snapshot</h2><p class="snapshot-empty">No data yet.</p></div>'
+        return f'<div class="snapshot-section"><h2 id="country-snapshot">Country Snapshot</h2><p class="snapshot-empty">{T("No data yet.")}</p></div>'
 
     def snap_inline(s):
         t = html.escape(s)
         t = re.sub(r'\[\[#([\w-]+)\]\]', lambda m: f'<a class="wikilink" href="#{m.group(1)}">{m.group(1).replace("-", " ")}</a>', t)
         t = re.sub(r'\[([^\]]+)\]\((https?://[^)\s]+)\)', r'<a href="\2" rel="noopener">\1</a>', t)
-        t = re.sub(r'\s*[—-]?\s*\[?(hard/official)\]?', ' <span class="off">official</span>', t)
-        t = re.sub(r'\s*[—-]?\s*\[?(soft/estimate)\]?', ' <span class="est">estimate</span>', t)
+        t = re.sub(r'\s*[—-]?\s*\[?(hard/official)\]?', ' <span class="off">' + T("official") + '</span>', t)
+        t = re.sub(r'\s*[—-]?\s*\[?(soft/estimate)\]?', ' <span class="est">' + T("estimate") + '</span>', t)
         return t.strip()
 
     html_parts = [
@@ -512,8 +531,8 @@ def render_snapshot_html(section_text):
 
 def render_extended_html(section_text):
     """Extended Snapshot -> collapsible per-block cards (Block | Field | Value | Source table in markdown)."""
-    m = re.search(r'Coverage:\s*(\d+)/(\d+)', section_text)
-    cov = f'{m.group(1)}/{m.group(2)} fields' if m else ''
+    m = re.search(r'(?:Coverage|Охват):\s*(\d+)/(\d+)', section_text)
+    cov = f'{m.group(1)}/{m.group(2)} {T("fields") if LANG == "ru" else "fields"}' if m else ''
     blocks = {}
     for line in section_text.split('\n'):
         if not line.startswith('| ') or line.startswith('| Block') or line.startswith('|---'):
@@ -527,7 +546,7 @@ def render_extended_html(section_text):
     src = fmt_source
     parts = ['<div class="snapshot-section ext-snapshot">',
              '<h2 id="extended-snapshot">Extended Snapshot</h2>',
-             f'<p class="ext-cov">{html.escape(cov)} &middot; &#10003; official &nbsp; ~ estimate or secondary source, may be outdated &nbsp; ? unverified &middot; fields without reliable data are hidden</p>']
+             f'<p class="ext-cov">{html.escape(cov)} &middot; ' + (T("ext_legend") if LANG == "ru" else '&#10003; official &nbsp; ~ estimate or secondary source, may be outdated &nbsp; ? unverified &middot; fields without reliable data are hidden') + '</p>']
     for i, (blk, rows) in enumerate(blocks.items()):
         have = sum(1 for r in rows if r[1] != 'No reliable data')
         if have == 0:
@@ -667,8 +686,28 @@ CONCEPT_SLUGS = set()
 all_pages = {}  # slug -> {title, type, body, frontmatter, html_body, category, tags, ...}
 
 
+def ru_text(md_file):
+    """Fresh Russian translation of an English source file (matching source_hash) or None."""
+    if LANG != "ru":
+        return None
+    rel = md_file.relative_to(WIKI_DIR)
+    p = I18N_DIR / (rel.name if rel.parent.name == "" else str(rel))
+    if not p.exists():
+        return None
+    rt = p.read_text(encoding="utf-8")
+    m = re.search(r"^source_hash:\s*(\w+)", rt, re.M)
+    if not m or m.group(1) != i18n_ru.source_hash(md_file.read_text(encoding="utf-8")):
+        return None
+    return rt
+
+
+RU_NAMES = {}
+
+
 def collect_pages():
     """Read all .md files from conditions/ and concepts/, parse frontmatter."""
+    all_pages.clear(); CONCEPT_SLUGS.clear()
+    RU_NAMES.clear(); RU_NAMES.update(i18n_ru.load_names() if LANG == "ru" else {})
     # Concepts first (to build CONCEPT_SLUGS) -- pre-register all so concept->concept links resolve
     CONCEPT_SLUGS.update(f.stem for f in CONCEPTS_DIR.glob("*.md"))
     for md_file in sorted(CONCEPTS_DIR.glob("*.md")):
@@ -676,10 +715,13 @@ def collect_pages():
         CONCEPT_SLUGS.add(slug)
         text = md_file.read_text(encoding="utf-8")
         frontmatter, body = parse_frontmatter(text)
-        html_body = md_to_html(body, "concept", slug)
+        rt = ru_text(md_file)
+        fm_v, body_v = parse_frontmatter(rt) if rt else (frontmatter, body)
+        html_body = md_to_html(body_v, "concept", slug)
         all_pages[slug] = {
             "slug": slug,
-            "title": frontmatter.get("title", slug.replace("-", " ").title()),
+            "title": fm_v.get("title", slug.replace("-", " ").title()),
+            "translated": bool(rt), "body_ru": body_v if rt else "",
             "type": "concept",
             "category": frontmatter.get("category", ""),
             "tags": frontmatter.get("tags", []),
@@ -698,14 +740,20 @@ def collect_pages():
         slug = md_file.stem
         text = md_file.read_text(encoding="utf-8")
         frontmatter, body = parse_frontmatter(text)
+        rt = ru_text(md_file)
+        fm_v, body_v = parse_frontmatter(rt) if rt else (frontmatter, body)
         # Extract Country Snapshot and Country Card before normal rendering
-        body_noext, ext_text = extract_section(body, '## Extended Snapshot')
+        body_noext, ext_text = extract_section(body_v, '## Extended Snapshot')
         extended_html = render_extended_html(ext_text) if ext_text else None
         clean_body, snapshot_html, card_html = extract_snapshot_card(body_noext)
         html_body = md_to_html(clean_body, "entity", slug)
+        title_v = fm_v.get("title", slug.replace("-", " ").title())
+        if LANG == "ru" and not rt and slug in RU_NAMES:      # untranslated page: Russian name, English text
+            title_v = RU_NAMES[slug] + " — " + (re.split(r"\s[—–-]\s", title_v, maxsplit=1) + [""])[1]
         all_pages[slug] = {
             "slug": slug,
-            "title": frontmatter.get("title", slug.replace("-", " ").title()),
+            "title": title_v,
+            "translated": bool(rt), "body_ru": body_v if rt else "",
             "type": "entity",
             "category": frontmatter.get("category", ""),
             "tags": frontmatter.get("tags", []),
@@ -896,6 +944,10 @@ kbd { font: 11px var(--mono); padding: 1px 6px; border: 1px solid var(--line-str
 .page-head .sub .code { font: 600 13px var(--mono); padding: 1px 8px; background: var(--ink); color: var(--bg); border-radius: 3px; }
 .page-head .sub .dates { font: 13px var(--mono); color: var(--muted); }
 .page-head .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+.lang-sw { font: 600 12px var(--sans); letter-spacing: .04em; color: var(--ink-2); border: 1px solid var(--line); border-radius: 6px; padding: 5px 8px; text-decoration: none; line-height: 1; }
+.lang-sw:hover { color: var(--ink); border-color: var(--ink-2); }
+.mnav-lang { display: block; }
+@media (max-width: 960px) { .topbar .lang-sw { padding: 6px 7px; } }
 .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); margin: 28px 0 0; border-top: 2px solid var(--ink); border-bottom: 1px solid var(--line); }
 .facts div { padding: 12px 16px 14px 0; }
 .facts div + div { padding-left: 16px; border-left: 1px solid var(--line); }
@@ -1120,11 +1172,22 @@ SITE_URL = "https://residencyradar.org/"
 HOME_TITLE = "Residency & Citizenship Conditions for 163 Countries | Residency Radar"
 HOME_DESC = ("Source-cited residency and citizenship requirements for 163 countries: golden visas, digital nomad, work and "
              "passive-income routes, years to citizenship, tax. Updated weekly.")
-NOTICE_HTML = ('<aside class="notice" role="note"><b>Overview information only.</b> This page is a general summary compiled '
+NOTICE_EN = ('<aside class="notice" role="note"><b>Overview information only.</b> This page is a general summary compiled '
     'from public sources with the help of automated tools. It is <b>not legal, tax or immigration advice</b> and may be '
     'incomplete or out of date. Rules, thresholds and fees change often and are applied case by case. Always verify with the '
     'official sources cited on the page and consult a licensed professional before you apply or make a decision.</aside>')
 TG_URL = "https://t.me/migrate_easy"
+
+
+class _Notice:
+    def __str__(self):
+        return i18n_ru.UI["notice"] if LANG == "ru" else NOTICE_EN
+    __html__ = __str__
+    def __format__(self, spec):
+        return str(self)
+
+
+NOTICE_HTML = _Notice()
 
 
 def parse_region_meta(filepath):
@@ -1231,6 +1294,21 @@ def fm_scalar(page, key):
     return v if isinstance(v, str) else ""
 
 
+def snapshot_view(page, field_prefix):
+    """Value as shown to readers: English row located in the English body, text taken from the same line of the Russian body."""
+    m = re.search(r'\|\s*' + re.escape(field_prefix) + r'[^|]*\|\s*([^|]*?)\s*\|', page["body"])
+    if not m:
+        return ""
+    if LANG == "ru" and page.get("body_ru"):
+        ln = page["body"].count("\n", 0, m.start())
+        rl = page["body_ru"].split("\n")
+        if ln < len(rl) and rl[ln].lstrip().startswith("|"):
+            cells = [c.strip() for c in re.split(r'(?<!\\)\|', rl[ln].strip().strip("|"))]
+            if len(cells) >= 2:
+                return cells[1]
+    return m.group(1).strip()
+
+
 def snapshot_value(page, field_prefix):
     m = re.search(r'\|\s*' + re.escape(field_prefix) + r'[^|]*\|\s*([^|]*?)\s*\|', page["body"])
     return m.group(1).strip() if m else ""
@@ -1275,7 +1353,7 @@ def conf_html(level, compact=False):
     if not n:
         return '<span class="none">—</span>'
     bars = "".join(f'<b class="{"on" if i < n else ""}"></b>' for i in range(3))
-    return f'<span class="conf" title="Confidence: {level}"><i>{bars}</i>{'' if compact else level.capitalize() + ' confidence'}</span>'
+    return f'<span class="conf" title="{T('Confidence')}: {T(level.capitalize()) if LANG == 'ru' else level}"><i>{bars}</i>{'' if compact else T(level.capitalize() + ' confidence')}</span>'
 
 
 def first_sentences(text, limit=190):
@@ -1289,7 +1367,7 @@ def first_sentences(text, limit=190):
 
 def parse_status(page):
     """Return dict of Status section bullets {label: text}."""
-    m = re.search(r'^## Status\s*\n(.*?)(?=^## |\Z)', page["body"], re.M | re.S)
+    m = re.search(r'^## Status\s*\n(.*?)(?=^## |\Z)', page.get("body_ru") or page["body"], re.M | re.S)
     out = OrderedDict()
     if not m:
         return out
@@ -1302,6 +1380,11 @@ def parse_status(page):
             elif key.lower() == "watch":
                 key = "Watch items"
             out[key] = mm.group(2).strip()
+    if page.get("body_ru"):   # the stamp must be today's value, not the one frozen in the translation
+        en = re.search(r'^## Status\s*\n(.*?)(?=^## |\Z)', page["body"], re.M | re.S)
+        lm = re.search(r'^[-*]\s+\*\*Last monitored\*\*\s*:\s*(.+)$', en.group(1), re.M) if en else None
+        if lm:
+            out["Last monitored"] = lm.group(1).strip()
     return out
 
 
@@ -1322,9 +1405,9 @@ THEME_BOOT = ("<script>try{var t=localStorage.getItem('rv-theme');"
 SHELL_JS = r"""
 (function () {
   var root = document.documentElement;
-  var tb = document.getElementById('theme-btn'), tbm = document.getElementById('theme-btn-m');
+  var I = window.I18N || {}, tb = document.getElementById('theme-btn'), tbm = document.getElementById('theme-btn-m');
   function isDark() { var t = root.dataset.theme; return t ? t === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches; }
-  function sync() { tb.textContent = isDark() ? '☀' : '☾'; tb.setAttribute('aria-label', isDark() ? 'Switch to light theme' : 'Switch to dark theme'); if (tbm) tbm.textContent = isDark() ? 'Light theme' : 'Dark theme'; }
+  function sync() { tb.textContent = isDark() ? '☀' : '☾'; tb.setAttribute('aria-label', isDark() ? I.toLight : I.toDark); if (tbm) tbm.textContent = isDark() ? I.lightTheme : I.darkTheme; }
   function flip() {
     var n = isDark() ? 'light' : 'dark'; root.dataset.theme = n;
     try { localStorage.setItem('rv-theme', n); } catch (e) {} sync();
@@ -1353,8 +1436,8 @@ SHELL_JS = r"""
     sel = 0;
     list.innerHTML = shown.length ? shown.map(function (e, i) {
       return '<li class="' + (i === 0 ? 'sel' : '') + '"><a href="' + base + e.url + '">' + e.title.replace(/</g, '&lt;') +
-        '<small>' + (e.type === 'entity' ? (e.country_code || 'country') : 'program') + '</small></a></li>';
-    }).join('') : '<li class="empty">No matches</li>';
+        '<small>' + (e.type === 'entity' ? (e.country_code || I.country) : I.program) + '</small></a></li>';
+    }).join('') : '<li class="empty">' + I.none + '</li>';
   }
   function mark() { [].forEach.call(list.children, function (li, i) { li.classList.toggle('sel', i === sel); });
     var s = list.children[sel]; if (s && s.scrollIntoView) s.scrollIntoView({ block: 'nearest' }); }
@@ -1405,7 +1488,7 @@ INDEX_JS = r"""
         pon.every(function (c) { return pr.indexOf(c) > -1; });
       r.hidden = !ok; if (ok) n++;
     });
-    cnt.textContent = n + ' of ' + rows.length + ' countries';
+    var I = window.I18N || {}; cnt.textContent = n + ' ' + I.of + ' ' + rows.length + ' ' + I.countries;
   }
   chips.concat(pchips).forEach(function (c) { c.addEventListener('click', function () {
     c.setAttribute('aria-pressed', c.getAttribute('aria-pressed') === 'true' ? 'false' : 'true'); apply(); }); });
@@ -1438,13 +1521,23 @@ INDEX_JS = r"""
 
 def shell(title, body, base, extra_js="", desc="", ld=""):
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    ru = LANG == "ru"
+    chg = f"{SITE_URL}changes/index.html" if ru else f"{base}changes/index.html"   # weekly changes exist in English only
+    nav = (f'<a href="{base}countries.html">{T("Countries")}</a><a href="{base}programs.html">{T("Programs")}</a>'
+           f'<a href="{chg}"{" hreflang=\"en\"" if ru else ""}>{T("Changes")}</a><a href="{base}glossary.html">{T("Glossary")}</a>')
+    i18n = json.dumps({"toLight": T("Switch to light theme"), "toDark": T("Switch to dark theme"), "lightTheme": T("Light theme"),
+                       "darkTheme": T("Dark theme"), "none": T("No matches"), "country": T("country"), "program": T("program"),
+                       "of": "из" if ru else "of", "countries": "стран" if ru else "countries"}, ensure_ascii=False)
+    other = "en" if ru else "ru"
+    sw_title = "English" if ru else "Русский"
+    footer_txt = T("footer") if ru else ("Residency Radar · powered by the Residency Vault knowledge base. Overview information only — not legal, tax or immigration advice. Conditions change; verify with the official sources cited on each page.")
     return f"""<!DOCTYPE html>
-<html lang="en">
+<html lang="{LANG}">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(title)}</title>
-<meta name="description" content="{html.escape(desc or SITE_SUBTITLE)}">
+<meta name="description" content="{html.escape(desc or (T("HOME_DESC") if ru else SITE_SUBTITLE))}">
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
 {ld}
 <link rel="icon" type="image/svg+xml" href="{base}assets/favicon.svg">
@@ -1457,21 +1550,24 @@ def shell(title, body, base, extra_js="", desc="", ld=""):
 <body data-base="{base}">
 <header class="topbar"><div class="wrap">
   <a class="brand" href="{base}index.html"><img class="logo logo-light" src="{base}assets/logo-light.png" width="34" height="34" alt=""><img class="logo logo-dark" src="{base}assets/logo-dark.png" width="34" height="34" alt=""><span class="bt"><span class="bn">Residency<span>Radar</span></span><small class="bs">powered by Residency Vault</small></span></a>
-  <nav class="topnav"><a href="{base}countries.html">Countries</a><a href="{base}programs.html">Programs</a><a href="{base}changes/index.html">Changes</a><a href="{base}glossary.html">Glossary</a></nav>
+  <nav class="topnav">{nav}</nav>
   <span class="spacer"></span>
-  <button class="search-btn" id="search-btn" type="button" aria-label="Search countries and programs"><svg class="si" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><span>Search countries and programs</span><kbd>/</kbd></button>
-  <a class="tg-btn" href="{TG_URL}" rel="noopener" title="News channel on Telegram"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.6 19.6c-.2 1-.9 1.3-1.7.8l-4.7-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.8 8.7-7.9c.4-.3-.1-.5-.6-.2L6.5 13.4l-4.6-1.4c-1-.3-1-1 .2-1.5L20 3.5c.8-.3 1.6.2 1.9.8z"/></svg><span>News channel</span></a>
-  <button class="icon-btn" id="theme-btn" type="button" aria-label="Toggle theme">☾</button>
-  <button class="icon-btn burger" id="menu-btn" type="button" aria-label="Menu" aria-expanded="false" aria-controls="mnav"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+  <button class="search-btn" id="search-btn" type="button" aria-label="{T("Search countries and programs")}"><svg class="si" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><span>{T("Search countries and programs")}</span><kbd>/</kbd></button>
+  <a class="tg-btn" href="{TG_URL}" rel="noopener" title="{T("News channel on Telegram")}"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.6 19.6c-.2 1-.9 1.3-1.7.8l-4.7-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.8 8.7-7.9c.4-.3-.1-.5-.6-.2L6.5 13.4l-4.6-1.4c-1-.3-1-1 .2-1.5L20 3.5c.8-.3 1.6.2 1.9.8z"/></svg><span>{T("News channel")}</span></a>
+  <a class="lang-sw" href="@@LANGSW@@" hreflang="{other}" lang="{other}" title="{sw_title}" aria-label="{sw_title}" data-lang="{other}">{other.upper()}</a>
+  <button class="icon-btn" id="theme-btn" type="button" aria-label="{T("Toggle theme")}">☾</button>
+  <button class="icon-btn burger" id="menu-btn" type="button" aria-label="{T("Menu")}" aria-expanded="false" aria-controls="mnav"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
 </div>
-<nav class="mnav" id="mnav" aria-label="Menu"><a href="{base}countries.html">Countries</a><a href="{base}programs.html">Programs</a><a href="{base}changes/index.html">Changes</a><a href="{base}glossary.html">Glossary</a><button type="button" class="mnav-theme" id="theme-btn-m">Dark theme</button></nav>
+<nav class="mnav" id="mnav" aria-label="{T("Menu")}">{nav}<a class="mnav-lang" href="@@LANGSW@@" hreflang="{other}" data-lang="{other}">{sw_title}</a><button type="button" class="mnav-theme" id="theme-btn-m">{T("Dark theme")}</button></nav>
 </header>
-<div class="palette" id="palette" role="dialog" aria-label="Search"><div class="palette-box">
-  <input type="text" placeholder="Country, code or program…" autocomplete="off" aria-label="Search"><ul></ul>
+<div class="palette" id="palette" role="dialog" aria-label="{T("Search")}"><div class="palette-box">
+  <input type="text" placeholder="{T("Country, code or program…")}" autocomplete="off" aria-label="{T("Search")}"><ul></ul>
 </div></div>
 {body}
-<footer class="foot"><div class="wrap"><span>Residency Radar · powered by the Residency Vault knowledge base. Overview information only — not legal, tax or immigration advice. Conditions change; verify with the official sources cited on each page.</span><span class="foot-r">Built {now}<a class="foot-ic" href="{TG_URL}" rel="noopener" aria-label="Telegram channel" title="Telegram channel"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.6 19.6c-.2 1-.9 1.3-1.7.8l-4.7-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.8 8.7-7.9c.4-.3-.1-.5-.6-.2L6.5 13.4l-4.6-1.4c-1-.3-1-1 .2-1.5L20 3.5c.8-.3 1.6.2 1.9.8z"/></svg></a><a class="foot-ic" href="{REPO_URL}" aria-label="Source on GitHub" title="Source on GitHub"><svg viewBox="0 0 16 16" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38v-1.33c-2.23.48-2.7-1.07-2.7-1.07-.36-.92-.89-1.17-.89-1.17-.73-.5.05-.49.05-.49.8.06 1.23.83 1.23.83.72 1.22 1.88.87 2.34.66.07-.52.28-.87.5-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.6 7.6 0 0 1 4 0c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.28.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48v2.2c0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg></a></span></div></footer>
+<footer class="foot"><div class="wrap"><span>{footer_txt}</span><span class="foot-r">Built {now}<a class="foot-ic" href="{TG_URL}" rel="noopener" aria-label="Telegram channel" title="Telegram channel"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.6 19.6c-.2 1-.9 1.3-1.7.8l-4.7-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.8 8.7-7.9c.4-.3-.1-.5-.6-.2L6.5 13.4l-4.6-1.4c-1-.3-1-1 .2-1.5L20 3.5c.8-.3 1.6.2 1.9.8z"/></svg></a><a class="foot-ic" href="{REPO_URL}" aria-label="Source on GitHub" title="Source on GitHub"><svg viewBox="0 0 16 16" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38v-1.33c-2.23.48-2.7-1.07-2.7-1.07-.36-.92-.89-1.17-.89-1.17-.73-.5.05-.49.05-.49.8.06 1.23.83 1.23.83.72 1.22 1.88.87 2.34.66.07-.52.28-.87.5-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.6 7.6 0 0 1 4 0c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.28.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48v2.2c0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg></a></span></div></footer>
+<script>window.I18N={i18n};</script>
 <script>{SHELL_JS}</script>
+<script>document.addEventListener('click',function(e){{var a=e.target.closest&&e.target.closest('[data-lang]');if(a)try{{localStorage.setItem('rv-lang',a.dataset.lang)}}catch(x){{}}}});</script>
 {extra_js}
 </body>
 </html>"""
@@ -1492,16 +1588,16 @@ FACT_FIELDS = [
 def build_facts(page):
     items = []
     for prefix, label in FACT_FIELDS:
-        v = strip_md(snapshot_value(page, prefix))
+        v = strip_md(snapshot_view(page, prefix))
         v = re.sub(r'\s*—?\s*\[?(hard/official|soft/estimate)\]?\s*$', '', v).strip()
         v = re.sub(r'\s*See\s+\[\[[^\]]*\]\].*$', '', v).strip()
         if prefix == "Passport strength":
             m = re.search(r'~?(\d{2,3})\s+(?:visa-free\s+)?(?:destinations|countries)?', v)
-            v = f"{m.group(1)} visa-free" if m else v
+            v = f"{m.group(1)} {T('visa-free')}" if m else v
         elif prefix.startswith("Effective personal tax"):
-            v = re.split(r',\s*or\s|;|\sor\s', v)[0].strip()
+            v = re.split(r',\s*or\s|;|\sor\s|,\s*или\s|\sили\s', v)[0].strip()
         if v and v != "—" and len(items) < 5:
-            items.append(f'<div><dt>{label}</dt><dd>{html.escape(v)}</dd></div>')
+            items.append(f'<div><dt>{T(label)}</dt><dd>{html.escape(v)}</dd></div>')
     return f'<dl class="facts">{"".join(items)}</dl>' if len(items) >= 3 else ""
 
 
@@ -1613,13 +1709,32 @@ def build_monitor(page):
         return ""
     checked = st.get("Last monitored", "")
     rows = []
-    for key, label in (("Recent changes", "Recent changes"), ("Watch items", "Watching")):
+    for key, label in (("Recent changes", T("Recent changes")), ("Watch items", T("Watching"))):
         if st.get(key):
             rows.append(f'<dt>{label}</dt><dd>{inline_md(st[key])}</dd>')
     if not rows:
         return ""
-    stamp = f'<time>checked {html.escape(checked)}</time>' if checked else ""
-    return f'<section class="monitor"><h2>Monitoring{stamp}</h2><dl>{"".join(rows)}</dl></section>'
+    stamp = f'<time>{T("checked")} {html.escape(checked)}</time>' if checked else ""
+    return f'<section class="monitor"><h2>{T("Monitoring")}{stamp}</h2><dl>{"".join(rows)}</dl></section>'
+
+
+_TERMS = {}
+
+
+def ru_heads(doc):
+    """Map English heading / table-header texts to Russian (ids stay English so in-page links and parsers keep working)."""
+    if not _TERMS:
+        _TERMS.update(i18n_ru.load_terms())
+        for k, v in i18n_ru.UI.items():
+            _TERMS.setdefault(k, v)
+    def one(m):
+        inner = m.group(3)
+        key = re.sub(r"<[^>]+>", "", inner).strip()
+        key = html.unescape(key)
+        return f"<{m.group(1)}{m.group(2) or ''}>{html.escape(_TERMS[key])}</{m.group(1)}>" if key in _TERMS and "<" not in inner else m.group(0)
+    doc = re.sub(r"<(h[2-4]|th)(\s[^>]*)?>(.*?)</\1>", one, doc, flags=re.S)
+    # program-type keys in table cells (investment_residency, ...)
+    return re.sub(r"<td([^>]*)>([a-z]+(?:_[a-z]+)+)</td>", lambda m: f"<td{m.group(1)}>{html.escape(_TERMS.get(m.group(2), m.group(2)))}</td>", doc)
 
 
 def build_toc(body_html):
@@ -1628,7 +1743,7 @@ def build_toc(body_html):
     if len(items) < 3:
         return ""
     lis = "".join(f'<li><a href="#{i}">{t}</a></li>' for i, t in items)
-    return f'<aside class="toc"><h2>On this page</h2><ul>{lis}</ul></aside>'
+    return f'<aside class="toc"><h2>{T("On this page")}</h2><ul>{lis}</ul></aside>'
 
 
 def fix_inpage_anchors(doc):
@@ -1676,6 +1791,13 @@ def seo_year(page):
 
 
 def seo_country(page, name):
+    if LANG == "ru":
+        year = seo_year(page)
+        title = T("seo_country_title").format(name=name, year=year)
+        if len(title) + 18 <= 62:
+            title += " | Residency Radar"
+        ov = re.search(r"^## Overview\s*\n(.*?)(?=^## )", page.get("body_ru") or page["body"], re.S | re.M)
+        return title, first_sentences(re.sub(r"\^\[[^\]]*\]", "", ov.group(1) if ov else ""), 158)
     year = seo_year(page)
     title = f"{name} Residency & Citizenship Requirements {year}"
     if len(title) + 18 <= 62:
@@ -1705,6 +1827,11 @@ def seo_country(page, name):
 
 def seo_concept(page, name):
     base = re.split(r"\s[—–-]\s", name, maxsplit=1)[0].strip()
+    if LANG == "ru":
+        title = T("seo_concept_title").format(base=base)
+        body = re.sub(r"^## .*$", "", page.get("body_ru") or page["body"], flags=re.M)
+        first = strip_md(re.sub(r"\[\[([^\]|#]+)(?:\|([^\]]+))?\]\]", lambda m: m.group(2) or m.group(1).replace("-", " "), body.strip().split("\n\n")[0]))
+        return title, clip_words(first, 158)
     title = f"{base}: Requirements Compared Across Countries"
     if len(title) <= 52:
         title += " | Residency Radar"
@@ -1719,18 +1846,18 @@ def seo_ld(kind, url, name, desc, page=None, crumbs=()):
            "logo": SITE_URL + "assets/logo-dark.png", "sameAs": [TG_URL, REPO_URL]}
     graph = []
     if kind == "home":
-        graph += [org, {"@type": "WebSite", "name": "Residency Radar", "url": SITE_URL, "description": desc,
+        graph += [org, {"@type": "WebSite", "name": "Residency Radar", "url": SITE_URL + LP, "inLanguage": LANG, "description": desc,
                         "publisher": {"@type": "Organization", "name": "Residency Radar"}}]
     else:
         item = {"@type": "Article" if page else "WebPage", "headline": name, "name": name, "description": desc,
-                "url": url, "mainEntityOfPage": url, "inLanguage": "en", "publisher": {"@type": "Organization", "name": "Residency Radar", "url": SITE_URL}}
+                "url": url, "mainEntityOfPage": url, "inLanguage": LANG, "publisher": {"@type": "Organization", "name": "Residency Radar", "url": SITE_URL}}
         if page:
             if page.get("created"): item["datePublished"] = page["created"]
             dm = page.get("updated") or page.get("last_checked")
             if dm: item["dateModified"] = dm
             item["author"] = {"@type": "Organization", "name": "Residency Radar", "url": SITE_URL}
             item["image"] = SITE_URL + "assets/og-card.png"
-            qa = quick_answer_text(page)
+            qa = quick_answer_text(page) if LANG == "en" else ""
             if qa: item["abstract"] = re.sub(r"^- ", "", qa, flags=re.M).replace("\n", " ")
         graph.append(item)
         if crumbs:
@@ -1746,13 +1873,13 @@ def related_html(page, region_meta, region_labels, is_entity):
         peers = [p for sl, p in all_pages.items() if p["type"] == "entity" and sl != page["slug"]
                  and region_meta.get(sl, {}).get("region") == reg]
         peers.sort(key=lambda p: display_name(p["title"]))
-        heading = f"More countries in {region_labels.get(reg, 'this region')}"
+        heading = (f"{T('More countries in')} {T(region_labels.get(reg, '')) if reg in region_labels else T('this region')}" if LANG == "ru" else f"More countries in {region_labels.get(reg, 'this region')}")
         items = [(f'{sl}.html', display_name(p["title"]), p.get("country_code")) for p in peers[:10] for sl in [p["slug"]]]
-        progs = [(f'../concepts/{x}.html', PROG_ICONS[x][1]) for x in programs_of(page)]
-        extra = ("<h2 class=\"rel-h\">Program types offered here</h2><ul class=\"related-list\">"
-                 + "".join(f'<li><a href="{u}">{html.escape(n)} compared</a></li>' for u, n in progs) + "</ul>") if progs else ""
+        progs = [(f'../concepts/{x}.html', T(PROG_ICONS[x][1])) for x in programs_of(page)]
+        extra = ("<h2 class=\"rel-h\">" + T('Program types offered here') + "</h2><ul class=\"related-list\">"
+                 + "".join(f'<li><a href="{u}">{html.escape(n)}{" — сравнение" if LANG == "ru" else " compared"}</a></li>' for u, n in progs) + "</ul>") if progs else ""
     else:
-        heading = "Other residency program types"
+        heading = T("Other residency program types")
         items = [(f'{sl}.html', p["title"].split(" — ")[0], None) for sl, p in all_pages.items() if p["type"] != "entity" and sl != page["slug"]]
         extra = ""
     if not items and not extra:
@@ -1928,8 +2055,9 @@ def history_html(page):
     rows = CHANGES_BY_SLUG.get(page["slug"]) if page["type"] == "entity" else None
     if not rows:
         return ""
-    lis = "".join(f'<li><a href="../changes/{d}.html"><time>{_fmt_date(d)}</time> {html.escape(h)}</a></li>' for d, h in rows[:8])
-    return f'<section class="related"><h2 class="rel-h">Change history</h2><ul class="hist-list">{lis}</ul><p class="chg-more"><a href="../changes/index.html">All weekly changes →</a></p></section>'
+    cb = SITE_URL + "changes/" if LANG == "ru" else "../changes/"
+    lis = "".join(f'<li><a href="{cb}{d}.html"><time>{_fmt_date(d)}</time> {html.escape(h)}</a></li>' for d, h in rows[:8])
+    return f'<section class="related"><h2 class="rel-h">{T("Change history")}</h2><ul class="hist-list">{lis}</ul><p class="chg-more"><a href="{cb}index.html">{T("All weekly changes →")}</a></p></section>'
 
 
 def render_page(page, region_meta, region_labels):
@@ -1938,12 +2066,14 @@ def render_page(page, region_meta, region_labels):
     is_entity = page["type"] == "entity"
     cats = cats_of(page, region_meta) if is_entity else []
 
-    body = page["html_body"]
+    body = ru_heads(page["html_body"]) if LANG == "ru" else page["html_body"]
     # status moves to the monitoring panel at the top
     monitor_html = build_monitor(page) if is_entity else ""
     if monitor_html:
         body = re.sub(r'<h2 id="status">.*?(?=<h2 |<div class="footnotes">|\Z)', '', body, flags=re.S)
     extra = (page.get("card_html") or "") + "\n" + (page.get("snapshot_html") or "") + "\n" + (page.get("extended_html") or "")
+    if LANG == "ru":
+        extra = ru_heads(extra)
     if extra.strip():
         marker = '<div class="footnotes">'
         body = body.replace(marker, extra + marker, 1) if marker in body else body + extra
@@ -1953,40 +2083,44 @@ def render_page(page, region_meta, region_labels):
         sub.append(flag_img(page["country_code"], "../", "flag flag-lg") + f'<span class="code">{html.escape(page["country_code"])}</span>')
     reg = region_meta.get(page["slug"], {}).get("region")
     if reg:
-        sub.append(f'<span>{html.escape(region_labels.get(reg, reg))}</span>')
+        sub.append(f'<span>{html.escape(T(region_labels.get(reg, reg)))}</span>')
     if page.get("confidence"):
         sub.append(conf_html(page["confidence"]))
     dates = []
     if page.get("updated"):
-        dates.append(f'updated {html.escape(page["updated"])}')
+        dates.append(f'{T("updated")} {html.escape(page["updated"])}')
     if page.get("last_checked"):
-        dates.append(f'checked {html.escape(page["last_checked"])}')
+        dates.append(f'{T("checked")} {html.escape(page["last_checked"])}')
     if dates:
         sub.append(f'<span class="dates">{" · ".join(dates)}</span>')
-    chips = "".join(f'<span class="chip">{CAT_LABELS[c]}</span>' for c in cats)
+    chips = "".join(f'<span class="chip">{T(CAT_LABELS[c])}</span>' for c in cats)
 
-    crumbs = '<a href="../index.html">Home</a><span class="sep">/</span>'
-    crumbs += (f'<a href="../countries.html">Countries</a>' if is_entity
-               else '<a href="../programs.html">Programs</a>')
+    crumbs = f'<a href="../index.html">{T("Home")}</a><span class="sep">/</span>'
+    crumbs += (f'<a href="../countries.html">{T("Countries")}</a>' if is_entity
+               else f'<a href="../programs.html">{T("Programs")}</a>')
     crumbs += f'<span class="sep">/</span><span>{html.escape(name)}</span>'
 
     head = f"""<div class="crumbs">{crumbs}</div>
-<div class="page-head"><h1>{html.escape(name)}{'<span class="h1-sub"> residency &amp; citizenship</span>' if is_entity else ''}</h1>
+<div class="page-head"><h1>{html.escape(name)}{f'<span class="h1-sub"> {html.escape(T("residency & citizenship"))}</span>' if is_entity else ''}</h1>
 <div class="sub">{"".join(sub)}</div>{f'<div class="chips">{chips}</div>' if chips else ''}</div>
 {build_facts(page) if is_entity else ''}
 {monitor_html}"""
 
+    untr = T("untranslated") if (LANG == "ru" and not page.get("translated")) else ""
     main = f"""<div class="wrap"><div class="page-grid">
-<main class="main"><article>{head}<div class="article">{body}</div>{history_html(page)}{related_html(page, region_meta, region_labels, is_entity)}{NOTICE_HTML}</article></main>
+<main class="main"><article>{untr}{head}<div class="article">{body}</div>{history_html(page)}{related_html(page, region_meta, region_labels, is_entity)}{NOTICE_HTML}</article></main>
 {build_toc(body)}
 </div></div>"""
     main = fix_inpage_anchors(main)
     sub_dir = "conditions" if is_entity else "concepts"
     seo_title, seo_desc = seo_country(page, name) if is_entity else seo_concept(page, name)
-    url = f"{SITE_URL}{sub_dir}/{page['slug']}.html"
-    SEO_LASTMOD[f"{sub_dir}/{page['slug']}.html"] = (page.get("updated") or page.get("last_checked") or "")[:10]
-    crumbs = [("Home", ""), ("Countries" if is_entity else "Programs", "countries.html" if is_entity else "programs.html"),
-              (name.split(" — ")[0], f"{sub_dir}/{page['slug']}.html")]
+    rel = f"{sub_dir}/{page['slug']}.html"
+    url = f"{SITE_URL}{LP}{rel}"
+    SEO_LASTMOD[LP + rel] = (page.get("updated") or page.get("last_checked") or "")[:10]
+    if LANG == "ru" and not page.get("translated"):
+        RU_UNTRANSLATED.add(LP + rel)
+    crumbs = [(T("Home"), LP), (T("Countries") if is_entity else T("Programs"), LP + ("countries.html" if is_entity else "programs.html")),
+              (name.split(" — ")[0], LP + rel)]
     ld = seo_ld("page", url, seo_title.replace(" | Residency Radar", ""), seo_desc, page=page, crumbs=crumbs)
     return shell(seo_title, main, "../", desc=seo_desc, ld=ld)
 
@@ -2096,20 +2230,22 @@ def render_index(region_meta, region_labels, concept_pages):
         yrs, ylabel = years_to_citizenship(p)
         pp = passport_count(p)
         conf = (p.get("confidence") or "").lower()
-        reg_t = (f'<span title="{html.escape(region_labels.get(reg, ""), quote=True)}">{REGION_ABBR.get(reg, "")}</span>'
+        reg_t = (f'<span title="{html.escape(T(region_labels.get(reg, "")), quote=True)}">{REGION_ABBR.get(reg, "")}</span>'
                  if REGION_ABBR.get(reg) else "")
-        tags_t = " ".join(f'<span title="{CAT_LABELS[c]}">{CAT_TAGS[c]}</span>' for c in cats)
+        tags_t = " ".join(f'<span title="{T(CAT_LABELS[c])}">{CAT_TAGS[c]}</span>' for c in cats)
         progs_found = programs_of(p)
-        icons = "".join(f'<span class="pi" title="{PROG_ICONS[x][1]}" aria-label="{PROG_ICONS[x][1]}">{PROG_ICONS[x][0]}</span>' for x in progs_found)
+        icons = "".join(f'<span class="pi" title="{T(PROG_ICONS[x][1])}" aria-label="{T(PROG_ICONS[x][1])}">{PROG_ICONS[x][0]}</span>' for x in progs_found)
         gv_t, gv_n, gv_h = fact_gv(p["slug"])
         rv_t, rv_n, rv_h = fact_remote(p["slug"])
         tx_t, tx_n, tx_h = fact_tax(p["slug"])
+        if LANG == "ru":
+            rv_t = re.sub(r"^Yes", "Да", re.sub(r"^No\b", "Нет", rv_t)).replace("/mo", "/мес").replace("/yr", "/год")
         ci_n, ci_t = cost_index(p)
         rn_n, rn_t, rn_h = rent_usd(p)
         dash = '<span class="none">—</span>'
         ttl = lambda x: html.escape(x, quote=True)
         rows.append(
-            f'<tr data-name="{html.escape(name.lower())}" data-code="{html.escape((p.get("country_code") or "").lower())}" '
+            f'<tr data-name="{html.escape(name.lower())}{(" " + p["slug"].replace("-", " ")) if LANG == "ru" else ""}" data-code="{html.escape((p.get("country_code") or "").lower())}" '
             f'data-cats="{" ".join(cats)}" data-progs="{" ".join(progs_found)}" data-region="{reg}" data-conf="{conf}" '
             f'data-years="{yrs if yrs is not None else ""}" data-passport="{pp if pp else ""}" '
             f'data-confn="{ {"low":1,"medium":2,"high":3}.get(conf,"") }" '
@@ -2119,7 +2255,7 @@ def render_index(region_meta, region_labels, concept_pages):
             f'<td class="reg-cell">{reg_t or dash}</td>'
             f'<td class="tags-cell">{tags_t or dash}</td>'
             f'<td class="progs-cell">{icons or dash}</td>'
-            f'<td class="num">{ylabel if ylabel else dash}</td>'
+            f'<td class="num">{(ylabel.replace(" yr", " л.").replace("no path", "нет пути") if LANG == "ru" else ylabel) if ylabel else dash}</td>'
             f'<td class="num">{pp if pp else dash}</td>'
             f'<td class="num col-cost">{ci_t or dash}</td>'
             f'<td class="num col-cost" title="{ttl(rn_h)}">{html.escape(rn_t) or dash}</td>'
@@ -2130,19 +2266,22 @@ def render_index(region_meta, region_labels, concept_pages):
 
     def th(label, key, typ="text", cls="", tip=""):
         star = ""
+        label = T(label)
         if tip:
             text, anchor = TIPS[tip]
+            if LANG == "ru":
+                text = T("tip_" + tip)
             side = " tip-r" if "col-r" in cls else ""
-            star = (f'<span class="tip{side}"><button class="gl" type="button" aria-label="What is {label}?">*</button>'
-                    f'<span class="tip-box" role="tooltip">{text} <a href="glossary.html#{anchor}">Glossary →</a></span></span>')
+            star = (f'<span class="tip{side}"><button class="gl" type="button" aria-label="{T('What is')} {label}?">*</button>'
+                    f'<span class="tip-box" role="tooltip">{text} <a href="glossary.html#{anchor}">{T('Glossary →')}</a></span></span>')
         btn = f'<button type="button">{label}</button>' if key else label
         sort = f' data-sort="{key}" data-type="{typ}"' if key else ""
         return f'<th{sort} class="{cls}">{btn}{star}</th>'
 
     used_regions = [r for r in region_labels if any(m["region"] == r for m in region_meta.values())]
-    region_opts = "".join(f'<option value="{r}">{region_labels[r]}</option>' for r in used_regions)
+    region_opts = "".join(f'<option value="{r}">{T(region_labels[r])}</option>' for r in used_regions)
     used_cats = [c for c in CAT_LABELS if any(c in cats_of(p, region_meta) for p in countries)]
-    chip_btns = "".join(f'<button class="fchip" type="button" data-cat="{c}" aria-pressed="false">{CAT_LABELS[c]}</button>' for c in used_cats)
+    chip_btns = "".join(f'<button class="fchip" type="button" data-cat="{c}" aria-pressed="false">{T(CAT_LABELS[c])}</button>' for c in used_cats)
 
     header_row = (th("Country", "name") + th("Region", "region", tip="region") + th("Tags", "", tip="tags")
                   + th("Programs", "", cls="", tip="progs")
@@ -2155,7 +2294,7 @@ def render_index(region_meta, region_labels, concept_pages):
                   + th("Tax %", "tax", "num", "num col-cost col-r", tip="tax")
                   + th("Trust", "confn", "num", "col-conf col-r", tip="conf"))
     prog_chips = "".join(
-        f'<button class="fchip" type="button" data-prog="{k}" aria-pressed="false" title="{n}">{e} {n}</button>'
+        f'<button class="fchip" type="button" data-prog="{k}" aria-pressed="false" title="{T(n)}">{e} {T(n)}</button>'
         for k, (e, n) in PROG_ICONS.items())
 
     # Latest monitoring: pages that carry a monitored date + real recent-changes text
@@ -2172,69 +2311,95 @@ def render_index(region_meta, region_labels, concept_pages):
         lis = "".join(
             f'<li><time>{html.escape(d[5:] if len(d) >= 10 else d)}</time><div><a href="conditions/{s}.html">{html.escape(n)}</a> '
             f'<span>{html.escape(first_sentences(rc, 170))}</span></div></li>' for d, n, s, rc in latest[:8])
-        latest_html = f'<section class="latest"><h2>Latest from monitoring</h2><ol>{lis}</ol>{'<p class="chg-more"><a href="changes/index.html">All weekly changes →</a></p>' if CHANGE_WEEKS else ''}</section>'
+        latest_html = f'<section class="latest"><h2>{T("Latest from monitoring")}</h2><ol>{lis}</ol>{f'<p class="chg-more"><a href="{SITE_URL + "changes/" if LANG == "ru" else "changes/"}index.html">{T("All weekly changes →")}</a></p>' if CHANGE_WEEKS else ''}</section>'
 
     progs = []
     for slug, p in concept_pages.items():
         summary = ""
-        for line in p["body"].split("\n"):
+        for line in (p.get("body_ru") or p["body"]).split("\n"):
             s = line.strip()
             if s and not s.startswith(("#", "|", "-", ">", "*")):
                 summary = first_sentences(s, 200)
                 break
-        t = re.sub(r"\s+—\s+Cross-Country Comparison$", "", p["title"])
+        t = re.sub(r"\s+—\s+(?:Cross-Country Comparison|Сравнение по странам)$", "", p["title"])
         progs.append(f'<li><a href="concepts/{slug}.html">{html.escape(t)}</a><p>{html.escape(summary)}</p></li>')
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     n_c, n_p = len(countries), len(concept_pages)
     explore = f"""<div class="explore"><div class="explore-row">
-  <input id="f-q" type="search" placeholder="Filter by name or code" aria-label="Filter countries">
-  <select id="f-region" aria-label="Region"><option value="">All regions</option>{region_opts}</select>
-  <select id="f-conf" aria-label="Trust level"><option value="">Any trust level</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option></select>
+  <input id="f-q" type="search" placeholder="{T("Filter by name or code")}" aria-label="{T("Filter countries")}">
+  <select id="f-region" aria-label="{T("Region")}"><option value="">{T("All regions")}</option>{region_opts}</select>
+  <select id="f-conf" aria-label="{T("Trust level")}"><option value="">{T("Any trust level")}</option><option value="high">{T("High")}</option><option value="medium">{T("Medium")}</option><option value="low">{T("Low")}</option></select>
   <span class="count" id="f-count"></span></div>
   <div class="explore-row" style="margin-top:10px">{chip_btns}</div>
   <div class="explore-row" style="margin-top:8px">{prog_chips}</div></div>"""
     table = f"""<table class="ctable" id="ctable"><thead><tr>
 {header_row}
 </tr></thead><tbody>{"".join(rows)}</tbody></table>
-<p class="tnote">* Passport = number of visa-free destinations of the passport you would get after naturalisation. Hover a value to see the source quote; click a * to see what a column means, or open the <a href="glossary.html">glossary</a>.</p>"""
+<p class="tnote">{T("tnote") if LANG == "ru" else '* Passport = number of visa-free destinations of the passport you would get after naturalisation. Hover a value to see the source quote; click a * to see what a column means, or open the <a href="glossary.html">glossary</a>.'}</p>"""
     countries_body = f"""<style>.wrap{{max-width:1400px}}</style><div class="wrap">
-<section class="hero"><div><h1>Countries</h1></div><div><p>{n_c} countries: filter by region or fit, sort by years to citizenship or passport strength.</p></div></section>
+<section class="hero"><div><h1>{T("Countries")}</h1></div><div><p>{T("countries_hero").format(n=n_c) if LANG == "ru" else f"{n_c} countries: filter by region or fit, sort by years to citizenship or passport strength."}</p></div></section>
 <section id="countries">{explore}<div class="tscroll">{table}</div></section>
 </div>"""
     programs_body = f"""<div class="wrap">
-<section class="hero"><div><h1>Programs</h1></div><div><p>{n_p} residency and citizenship program types, each compared across countries.</p></div></section>
+<section class="hero"><div><h1>{T("Programs")}</h1></div><div><p>{T("programs_hero").format(n=n_p) if LANG == "ru" else f"{n_p} residency and citizenship program types, each compared across countries."}</p></div></section>
 <section class="progs" id="programs"><ul>{"".join(progs)}</ul></section>
 </div>"""
-    cards = (f'<a class="card" href="countries.html"><b>Countries</b><span>{n_c} countries with conditions, sources and monitoring.</span></a>'
-             f'<a class="card" href="programs.html"><b>Programs</b><span>{n_p} program types compared across countries.</span></a>'
-             f'<a class="card" href="glossary.html"><b>Glossary</b><span>What the columns, labels and abbreviations mean.</span></a>')
+    cards = (f'<a class="card" href="countries.html"><b>{T("Countries")}</b><span>{T("card_countries").format(n=n_c) if LANG == "ru" else f"{n_c} countries with conditions, sources and monitoring."}</span></a>'
+             f'<a class="card" href="programs.html"><b>{T("Programs")}</b><span>{T("card_programs").format(p=n_p) if LANG == "ru" else f"{n_p} program types compared across countries."}</span></a>'
+             f'<a class="card" href="glossary.html"><b>{T("Glossary")}</b><span>{T("card_glossary") if LANG == "ru" else "What the columns, labels and abbreviations mean."}</span></a>')
     index_body = f"""<div class="wrap">
 <section class="hero">
-  <div><h1>Residency &amp; citizenship conditions</h1></div>
-  <div><p>Residency and citizenship conditions for {n_c} countries: programs, thresholds, tax, years to a passport. Pages are monitored for changes and cite their sources.</p>
-  <div class="stamp">{n_c} countries · {n_p} program comparisons · built {now}</div></div>
+  <div><h1>{T("Residency & citizenship conditions").replace("&", "&amp;")}</h1></div>
+  <div><p>{T("home_hero").format(n=n_c) if LANG == "ru" else f"Residency and citizenship conditions for {n_c} countries: programs, thresholds, tax, years to a passport. Pages are monitored for changes and cite their sources."}</p>
+  <div class="stamp">{T("stamp").format(n=n_c, p=n_p, now=now) if LANG == "ru" else f"{n_c} countries · {n_p} program comparisons · built {now}"}</div></div>
 </section>
 <section class="cards">{cards}</section>
 {latest_html}
 {NOTICE_HTML}
 </div>"""
+    if LANG == "ru":
+        home_t, home_d = T("HOME_TITLE"), T("HOME_DESC")
+        cnt_t = T("Residency & Citizenship by Country: Compare 163 Countries | Residency Radar")
+        cnt_d = T("Compare residency and citizenship conditions in 163 countries: programs, years to citizenship, passport strength, cost of living and tax for remote workers.")
+        prg_t = T("Residency Programs Compared: Golden Visa, Digital Nomad, Retirement & More | Residency Radar")
+        prg_d = T("Ten residency and citizenship program types (investment, digital nomad, passive income, work, student, family and more), each compared across countries.")
+    else:
+        home_t, home_d = HOME_TITLE, HOME_DESC
+        cnt_t = "Residency & Citizenship by Country: Compare 163 Countries | Residency Radar"
+        cnt_d = "Compare residency and citizenship conditions in 163 countries: programs, years to citizenship, passport strength, cost of living and tax for remote workers."
+        prg_t = "Residency Programs Compared: Golden Visa, Digital Nomad, Retirement & More | Residency Radar"
+        prg_d = "Ten residency and citizenship program types (investment, digital nomad, passive income, work, student, family and more), each compared across countries."
+    U = SITE_URL + LP
     return {
-        "index.html": shell(HOME_TITLE, index_body, "", desc=HOME_DESC, ld=seo_ld("home", SITE_URL, HOME_TITLE, HOME_DESC)),
-        "countries.html": shell("Residency & Citizenship by Country: Compare 163 Countries | Residency Radar", countries_body, "", extra_js=f"<script>{INDEX_JS}</script>", desc="Compare residency and citizenship conditions in 163 countries: programs, years to citizenship, passport strength, cost of living and tax for remote workers.", ld=seo_ld("page", SITE_URL + "countries.html", "Residency & Citizenship by Country", "Compare residency and citizenship conditions in 163 countries.", crumbs=[("Home", ""), ("Countries", "countries.html")])),
-        "programs.html": shell("Residency Programs Compared: Golden Visa, Digital Nomad, Retirement & More | Residency Radar", programs_body, "", desc="Ten residency and citizenship program types (investment, digital nomad, passive income, work, student, family and more), each compared across countries.", ld=seo_ld("page", SITE_URL + "programs.html", "Residency Programs Compared", "Ten residency and citizenship program types compared across countries.", crumbs=[("Home", ""), ("Programs", "programs.html")])),
+        "index.html": shell(home_t, index_body, "", desc=home_d, ld=seo_ld("home", U, home_t, home_d)),
+        "countries.html": shell(cnt_t, countries_body, "", extra_js=f"<script>{INDEX_JS}</script>", desc=cnt_d, ld=seo_ld("page", U + "countries.html", cnt_t.split(" | ")[0] if LANG == "ru" else "Residency & Citizenship by Country", cnt_d if LANG == "ru" else "Compare residency and citizenship conditions in 163 countries.", crumbs=[(T("Home"), LP), (T("Countries"), LP + "countries.html")])),
+        "programs.html": shell(prg_t, programs_body, "", desc=prg_d, ld=seo_ld("page", U + "programs.html", prg_t.split(" | ")[0] if LANG == "ru" else "Residency Programs Compared", prg_d if LANG == "ru" else "Ten residency and citizenship program types compared across countries.", crumbs=[(T("Home"), LP), (T("Programs"), LP + "programs.html")])),
     }
 
 
 def render_glossary():
     text = (WIKI_DIR / "glossary.md").read_text(encoding="utf-8")
+    translated = False
+    if LANG == "ru" and (I18N_DIR / "glossary.md").exists():
+        rt = (I18N_DIR / "glossary.md").read_text(encoding="utf-8")
+        m = re.search(r"^source_hash:\s*(\w+)", rt, re.M)
+        if m and m.group(1) == i18n_ru.source_hash(text):
+            text, translated = parse_frontmatter(rt)[1], True
     body = md_to_html(text, "concept", "glossary")
-    crumbs = '<a href="index.html">Home</a><span class="sep">/</span><span>Glossary</span>'
+    if LANG == "ru":
+        body = ru_heads(body)
+        if not translated:
+            body = T("untranslated") + body
+            RU_UNTRANSLATED.add(LP + "glossary.html")
+    crumbs = f'<a href="index.html">{T("Home")}</a><span class="sep">/</span><span>{T("Glossary")}</span>'
     main = f"""<div class="wrap"><div class="page-grid">
 <main class="main"><article><div class="crumbs">{crumbs}</div>
-<div class="page-head"><h1>Glossary</h1></div><div class="article">{body}</div></article></main>
+<div class="page-head"><h1>{T("Glossary")}</h1></div><div class="article">{body}</div></article></main>
 {build_toc(body)}
 </div></div>"""
+    if LANG == "ru":
+        return shell(T("Glossary — Residency & Citizenship Wiki"), main, "", desc=T("glossary_desc"))
     return shell(f"Glossary — {SITE_TITLE}", main, "", desc="What the columns, labels, confidence levels and abbreviations on Residency Radar mean: how to read country pages, program types and data sources.")
 
 
@@ -2245,21 +2410,27 @@ def generate_search_index():
             index.append({"slug": slug, "title": display_name(page["title"]), "country_code": page.get("country_code", ""),
                           "type": "entity", "url": f"conditions/{slug}.html"})
         else:
-            index.append({"slug": slug, "title": re.sub(r"\s+—\s+Cross-Country Comparison$", "", page["title"]),
+            index.append({"slug": slug, "title": re.sub(r"\s+—\s+(?:Cross-Country Comparison|Сравнение по странам)$", "", page["title"]),
                           "country_code": "", "type": "concept", "url": f"concepts/{slug}.html"})
     return json.dumps(index, ensure_ascii=False, sort_keys=True)
 
 
 # ── Main Build ───────────────────────────────────────────────────────────────
 
-def build():
-    print(f"Building static site: {SITE_TITLE}")
+def build(lang="en"):
+    """Build one language into its output dir: en -> site_output/, ru -> site_output/ru/."""
+    global LANG, LP, OUTPUT_DIR
+    LANG, LP = lang, ("ru/" if lang == "ru" else "")
+    OUTPUT_DIR = SITE_DIR / "ru" if lang == "ru" else SITE_DIR
+    print(f"Building static site ({lang}): {SITE_TITLE}")
     collect_pages()
-    load_changes()
+    if lang == "en":
+        load_changes()
     region_meta = parse_region_meta(REGIONS_FILE)
     concept_pages = OrderedDict(sorted(((s, p) for s, p in all_pages.items() if p["type"] == "concept"), key=lambda x: x[0]))
     n_ent = sum(1 for p in all_pages.values() if p["type"] == "entity")
-    print(f"   {n_ent} countries, {len(concept_pages)} concepts; region meta for {len(region_meta)}")
+    n_tr = sum(1 for p in all_pages.values() if p.get("translated"))
+    print(f"   {n_ent} countries, {len(concept_pages)} concepts; region meta for {len(region_meta)}" + (f"; {n_tr} pages translated" if lang == "ru" else ""))
 
     if OUTPUT_DIR.exists():
         shutil.rmtree(OUTPUT_DIR)
@@ -2275,94 +2446,141 @@ def build():
         count += 1
     (OUTPUT_DIR / "glossary.html").write_text(render_glossary(), encoding="utf-8")
     count += 1
-    nf = (f'<div class="wrap"><main class="main"><article style="padding:48px 0 40px"><div class="page-head"><h1>Page not found</h1></div>'
-          f'<p class="chg-lead">This page does not exist or has moved. Try search (top right) or start from one of these:</p>'
-          f'<ul class="related-list"><li><a href="{SITE_URL}countries.html">All countries</a></li><li><a href="{SITE_URL}programs.html">Program types</a></li>'
-          f'<li><a href="{SITE_URL}changes/index.html">Weekly changes</a></li><li><a href="{SITE_URL}index.html">Home</a></li></ul></article></main></div>')
-    (OUTPUT_DIR / "404.html").write_text(shell("Page not found | Residency Radar", nf, SITE_URL, desc="Page not found.").replace('content="index,follow,max-image-preview:large,max-snippet:-1"', 'content="noindex"'), encoding="utf-8")
-    count += 1
-    changes = render_changes_pages()
-    if changes:
-        (OUTPUT_DIR / "changes").mkdir()
-        for fn, doc in changes.items():
-            (OUTPUT_DIR / "changes" / fn).write_text(doc, encoding="utf-8")
-            count += 1
+    if lang == "en":
+        nf = (f'<div class="wrap"><main class="main"><article style="padding:48px 0 40px"><div class="page-head"><h1>Page not found</h1></div>'
+              f'<p class="chg-lead">This page does not exist or has moved. Try search (top right) or start from one of these:</p>'
+              f'<ul class="related-list"><li><a href="{SITE_URL}countries.html">All countries</a></li><li><a href="{SITE_URL}programs.html">Program types</a></li>'
+              f'<li><a href="{SITE_URL}changes/index.html">Weekly changes</a></li><li><a href="{SITE_URL}index.html">Home</a></li></ul></article></main></div>')
+        (OUTPUT_DIR / "404.html").write_text(shell("Page not found | Residency Radar", nf, SITE_URL, desc="Page not found.").replace('content="index,follow,max-image-preview:large,max-snippet:-1"', 'content="noindex"'), encoding="utf-8")
+        count += 1
+        changes = render_changes_pages()
+        if changes:
+            (OUTPUT_DIR / "changes").mkdir()
+            for fn, doc in changes.items():
+                (OUTPUT_DIR / "changes" / fn).write_text(doc, encoding="utf-8")
+                count += 1
+        (OUTPUT_DIR / ".nojekyll").write_text("")
     (OUTPUT_DIR / "search-index.json").write_text(generate_search_index(), encoding="utf-8")
-    (OUTPUT_DIR / ".nojekyll").write_text("")
     if (WIKI_DIR / "assets").is_dir():
         shutil.copytree(WIKI_DIR / "assets", OUTPUT_DIR / "assets")
-    print(f"Build complete: {count + 1} files written to {OUTPUT_DIR}")
+    geo_pass()
+    print(f"Build complete ({lang}): {count + 1} files written to {OUTPUT_DIR}")
     return count + 1
 
 
+def _alt_pair(rel):
+    """(en_rel, ru_rel) for a page, or None when the page exists in one language only."""
+    en = rel[3:] if rel.startswith("ru/") else rel
+    ru = "ru/" + en
+    if en in ("404.html",) or en.startswith("changes/"):
+        return None
+    if (SITE_DIR / en).exists() and (SITE_DIR / ru).exists() and ru not in RU_UNTRANSLATED:
+        return en, ru
+    return None
+
+
+def _page_url(rel):
+    if rel == "index.html":
+        return SITE_URL
+    if rel == "ru/index.html":
+        return SITE_URL + "ru/"
+    return SITE_URL + rel
+
+
 def seo_pass():
-    """Add canonical + Open Graph tags to every page; write sitemap.xml and robots.txt."""
-    urls = []
-    for f in sorted(OUTPUT_DIR.rglob("*.html")):
-        rel = f.relative_to(OUTPUT_DIR).as_posix()
+    """Canonical + Open Graph + hreflang + language-switch targets on every page; sitemap.xml + robots.txt."""
+    entries = []   # (rel, url)
+    for f in sorted(SITE_DIR.rglob("*.html")):
+        rel = f.relative_to(SITE_DIR).as_posix()
         if rel == "404.html":
+            f.write_text(f.read_text(encoding="utf-8").replace("@@LANGSW@@", SITE_URL + "ru/"), encoding="utf-8")
             continue
-        url = SITE_URL + ("" if rel == "index.html" else rel)
+        in_ru = rel.startswith("ru/")
+        untr = rel in RU_UNTRANSLATED
+        en_rel = rel[3:] if in_ru else rel
+        url = _page_url(rel)
+        canon = _page_url(en_rel) if untr else url
         doc = f.read_text(encoding="utf-8")
         t = re.search(r"<title>(.*?)</title>", doc, re.S)
         d = re.search(r'<meta name="description" content="(.*?)">', doc, re.S)
-        tags = f'<link rel="canonical" href="{url}">\n<meta property="og:type" content="website">\n<meta property="og:site_name" content="Residency Radar">\n'
+        tags = f'<link rel="canonical" href="{canon}">\n<meta property="og:type" content="website">\n<meta property="og:site_name" content="Residency Radar">\n'
+        if in_ru:
+            tags += '<meta property="og:locale" content="ru_RU">\n'
         if t: tags += f'<meta property="og:title" content="{t.group(1)}">\n'
         if d: tags += f'<meta property="og:description" content="{d.group(1)}">\n'
-        tags += f'<meta property="og:url" content="{url}">\n<meta property="og:image" content="{SITE_URL}assets/og-card.png">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n<meta name="twitter:card" content="summary_large_image">\n'
-        md_alt = _md_alt_href(rel)
-        if md_alt: tags += f'<link rel="alternate" type="text/markdown" href="{SITE_URL}{md_alt}">\n'
-        if "rel=\"canonical\"" not in doc:
-            f.write_text(doc.replace("</head>", tags + "</head>", 1), encoding="utf-8")
-        urls.append(url)
+        tags += f'<meta property="og:url" content="{canon}">\n<meta property="og:image" content="{SITE_URL}assets/og-card.png">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n<meta name="twitter:card" content="summary_large_image">\n'
+        md_rel = rel[:-5] + ".md"
+        if (SITE_DIR / md_rel).exists():
+            tags += f'<link rel="alternate" type="text/markdown" href="{SITE_URL}{md_rel}">\n'
+        pair = _alt_pair(rel)
+        if pair:
+            tags += (f'<link rel="alternate" hreflang="en" href="{_page_url(pair[0])}">\n<link rel="alternate" hreflang="ru" href="{_page_url(pair[1])}">\n'
+                     f'<link rel="alternate" hreflang="x-default" href="{_page_url(pair[0])}">\n')
+        # target of the EN/RU switch: the same page in the other language, else that language's home
+        if in_ru:
+            target = en_rel if (SITE_DIR / en_rel).exists() else "index.html"
+        else:
+            target = ("ru/" + rel) if (SITE_DIR / "ru" / rel).exists() else "ru/index.html"
+        sw = os.path.relpath(SITE_DIR / target, start=f.parent).replace(os.sep, "/")
+        doc = doc.replace("@@LANGSW@@", sw)
+        if 'rel="canonical"' not in doc:
+            doc = doc.replace("</head>", tags + "</head>", 1)
+        if untr:
+            doc = doc.replace('content="index,follow,max-image-preview:large,max-snippet:-1"', 'content="noindex,follow"', 1)
+        f.write_text(doc, encoding="utf-8")
+        if not untr:
+            entries.append((rel, url))
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    def lm(u):
-        rel = u[len(SITE_URL):] or "index.html"
+    def lm(rel):
         d = SEO_LASTMOD.get(rel, "")
         return d if re.match(r"\d{4}-\d\d-\d\d$", d) else today
-    body = "\n".join(f"  <url><loc>{u}</loc><lastmod>{lm(u)}</lastmod></url>" for u in urls)
-    (OUTPUT_DIR / "sitemap.xml").write_text(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{body}\n</urlset>\n', encoding="utf-8")
+    rows = []
+    for rel, url in entries:
+        alt = ""
+        pair = _alt_pair(rel)
+        if pair:
+            alt = (f'<xhtml:link rel="alternate" hreflang="en" href="{_page_url(pair[0])}"/>'
+                   f'<xhtml:link rel="alternate" hreflang="ru" href="{_page_url(pair[1])}"/>')
+        rows.append(f"  <url><loc>{url}</loc><lastmod>{lm(rel)}</lastmod>{alt}</url>")
+    (SITE_DIR / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n' + "\n".join(rows) + "\n</urlset>\n", encoding="utf-8")
     ai = "\n".join(f"User-agent: {b}\nAllow: /\n" for b in AI_BOTS)
-    (OUTPUT_DIR / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\n{ai}\nSitemap: {SITE_URL}sitemap.xml\n", encoding="utf-8")
-    geo_pass()
-    return len(urls)
+    (SITE_DIR / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\n{ai}\nSitemap: {SITE_URL}sitemap.xml\n", encoding="utf-8")
+    return len(entries)
 
 
 AI_BOTS = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "Claude-User",
            "PerplexityBot", "Perplexity-User", "Google-Extended", "Applebot-Extended", "Bingbot", "YandexBot", "CCBot"]
 
 
-def _md_alt_href(rel):
-    """Markdown twin of a rendered page (conditions/x.html -> conditions/x.md), or '' if none."""
-    m = re.match(r"(conditions|concepts)/([^/]+)\.html$", rel)
-    return f"{m.group(1)}/{m.group(2)}.md" if m and m.group(2) in all_pages else ""
-
-
 def _md_clean(page):
     """Page as plain markdown: title header + freshness line + body (frontmatter dropped, sources kept)."""
+    ru = LANG == "ru"
     name = page["title"]
     if page["type"] == "entity":
-        name = f"{display_name(name)} — Residency & Citizenship Conditions"
+        name = f"{display_name(name)} — " + ("Условия ВНЖ и гражданства" if ru else "Residency & Citizenship Conditions")
     fm = page.get("frontmatter", {})
     lines = [f"# {name}", ""]
-    meta = [f"Source: {SITE_URL}{'conditions' if page['type'] == 'entity' else 'concepts'}/{page['slug']}.html"]
-    if page.get("last_checked"): meta.append(f"Last checked: {page['last_checked']}")
-    if page.get("updated"): meta.append(f"Last updated: {page['updated']}")
+    L = ("Источник", "Проверено", "Обновлено", "Официальные источники") if ru else ("Source", "Last checked", "Last updated", "Official and primary sources")
+    meta = [f"{L[0]}: {SITE_URL}{LP}{'conditions' if page['type'] == 'entity' else 'concepts'}/{page['slug']}.html"]
+    if page.get("last_checked"): meta.append(f"{L[1]}: {page['last_checked']}")
+    if page.get("updated"): meta.append(f"{L[2]}: {page['updated']}")
     lines += ["> " + " | ".join(meta), ""]
-    qa = quick_answer_text(page)
+    qa = "" if ru else quick_answer_text(page)
     if qa:
         lines += ["## Quick answer", "", qa, ""]
     srcs = fm.get("sources") or []
-    body = page["body"].strip() + "\n"
+    body = (page.get("body_ru") or page["body"]).strip() + "\n"
     if isinstance(srcs, list) and srcs:
-        body += "\n## Official and primary sources\n" + "\n".join(f"- {u}" for u in srcs) + "\n"
+        body += f"\n## {L[3]}\n" + "\n".join(f"- {u}" for u in srcs) + "\n"
     return "\n".join(lines) + "\n" + body
 
 
 def geo_pass():
-    """AI-search layer: markdown twins of every page, llms.txt (index), llms-full.txt (everything)."""
-    countries = sorted((p for p in all_pages.values() if p["type"] == "entity"), key=lambda p: p["title"])
-    concepts = sorted((p for p in all_pages.values() if p["type"] != "entity"), key=lambda p: p["title"])
+    """AI-search layer: markdown twins of every page (ru: translated pages only); en also llms.txt + llms-full.txt."""
+    ru = LANG == "ru"
+    pool = [p for p in all_pages.values() if p.get("translated")] if ru else list(all_pages.values())
+    countries = sorted((p for p in pool if p["type"] == "entity"), key=lambda p: p["title"])
+    concepts = sorted((p for p in pool if p["type"] != "entity"), key=lambda p: p["title"])
     full = []
     for p in countries + concepts:
         sub = "conditions" if p["type"] == "entity" else "concepts"
@@ -2370,6 +2588,8 @@ def geo_pass():
         (OUTPUT_DIR / sub).mkdir(exist_ok=True)
         (OUTPUT_DIR / sub / f"{p['slug']}.md").write_text(md, encoding="utf-8")
         full.append(md)
+    if ru:
+        return
     def line(p):
         sub = "conditions" if p["type"] == "entity" else "concepts"
         lc = p.get("last_checked") or p.get("updated") or ""
@@ -2385,17 +2605,21 @@ def geo_pass():
            "## Optional",
            f"- [Full content of all pages in one file]({SITE_URL}llms-full.txt)",
            f"- [Weekly changes]({SITE_URL}changes/index.html)",
+           f"- [Russian version (translated pages)]({SITE_URL}ru/)",
            f"- [Sitemap]({SITE_URL}sitemap.xml)", ""]
     (OUTPUT_DIR / "llms.txt").write_text("\n".join(idx), encoding="utf-8")
     (OUTPUT_DIR / "llms-full.txt").write_text("\n\n---\n\n".join(full), encoding="utf-8")
 
 
 if __name__ == "__main__":
-    build()
-    print(f"SEO: canonical/OG on {seo_pass()} pages, sitemap.xml + robots.txt")
+    build("en")
+    build("ru")
+    print(f"SEO: canonical/OG/hreflang on pages, {seo_pass()} sitemap urls + robots.txt")
+    if UI_MISSING:
+        print(f"WARNING: {len(UI_MISSING)} UI strings without Russian translation:", *sorted(UI_MISSING)[:30], sep="\n  ")
     # verbatim root files (search-engine verification etc.), copied AFTER seo_pass so their content stays untouched
     static = WIKI_DIR / "static"
     if static.is_dir():
         for f in static.iterdir():
             if f.is_file():
-                shutil.copy(f, OUTPUT_DIR / f.name)
+                shutil.copy(f, SITE_DIR / f.name)
