@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [Unreleased]
 
 ### Changed
+- Site: link to the Telegram channel (https://t.me/migrate_easy) in the top nav and the footer.
 - Extended Snapshot: FATF status now comes from one central facts file (`references/facts/fatf.json`, as of 2026-06-19) instead of per-page worker output; CRS participation and the tax treaty with Russia show `No reliable data` until their facts files are verified. Worker source links are now checked for existence (23 of 478 pilot links were dead and are demoted to `unsourced`).
 - Site: Extended Snapshot renders as collapsible per-block cards.
 

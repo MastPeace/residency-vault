@@ -981,6 +981,7 @@ CAT_LABELS = OrderedDict([
     ("yacht_captain", "Yacht captain"),
 ])
 REPO_URL = "https://github.com/MastPeace/residency-vault"
+TG_URL = "https://t.me/migrate_easy"
 
 FAVICON = ("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E"
            "%3Crect width='32' height='32' rx='6' fill='%231f5f4a'/%3E"
@@ -1221,7 +1222,7 @@ def shell(title, body, base, extra_js="", desc=""):
 <body data-base="{base}">
 <header class="topbar"><div class="wrap">
   <a class="brand" href="{base}index.html">Residency<span>Vault</span></a>
-  <nav class="topnav"><a href="{base}index.html#countries">Countries</a><a href="{base}index.html#programs">Programs</a><a href="{REPO_URL}">GitHub</a></nav>
+  <nav class="topnav"><a href="{base}index.html#countries">Countries</a><a href="{base}index.html#programs">Programs</a><a href="{REPO_URL}">GitHub</a><a href="{TG_URL}" rel="noopener">Telegram</a></nav>
   <span class="spacer"></span>
   <button class="search-btn" id="search-btn" type="button"><span>Search countries and programs</span><kbd>/</kbd></button>
   <button class="icon-btn" id="theme-btn" type="button" aria-label="Toggle theme">☾</button>
@@ -1230,7 +1231,7 @@ def shell(title, body, base, extra_js="", desc=""):
   <input type="text" placeholder="Country, code or program…" autocomplete="off" aria-label="Search"><ul></ul>
 </div></div>
 {body}
-<footer class="foot"><div class="wrap"><span>Not legal advice. Conditions change — check the sources cited on each page.</span><span>Built {now} · <a href="{REPO_URL}">source</a></span></div></footer>
+<footer class="foot"><div class="wrap"><span>Not legal advice. Conditions change — check the sources cited on each page.</span><span>Built {now} · <a href="{TG_URL}" rel="noopener">Telegram channel</a> · <a href="{REPO_URL}">source</a></span></div></footer>
 <script>{SHELL_JS}</script>
 {extra_js}
 </body>
