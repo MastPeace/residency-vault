@@ -2,6 +2,7 @@
 title: Malaysia — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, it_friendly, clear_pathway, digital-nomad, retirement]
 category: it_friendly
@@ -148,6 +149,68 @@ MM2H's 2024 restructuring (higher deposits, tiers, fees) was the dominant story 
 | Freedom House score | 52/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/malaysia/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,300 h | [Current Results](https://www.currentresults.com/Weather/Malaysia/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~27 °C | [Wikipedia](https://en.wikipedia.org/wiki/Malaysia#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 330 534 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=MY) — hard/official |
+| Geography & size | Population density | 108 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=MY) — hard/official |
+| Geography & size | Urban population | 77% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=MY) — hard/official |
+| Geography & size | Coastline | 4,675 km | [source](https://en.wikipedia.org/wiki/Geography_of_Malaysia) — soft/estimate |
+| Geography & size | Highest point | Mount Kinabalu, 4,095 m | [source](https://en.wikipedia.org/wiki/Geography_of_Malaysia) — soft/estimate |
+| Geography & size | Type | mainland (peninsular + Borneo) | [source](https://en.wikipedia.org/wiki/Geography_of_Malaysia) — soft/estimate |
+| Geography & size | Time zone | UTC+8 (MYT), Moscow +5h | [source](https://en.wikipedia.org/wiki/Malaysia) — soft/estimate |
+| Climate | Avg precipitation | 2875 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=MY) — hard/official |
+| Climate | PM2.5 exposure | 15.9 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=MY) — hard/official |
+| Climate | Climate zone | Af (tropical rainforest / equatorial) | [source](https://en.wikipedia.org/wiki/Climate_of_Malaysia) — soft/estimate |
+| Climate | Temp winter / summer | Kuala Lumpur: ~27°C year-round avg; range 23-32°C | [source](https://en.wikipedia.org/wiki/Climate_of_Malaysia) — soft/estimate |
+| Climate | Rainy days | ~150-200 rainy days/year (KL); Kuching up to 279 days | [source](https://en.wikipedia.org/wiki/Climate_of_Malaysia) — soft/estimate |
+| Climate | Humidity | ~80-85% annual avg | [source](https://en.wikipedia.org/wiki/Climate_of_Malaysia) — soft/estimate |
+| Climate | Natural hazards | Floods, landslides; low seismic/cyclone risk | [source](https://en.wikipedia.org/wiki/Climate_of_Malaysia) — soft/estimate |
+| Climate | Air quality | ~17.5 µg/m³ PM2.5 annual mean (2024 IQAir) | [source](https://www.iqair.com/my-en/newsroom/waqr-2024-pr) — soft/estimate |
+| Economy | GDP (nominal) | $472.2B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY) — hard/official |
+| Economy | GDP growth | 5.2% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=MY) — hard/official |
+| Economy | Inflation (CPI) | 1.4% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=MY) — hard/official |
+| Economy | Unemployment | 3.8% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=MY) — hard/official |
+| Economy | Central govt debt | 65% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=MY) — hard/official |
+| Economy | Gini index | 40.7 (2021) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=MY) — hard/official |
+| Economy | Tourism receipts | 2% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=MY) — hard/official |
+| Economy | Remittances | 1.9% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=MY) — hard/official |
+| Economy | Credit rating | S&P A- (stable), Moody's A3, Fitch BBB+ (2024) | [source](https://tradingeconomics.com/malaysia/rating) — soft/estimate |
+| Economy | Currency | MYR (Malaysian ringgit), managed float; -12% vs USD 5yr (2024) | [source](https://tradingeconomics.com/malaysia/currency) — soft/estimate |
+| Economy | Top industries | Manufacturing (electronics), services (tourism, finance), oil & gas | [source](https://en.wikipedia.org/wiki/Economy_of_Malaysia) — soft/estimate |
+| Economy | Economic Complexity | ECI rank ~24 globally (2022, OEC) | [source](https://atlas.hks.harvard.edu/countries/458) — soft/estimate |
+| Technology | Internet users | 98% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=MY) — hard/official |
+| Technology | Fixed broadband subs | 13.5 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=MY) — hard/official |
+| Technology | High-tech exports | 58.6% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=MY) — hard/official |
+| Technology | R&D spend | 1.01% of GDP (2022) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=MY) — hard/official |
+| Technology | Global Innovation Index | Rank 33 of 133 (2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI ~0.7890, rank 53 of 193 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/131-Malaysia) — hard/official |
+| Technology | Median broadband speed | ~100 Mbps median fixed broadband (Aug 2026, Speedtest) | [source](https://www.speedtest.net/global-index/malaysia) — hard/official |
+| Technology | 5G | 81.7% population coverage (May 2024) | [source](https://www.malaysianwireless.com/2024/07/malaysia-5g-coverage-may-2024) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank ~40 globally (2024) | [source](https://www.startupblink.com/startups) — hard/official |
+| Human development & health | Life expectancy | 76.8 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=MY) — hard/official |
+| Human development & health | Hospital beds | 2.0 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=MY) — hard/official |
+| Human development & health | HDI | 0.807, rank 63 of 193 (2022) | [source](https://countryeconomy.com/hdi/malaysia) — soft/estimate |
+| Safety | Global Peace Index | Rank 10 of 163, score 1.427 (2024) | [source](https://countryeconomy.com/demography/global-peace-index/malaysia) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 1: Exercise Normal Precautions | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Malaysia.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; RPGT on property gains (0-30%) | [source](https://www.pwc.com/my/en/publications/mtb/real-property-gains-tax.html) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules introduced (2022); effective from 2024 | [source](https://www.pwc.com/my/en/assets/publications/2022/pwc-my-doing-business-in-malaysia-2022.pdf) — soft/estimate |
+| Business | Company setup | ~1-3 days, cost ~MYR 1,000 (SSM, 2024) | [source](https://www.ssm.com.my/Pages/Services/Registration-of-Business-(ROB)/table-of-fees/Table-of-Fees.aspx) — soft/estimate |
+| Business | Corporate tax | 24% standard rate; 15-17% for SMEs on first MYR 600k (2024) | [source](https://www.pwc.com/my/en/assets/publications/2025/pwc-my-2024-2025-mtb.pdf) — soft/estimate |
+| Family & education | Top university | Universiti Malaya, QS World Rank #60 (2025) | [source](https://www.um.edu.my/news/universiti-malaya-rises-to-top-60-in-the-qs-world-university-rankings-2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens, up to 30 days (2024) | [source](https://www.kln.gov.my/web/rus_moscow/requirement_foreigner) — hard/official |
+| For Russian citizens | Sanctions position | Does not condone unilateral sanctions; free trade policy; UN-aligned | [source](https://www.bernama.com/en/news.php?id=2337298) — soft/estimate |
+| Quality of life | World Happiness rank | Rank ~64 (WHR 2025, youth ranking), score 6.372 | [source](https://en.wikipedia.org/wiki/World_Happiness_Report) — soft/estimate |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | English widely spoken; EF EPI rank 26 of 116, score 566 (2024) | [source](https://www.ef.com/assetscdn/WIBIwq6RdJvcD9bc8RMd/cefcom-epi-site/fact-sheets/2024/ef-epi-fact-sheet-malaysia-english.pdf) — hard/official |
 
 ## Country Card
 

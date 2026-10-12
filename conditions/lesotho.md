@@ -2,6 +2,7 @@
 title: Lesotho - Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax]
 category: clear_pathway
@@ -103,6 +104,68 @@ Small expat community centered on textile manufacturing, diamonds, and developme
 | Freedom House score | 66/100 (Free) | [Freedom House](https://freedomhouse.org/country/lesotho/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~3,000 h (Maseru) | [Climate-data.org](https://en.climate-data.org) — hard/official |
 | Average annual temperature | ~14 C (Maseru; highland temperate) | [Wikipedia](https://en.wikipedia.org/wiki/Lesotho#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 43/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 30 360 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=LS) — hard/official |
+| Geography & size | Population density | 77 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=LS) — hard/official |
+| Geography & size | Urban population | 45% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=LS) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://en.wikipedia.org/wiki/Geography_of_Lesotho) — soft/estimate |
+| Geography & size | Highest point | Thabana Ntlenyana, 3,482 m | [source](https://en.wikipedia.org/wiki/Geography_of_Lesotho) — soft/estimate |
+| Geography & size | Type | landlocked enclave | [source](https://en.wikipedia.org/wiki/Geography_of_Lesotho) — soft/estimate |
+| Geography & size | Time zone | UTC+2 (SAST), Moscow -1h | [source](https://en.wikipedia.org/wiki/Lesotho) — soft/estimate |
+| Climate | Avg precipitation | 788 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=LS) — hard/official |
+| Climate | PM2.5 exposure | 26.4 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=LS) — hard/official |
+| Climate | Climate zone | Cfb (subtropical highland/temperate) | [source](https://en.wikipedia.org/wiki/Climate_of_Lesotho) — soft/estimate |
+| Climate | Temp winter / summer | Maseru: Jan 21.4°C avg, Jul 7.9°C avg (2024) | [source](https://en.wikipedia.org/wiki/Climate_of_Lesotho) — soft/estimate |
+| Climate | Rainy days | ~90 days/year (Maseru); 85% of rain Oct-Apr | [source](https://en.wikipedia.org/wiki/Climate_of_Lesotho) — soft/estimate |
+| Climate | Humidity | ~55-65% annual avg (Maseru) | [source](https://en.wikipedia.org/wiki/Climate_of_Lesotho) — soft/estimate |
+| Climate | Natural hazards | Droughts, floods; INFORM risk rank not found | [source](https://climateknowledgeportal.worldbank.org/country/lesotho) — hard/official |
+| Climate | Air quality | No reliable data | — |
+| Economy | GDP (nominal) | $2.6B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LS) — hard/official |
+| Economy | GDP growth | 2.0% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=LS) — hard/official |
+| Economy | Inflation (CPI) | 4.3% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=LS) — hard/official |
+| Economy | Unemployment | 16.3% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=LS) — hard/official |
+| Economy | Central govt debt | 3% of GDP (2020) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=LS) — hard/official |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 20.8% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=LS) — hard/official |
+| Economy | Credit rating | Not rated by S&P/Moody's/Fitch | [source](https://www.finobservatory.org/sovereign/LSO) — soft/estimate |
+| Economy | Currency | LSL (loti), pegged 1:1 to ZAR; -22% vs USD 5yr (2024) | [source](https://tradingeconomics.com/lesotho/currency) — soft/estimate |
+| Economy | Top industries | Agriculture, manufacturing (textiles), mining (diamonds) | [source](https://en.wikipedia.org/wiki/Economy_of_Lesotho) — soft/estimate |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 52% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=LS) — hard/official |
+| Technology | Fixed broadband subs | 0.4 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=LS) — hard/official |
+| Technology | High-tech exports | 0.1% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=LS) — hard/official |
+| Technology | R&D spend | 0.09% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=LS) — hard/official |
+| Technology | Global Innovation Index | No reliable data | — |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | ~15 Mbps median fixed broadband (2024 est.) | [source](https://www.speedtest.net/global-index) — soft/estimate |
+| Technology | 5G | Not commercially available (2024) | [source](https://datahub.itu.int) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 57.8 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=LS) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | 0.521, rank 168 of 193 (2022) | [source](https://countryeconomy.com/hdi/lesotho) — soft/estimate |
+| Safety | Global Peace Index | Rank 125 of 163, score 2.461 (2024) | [source](https://countryeconomy.com/demography/global-peace-index/lesotho) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 2: Exercise Increased Caution (Jun 2026) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/lesotho-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax applies; capital gains tax on immovable property | [source](https://fiscaworld.com/country/lesotho) — soft/estimate |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | ~6-8 days, cost ~LSL 1,000-2,000 (OBFC Lesotho, 2024) | [source](https://businessregistrations.gov.ls/) — soft/estimate |
+| Business | Corporate tax | 25% standard rate (2024) | [source](https://fiscaworld.com/country/lesotho) — soft/estimate |
+| Family & education | Top university | National University of Lesotho, not in QS World Rankings | [source](https://www.topuniversities.com) — hard/official |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens up to 90 days (2024) | [source](https://www.gov.uk/foreign-travel-advice/lesotho/entry-requirements) — soft/estimate |
+| For Russian citizens | Sanctions position | Has not imposed sanctions on Russia; neutral stance | [source](https://www.state.gov/reports/2024-investment-climate-statements/lesotho) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 141 of 143 (WHR 2024), score 3.186 | [source](https://en.wikipedia.org/wiki/World_Happiness_Report) — soft/estimate |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | English is official language, widely spoken; EF EPI not ranked | [source](https://en.wikipedia.org/wiki/Lesotho) — soft/estimate |
 
 ## Country Card
 

@@ -2,6 +2,7 @@
 title: Liechtenstein — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, strong_passport]
@@ -99,6 +100,68 @@ Forums consistently rate Liechtenstein as one of the hardest places to obtain re
 | Freedom House score | 90/100 Free (2025) | [hard/official](https://freedomhouse.org/country/liechtenstein/freedom-world/2025) |
 | Average annual sunshine hours | ~1,565 h (Vaduz) | [hard/official](https://www.climatestotravel.com/climate/liechtenstein) |
 | Average annual temperature | ~10.8 °C (Vaduz) | [hard/official](https://www.climatestotravel.com/climate/liechtenstein) |
+
+## Extended Snapshot
+
+_Coverage: 35/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 160 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=LI) — hard/official |
+| Geography & size | Population density | 253 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=LI) — hard/official |
+| Geography & size | Urban population | 15% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=LI) — hard/official |
+| Geography & size | Coastline | 0 km (doubly landlocked) | [source](https://en.wikipedia.org/wiki/Liechtenstein) — soft/estimate |
+| Geography & size | Highest point | Grauspitz, 2,599 m | [source](https://en.wikipedia.org/wiki/Liechtenstein) — soft/estimate |
+| Geography & size | Type | landlocked (doubly) | [source](https://en.wikipedia.org/wiki/Liechtenstein) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 (CEST summer), Moscow -2h/-1h | [source](https://en.wikipedia.org/wiki/Liechtenstein) — soft/estimate |
+| Climate | Avg precipitation | No reliable data | — |
+| Climate | PM2.5 exposure | No reliable data | — |
+| Climate | Climate zone | Dfb (humid continental) / alpine | [source](https://en.wikipedia.org/wiki/Liechtenstein) — soft/estimate |
+| Climate | Temp winter / summer | Vaduz: Jan ~0°C avg, Jul ~19°C avg (2024) | [source](https://en.wikipedia.org/wiki/Liechtenstein) — soft/estimate |
+| Climate | Rainy days | ~120-140 days/year (Vaduz) | [source](https://en.wikipedia.org/wiki/Liechtenstein) — soft/estimate |
+| Climate | Humidity | ~75% annual avg | [source](https://en.wikipedia.org/wiki/Liechtenstein) — soft/estimate |
+| Climate | Natural hazards | Avalanches, floods; not in INFORM risk index | [source](https://en.wikipedia.org/wiki/Liechtenstein) — soft/estimate |
+| Climate | Air quality | ~10 µg/m³ PM2.5 annual mean (2024 IQAir est.) | [source](https://www.iqair.com/air-quality/liechtenstein) — soft/estimate |
+| Economy | GDP (nominal) | $8.9B (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LI) — hard/official |
+| Economy | GDP growth | No reliable data | — |
+| Economy | Inflation (CPI) | No reliable data | — |
+| Economy | Unemployment | No reliable data | — |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | No reliable data | — |
+| Economy | Credit rating | S&P AAA (stable, Nov 2024) | [source](https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-finanzen/2024-11-25-s-p-laenderrating-2024-ratingbericht.pdf) — soft/estimate |
+| Economy | Currency | CHF (Swiss franc), float; +5% vs USD 5yr (2024) | [source](https://en.wikipedia.org/wiki/Economy_of_Liechtenstein) — soft/estimate |
+| Economy | Top industries | Financial services, manufacturing (precision instruments), tourism | [source](https://en.wikipedia.org/wiki/Economy_of_Liechtenstein) — soft/estimate |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 98% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=LI) — hard/official |
+| Technology | Fixed broadband subs | 50.0 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=LI) — hard/official |
+| Technology | High-tech exports | No reliable data | — |
+| Technology | R&D spend | 6.01% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=LI) — hard/official |
+| Technology | Global Innovation Index | No reliable data | — |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | ~150 Mbps median fixed broadband (2024 est.) | [source](https://www.speedtest.net/global-index/liechtenstein) — soft/estimate |
+| Technology | 5G | Available, high coverage (2024) | [source](https://www.ookla.com/articles/state-of-worldwide-5g-2022) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 84.2 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=LI) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | 0.942, rank 12 of 193 (2022) | [source](https://countryeconomy.com/hdi/liechtenstein) — soft/estimate |
+| Safety | Global Peace Index | No reliable data | — |
+| Safety | US travel advisory | US State Dept Level 1: Exercise Normal Precautions (2024) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/liechtenstein-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No net wealth tax; inheritance/gift tax varies by canton relation | [source](https://taxsummaries.pwc.com/liechtenstein) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules for domestic companies (2024) | [source](https://taxsummaries.pwc.com/liechtenstein) — soft/estimate |
+| Business | Company setup | ~5-7 days, cost ~CHF 1,000-2,000 (2024) | [source](https://www.uni.li/en/university) — soft/estimate |
+| Business | Corporate tax | 12.5% flat rate on net income (2024) | [source](https://taxsummaries.pwc.com/liechtenstein) — soft/estimate |
+| Family & education | Top university | University of Liechtenstein, not in QS World Rankings (specialized) | [source](https://www.topuniversities.com/universities/university-liechtenstein) — hard/official |
+| Connectivity | Visa-free for Russians | Schengen visa required for Russian citizens (2024); EU restrictions apply | [source](https://commission.europa.eu/topics/eu-solidarity-ukraine/eu-sanctions-against-russia-following-invasion-ukraine/visa-measures_en) — hard/official |
+| For Russian citizens | Sanctions position | Aligns with EU sanctions against Russia (2024) | [source](https://www.thk.li/en/newsroom/sanctions-against-russia) — soft/estimate |
+| Quality of life | World Happiness rank | No reliable data | — |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | German official; English in business; EF EPI not ranked (small country) | [source](https://www.ef.com/epi) — soft/estimate |
 
 ## Country Card
 

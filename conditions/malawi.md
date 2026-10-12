@@ -2,6 +2,7 @@
 title: Malawi - Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax]
 category: clear_pathway
@@ -103,6 +104,68 @@ Malawi has a modest expat community centered on development aid, NGOs, and agric
 | Freedom House score | 65/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/malawi/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,800 h (Lilongwe) | [Climate-data.org](https://en.climate-data.org) — hard/official |
 | Average annual temperature | ~21 C (Lilongwe; subtropical highland) | [Wikipedia](https://en.wikipedia.org/wiki/Malawi#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 43/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 118 484 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=MW) — hard/official |
+| Geography & size | Population density | 230 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=MW) — hard/official |
+| Geography & size | Urban population | 18% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=MW) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://en.wikipedia.org/wiki/Geography_of_Malawi) — soft/estimate |
+| Geography & size | Highest point | Sapitwa (Mount Mulanje), 3,002 m | [source](https://en.wikipedia.org/wiki/Geography_of_Malawi) — soft/estimate |
+| Geography & size | Type | landlocked | [source](https://en.wikipedia.org/wiki/Geography_of_Malawi) — soft/estimate |
+| Geography & size | Time zone | UTC+2 (CAT), Moscow -1h | [source](https://en.wikipedia.org/wiki/Malawi) — soft/estimate |
+| Climate | Avg precipitation | 1181 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=MW) — hard/official |
+| Climate | PM2.5 exposure | 16.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=MW) — hard/official |
+| Climate | Climate zone | Cwa (subtropical highland) / Aw (tropical savanna) | [source](https://en.wikipedia.org/wiki/Climate_of_Malawi) — soft/estimate |
+| Climate | Temp winter / summer | Lilongwe: Jan 21.2°C avg, Jul 16.1°C avg (2024) | [source](https://en.wikipedia.org/wiki/Climate_of_Malawi) — soft/estimate |
+| Climate | Rainy days | 91 days/year with precipitation (Lilongwe, ≥0.1mm) | [source](https://en.wikipedia.org/wiki/Climate_of_Malawi) — soft/estimate |
+| Climate | Humidity | ~65-75% annual avg (Lilongwe) | [source](https://en.wikipedia.org/wiki/Climate_of_Malawi) — soft/estimate |
+| Climate | Natural hazards | Floods, droughts; INFORM moderate-high risk | [source](https://climateknowledgeportal.worldbank.org/country/malawi) — hard/official |
+| Climate | Air quality | No reliable data | — |
+| Economy | GDP (nominal) | $14.9B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MW) — hard/official |
+| Economy | GDP growth | 1.9% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=MW) — hard/official |
+| Economy | Inflation (CPI) | 28.4% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=MW) — hard/official |
+| Economy | Unemployment | 5.1% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=MW) — hard/official |
+| Economy | Central govt debt | 62% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=MW) — hard/official |
+| Economy | Gini index | 38.5 (2019) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=MW) — hard/official |
+| Economy | Tourism receipts | 3% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=MW) — hard/official |
+| Economy | Remittances | 2.0% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=MW) — hard/official |
+| Economy | Credit rating | Not rated by S&P/Moody's/Fitch | [source](https://tradingeconomics.com/malawi/indicators) — soft/estimate |
+| Economy | Currency | MWK (Malawian kwacha), float; -45% vs USD 5yr (2024) | [source](https://tradingeconomics.com/malawi/currency) — soft/estimate |
+| Economy | Top industries | Agriculture (tobacco, tea, sugar), manufacturing, services | [source](https://en.wikipedia.org/wiki/Economy_of_Malawi) — soft/estimate |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 19% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=MW) — hard/official |
+| Technology | Fixed broadband subs | 0.1 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=MW) — hard/official |
+| Technology | High-tech exports | 1.6% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=MW) — hard/official |
+| Technology | R&D spend | 0.18% of GDP (2019) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=MW) — hard/official |
+| Technology | Global Innovation Index | No reliable data | — |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | ~20 Mbps median fixed broadband (2024 est.) | [source](https://www.speedtest.net/global-index) — soft/estimate |
+| Technology | 5G | Not commercially available (2024) | [source](https://datahub.itu.int) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 67.6 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=MW) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | 0.508, rank 172 of 193 (2022) | [source](https://countryeconomy.com/hdi/malawi) — soft/estimate |
+| Safety | Global Peace Index | Rank 80 of 163, score 2.063 (2024) | [source](https://countryeconomy.com/demography/global-peace-index/malawi) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 2: Exercise Increased Caution (2024) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/malawi-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No reliable data | — |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | ~35-40 days, cost ~MWK 50,000-100,000 (2024) | [source](https://policyvault.africa/wp-content/uploads/2025/09/MWI63.pdf) — soft/estimate |
+| Business | Corporate tax | 30% standard rate (2024) | [source](https://www.mra.mw/admin/storage/download_files/1767952247_NEW%20TAX%20MEASURES...pdf) — soft/estimate |
+| Family & education | Top university | University of Malawi (Chancellor College), not in QS World Rankings | [source](https://www.topuniversities.com) — hard/official |
+| Connectivity | Visa-free for Russians | eVisa required for Russian citizens (2024); apply at evisa.gov.mw | [source](https://www.evisa.gov.mw/) — soft/estimate |
+| For Russian citizens | Sanctions position | Has not imposed sanctions on Russia; neutral stance | [source](https://www.state.gov/countries-areas/malawi) — soft/estimate |
+| Quality of life | World Happiness rank | No reliable data | — |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | English is official language; EF EPI rank 84 of 116, score 465 (2024) | [source](https://www.ef.edu/epi/regions/africa/malawi) — soft/estimate |
 
 ## Country Card
 

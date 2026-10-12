@@ -2,6 +2,7 @@
 title: Liberia — Republic of Liberia
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, employment_residency, investment_residency, tax]
 category: clear_pathway
@@ -98,6 +99,68 @@ Limited English-language expat forum data. The expat presence is small, concentr
 | Freedom House score | 64/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/liberia/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,300 h | ^[https://en.climate-data.org/africa/liberia/] hard/official |
 | Average annual temperature | ~27 °C (tropical) | ^[https://en.climate-data.org/africa/liberia/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 39/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 111 370 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=LR) — hard/official |
+| Geography & size | Population density | 58 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=LR) — hard/official |
+| Geography & size | Urban population | 56% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=LR) — hard/official |
+| Geography & size | Coastline | 680 km | [source](https://en.wikipedia.org/wiki/Geography_of_Liberia) — soft/estimate |
+| Geography & size | Highest point | Wologizi Range, 1,440 m | [source](https://en.wikipedia.org/wiki/Geography_of_Liberia) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Geography_of_Liberia) — soft/estimate |
+| Geography & size | Time zone | UTC+0 (GMT), Moscow -3h | [source](https://en.wikipedia.org/wiki/Liberia) — soft/estimate |
+| Climate | Avg precipitation | 2391 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=LR) — hard/official |
+| Climate | PM2.5 exposure | 17.9 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=LR) — hard/official |
+| Climate | Climate zone | Am (tropical monsoon) | [source](https://en.wikipedia.org/wiki/Climate_of_Liberia) — soft/estimate |
+| Climate | Temp winter / summer | Monrovia: ~26°C year-round; Jan ~27°C, Jul ~25°C avg | [source](https://en.wikipedia.org/wiki/Liberia) — soft/estimate |
+| Climate | Rainy days | ~180-200 rainy days/year (Monrovia) | [source](https://www.countryreports.org/country/Liberia/geography.htm) — soft/estimate |
+| Climate | Humidity | ~85% annual avg (Monrovia) | [source](https://www.countryreports.org/country/Liberia/geography.htm) — soft/estimate |
+| Climate | Natural hazards | Harmattan dust winds (Dec-Mar), flooding; INFORM rank not found | [source](https://en.wikipedia.org/wiki/Geography_of_Liberia) — soft/estimate |
+| Climate | Air quality | No reliable data | — |
+| Economy | GDP (nominal) | $5.2B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LR) — hard/official |
+| Economy | GDP growth | 5.0% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=LR) — hard/official |
+| Economy | Inflation (CPI) | 8.3% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=LR) — hard/official |
+| Economy | Unemployment | 2.9% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=LR) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 21.3% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=LR) — hard/official |
+| Economy | Credit rating | Not rated by S&P/Moody's/Fitch | [source](https://tradingeconomics.com/liberia/indicators) — soft/estimate |
+| Economy | Currency | LRD (Liberian dollar), float; also uses USD; -25% vs USD 5yr | [source](https://tradingeconomics.com/liberia/currency) — soft/estimate |
+| Economy | Top industries | Agriculture (rubber), mining (iron ore, gold), forestry | [source](https://en.wikipedia.org/wiki/Economy_of_Liberia) — soft/estimate |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 32% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=LR) — hard/official |
+| Technology | Fixed broadband subs | 0.3 per 100 people (2022) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=LR) — hard/official |
+| Technology | High-tech exports | 0.6% of manufactured exports (2023) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=LR) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | No reliable data | — |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | Not commercially available (2024) | [source](https://datahub.itu.int) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 62.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=LR) — hard/official |
+| Human development & health | Hospital beds | 1.6 per 1000 (2021) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=LR) — hard/official |
+| Human development & health | HDI | 0.487, rank 177 of 193 (2022) | [source](https://countryeconomy.com/hdi/liberia) — soft/estimate |
+| Safety | Global Peace Index | Rank 69 of 163, score 2.025 (2024) | [source](https://countryeconomy.com/demography/global-peace-index/liberia) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 2: Exercise Increased Caution (2024) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/liberia-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No reliable data | — |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | ~5-7 days, cost ~USD 100-300 (Liberia Business Registry, 2024) | [source](https://gsl.org/en/offshore/offshore-zones/liberia) — soft/estimate |
+| Business | Corporate tax | 25% standard rate; 2-4% turnover tax for smaller firms (2024) | [source](https://gsl.org/en/taxes/liberia/) — soft/estimate |
+| Family & education | Top university | University of Liberia, not in QS World Rankings | [source](https://www.topuniversities.com) — hard/official |
+| Connectivity | Visa-free for Russians | Visa required for Russian citizens; can apply at embassy (2024) | [source](https://www.atlys.com/tools/visa-requirements/liberia-visa) — soft/estimate |
+| For Russian citizens | Sanctions position | Has not imposed unilateral sanctions on Russia; neutral stance | [source](https://www.state.gov/countries-areas/liberia) — soft/estimate |
+| Quality of life | World Happiness rank | No reliable data | — |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | English is official language, widely spoken in urban areas; EF EPI not ranked | [source](https://en.wikipedia.org/wiki/Liberia) — soft/estimate |
 
 ## Country Card
 
