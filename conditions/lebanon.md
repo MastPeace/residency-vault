@@ -2,6 +2,7 @@
 title: Lebanon — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, clear_pathway]
@@ -97,6 +98,68 @@ Expat and diaspora forums describe Lebanon as cheap and socially welcoming but o
 | Freedom House score | 39/100 Partly Free (2025) | [hard/official](https://freedomhouse.org/country/lebanon/freedom-world/2025) |
 | Average annual sunshine hours | ~2,964 h (Beirut) | [hard/official](https://weather-and-climate.com/average-monthly-hours-Sunshine,Beirut,Lebanon) |
 | Average annual temperature | ~20 °C (Beirut) | [hard/official](https://www.weather-atlas.com/en/lebanon/beirut-climate) |
+
+## Extended Snapshot
+
+_Coverage: 40/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 10 452 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=LB) — hard/official |
+| Geography & size | Population density | 568 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=LB) — hard/official |
+| Geography & size | Urban population | 91% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=LB) — hard/official |
+| Geography & size | Coastline | 225 km | [source](https://en.wikipedia.org/wiki/List_of_countries_by_length_of_coastline) — soft/estimate |
+| Geography & size | Highest point | Qurnat as Sawda 3088 m | [source](https://en.wikipedia.org/wiki/Geography_of_Lebanon) — soft/estimate |
+| Geography & size | Type | mainland (coastal, Mediterranean) | [source](https://en.wikipedia.org/wiki/Geography_of_Lebanon) — soft/estimate |
+| Geography & size | Time zone | UTC+2 (EET), UTC+3 (EEST); Moscow +1h/0h | [source](https://en.wikipedia.org/wiki/Time_in_Lebanon) — soft/estimate |
+| Climate | Avg precipitation | 661 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=LB) — hard/official |
+| Climate | PM2.5 exposure | 26.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=LB) — hard/official |
+| Climate | Climate zone | Csa/Csb Mediterranean | [source](https://en.wikipedia.org/wiki/Geography_of_Lebanon) — soft/estimate |
+| Climate | Temp winter / summer | Beirut: Jan 14C, Jul 28C (2025) | [source](https://en.wikipedia.org/wiki/Beirut) — soft/estimate |
+| Climate | Rainy days | Beirut ~80 rainy days/year | [source](https://en.wikipedia.org/wiki/Beirut) — soft/estimate |
+| Climate | Humidity | Beirut ~72pct avg annual RH | [source](https://en.wikipedia.org/wiki/Beirut) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, landslides, floods, dust storms | [source](https://en.wikipedia.org/wiki/Geography_of_Lebanon) — soft/estimate |
+| Climate | Air quality | PM2.5 26.7 ug/m3 (2023) | [source](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=LB) — hard/official |
+| Economy | GDP (nominal) | $26.0B (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LB) — hard/official |
+| Economy | GDP growth | -7.1% (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=LB) — hard/official |
+| Economy | Inflation (CPI) | 14.6% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=LB) — hard/official |
+| Economy | Unemployment | 11.0% (2023) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=LB) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 35.5 (2022) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=LB) — hard/official |
+| Economy | Tourism receipts | 27% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=LB) — hard/official |
+| Economy | Remittances | 33.3% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=LB) — hard/official |
+| Economy | Credit rating | Moodys C (2023) / S and P SD (2020) / Fitch RD | [source](https://countryeconomy.com/ratings/lebanon) — soft/estimate |
+| Economy | Currency | LBP, float, -98pct vs USD 5yr (2020-2025) | [source](https://en.wikipedia.org/wiki/Lebanese_pound) — soft/estimate |
+| Economy | Top industries | Banking, tourism, agriculture | [source](https://en.wikipedia.org/wiki/Economy_of_Lebanon) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 45, value 0.35 (2018) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_economic_complexity) — soft/estimate |
+| Technology | Internet users | 81% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=LB) — hard/official |
+| Technology | Fixed broadband subs | 7.3 per 100 people (2022) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=LB) — hard/official |
+| Technology | High-tech exports | 2.9% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=LB) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | 94th out of 133 (2024) | [source](https://www.wipo.int/edocs/gii-ranking/2024/lb.pdf) — hard/official |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | No reliable data | — |
+| Technology | Online payments | No reliable data | — |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 77.9 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=LB) — hard/official |
+| Human development & health | Hospital beds | 2.7 per 1000 (2021) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=LB) — hard/official |
+| Human development & health | HDI | 0.752 (2023) | [source](https://www.theglobaleconomy.com/Lebanon/human_development) — soft/estimate |
+| Safety | Global Peace Index | 131st, score 2.435 (2026) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 4: Do Not Travel (2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/lebanon-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | On FATF grey list (increased monitoring) (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No reliable data | — |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | No reliable data | — |
+| Business | Corporate tax | 17pct (2024) | [source](https://taxfoundation.org/data/all/global/corporate-tax-rates-by-country-2024/) — soft/estimate |
+| Family & education | Top university | American University of Beirut (AUB), QS ~251-300 (2025) | [source](https://www.aub.edu.lb/articles/Pages/2025-QS-World-University-Rankings.aspx) — soft/estimate |
+| Connectivity | Visa-free for Russians | Free visa on arrival, 1 month (as of 2026) | [source](https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens) — soft/estimate |
+| For Russian citizens | Sanctions position | No reliable data | — |
+| Quality of life | World Happiness rank | 3.19 points (2025) | [source](https://www.theglobaleconomy.com/Lebanon/happiness) — soft/estimate |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | No reliable data | — |
 
 ## Country Card
 

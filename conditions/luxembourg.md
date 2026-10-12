@@ -2,6 +2,7 @@
 title: Luxembourg — Luxembourg
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, investment, it_friendly, strong_passport]
 category: strong_passport
@@ -153,6 +154,68 @@ EU sanctions apply. The investor residence route is accessible in principle but 
 | Freedom House score | 97/100 (Free) | [Freedom House](https://freedomhouse.org/country/luxembourg/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~1,600 h | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~9.5 °C | [Wikipedia](https://en.wikipedia.org/wiki/Luxembourg#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 40/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 2 590 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=LU) — hard/official |
+| Geography & size | Population density | 263 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=LU) — hard/official |
+| Geography & size | Urban population | 95% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=LU) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://en.wikipedia.org/wiki/Geography_of_Luxembourg) — soft/estimate |
+| Geography & size | Highest point | Kneiff 560 m | [source](https://en.wikipedia.org/wiki/Geography_of_Luxembourg) — soft/estimate |
+| Geography & size | Type | landlocked | [source](https://en.wikipedia.org/wiki/Geography_of_Luxembourg) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 (CEST); Moscow -2h/-1h | [source](https://en.wikipedia.org/wiki/Time_in_Luxembourg) — soft/estimate |
+| Climate | Avg precipitation | 934 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=LU) — hard/official |
+| Climate | PM2.5 exposure | 7.4 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=LU) — hard/official |
+| Climate | Climate zone | Cfb: temperate oceanic | [source](https://en.wikipedia.org/wiki/Geography_of_Luxembourg) — soft/estimate |
+| Climate | Temp winter / summer | Luxembourg City: Jan 1C, Jul 19C (2025) | [source](https://en.wikipedia.org/wiki/Luxembourg_City) — soft/estimate |
+| Climate | Rainy days | Luxembourg City ~170 rainy days/year | [source](https://en.wikipedia.org/wiki/Luxembourg_City) — soft/estimate |
+| Climate | Humidity | No reliable data | — |
+| Climate | Natural hazards | Floods, occasional storms | [source](https://en.wikipedia.org/wiki/Geography_of_Luxembourg) — soft/estimate |
+| Climate | Air quality | No reliable data | — |
+| Economy | GDP (nominal) | $101.2B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LU) — hard/official |
+| Economy | GDP growth | 0.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=LU) — hard/official |
+| Economy | Inflation (CPI) | 2.3% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=LU) — hard/official |
+| Economy | Unemployment | 6.3% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=LU) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 33.6 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=LU) — hard/official |
+| Economy | Tourism receipts | 3% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=LU) — hard/official |
+| Economy | Remittances | 2.7% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=LU) — hard/official |
+| Economy | Credit rating | Moodys Aaa (Stable) / S and P AAA (Stable) / Fitch AAA (Stable, 2025) | [source](https://tresorerie.public.lu/en/dette-publique/ratings.html) — soft/estimate |
+| Economy | Currency | EUR, floating (Eurozone); -3pct vs USD 5yr (2020-2025) | [source](https://en.wikipedia.org/wiki/Euro) — soft/estimate |
+| Economy | Top industries | Financial services and banking, ICT and media, logistics | [source](https://en.wikipedia.org/wiki/Economy_of_Luxembourg) — soft/estimate |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 99% of population (2025) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=LU) — hard/official |
+| Technology | Fixed broadband subs | 40.3 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=LU) — hard/official |
+| Technology | High-tech exports | 5.1% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=LU) — hard/official |
+| Technology | R&D spend | 1.07% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=LU) — hard/official |
+| Technology | Global Innovation Index | 20th out of 133 (2024) | [source](https://www.wipo.int/edocs/gii-ranking/2024/lu.pdf) — hard/official |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | Fixed broadband: 333.62 Mbps median (Nov 2025) | [source](https://www.speedtest.net/global-index/luxembourg) — hard/official |
+| Technology | 5G | No reliable data | — |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 83.2 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=LU) — hard/official |
+| Human development & health | Hospital beds | 4.0 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=LU) — hard/official |
+| Human development & health | HDI | 0.922 (2023), rank 25 | [source](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) — soft/estimate |
+| Safety | Global Peace Index | No reliable data | — |
+| Safety | US travel advisory | Level 1: Exercise Normal Precautions (2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/luxembourg-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No reliable data | — |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | No reliable data | — |
+| Business | Corporate tax | 24.94pct (2024) | [source](https://taxfoundation.org/data/all/global/corporate-tax-rates-by-country-2024/) — soft/estimate |
+| Family & education | Top university | University of Luxembourg, QS rank 381 (2026) | [source](https://www.uni.lu/en/about/profile/rankings-accreditations/qs-world-university/) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa required (Schengen area) | [source](https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens) — soft/estimate |
+| For Russian citizens | Sanctions position | Strongly supports EU sanctions against Russia; full implementation | [source](https://en.wikipedia.org/wiki/International_sanctions_during_the_Russian_invasion_of_Ukraine) — soft/estimate |
+| Quality of life | World Happiness rank | 7.12 points (2025) | [source](https://www.theglobaleconomy.com/Luxembourg/happiness) — soft/estimate |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | No reliable data | — |
 
 ## Country Card
 
