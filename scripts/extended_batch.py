@@ -87,6 +87,10 @@ def finalize(wd):
         except Exception as e:
             p.write_text(before); failed.append((s, str(e)[:80]))
     rep = {'ok': ok, 'failed': failed, 'dead_links_demoted': dead, 'pushed': False}
+    if ok:  # success resets the attempt counter, so later 90-day refreshes are not capped at MAX_ATTEMPTS lifetime
+        st = json.loads(STATE.read_text()) if STATE.exists() else {}
+        for s_, _ in ok: st.pop(s_, None)
+        STATE.write_text(json.dumps(st))
     if files:
         env = dict(os.environ); envf = pathlib.Path.home() / '.hermes/.env'
         tok = None

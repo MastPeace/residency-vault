@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [Unreleased]
 
 ### Fixed
+- `extended_batch.py`: a successful snapshot resets the attempt counter (otherwise a country would be skipped for good after 3 refreshes in total). Cron gate `ext_pending.sh` includes the UTC hour while work is pending, so the batch no longer stalls after a tick skipped by the Monday monitor window.
 - Kazakhstan and Singapore migrated from v1 to SCHEMA v2 (Residency Programs table, Per-Program Detail, Community Pulse) with `scripts/migrate_v2.py` (deepseek-v4-pro, facts from the page only; other sections kept verbatim). Singapore title fixed.
 - 12 country pages: Detail/snapshot anchors that pointed to non-existent headings repaired; footnote back-links without a reference are dropped. Site now has 0 broken internal links/anchors and 0 broken wikilinks.
 - Concept pages got `category` and `last_checked` in frontmatter.
