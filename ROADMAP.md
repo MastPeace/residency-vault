@@ -22,6 +22,8 @@ Overview-level, source-cited, continuously monitored reference for residency and
 - [ ] Backlinks / distribution: Telegram channel @migrate_easy, relevant communities, Reddit/HN-style launch post, lists of "digital nomad visa" resources
 - [x] Public weekly changes section `/changes/` (one page per week with changes, auto-built from the weekly alert)
 
+- [ ] **Telegram channel content** — dark-brand image cards (`immigration-bot/make_card.py`), queue of country posts, daily draft at 07:00 UTC via cron `channel-daily-post` (approval mode); next series: program types, weekly "Radar" post
+
 ## Stage 2 — Content depth (the differentiators)
 - [ ] **Community channels per country** — Telegram/forums/Facebook groups/Reddit for expats in each country, with a short note per channel. New section on the country page.
 - [ ] **Blogs, experts and helpers per country** — independent bloggers, practitioners, lawyers/agencies, with a clear "listed, not endorsed" rule and criteria for inclusion.
