@@ -44,5 +44,8 @@ Ordered by speed. Ranges are rough assumptions, not market data.
 - **Quality:** one wrong threshold costs more reputation than many right facts gain. Every number carries a source and a check date; add human verification before any paid/B2B offer.
 - **Distribution:** the product works, the audience does not exist yet. Stage 1 gates everything below it.
 
+## Later / ideas
+- **Special residency conditions per country** — preferential or non-standard routes beyond the 10 canonical types: ancestry/heritage and repatriation programs, nationals of specific countries (treaty or quota regimes), refugee/humanitarian and temporary-protection statuses, special regimes for particular professions or regions. Needs its own schema section and a scope decision first (which categories, how to keep it comparable across countries).
+
 ## Parked
 - Russian-language version (revisit when the English site has steady traffic)
