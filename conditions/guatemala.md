@@ -2,6 +2,7 @@
 title: Guatemala — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, retired_residency, tax, clear_pathway]
 category: clear_pathway
@@ -113,6 +114,68 @@ Not applicable — Guatemala has Caribbean and Pacific coasts but no significant
 | Freedom House score | 53/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/guatemala/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,500 h (Guatemala City; varies by altitude) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Guatemala#Climate) — hard/official |
 | Average annual temperature | ~20 °C (central highlands; warmer on coasts) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Guatemala#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 41/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 108 889 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=GT) — hard/official |
+| Geography & size | Population density | 172 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=GT) — hard/official |
+| Geography & size | Urban population | 56% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=GT) — hard/official |
+| Geography & size | Coastline | 400 km | [source](https://en.wikipedia.org/wiki/Outline_of_Guatemala) — soft/estimate |
+| Geography & size | Highest point | Volcán Tajumulco, 4,220 m | [source](https://en.wikipedia.org/wiki/Outline_of_Guatemala) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Guatemala) — soft/estimate |
+| Geography & size | Time zone | UTC-6 (CST), 9h behind Moscow | [source](https://en.wikipedia.org/wiki/Outline_of_Guatemala) — soft/estimate |
+| Climate | Avg precipitation | 1996 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=GT) — hard/official |
+| Climate | PM2.5 exposure | 29.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=GT) — hard/official |
+| Climate | Climate zone | Cwb (subtropical highland, dry winter) | [source](https://www.weather-atlas.com/en/guatemala/guatemala-city-climate) — soft/estimate |
+| Climate | Temp winter / summer | Jan 13–24°C, Jul 16–25°C (Guatemala City) | [source](https://www.weather-atlas.com/en/guatemala/guatemala-city-climate) — soft/estimate |
+| Climate | Rainy days | ~125 days/year (Guatemala City) | [source](https://www.weather-atlas.com/en/guatemala/guatemala-city-climate) — soft/estimate |
+| Climate | Humidity | 73–85% annual range (Guatemala City) | [source](https://www.weather-atlas.com/en/guatemala/guatemala-city-climate) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, volcanoes, hurricanes, landslides | [source](https://www.cia.gov/the-world-factbook/countries/guatemala) — hard/official |
+| Climate | Air quality | No reliable data | — |
+| Economy | GDP (nominal) | $123.3B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GT) — hard/official |
+| Economy | GDP growth | 4.3% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=GT) — hard/official |
+| Economy | Inflation (CPI) | 1.5% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=GT) — hard/official |
+| Economy | Unemployment | 2.6% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=GT) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 45.2 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=GT) — hard/official |
+| Economy | Tourism receipts | 2% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=GT) — hard/official |
+| Economy | Remittances | 20.8% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=GT) — hard/official |
+| Economy | Credit rating | S&P BB+/Stable, Moody's Ba1/Stable, Fitch BB+/Stable (2025) | [source](https://tradingeconomics.com/guatemala/rating) — soft/estimate |
+| Economy | Currency | GTQ, managed float, stable ~7.64/USD over 5yr (2020-2025) | [source](https://www.xe.com/currencyconverter/convert/?From=USD&To=GTQ) — soft/estimate |
+| Economy | Top industries | Agriculture ~10% GDP, manufacturing ~20%, services ~60% | [source](https://www.cia.gov/the-world-factbook/countries/guatemala) — hard/official |
+| Economy | Economic Complexity | ECI rank 74/130 (Trade, 2024) | [source](https://oec.world/en/profile/country/gtm) — hard/official |
+| Technology | Internet users | 60% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=GT) — hard/official |
+| Technology | Fixed broadband subs | 5.3 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=GT) — hard/official |
+| Technology | High-tech exports | 5.4% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=GT) — hard/official |
+| Technology | R&D spend | 0.01% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=GT) — hard/official |
+| Technology | Global Innovation Index | No reliable data | — |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | Fixed broadband: 150.11 Mbps median (Aug 2026) | [source](https://www.speedtest.net/global-index/guatemala) — hard/official |
+| Technology | 5G | Available via Claro (449 Mbps median 5G, H1 2024) | [source](https://www.ookla.com/research/reports/guatemala-speedtest-connectivity-report-h12024) — soft/estimate |
+| Technology | Online payments | Stripe not available; PayPal available for receiving | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 72.7 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=GT) — hard/official |
+| Human development & health | Hospital beds | 0.5 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=GT) — hard/official |
+| Human development & health | HDI | 0.629, rank 136/193 (2022) | [source](https://hdr.undp.org/sites/default/files/2023-24_HDR/HDR23-24_Statistical_Annex_HDI_Table.xlsx) — hard/official |
+| Safety | Global Peace Index | Rank 117/163, score 2.332 (2024) | [source](https://countryeconomy.com/demography/global-peace-index/guatemala) — soft/estimate |
+| Safety | US travel advisory | Level 3: Reconsider Travel (Mar 2026) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories..html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains 10% (2024) | [source](https://taxsummaries.pwc.com/guatemala) — soft/estimate |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | No reliable data | — |
+| Business | Corporate tax | 25% headline; optional 7% on gross income (2024) | [source](https://taxsummaries.pwc.com/guatemala) — soft/estimate |
+| Family & education | Top university | No reliable data | — |
+| Connectivity | Visa-free for Russians | No reliable data | — |
+| For Russian citizens | Sanctions position | No reliable data | — |
+| Quality of life | World Happiness rank | No reliable data | — |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI #61, score 510; English not widely spoken (2024) | [source](https://www.ef.edu/epi/regions/latin-america/guatemala) — soft/estimate |
 
 ## Country Card
 

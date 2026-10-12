@@ -2,6 +2,7 @@
 title: Hong Kong — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, it_friendly, clear_pathway, investment-residency]
 category: it_friendly
@@ -130,6 +131,68 @@ HK's talent schemes are widely seen as efficient and predictable. TTPS extension
 | Freedom House score | 40/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/hong-kong/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~1,800 h | [HK Observatory](https://www.hko.gov.hk/) — hard/official |
 | Average annual temperature | ~23 °C | [HK Observatory](https://www.hko.gov.hk/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 39/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 1 110 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=HK) — hard/official |
+| Geography & size | Population density | 7 166 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=HK) — hard/official |
+| Geography & size | Urban population | 100% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=HK) — hard/official |
+| Geography & size | Coastline | ~1,180 km | [source](https://www.chinadailyhk.com/hk/article/621313) — soft/estimate |
+| Geography & size | Highest point | Tai Mo Shan, 957 m | [source](https://en.wikipedia.org/wiki/List_of_mountains,_peaks_and_hills_in_Hong_Kong) — soft/estimate |
+| Geography & size | Type | mainland (SAR, coastal/peninsular) | [source](https://en.wikipedia.org/wiki/Hong_Kong) — soft/estimate |
+| Geography & size | Time zone | UTC+8 (HKT), 5h ahead of Moscow | [source](https://en.wikipedia.org/wiki/Hong_Kong) — soft/estimate |
+| Climate | Avg precipitation | No reliable data | — |
+| Climate | PM2.5 exposure | No reliable data | — |
+| Climate | Climate zone | Cfa (humid subtropical) | [source](https://en.climate-data.org/asia/china/hong-kong-877) — soft/estimate |
+| Climate | Temp winter / summer | Jan 14–19°C, Jul 27–31°C (Hong Kong) | [source](https://en.climate-data.org/asia/china/hong-kong-877) — soft/estimate |
+| Climate | Rainy days | ~140 days/year (Hong Kong) | [source](https://en.climate-data.org/asia/china/hong-kong-877) — soft/estimate |
+| Climate | Humidity | ~77% annual average (Hong Kong) | [source](https://www.hko.gov.hk/en/cis/climahk.htm) — hard/official |
+| Climate | Natural hazards | Typhoons, occasional flooding, landslides | [source](https://www.hko.gov.hk/en/cis/climahk.htm) — hard/official |
+| Climate | Air quality | PM2.5 15.7 µg/m³ annual mean (2025) | [source](https://www.iqair.com/hk-en/world-air-quality) — soft/estimate |
+| Economy | GDP (nominal) | $427.3B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=HK) — hard/official |
+| Economy | GDP growth | 3.5% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=HK) — hard/official |
+| Economy | Inflation (CPI) | 1.4% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=HK) — hard/official |
+| Economy | Unemployment | 2.8% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=HK) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 5% of exports (2019) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=HK) — hard/official |
+| Economy | Remittances | 0.1% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=HK) — hard/official |
+| Economy | Credit rating | S&P AA+/Stable, Moody's Aa3/Stable, Fitch AA-/Stable (2025) | [source](https://www.news.gov.hk/eng/2025/05/20250527/20250527_180819_529.html) — hard/official |
+| Economy | Currency | HKD, pegged to USD at ~7.80, stable over 5yr | unsourced/unverified |
+| Economy | Top industries | Financial services, trade/logistics, professional services | [source](https://www.cia.gov/the-world-factbook/countries/hong-kong) — hard/official |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 96% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=HK) — hard/official |
+| Technology | Fixed broadband subs | 40.3 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=HK) — hard/official |
+| Technology | High-tech exports | 75.6% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=HK) — hard/official |
+| Technology | R&D spend | 1.13% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=HK) — hard/official |
+| Technology | Global Innovation Index | No reliable data | — |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | Fixed broadband: 466.55 Mbps median (Aug 2026) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | Widespread 5G coverage via multiple carriers | unsourced/unverified |
+| Technology | Online payments | Stripe available for Hong Kong businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 85.4 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=HK) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | 0.956, rank 4/193 (2022) | [source](https://hdr.undp.org/sites/default/files/2023-24_HDR/HDR23-24_Statistical_Annex_HDI_Table.xlsx) — hard/official |
+| Safety | Global Peace Index | No reliable data | — |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (Sep 2026) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories..html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; no capital gains tax (2024) | [source](https://taxsummaries.pwc.com/hong-kong-sar) — soft/estimate |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | No reliable data | — |
+| Business | Corporate tax | 16.5% corporations; 15% unincorporated (2024) | [source](https://taxsummaries.pwc.com/hong-kong-sar) — soft/estimate |
+| Family & education | Top university | University of Hong Kong (HKU), QS rank #17 (2025) | [source](https://www.hku.hk/press/press-releases/detail/27414.html) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free 14 days for Russian citizens; eVisa for longer (2025) | [source](https://www.immd.gov.hk/eng/services/visas/visit_transit.html) — hard/official |
+| For Russian citizens | Sanctions position | No reliable data | — |
+| Quality of life | World Happiness rank | Rank 88/147, score 5.445 (2025) | [source](https://statranker.org/population/top-100-happiest-countries-world-happiness-report-2025-edition) — soft/estimate |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI #32, score 549; English widely spoken in business (2024) | [source](https://www.ef.com/assetscdn/WIBIwq6RdJvcD9bc8RMd/cefcom-epi-site/fact-sheets/2024/ef-epi-fact-sheet-hong-kong-english.pdf) — soft/estimate |
 
 ## Country Card
 
