@@ -2,6 +2,7 @@
 title: Monaco — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, strong_passport]
@@ -99,6 +100,68 @@ Residence is widely seen as "pay-to-live" for the wealthy: capital and property 
 | Freedom House score | 82/100 Free (2025) | [hard/official](https://freedomhouse.org/country/monaco/freedom-world/2025) |
 | Average annual sunshine hours | ~2,700 h  [soft/estimate] | [soft/estimate](https://www.climatestotravel.com/climate/monaco) |
 | Average annual temperature | ~16 °C (Mediterranean)  [soft/estimate] | [soft/estimate](https://www.climatestotravel.com/climate/monaco) |
+
+## Extended Snapshot
+
+_Coverage: 43/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 75 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=MC) — hard/official |
+| Geography & size | Population density | 18 537 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=MC) — hard/official |
+| Geography & size | Urban population | 100% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=MC) — hard/official |
+| Geography & size | Coastline | 3.83 km (2024) | [source](https://en.wikipedia.org/wiki/Geography_of_Monaco) — soft/estimate |
+| Geography & size | Highest point | Chemin des Révoires (Patio Palace), 164.4 m | [source](https://en.wikipedia.org/wiki/Geography_of_Monaco) — soft/estimate |
+| Geography & size | Type | enclave (city-state on French Riviera) | [source](https://en.wikipedia.org/wiki/Monaco) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 summer (CEST); Moscow-2 | [source](https://en.wikipedia.org/wiki/Monaco) — soft/estimate |
+| Climate | Avg precipitation | No reliable data | — |
+| Climate | PM2.5 exposure | 11.4 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=MC) — hard/official |
+| Climate | Climate zone | Csa — hot-summer Mediterranean | [source](https://en.wikipedia.org/wiki/Geography_of_Monaco) — soft/estimate |
+| Climate | Temp winter / summer | Monaco: Jan ~10°C avg, Jul ~24°C avg (1981–2010 normals) | [source](https://www.weather-atlas.com/en/monaco/monaco-climate) — soft/estimate |
+| Climate | Rainy days | ~63 rainy days/year, annual precip ~744 mm | [source](https://www.weather-atlas.com/en/monaco/monaco-climate) — soft/estimate |
+| Climate | Humidity | ~70% avg annual relative humidity (coastal Mediterranean) | [source](https://www.weather-atlas.com/en/monaco/monaco-climate) — soft/estimate |
+| Climate | Natural hazards | Occasional Mediterranean storms, coastal flooding | [source](https://en.wikipedia.org/wiki/Geography_of_Monaco) — soft/estimate |
+| Climate | Air quality | PM2.5 ~10 μg/m³ (2023, good — European standards) | [source](https://www.iqair.com/monaco) — soft/estimate |
+| Economy | GDP (nominal) | $11.1B (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MC) — hard/official |
+| Economy | GDP growth | 8.5% (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=MC) — hard/official |
+| Economy | Inflation (CPI) | No reliable data | — |
+| Economy | Unemployment | No reliable data | — |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | No reliable data | — |
+| Economy | Credit rating | not rated by S&P/Moody's/Fitch | [source](https://countryeconomy.com/ratings) — soft/estimate |
+| Economy | Currency | EUR (euro), monetary union — no independent currency | [source](https://www.ceifx.com/news/27-countries-that-are-currently-using-the-euro) — soft/estimate |
+| Economy | Top industries | Tourism/gambling, financial services, real estate (2024) | [source](https://data.un.org/CountryProfile.aspx/en/CountryProfile.aspx?crName=Monaco) — soft/estimate |
+| Economy | Economic Complexity | N/A — city-state, not independently ranked | [source](https://atlas.hks.harvard.edu/) — soft/estimate |
+| Technology | Internet users | 99% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=MC) — hard/official |
+| Technology | Fixed broadband subs | 55.7 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=MC) — hard/official |
+| Technology | High-tech exports | No reliable data | — |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | Not ranked in GII 2024 (too small) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | Not separately ranked in EGDI 2024 | [source](https://desapublications.un.org/sites/default/files/publications/2024-09/Technical%20Appendix%20%28Web%20version%29%201292024.pdf) — hard/official |
+| Technology | Median broadband speed | Not listed in Ookla Global Index; fiber widely available, ~200+ Mbps | [source](https://www.speedtest.net/global-index) — soft/estimate |
+| Technology | 5G | 5G available (part of French network coverage, 2024) | unsourced/unverified |
+| Technology | Online payments | Stripe available (2024) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Not ranked (StartupBlink 2024 — too small) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 86.5 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=MC) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | Not separately ranked; comparable to France ~0.910 (very high) | [source](https://simple.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) — soft/estimate |
+| Safety | Global Peace Index | Not ranked in GPI 2024 | [source](https://www.portugalglobal.pt/media/dzjlpsuk/gpi-2024-web.pdf) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 1 — Exercise Normal Precautions (2024) | [source](https://travel.state.gov/en/international-travel/travel-advisories/monaco.html) — hard/official |
+| Money & tax | FATF status | On FATF grey list (increased monitoring) (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax, no inheritance tax for direct line heirs; no capital gains tax for individuals (2024) | [source](https://gsl.org/en/taxes/monaco) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules; companies >25% non-Monaco revenue taxed at 25% French rules (2024) | [source](https://gsl.org/en/taxes/monaco) — soft/estimate |
+| Business | Company setup | ~1–2 days, cost ~€500 (2024) | [source](https://www.lloydsbanktrade.com/en/market-potential/monaco/economy) — soft/estimate |
+| Business | Corporate tax | 25% (only for companies with >25% revenue outside Monaco; most pay 0%) (2024) | [source](https://gsl.org/en/taxes/monaco) — soft/estimate |
+| Family & education | Top university | International University of Monaco (not QS ranked) | [source](https://www.topuniversities.com/) — soft/estimate |
+| Connectivity | Visa-free for Russians | Schengen visa required; Monaco follows French/Schengen entry rules (2024) | [source](https://en.wikipedia.org/wiki/Visa_requirements_for_Mon%C3%A9gasque_citizens) — soft/estimate |
+| For Russian citizens | Sanctions position | Aligned with France/EU; imposing sanctions on Russia (2024) | [source](https://www.akerman.com/print/v2/content/131210/Economic-Sanctions-and-Export-Controls.pdf) — soft/estimate |
+| Quality of life | World Happiness rank | Not separately ranked in World Happiness Report 2025 | [source](https://files.worldhappiness.report/WHR25.pdf) — hard/official |
+| Quality of life | Expat friendliness | Not listed in InterNations Expat Insider 2024 (too small) | [source](https://www.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | French primary; English widely spoken in business/tourism; not in EF EPI | [source](https://www.ef.com/assetscdn/WIBIwq6RdJvcD9bc8RMd/cefcom-epi-site/reports/2024/ef-epi-2024-english.pdf) — soft/estimate |
 
 ## Country Card
 

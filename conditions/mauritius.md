@@ -2,6 +2,7 @@
 title: Mauritius — Republic of Mauritius
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, digital-nomad, tax, it_friendly, investment_residency, retired_residency]
 category: multi
@@ -115,6 +116,68 @@ Mauritius offers visa-free entry for 90 days for Russian citizens (visa-waiver e
 | Freedom House score | 85/100 — Free (2025) | ^[https://freedomhouse.org/country/mauritius/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,900 (Port Louis) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Port-Louis,Mauritius] hard/official |
 | Average annual temperature | ~24°C (Port Louis, tropical maritime) | ^[https://en.climate-data.org/africa/mauritius/port-louis/port-louis-1292/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 2 010 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=MU) — hard/official |
+| Geography & size | Population density | 623 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=MU) — hard/official |
+| Geography & size | Urban population | 39% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=MU) — hard/official |
+| Geography & size | Coastline | 177 km (2024) | [source](https://en.wikipedia.org/wiki/Geography_of_Mauritius) — soft/estimate |
+| Geography & size | Highest point | Piton de la Petite Rivière Noire, 828 m | [source](https://en.wikipedia.org/wiki/Piton_de_la_Petite_Rivi%C3%A8re_Noire) — soft/estimate |
+| Geography & size | Type | island (Mascarene archipelago, Indian Ocean) | [source](https://en.wikipedia.org/wiki/Mauritius) — soft/estimate |
+| Geography & size | Time zone | UTC+4 (MUT), Moscow+1 | [source](https://en.wikipedia.org/wiki/Mauritius) — soft/estimate |
+| Climate | Avg precipitation | 2041 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=MU) — hard/official |
+| Climate | PM2.5 exposure | 14.1 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=MU) — hard/official |
+| Climate | Climate zone | Af/Am — tropical monsoon/tropical rainforest | [source](https://en.wikipedia.org/wiki/Geography_of_Mauritius) — soft/estimate |
+| Climate | Temp winter / summer | Port Louis: summer (Jan) ~26°C avg, winter (Jul) ~20°C avg (2024) | [source](https://en.wikipedia.org/wiki/Geography_of_Mauritius) — soft/estimate |
+| Climate | Rainy days | ~140 rainy days/year, annual precip ~1,500 mm | [source](https://en.wikipedia.org/wiki/Geography_of_Mauritius) — soft/estimate |
+| Climate | Humidity | ~75% avg annual relative humidity (Port Louis) | [source](https://weather.com/weather/tenday/l/-20.16194,57.49889) — soft/estimate |
+| Climate | Natural hazards | Tropical cyclones (Nov–May), coastal erosion, flash floods | [source](https://en.wikipedia.org/wiki/Geography_of_Mauritius) — soft/estimate |
+| Climate | Air quality | PM2.5 ~12 μg/m³ (2023, moderate) | [source](https://www.iqair.com/mauritius) — soft/estimate |
+| Economy | GDP (nominal) | $16.2B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MU) — hard/official |
+| Economy | GDP growth | 3.2% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=MU) — hard/official |
+| Economy | Inflation (CPI) | 3.7% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=MU) — hard/official |
+| Economy | Unemployment | 5.6% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=MU) — hard/official |
+| Economy | Central govt debt | 57% of GDP (2019) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=MU) — hard/official |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 13% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=MU) — hard/official |
+| Economy | Remittances | 1.9% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=MU) — hard/official |
+| Economy | Credit rating | Not currently rated by S&P; previously BBB- (investment grade) | [source](https://countryeconomy.com/ratings/mauritius) — soft/estimate |
+| Economy | Currency | MUR (Mauritian rupee), managed float; ~15% depreciation vs USD 2020–2025 | [source](https://wise.com/us/currency-converter/mur-to-usd-rate/history) — soft/estimate |
+| Economy | Top industries | Services (tourism, finance) ~70%, manufacturing ~18%, agriculture ~4% (2024) | [source](https://statsmauritius.govmu.org/) — soft/estimate |
+| Economy | Economic Complexity | ECI rank ~105 (2022) | [source](https://atlas.hks.harvard.edu/) — soft/estimate |
+| Technology | Internet users | 73% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=MU) — hard/official |
+| Technology | Fixed broadband subs | 28.0 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=MU) — hard/official |
+| Technology | High-tech exports | 1.2% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=MU) — hard/official |
+| Technology | R&D spend | 0.26% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=MU) — hard/official |
+| Technology | Global Innovation Index | Rank ~55 (GII 2024) | [source](https://www.wipo.int/edocs/gii-ranking/2024/mu.pdf) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI ~0.75, rank ~45 (2024) | [source](https://indicators.govmu.org/ictindicators?p=666) — hard/official |
+| Technology | Median broadband speed | Median fixed broadband ~30 Mbps (Ookla 2024) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G available from Mauritius Telecom (2024) | [source](https://platform.tracxn.com/a/d/company/5730aa86e4b0487302b3f16d/mauritius%20telecom) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses (2024) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Rank ~90 (StartupBlink 2024) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 73.8 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=MU) — hard/official |
+| Human development & health | Hospital beds | 3.8 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=MU) — hard/official |
+| Human development & health | HDI | 0.804, rank 66 (2023, very high human development) | [source](https://simple.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) — soft/estimate |
+| Safety | Global Peace Index | Rank ~23, score ~1.5 (GPI 2024) | [source](https://www.portugalglobal.pt/media/dzjlpsuk/gpi-2024-web.pdf) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 1 — Exercise Normal Precautions (2024) | [source](https://travel.state.gov/en/international-travel/travel-advisories/mauritius.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax, no inheritance tax, no capital gains tax for individuals (2024) | unsourced/unverified |
+| Money & tax | CFC rules | Yes — CFC rules exist for Mauritius tax residents (2024) | [source](https://www.mra.mu/taxes-duties/corporate-taxation) — soft/estimate |
+| Business | Company setup | ~4 days, cost ~$150 (2024) | [source](https://www.lloydsbanktrade.com/en/market-potential/mauritius/economy) — soft/estimate |
+| Business | Corporate tax | 15% standard rate (2024) | [source](https://www.mra.mu/taxes-duties/corporate-taxation) — soft/estimate |
+| Family & education | Top university | University of Mauritius (not ranked in QS top 1000) | [source](https://www.topuniversities.com/) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens (60 days); source date 2024 | [source](https://mauritius.mid.ru/en/consular-services/visa) — soft/estimate |
+| For Russian citizens | Sanctions position | Not imposing sanctions on Russia; maintains neutral stance | [source](https://sanctionssearch.ofac.treas.gov/) — soft/estimate |
+| Quality of life | World Happiness rank | Rank ~70 (World Happiness Report 2025) | [source](https://files.worldhappiness.report/WHR25.pdf) — hard/official |
+| Quality of life | Expat friendliness | Rank ~40 (InterNations Expat Insider 2024) | [source](https://www.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | English is official and widely spoken; EF EPI: moderate proficiency, rank ~40 | [source](https://www.ef.com/assetscdn/WIBIwq6RdJvcD9bc8RMd/cefcom-epi-site/reports/2024/ef-epi-2024-english.pdf) — soft/estimate |
 
 ## Country Card
 

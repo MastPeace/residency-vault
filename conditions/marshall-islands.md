@@ -2,6 +2,7 @@
 title: Marshall Islands — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, maritime, clear_pathway]
@@ -90,6 +91,68 @@ RMI is tracked in the CBI community mainly for its 1990s passport-sale history a
 | Freedom House score | 93/100 Free (2025) | [Freedom House](https://freedomhouse.org/country/marshall-islands/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | No reliable data | confidence low |
 | Average annual temperature | ~28 °C (Majuro, tropical) | confidence low |
+
+## Extended Snapshot
+
+_Coverage: 47/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 181 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=MH) — hard/official |
+| Geography & size | Population density | 207 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=MH) — hard/official |
+| Geography & size | Urban population | 79% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=MH) — hard/official |
+| Geography & size | Coastline | 370.4 km (2024) | [source](https://en.wikipedia.org/wiki/Geography_of_the_Marshall_Islands) — soft/estimate |
+| Geography & size | Highest point | Unnamed point on Likiep Atoll, 10 m | [source](https://www.britannica.com/place/Marshall-Islands) — soft/estimate |
+| Geography & size | Type | archipelago (29 atolls, 5 islands) | [source](https://www.britannica.com/place/Marshall-Islands) — soft/estimate |
+| Geography & size | Time zone | UTC+12 (MHT), Moscow+9 | [source](https://en.wikipedia.org/wiki/Geography_of_the_Marshall_Islands) — soft/estimate |
+| Climate | Avg precipitation | No reliable data | — |
+| Climate | PM2.5 exposure | 4.1 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=MH) — hard/official |
+| Climate | Climate zone | Af — tropical rainforest | [source](https://en.wikipedia.org/wiki/Geography_of_the_Marshall_Islands) — soft/estimate |
+| Climate | Temp winter / summer | Majuro: 28°C year-round avg (82°F); Jan 27.8°C, Jul 27.8°C | [source](https://www.timeanddate.com/weather/marshall-islands/majuro/climate) — soft/estimate |
+| Climate | Rainy days | ~240 rainy days/year, annual precip 3,140 mm | [source](https://www.timeanddate.com/weather/marshall-islands/majuro/climate) — soft/estimate |
+| Climate | Humidity | 80% avg annual relative humidity (Majuro) | [source](https://www.timeanddate.com/weather/marshall-islands/majuro/climate) — soft/estimate |
+| Climate | Natural hazards | Typhoons (Jul–Nov), sea level rise, coastal flooding; INFORM risk: medium-high | [source](https://en.wikipedia.org/wiki/Geography_of_the_Marshall_Islands) — soft/estimate |
+| Climate | Air quality | PM2.5 ~8 μg/m³ (2023, good — remote Pacific) | [source](https://www.iqair.com/marshall-islands) — soft/estimate |
+| Economy | GDP (nominal) | $308.0M (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MH) — hard/official |
+| Economy | GDP growth | 2.3% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=MH) — hard/official |
+| Economy | Inflation (CPI) | No reliable data | — |
+| Economy | Unemployment | No reliable data | — |
+| Economy | Central govt debt | 42% of GDP (2019) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=MH) — hard/official |
+| Economy | Gini index | 35.5 (2019) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=MH) — hard/official |
+| Economy | Tourism receipts | 16% of exports (2018) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=MH) — hard/official |
+| Economy | Remittances | 23.5% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=MH) — hard/official |
+| Economy | Credit rating | not rated by S&P/Moody's/Fitch | [source](https://countryeconomy.com/ratings) — soft/estimate |
+| Economy | Currency | USD (uses US dollar, no independent currency) | [source](https://www.state.gov/reports/2018-investment-climate-statements/marshall-islands) — hard/official |
+| Economy | Top industries | Government services, fishing, copra/agriculture (2024) | [source](https://www.lloydsbanktrade.com/en/market-potential/marshall-islands/economy) — soft/estimate |
+| Economy | Economic Complexity | ECI rank ~200 (among lowest globally, 2022) | [source](https://atlas.hks.harvard.edu/) — soft/estimate |
+| Technology | Internet users | 66% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=MH) — hard/official |
+| Technology | Fixed broadband subs | 2.4 per 100 people (2022) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=MH) — hard/official |
+| Technology | High-tech exports | No reliable data | — |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | Not ranked in GII 2024 top 133 | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.4167, rank ~160 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/107-Marshall-Islands/dataYear/2024) — hard/official |
+| Technology | Median broadband speed | Not listed in Ookla Global Index; satellite-based, ~5-10 Mbps typical | [source](https://www.speedtest.net/global-index) — soft/estimate |
+| Technology | 5G | No 5G deployment | unsourced/unverified |
+| Technology | Online payments | Stripe not available; limited local options | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Not ranked (StartupBlink 2024) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 67.1 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=MH) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | 0.639, rank ~130 (2022, medium human development) | [source](https://simple.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) — soft/estimate |
+| Safety | Global Peace Index | Not ranked in GPI 2024 | [source](https://www.portugalglobal.pt/media/dzjlpsuk/gpi-2024-web.pdf) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level 1 — Exercise Normal Precautions (2024) | [source](https://travel.state.gov/en/international-travel/travel-advisories/marshall-islands.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax, no inheritance tax, no capital gains tax (2024) | [source](https://taxglass.net/compare/cayman-islands-vs-marshall-islands) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules | [source](https://taxglass.net/compare/cayman-islands-vs-marshall-islands) — soft/estimate |
+| Business | Company setup | ~5 days, ~$650 cost (2024) | [source](https://www.lloydsbanktrade.com/en/market-potential/marshall-islands/economy) — soft/estimate |
+| Business | Corporate tax | 3% gross revenue tax on local cos; 0% for non-resident IBCs (2024) | [source](https://taxglass.net/compare/cayman-islands-vs-marshall-islands) — soft/estimate |
+| Family & education | Top university | College of the Marshall Islands (not QS ranked) | [source](https://www.topuniversities.com/) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa on arrival for Russian citizens (30 days); source date 2024 | [source](https://onwardpassport.com/passports/russia.html) — soft/estimate |
+| For Russian citizens | Sanctions position | Aligned with US via Compact of Free Association; follows US sanctions policy | [source](https://www.state.gov/countries-areas/marshall-islands/) — soft/estimate |
+| Quality of life | World Happiness rank | Not ranked in World Happiness Report 2025 | [source](https://files.worldhappiness.report/WHR25.pdf) — hard/official |
+| Quality of life | Expat friendliness | Not listed in InterNations Expat Insider 2024 | [source](https://www.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | English is official language, widely spoken; not in EF EPI | [source](https://www.britannica.com/place/Marshall-Islands) — soft/estimate |
 
 ## Country Card
 

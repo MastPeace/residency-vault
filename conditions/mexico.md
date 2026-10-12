@@ -2,6 +2,7 @@
 title: Mexico — Residency & Citizenship Conditions
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, retiree, digital-nomad, passive-income]
 category: popular_ru
@@ -136,6 +137,68 @@ The dominant complaints are consulate-to-consulate variance in financial thresho
 | Freedom House score | 60/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/mexico/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,600 h (Mexico City); 2,800+ h (coastal) | [Current Results](https://www.currentresults.com/Weather/Mexico/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~16 °C (Mexico City, high plateau); 24–27 °C (coastal) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/mexico/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 53/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 1 957 194 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=MX) — hard/official |
+| Geography & size | Population density | 67 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=MX) — hard/official |
+| Geography & size | Urban population | 80% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=MX) — hard/official |
+| Geography & size | Coastline | 9,330 km (2024) | [source](https://en.m.wikipedia.org/wiki/Geography_of_Mexico) — soft/estimate |
+| Geography & size | Highest point | Pico de Orizaba (Citlaltépetl), 5,636 m | [source](https://simple.wikipedia.org/wiki/Pico_de_Orizaba) — soft/estimate |
+| Geography & size | Type | mainland (North America, two coastlines) | [source](https://en.wikipedia.org/wiki/Mexico) — soft/estimate |
+| Geography & size | Time zone | UTC-6 to UTC-8 (CST to PST), Moscow-9 to -11 | [source](https://en.wikipedia.org/wiki/Mexico) — soft/estimate |
+| Climate | Avg precipitation | 758 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=MX) — hard/official |
+| Climate | PM2.5 exposure | 16.6 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=MX) — hard/official |
+| Climate | Climate zone | Varied; Mexico City: Cwb — subtropical highland | [source](https://en.climate-data.org/north-america/mexico/federal-district/mexico-city-1093) — soft/estimate |
+| Climate | Temp winter / summer | Mexico City: Jan 13.4°C avg, Jul 16.4°C avg (2024) | [source](https://en.climate-data.org/north-america/mexico/federal-district/mexico-city-1093) — soft/estimate |
+| Climate | Rainy days | ~130 rainy days/year (Mexico City), annual precip ~1,058 mm | [source](https://en.climate-data.org/north-america/mexico/federal-district/mexico-city-1093) — soft/estimate |
+| Climate | Humidity | ~61% avg annual relative humidity (Mexico City) | [source](https://en.climate-data.org/north-america/mexico/federal-district/mexico-city-1093) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, hurricanes (both coasts), volcanic activity | [source](https://en.wikipedia.org/wiki/Climate_of_Mexico) — soft/estimate |
+| Climate | Air quality | PM2.5 ~20 μg/m³ (2023, Mexico City — moderate) | [source](https://www.iqair.com/mexico) — soft/estimate |
+| Economy | GDP (nominal) | $1.8T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MX) — hard/official |
+| Economy | GDP growth | 0.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=MX) — hard/official |
+| Economy | Inflation (CPI) | 3.8% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=MX) — hard/official |
+| Economy | Unemployment | 2.7% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=MX) — hard/official |
+| Economy | Central govt debt | 50% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=MX) — hard/official |
+| Economy | Gini index | 42.6 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=MX) — hard/official |
+| Economy | Tourism receipts | 3% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=MX) — hard/official |
+| Economy | Remittances | 3.6% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=MX) — hard/official |
+| Economy | Credit rating | S&P: BBB, Moody's: Baa2, Fitch: BBB- (all investment grade, 2024) | [source](https://www.moodys.com/researchandratings/country/mexico/-/04201B) — hard/official |
+| Economy | Currency | MXN (Mexican peso), free floating; ~5% appreciation vs USD 2020–2025 | [source](https://fred.stlouisfed.org/series/CCUSMA02MXA618N) — soft/estimate |
+| Economy | Top industries | Services ~60%, industry ~31%, agriculture ~4% of GDP (2024) | [source](https://en.wikipedia.org/wiki/Economy_of_Mexico) — soft/estimate |
+| Economy | Economic Complexity | ECI rank ~20 (2022, high complexity) | [source](https://atlas.hks.harvard.edu/) — soft/estimate |
+| Technology | Internet users | 83% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=MX) — hard/official |
+| Technology | Fixed broadband subs | 21.7 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=MX) — hard/official |
+| Technology | High-tech exports | 19.3% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=MX) — hard/official |
+| Technology | R&D spend | 0.25% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=MX) — hard/official |
+| Technology | Global Innovation Index | Rank ~56 (GII 2024) | [source](https://www.theglobaleconomy.com/Mexico/GII_Index) — soft/estimate |
+| Technology | E-Government (UN EGDI) | EGDI ~0.78, rank ~61 (2024) | [source](https://publicadministration.un.org/egovkb/Data-Center) — hard/official |
+| Technology | Median broadband speed | Median fixed broadband ~55 Mbps (Ookla 2024) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G available in major cities (2024) | [source](https://platform.tracxn.com/a/d/company/5fd944bb9b29961e4191ce17/mx5g) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses (2024) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Rank ~45 (StartupBlink 2024) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 75.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=MX) — hard/official |
+| Human development & health | Hospital beds | 1.0 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=MX) — hard/official |
+| Human development & health | HDI | 0.781, rank ~77 (2023, high human development) | [source](https://simple.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) — soft/estimate |
+| Safety | Global Peace Index | Rank ~136, score ~2.6 (GPI 2024) | [source](https://www.portugalglobal.pt/media/dzjlpsuk/gpi-2024-web.pdf) — soft/estimate |
+| Safety | US travel advisory | US State Dept Level varies by state (2–4); overall Exercise Increased Caution (2024) | [source](https://travel.state.gov/en/international-travel/travel-advisories/mexico.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax, no federal inheritance tax; capital gains tax 10–35% (2024) | [source](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/04/taxing-wages-2025-country-notes_16d47563/mexico_0596a773/96be8421-en.pdf) — hard/official |
+| Money & tax | CFC rules | Yes — CFC rules apply (2024) | [source](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/04/taxing-wages-2025-country-notes_16d47563/mexico_0596a773/96be8421-en.pdf) — hard/official |
+| Business | Company setup | ~8 days, cost ~$500 (2024) | [source](https://www.lloydsbanktrade.com/en/market-potential/mexico/economy) — soft/estimate |
+| Business | Corporate tax | 30% headline rate (2024) | [source](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/04/taxing-wages-2025-country-notes_16d47563/mexico_0596a773/96be8421-en.pdf) — hard/official |
+| Family & education | Top university | UNAM (Universidad Nacional Autónoma de México), QS rank ~94 (2025) | [source](https://xuanxiao.org/en/universities/universidad-nacional-autonoma-de-mexico) — soft/estimate |
+| Connectivity | Visa-free for Russians | Electronic authorization (SAE) required; not visa-free (2024) | [source](https://embassies.net/mexico-visa-for-russia-citizens) — soft/estimate |
+| For Russian citizens | Sanctions position | Not imposing economic sanctions on Russia; maintains neutral stance | [source](https://www.nbcnews.com/news/latino/mexicos-president-lopez-obrador-declines-impose-economic-sanctions-rus-rcna18143) — soft/estimate |
+| Quality of life | World Happiness rank | Rank ~25 (World Happiness Report 2025) | [source](https://files.worldhappiness.report/WHR25.pdf) — hard/official |
+| Quality of life | Expat friendliness | Rank 2 (InterNations Expat Insider 2024) | [source](https://www.internations.org/expat-insider/2024/best-and-worst-places-for-expats-40450) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 103/116, score 440 — low proficiency; English not widely spoken | [source](https://www.ef.edu/epi/regions/latin-america/mexico/) — soft/estimate |
 
 ## Country Card
 
