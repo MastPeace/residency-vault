@@ -1176,7 +1176,7 @@ NOTICE_EN = ('<aside class="notice" role="note"><b>Overview information only.</b
     'from public sources with the help of automated tools. It is <b>not legal, tax or immigration advice</b> and may be '
     'incomplete or out of date. Rules, thresholds and fees change often and are applied case by case. Always verify with the '
     'official sources cited on the page and consult a licensed professional before you apply or make a decision.</aside>')
-TG_URL = "https://t.me/migrate_easy"
+TG_URL = "https://t.me/residencyradar"
 
 
 class _Notice:

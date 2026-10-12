@@ -19,7 +19,7 @@ Overview-level, source-cited, continuously monitored reference for residency and
 - [x] Custom domain residencyradar.org connected to GitHub Pages (Oct 2026)
 - [ ] Check indexing after 1-2 weeks (`site:residencyradar.org`)
 - [x] SEO pass on country/program pages (data-driven titles/descriptions, JSON-LD, internal links, social card); FAQ markup skipped (Google shows it only for gov/health sites)
-- [ ] Backlinks / distribution: Telegram channel @migrate_easy, relevant communities, Reddit/HN-style launch post, lists of "digital nomad visa" resources
+- [ ] Backlinks / distribution: Telegram channel @residencyradar, relevant communities, Reddit/HN-style launch post, lists of "digital nomad visa" resources
 - [x] Public weekly changes section `/changes/` (one page per week with changes, auto-built from the weekly alert)
 
 - [ ] **Telegram channel content** — dark-brand image cards (`immigration-bot/make_card.py`), queue of country posts, daily draft at 07:00 UTC via cron `channel-daily-post` (approval mode); next series: program types, weekly "Radar" post
@@ -41,6 +41,8 @@ Ordered by speed. Ranges are rough assumptions, not market data.
 2. Paid subscription: weekly changes for chosen countries, early alerts (bot Stars today at 199; test email/Telegram tiers, about $5-15/mo)
 3. Lead generation from the quiz results to vetted professionals
 4. B2B: data feed / API / CSV for lawyers, agencies and relocation companies (needs accuracy commitments, so only after human verification is in place)
+
+- **Open dataset (parked idea)** — publish country x program-type matrix + `facts.json` as CSV/JSON on `/data/`, GitHub, Hugging Face/Kaggle for backlinks and AI-citation signals. Audit 2026-10-12: matrix 163x10 complete; numeric fields partial (gv_min 55, remote_tax 106, DN min income 31 of 48 programs; no years-to-citizenship, mixed currencies/periods). Option A: ship as-is with a "numeric fields partial" note; option B: first extract years-to-citizenship and normalise currency. Revisit once Search Console shows indexing/links.
 
 ## Risks to keep in view
 - **Legal:** information only; no individual advice, no promises of outcomes; disclose partnerships; check local rules for lead generation.

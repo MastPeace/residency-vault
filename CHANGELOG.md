@@ -43,6 +43,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Site: 63 countries had an empty Region (registry groups without a display label); they are now folded into display regions (added Asia, Central Africa).
 
 ### Changed
+- Telegram channel link is now https://t.me/residencyradar (was `migrate_easy`): header button, footer icon and JSON-LD `sameAs`.
 - Country table: single-line, smaller column headers with the `*` attached to the title; tag `#passport` shortened to `#pass`.
 - Branding: site header now shows the Residency Radar logo (round, light and dark variants that follow the theme) and the name "ResidencyRadar"; new favicon set (SVG, PNG 16/32/48, ICO, Apple touch icon) built from `assets/`; the header carries the subtitle "powered by Residency Vault" (hidden on narrow screens) and the footer repeats it. Repository name and site URL are unchanged.
 - Country table: header stays visible while scrolling; column titles shortened (Citizen yrs, Visa-free, Cost idx, Invest min, Nomad visa, Tax %, Trust); filter bar no longer sticky.
