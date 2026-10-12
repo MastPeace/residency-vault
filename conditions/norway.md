@@ -2,6 +2,7 @@
 title: Norway — Norway
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, clear_pathway]
 category: clear_pathway
@@ -137,6 +138,68 @@ Norway applies EU-aligned sanctions via EEA membership. The land border with Rus
 | Freedom House score | 100/100 (Free) | ^[https://freedomhouse.org/country/norway/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~1,630 (Oslo) | ^[https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php] hard/official |
 | Average annual temperature | ~6°C (Oslo) | ^[https://www.met.no/en] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 624 500 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=NO) — hard/official |
+| Geography & size | Population density | 15 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=NO) — hard/official |
+| Geography & size | Urban population | 84% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=NO) — hard/official |
+| Geography & size | Coastline | 25,148 km (mainland 2,650 km + fjords/islands; total incl. islands ~100,915 km) | [source](https://www.cia.gov/the-world-factbook/countries/norway/) — hard/official |
+| Geography & size | Highest point | Galdhøpiggen, 2,469 m | [source](https://www.cia.gov/the-world-factbook/countries/norway/) — hard/official |
+| Geography & size | Type | mainland (peninsula with extensive coastline and islands) | [source](https://www.cia.gov/the-world-factbook/countries/norway/) — hard/official |
+| Geography & size | Time zone | UTC+1 (CET) / UTC+2 (CEST summer); Moscow is UTC+3, so -2h normally, -1h in summer | [source](https://www.timeanddate.com/time/zone/norway/oslo) — soft/estimate |
+| Climate | Avg precipitation | 1414 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=NO) — hard/official |
+| Climate | PM2.5 exposure | 5.5 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=NO) — hard/official |
+| Climate | Climate zone | Dfb (humid continental) for Oslo; Cfb (oceanic) on west coast | [source](https://en.wikipedia.org/wiki/Oslo) — soft/estimate |
+| Climate | Temp winter / summer | Oslo: Jan avg -2.3°C, Jul avg 17.6°C (1991–2020) | [source](https://en.wikipedia.org/wiki/Oslo) — soft/estimate |
+| Climate | Rainy days | ~178 days with precipitation ≥0.1mm (Oslo, annual avg) | [source](https://en.wikipedia.org/wiki/Oslo) — soft/estimate |
+| Climate | Humidity | ~73% avg annual relative humidity (Oslo) | [source](https://en.wikipedia.org/wiki/Oslo) — soft/estimate |
+| Climate | Natural hazards | Rockslides, avalanches; Beerenberg volcano (Jan Mayen Island) | [source](https://www.cia.gov/the-world-factbook/countries/norway/) — hard/official |
+| Climate | Air quality | Annual mean PM2.5: 7.0 µg/m³ (2023 IQAir, meets WHO guideline) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $530.8B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NO) — hard/official |
+| Economy | GDP growth | 1.1% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=NO) — hard/official |
+| Economy | Inflation (CPI) | 3.0% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=NO) — hard/official |
+| Economy | Unemployment | 4.6% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=NO) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 26.5 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=NO) — hard/official |
+| Economy | Tourism receipts | 2% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=NO) — hard/official |
+| Economy | Remittances | 0.2% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=NO) — hard/official |
+| Economy | Credit rating | Fitch AAA (Jun 2025); S&P AAA; Moody's Aaa | [source](https://www.fitchratings.com/entity/norway-80442203) — hard/official |
+| Economy | Currency | NOK (Norwegian krone), free-floating; ~5y vs USD: approx -20% (2021–2026) | [source](https://www.norges-bank.no/en/topics/Statistics/) — soft/estimate |
+| Economy | Top industries | Oil & gas, shipping/maritime, seafood/aquaculture | [source](https://www.cia.gov/the-world-factbook/countries/norway/) — hard/official |
+| Economy | Economic Complexity | ECI rank: ~33rd (2022, OEC) | [source](https://oec.world/en/profile/country/nor) — soft/estimate |
+| Technology | Internet users | 99% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=NO) — hard/official |
+| Technology | Fixed broadband subs | 45.2 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=NO) — hard/official |
+| Technology | High-tech exports | 25.4% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=NO) — hard/official |
+| Technology | R&D spend | 1.85% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=NO) — hard/official |
+| Technology | Global Innovation Index | 19th out of 133 (GII 2024) | [source](https://www.wipo.int/gii-ranking/en/norway) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.9053, rank 16th (2024 UN E-Government Survey) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/116-Norway) — hard/official |
+| Technology | Median broadband speed | Median fixed broadband: ~182 Mbps (Ookla, mid-2025) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G widely available; all major cities covered by 2024 | [source](https://www.nkom.no) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses; PayPal and Apple Pay available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank: 24th (2024) | [source](https://www.startupblink.com/startup-ecosystem/norway) — soft/estimate |
+| Human development & health | Life expectancy | 83.2 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=NO) — hard/official |
+| Human development & health | Hospital beds | 3.3 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=NO) — hard/official |
+| Human development & health | HDI | HDI 0.970, rank 2nd (tied with Switzerland, 2023–24 HDR) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | Rank 32, score 1.644 (GPI 2025) | [source](https://www.economicsandpeace.org/wp-content/uploads/2025/06/GPI-2025-web.pdf) — soft/estimate |
+| Safety | US travel advisory | Level 1: Exercise Normal Precautions (US State Dept) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/norway-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | Net wealth tax: 1.0% (>NOK 1.76M); no inheritance tax since 2014; capital gains: 22% (general rate, PIT shield for shares) | [source](https://taxsummaries.pwc.com/norway) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply (Norwegian-controlled foreign companies in low-tax jurisdictions) | [source](https://taxsummaries.pwc.com/norway) — soft/estimate |
+| Business | Company setup | ~4 days, ~NOK 5,570 registration (Brønnøysund) | [source](https://www.brreg.no/en/) — soft/estimate |
+| Business | Corporate tax | 22% CIT (25% for financial sector); petroleum tax 78% | [source](https://taxsummaries.pwc.com/norway/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | University of Oslo, QS rank 131st (2027); NTNU rank ~264th | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2027) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa required for Russian citizens (Schengen rules; Norway tightened restrictions 2022) | [source](https://www.udi.no/en/want-to-apply/visit-and-holiday/) — soft/estimate |
+| For Russian citizens | Sanctions position | Full sanctions on Russia aligned with EU; all EU sanction packages incorporated into Norwegian law | [source](https://www.regjeringen.no/en/topics/foreign-affairs/restrictive-measures/id2994208/) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 7th (World Happiness Report 2024) | [source](https://worldhappiness.report/) — hard/official |
+| Quality of life | Expat friendliness | Rank 40th (InterNations Expat Insider 2024) | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank: 2nd; very high English proficiency (score 610); English widely spoken | [source](https://www.ef.com/epi/) — soft/estimate |
 
 ## Country Card
 

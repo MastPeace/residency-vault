@@ -2,6 +2,7 @@
 title: Panama — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, digital-nomad, investor, friendly-nations, qualified-investor, tax]
 category: strong_passport
@@ -180,6 +181,68 @@ Panama is one of the world's largest vessel registries (Panama Ship Registry). Y
 | Freedom House score | 83/100 (Free) | [Freedom House](https://freedomhouse.org/country/panama/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,400 h (Panama City) | [Current Results](https://www.currentresults.com/Weather/Panama/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~27 °C (Panama City); tropical — hot and humid year-round; cooler in highlands (Boquete) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/panama/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 75 320 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=PA) — hard/official |
+| Geography & size | Population density | 61 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=PA) — hard/official |
+| Geography & size | Urban population | 66% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=PA) — hard/official |
+| Geography & size | Coastline | 2,490 km | [source](https://www.cia.gov/the-world-factbook/countries/panama/) — hard/official |
+| Geography & size | Highest point | Volcán Barú, 3,475 m | [source](https://www.cia.gov/the-world-factbook/countries/panama/) — hard/official |
+| Geography & size | Type | mainland (isthmus, connecting North and South America) | [source](https://www.cia.gov/the-world-factbook/countries/panama/) — hard/official |
+| Geography & size | Time zone | UTC-5 (EST, no DST); Moscow is UTC+3, so -8h | [source](https://www.timeanddate.com/time/zone/panama/panama) — soft/estimate |
+| Climate | Avg precipitation | 2928 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=PA) — hard/official |
+| Climate | PM2.5 exposure | 15.1 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=PA) — hard/official |
+| Climate | Climate zone | Am (tropical monsoon climate) | [source](https://en.wikipedia.org/wiki/Panama_City) — soft/estimate |
+| Climate | Temp winter / summer | Panama City: Jan avg 26.8°C, Jul avg 27.6°C (1991–2020); little seasonal variation | [source](https://en.wikipedia.org/wiki/Panama_City) — soft/estimate |
+| Climate | Rainy days | ~180 rainy days/year (Panama City) | [source](https://en.wikipedia.org/wiki/Panama_City) — soft/estimate |
+| Climate | Humidity | ~80% avg annual relative humidity (Panama City) | [source](https://en.wikipedia.org/wiki/Panama_City) — soft/estimate |
+| Climate | Natural hazards | Tropical storms, flooding, earthquakes; occasional volcanic activity | [source](https://www.cia.gov/the-world-factbook/countries/panama/) — hard/official |
+| Climate | Air quality | Annual mean PM2.5: 11.8 µg/m³ (2023 IQAir) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $90.5B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PA) — hard/official |
+| Economy | GDP growth | 4.4% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=PA) — hard/official |
+| Economy | Inflation (CPI) | -0.2% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=PA) — hard/official |
+| Economy | Unemployment | 8.4% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=PA) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 49.7 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=PA) — hard/official |
+| Economy | Tourism receipts | 9% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=PA) — hard/official |
+| Economy | Remittances | 0.7% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=PA) — hard/official |
+| Economy | Credit rating | Fitch BB+ stable (Dec 2025); S&P BBB-; Moody's Baa2 | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-panama-at-bb-outlook-stable-10-12-202) — hard/official |
+| Economy | Currency | PAB (balboa) at par with USD; fully dollarized economy; USD legal tender; stable | [source](https://www.cia.gov/the-world-factbook/countries/panama/) — hard/official |
+| Economy | Top industries | Banking/financial services, logistics/Panama Canal, tourism/Colon Free Zone | [source](https://www.cia.gov/the-world-factbook/countries/panama/) — hard/official |
+| Economy | Economic Complexity | ECI rank: ~78th (2022, OEC) | [source](https://oec.world/en/profile/country/pan) — soft/estimate |
+| Technology | Internet users | 73% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=PA) — hard/official |
+| Technology | Fixed broadband subs | 18.1 per 100 people (2023) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=PA) — hard/official |
+| Technology | High-tech exports | 1.8% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=PA) — hard/official |
+| Technology | R&D spend | 0.20% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=PA) — hard/official |
+| Technology | Global Innovation Index | 81st out of 133 (GII 2024) | [source](https://www.wipo.int/gii-ranking/en/panama) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.7100, rank 76th (2024 UN E-Government Survey) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/118-Panama) — hard/official |
+| Technology | Median broadband speed | Median fixed broadband: ~120 Mbps (Ookla, mid-2025) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G launched 2023; limited coverage in Panama City | [source](https://www.asep.gob.pa) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses (via Stripe Atlas/invite); PayPal available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank: 58th (2024) | [source](https://www.startupblink.com/startup-ecosystem/panama) — soft/estimate |
+| Human development & health | Life expectancy | 79.8 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=PA) — hard/official |
+| Human development & health | Hospital beds | 1.9 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=PA) — hard/official |
+| Human development & health | HDI | HDI 0.820, rank 57th (2023–24 HDR) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | Rank 81, score 1.976 (GPI 2024) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (US State Dept) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/panama-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance/estate tax; capital gains: 10% on sale of real estate and securities | [source](https://taxsummaries.pwc.com/panama) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (territorial tax system; only Panama-source income taxed) | [source](https://taxsummaries.pwc.com/panama) — soft/estimate |
+| Business | Company setup | ~5 days, cost ~USD 500 (Panama Emprende online system) | [source](https://www.doingbusiness.org/en/data/exploreeconomies/panama) — soft/estimate |
+| Business | Corporate tax | 25% CIT (territorial; only Panama-source income taxed) | [source](https://taxsummaries.pwc.com/panama/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Universidad de Panamá; QS rank ~1001–1200 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens (up to 90 days); per official immigration policy 2025 | [source](https://www.embassyinformation.com/panama-visa-for-russian-passport-holders/) — soft/estimate |
+| For Russian citizens | Sanctions position | Neutral; not aligned with Western sanctions; maintains diplomatic and economic relations with Russia | [source](https://www.cia.gov/the-world-factbook/countries/panama/) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 39th (World Happiness Report 2024) | [source](https://worldhappiness.report/) — hard/official |
+| Quality of life | Expat friendliness | Rank 3rd (InterNations Expat Insider 2024) | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank: ~50th; low-moderate English proficiency; Spanish is primary language | [source](https://www.ef.com/epi/) — soft/estimate |
 
 ## Country Card
 

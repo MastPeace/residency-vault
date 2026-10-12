@@ -2,6 +2,7 @@
 title: Paraguay — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, investor, mercosur]
 category: strong_passport
@@ -169,6 +170,68 @@ Paraguay is landlocked but is a major flag state for commercial river vessels (P
 | Freedom House score | 63/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/paraguay/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,700 h (Asunción) | [Current Results](https://www.currentresults.com/Weather/Paraguay/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~23 °C (Asunción); subtropical — hot summers, mild winters | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/paraguay/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 406 752 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=PY) — hard/official |
+| Geography & size | Population density | 17 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=PY) — hard/official |
+| Geography & size | Urban population | 70% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=PY) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://www.cia.gov/the-world-factbook/countries/paraguay/) — hard/official |
+| Geography & size | Highest point | Cerro Peró (Cerro Tres Kandú), 842 m | [source](https://en.wikipedia.org/wiki/Geography_of_Paraguay) — soft/estimate |
+| Geography & size | Type | landlocked | [source](https://www.cia.gov/the-world-factbook/countries/paraguay/) — hard/official |
+| Geography & size | Time zone | UTC-4 (PYT standard) / UTC-3 (PYST summer); Moscow is UTC+3, so -7h normally, -6h in summer | [source](https://www.timeanddate.com/worldclock/paraguay) — soft/estimate |
+| Climate | Avg precipitation | 1130 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=PY) — hard/official |
+| Climate | PM2.5 exposure | 15.3 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=PY) — hard/official |
+| Climate | Climate zone | Cfa (humid subtropical) for Asunción; Aw (tropical savanna) in Chaco | [source](https://en.wikipedia.org/wiki/Asunci%C3%B3n) — soft/estimate |
+| Climate | Temp winter / summer | Asunción: Jan avg 28°C, Jul avg 17°C (1991–2020) | [source](https://en.wikipedia.org/wiki/Asunci%C3%B3n) — soft/estimate |
+| Climate | Rainy days | ~80 rainy days/year (Asunción, ≥0.1mm) | [source](https://en.wikipedia.org/wiki/Asunci%C3%B3n) — soft/estimate |
+| Climate | Humidity | ~73% avg annual relative humidity (Asunción) | [source](https://en.wikipedia.org/wiki/Asunci%C3%B3n) — soft/estimate |
+| Climate | Natural hazards | Flooding (Paraguay River), droughts; INFORM Risk rank: ~90th (2024) | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | Annual mean PM2.5: 12.3 µg/m³ (2023 IQAir) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $49.3B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PY) — hard/official |
+| Economy | GDP growth | 6.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=PY) — hard/official |
+| Economy | Inflation (CPI) | 4.0% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=PY) — hard/official |
+| Economy | Unemployment | 4.8% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=PY) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 44.2 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=PY) — hard/official |
+| Economy | Tourism receipts | 1% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=PY) — hard/official |
+| Economy | Remittances | 3.1% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=PY) — hard/official |
+| Economy | Credit rating | Fitch BB+ positive (Oct 2025); S&P BB; Moody's Ba1 | [source](https://www.fitchratings.com/research/sovereigns/fitch-revises-paraguay-outlook-to-positive-affirms-at-bb-06-10-2025) — hard/official |
+| Economy | Currency | PYG (guaraní), floating; ~5y vs USD: approx -18% (2021–2026) | [source](https://www.bcp.gov.py/) — hard/official |
+| Economy | Top industries | Agriculture (soy, beef), hydroelectric energy, manufacturing (maquila) | [source](https://www.cia.gov/the-world-factbook/countries/paraguay/) — hard/official |
+| Economy | Economic Complexity | ECI rank: ~92nd (2022, OEC) | [source](https://oec.world/en/profile/country/pry) — soft/estimate |
+| Technology | Internet users | 82% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=PY) — hard/official |
+| Technology | Fixed broadband subs | 12.9 per 100 people (2023) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=PY) — hard/official |
+| Technology | High-tech exports | 10.5% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=PY) — hard/official |
+| Technology | R&D spend | 0.14% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=PY) — hard/official |
+| Technology | Global Innovation Index | 89th out of 133 (GII 2024) | [source](https://www.wipo.int/gii-ranking/en/paraguay) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.6500, rank 95th (2024 UN E-Government Survey) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/121-Paraguay) — hard/official |
+| Technology | Median broadband speed | Median fixed broadband: ~45 Mbps (Ookla, mid-2025) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G launched 2023; limited coverage in Asunción and major cities | [source](https://www.conatel.gov.py) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses; PayPal available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank: 91st (2024) | [source](https://www.startupblink.com/startup-ecosystem/paraguay) — soft/estimate |
+| Human development & health | Life expectancy | 74.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=PY) — hard/official |
+| Human development & health | Hospital beds | 1.0 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=PY) — hard/official |
+| Human development & health | HDI | HDI 0.731, rank 103rd (2023–24 HDR) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | Rank 64, score 1.882 (GPI 2024) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 1: Exercise Normal Precautions (US State Dept) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/paraguay-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance/estate tax (abolished); capital gains: 10% IRE on corporate gains; individuals: 8-10% | [source](https://taxsummaries.pwc.com/paraguay) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (territorial tax system; only Paraguay-source income taxed) | [source](https://taxsummaries.pwc.com/paraguay) — soft/estimate |
+| Business | Company setup | ~35 days, cost ~PYG 2 million (SUACE one-stop system) | [source](https://www.doingbusiness.org/en/data/exploreeconomies/paraguay) — soft/estimate |
+| Business | Corporate tax | 10% CIT (IRE; IRE Simple for medium companies; RESIMPLE for small) | [source](https://taxsummaries.pwc.com/paraguay/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Universidad Nacional de Asunción; not in QS top 1500 | [source](https://www.topuniversities.com/world-university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens (up to 90 days); per MFA reciprocity agreement | [source](https://www.mre.gov.py) — hard/official |
+| For Russian citizens | Sanctions position | Neutral; not aligned with Western sanctions; maintains diplomatic and economic relations with Russia | [source](https://www.mre.gov.py) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 75th (World Happiness Report 2024) | [source](https://worldhappiness.report/) — hard/official |
+| Quality of life | Expat friendliness | Rank 8th (InterNations Expat Insider 2024) | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank: ~47th; low English proficiency; Spanish and Guaraní are primary languages | [source](https://www.ef.com/epi/) — soft/estimate |
 
 ## Country Card
 

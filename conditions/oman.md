@@ -2,6 +2,7 @@
 title: Oman — Sultanate of Oman
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, tax, popular_ru]
 category: multi
@@ -138,6 +139,68 @@ Oman is quiet, safe, and culturally more relaxed than Saudi Arabia. The 2026 res
 | Freedom House score | 24/100 — Not Free (2025) | ^[https://freedomhouse.org/country/oman/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~3,960 | ^[https://weatherspark.com/countries/OM] hard/official |
 | Average annual temperature | ~28°C (Muscat coastal) | ^[https://weatherspark.com/countries/OM] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 309 500 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=OM) — hard/official |
+| Geography & size | Population density | 17 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=OM) — hard/official |
+| Geography & size | Urban population | 79% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=OM) — hard/official |
+| Geography & size | Coastline | 3,165 km | [source](https://en.wikipedia.org/wiki/Geography_of_Oman) — soft/estimate |
+| Geography & size | Highest point | Jebel Shams, 3,008 m | [source](https://en.wikipedia.org/wiki/Geography_of_Oman) — soft/estimate |
+| Geography & size | Type | mainland (peninsula) | [source](https://www.cia.gov/the-world-factbook/countries/oman/) — hard/official |
+| Geography & size | Time zone | UTC+4 (GST, no DST); Moscow is UTC+3, so +1h | [source](https://www.timeanddate.com/worldclock/oman) — soft/estimate |
+| Climate | Avg precipitation | 125 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=OM) — hard/official |
+| Climate | PM2.5 exposure | 46.9 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=OM) — hard/official |
+| Climate | Climate zone | BWh (hot desert climate) | [source](https://en.wikipedia.org/wiki/Climate_of_Muscat) — soft/estimate |
+| Climate | Temp winter / summer | Muscat: Jan avg 21.3°C, Jul avg 34.3°C (1961–1990) | [source](https://en.wikipedia.org/wiki/Climate_of_Muscat) — soft/estimate |
+| Climate | Rainy days | ~22 rainy days/year (Muscat, ≥0.1mm) | [source](https://en.wikipedia.org/wiki/Climate_of_Muscat) — soft/estimate |
+| Climate | Humidity | 58% avg annual relative humidity (Muscat, 1961–1990) | [source](https://en.wikipedia.org/wiki/Climate_of_Muscat) — soft/estimate |
+| Climate | Natural hazards | Tropical cyclones, sandstorms, flash floods; INFORM Risk rank: ~72nd (2024) | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | Annual mean PM2.5: 34.1 µg/m³ (2023 IQAir) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $109.6B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=OM) — hard/official |
+| Economy | GDP growth | 2.4% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=OM) — hard/official |
+| Economy | Inflation (CPI) | 1.0% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=OM) — hard/official |
+| Economy | Unemployment | 3.3% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=OM) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 2% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=OM) — hard/official |
+| Economy | Remittances | 0.0% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=OM) — hard/official |
+| Economy | Credit rating | Moody's Baa3 stable (Jul 2025); S&P BB+; Fitch BB+ (upgraded to investment grade) | [source](https://ratings.moodys.com/ratings-news/446717) — hard/official |
+| Economy | Currency | OMR (Omani rial), pegged to USD at 1 OMR = 2.6008 USD; stable | [source](https://cbo.gov.om/) — hard/official |
+| Economy | Top industries | Oil & gas, tourism, logistics/ports | [source](https://www.cia.gov/the-world-factbook/countries/oman/) — hard/official |
+| Economy | Economic Complexity | ECI rank: ~64th (2022, OEC) | [source](https://oec.world/en/profile/country/omn) — soft/estimate |
+| Technology | Internet users | 95% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=OM) — hard/official |
+| Technology | Fixed broadband subs | 11.1 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=OM) — hard/official |
+| Technology | High-tech exports | 5.0% of manufactured exports (2023) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=OM) — hard/official |
+| Technology | R&D spend | 0.39% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=OM) — hard/official |
+| Technology | Global Innovation Index | 69th out of 133 (GII 2024) | [source](https://www.wipo.int/gii-ranking/en/oman) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.7500, rank 50th (2024 UN E-Government Survey) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/117-Oman) — hard/official |
+| Technology | Median broadband speed | Median fixed broadband: ~85 Mbps (Ookla, mid-2025) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G launched 2020; good coverage in Muscat and major cities | [source](https://www.tra.gov.om) — soft/estimate |
+| Technology | Online payments | Stripe not available; PayPal available for personal use (limited merchant services) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank: 72nd (2024) | [source](https://www.startupblink.com/startup-ecosystem/oman) — soft/estimate |
+| Human development & health | Life expectancy | 80.2 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=OM) — hard/official |
+| Human development & health | Hospital beds | 1.0 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=OM) — hard/official |
+| Human development & health | HDI | HDI 0.819, rank 59th (2023–24 HDR) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | Rank 48, score 1.820 (GPI 2024) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 3: Reconsider Travel (US State Dept, armed conflict & terrorism risk) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/oman-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance/estate tax; no capital gains tax (except on sale of shares in Omani companies at 10% for foreign sellers) | [source](https://taxsummaries.pwc.com/oman) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules per PwC (2026); Pillar Two under consideration | [source](https://taxsummaries.pwc.com/oman) — soft/estimate |
+| Business | Company setup | ~4 days, registration cost ~OMR 250 (Ministry of Commerce) | [source](https://www.doingbusiness.org/en/data/exploreeconomies/oman) — soft/estimate |
+| Business | Corporate tax | 15% CIT (3% for qualifying SMEs); petroleum companies 55% | [source](https://taxsummaries.pwc.com/oman/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Sultan Qaboos University; QS rank ~362nd (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | E-visa or visa on arrival for Russian citizens (30 days); per ROP eVisa system 2025 | [source](https://evisa.rop.gov.om/) — hard/official |
+| For Russian citizens | Sanctions position | Neutral; maintains diplomatic and economic relations with Russia; not aligned with Western sanctions | [source](https://www.fm.gov.om/en/32215) — hard/official |
+| Quality of life | World Happiness rank | Rank 33rd (World Happiness Report 2024) | [source](https://worldhappiness.report/) — hard/official |
+| Quality of life | Expat friendliness | Rank 11th (InterNations Expat Insider 2024) | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank: ~80th; low English proficiency; Arabic is primary language | [source](https://www.ef.com/epi/) — soft/estimate |
 
 ## Country Card
 

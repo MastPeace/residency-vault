@@ -2,6 +2,7 @@
 title: Papua New Guinea — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, employment, clear_pathway]
@@ -105,6 +106,68 @@ Very low expat-investor volume. Practical reports emphasise high thresholds (K2M
 | Freedom House score | 61/100 Partly Free (2025) | [Freedom House](https://freedomhouse.org/country/papua-new-guinea/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | No reliable data | confidence low |
 | Average annual temperature | ~27 °C (Port Moresby, tropical) | confidence low |
+
+## Extended Snapshot
+
+_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 462 840 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=PG) — hard/official |
+| Geography & size | Population density | 23 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=PG) — hard/official |
+| Geography & size | Urban population | 16% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=PG) — hard/official |
+| Geography & size | Coastline | 5,152 km | [source](https://www.cia.gov/the-world-factbook/countries/papua-new-guinea/) — hard/official |
+| Geography & size | Highest point | Mount Wilhelm, 4,509 m | [source](https://en.wikipedia.org/wiki/Geography_of_Papua_New_Guinea) — soft/estimate |
+| Geography & size | Type | archipelago (island nation, shares island of New Guinea with Indonesia) | [source](https://www.cia.gov/the-world-factbook/countries/papua-new-guinea/) — hard/official |
+| Geography & size | Time zone | UTC+10 (PGT, no DST); some islands UTC+11; Moscow is UTC+3, so +7h to +8h | [source](https://www.timeanddate.com/worldclock/papua-new-guinea) — soft/estimate |
+| Climate | Avg precipitation | 3142 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=PG) — hard/official |
+| Climate | PM2.5 exposure | 14.1 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=PG) — hard/official |
+| Climate | Climate zone | Aw (tropical savanna) for Port Moresby; Af (tropical rainforest) in highlands | [source](https://en.wikipedia.org/wiki/Geography_of_Papua_New_Guinea) — soft/estimate |
+| Climate | Temp winter / summer | Port Moresby: Jan avg 27.4°C, Jul avg 25.7°C; minimal seasonal variation | [source](https://en.wikipedia.org/wiki/Geography_of_Papua_New_Guinea) — soft/estimate |
+| Climate | Rainy days | 114 rainy days/year (Port Moresby, ≥0.1mm) | [source](https://en.wikipedia.org/wiki/Geography_of_Papua_New_Guinea) — soft/estimate |
+| Climate | Humidity | 78% avg annual relative humidity (Port Moresby) | [source](https://en.wikipedia.org/wiki/Geography_of_Papua_New_Guinea) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, tsunamis, volcanic activity, cyclones, landslides; INFORM Risk rank: ~45th (2024, high risk) | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | Annual mean PM2.5: 8.9 µg/m³ (2023 IQAir, limited data) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $32.5B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PG) — hard/official |
+| Economy | GDP growth | 5.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=PG) — hard/official |
+| Economy | Inflation (CPI) | 4.4% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=PG) — hard/official |
+| Economy | Unemployment | 2.6% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=PG) — hard/official |
+| Economy | Central govt debt | 52% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=PG) — hard/official |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 0% of exports (2018) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=PG) — hard/official |
+| Economy | Remittances | 0.0% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=PG) — hard/official |
+| Economy | Credit rating | S&P B- stable; Moody's B2; not rated by Fitch (2024) | [source](https://www.worldgovernmentbonds.com/credit-rating/papua-new-guinea/) — soft/estimate |
+| Economy | Currency | PGK (kina), managed float; ~5y vs USD: approx -15% (2021–2026) | [source](https://www.bankpng.gov.pg/) — hard/official |
+| Economy | Top industries | Mining/oil & gas (LNG, gold, copper), agriculture (palm oil, coffee), forestry | [source](https://www.cia.gov/the-world-factbook/countries/papua-new-guinea/) — hard/official |
+| Economy | Economic Complexity | ECI rank: ~126th (2022, OEC) | [source](https://oec.world/en/profile/country/png) — soft/estimate |
+| Technology | Internet users | 19% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=PG) — hard/official |
+| Technology | Fixed broadband subs | 0.2 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=PG) — hard/official |
+| Technology | High-tech exports | 10.2% of manufactured exports (2023) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=PG) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | Not ranked in GII 2024 (outside top 133) | [source](https://www.wipo.int/gii-ranking/en/) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.4500, rank 150th (2024 UN E-Government Survey) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/120-Papua-New-Guinea) — hard/official |
+| Technology | Median broadband speed | Median fixed broadband: ~25 Mbps (Ookla, mid-2025) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G not yet commercially available (2025); limited 4G coverage | [source](https://www.nicta.gov.pg) — soft/estimate |
+| Technology | Online payments | Stripe not available; limited PayPal availability | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank: 117th (2024) | [source](https://www.startupblink.com/startup-ecosystem/papua-new-guinea) — soft/estimate |
+| Human development & health | Life expectancy | 66.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=PG) — hard/official |
+| Human development & health | Hospital beds | 0.6 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=PG) — hard/official |
+| Human development & health | HDI | HDI 0.568, rank 154th (2023–24 HDR) | [source](https://www.undp.org/papua-new-guinea/news/rich-countries-attain-record-human-development-while-half-poorest-have-gone-b) — hard/official |
+| Safety | Global Peace Index | Rank 84, score 2.002 (GPI 2024) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 3: Reconsider Travel (US State Dept) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/papua-new-guinea-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | On FATF grey list (increased monitoring) (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance/estate tax; capital gains: taxed as ordinary income at corporate/individual rates | [source](https://taxsummaries.pwc.com/papua-new-guinea) — soft/estimate |
+| Money & tax | CFC rules | No specific CFC rules; worldwide taxation for residents but limited enforcement capacity | [source](https://taxsummaries.pwc.com/papua-new-guinea) — soft/estimate |
+| Business | Company setup | ~35 days, cost ~PGK 3,000 (Investment Promotion Authority) | [source](https://www.doingbusiness.org/en/data/exploreeconomies/papua-new-guinea) — soft/estimate |
+| Business | Corporate tax | 30% CIT (35% for banks; 40.5% effective with dividend WHT) | [source](https://taxsummaries.pwc.com/papua-new-guinea/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | University of Papua New Guinea; not in QS top 1500 | [source](https://www.topuniversities.com/world-university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa required for Russian citizens; e-visa available for tourism (30 days) | [source](https://ica.gov.pg/) — hard/official |
+| For Russian citizens | Sanctions position | Neutral; no sanctions against Russia; maintains diplomatic relations | [source](https://www.dfat.gov.au/geo/papua-new-guinea/) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 87th (World Happiness Report 2024) | [source](https://worldhappiness.report/) — hard/official |
+| Quality of life | Expat friendliness | Not in InterNations Expat Insider top rankings | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank: ~100th; very low English proficiency despite English being an official language; Tok Pisin widely used | [source](https://www.ef.com/epi/) — soft/estimate |
 
 ## Country Card
 
