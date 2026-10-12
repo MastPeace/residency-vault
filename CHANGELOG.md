@@ -6,7 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Added
+- Site: separate `countries.html`, `programs.html` and `glossary.html` pages (glossary is edited in `glossary.md`); the home page is now a landing page with the latest monitoring changes.
+
 ### Changed
+- Site: country table drops the country-code and "Checked" columns; Passport, To citizenship, Fit and Confidence headers carry a `*` link to the glossary, with a footnote under the table.
 - Site: top nav keeps only in-site links (Countries, Programs); Telegram is a highlighted 'News channel' button next to search; GitHub and Telegram are icon links in the footer.
 - Site: country header fact `1-bed rent` relabelled `1-bed rent / month` (the underlying field was already monthly).
 - Site: link to the Telegram channel (https://t.me/migrate_easy) in the top nav and the footer.

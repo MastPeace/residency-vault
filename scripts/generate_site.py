@@ -944,6 +944,15 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .foot { border-top: 1px solid var(--line); padding: 24px 0 48px; font-size: 13px; color: var(--muted); }
 .foot .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
 .foot a { color: var(--muted); }
+.tnote { margin: 14px 0 0; font-size: 13px; color: var(--muted); }
+.ctable th a.gl { color: var(--accent); text-decoration: none; font-weight: 700; margin-left: 2px; }
+.cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; margin: 8px 0 36px; }
+.cards .card { display: flex; flex-direction: column; gap: 6px; padding: 18px 20px; border: 1px solid var(--line-strong); border-radius: 10px;
+  background: var(--surface); text-decoration: none; color: var(--ink); }
+.cards .card:hover { border-color: var(--accent); }
+.cards .card b { font: 600 20px/1.2 var(--serif); }
+.cards .card span { color: var(--ink-2); font-size: 14px; }
+@media (max-width: 760px) { .cards { grid-template-columns: 1fr; } }
 .tg-btn { display: inline-flex; align-items: center; gap: 7px; height: 36px; padding: 0 13px; border-radius: 6px; background: var(--accent);
   color: var(--accent-ink); font: 600 13px var(--sans); text-decoration: none; white-space: nowrap; }
 .tg-btn:hover { filter: brightness(1.1); text-decoration: none; }
@@ -1231,7 +1240,7 @@ def shell(title, body, base, extra_js="", desc=""):
 <body data-base="{base}">
 <header class="topbar"><div class="wrap">
   <a class="brand" href="{base}index.html">Residency<span>Vault</span></a>
-  <nav class="topnav"><a href="{base}index.html#countries">Countries</a><a href="{base}index.html#programs">Programs</a></nav>
+  <nav class="topnav"><a href="{base}countries.html">Countries</a><a href="{base}programs.html">Programs</a><a href="{base}glossary.html">Glossary</a></nav>
   <span class="spacer"></span>
   <button class="search-btn" id="search-btn" type="button"><span>Search countries and programs</span><kbd>/</kbd></button>
   <a class="tg-btn" href="{TG_URL}" rel="noopener" title="News channel on Telegram"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M21.9 4.3 18.6 19.6c-.2 1-.9 1.3-1.7.8l-4.7-3.5-2.3 2.2c-.3.3-.5.5-1 .5l.3-4.8 8.7-7.9c.4-.3-.1-.5-.6-.2L6.5 13.4l-4.6-1.4c-1-.3-1-1 .2-1.5L20 3.5c.8-.3 1.6.2 1.9.8z"/></svg><span>News channel</span></a>
@@ -1334,8 +1343,8 @@ def render_page(page, region_meta, region_labels):
     chips = "".join(f'<span class="chip">{CAT_LABELS[c]}</span>' for c in cats)
 
     crumbs = '<a href="../index.html">Home</a><span class="sep">/</span>'
-    crumbs += (f'<a href="../index.html#countries">Countries</a>' if is_entity
-               else '<a href="../index.html#programs">Programs</a>')
+    crumbs += (f'<a href="../countries.html">Countries</a>' if is_entity
+               else '<a href="../programs.html">Programs</a>')
     crumbs += f'<span class="sep">/</span><span>{html.escape(name)}</span>'
 
     head = f"""<div class="crumbs">{crumbs}</div>
@@ -1369,21 +1378,26 @@ def render_index(region_meta, region_labels, concept_pages):
             f'data-years="{yrs if yrs is not None else ""}" data-passport="{pp if pp else ""}" '
             f'data-confn="{ {"low":1,"medium":2,"high":3}.get(conf,"") }" data-date="{html.escape(upd)}">'
             f'<td class="name"><a href="conditions/{p["slug"]}.html">{html.escape(name)}</a></td>'
-            f'<td class="cc">{html.escape(p.get("country_code") or "")}</td>'
             f'<td class="region col-region">{html.escape(region_labels.get(reg, ""))}</td>'
             f'<td class="fit col-fit">{fit}</td>'
             f'<td class="num">{ylabel if ylabel else "<span class=none>—</span>"}</td>'
             f'<td class="num col-passport">{pp if pp else "<span class=none>—</span>"}</td>'
-            f'<td class="col-conf">{conf_html(conf)}</td>'
-            f'<td class="date col-date">{html.escape(upd)}</td></tr>')
+            f'<td class="col-conf">{conf_html(conf)}</td></tr>')
 
-    def th(label, key, typ="text", cls=""):
-        return f'<th data-sort="{key}" data-type="{typ}" class="{cls}"><button type="button">{label}</button></th>'
+    def th(label, key, typ="text", cls="", note=""):
+        star = f'<a class="gl" href="glossary.html#{note}" title="What is this?">*</a>' if note else ""
+        return f'<th data-sort="{key}" data-type="{typ}" class="{cls}"><button type="button">{label}</button>{star}</th>'
 
     used_regions = [r for r in region_labels if any(m["region"] == r for m in region_meta.values())]
     region_opts = "".join(f'<option value="{r}">{region_labels[r]}</option>' for r in used_regions)
     used_cats = [c for c in CAT_LABELS if any(c in cats_of(p, region_meta) for p in countries)]
     chip_btns = "".join(f'<button class="fchip" type="button" data-cat="{c}" aria-pressed="false">{CAT_LABELS[c]}</button>' for c in used_cats)
+
+    header_row = (th("Country", "name") + th("Region", "region", cls="col-region")
+                  + '<th class="col-fit">Fit<a class="gl" href="glossary.html#fit-tags" title="What is this?">*</a></th>'
+                  + th("To citizenship", "years", "num", "num", note="country-list-columns")
+                  + th("Passport", "passport", "num", "num col-passport", note="country-list-columns")
+                  + th("Confidence", "confn", "num", "col-conf", note="confidence"))
 
     # Latest monitoring: pages that carry a monitored date + real recent-changes text
     latest = []
@@ -1413,27 +1427,54 @@ def render_index(region_meta, region_labels, concept_pages):
         progs.append(f'<li><a href="concepts/{slug}.html">{html.escape(t)}</a><p>{html.escape(summary)}</p></li>')
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    body = f"""<div class="wrap">
-<section class="hero">
-  <div><h1>Residency &amp; citizenship conditions</h1></div>
-  <div><p>Residency and citizenship conditions for {len(countries)} countries: programs, thresholds, tax, years to a passport. Pages are monitored for changes and cite their sources.</p>
-  <div class="stamp">{len(countries)} countries · {len(concept_pages)} program comparisons · built {now}</div></div>
-</section>
-<section id="countries">
-<div class="explore"><div class="explore-row">
+    n_c, n_p = len(countries), len(concept_pages)
+    explore = f"""<div class="explore"><div class="explore-row">
   <input id="f-q" type="search" placeholder="Filter by name or code" aria-label="Filter countries">
   <select id="f-region" aria-label="Region"><option value="">All regions</option>{region_opts}</select>
   <select id="f-conf" aria-label="Confidence"><option value="">Any confidence</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option></select>
   <span class="count" id="f-count"></span></div>
-  <div class="explore-row" style="margin-top:10px">{chip_btns}</div></div>
-<table class="ctable" id="ctable"><thead><tr>
- {th("Country", "name")}{th("Code", "code")}{th("Region", "region", cls="col-region")}<th class="col-fit">Fit</th>
- {th("To citizenship", "years", "num", "num")}{th("Passport", "passport", "num", "num col-passport")}{th("Confidence", "confn", "num", "col-conf")}{th("Checked", "date", cls="col-date")}
+  <div class="explore-row" style="margin-top:10px">{chip_btns}</div></div>"""
+    table = f"""<table class="ctable" id="ctable"><thead><tr>
+{header_row}
 </tr></thead><tbody>{"".join(rows)}</tbody></table>
-</section>
-<section class="progs" id="programs"><h2 class="section-h">Program comparisons</h2><ul>{"".join(progs)}</ul></section>
+<p class="tnote">* Passport = number of visa-free destinations of the passport you would get after naturalisation. Click a * to see what a column means, or open the <a href="glossary.html">glossary</a>.</p>"""
+    countries_body = f"""<div class="wrap">
+<section class="hero"><div><h1>Countries</h1></div><div><p>{n_c} countries: filter by region or fit, sort by years to citizenship or passport strength.</p></div></section>
+<section id="countries">{explore}{table}</section>
 </div>"""
-    return shell(SITE_TITLE, body, "", extra_js=f"<script>{INDEX_JS}</script>")
+    programs_body = f"""<div class="wrap">
+<section class="hero"><div><h1>Programs</h1></div><div><p>{n_p} residency and citizenship program types, each compared across countries.</p></div></section>
+<section class="progs" id="programs"><ul>{"".join(progs)}</ul></section>
+</div>"""
+    cards = (f'<a class="card" href="countries.html"><b>Countries</b><span>{n_c} countries with conditions, sources and monitoring.</span></a>'
+             f'<a class="card" href="programs.html"><b>Programs</b><span>{n_p} program types compared across countries.</span></a>'
+             f'<a class="card" href="glossary.html"><b>Glossary</b><span>What the columns, labels and abbreviations mean.</span></a>')
+    index_body = f"""<div class="wrap">
+<section class="hero">
+  <div><h1>Residency &amp; citizenship conditions</h1></div>
+  <div><p>Residency and citizenship conditions for {n_c} countries: programs, thresholds, tax, years to a passport. Pages are monitored for changes and cite their sources.</p>
+  <div class="stamp">{n_c} countries · {n_p} program comparisons · built {now}</div></div>
+</section>
+<section class="cards">{cards}</section>
+{latest_html}
+</div>"""
+    return {
+        "index.html": shell(SITE_TITLE, index_body, ""),
+        "countries.html": shell(f"Countries — {SITE_TITLE}", countries_body, "", extra_js=f"<script>{INDEX_JS}</script>"),
+        "programs.html": shell(f"Programs — {SITE_TITLE}", programs_body, ""),
+    }
+
+
+def render_glossary():
+    text = (WIKI_DIR / "glossary.md").read_text(encoding="utf-8")
+    body = md_to_html(text, "concept", "glossary")
+    crumbs = '<a href="index.html">Home</a><span class="sep">/</span><span>Glossary</span>'
+    main = f"""<div class="wrap"><div class="page-grid">
+<main class="main"><article><div class="crumbs">{crumbs}</div>
+<div class="page-head"><h1>Glossary</h1></div><div class="article">{body}</div></article></main>
+{build_toc(body)}
+</div></div>"""
+    return shell(f"Glossary — {SITE_TITLE}", main, "", desc="What the columns, labels and abbreviations on this site mean.")
 
 
 def generate_search_index():
@@ -1467,11 +1508,15 @@ def build():
         sub = "conditions" if page["type"] == "entity" else "concepts"
         (OUTPUT_DIR / sub / f"{slug}.html").write_text(render_page(page, region_meta, REGION_LABELS), encoding="utf-8")
         count += 1
-    (OUTPUT_DIR / "index.html").write_text(render_index(region_meta, REGION_LABELS, concept_pages), encoding="utf-8")
+    for fname, doc in render_index(region_meta, REGION_LABELS, concept_pages).items():
+        (OUTPUT_DIR / fname).write_text(doc, encoding="utf-8")
+        count += 1
+    (OUTPUT_DIR / "glossary.html").write_text(render_glossary(), encoding="utf-8")
+    count += 1
     (OUTPUT_DIR / "search-index.json").write_text(generate_search_index(), encoding="utf-8")
     (OUTPUT_DIR / ".nojekyll").write_text("")
-    print(f"Build complete: {count + 2} files written to {OUTPUT_DIR}")
-    return count + 2
+    print(f"Build complete: {count + 1} files written to {OUTPUT_DIR}")
+    return count + 1
 
 
 if __name__ == "__main__":
