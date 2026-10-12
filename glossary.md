@@ -49,7 +49,7 @@ Invest min, Nomad visa and Tax % are extracted from the country pages into `data
 
 Tags are editorial and help you filter the list. They are not official classifications.
 
-- **#passport** (Strong passport): citizenship would give a high visa-free count.
+- **#pass** (Strong passport): citizenship would give a high visa-free count.
 - **#it** (IT-friendly): a remote-work or tech-friendly route plus a workable environment for IT specialists.
 - **#path** (Clear pathway): a well-defined, documented route from residence to a passport.
 - **#ru** (Popular with RU): a common destination for Russian-speaking applicants.

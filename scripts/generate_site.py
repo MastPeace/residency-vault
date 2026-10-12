@@ -983,14 +983,13 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .ctable th:first-child, .ctable td:first-child { position: sticky; left: 0; z-index: 2; background: var(--bg); box-shadow: 1px 0 0 var(--line); }
 .ctable tbody tr:hover td:first-child { background: var(--accent-soft); }
 .ctable th, .ctable td { padding-left: 6px; padding-right: 6px; }
-.ctable th { letter-spacing: .03em; }
 .ctable td.name { min-width: 110px; max-width: 170px; }
 .ctable td.progs-cell .pi { cursor: default; }
 .ctable td.col-rv, .ctable td.col-gv, .ctable td.col-cost { white-space: nowrap; font-size: 13px; }
-.ctable th { position: relative; white-space: normal; vertical-align: bottom; line-height: 1.25; }
+.ctable th { position: relative; white-space: nowrap; vertical-align: middle; line-height: 1.2; font-size: 11px; letter-spacing: .02em; padding-top: 12px; padding-bottom: 12px; }
 .ctable th button { text-align: left; }
 .tip { position: relative; display: inline-block; }
-.tip .gl { all: unset; cursor: pointer; color: var(--accent); font-weight: 700; padding: 0 3px; }
+.tip .gl { all: unset; cursor: pointer; color: var(--accent); font-weight: 700; font-size: 12px; padding: 0 0 0 2px; line-height: 1; }
 .tip-box { display: none; position: absolute; top: 100%; left: -8px; z-index: 40; width: 250px; padding: 10px 12px; text-align: left;
   background: var(--surface); color: var(--ink-2); border: 1px solid var(--line-strong); border-radius: 8px; box-shadow: 0 10px 28px rgba(0,0,0,.18);
   font: 400 13px/1.45 var(--sans); letter-spacing: 0; text-transform: none; white-space: normal; }
@@ -1499,7 +1498,7 @@ REGION_ABBR = {
     "africa_north": "AF-N", "africa_west": "AF-W", "africa_central": "AF-C", "africa_east_south": "AF-ES",
     "latin_america": "LATAM", "caribbean_central": "CARIB", "north_america_oceania": "NA-OC", "asia": "ASIA",
 }
-CAT_TAGS = {"strong_passport": "#passport", "it_friendly": "#it", "clear_pathway": "#path",
+CAT_TAGS = {"strong_passport": "#pass", "it_friendly": "#it", "clear_pathway": "#path",
             "popular_ru": "#ru", "yacht_captain": "#yacht"}
 
 PROG_ICONS = OrderedDict([
@@ -1576,7 +1575,7 @@ def cost_index(page):
 
 TIPS = {
     "region": ("Region code; hover for the full name. All codes are listed in the glossary.", "region-codes"),
-    "tags": ("Editorial tags: #passport strong passport, #it IT-friendly, #path clear pathway, #ru popular with RU, #yacht yacht captain.", "fit-tags"),
+    "tags": ("Editorial tags: #pass strong passport, #it IT-friendly, #path clear pathway, #ru popular with RU, #yacht yacht captain.", "fit-tags"),
     "progs": ("Residency routes the country offers (closed or unavailable routes are left out). Hover an icon for its name; use the program buttons above to filter.", "program-types"),
     "years": ("Years of legal residence before you can apply for citizenship on the standard route ('no path' = none).", "country-list-columns"),
     "passport": ("Passport strength: number of visa-free destinations of the passport you would hold after naturalisation.", "country-list-columns"),
