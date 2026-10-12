@@ -16,7 +16,8 @@ Overview-level, source-cited, continuously monitored reference for residency and
 
 ## Stage 1 — Be findable (traffic is currently ~0)
 - [ ] Register the site in Google Search Console and Bing Webmaster Tools, submit `sitemap.xml` (owner action: needs the Google account)
-- [ ] Check indexing after 1-2 weeks (`site:mastpeace.github.io/residency-vault`); decide on a custom domain (a github.io sub-path ranks poorly and cannot hold a brand)
+- [x] Custom domain residencyradar.org connected to GitHub Pages (Oct 2026)
+- [ ] Check indexing after 1-2 weeks (`site:residencyradar.org`)
 - [ ] SEO pass on country/program pages: titles and descriptions per target query ("Portugal D7 visa requirements 2026"), structured data (FAQ/Article), internal links between countries and programs
 - [ ] Backlinks / distribution: Telegram channel @migrate_easy, relevant communities, Reddit/HN-style launch post, lists of "digital nomad visa" resources
 - [ ] Public "Changes this week" page (shows freshness, gives search engines something new weekly)

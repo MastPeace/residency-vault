@@ -1063,7 +1063,7 @@ CAT_LABELS = OrderedDict([
     ("yacht_captain", "Yacht captain"),
 ])
 REPO_URL = "https://github.com/MastPeace/residency-vault"
-SITE_URL = "https://mastpeace.github.io/residency-vault/"
+SITE_URL = "https://residencyradar.org/"
 NOTICE_HTML = ('<aside class="notice" role="note"><b>Overview information only.</b> This page is a general summary compiled '
     'from public sources with the help of automated tools. It is <b>not legal, tax or immigration advice</b> and may be '
     'incomplete or out of date. Rules, thresholds and fees change often and are applied case by case. Always verify with the '

@@ -6,7 +6,7 @@ An Obsidian-compatible markdown knowledge base of residency & citizenship condit
 across 163 countries, using a canonical residency-type taxonomy, auto-refreshed by a
 weekly/monthly monitor and published as a Wikipedia-style static website.
 
-**Live site:** [mastpeace.github.io/residency-vault](https://mastpeace.github.io/residency-vault/)
+**Live site:** [residencyradar.org](https://residencyradar.org/)
 
 ---
 
@@ -61,7 +61,7 @@ wiki/
 Every push to `main` triggers a GitHub Actions workflow that rebuilds the static site
 and deploys it to GitHub Pages. No manual build step required.
 
-**URL:** [https://mastpeace.github.io/residency-vault/](https://mastpeace.github.io/residency-vault/)
+**URL:** [https://residencyradar.org/](https://residencyradar.org/)
 
 The site features: light/dark theme, filterable and sortable country table (with optional structured-fact columns from `data/facts.json`), separate Countries/Programs/Glossary pages, Ctrl/Cmd+K search, per-page TOC,
 concept pages, wikilink-aware internal linking, footnotes, and responsive layout.
@@ -140,7 +140,7 @@ the full knowledge graph (countries ↔ concepts ↔ regions).
 
 ### As a Static Website
 
-Visit [mastpeace.github.io/residency-vault](https://mastpeace.github.io/residency-vault/).
+Visit [residencyradar.org](https://residencyradar.org/).
 Browse countries by region in the sidebar, search with the built-in client-side search,
 and navigate cross-references via wikilinks converted to HTML.
 
