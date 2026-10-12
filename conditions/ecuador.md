@@ -2,6 +2,7 @@
 title: Ecuador — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, digital-nomad, rentista, investor, pensionado]
 category: multi
@@ -169,6 +170,68 @@ Not a major yachting hub. Guayaquil and Manta have marinas. No special yacht/cap
 | Freedom House score | 65/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/ecuador/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,000 h (Quito — equatorial highland, consistent year-round); ~1,500 h (Cuenca) | [Current Results](https://www.currentresults.com/Weather/Ecuador/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~15 °C (Quito — "eternal spring"); ~25 °C (Guayaquil, coast); ~22 °C (Cuenca) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/ecuador/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 256 370 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=EC) — hard/official |
+| Geography & size | Population density | 73 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=EC) — hard/official |
+| Geography & size | Urban population | 63% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=EC) — hard/official |
+| Geography & size | Coastline | 2,237 km | [source](https://en.wikipedia.org/wiki/Geography_of_Ecuador) — soft/estimate |
+| Geography & size | Highest point | Chimborazo, 6,263 m | [source](https://en.wikipedia.org/wiki/Chimborazo) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Ecuador) — soft/estimate |
+| Geography & size | Time zone | UTC-5 (mainland), UTC-6 (Galapagos); Moscow UTC+3, difference 8h (winter) | [source](https://en.wikipedia.org/wiki/Ecuador) — soft/estimate |
+| Climate | Avg precipitation | 2274 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=EC) — hard/official |
+| Climate | PM2.5 exposure | 18.6 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=EC) — hard/official |
+| Climate | Climate zone | Varied: Af (rainforest) in Amazon, Aw (savanna) on coast, Csb/Cfb (highland) in Andes | [source](https://en.wikipedia.org/wiki/Ecuador) — soft/estimate |
+| Climate | Temp winter / summer | Quito: Jan avg 15°C, Jul avg 15°C (minimal seasonal variation; altitude) | [source](https://en.wikipedia.org/wiki/Quito) — soft/estimate |
+| Climate | Rainy days | ~130 rainy days/year (Quito) | [source](https://en.wikipedia.org/wiki/Quito) — soft/estimate |
+| Climate | Humidity | ~75% annual average (Quito, highland); coastal areas >80% | [source](https://en.wikipedia.org/wiki/Quito) — soft/estimate |
+| Climate | Natural hazards | Volcanic activity, earthquakes, floods, landslides | [source](https://en.wikipedia.org/wiki/Ecuador) — soft/estimate |
+| Climate | Air quality | PM2.5 annual mean ~10-15 µg/m³ (Quito; 2024 estimate) | [source](https://www.iqair.com/air-quality/ecuador) — soft/estimate |
+| Economy | GDP (nominal) | $130.3B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=EC) — hard/official |
+| Economy | GDP growth | 3.7% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=EC) — hard/official |
+| Economy | Inflation (CPI) | 0.7% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=EC) — hard/official |
+| Economy | Unemployment | 3.3% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=EC) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 45.9 (2025) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=EC) — hard/official |
+| Economy | Tourism receipts | 3% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=EC) — hard/official |
+| Economy | Remittances | 5.9% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=EC) — hard/official |
+| Economy | Credit rating | Fitch: CCC+ (2024); S&P: B- (2024) | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-ecuador-at-ccc-13-08-2024) — hard/official |
+| Economy | Currency | USD (US dollar); dollarized since 2000; no exchange rate variation vs USD | [source](https://en.wikipedia.org/wiki/Currency_of_Ecuador) — soft/estimate |
+| Economy | Top industries | Oil/petroleum, agriculture (bananas, shrimp), tourism | [source](https://en.wikipedia.org/wiki/Economy_of_Ecuador) — soft/estimate |
+| Economy | Economic Complexity | Rank 97/133 (OEC ECI 2024) | [source](https://oec.world/en/country-rankings/hs17/2024/complexity) — soft/estimate |
+| Technology | Internet users | 77% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=EC) — hard/official |
+| Technology | Fixed broadband subs | 17.2 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=EC) — hard/official |
+| Technology | High-tech exports | 10.0% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=EC) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | Rank 91/133 (GII 2024) | [source](https://www.wipo.int/edocs/pubdocs/en/wipo_pub_gii_2021/ec.pdf) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.7800, rank 67/193 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/52-Ecuador) — hard/official |
+| Technology | Median broadband speed | Not in Ookla Speedtest Global Index top 120 for fixed broadband | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G launched Dec 2023 (CNT + Nokia); limited urban coverage | [source](https://www.nokia.com/newsroom/nokia-and-cnt-launch-ecuadors-first-5g-network-bringing-ultra-fast-connectivity-to-more-ecuadorians) — soft/estimate |
+| Technology | Online payments | Stripe available in Ecuador (preview/limited) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Rank 82 globally (StartupBlink 2024) | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 77.6 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=EC) — hard/official |
+| Human development & health | Hospital beds | 1.3 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=EC) — hard/official |
+| Human development & health | HDI | 0.765, rank 83/193 (2023/2024) | [source](https://hdr.undp.org/data-center/specific-country-data) — hard/official |
+| Safety | Global Peace Index | Rank 135, score 2.539 (GPI 2025) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (US State Dept, 2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ecuador-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax up to 5% (spouse/children) to 35% (non-relatives); capital gains 25% (corporate) | [source](https://taxsummaries.pwc.com/) — soft/estimate |
+| Money & tax | CFC rules | CFC rules introduced 2024 (tax on passive income of foreign entities) | [source](https://taxsummaries.pwc.com/) — soft/estimate |
+| Business | Company setup | ~15 days, ~20% of GNI per capita (World Bank estimate) | [source](https://databank.worldbank.org/) — soft/estimate |
+| Business | Corporate tax | 25% standard (22% for micro/small enterprises) | [source](https://taxfoundation.org/data/all/global/corporate-tax-rates-by-country-2025) — soft/estimate |
+| Family & education | Top university | Universidad San Francisco de Quito (USFQ); not in QS top 500 | [source](https://www.universityrankings.ch/results/QS/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens for short stays (90 days per 180) | [source](https://www.entryconditions.com/russia/ecuador) — soft/estimate |
+| For Russian citizens | Sanctions position | Not under UN/EU sanctions; complies with US sanctions on Russia | [source](https://en.wikipedia.org/wiki/Ecuador) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 72, score 5.970 (World Happiness Report 2025) | [source](https://en.wikipedia.org/wiki/World_Happiness_Report) — soft/estimate |
+| Quality of life | Expat friendliness | Rank 12/53 (InterNations Expat Insider 2024) | [source](https://content.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 46; moderate English proficiency; Spanish essential | [source](https://www.ef.edu/epi/) — soft/estimate |
 
 ## Country Card
 

@@ -2,6 +2,7 @@
 title: Dominican Republic — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, investment_residency, retired_residency, tax, clear_pathway]
 category: popular_ru
@@ -131,6 +132,68 @@ Dominican Republic has several full-service marinas (Casa de Campo, Ocean World)
 | Freedom House score | 68/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/dominican-republic/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,500–2,800 h (varies by region) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Dominican_Republic#Climate) — hard/official |
 | Average annual temperature | ~25 °C (coastal; cooler in central highlands) | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Dominican_Republic#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 146 839 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=DO) — hard/official |
+| Geography & size | Population density | 237 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=DO) — hard/official |
+| Geography & size | Urban population | 73% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=DO) — hard/official |
+| Geography & size | Coastline | 1,288 km | [source](https://en.wikipedia.org/wiki/List_of_countries_by_length_of_coastline) — soft/estimate |
+| Geography & size | Highest point | Pico Duarte, 3,101 m | [source](https://en.wikipedia.org/wiki/Pico_Duarte) — soft/estimate |
+| Geography & size | Type | island | [source](https://en.wikipedia.org/wiki/Dominican_Republic) — soft/estimate |
+| Geography & size | Time zone | UTC-4 (AST); Moscow UTC+3, difference 7h | [source](https://en.wikipedia.org/wiki/Dominican_Republic) — soft/estimate |
+| Climate | Avg precipitation | 1410 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=DO) — hard/official |
+| Climate | PM2.5 exposure | 13.5 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=DO) — hard/official |
+| Climate | Climate zone | Aw (tropical savanna) and Af (rainforest) in some areas; semi-arid in SW | [source](https://www.climatestotravel.com/climate/dominican-republic) — soft/estimate |
+| Climate | Temp winter / summer | Santo Domingo: Jan avg 24°C, Jul avg 27°C | [source](https://www.climatestotravel.com/climate/dominican-republic) — soft/estimate |
+| Climate | Rainy days | ~113 rainy days/year (Punta Cana); 78 days (La Romana) | [source](https://www.climatestotravel.com/climate/dominican-republic) — soft/estimate |
+| Climate | Humidity | ~77-79% annual average (Punta Cana/Santo Domingo) | [source](https://www.climatestotravel.com/climate/dominican-republic) — soft/estimate |
+| Climate | Natural hazards | Hurricanes (Jun-Nov), floods, occasional earthquakes | [source](https://en.wikipedia.org/wiki/Dominican_Republic) — soft/estimate |
+| Climate | Air quality | PM2.5 annual mean ~6-8 µg/m³ (moderate; Santo Domingo) | [source](https://www.iqair.com/air-quality/dominican-republic) — soft/estimate |
+| Economy | GDP (nominal) | $127.4B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DO) — hard/official |
+| Economy | GDP growth | 2.1% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=DO) — hard/official |
+| Economy | Inflation (CPI) | 3.9% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=DO) — hard/official |
+| Economy | Unemployment | 5.1% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=DO) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 39.0 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=DO) — hard/official |
+| Economy | Tourism receipts | 38% of exports (2018) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=DO) — hard/official |
+| Economy | Remittances | 9.7% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=DO) — hard/official |
+| Economy | Credit rating | Moody's: Ba3 (stable, 2024); S&P: BB (stable, 2024) | [source](https://ratings.moodys.com/ratings-news/448075) — hard/official |
+| Economy | Currency | DOP (Dominican peso); managed float; ~-25% vs USD over 5 years (2020: ~55, 2025: ~62) | [source](https://wise.com/us/currency-converter/dop-to-usd-rate/history) — soft/estimate |
+| Economy | Top industries | Tourism, manufacturing (free trade zones), agriculture | [source](https://en.wikipedia.org/wiki/Economy_of_the_Dominican_Republic) — soft/estimate |
+| Economy | Economic Complexity | Rank 54/133 (OEC ECI 2024) | [source](https://oec.world/en/country-rankings/hs17/2024/complexity) — soft/estimate |
+| Technology | Internet users | 91% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=DO) — hard/official |
+| Technology | Fixed broadband subs | 11.2 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=DO) — hard/official |
+| Technology | High-tech exports | 7.7% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=DO) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | Rank 89/133 (GII 2024) | [source](https://www.wipo.int/edocs/gii-ranking/2024/do.pdf) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.6508, rank 97/193 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/62-Dominican-Republic) — hard/official |
+| Technology | Median broadband speed | Not in Ookla Speedtest Global Index top 120 for fixed broadband | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G deployment underway; Altice launched 2022; limited coverage | [source](https://developingtelecoms.com/telecom-technology/wireless-networks/12422-altice-dominicana-commences-5g-deployment.html) — soft/estimate |
+| Technology | Online payments | Stripe available in Dominican Republic | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Not in StartupBlink top 100 countries | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 73.9 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=DO) — hard/official |
+| Human development & health | Hospital beds | 0.8 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=DO) — hard/official |
+| Human development & health | HDI | 0.766, rank 82/193 (2023/2024) | [source](https://hdr.undp.org/data-center/specific-country-data) — hard/official |
+| Safety | Global Peace Index | Rank 88, score 2.034 (GPI 2025) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (US State Dept, 2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/dominican-republic-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 3% of estate value; capital gains taxed at 27% (corporate) or 25% (individual) | [source](https://taxsummaries.pwc.com/dominican-republic) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules | [source](https://taxsummaries.pwc.com/dominican-republic) — soft/estimate |
+| Business | Company setup | ~15 days, ~18% of GNI per capita (World Bank B-Ready estimate) | [source](https://databank.worldbank.org/) — soft/estimate |
+| Business | Corporate tax | 27% (up to 30% for incomes >1bn DOP in 2026-2028) | [source](https://taxsummaries.pwc.com/dominican-republic) — soft/estimate |
+| Family & education | Top university | Pontificia Universidad Católica Madre y Maestra (PUCMM); not in QS top 1000 | [source](https://www.universityrankings.ch/results/QS/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens for short stays (up to 60 days) | [source](https://www.entryconditions.com/russia/dominican-republic) — soft/estimate |
+| For Russian citizens | Sanctions position | Not under UN/EU sanctions; complies with US sanctions on Russia | [source](https://en.wikipedia.org/wiki/Dominican_Republic) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 64, score 6.093 (World Happiness Report 2025) | [source](https://countryeconomy.com/demography/world-happiness-index/dominican-republic) — soft/estimate |
+| Quality of life | Expat friendliness | Rank 14/53 (InterNations Expat Insider 2024) | [source](https://content.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 38; moderate English proficiency; Spanish essential | [source](https://www.ef.edu/epi/) — soft/estimate |
 
 ## Country Card
 

@@ -2,6 +2,7 @@
 title: Cuba — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, clear_pathway]
 category: clear_pathway
@@ -90,6 +91,68 @@ Expat discussion emphasises that Cuban residency is slow, discretionary, and off
 | Freedom House score | 10/100 (Not Free) | [Freedom House](https://freedomhouse.org/country/cuba/freedom-world/2025) hard/official |
 | Average annual sunshine hours | ~2,800 h | [Wikipedia](https://en.wikipedia.org/wiki/Cuba#Climate) hard/official |
 | Average annual temperature | ~25 °C | [Wikipedia](https://en.wikipedia.org/wiki/Cuba#Climate) hard/official |
+
+## Extended Snapshot
+
+_Coverage: 48/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 109 884 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=CU) — hard/official |
+| Geography & size | Population density | 106 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=CU) — hard/official |
+| Geography & size | Urban population | 77% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=CU) — hard/official |
+| Geography & size | Coastline | 5,746 km (main island; 3,735 km all islands) | [source](https://en.wikipedia.org/wiki/Geography_of_Cuba) — soft/estimate |
+| Geography & size | Highest point | Pico Turquino, 1,974 m | [source](https://en.wikipedia.org/wiki/Geography_of_Cuba) — soft/estimate |
+| Geography & size | Type | archipelago | [source](https://en.wikipedia.org/wiki/Cuba) — soft/estimate |
+| Geography & size | Time zone | UTC-5 (EST), summer UTC-4; Moscow is UTC+3, difference 8h (winter) | [source](https://en.wikipedia.org/wiki/Cuba) — soft/estimate |
+| Climate | Avg precipitation | 1335 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=CU) — hard/official |
+| Climate | PM2.5 exposure | 9.4 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=CU) — hard/official |
+| Climate | Climate zone | Aw (tropical savanna), with Am/Af areas on windward slopes | [source](https://en.wikipedia.org/wiki/Geography_of_Cuba) — soft/estimate |
+| Climate | Temp winter / summer | Havana: Jan avg 22°C, Jul avg 28°C | [source](https://en.wikipedia.org/wiki/Geography_of_Cuba) — soft/estimate |
+| Climate | Rainy days | ~102 rainy days/year (Havana) | [source](https://www.worlddata.info/america/cuba/climate.php) — soft/estimate |
+| Climate | Humidity | ~79% relative humidity (Havana area) | [source](https://www.weather-atlas.com/en/cuba-climate) — soft/estimate |
+| Climate | Natural hazards | Hurricanes (Jun-Nov), droughts, occasional flooding | [source](https://en.wikipedia.org/wiki/Geography_of_Cuba) — soft/estimate |
+| Climate | Air quality | PM2.5 not in 2024 IQAir report top polluted list; limited monitoring data | [source](https://www.iqair.com/air-quality/cuba) — soft/estimate |
+| Economy | GDP (nominal) | $107.4B (2020) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CU) — hard/official |
+| Economy | GDP growth | -1.1% (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CU) — hard/official |
+| Economy | Inflation (CPI) | No reliable data | — |
+| Economy | Unemployment | 1.7% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=CU) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | No reliable data | — |
+| Economy | Credit rating | Not rated (no active S&P/Moody's/Fitch sovereign rating) | [source](https://www.afd.fr/sites/default/files/2025-07/maquette-2025-macrodev-ndeg65-uk-bat-web.pdf) — soft/estimate |
+| Economy | Currency | CUP (Cuban peso); managed peg; informal rate ~350 CUP/USD 2025 vs ~24 CUP/USD 2020 (~-93% depreciation) | [source](https://www.afd.fr/sites/default/files/2025-07/maquette-2025-macrodev-ndeg65-uk-bat-web.pdf) — soft/estimate |
+| Economy | Top industries | Tourism, sugar/agriculture, nickel mining | [source](https://en.wikipedia.org/wiki/Economy_of_Cuba) — soft/estimate |
+| Economy | Economic Complexity | Not ranked in OEC ECI 2024 | [source](https://oec.world/en/country-rankings/hs17/2024/complexity) — soft/estimate |
+| Technology | Internet users | 70% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CU) — hard/official |
+| Technology | Fixed broadband subs | 3.1 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=CU) — hard/official |
+| Technology | High-tech exports | 7.9% of manufactured exports (2022) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=CU) — hard/official |
+| Technology | R&D spend | 0.44% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=CU) — hard/official |
+| Technology | Global Innovation Index | Not ranked in GII 2024 top listings | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.4442, rank 133/193 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/50-Cuba) — hard/official |
+| Technology | Median broadband speed | Not in Ookla Speedtest Global Index top 120 (low ranking) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | No commercial 5G; trial only as of 2024 | [source](https://datahub.itu.int/data?c=1&e=CUB&i=100095&s=34236&v=chart) — hard/official |
+| Technology | Online payments | Stripe not available in Cuba | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Not ranked in StartupBlink top countries | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 78.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CU) — hard/official |
+| Human development & health | Hospital beds | 4.3 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=CU) — hard/official |
+| Human development & health | HDI | 0.764, rank 85/193 (2023/2024) | [source](https://hdr.undp.org/data-center/specific-country-data) — hard/official |
+| Safety | Global Peace Index | Rank 98, score 2.158 (GPI 2025) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (US State Dept, 2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cuba-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 0-5%; capital gains taxed as income | [source](https://taxglass.net/countries/cuba) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules | [source](https://taxglass.net/countries/cuba) — soft/estimate |
+| Business | Company setup | World Bank B-Ready data limited; estimated 30+ days, complex state process | [source](https://databank.worldbank.org/id/5162e111) — soft/estimate |
+| Business | Corporate tax | 35% standard corporate tax rate | [source](https://taxfoundation.org/data/all/global/corporate-tax-rates-by-country-2025) — soft/estimate |
+| Family & education | Top university | University of Havana (not in QS top 1500) | [source](https://www.universityrankings.ch/results/QS/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free for Russian citizens for short stays (90 days) | [source](https://www.entryconditions.com/russia/cuba) — soft/estimate |
+| For Russian citizens | Sanctions position | Under comprehensive US embargo; not under UN or EU sanctions | [source](https://en.wikipedia.org/wiki/United_States_embargo_against_Cuba) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 76, score 5.846 (World Happiness Report 2024) | [source](https://en.wikipedia.org/wiki/World_Happiness_Report) — soft/estimate |
+| Quality of life | Expat friendliness | Not listed in InterNations Expat Insider 2024 | [source](https://www.internations.org/expat-insider/2024/best-and-worst-places-for-expats-40450) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 58; English proficiency low; Spanish essential | [source](https://www.ef.com/assetscdn/WIBIwq6RdJvcD9bc8RMd/cefcom-epi-site/fact-sheets/2025/ef-epi-fact-sheet-cuba-english.pdf) — soft/estimate |
 
 ## Country Card
 
