@@ -15,8 +15,8 @@ Click a column title to sort; click the * next to a title for a short explanatio
 | Passport | Passport strength: the number of destinations a holder of that country's passport can enter visa-free (a Henley-type visa-free count). It describes the passport you would get after naturalisation, not the one you hold now. |
 | Cost index | Numbeo cost-of-living index with New York City = 100; lower means cheaper. Ranges on the page are shown as their midpoint. |
 | Rent $/mo | Typical monthly rent of a 1-bedroom apartment, usually in the city centre, converted to US dollars at approximate fixed exchange rates (a range stays a range). It is a rough comparison figure, not a quote. |
-| Invest. from | The cheapest qualifying amount of the country's investment-residency route (Golden Visa style: property, fund, business or deposit), in the currency the page states and never converted. Empty means the route is closed, absent or has no stated amount. Sorting converts at approximate rates. |
-| Remote visa | Whether a digital-nomad or remote-work residence exists, with the headline income requirement per month or year. `No` means the page says there is none; empty means the page does not say. |
+| Invest. from | The cheapest qualifying amount of the country's investment-residency route (Golden Visa style: property, fund, business or deposit), in US dollars. Amounts stated in other currencies are converted at approximate fixed rates and marked `≈` (rounded to two significant digits); hover to see the original amount and the source quote. Empty means the route is closed, absent or has no stated amount. |
+| Remote visa | Whether a digital-nomad or remote-work residence exists, with the headline income requirement per month or year, in US dollars (converted and marked `≈` when the page uses another currency). `No` means the page says there is none; empty means the page does not say. |
 | Remote tax | Effective personal income tax range for a remote worker, in percent. Indicative only: real tax depends on residency days, regime and income. |
 | Confidence | How well the page is backed by sources (see **Confidence** below). |
 

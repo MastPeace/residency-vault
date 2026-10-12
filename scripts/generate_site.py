@@ -1083,12 +1083,33 @@ def money(cur, amount):
     return f"{sym}{n}" if sym else f"{cur} {n}"
 
 
+# Approximate USD per unit (2026 ballpark). Used to show every amount in dollars; the original is kept in the tooltip.
+USD_RATE = {"USD": 1, "EUR": 1.09, "GBP": 1.27, "AED": .272, "CAD": .72, "AUD": .65, "NZD": .6, "CHF": 1.13,
+            "SGD": .75, "HKD": .128, "JPY": .0067, "CNY": .14, "THB": .029, "MYR": .22, "TRY": .025, "BD": 2.65, "BHD": 2.65,
+            "KWD": 3.25, "OMR": 2.6, "QAR": .275, "SAR": .267, "ARS": .0007, "AZN": .59, "BRL": .18, "COP": .00025,
+            "F$": .44, "FJD": .44, "KYD": 1.2, "PEN": .27, "ZAR": .055, "KRW": .00072, "TWD": .031}
+
+
+def usd(cur, amount):
+    """(label, usd_value) for an amount; exact when already USD, otherwise ≈ with 2 significant digits."""
+    r = USD_RATE.get(cur)
+    if r is None:
+        return money(cur, amount), None
+    v = amount * r
+    if cur == "USD":
+        return f"${int(amount):,}", v
+    mag = 10 ** (len(str(int(v))) - 2) if v >= 100 else 1
+    return f"≈${int(round(v / mag) * mag):,}", v
+
+
 def fact_gv(slug):
     f = (FACTS.get(slug) or {}).get("gv_min")
     if not f:
         return "", None, ""
-    eur = f["amount"] * EUR_RATE[f["currency"]] if f["currency"] in EUR_RATE else None
-    return money(f["currency"], f["amount"]), eur, f"{f.get('note', '')}: {f['evidence']}"
+    label, v = usd(f["currency"], f["amount"])
+    orig = money(f["currency"], f["amount"])
+    tip = f"{f.get('note', '')}: {f['evidence']}" + (f" (original: {orig})" if f["currency"] != "USD" else "")
+    return label, v, tip
 
 
 def fact_remote(slug):
@@ -1097,15 +1118,14 @@ def fact_remote(slug):
         return "", None, ""
     if not f["available"]:
         return "No", 0, f["evidence"]
-    inc = ""
-    eur = 1
+    inc, mon = "", 1
     if f.get("min_income") and f.get("currency"):
         per = {"month": "/mo", "year": "/yr"}.get(f.get("period"), "")
-        inc = f" · {money(f['currency'], f['min_income'])}{per}"
-        if f["currency"] in EUR_RATE:
-            m = f["min_income"] * EUR_RATE[f["currency"]]
-            eur = m if f.get("period") != "year" else m / 12
-    return f"Yes{inc}", eur, f["evidence"]
+        label, v = usd(f["currency"], f["min_income"])
+        inc = f" · {label}{per}"
+        if v is not None:
+            mon = v / 12 if f.get("period") == "year" else v
+    return f"Yes{inc}", mon, f["evidence"]
 
 
 def fact_tax(slug):
