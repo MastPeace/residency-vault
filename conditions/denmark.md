@@ -2,6 +2,7 @@
 title: Denmark — Denmark
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, it_friendly, clear_pathway]
 category: clear_pathway
@@ -137,6 +138,68 @@ Denmark applies full EU sanctions. Visa processing severely restricted. The "tot
 | Freedom House score | 97/100 (Free) | ^[https://freedomhouse.org/country/denmark/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~1,780 (Copenhagen) | ^[https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php] hard/official |
 | Average annual temperature | ~8.5°C (Copenhagen) | ^[https://www.dmi.dk/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 46/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 42 920 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=DK) — hard/official |
+| Geography & size | Population density | 149 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=DK) — hard/official |
+| Geography & size | Urban population | 89% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=DK) — hard/official |
+| Geography & size | Coastline | 7,314 km | [source](https://www.cia.gov/the-world-factbook/about/archives/2023/field/coastline) — hard/official |
+| Geography & size | Highest point | Møllehøj, 170.86 m | [source](https://www.geonames.org/DK/highest-mountains-in-denmark.html) — soft/estimate |
+| Geography & size | Type | mainland (peninsula + islands) | [source](https://en.wikipedia.org/wiki/Denmark) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 (CEST summer); Moscow-2h/-1h | [source](https://www.timeanddate.com/worldclock/denmark/copenhagen) — soft/estimate |
+| Climate | Avg precipitation | 703 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=DK) — hard/official |
+| Climate | PM2.5 exposure | 7.5 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=DK) — hard/official |
+| Climate | Climate zone | Cfb (oceanic) | [source](https://www.climatestotravel.com/climate/denmark) — soft/estimate |
+| Climate | Temp winter / summer | Copenhagen: Jan 1.4°C mean, Jul 18°C mean | [source](https://www.climatestotravel.com/climate/denmark) — soft/estimate |
+| Climate | Rainy days | Copenhagen: ~114 rainy days per year | [source](https://www.climatestotravel.com/climate/denmark) — soft/estimate |
+| Climate | Humidity | Copenhagen: 80% annual average humidity | [source](https://www.climatestotravel.com/climate/denmark) — soft/estimate |
+| Climate | Natural hazards | Storm surges, coastal flooding, occasional severe storms | [source](https://www.climatestotravel.com/climate/denmark) — soft/estimate |
+| Climate | Air quality | No reliable data | — |
+| Economy | GDP (nominal) | $462.5B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DK) — hard/official |
+| Economy | GDP growth | 2.9% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=DK) — hard/official |
+| Economy | Inflation (CPI) | 1.9% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=DK) — hard/official |
+| Economy | Unemployment | 5.5% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=DK) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 29.9 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=DK) — hard/official |
+| Economy | Tourism receipts | 4% of exports (2018) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=DK) — hard/official |
+| Economy | Remittances | 0.4% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=DK) — hard/official |
+| Economy | Credit rating | Fitch AAA, S&P AAA, Moody's Aaa (2025) | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-denmark-at-aaa-outlook-stable-2025) — hard/official |
+| Economy | Currency | DKK, pegged to EUR (ERM II), ~-10% vs USD (2020-2025) | [source](https://taxsummaries.pwc.com/denmark) — soft/estimate |
+| Economy | Top industries | Pharmaceuticals, maritime shipping, renewable energy, agriculture | [source](https://taxsummaries.pwc.com/denmark) — soft/estimate |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 100% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=DK) — hard/official |
+| Technology | Fixed broadband subs | 43.4 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=DK) — hard/official |
+| Technology | High-tech exports | 17.6% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=DK) — hard/official |
+| Technology | R&D spend | 3.05% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=DK) — hard/official |
+| Technology | Global Innovation Index | Rank 10 of 133 (WIPO GII 2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.98474, rank 1 of 193 (UN EGDI 2024) | [source](https://statranker.org/digital-innovation/top-100-countries-by-e-government-development-index) — soft/estimate |
+| Technology | Median broadband speed | Fixed broadband: 367.86 Mbps, rank 15 (Ookla Aug 2026) | [source](https://www.speedtest.net/global-index/denmark) — hard/official |
+| Technology | 5G | Commercially available since 2020, wide coverage | unsourced/unverified |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 82.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=DK) — hard/official |
+| Human development & health | Hospital beds | 2.4 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=DK) — hard/official |
+| Human development & health | HDI | 0.952, rank 5 (UNDP HDR 2025) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) — soft/estimate |
+| Safety | Global Peace Index | Rank 8, score 1.382 (GPI 2024) | [source](https://www.visionofhumanity.org/wp-content/uploads/2024/06/GPI-2024-A3-map-poster.pdf) — hard/official |
+| Safety | US travel advisory | Level 1: Exercise normal precautions (US State Dept) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/denmark-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 15% (to close relatives); capital gains 27-42% | [source](https://taxsummaries.pwc.com/denmark) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply (PwC Denmark 2025) | [source](https://taxsummaries.pwc.com/denmark/corporate/group-taxation) — soft/estimate |
+| Business | Company setup | No reliable data | — |
+| Business | Corporate tax | 22% (standard corporate rate) | [source](https://taxsummaries.pwc.com/denmark) — soft/estimate |
+| Family & education | Top university | University of Copenhagen, QS rank 100 (2025) | [source](https://www.topuniversities.com/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | No reliable data | — |
+| For Russian citizens | Sanctions position | Aligns with EU sanctions against Russia (EU member) | [source](https://www.consilium.europa.eu/en/policies/sanctions-against-russia/) — hard/official |
+| Quality of life | World Happiness rank | Rank 3, score 7.539 (WHR 2025) | [source](https://data.worldhappiness.report/table) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI rank 7, very high proficiency, English widely spoken (EF 2025) | [source](https://www.ef.edu/epi/) — soft/estimate |
 
 ## Country Card
 

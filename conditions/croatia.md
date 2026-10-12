@@ -2,6 +2,7 @@
 title: Croatia — Croatia
 created: 2026-09-13
 updated: 2026-09-28
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, digital-nomad, blue-card, it_friendly, rule_change]
 category: it_friendly
@@ -109,6 +110,68 @@ Russian citizens need a Schengen visa (Croatia joined Schengen 2023). The DN vis
 | Freedom House score | 82/100 Free | ^[https://freedomhouse.org/country/croatia/freedom-world/2025] hard/official |
 | Average annual sunshine hours | 1,898 (Zagreb); coastal cities ~2,600+ | ^[https://en.wikipedia.org/wiki/List_of_cities_in_Europe_by_sunshine_duration] hard/official |
 | Average annual temperature | ~11.9°C (Zagreb); coastal cities warmer | ^[https://en.wikipedia.org/wiki/Zagreb#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 45/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 88 070 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=HR) — hard/official |
+| Geography & size | Population density | 69 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=HR) — hard/official |
+| Geography & size | Urban population | 58% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=HR) — hard/official |
+| Geography & size | Coastline | 5,835 km (mainland 1,777 km, islands 4,058 km) | [source](https://www.cia.gov/the-world-factbook/about/archives/2023/field/coastline) — hard/official |
+| Geography & size | Highest point | Dinara (Sinjal), 1,831 m | [source](https://en.wikipedia.org/wiki/Dinara) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Croatia) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 (CEST summer); Moscow-2h/-1h | [source](https://en.wikipedia.org/wiki/Time_in_Croatia) — soft/estimate |
+| Climate | Avg precipitation | 1113 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=HR) — hard/official |
+| Climate | PM2.5 exposure | 15.8 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=HR) — hard/official |
+| Climate | Climate zone | Cfb (oceanic) inland, Csa (Mediterranean) coast | [source](https://www.climatestotravel.com/climate/croatia) — soft/estimate |
+| Climate | Temp winter / summer | Zagreb: Jan 0.1°C mean, Jul 19.5°C mean | [source](https://www.climatestotravel.com/climate/croatia) — soft/estimate |
+| Climate | Rainy days | Zagreb: ~91 rainy days per year | [source](https://www.climatestotravel.com/climate/croatia) — soft/estimate |
+| Climate | Humidity | Zagreb: ~73% annual average humidity | [source](https://www.climatestotravel.com/climate/croatia) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, floods | [source](https://www.climatestotravel.com/climate/croatia) — soft/estimate |
+| Climate | Air quality | PM2.5: 15.4 μg/m³ annual mean (2024) | [source](https://www.iqair.com/world-air-quality) — soft/estimate |
+| Economy | GDP (nominal) | $105.1B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=HR) — hard/official |
+| Economy | GDP growth | 3.4% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=HR) — hard/official |
+| Economy | Inflation (CPI) | 3.7% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=HR) — hard/official |
+| Economy | Unemployment | 5.0% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=HR) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 30.1 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=HR) — hard/official |
+| Economy | Tourism receipts | 23% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=HR) — hard/official |
+| Economy | Remittances | 6.9% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=HR) — hard/official |
+| Economy | Credit rating | Fitch A-, S&P BBB+, Moody's Baa2 (2025) | [source](https://www.fitchratings.com/research/sovereigns/fitch-upgrades-croatia-to-a-outlook-stable-13-09-2024) — hard/official |
+| Economy | Currency | EUR, float, ~-8% vs USD (2020-2025) | [source](https://tradingeconomics.com/croatia/currency) — soft/estimate |
+| Economy | Top industries | Tourism (20% GDP), manufacturing, agriculture | [source](https://www.lloydsbanktrade.com/en/market-potential/croatia/economical-context) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 30 of 145 (Harvard Atlas 2024) | [source](https://atlas.hks.harvard.edu/countries/191/export-complexity) — soft/estimate |
+| Technology | Internet users | 84% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=HR) — hard/official |
+| Technology | Fixed broadband subs | 29.6 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=HR) — hard/official |
+| Technology | High-tech exports | 11.7% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=HR) — hard/official |
+| Technology | R&D spend | 1.39% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=HR) — hard/official |
+| Technology | Global Innovation Index | 43 of 133 (WIPO GII 2024) | [source](https://www.wipo.int/edocs/gii-ranking/2024/hr.pdf) — hard/official |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | Fixed broadband: 211.72 Mbps, rank 58 (Ookla Aug 2026) | [source](https://www.speedtest.net/global-index/croatia) — hard/official |
+| Technology | 5G | Commercially available since 2021 | unsourced/unverified |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 78.9 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=HR) — hard/official |
+| Human development & health | Hospital beds | 5.6 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=HR) — hard/official |
+| Human development & health | HDI | 0.889, rank 41 (UNDP HDR 2025) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) — soft/estimate |
+| Safety | Global Peace Index | Rank 15, score 1.504 (GPI 2024) | [source](https://www.visionofhumanity.org/wp-content/uploads/2024/06/GPI-2024-A3-map-poster.pdf) — hard/official |
+| Safety | US travel advisory | Level 1: Exercise normal precautions (US State Dept) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Croatia.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No reliable data | — |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | No reliable data | — |
+| Business | Corporate tax | 18% (10% for small businesses with revenue <€1M) | [source](https://taxfoundation.org/data/all/eu/corporate-tax-rates-europe-2024) — soft/estimate |
+| Family & education | Top university | University of Zagreb, QS rank 651-700 (2025) | [source](https://www.topuniversities.com/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | No reliable data | — |
+| For Russian citizens | Sanctions position | Aligns with EU sanctions against Russia (EU member) | [source](https://www.consilium.europa.eu/en/policies/sanctions-against-russia/) — hard/official |
+| Quality of life | World Happiness rank | Rank 70, score 6.009 (WHR 2025) | [source](https://countryeconomy.com/demography/world-happiness-index/croatia) — soft/estimate |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI rank 2, very high proficiency, English widely spoken (EF 2025) | [source](https://www.ef.edu/epi/) — soft/estimate |
 
 ## Country Card
 

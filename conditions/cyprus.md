@@ -2,6 +2,7 @@
 title: Cyprus — Cyprus
 created: 2026-09-13
 updated: 2026-10-05
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, golden-visa, tax, popular_ru, strong_passport, non-schengen]
 category: strong_passport
@@ -104,6 +105,68 @@ Cyprus is one of the most RU-friendly EU jurisdictions. Limassol has a very larg
 | Freedom House score | 91/100 Free | ^[https://freedomhouse.org/country/cyprus/freedom-world/2025] hard/official |
 | Average annual sunshine hours | 3,388 (Nicosia) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Nicosia,Cyprus] hard/official |
 | Average annual temperature | ~19.2°C (Nicosia) | ^[https://en.wikipedia.org/wiki/Nicosia#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 44/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 9 250 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=CY) — hard/official |
+| Geography & size | Population density | 147 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=CY) — hard/official |
+| Geography & size | Urban population | 67% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=CY) — hard/official |
+| Geography & size | Coastline | 648 km | [source](https://www.cia.gov/the-world-factbook/about/archives/2023/field/coastline) — hard/official |
+| Geography & size | Highest point | Mount Olympus, 1,952 m | [source](https://www.britannica.com/place/Mount-Olympus-mountain-Cyprus) — soft/estimate |
+| Geography & size | Type | island | [source](https://en.wikipedia.org/wiki/Cyprus) — soft/estimate |
+| Geography & size | Time zone | UTC+2 (EET), UTC+3 (EEST summer); Moscow-1h/0h | [source](https://www.timeanddate.com/time/zone/@146670) — soft/estimate |
+| Climate | Avg precipitation | 498 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=CY) — hard/official |
+| Climate | PM2.5 exposure | 16.1 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=CY) — hard/official |
+| Climate | Climate zone | BSh (hot semi-arid) inland, Csa (Mediterranean) coast | [source](https://www.climatestotravel.com/climate/cyprus) — soft/estimate |
+| Climate | Temp winter / summer | Nicosia: Jan 10.8°C mean, Jul 30°C mean | [source](https://www.climatestotravel.com/climate/cyprus) — soft/estimate |
+| Climate | Rainy days | Nicosia: ~35 rainy days per year | [source](https://www.climatestotravel.com/climate/cyprus) — soft/estimate |
+| Climate | Humidity | Limassol: 67% annual average humidity | [source](https://www.climatestotravel.com/climate/cyprus) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, droughts, occasional wildfires | [source](https://www.climatestotravel.com/climate/cyprus) — soft/estimate |
+| Climate | Air quality | No reliable data | — |
+| Economy | GDP (nominal) | $41.2B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CY) — hard/official |
+| Economy | GDP growth | 3.8% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CY) — hard/official |
+| Economy | Inflation (CPI) | 0.1% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=CY) — hard/official |
+| Economy | Unemployment | 4.9% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=CY) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 31.8 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=CY) — hard/official |
+| Economy | Tourism receipts | 3% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=CY) — hard/official |
+| Economy | Remittances | 2.0% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=CY) — hard/official |
+| Economy | Credit rating | Fitch A-, S&P BBB+, Moody's Baa2 (2025) | [source](https://www.fitchratings.com/research/sovereigns/fitch-upgrades-cyprus-to-a-outlook-stable-2025) — hard/official |
+| Economy | Currency | EUR, float, ~-8% vs USD (2020-2025) | [source](https://tradingeconomics.com/cyprus/currency) — soft/estimate |
+| Economy | Top industries | Tourism, financial services, shipping, real estate | [source](https://en.wikipedia.org/wiki/Cyprus) — soft/estimate |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 90% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CY) — hard/official |
+| Technology | Fixed broadband subs | 37.6 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=CY) — hard/official |
+| Technology | High-tech exports | 17.9% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=CY) — hard/official |
+| Technology | R&D spend | 0.68% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=CY) — hard/official |
+| Technology | Global Innovation Index | Rank 28 of 133 (WIPO GII 2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.8619, rank 38 of 193 (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/44-Cyprus) — hard/official |
+| Technology | Median broadband speed | Fixed broadband: 249.20 Mbps, rank 48 (Ookla Aug 2026) | [source](https://www.speedtest.net/global-index/cyprus) — hard/official |
+| Technology | 5G | Commercially available since 2021 | unsourced/unverified |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 81.8 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CY) — hard/official |
+| Human development & health | Hospital beds | 2.1 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=CY) — hard/official |
+| Human development & health | HDI | 0.907, rank 29 (UNDP HDR 2025) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) — soft/estimate |
+| Safety | Global Peace Index | Rank 70, score 2.026 (GPI 2024) | [source](https://countryeconomy.com/demography/global-peace-index/cyprus) — soft/estimate |
+| Safety | US travel advisory | Level 1: Exercise normal precautions (US State Dept) | [source](https://travel.state.gov/en/international-travel/travel-advisories/cyprus.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No reliable data | — |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | No reliable data | — |
+| Business | Corporate tax | 12.5% (standard corporate rate) | [source](https://www.pwc.com.cy/en/publications/assets/tff-eng-2024.pdf) — soft/estimate |
+| Family & education | Top university | University of Cyprus, QS rank 351-400 (2025) | [source](https://www.topuniversities.com/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | No reliable data | — |
+| For Russian citizens | Sanctions position | Aligns with EU sanctions against Russia (EU member) | [source](https://www.consilium.europa.eu/en/policies/sanctions-against-russia/) — hard/official |
+| Quality of life | World Happiness rank | Rank 62, score 6.126 (WHR 2025) | [source](https://countryeconomy.com/demography/world-happiness-index/cyprus) — soft/estimate |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI rank 40, score 537, moderate proficiency (EF 2025) | [source](https://www.ef.edu/epi/regions/europe/cyprus/) — soft/estimate |
 
 ## Country Card
 
