@@ -12,7 +12,7 @@ weekly/monthly monitor and published as a Wikipedia-style static website.
 
 ## 1. What It Is
 
-- **100 country pages** covering every region: Western/Eastern Europe, Balkans & Caucasus,
+- **163 country pages** covering every region: Western/Eastern Europe, Balkans & Caucasus,
   Middle East & Gulf, North/West/East & South Africa, Latin America, Caribbean & Central
   America, North America & Oceania — plus Kazakhstan.
 - **10 canonical residency-type generalizer pages** (concept pages) with cross-country
@@ -41,7 +41,7 @@ wiki/
 ├── CONTRIBUTING.md        ← contribution & update-policy rules
 ├── regions.yaml           ← global country registry grouped by region
 ├── .gitignore
-├── conditions/            ← 100 country pages (conditions/<country>.md)
+├── conditions/            ← 163 country pages (conditions/<country>.md)
 ├── concepts/              ← 10 residency-type generalizer pages
 ├── alerts/                ← weekly delta reports (alerts/YYYY-MM-DD.md)
 ├── raw/articles/          ← immutable web extracts (monitor snapshots)

@@ -668,7 +668,8 @@ all_pages = {}  # slug -> {title, type, body, frontmatter, html_body, category, 
 
 def collect_pages():
     """Read all .md files from conditions/ and concepts/, parse frontmatter."""
-    # Concepts first (to build CONCEPT_SLUGS)
+    # Concepts first (to build CONCEPT_SLUGS) -- pre-register all so concept->concept links resolve
+    CONCEPT_SLUGS.update(f.stem for f in CONCEPTS_DIR.glob("*.md"))
     for md_file in sorted(CONCEPTS_DIR.glob("*.md")):
         slug = md_file.stem
         CONCEPT_SLUGS.add(slug)
@@ -1445,6 +1446,26 @@ def build_toc(body_html):
     return f'<aside class="toc"><h2>On this page</h2><ul>{lis}</ul></aside>'
 
 
+def fix_inpage_anchors(doc):
+    """Resolve in-page #anchors written as [[#employment-residency]] against real heading ids
+    (ids use underscores / carry a title suffix; table-of-detail links use hyphens)."""
+    ids = re.findall(r'\bid="([^"]+)"', doc)
+    idset = set(ids)
+    norm = lambda x: re.sub(r'[^a-z0-9]', '', x.lower())
+    def fix(m):
+        a = m.group(1)
+        if a in idset:
+            return m.group(0)
+        n = norm(a)
+        cand = [i for i in ids if norm(i) == n] or [i for i in ids if not i.startswith("fn") and norm(i).startswith(n)]
+        return f'href="#{cand[0]}"' if cand else m.group(0)
+    doc = re.sub(r'href="#([^"]+)"', fix, doc)
+    # unresolved non-footnote anchors -> plain text instead of a dead link
+    doc = re.sub(r'<a (?:class="wikilink" )?href="#([^"]+)">([^<]*)</a>',
+                 lambda m: m.group(0) if m.group(1) in idset or m.group(1).startswith("fn") else m.group(2), doc)
+    return doc
+
+
 def render_page(page, region_meta, region_labels):
     title = page["title"]
     name = display_name(title) if page["type"] == "entity" else title
@@ -1493,6 +1514,7 @@ def render_page(page, region_meta, region_labels):
 <main class="main"><article>{head}<div class="article">{body}</div></article></main>
 {build_toc(body)}
 </div></div>"""
+    main = fix_inpage_anchors(main)
     return shell(f"{name} — {SITE_TITLE}", main, "../", desc=first_sentences(page["body"].split("\n## Residency")[0].replace("## Overview", ""), 160))
 
 

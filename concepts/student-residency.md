@@ -29,7 +29,7 @@ Student residency — residence permits for individuals enrolled in recognized e
 | [[spain]] | Estancia por Estudios | Enrollment; ≥100% IPREM/mo funds (~€600); work ≤20 hrs/wk | Course duration | 10 yr (student time counts 50%); DELE A2 + CCSE | Works well |
 | [[italy]] | Visto per Studio | Enrollment; ≥€6,000/yr funds; work ≤20 hrs/wk | Course duration | 10 yr (50% toward clock); B1 Italian | Works well |
 | [[ireland]] | Stamp 2 Student → Stamp 1G Graduate | Enrollment; funds; work 20 hrs/wk (40 holidays); Graduate: 1–2 yr | Course + 1–2 yr Graduate | 5 yr residence | Works well |
-| [[usa]] | F-1 Student → OPT → H-1B | SEVP enrollment; OPT 1 yr (STEM: 3 yr); H-1B lottery | Course + OPT | 5 yr PR (after GC) | Mixed — H-1B bottleneck |
+| [[united-states|USA]] | F-1 Student → OPT → H-1B | SEVP enrollment; OPT 1 yr (STEM: 3 yr); H-1B lottery | Course + OPT | 5 yr PR (after GC) | Mixed — H-1B bottleneck |
 | [[new-zealand]] | Student Visa → Post-Study Work Visa | Enrollment; funds; post-study 1–3 yr | Course + 1–3 yr PSW | 5 yr residence | Works well |
 | [[sweden]] | Student Permit → Job-Seeker | Enrollment; ~SEK 9,450/mo funds; 12 mo post-study search | Course + 12 mo | 5 yr residence | Works well |
 | [[uae]] | Golden Visa — Outstanding Students | Top GPA UAE (5 yr) or top-100 university (10 yr) | 5–10 yr | No citizenship path | Niche but functional |

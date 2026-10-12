@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Fixed
+- Site integrity audit: ~650 dead in-page links (`[[#employment-residency]]` vs `employment_residency` ids) now resolve to the matching heading; unresolved anchors render as plain text; concept-to-concept links no longer point to `conditions/`; `[[usa]]` -> `[[united-states]]`; README counts 100 -> 163.
+
 ### Added
 - Country table: Programs column with icons per offered residency route (closed routes left out) plus program filter buttons; Cost index (Numbeo, NYC=100) and Rent $/mo (approximate USD) columns.
 - `data/facts.json`: structured facts per country (investment-residency minimum, remote-work visa + income threshold, remote tax range), extracted by `scripts/extract_facts.py` (deepseek-v4-pro) with a verbatim evidence quote each; facts whose quote is not found on the page are dropped. 55 investment minimums, 152 remote-visa and 106 tax values for 163 countries.
