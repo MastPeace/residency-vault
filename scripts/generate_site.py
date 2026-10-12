@@ -1851,3 +1851,9 @@ def seo_pass():
 if __name__ == "__main__":
     build()
     print(f"SEO: canonical/OG on {seo_pass()} pages, sitemap.xml + robots.txt")
+    # verbatim root files (search-engine verification etc.), copied AFTER seo_pass so their content stays untouched
+    static = WIKI_DIR / "static"
+    if static.is_dir():
+        for f in static.iterdir():
+            if f.is_file():
+                shutil.copy(f, OUTPUT_DIR / f.name)

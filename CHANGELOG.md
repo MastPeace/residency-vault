@@ -15,6 +15,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Site integrity audit: ~650 dead in-page links (`[[#employment-residency]]` vs `employment_residency` ids) now resolve to the matching heading; unresolved anchors render as plain text; concept-to-concept links no longer point to `conditions/`; `[[usa]]` -> `[[united-states]]`; README counts 100 -> 163.
 
 ### Added
+- `static/` directory: files copied verbatim to the site root (Google Search Console verification file).
 - Custom domain `residencyradar.org` (GitHub Pages, Namecheap DNS); canonical/OG/sitemap/robots and README now use it.
 - Country flags (vendored PNGs in `assets/flags/`, ~650 KB) next to the country code on every country page and in the countries table.
 - Overview/"not advice" notice at the bottom of every country and program page and of the home page, expanded footer and README disclaimer.
