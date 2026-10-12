@@ -45,7 +45,7 @@ Ordered by speed. Ranges are rough assumptions, not market data.
 - **Distribution:** the product works, the audience does not exist yet. Stage 1 gates everything below it.
 
 ## Later / ideas
-- **Special residency conditions per country** — preferential or non-standard routes beyond the 10 canonical types: ancestry/heritage and repatriation programs, nationals of specific countries (treaty or quota regimes), refugee/humanitarian and temporary-protection statuses, special regimes for particular professions or regions. Needs its own schema section and a scope decision first (which categories, how to keep it comparable across countries).
+- **Special residency conditions per country** — a catch-all for residence programs that do not fit the 10 canonical types (SCHEMA taxonomy): ancestry/heritage and repatriation routes, regimes for nationals of specific countries (treaty/quota), humanitarian and temporary-protection statuses, special professional or regional schemes. Plan: add an "Other / special programs" section to the country page schema (free-form rows: program, who qualifies, conditions, source), collect it during the monitor pass, and promote a type to a canonical class once it shows up in many countries.
 
 ## Parked
 - Russian-language version (revisit when the English site has steady traffic)
