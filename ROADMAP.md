@@ -15,10 +15,10 @@ Overview-level, source-cited, continuously monitored reference for residency and
 - [x] Disclaimer in the Telegram bot (all answers, /start, /subscribe, Stars invoices); channel digest posts and bot profile description still to cover
 
 ## Stage 1 — Be findable (traffic is currently ~0)
-- [ ] Register the site in Google Search Console and Bing Webmaster Tools, submit `sitemap.xml` (owner action: needs the Google account)
+- [x] Site verified in Google Search Console and Bing Webmaster Tools (verification files in `static/`); sitemap submission = owner action
 - [x] Custom domain residencyradar.org connected to GitHub Pages (Oct 2026)
 - [ ] Check indexing after 1-2 weeks (`site:residencyradar.org`)
-- [ ] SEO pass on country/program pages: titles and descriptions per target query ("Portugal D7 visa requirements 2026"), structured data (FAQ/Article), internal links between countries and programs
+- [x] SEO pass on country/program pages (data-driven titles/descriptions, JSON-LD, internal links, social card); FAQ markup skipped (Google shows it only for gov/health sites)
 - [ ] Backlinks / distribution: Telegram channel @migrate_easy, relevant communities, Reddit/HN-style launch post, lists of "digital nomad visa" resources
 - [x] Public weekly changes section `/changes/` (one page per week with changes, auto-built from the weekly alert)
 
