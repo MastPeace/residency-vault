@@ -2,6 +2,7 @@
 title: Chile — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, digital-nomad, rentista, investor, mercosur]
 category: multi
@@ -162,6 +163,68 @@ Not a major yachting hub. Standard foreign-flag vessel rules apply. No special y
 | Freedom House score | 94/100 (Free) | [Freedom House](https://freedomhouse.org/country/chile/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,500 h (Santiago) | [Current Results](https://www.currentresults.com/Weather/Chile/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~15 °C (Santiago); extreme variation: Atacama desert to Patagonian ice fields | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/chile/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 756 556 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=CL) — hard/official |
+| Geography & size | Population density | 27 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=CL) — hard/official |
+| Geography & size | Urban population | 89% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=CL) — hard/official |
+| Geography & size | Coastline | 6,435 km | [source](https://geofactbook.com/countries/chile/coastline) — soft/estimate |
+| Geography & size | Highest point | Ojos del Salado, 6,893 m | [source](https://en.wikipedia.org/wiki/Chile) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Chile) — soft/estimate |
+| Geography & size | Time zone | UTC-4 (CLT) mainland, UTC-6 (Easter Island), 7-9h behind Moscow | [source](https://en.wikipedia.org/wiki/Chile) — soft/estimate |
+| Climate | Avg precipitation | 1522 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=CL) — hard/official |
+| Climate | PM2.5 exposure | 23.1 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=CL) — hard/official |
+| Climate | Climate zone | BWk (cold desert) north, Csb (warm-summer Mediterranean) central, Cfb (oceanic) south | [source](https://en.wikipedia.org/wiki/Climate_of_Chile) — soft/estimate |
+| Climate | Temp winter / summer | Santiago: avg 21°C (Jan, summer), 8°C (Jul, winter) | [source](https://en.wikipedia.org/wiki/Santiago) — soft/estimate |
+| Climate | Rainy days | Santiago: ~40 days/year with rain | [source](https://en.wikipedia.org/wiki/Santiago) — soft/estimate |
+| Climate | Humidity | ~62% annual avg (Santiago) | [source](https://en.wikipedia.org/wiki/Santiago) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, tsunamis, volcanic activity, wildfires | [source](https://en.wikipedia.org/wiki/Chile) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5: ~16 μg/m³ (2024); severe winter pollution in Santiago | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $357.4B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CL) — hard/official |
+| Economy | GDP growth | 2.5% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CL) — hard/official |
+| Economy | Inflation (CPI) | 4.2% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=CL) — hard/official |
+| Economy | Unemployment | 9.0% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=CL) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 43.0 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=CL) — hard/official |
+| Economy | Tourism receipts | 1% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=CL) — hard/official |
+| Economy | Remittances | 0.0% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=CL) — hard/official |
+| Economy | Credit rating | S&P A (stable), Moody's A2 (stable), Fitch A- (stable, 2025) | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-chile-at-a-outlook-stable-26-09-2025) — hard/official |
+| Economy | Currency | CLP, free float, ~28% depreciation vs USD 2020-2025 | [source](https://en.wikipedia.org/wiki/Chilean_peso) — soft/estimate |
+| Economy | Top industries | Services ~63%, mining (copper, lithium) ~12%, manufacturing ~10% | [source](https://en.wikipedia.org/wiki/Economy_of_Chile) — soft/estimate |
+| Economy | Economic Complexity | ECI rank: 76 (2023) | [source](https://atlas.hks.harvard.edu/rankings) — soft/estimate |
+| Technology | Internet users | 96% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CL) — hard/official |
+| Technology | Fixed broadband subs | 23.7 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=CL) — hard/official |
+| Technology | High-tech exports | 8.6% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=CL) — hard/official |
+| Technology | R&D spend | 0.39% of GDP (2022) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=CL) — hard/official |
+| Technology | Global Innovation Index | Rank 49 (GII 2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.8001, rank 34 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/42-Chile) — hard/official |
+| Technology | Median broadband speed | Fixed broadband: ~240 Mbps, rank 2 in Latin America (2024) | [source](https://www.speedtest.net/global-index/chile) — hard/official |
+| Technology | 5G | 5G covers ~45% of population, deployed by Entel, Movistar, WOM | unsourced/unverified |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank: 33 (2024) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 81.4 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CL) — hard/official |
+| Human development & health | Hospital beds | 1.9 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=CL) — hard/official |
+| Human development & health | HDI | 0.860, rank 44 of 193 (2023) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | Rank 40, score 1.754 (2024) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise increased caution | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Chile.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 1-25% progressive; capital gains taxed as ordinary income | [source](https://taxsummaries.pwc.com/chile/individual/income-determination) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply (controlled foreign corporation regime) | [source](https://taxsummaries.pwc.com/chile/corporate/income-determination) — soft/estimate |
+| Business | Company setup | ~6 days, cost ~0.7% of GNI per capita (2020); online registration available | unsourced/unverified |
+| Business | Corporate tax | 27% (First Category Tax, 2025) | [source](https://taxfoundation.org/data/all/global/corporate-tax-rates-by-country-2024) — soft/estimate |
+| Family & education | Top university | Pontificia Universidad Catolica de Chile, QS rank 93 (2025) | unsourced/unverified |
+| Connectivity | Visa-free for Russians | Visa-free for tourism up to 90 days (as of 2024) | [source](https://embassyinformation.com/visa/ru/chile) — soft/estimate |
+| For Russian citizens | Sanctions position | Chile has not independently imposed sanctions on Russia; voted in favor of UN resolutions condemning invasion | [source](https://2021-2025.state.gov/reports/2024-investment-climate-statements/chile) — hard/official |
+| Quality of life | World Happiness rank | Rank 51 (2025 World Happiness Report) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | Rank 11 (InterNations Expat Insider 2024) | [source](https://www.internations.org/expat-insider/2024) — hard/official |
+| Quality of life | Local language need | EF EPI rank 50, moderate proficiency (score 517); Spanish dominant, English limited outside business/tourism | [source](https://en.wikipedia.org/wiki/EF_English_Proficiency_Index) — soft/estimate |
 
 ## Country Card
 

@@ -2,6 +2,7 @@
 title: Cayman Islands — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, clear_pathway]
 category: clear_pathway
@@ -106,6 +107,68 @@ Expat finance workers and wealthy retirees dominate discussion: the zero-tax env
 | Freedom House score | No reliable data (territory; not separately scored) | [Freedom House](https://freedomhouse.org/) low |
 | Average annual sunshine hours | ~2,900 h | [Wikipedia](https://en.wikipedia.org/wiki/Cayman_Islands#Climate) hard/official |
 | Average annual temperature | ~27 °C | [Wikipedia](https://en.wikipedia.org/wiki/Cayman_Islands#Climate) hard/official |
+
+## Extended Snapshot
+
+_Coverage: 44/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 264 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=KY) — hard/official |
+| Geography & size | Population density | 310 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=KY) — hard/official |
+| Geography & size | Urban population | 100% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=KY) — hard/official |
+| Geography & size | Coastline | 160 km | [source](https://en.wikipedia.org/wiki/Geography_of_the_Cayman_Islands) — soft/estimate |
+| Geography & size | Highest point | The Bluff (Cayman Brac), 43 m | [source](https://en.wikipedia.org/wiki/Geography_of_the_Cayman_Islands) — soft/estimate |
+| Geography & size | Type | archipelago | [source](https://en.wikipedia.org/wiki/Cayman_Islands) — soft/estimate |
+| Geography & size | Time zone | UTC-5 (EST), 8h behind Moscow | [source](https://en.wikipedia.org/wiki/Cayman_Islands) — soft/estimate |
+| Climate | Avg precipitation | No reliable data | — |
+| Climate | PM2.5 exposure | No reliable data | — |
+| Climate | Climate zone | Aw (tropical wet and dry / savanna) | [source](https://en.wikipedia.org/wiki/Geography_of_the_Cayman_Islands) — soft/estimate |
+| Climate | Temp winter / summer | George Town: avg 24°C (Jan), 29°C (Jul) | [source](https://en.wikipedia.org/wiki/George_Town,_Cayman_Islands) — soft/estimate |
+| Climate | Rainy days | George Town: ~120 days/year with rain | [source](https://www.weather.gov.ky/climate) — soft/estimate |
+| Climate | Humidity | ~78% annual avg | [source](https://www.weather.gov.ky/climate) — soft/estimate |
+| Climate | Natural hazards | Hurricanes (June-November), tropical storms | [source](https://en.wikipedia.org/wiki/Geography_of_the_Cayman_Islands) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5: ~6 μg/m³ (2024 est.) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $7.8B (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KY) — hard/official |
+| Economy | GDP growth | 3.8% (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=KY) — hard/official |
+| Economy | Inflation (CPI) | No reliable data | — |
+| Economy | Unemployment | No reliable data | — |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 23% of exports (2019) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=KY) — hard/official |
+| Economy | Remittances | 0.1% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=KY) — hard/official |
+| Economy | Credit rating | Moody's Aa3 (stable, 2025) | [source](https://www.caymancompass.com/2025/07/04/moodys-reaffirms-caymans-aa3-ratings/) — soft/estimate |
+| Economy | Currency | KYD, pegged to USD (1 KYD = 1.20 USD) | [source](https://en.wikipedia.org/wiki/Cayman_Islands_dollar) — soft/estimate |
+| Economy | Top industries | Financial services ~55%, tourism ~30%, real estate ~15% | [source](https://en.wikipedia.org/wiki/Economy_of_the_Cayman_Islands) — soft/estimate |
+| Economy | Economic Complexity | Not ranked (Overseas Territory) | [source](https://atlas.hks.harvard.edu/rankings) — soft/estimate |
+| Technology | Internet users | No reliable data | — |
+| Technology | Fixed broadband subs | 56.4 per 100 people (2022) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=KY) — hard/official |
+| Technology | High-tech exports | 85.5% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=KY) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | Not ranked (Overseas Territory) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | Not separately ranked (UK Overseas Territory) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | Fixed broadband: ~150 Mbps (2024 est.) | [source](https://www.speedtest.net/global-index) — soft/estimate |
+| Technology | 5G | 5G deployed by major carriers (Flow, Digicel) | [source](https://www.caymancompass.com/) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Not ranked individually (UK Overseas Territory) | [source](https://www.startupblink.com/) — hard/official |
+| Human development & health | Life expectancy | 80.5 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=KY) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | Not separately ranked by UNDP (UK Overseas Territory) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | Not ranked in GPI 2024 (Overseas Territory) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 1: Exercise normal precautions | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/CaymanIslands.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; no capital gains tax | [source](https://www.pwc.com/ky/en/tax.html) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (tax-neutral jurisdiction) | [source](https://www.pwc.com/ky/en/tax.html) — soft/estimate |
+| Business | Company setup | ~3 days, cost ~$900 (simple registration) | [source](https://www.caymanenterprisecity.com/) — soft/estimate |
+| Business | Corporate tax | 0% (no corporate income tax) | [source](https://www.pwc.com/ky/en/tax.html) — soft/estimate |
+| Family & education | Top university | No universities; tertiary education abroad | [source](https://en.wikipedia.org/wiki/Cayman_Islands) — soft/estimate |
+| Connectivity | Visa-free for Russians | UK visa required (Cayman Islands follows UK visa policy) | [source](https://www.gov.uk/foreign-travel-advice/cayman-islands/entry-requirements) — hard/official |
+| For Russian citizens | Sanctions position | Follows UK sanctions on Russia; full alignment | [source](https://researchbriefings.files.parliament.uk/documents/CBP-9485/CBP-9485.pdf) — soft/estimate |
+| Quality of life | World Happiness rank | Not ranked (Overseas Territory) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | Not ranked individually in InterNations Expat Insider 2024 | [source](https://www.internations.org/expat-insider/2024) — hard/official |
+| Quality of life | Local language need | English is the official language; widely spoken | [source](https://en.wikipedia.org/wiki/Cayman_Islands) — soft/estimate |
 
 ## Country Card
 

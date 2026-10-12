@@ -2,6 +2,7 @@
 title: Cabo Verde — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 last_checked: 2026-10-11
 type: entity
 tags: [residence, citizenship, investment_residency, digital-nomad, tax]
@@ -106,6 +107,68 @@ Low but positive. The Green Card is cheap but little-known; the nomad visa is we
 | Freedom House score | 92/100 — Free (2026) | [Freedom House](https://freedomhouse.org/country/cabo-verde/freedom-world/2026) — hard/official |
 | Average annual sunshine hours | ~3,000 h | [Weather & Climate](https://weather-and-climate.com/average-monthly-hours-Sunshine,Cape-Verde) — hard/official |
 | Average annual temperature | ~24 °C | [Climates to Travel](https://www.climatestotravel.com/climate/cape-verde) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 4 030 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=CV) — hard/official |
+| Geography & size | Population density | 130 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=CV) — hard/official |
+| Geography & size | Urban population | 78% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=CV) — hard/official |
+| Geography & size | Coastline | 965 km | [source](https://en.wikipedia.org/wiki/Geography_of_Cape_Verde) — soft/estimate |
+| Geography & size | Highest point | Pico do Fogo, 2,829 m | [source](https://en.wikipedia.org/wiki/Geography_of_Cape_Verde) — soft/estimate |
+| Geography & size | Type | archipelago | [source](https://en.wikipedia.org/wiki/Cape_Verde) — soft/estimate |
+| Geography & size | Time zone | UTC-1 (CVT), 4h behind Moscow | [source](https://en.wikipedia.org/wiki/Cape_Verde) — soft/estimate |
+| Climate | Avg precipitation | 228 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=CV) — hard/official |
+| Climate | PM2.5 exposure | 20.2 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=CV) — hard/official |
+| Climate | Climate zone | BWh (hot desert), some islands Aw (tropical savanna) | [source](https://en.wikipedia.org/wiki/Geography_of_Cape_Verde) — soft/estimate |
+| Climate | Temp winter / summer | Praia: avg 22°C (Feb), 27°C (Sep) | [source](https://en.wikipedia.org/wiki/Cape_Verde) — soft/estimate |
+| Climate | Rainy days | Praia: ~22 days/year | [source](https://www.sunheron.com/africa/cabo-verde/praia-weather-climate) — soft/estimate |
+| Climate | Humidity | ~70% annual avg | [source](https://www.caboverdeinfo.com/en/seasonal) — soft/estimate |
+| Climate | Natural hazards | Drought, volcanic activity, occasional hurricanes | [source](https://en.wikipedia.org/wiki/Cape_Verde) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5: ~8.5 μg/m³ (2024) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $3.1B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CV) — hard/official |
+| Economy | GDP growth | 6.3% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CV) — hard/official |
+| Economy | Inflation (CPI) | 2.3% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=CV) — hard/official |
+| Economy | Unemployment | 11.9% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=CV) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 40% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=CV) — hard/official |
+| Economy | Remittances | 11.7% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=CV) — hard/official |
+| Economy | Credit rating | S&P B+/B (stable), Fitch B (stable, 2025) | [source](https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/101700842) — hard/official |
+| Economy | Currency | CVE, pegged to EUR (110.265 CVE = 1 EUR), ~5% depreciation vs USD 2020-2025 | [source](https://en.wikipedia.org/wiki/Economy_of_Cape_Verde) — soft/estimate |
+| Economy | Top industries | Services (commerce, transport, tourism, public) ~70%, agriculture ~9%, fishing ~1.5% | [source](https://en.wikipedia.org/wiki/Economy_of_Cape_Verde) — soft/estimate |
+| Economy | Economic Complexity | ECI rank: 120 (2023) | [source](https://atlas.hks.harvard.edu/rankings) — soft/estimate |
+| Technology | Internet users | 75% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CV) — hard/official |
+| Technology | Fixed broadband subs | 8.3 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=CV) — hard/official |
+| Technology | High-tech exports | 1.2% of manufactured exports (2023) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=CV) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | Not ranked in GII 2024 top 133 | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.5837, rank 112 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/38-Cabo-Verde) — hard/official |
+| Technology | Median broadband speed | Fixed broadband: ~45 Mbps (2024 est.) | [source](https://www.speedtest.net/global-index) — soft/estimate |
+| Technology | 5G | 5G not yet commercially deployed | [source](https://datahub.itu.int/data?e=CPV&i=100095&v=chart) — hard/official |
+| Technology | Online payments | Stripe not available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank: 112 (2024) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 76.2 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CV) — hard/official |
+| Human development & health | Hospital beds | 2.2 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=CV) — hard/official |
+| Human development & health | HDI | 0.668, rank 135 of 193 (2023) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | Not ranked in GPI 2024 | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 1: Exercise normal precautions | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/CaboVerde.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains tax 0% on listed securities | [source](https://taxsummaries.pwc.com/cabo-verde) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules | [source](https://taxsummaries.pwc.com/cabo-verde) — soft/estimate |
+| Business | Company setup | ~11 days, cost ~14.2% of GNI per capita (2020) | [source](https://archive.doingbusiness.org/content/dam/doingBusiness/country/c/cabo-verde/CPV.pdf) — soft/estimate |
+| Business | Corporate tax | 22% standard rate | [source](https://taxsummaries.pwc.com/cabo-verde) — soft/estimate |
+| Family & education | Top university | University of Cape Verde (not in QS top 1000) | [source](https://www.timeshighereducation.com/world-university-rankings/university-cape-verde) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free for stays up to 60 days (extendable to 90) | [source](https://www.gov.cv/en/paises-isentos-de-visto-para-cabo-verde) — hard/official |
+| For Russian citizens | Sanctions position | Has not imposed sanctions on Russia; voted in favor of UN resolutions condemning invasion | [source](https://gadebate.un.org/en/81/cabo-verde) — hard/official |
+| Quality of life | World Happiness rank | Rank 73 (2025 World Happiness Report) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | Not ranked in InterNations Expat Insider 2024 | [source](https://www.internations.org/expat-insider/2024) — hard/official |
+| Quality of life | Local language need | EF EPI not ranked; Portuguese official, English limited | [source](https://www.ef.com/wwen/epi) — hard/official |
 
 ## Country Card
 

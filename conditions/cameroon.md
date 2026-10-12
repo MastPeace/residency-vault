@@ -2,6 +2,7 @@
 title: Cameroon — Republic of Cameroon
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, employment_residency, investment_residency, tax]
 category: clear_pathway
@@ -97,6 +98,68 @@ Limited English-language expat forum data. Expat presence is concentrated in inf
 | Freedom House score | 15/100 — Not Free (2025) | ^[https://freedomhouse.org/country/cameroon/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,500 h | ^[https://en.climate-data.org/africa/cameroon/] hard/official |
 | Average annual temperature | ~25 °C (tropical; cooler highlands) | ^[https://en.climate-data.org/africa/cameroon/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 475 442 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=CM) — hard/official |
+| Geography & size | Population density | 62 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=CM) — hard/official |
+| Geography & size | Urban population | 56% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=CM) — hard/official |
+| Geography & size | Coastline | 402 km | [source](https://en.wikipedia.org/wiki/Geography_of_Cameroon) — soft/estimate |
+| Geography & size | Highest point | Mount Cameroon, 4,040 m | [source](https://en.wikipedia.org/wiki/Cameroon) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Cameroon) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (WAT), 2h behind Moscow | [source](https://en.wikipedia.org/wiki/Cameroon) — soft/estimate |
+| Climate | Avg precipitation | 1604 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=CM) — hard/official |
+| Climate | PM2.5 exposure | 55.6 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=CM) — hard/official |
+| Climate | Climate zone | Am (tropical monsoon) south, Aw (tropical savanna) north, BSh (hot semi-arid) far north | [source](https://en.wikipedia.org/wiki/Geography_of_Cameroon) — soft/estimate |
+| Climate | Temp winter / summer | Yaounde: avg 24°C (Jan), 25°C (Jul) | [source](https://en.wikipedia.org/wiki/Yaounde) — soft/estimate |
+| Climate | Rainy days | Yaounde: ~160 days/year | [source](https://en.wikipedia.org/wiki/Yaounde) — soft/estimate |
+| Climate | Humidity | ~80% annual avg (Yaounde) | [source](https://en.wikipedia.org/wiki/Yaounde) — soft/estimate |
+| Climate | Natural hazards | Volcanic activity (Mount Cameroon), floods, landslides | [source](https://en.wikipedia.org/wiki/Cameroon) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5: ~32.5 μg/m³ (2024) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $58.9B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CM) — hard/official |
+| Economy | GDP growth | 3.2% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CM) — hard/official |
+| Economy | Inflation (CPI) | 3.4% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=CM) — hard/official |
+| Economy | Unemployment | 3.6% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=CM) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 42.2 (2021) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=CM) — hard/official |
+| Economy | Tourism receipts | 7% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=CM) — hard/official |
+| Economy | Remittances | 1.3% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=CM) — hard/official |
+| Economy | Credit rating | S&P B (stable), Moody's B2 (stable), Fitch B (stable, 2024) | [source](https://countryeconomy.com/ratings/cameroon) — soft/estimate |
+| Economy | Currency | XAF, pegged to EUR (655.957 XAF = 1 EUR), ~12% depreciation vs USD 2020-2025 | [source](https://en.wikipedia.org/wiki/Central_African_CFA_franc) — soft/estimate |
+| Economy | Top industries | Agriculture ~17%, industry (oil, mining) ~26%, services ~57% | [source](https://en.wikipedia.org/wiki/Economy_of_Cameroon) — soft/estimate |
+| Economy | Economic Complexity | ECI rank: 119 (2023) | [source](https://atlas.hks.harvard.edu/rankings) — soft/estimate |
+| Technology | Internet users | 46% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CM) — hard/official |
+| Technology | Fixed broadband subs | 2.1 per 100 people (2022) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=CM) — hard/official |
+| Technology | High-tech exports | 2.1% of manufactured exports (2023) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=CM) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | Not ranked in GII 2024 top 133 | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.3744, rank 156 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/30-Cameroon) — hard/official |
+| Technology | Median broadband speed | Fixed broadband: 33.45 Mbps, rank 144 (Aug 2026) | [source](https://www.speedtest.net/global-index/cameroon) — hard/official |
+| Technology | 5G | 5G limited deployment, mainly major cities (2024) | [source](https://datahub.itu.int/data?e=CMR&i=100095&v=chart) — hard/official |
+| Technology | Online payments | Stripe not available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank: 97 (2024) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 64.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CM) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | 0.588, rank 155 of 193 (2023) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | Rank 92, score 2.053 (2024) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 3: Reconsider travel (some areas Level 4) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Cameroon.html) — hard/official |
+| Money & tax | FATF status | On FATF grey list (increased monitoring) (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax with progressive rates; capital gains tax 16.5% | [source](https://taxsummaries.pwc.com/republic-of-cameroon) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply | [source](https://taxsummaries.pwc.com/republic-of-cameroon) — soft/estimate |
+| Business | Company setup | ~15 days, cost ~24.8% of GNI per capita (2020) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/cameroon) — soft/estimate |
+| Business | Corporate tax | 30% standard rate (plus 10% surcharge) | [source](https://taxsummaries.pwc.com/republic-of-cameroon/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | University of Yaounde I (not in QS top 1000) | [source](https://www.topuniversities.com/university-rankings) — hard/official |
+| Connectivity | Visa-free for Russians | Visa required for Russian citizens; eVisa available | [source](https://en.wikipedia.org/wiki/Visa_policy_of_Cameroon) — soft/estimate |
+| For Russian citizens | Sanctions position | Not aligned with sanctions; some Russia-linked trade concerns reported | [source](https://www.businessincameroon.com/public-management/0304-13696) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 110 (2025 World Happiness Report) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | Not ranked in InterNations Expat Insider 2024 | [source](https://www.internations.org/expat-insider/2024) — hard/official |
+| Quality of life | Local language need | EF EPI rank 98, score 445, low proficiency; French and English official but English not widely spoken | [source](https://www.ef.com/wwen/epi/regions/africa/cameroon) — hard/official |
 
 ## Country Card
 

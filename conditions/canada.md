@@ -2,6 +2,7 @@
 title: Canada — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, express-entry, strong_passport, clear_pathway]
 category: strong_passport
@@ -147,6 +148,68 @@ Canada maintains sanctions against Russia. Visitor visa and study permit process
 | Freedom House score | 97/100 (Free) | [Freedom House](https://freedomhouse.org/country/canada/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,000–2,100 h (Toronto 2,066h, Vancouver 1,938h) | [Current Results / Environment Canada](https://www.currentresults.com/Weather/Canada/Cities/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~−5°C to 20°C by season; annual mean ~2°C to ~10°C depending on region | [Environment Canada](https://climate.weather.gc.ca/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 15 634 410 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=CA) — hard/official |
+| Geography & size | Population density | 5 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=CA) — hard/official |
+| Geography & size | Urban population | 83% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=CA) — hard/official |
+| Geography & size | Coastline | 243,042 km (world's longest) | [source](https://en.wikipedia.org/wiki/Geography_of_Canada) — soft/estimate |
+| Geography & size | Highest point | Mount Logan, 5,959 m | [source](https://en.wikipedia.org/wiki/Geography_of_Canada) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Canada) — soft/estimate |
+| Geography & size | Time zone | UTC-8 to UTC-3.5 (6 time zones), 8-11h behind Moscow | [source](https://en.wikipedia.org/wiki/Canada) — soft/estimate |
+| Climate | Avg precipitation | 537 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=CA) — hard/official |
+| Climate | PM2.5 exposure | 6.6 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=CA) — hard/official |
+| Climate | Climate zone | Dfb (humid continental) south; Dfc (subarctic) north; ET (tundra) far north | [source](https://en.wikipedia.org/wiki/Geography_of_Canada) — soft/estimate |
+| Climate | Temp winter / summer | Ottawa: avg -10°C (Jan), 21°C (Jul) | [source](https://en.wikipedia.org/wiki/Ottawa) — soft/estimate |
+| Climate | Rainy days | Ottawa: ~163 days/year with precipitation | [source](https://en.wikipedia.org/wiki/Ottawa) — soft/estimate |
+| Climate | Humidity | ~72% annual avg (Ottawa) | [source](https://en.wikipedia.org/wiki/Ottawa) — soft/estimate |
+| Climate | Natural hazards | Wildfires (May-Sep), floods, ice storms, earthquakes (west coast) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Canada.html) — hard/official |
+| Climate | Air quality | Annual mean PM2.5: ~7.4 μg/m³ (2024) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $2.3T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CA) — hard/official |
+| Economy | GDP growth | 1.7% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CA) — hard/official |
+| Economy | Inflation (CPI) | 2.1% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=CA) — hard/official |
+| Economy | Unemployment | 6.9% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=CA) — hard/official |
+| Economy | Central govt debt | 64% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=CA) — hard/official |
+| Economy | Gini index | 31.5 (2022) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=CA) — hard/official |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 0.0% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=CA) — hard/official |
+| Economy | Credit rating | S&P AAA (stable), Moody's Aaa (stable), Fitch AA+ (stable) | [source](https://www.fitchratings.com/entity/canada-80442192) — hard/official |
+| Economy | Currency | CAD, free float, ~8% depreciation vs USD 2020-2025 | [source](https://www.bankofcanada.ca/rates/exchange/) — soft/estimate |
+| Economy | Top industries | Services ~70%, manufacturing ~10%, mining/oil/gas ~8% | [source](https://en.wikipedia.org/wiki/Economy_of_Canada) — soft/estimate |
+| Economy | Economic Complexity | ECI rank: 41 (2023) | [source](https://atlas.hks.harvard.edu/rankings) — soft/estimate |
+| Technology | Internet users | 94% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CA) — hard/official |
+| Technology | Fixed broadband subs | 42.5 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=CA) — hard/official |
+| Technology | High-tech exports | 16.1% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=CA) — hard/official |
+| Technology | R&D spend | 1.79% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=CA) — hard/official |
+| Technology | Global Innovation Index | Rank 14 (GII 2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.8994, rank 10 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/37-Canada) — hard/official |
+| Technology | Median broadband speed | Fixed broadband: median ~210 Mbps (2024) | [source](https://www.speedtest.net/global-index/canada) — hard/official |
+| Technology | 5G | 5G covers ~70%+ of population (2024) | [source](https://www.telus.com/en/about/news-and-events/media-releases/telus-5g-network-now-reaches-70-of-the-canadian-population) — soft/estimate |
+| Technology | Online payments | Stripe available; Apple Pay and PayPal widely supported | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank: 4 (2024) | [source](https://www.startupblink.com/startup-ecosystem/canada) — soft/estimate |
+| Human development & health | Life expectancy | 82.1 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CA) — hard/official |
+| Human development & health | Hospital beds | 2.5 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=CA) — hard/official |
+| Human development & health | HDI | 0.935, rank 18 of 193 (2023) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | Rank 11, score 1.415 (2024) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 1: Exercise normal precautions | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Canada.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax (deemed disposition at death); capital gains 50% inclusion rate (2025) | [source](https://www.pwc.com/ca/en/services/tax.html) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC (Foreign Affiliate) rules apply | [source](https://www.pwc.com/ca/en/services/tax.html) — soft/estimate |
+| Business | Company setup | ~2 days, cost ~0.3% of GNI per capita (2020) | unsourced/unverified |
+| Business | Corporate tax | 15% federal + provincial (combined ~26.5% avg, 2025) | [source](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/corporation-tax-rates.html) — soft/estimate |
+| Family & education | Top university | University of Toronto, QS rank 25 (2025) | [source](https://www.topuniversities.com/university-rankings) — hard/official |
+| Connectivity | Visa-free for Russians | Visa required; strict sanctions-related restrictions apply; processing ~8 weeks | [source](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html) — soft/estimate |
+| For Russian citizens | Sanctions position | Comprehensive sanctions on Russia since 2014 (expanded 2022); one of the strictest regimes | [source](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/sanctions/russia-russie.aspx) — hard/official |
+| Quality of life | World Happiness rank | Rank 18 (2025 World Happiness Report) | [source](https://www.cbc.ca/news/canada/world-happiness-report-canada-1.7488467) — soft/estimate |
+| Quality of life | Expat friendliness | Rank 32 (InterNations Expat Insider 2024) | [source](https://www.internations.org/expat-insider/2024) — hard/official |
+| Quality of life | Local language need | EF EPI rank 4, very high proficiency; English is an official language | [source](https://www.ef.com/wwen/epi) — hard/official |
 
 ## Country Card
 
