@@ -2,6 +2,7 @@
 title: St Kitts & Nevis — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-13
 type: entity
 tags: [citizenship, citizenship_by_investment, cbi, strong_passport, tax]
 category: strong_passport
@@ -96,6 +97,68 @@ St Kitts & Nevis operates an international ship registry. Yacht registration ava
 | Freedom House score | 89/100 (Free) | [Freedom House](https://freedomhouse.org/country/st-kitts-and-nevis/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,700 h | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis#Climate) — hard/official |
 | Average annual temperature | ~26 °C | [Wikipedia / Climate](https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 41/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 261 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=KN) — hard/official |
+| Geography & size | Population density | 179 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=KN) — hard/official |
+| Geography & size | Urban population | 32% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=KN) — hard/official |
+| Geography & size | Coastline | 135 km (2020) | [source](https://en.wikipedia.org/wiki/Geography_of_Saint_Kitts_and_Nevis) — soft/estimate |
+| Geography & size | Highest point | Mount Liamuiga, 1,156 m | [source](https://en.wikipedia.org/wiki/Mount_Liamuiga) — soft/estimate |
+| Geography & size | Type | island (two-island federation) | [source](https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis) — soft/estimate |
+| Geography & size | Time zone | UTC-4 (AST), Moscow-7h | [source](https://en.wikipedia.org/wiki/Time_in_Saint_Kitts_and_Nevis) — soft/estimate |
+| Climate | Avg precipitation | 1427 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=KN) — hard/official |
+| Climate | PM2.5 exposure | 8.9 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=KN) — hard/official |
+| Climate | Climate zone | Aw tropical savanna | [source](https://en.wikipedia.org/wiki/Geography_of_Saint_Kitts_and_Nevis) — soft/estimate |
+| Climate | Temp winter / summer | Basseterre: Jan avg 25°C, Jul avg 28°C | [source](https://en.wikipedia.org/wiki/Basseterre) — soft/estimate |
+| Climate | Rainy days | ~200 rainy days/year | [source](https://en.wikipedia.org/wiki/Geography_of_Saint_Kitts_and_Nevis) — soft/estimate |
+| Climate | Humidity | ~75% avg annual relative humidity | [source](https://en.wikipedia.org/wiki/Geography_of_Saint_Kitts_and_Nevis) — soft/estimate |
+| Climate | Natural hazards | Hurricanes, tropical storms | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | PM2.5 8.9 μg/m³ (World Bank, 2023) | [source](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3) — hard/official |
+| Economy | GDP (nominal) | $1.2B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KN) — hard/official |
+| Economy | GDP growth | 2.7% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=KN) — hard/official |
+| Economy | Inflation (CPI) | 3.6% (2023) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=KN) — hard/official |
+| Economy | Unemployment | No reliable data | — |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 62% of exports (2018) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=KN) — hard/official |
+| Economy | Remittances | 3.4% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=KN) — hard/official |
+| Economy | Credit rating | Not rated by S&P/Moody's/Fitch | unsourced/unverified |
+| Economy | Currency | XCD (Eastern Caribbean Dollar), pegged to USD at 2.70 | [source](https://www.eccb-centralbank.org/) — soft/estimate |
+| Economy | Top industries | Tourism (33% of GDP), financial services, agriculture | [source](https://www.state.gov/reports/2024-investment-climate-statements/saint-kitts-and-nevis/) — hard/official |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 77% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=KN) — hard/official |
+| Technology | Fixed broadband subs | 46.7 per 100 people (2022) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=KN) — hard/official |
+| Technology | High-tech exports | No reliable data | — |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | No reliable data | — |
+| Technology | E-Government (UN EGDI) | 0.5823, rank 110th (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | Fixed broadband ~25 Mbps (Ookla, 2025 estimate) | [source](https://www.speedtest.net/global-index) — soft/estimate |
+| Technology | 5G | Limited rollout in progress (2025) | unsourced/unverified |
+| Technology | Online payments | Stripe not available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 72.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=KN) — hard/official |
+| Human development & health | Hospital beds | 4.0 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=KN) — hard/official |
+| Human development & health | HDI | 0.838, rank 51st (UNDP 2023) | [source](https://hdr.undp.org/data-center/human-development-index) — hard/official |
+| Safety | Global Peace Index | No reliable data | — |
+| Safety | US travel advisory | Level 1: Exercise normal precautions | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/SaintKittsandNevis.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax, no inheritance tax, no capital gains tax | [source](https://taxsummaries.pwc.com/saint-kitts-and-nevis) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules | [source](https://taxsummaries.pwc.com/saint-kitts-and-nevis) — soft/estimate |
+| Business | Company setup | ~18-20 days, cost varies by entity type (2024) | [source](https://www.doingbusiness.org/en/data/exploreeconomies/st-kitts-and-nevis) — soft/estimate |
+| Business | Corporate tax | 33% standard rate (2024) | [source](https://taxsummaries.pwc.com/saint-kitts-and-nevis) — soft/estimate |
+| Family & education | Top university | No reliable data | — |
+| Connectivity | Visa-free for Russians | Visa-free; bilateral visa waiver agreement in force (2025) | unsourced/unverified |
+| For Russian citizens | Sanctions position | Joins international sanctions against Russia (2022) | unsourced/unverified |
+| Quality of life | World Happiness rank | No reliable data | — |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | English is the official language; widely spoken | [source](https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis) — soft/estimate |
 
 ## Country Card
 

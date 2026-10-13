@@ -2,6 +2,7 @@
 title: Spain — Residency & Citizenship Conditions
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, digital-nomad, passive-income, popular_ru, clear_pathway]
 category: popular_ru
@@ -157,6 +158,68 @@ The closure of the Golden Visa shifted focus entirely to NLV and DNV. DNV is gen
 | Freedom House score | 90/100 (Free) | [Freedom House](https://freedomhouse.org/country/spain/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,500 h (Barcelona 2,524; Madrid ~2,769; southern coast higher) | [Current Results](https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~14 °C (varies: coastal Mediterranean ~17 °C, interior ~12 °C) | [Wikipedia / AEMET](https://en.wikipedia.org/wiki/Spain#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 505 981 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=ES) — hard/official |
+| Geography & size | Population density | 98 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=ES) — hard/official |
+| Geography & size | Urban population | 81% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=ES) — hard/official |
+| Geography & size | Coastline | 4,964 km (mainland, 2020) | [source](https://en.wikipedia.org/wiki/Geography_of_Spain) — soft/estimate |
+| Geography & size | Highest point | Mount Teide, 3,718 m (Tenerife, Canary Islands) | [source](https://en.wikipedia.org/wiki/Teide) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Spain) — soft/estimate |
+| Geography & size | Time zone | UTC+1/+2 (CET/CEST), Moscow-2h/-1h | [source](https://en.wikipedia.org/wiki/Time_in_Spain) — soft/estimate |
+| Climate | Avg precipitation | 636 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=ES) — hard/official |
+| Climate | PM2.5 exposure | 10.1 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=ES) — hard/official |
+| Climate | Climate zone | Csa Mediterranean, BSk cold semi-arid, Cfb oceanic | [source](https://en.wikipedia.org/wiki/Climate_of_Spain) — soft/estimate |
+| Climate | Temp winter / summer | Madrid: Jan avg 6°C, Jul avg 26°C (1991-2020) | [source](https://en.wikipedia.org/wiki/Madrid) — soft/estimate |
+| Climate | Rainy days | Madrid: ~59 rainy days/year (1990-2020) | [source](https://en.wikipedia.org/wiki/Climate_of_Madrid) — soft/estimate |
+| Climate | Humidity | Madrid: ~57% avg annual relative humidity | [source](https://en.wikipedia.org/wiki/Climate_of_Madrid) — soft/estimate |
+| Climate | Natural hazards | Droughts, floods, heatwaves, wildfires. INFORM Risk very low (2025) | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | PM2.5 9.1 μg/m³ annual mean (IQAir 2025) | [source](https://www.iqair.com/spain) — soft/estimate |
+| Economy | GDP (nominal) | $1.9T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ES) — hard/official |
+| Economy | GDP growth | 2.8% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=ES) — hard/official |
+| Economy | Inflation (CPI) | 2.7% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=ES) — hard/official |
+| Economy | Unemployment | 10.4% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=ES) — hard/official |
+| Economy | Central govt debt | 106% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=ES) — hard/official |
+| Economy | Gini index | 33.4 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=ES) — hard/official |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 0.4% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=ES) — hard/official |
+| Economy | Credit rating | S&P A (stable), Moody's A1 (stable), Fitch A (stable) | [source](https://www.fitchratings.com/research/sovereigns/fitch-upgrades-spain-to-a-outlook-stable-26-09-2025) — hard/official |
+| Economy | Currency | EUR, free float, -6% vs USD 2021-2025 | [source](https://www.xe.com/currencycharts/?from=EUR&to=USD) — soft/estimate |
+| Economy | Top industries | Services (67.4%), industry (20.4%), agriculture (2.6%) of GDP (2024) | [source](https://www.cia.gov/the-world-factbook/countries/spain/) — hard/official |
+| Economy | Economic Complexity | ECI rank 33rd (OEC, 2023) | [source](https://oec.world/en/rankings/eci/hs6/hs17) — hard/official |
+| Technology | Internet users | 96% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=ES) — hard/official |
+| Technology | Fixed broadband subs | 39.2 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=ES) — hard/official |
+| Technology | High-tech exports | 9.3% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=ES) — hard/official |
+| Technology | R&D spend | 1.49% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=ES) — hard/official |
+| Technology | Global Innovation Index | 28th (WIPO GII 2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.8830, rank 18th (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | Fixed broadband median ~215 Mbps (Ookla, Aug 2026) | [source](https://www.speedtest.net/global-index/spain) — hard/official |
+| Technology | 5G | Extensive national coverage (2025) | [source](https://avancedigital.mineco.gob.es/banda-ancha/cobertura/Paginas/Consulta.aspx) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank 17th (2024) | [source](https://www.startupblink.com/startup-ecosystem/spain) — soft/estimate |
+| Human development & health | Life expectancy | 83.9 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=ES) — hard/official |
+| Human development & health | Hospital beds | 2.9 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=ES) — hard/official |
+| Human development & health | HDI | 0.919, rank 27th (UNDP 2023) | [source](https://hdr.undp.org/data-center/human-development-index) — hard/official |
+| Safety | Global Peace Index | Rank 23rd, score 1.597 (GPI 2025) | [source](https://www.visionofhumanity.org/global-peace-index) — hard/official |
+| Safety | US travel advisory | Level 2: Exercise increased caution (terrorism) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Spain.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | Wealth tax (Solidarity Tax on large fortunes), inheritance tax, capital gains 19-30% (2025) | [source](https://taxsummaries.pwc.com/spain) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply | [source](https://taxsummaries.pwc.com/spain) — soft/estimate |
+| Business | Company setup | ~15 days, cost ~EUR 300-400 in registration fees (2024) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/spain) — soft/estimate |
+| Business | Corporate tax | 25% general rate (2025) | [source](https://taxsummaries.pwc.com/spain/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Universitat de Barcelona, QS rank 172nd (2025) | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | Schengen visa required; suspended for Russian citizens (2025) | unsourced/unverified |
+| For Russian citizens | Sanctions position | Participates in EU sanctions against Russia (19 packages) | [source](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_5397) — hard/official |
+| Quality of life | World Happiness rank | Rank 38th, score 6.42 (World Happiness Report 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | Rank 1st in Quality of Life Index (InterNations Expat Insider 2024) | unsourced/unverified |
+| Quality of life | Local language need | EF EPI moderate; English spoken in tourist areas and major cities | [source](https://www.ef.com/wwen/epi) — soft/estimate |
 
 ## Country Card
 

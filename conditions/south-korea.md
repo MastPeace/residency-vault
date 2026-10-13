@@ -2,6 +2,7 @@
 title: South Korea — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, digital-nomad, investor-visa, strong_passport]
 category: strong_passport
@@ -153,6 +154,68 @@ Korea maintains sanctions against Russia and suspended most visa services for Ru
 | Average annual sunshine hours | ~2,200 h (Seoul); ~2,400 h (Busan) | [KMA](https://www.kma.g.kr/) — hard/official |
 | Average annual temperature | Seoul ~-6°C (Jan) to ~30°C (Aug); Busan ~-1°C to 31°C; Jeju ~6°C–30°C | [KMA](https://www.kma.g.kr/) — hard/official |
 
+
+## Extended Snapshot
+
+_Coverage: 53/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 100 460 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=KR) — hard/official |
+| Geography & size | Population density | 530 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=KR) — hard/official |
+| Geography & size | Urban population | 81% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=KR) — hard/official |
+| Geography & size | Coastline | 2,413 km (2020) | [source](https://en.wikipedia.org/wiki/Geography_of_South_Korea) — soft/estimate |
+| Geography & size | Highest point | Hallasan, 1,947 m | [source](https://en.wikipedia.org/wiki/Hallasan) — soft/estimate |
+| Geography & size | Type | mainland (peninsula) | [source](https://en.wikipedia.org/wiki/South_Korea) — soft/estimate |
+| Geography & size | Time zone | UTC+9 (KST), Moscow+6h | [source](https://en.wikipedia.org/wiki/Time_in_South_Korea) — soft/estimate |
+| Climate | Avg precipitation | 1274 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=KR) — hard/official |
+| Climate | PM2.5 exposure | 21.9 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=KR) — hard/official |
+| Climate | Climate zone | Dwa/Dfa humid continental, Cfa humid subtropical | [source](https://en.wikipedia.org/wiki/Geography_of_South_Korea) — soft/estimate |
+| Climate | Temp winter / summer | Seoul: Jan avg -4°C, Jul avg 24°C (1991-2020) | [source](https://en.wikipedia.org/wiki/Seoul) — soft/estimate |
+| Climate | Rainy days | Seoul: ~118 rainy days/year (1990-2020) | [source](https://en.wikipedia.org/wiki/Climate_of_Seoul) — soft/estimate |
+| Climate | Humidity | Seoul: 61.8% avg annual relative humidity | [source](https://en.wikipedia.org/wiki/Climate_of_Seoul) — soft/estimate |
+| Climate | Natural hazards | Typhoons, floods, earthquakes. INFORM Risk rank 55 of 192 (2026) | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | PM2.5 15.6 μg/m³ annual mean (2024) | unsourced/unverified |
+| Economy | GDP (nominal) | $1.9T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KR) — hard/official |
+| Economy | GDP growth | 1.0% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=KR) — hard/official |
+| Economy | Inflation (CPI) | 2.1% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=KR) — hard/official |
+| Economy | Unemployment | 2.7% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=KR) — hard/official |
+| Economy | Central govt debt | 48% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=KR) — hard/official |
+| Economy | Gini index | 32.9 (2021) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=KR) — hard/official |
+| Economy | Tourism receipts | 2% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=KR) — hard/official |
+| Economy | Remittances | 0.4% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=KR) — hard/official |
+| Economy | Credit rating | S&P AA (stable), Moody's Aa2 (stable), Fitch AA- (stable) | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-korea-at-aa-outlook-stable-2025) — hard/official |
+| Economy | Currency | KRW, free float, -24% vs USD 2021-2025 | [source](https://www.xe.com/currencycharts/?from=USD&to=KRW) — soft/estimate |
+| Economy | Top industries | Manufacturing (27% of GDP), services (60%), construction (2024) | [source](https://www.bok.or.kr/eng/main/main.do) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 4th (OEC, 2023) | [source](https://oec.world/en/rankings/eci/hs6/hs17) — hard/official |
+| Technology | Internet users | 98% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=KR) — hard/official |
+| Technology | Fixed broadband subs | 47.8 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=KR) — hard/official |
+| Technology | High-tech exports | 36.3% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=KR) — hard/official |
+| Technology | R&D spend | 4.94% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=KR) — hard/official |
+| Technology | Global Innovation Index | 6th (WIPO GII 2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.9676, rank 4th (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | Fixed broadband median ~172 Mbps (Ookla, Aug 2026) | [source](https://www.speedtest.net/global-index/south-korea) — hard/official |
+| Technology | 5G | Extensive; rank 1st in 5G infrastructure among OECD (2025) | [source](https://www.opensignal.com/reports/2025/12/southkorea/mobile-network-experience) — soft/estimate |
+| Technology | Online payments | Stripe available (accept payments without local entity) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank 16th (2024) | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 83.6 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=KR) — hard/official |
+| Human development & health | Hospital beds | 12.8 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=KR) — hard/official |
+| Human development & health | HDI | 0.937, rank 20th (UNDP 2023) | [source](https://hdr.undp.org/data-center/human-development-index) — hard/official |
+| Safety | Global Peace Index | Rank 41st, score 1.839 (GPI 2025) | [source](https://www.visionofhumanity.org/global-peace-index) — hard/official |
+| Safety | US travel advisory | Level 1: Exercise normal precautions | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/SouthKorea.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | Inheritance/gift tax up to 50%; capital gains 11-27.5% (2025) | [source](https://taxsummaries.pwc.com/republic-of-korea) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply | [source](https://taxsummaries.pwc.com/republic-of-korea) — soft/estimate |
+| Business | Company setup | ~8 days, cost KRW 30,000+ for seal + registration | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/korea) — soft/estimate |
+| Business | Corporate tax | 25% headline (9% for SMEs) (2024) | [source](https://taxsummaries.pwc.com/republic-of-korea/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Seoul National University, QS rank 38th (2026) | unsourced/unverified |
+| Connectivity | Visa-free for Russians | 60 days visa-free; K-ETA required (source: embassies.net, 2026) | [source](https://www.embassies.net/south-korea-visa-for-russian-citizens) — soft/estimate |
+| For Russian citizens | Sanctions position | Participates in international sanctions against Russia | [source](https://www.mofa.go.kr/eng/brd/m_5676/view.do?seq=322203) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 56th, score 5.94 (World Happiness Report 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | Ranked poorly; 49th of 53 in InterNations Expat Insider 2024 | [source](https://www.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 48, score 522 (moderate); English not widely spoken | [source](https://www.ef.com/wwen/epi) — soft/estimate |
 
 ## Country Card
 

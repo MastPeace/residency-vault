@@ -2,6 +2,7 @@
 title: Sri Lanka — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, tax, clear_pathway, investment-residency]
 category: clear_pathway
@@ -119,6 +120,68 @@ Sri Lanka is a low-cost, beautiful base but not a mainstream immigration destina
 | Freedom House score | 63/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/sri-lanka/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,700 h | [Current Results](https://www.currentresults.com/Weather/Sri-Lanka/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~27 °C | [Wikipedia](https://en.wikipedia.org/wiki/Sri_Lanka#Climate) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 65 610 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=LK) — hard/official |
+| Geography & size | Population density | 354 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=LK) — hard/official |
+| Geography & size | Urban population | 20% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=LK) — hard/official |
+| Geography & size | Coastline | 1,785 km (2020) | [source](https://en.wikipedia.org/wiki/Geography_of_Sri_Lanka) — soft/estimate |
+| Geography & size | Highest point | Pidurutalagala, 2,524 m | [source](https://en.wikipedia.org/wiki/Pidurutalagala) — soft/estimate |
+| Geography & size | Type | island | [source](https://en.wikipedia.org/wiki/Sri_Lanka) — soft/estimate |
+| Geography & size | Time zone | UTC+5:30 (SLST), Moscow+2:30 | [source](https://en.wikipedia.org/wiki/Time_in_Sri_Lanka) — soft/estimate |
+| Climate | Avg precipitation | 1712 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=LK) — hard/official |
+| Climate | PM2.5 exposure | 22.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=LK) — hard/official |
+| Climate | Climate zone | Af tropical rainforest, Am tropical monsoon | [source](https://climateknowledgeportal.worldbank.org/country/sri-lanka) — hard/official |
+| Climate | Temp winter / summer | Colombo: Jan avg 27°C, Jul avg 28°C (1991-2020) | [source](https://en.wikipedia.org/wiki/Colombo) — soft/estimate |
+| Climate | Rainy days | Colombo: ~150 rainy days/year (1990-2020) | [source](https://en.wikipedia.org/wiki/Colombo) — soft/estimate |
+| Climate | Humidity | Colombo: ~75% avg annual relative humidity | [source](https://en.wikipedia.org/wiki/Colombo) — soft/estimate |
+| Climate | Natural hazards | Floods, landslides, tsunamis, cyclones. INFORM Risk Medium (2025) | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — hard/official |
+| Climate | Air quality | Colombo: PM2.5 17.4 μg/m³ annual mean (2024) | [source](https://www.iqair.com/sri-lanka) — soft/estimate |
+| Economy | GDP (nominal) | $108.8B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LK) — hard/official |
+| Economy | GDP growth | 5.0% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=LK) — hard/official |
+| Economy | Inflation (CPI) | -4.8% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=LK) — hard/official |
+| Economy | Unemployment | 4.0% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=LK) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 37.7 (2019) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=LK) — hard/official |
+| Economy | Tourism receipts | 8% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=LK) — hard/official |
+| Economy | Remittances | 7.6% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=LK) — hard/official |
+| Economy | Credit rating | S&P CCC+, Moody's Ca, Fitch CCC+ (post-default restructuring, 2025) | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-sri-lanka-at-ccc-2025) — hard/official |
+| Economy | Currency | LKR, managed float, -36% vs USD 2021-2025 | [source](https://www.xe.com/currencycharts/?from=USD&to=LKR) — soft/estimate |
+| Economy | Top industries | Services 57.9%, industry 27.0%, agriculture 9.2% of GDP (2021) | [source](https://www.cbsl.gov.lk/) — hard/official |
+| Economy | Economic Complexity | ECI rank 82nd (OEC, 2023) | [source](https://oec.world/en/rankings/eci/hs6/hs17) — hard/official |
+| Technology | Internet users | 55% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=LK) — hard/official |
+| Technology | Fixed broadband subs | 8.5 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=LK) — hard/official |
+| Technology | High-tech exports | 1.5% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=LK) — hard/official |
+| Technology | R&D spend | 0.11% of GDP (2022) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=LK) — hard/official |
+| Technology | Global Innovation Index | 89th (WIPO GII 2024) | [source](https://www.wipo.int/edocs/gii-ranking/2024/lk.pdf) — hard/official |
+| Technology | E-Government (UN EGDI) | 0.6537, rank 95th (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | Fixed broadband median ~138 Mbps mobile, fixed ~24 Mbps (Ookla, Aug 2026) | [source](https://www.speedtest.net/global-index/sri-lanka) — hard/official |
+| Technology | 5G | Limited; commercial 5G launched late 2025 by Dialog Axiata and SLT Mobitel | unsourced/unverified |
+| Technology | Online payments | Stripe not available for local businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Not ranked in top 100 by StartupBlink (2024) | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 77.7 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=LK) — hard/official |
+| Human development & health | Hospital beds | 3.9 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=LK) — hard/official |
+| Human development & health | HDI | 0.780, rank 78th (UNDP 2023) | [source](https://hdr.undp.org/data-center/human-development-index) — hard/official |
+| Safety | Global Peace Index | Rank 67th, score 2.073 (GPI 2026) | [source](https://www.visionofhumanity.org/global-peace-index) — hard/official |
+| Safety | US travel advisory | Level 2: Exercise increased caution | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/SriLanka.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; capital gains tax 15% (2025); no inheritance tax | [source](https://www.ird.gov.lk/) — hard/official |
+| Money & tax | CFC rules | No CFC rules (not OECD-aligned) | [source](https://taxsummaries.pwc.com/sri-lanka) — soft/estimate |
+| Business | Company setup | ~8 days, cost US$5,750 (Healy Consultants, 2026) | [source](https://www.doingbusiness.org/en/data/exploreeconomies/sri-lanka) — soft/estimate |
+| Business | Corporate tax | 30% standard rate (2025) | [source](https://www.ird.gov.lk/) — hard/official |
+| Family & education | Top university | University of Colombo, QS rank 1001-1200 (2026) | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | Free visa regime for Russian citizens (ETA still required; policy effective from 2023, extended) | [source](https://eta.gov.lk/slvisa/) — hard/official |
+| For Russian citizens | Sanctions position | Neutral; does not participate in Western sanctions against Russia | [source](https://www.mfa.gov.lk/) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 128th, score 3.89 (World Happiness Report 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI rank 73, score 486 (low proficiency, 2025) | [source](https://www.ef.com/wwen/epi) — soft/estimate |
 
 ## Country Card
 
