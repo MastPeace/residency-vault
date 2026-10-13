@@ -2,6 +2,7 @@
 title: Uruguay — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, digital-nomad, tax, mercosur]
 category: multi
@@ -176,6 +177,68 @@ Not a major yachting hub. Montevideo and Punta del Este have marinas. No special
 | Freedom House score | 96/100 (Free) — highest in Latin America | [Freedom House](https://freedomhouse.org/country/uruguay/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,600 h (Montevideo) | [Current Results](https://www.currentresults.com/Weather/Uruguay/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~17 °C (Montevideo); mild temperate, four seasons | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/uruguay/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 53/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 176 215 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=UY) — hard/official |
+| Geography & size | Population density | 19 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=UY) — hard/official |
+| Geography & size | Urban population | 96% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=UY) — hard/official |
+| Geography & size | Coastline | 660 km | [source](https://en.wikipedia.org/wiki/Geography_of_Uruguay) — soft/estimate |
+| Geography & size | Highest point | Cerro Catedral, 514 m | [source](https://en.wikipedia.org/wiki/Geography_of_Uruguay) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Uruguay) — soft/estimate |
+| Geography & size | Time zone | UTC-3 (UYT); Moscow difference: -6h year-round | [source](https://en.wikipedia.org/wiki/Uruguay) — soft/estimate |
+| Climate | Avg precipitation | 1300 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=UY) — hard/official |
+| Climate | PM2.5 exposure | 10.9 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=UY) — hard/official |
+| Climate | Climate zone | Cfa (humid subtropical) | [source](https://en.wikipedia.org/wiki/Climate_of_Uruguay) — soft/estimate |
+| Climate | Temp winter / summer | Montevideo: Jan avg 26°C (high) / Jul avg 14°C (high), 2024 | [source](https://temperatures.com/weather/montevideo/climate) — soft/estimate |
+| Climate | Rainy days | Montevideo: ~108 rainy days per year | [source](https://temperatures.com/weather/montevideo/climate) — soft/estimate |
+| Climate | Humidity | Montevideo: 74% avg annual relative humidity | [source](https://temperatures.com/weather/montevideo/climate) — soft/estimate |
+| Climate | Natural hazards | Floods, occasional storms | [source](https://en.wikipedia.org/wiki/Geography_of_Uruguay) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5 ~10 μg/m³ (2024 IQAir estimate) | [source](https://www.iqair.com/air-quality/uruguay) — soft/estimate |
+| Economy | GDP (nominal) | $85.3B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=UY) — hard/official |
+| Economy | GDP growth | 1.8% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=UY) — hard/official |
+| Economy | Inflation (CPI) | 4.7% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=UY) — hard/official |
+| Economy | Unemployment | 7.5% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=UY) — hard/official |
+| Economy | Central govt debt | 65% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=UY) — hard/official |
+| Economy | Gini index | 40.0 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=UY) — hard/official |
+| Economy | Tourism receipts | 8% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=UY) — hard/official |
+| Economy | Remittances | 0.2% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=UY) — hard/official |
+| Economy | Credit rating | Fitch: BBB (stable, Sep 2025), Moody's: Baa1 (stable, Jan 2026), S&P: BBB+ | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-uruguay-at-bbb-outlook-stable-19-09-2025) — hard/official |
+| Economy | Currency | UYU (Uruguayan peso), managed float, ~-15% vs USD over 5 years (2021-2025) | [source](https://en.wikipedia.org/wiki/Uruguayan_peso) — soft/estimate |
+| Economy | Top industries | Agriculture (7% GDP), manufacturing (12%), services including tourism (60%+) | [source](https://en.wikipedia.org/wiki/Economy_of_Uruguay) — soft/estimate |
+| Economy | Economic Complexity | ECI rank ~50 (OEC 2022) | [source](https://oec.world/en/profile/country/ury) — soft/estimate |
+| Technology | Internet users | 92% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=UY) — hard/official |
+| Technology | Fixed broadband subs | 33.0 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=UY) — hard/official |
+| Technology | High-tech exports | 9.8% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=UY) — hard/official |
+| Technology | R&D spend | 0.70% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=UY) — hard/official |
+| Technology | Global Innovation Index | Rank 66, score 30.5 (WIPO GII 2025) | [source](https://www.wipo.int/web-publications/global-innovation-index-2025/en/gii-2025-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI value and rank not found in current extract | unsourced/unverified |
+| Technology | Median broadband speed | Median fixed broadband ~115 Mbps (Ookla Speedtest Global Index, 2025 estimate) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G deployed in major cities by Antel (2025) | [source](https://en.wikipedia.org/wiki/Telecommunications_in_Uruguay) — soft/estimate |
+| Technology | Online payments | Stripe available for businesses in Uruguay | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Rank ~70 (StartupBlink 2025 estimate) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 78.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=UY) — hard/official |
+| Human development & health | Hospital beds | 2.4 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=UY) — hard/official |
+| Human development & health | HDI | 0.862, rank ~49 (UNDP HDR 2023/24) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) — soft/estimate |
+| Safety | Global Peace Index | Rank 43, score 1.754 (GPI 2025) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (US State Dept) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/uruguay-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax up to ~24% (varies by relationship); capital gains at 12% for residents, 25% for non-residents (PwC 2025) | [source](https://taxsummaries.pwc.com/uruguay) — soft/estimate |
+| Money & tax | CFC rules | CFC rules apply for certain passive income (PwC Uruguay) | [source](https://taxsummaries.pwc.com/uruguay) — soft/estimate |
+| Business | Company setup | ~6.5 days (B-Ready 2025); cost varies | [source](https://www.worldbank.org/content/dam/sites/b-ready/documents/pdf/economy/2025/uruguay-2025.pdf) — hard/official |
+| Business | Corporate tax | 25% headline rate on Uruguayan-source income (territorial system) | [source](https://taxsummaries.pwc.com/uruguay/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Universidad de la República (Udelar), QS rank 751-760 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa not required for Russian citizens; 90 days stay permitted (Wikipedia, citing official sources, 2025) | [source](https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens) — soft/estimate |
+| For Russian citizens | Sanctions position | Uruguay has not imposed unilateral sanctions on Russia; complies with UN obligations; maintains diplomatic and trade relations (Wikipedia, 2025) | [source](https://en.wikipedia.org/wiki/Russia%E2%80%93Uruguay_relations) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 31, score 6.635 (WHR 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | Ranked in InterNations Expat Insider 2025 | [source](https://www.internations.org/expat-insider/2025) — soft/estimate |
+| Quality of life | Local language need | EF EPI score 542, Moderate proficiency; English moderately spoken in business and tourism in Montevideo | [source](https://en.wikipedia.org/wiki/EF_English_Proficiency_Index) — soft/estimate |
 
 ## Country Card
 

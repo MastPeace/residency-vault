@@ -2,6 +2,7 @@
 title: United States — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, h-1b, eb-5, strong_passport]
 category: strong_passport
@@ -149,6 +150,68 @@ US sanctions and deteriorating bilateral relations make visa processing for RU n
 | Freedom House score | 83/100 (Free, declined) | [Freedom House](https://freedomhouse.org/country/united-states/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,500–2,800 h (varies widely; Phoenix 3,872h, Seattle 2,170h) | [Current Results](https://www.currentresults.com/Weather/US/average-annual-sunshine-by-city.php) — hard/official |
 | Average annual temperature | ~12°C continental US avg; varies from ~−5°C (Alaska) to ~25°C (Florida) | [NOAA](https://www.ncei.noaa.gov/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 53/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 9 831 510 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=US) — hard/official |
+| Geography & size | Population density | 37 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=US) — hard/official |
+| Geography & size | Urban population | 80% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=US) — hard/official |
+| Geography & size | Coastline | 19,929 km | [source](https://en.wikipedia.org/wiki/Geography_of_the_United_States) — soft/estimate |
+| Geography & size | Highest point | Denali (Mount McKinley), 6,190.5 m | [source](https://en.wikipedia.org/wiki/Geography_of_the_United_States) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/United_States) — soft/estimate |
+| Geography & size | Time zone | UTC-5 to -10 (multiple zones); Moscow difference: -8h to -13h | [source](https://en.wikipedia.org/wiki/United_States) — soft/estimate |
+| Climate | Avg precipitation | 715 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=US) — hard/official |
+| Climate | PM2.5 exposure | 7.0 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=US) — hard/official |
+| Climate | Climate zone | Diverse: Cfa (humid subtropical) in SE, Dfa/Dfb (continental) in NE/Midwest, BSk/BWh (semi-arid/desert) in West, Csb (Mediterranean) in coastal California | [source](https://en.wikipedia.org/wiki/Climate_of_the_United_States) — soft/estimate |
+| Climate | Temp winter / summer | Washington DC: Jan avg 6°C (high) / Jul avg 31°C (high), 2024 | [source](https://temperatures.com/weather/washington/climate) — soft/estimate |
+| Climate | Rainy days | Washington DC: ~132 rainy days per year | [source](https://temperatures.com/weather/washington/climate) — soft/estimate |
+| Climate | Humidity | Washington DC: ~70% avg annual relative humidity | [source](https://temperatures.com/weather/washington/climate) — soft/estimate |
+| Climate | Natural hazards | Hurricanes, tornadoes, earthquakes, wildfires, floods, tsunamis, volcanic activity | [source](https://en.wikipedia.org/wiki/Geography_of_the_United_States) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5 ~8-10 μg/m³ (2024 IQAir) | [source](https://www.iqair.com/) — soft/estimate |
+| Economy | GDP (nominal) | $30.8T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=US) — hard/official |
+| Economy | GDP growth | 2.2% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=US) — hard/official |
+| Economy | Inflation (CPI) | 2.9% (2024) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=US) — hard/official |
+| Economy | Unemployment | 4.2% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=US) — hard/official |
+| Economy | Central govt debt | 116% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=US) — hard/official |
+| Economy | Gini index | 41.8 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=US) — hard/official |
+| Economy | Tourism receipts | 4% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=US) — hard/official |
+| Economy | Remittances | 0.0% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=US) — hard/official |
+| Economy | Credit rating | Moody's: Aa1 (downgraded from Aaa May 2025), Fitch: AA+, S&P: AA+ | [source](https://www.cnbc.com/2025/05/16/moodys-downgrades-united-states-credit-rating-on-increase-in-government-debt.html) — soft/estimate |
+| Economy | Currency | USD (US dollar), free floating, reserve currency | [source](https://en.wikipedia.org/wiki/United_States_dollar) — soft/estimate |
+| Economy | Top industries | Services (77% GDP), manufacturing (12%), real estate (12%) | [source](https://en.wikipedia.org/wiki/Economy_of_the_United_States) — soft/estimate |
+| Economy | Economic Complexity | ECI rank ~10 (OEC 2022) | [source](https://oec.world/en/profile/country/usa) — soft/estimate |
+| Technology | Internet users | 95% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=US) — hard/official |
+| Technology | Fixed broadband subs | 38.9 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=US) — hard/official |
+| Technology | High-tech exports | 24.3% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=US) — hard/official |
+| Technology | R&D spend | 3.45% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=US) — hard/official |
+| Technology | Global Innovation Index | Rank 3, score 62.3 (WIPO GII 2025) | [source](https://www.wipo.int/web-publications/global-innovation-index-2025/en/gii-2025-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI value ~0.93, rank 19 (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | Median fixed broadband ~250 Mbps (Ookla Speedtest Global Index, 2025) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G widely available, coverage ~85% of population (2025) | [source](https://en.wikipedia.org/wiki/5G) — soft/estimate |
+| Technology | Online payments | Stripe fully available for US businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Rank 1 (StartupBlink 2025 estimate) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 78.9 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=US) — hard/official |
+| Human development & health | Hospital beds | 2.7 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=US) — hard/official |
+| Human development & health | HDI | 0.937, rank ~19 (UNDP HDR 2023/24) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) — soft/estimate |
+| Safety | Global Peace Index | Rank 134, score 2.535 (GPI 2025) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | US citizens domestically; various worldwide caution advisories in effect (US State Dept) | [source](https://travel.state.gov/content/travel/en/international-travel.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No federal wealth tax; federal estate tax exemption $13.99M (2025), rate up to 40%; capital gains 0-20% federal plus state tax (PwC 2025) | [source](https://taxsummaries.pwc.com/united-states) — soft/estimate |
+| Money & tax | CFC rules | Yes, Subpart F and GILTI CFC rules apply (PwC US) | [source](https://taxsummaries.pwc.com/united-states) — soft/estimate |
+| Business | Company setup | ~4 days, cost varies by state (typically $100-800) | [source](https://www.sba.gov/) — hard/official |
+| Business | Corporate tax | 21% federal headline rate (plus state taxes averaging 0-12%) | [source](https://taxsummaries.pwc.com/united-states/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | MIT, QS rank 1 (QS 2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa required for Russian citizens; nonimmigrant visa processing limited (US Embassy Russia, 2025) | [source](https://ru.usembassy.gov/nonimmigrant-visas) — hard/official |
+| For Russian citizens | Sanctions position | US maintains extensive sanctions against Russia targeting military-industrial base, energy sector, and financial system (State Dept, 2025) | [source](https://2021-2025.state.gov/office-of-the-spokesperson/releases/2025/01/sanctions-to-disrupt-russias-military-industrial-base-and-sanctions-evasion/) — hard/official |
+| Quality of life | World Happiness rank | Rank 23, score 6.816 (WHR 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | Ranked in InterNations Expat Insider 2025 | [source](https://www.internations.org/expat-insider/2025) — soft/estimate |
+| Quality of life | Local language need | Native English-speaking country; EF EPI not applicable | [source](https://www.ef.edu/epi) — soft/estimate |
 
 ## Country Card
 

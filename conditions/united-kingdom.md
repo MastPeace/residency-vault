@@ -2,6 +2,7 @@
 title: United Kingdom — United Kingdom
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, tax, strong_passport, it_friendly, rule_change]
 category: strong_passport
@@ -141,6 +142,68 @@ UK sanctions are among the world's strictest against Russian nationals. Visa pro
 | Freedom House score | 93/100 (Free) | ^[https://freedomhouse.org/country/united-kingdom/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~1,410 (London) | ^[https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php] hard/official |
 | Average annual temperature | ~10.5°C (London) | ^[https://www.metoffice.gov.uk/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 243 610 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=GB) — hard/official |
+| Geography & size | Population density | 286 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=GB) — hard/official |
+| Geography & size | Urban population | 83% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=GB) — hard/official |
+| Geography & size | Coastline | 12,429 km | [source](https://en.wikipedia.org/wiki/Geography_of_the_United_Kingdom) — soft/estimate |
+| Geography & size | Highest point | Ben Nevis, 1,345 m | [source](https://en.wikipedia.org/wiki/Geography_of_the_United_Kingdom) — soft/estimate |
+| Geography & size | Type | island | [source](https://en.wikipedia.org/wiki/United_Kingdom) — soft/estimate |
+| Geography & size | Time zone | UTC+0 (GMT), UTC+1 (BST); Moscow difference: -3h in winter, -2h in summer | [source](https://en.wikipedia.org/wiki/United_Kingdom) — soft/estimate |
+| Climate | Avg precipitation | 1220 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=GB) — hard/official |
+| Climate | PM2.5 exposure | 9.5 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=GB) — hard/official |
+| Climate | Climate zone | Cfb (temperate oceanic), with subarctic (Cfc) in Scottish Highlands | [source](https://en.wikipedia.org/wiki/Climate_of_the_United_Kingdom) — soft/estimate |
+| Climate | Temp winter / summer | London: Jan avg 8°C (high) / Jul avg 23°C (high), 2024 | [source](https://temperatures.com/weather/london/climate) — soft/estimate |
+| Climate | Rainy days | London: ~135 rainy days per year | [source](https://temperatures.com/weather/london/climate) — soft/estimate |
+| Climate | Humidity | London: 79% avg annual relative humidity | [source](https://temperatures.com/weather/london/climate) — soft/estimate |
+| Climate | Natural hazards | Storms, floods | [source](https://en.wikipedia.org/wiki/Geography_of_the_United_Kingdom) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5 ~8-10 μg/m³ (2024 IQAir estimate), meets WHO guidelines in most areas | [source](https://www.iqair.com/) — soft/estimate |
+| Economy | GDP (nominal) | $4.0T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GB) — hard/official |
+| Economy | GDP growth | 1.4% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=GB) — hard/official |
+| Economy | Inflation (CPI) | 3.9% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=GB) — hard/official |
+| Economy | Unemployment | 4.7% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=GB) — hard/official |
+| Economy | Central govt debt | 131% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=GB) — hard/official |
+| Economy | Gini index | 32.4 (2021) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=GB) — hard/official |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 0.1% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=GB) — hard/official |
+| Economy | Credit rating | Fitch: AA- (stable, Feb 2026), Moody's: Aa3, S&P: AA | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-united-kingdom-at-aa-outlook-stable-20-02-2026) — hard/official |
+| Economy | Currency | GBP (pound sterling), free floating, ~-10% vs USD over 5 years (2021-2025) | [source](https://en.wikipedia.org/wiki/Pound_sterling) — soft/estimate |
+| Economy | Top industries | Services (80% GDP), manufacturing (10%), construction (6%) | [source](https://en.wikipedia.org/wiki/Economy_of_the_United_Kingdom) — soft/estimate |
+| Economy | Economic Complexity | ECI rank ~12 (OEC 2022) | [source](https://oec.world/en/profile/country/gbr) — soft/estimate |
+| Technology | Internet users | 95% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=GB) — hard/official |
+| Technology | Fixed broadband subs | 42.2 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=GB) — hard/official |
+| Technology | High-tech exports | 29.2% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=GB) — hard/official |
+| Technology | R&D spend | 2.68% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=GB) — hard/official |
+| Technology | Global Innovation Index | Rank 6, score 59.6 (WIPO GII 2025) | [source](https://www.wipo.int/web-publications/global-innovation-index-2025/en/gii-2025-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.9671, rank 5 (UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | Median fixed broadband ~93 Mbps (Ookla Speedtest Global Index, 2025) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G available from all major carriers, coverage ~60-80% of population (2025) | [source](https://en.wikipedia.org/wiki/Telecommunications_in_the_United_Kingdom) — soft/estimate |
+| Technology | Online payments | Stripe fully available for UK businesses | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Rank 3 (StartupBlink 2025 estimate) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 81.4 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=GB) — hard/official |
+| Human development & health | Hospital beds | 2.4 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=GB) — hard/official |
+| Human development & health | HDI | 0.940, rank ~14 (UNDP HDR 2023/24) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) — soft/estimate |
+| Safety | Global Peace Index | Rank 39, score 1.73 (GPI 2025) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (US State Dept) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/UnitedKingdom.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 40% above £325,000 threshold; capital gains 10-24% depending on asset and income band (PwC 2025) | [source](https://taxsummaries.pwc.com/united-kingdom) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply (PwC UK) | [source](https://taxsummaries.pwc.com/united-kingdom) — soft/estimate |
+| Business | Company setup | ~1 day online, cost £12 (Companies House, 2025) | [source](https://www.gov.uk/limited-company-formation) — hard/official |
+| Business | Corporate tax | 25% main rate (19% for profits under £50,000) from April 2023 | [source](https://taxsummaries.pwc.com/united-kingdom/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | University of Oxford, QS rank 3 (QS 2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa required for Russian citizens (UK Visas and Immigration, 2025) | [source](https://assets.publishing.service.gov.uk/media/69de095b2b60817d99ff8ddd/UK_Visa_requirements_April_2026.pdf) — hard/official |
+| For Russian citizens | Sanctions position | UK maintains extensive sanctions against Russia, largest package since 2022 announced, £25bn Russian assets frozen (Gov.uk, 2025) | [source](https://www.gov.uk/government/news/uk-announces-largest-sanctions-package-against-russia-since-2022) — hard/official |
+| Quality of life | World Happiness rank | Rank 29, score 6.694 (WHR 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | Ranked in InterNations Expat Insider 2025 | [source](https://www.internations.org/expat-insider/2025) — soft/estimate |
+| Quality of life | Local language need | Native English-speaking country; EF EPI not applicable | [source](https://www.ef.edu/epi) — soft/estimate |
 
 ## Country Card
 

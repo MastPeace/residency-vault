@@ -2,6 +2,7 @@
 title: Vanuatu — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-13
 type: entity
 tags: [citizenship, citizenship-by-investment, tax, strong_passport]
 category: strong_passport
@@ -83,6 +84,68 @@ Long regarded as the cheapest and fastest "Plan B" passport. The EU's 2022 full 
 | Freedom House score | 82/100 (Free) | [Freedom House](https://freedomhouse.org/country/vanuatu/freedom-world/2025) hard/official |
 | Average annual sunshine hours | ~2,200 h | [Wikipedia](https://en.wikipedia.org/wiki/Vanuatu#Climate) hard/official |
 | Average annual temperature | ~25 °C | [Wikipedia](https://en.wikipedia.org/wiki/Vanuatu#Climate) hard/official |
+
+## Extended Snapshot
+
+_Coverage: 49/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 12 189 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=VU) — hard/official |
+| Geography & size | Population density | 27 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=VU) — hard/official |
+| Geography & size | Urban population | 22% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=VU) — hard/official |
+| Geography & size | Coastline | 2,528 km | [source](https://en.wikipedia.org/wiki/Geography_of_Vanuatu) — soft/estimate |
+| Geography & size | Highest point | Mount Tabwemasana, 1,877 m | [source](https://en.wikipedia.org/wiki/Geography_of_Vanuatu) — soft/estimate |
+| Geography & size | Type | archipelago | [source](https://en.wikipedia.org/wiki/Vanuatu) — soft/estimate |
+| Geography & size | Time zone | UTC+11 (VUT); Moscow difference: +8h year-round | [source](https://en.wikipedia.org/wiki/Vanuatu) — soft/estimate |
+| Climate | Avg precipitation | 2000 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=VU) — hard/official |
+| Climate | PM2.5 exposure | 7.0 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=VU) — hard/official |
+| Climate | Climate zone | Af (tropical rainforest) | [source](https://en.wikipedia.org/wiki/Vanuatu) — soft/estimate |
+| Climate | Temp winter / summer | Port Vila: Jan avg 27°C (high) / Jul avg 25°C (high), 2024 | [source](https://temperatures.com/weather/port-vila/climate) — soft/estimate |
+| Climate | Rainy days | Port Vila: ~203 rainy days per year | [source](https://temperatures.com/weather/port-vila/climate) — soft/estimate |
+| Climate | Humidity | Port Vila: 81% avg annual relative humidity | [source](https://temperatures.com/weather/port-vila/climate) — soft/estimate |
+| Climate | Natural hazards | Cyclones, earthquakes, volcanic activity, tsunamis; WorldRiskIndex rank 1 (highest disaster risk, 2021) | [source](https://en.wikipedia.org/wiki/Vanuatu) — soft/estimate |
+| Climate | Air quality | Annual mean PM2.5 not found; generally good air quality due to low industrialization | unsourced/unverified |
+| Economy | GDP (nominal) | $1.4B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=VU) — hard/official |
+| Economy | GDP growth | 3.1% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=VU) — hard/official |
+| Economy | Inflation (CPI) | 0.7% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=VU) — hard/official |
+| Economy | Unemployment | 5.1% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=VU) — hard/official |
+| Economy | Central govt debt | 68% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=VU) — hard/official |
+| Economy | Gini index | 32.3 (2019) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=VU) — hard/official |
+| Economy | Tourism receipts | 50% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=VU) — hard/official |
+| Economy | Remittances | 17.2% of GDP (2022) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=VU) — hard/official |
+| Economy | Credit rating | Not rated by major agencies (S&P/Moody's/Fitch) | unsourced/unverified |
+| Economy | Currency | VUV (Vanuatu vatu), basket peg, relatively stable | [source](https://en.wikipedia.org/wiki/Vanuatu_vatu) — soft/estimate |
+| Economy | Top industries | Agriculture (~20% GDP), tourism (~40% GDP), offshore financial services | [source](https://en.wikipedia.org/wiki/Economy_of_Vanuatu) — soft/estimate |
+| Economy | Economic Complexity | ECI rank not listed; very low complexity economy | unsourced/unverified |
+| Technology | Internet users | No reliable data | — |
+| Technology | Fixed broadband subs | 1.2 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=VU) — hard/official |
+| Technology | High-tech exports | No reliable data | — |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | Not ranked in WIPO GII 2025 | [source](https://www.wipo.int/web-publications/global-innovation-index-2025/en/gii-2025-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI value and rank not found in current extract | unsourced/unverified |
+| Technology | Median broadband speed | Median fixed broadband ~5-10 Mbps (estimate; very limited infrastructure) | unsourced/unverified |
+| Technology | 5G | 5G not available (as of 2025); 4G limited to urban areas | [source](https://en.wikipedia.org/wiki/Telecommunications_in_Vanuatu) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses in Vanuatu | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | Not ranked in StartupBlink | unsourced/unverified |
+| Human development & health | Life expectancy | 71.7 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=VU) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | 0.621, rank 146 (UNDP HDR 2023/24) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) — soft/estimate |
+| Safety | Global Peace Index | Not ranked in GPI | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 1: Exercise Normal Precautions (US State Dept) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/vanuatu-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; no capital gains tax | [source](https://taxglass.net/compare/portugal-vs-vanuatu) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules | [source](https://gsl.org/en/taxes/vanuatu) — soft/estimate |
+| Business | Company setup | ~18 days (estimate); costs vary by type | [source](https://www.investvanuatu.org/) — soft/estimate |
+| Business | Corporate tax | 0% (no corporate income tax) | [source](https://tradingeconomics.com/vanuatu/corporate-tax-rate) — soft/estimate |
+| Family & education | Top university | No universities ranked in QS; University of the South Pacific (Vanuatu campus) is the main institution | unsourced/unverified |
+| Connectivity | Visa-free for Russians | Visa not required for Russian citizens; 120 days stay (Wikipedia, 2025) | [source](https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens) — soft/estimate |
+| For Russian citizens | Sanctions position | Vanuatu has not imposed sanctions on Russia; EU has expressed concerns over Vanuatu offering citizenship to Russians (PINA, 2022) | [source](https://pina.com.fj/2022/04/08/eu-might-impose-sanctions-on-vanuatu-for-offering-economic-citizenship-to-russians/) — soft/estimate |
+| Quality of life | World Happiness rank | Not ranked in World Happiness Report 2025 | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | Not listed in InterNations Expat Insider 2025 | unsourced/unverified |
+| Quality of life | Local language need | Not ranked in EF EPI; English is an official language and widely spoken alongside Bislama and French | [source](https://en.wikipedia.org/wiki/Vanuatu) — soft/estimate |
 
 ## Country Card
 
