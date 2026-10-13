@@ -1,7 +1,7 @@
 ---
 title: Turkey — Turkey
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-10-13
 extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, tax, citizenship-by-investment, popular_ru, strong_passport, yacht_captain]
@@ -24,15 +24,14 @@ Turkey operates one of the world's most popular **citizenship-by-investment** pr
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Short-term residence (property owners) | Own any property in Turkey | 1 year, renewable | [#](#investment-residency) |
-| passive_income_residency | Short-term residence (property) | Real estate ownership | 1 year, renewable | [#](#investment-residency) |
+| investment_residency | Short-term residence (property owner) | Residential property worth ≥ $200,000 at purchase (appraisal report), used as own home | Up to 1–2 years, renewable | [#](#investment-residency) |
+| passive_income_residency | Short-term residence (tourist / rented home) | Rental contract for a home + health insurance + proof of means (~1.5× min. wage) | Up to 1 year, renewable | [#](#short-term-residence-rental) |
 | digital_nomad_visa | Not available | — | — | [#](#digital-nomad--it) |
 | highly_skilled_employment | Work permit (Çalışma İzni) | Employer sponsorship + job offer | 1 year, renewable | [#](#employment-residency) |
 | startup_entrepreneur | Business residence | Registered business in Turkey | 1 year, renewable | [#](#startup--entrepreneur) |
 | employment_residency | Work permit (Çalışma İzni) | Employment contract | 1 year, renewable | [#](#employment-residency) |
 | student_residency | Student residence | Enrollment in Turkish institution | Duration of studies | [#](#student-residency) |
 | family_reunification | Family residence | Spouse/child of Turkish resident or citizen | 1 year, renewable | [#](#family-reunification) |
-| retired_residency | Short-term residence (property) | Real estate + pension | 1 year, renewable | [#](#investment-residency) |
 | citizenship_by_investment | Turkish Citizenship by Investment (Art. 12, Law No. 5901) | $400,000 real estate / $500,000 financial (3-yr hold) | Citizenship in 3–4 months | [#](#citizenship-by-investment) |
 
 ## Per-Program Detail
@@ -56,12 +55,26 @@ Turkey operates one of the world's most popular **citizenship-by-investment** pr
 
 ### Investment Residency / Property Residence
 
-- **Official name**: Kısa Dönem İkamet İzni (Short-term residence permit)
-- **Conditions**: Own any residential property in Turkey (no minimum value for residence purposes). ^[https://en.goc.gov.tr/]
-- **Duration / renewal**: 1 year, renewable.
-- **Path to citizenship**: 5 years continuous residence → standard naturalization (Turkish language required).
-- **Official source**: [DGMM — Residence Permits](https://en.goc.gov.tr/)
-- **Community verdict**: Works well — straightforward for property owners. Note: CBI is the preferred route for those who can meet $400,000 threshold.
+- **Official name**: Kısa Dönem İkamet İzni — property owner (Law No. 6458, Art. 31(1)(b)).
+- **Conditions**: ^[https://www.mondaq.com/turkey/general-immigration/1847374/residence-permits-through-property-ownership-in-t%C3%BCrkiye-2026] ^[https://www.istanbulattorneys.com/post/short-term-residence-permit-turkey-foreigners]
+  - Residential property (title deed class *mesken/konut*) registered in the applicant's name, worth **≥ $200,000** at acquisition (since October 2023; licensed appraisal report *ekspertiz* required). This is **not** the $400,000 citizenship threshold.
+  - The property must be used by the applicant as a home; it cannot be rented out for income while the permit relies on it.
+  - Proof of regular means (~1.5× the net minimum wage per person per month) and valid health insurance.
+  - Neighborhoods where foreigners exceed 25% of residents (1,000+ *mahalle*, incl. entire districts of Istanbul) are closed to new applications.
+- **Duration / renewal**: Short-term permits are issued for up to 2 years in principle (the DGMM page cites up to 1 year for property owners in practice); renewable. ^[https://www.invest.gov.tr/en/investmentguide/pages/obtaining-a-residence-permit.aspx]
+- **Path to long-term residence / citizenship**: 8 years of continuous residence → long-term residence permit; the full duration counts. Standard naturalization needs 5 years (Turkish language required). ^[https://www.mondaq.com/turkey/general-immigration/1847374/residence-permits-through-property-ownership-in-t%C3%BCrkiye-2026]
+- **Official source**: [DGMM — Residence Permits](https://en.goc.gov.tr/) | [e-İkamet](https://e-ikamet.goc.gov.tr)
+- **Community verdict**: Works, but gate is higher than commonly assumed ($200k appraised value, closed districts). CBI ($400,000) is a separate route and needs no prior residence. [soft/estimate]
+
+### Short-term Residence (Rental)
+
+- **Official name**: Kısa Dönem İkamet İzni — tourism purposes (Law No. 6458, Art. 31(1)(c)); usually based on a rental contract for a home. ^[https://www.e-ikamet.com/en]
+- **Conditions**: Rental (or other housing) contract with proof of address, valid health insurance, proof of regular means (~1.5× the net minimum wage per person per month), appointment via e-İkamet, physical presence in Turkey at application. No property purchase needed. Closed neighborhoods (see above) are not accepted as the address. ^[https://www.istanbulattorneys.com/post/short-term-residence-permit-turkey-foreigners] ^[https://ikamet.com/residency/faq]
+- **Duration / renewal**: Up to 1 year, renewable; the tourism ground has been applied more strictly in 2026 and approval is at the migration office's discretion. [soft/estimate]
+- **Path to citizenship**: Time counts toward the 8-year long-term residence permit; no direct path to citizenship.
+- **Work**: Does not authorize employment in Turkey (remote work for foreign clients is generally tolerated).
+- **Official source**: [e-İkamet — touristic purposes](https://www.e-ikamet.com/en)
+- **Community verdict**: Widely used by Russian-speaking expats as the default route without buying property; renewal outcomes vary by city. [soft/estimate]
 
 ### Employment Residency / Highly Skilled Employment
 
@@ -108,7 +121,7 @@ Turkey operates one of the world's most popular **citizenship-by-investment** pr
 
 ## IT / Digital Nomad
 
-Turkey does not have a dedicated [[digital-nomad-visa|digital nomad visa]] visa. However, the short-term residence permit based on property ownership covers remote workers. Istanbul and Antalya have growing digital nomad communities. Cost of living is favorable. Internet infrastructure is good in major cities.
+Turkey does not have a dedicated [[digital-nomad-visa|digital nomad visa]] visa. However, the short-term residence permit (rental/tourist or property-based) is what remote workers use. Istanbul and Antalya have growing digital nomad communities. Cost of living is favorable. Internet infrastructure is good in major cities.
 
 ## Yacht / Maritime
 
@@ -143,7 +156,7 @@ CBI program is well-established and fast. Main risk: fraud in the application ch
 | Cost of living index | Low (~30, Numbeo; significantly cheaper than Western Europe) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Turkey] [soft/estimate] |
 | Monthly rent, 1-bedroom apt | ~€350 (Istanbul avg); €250–300 (Antalya) | ^[https://www.numbeo.com/cost-of-living/country_result.jsp?country=Turkey] [soft/estimate] |
 | Effective tax for remote workers | 15–40% progressive PIT (2026: 20-yr foreign-income exemption for qualifying relocants) | ^[https://www.globalcitizensolutions.com/turkey-citizenship-by-investment] [soft/estimate] |
-| Remote-work / self-employment residence? | Not available — no formal DN visa; de facto via property residence or CBI | From page — [soft/estimate] |
+| Remote-work / self-employment residence? | Not available — no formal DN visa; de facto via rental/tourist or property short-term residence, or CBI | From page — [soft/estimate] |
 | Years to citizenship | 5 years (standard); 3–4 months (CBI via $400,000 real estate) | ^[https://www.visaverge.com/visa/turkey-citizenship-by-investment-400-500k-routes-and-timeline] hard/official |
 | Maximum permitted absence | Not specified (standard continuous residence for naturalization; none for CBI) | From page — [soft/estimate] |
 | Passport visa-free count | 71 (Passport Index 2026) | ^[https://www.passportindex.org/passport/turkey] hard/official |

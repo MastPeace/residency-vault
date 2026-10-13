@@ -7,6 +7,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [Unreleased]
 
 ### Fixed
+- **Turkey (user feedback via bot):** property-owner short-term residence corrected (≥ $200,000 appraised value since Oct 2023, own-use only, 25% foreigner-density closed neighborhoods, income proof, 1–2 year term); added the rental/tourist short-term residence route; removed duplicate `retired_residency` row. RU translation will refresh via `translate_ru.py --stale`.
+
+### Fixed
 - **Table columns shifted by aliased wikilinks:** `[[united-states|USA]]` inside a table row was split at the pipe, adding a column (student/employment residency and country tables). Source rows now use `[[x\|label]]` (Obsidian/GitHub-safe), and the site generator's row splitter understands both `\|` and pipes inside `[[...]]`. RU `source_hash` values refreshed (formatting-only change).
 
 ### Added
