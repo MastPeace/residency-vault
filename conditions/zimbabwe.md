@@ -2,6 +2,7 @@
 title: Zimbabwe — Republic of Zimbabwe
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, employment_residency, investment_residency, tax]
 category: clear_pathway
@@ -98,6 +99,68 @@ Limited English-language expat forum data. The expat presence is small and conce
 | Freedom House score | 26/100 — Not Free (2025) | ^[https://freedomhouse.org/country/zimbabwe/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~3,000 h (Harare) | ^[https://en.climate-data.org/africa/zimbabwe/] hard/official |
 | Average annual temperature | ~18 °C (Harare, high plateau) | ^[https://en.climate-data.org/africa/zimbabwe/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 390 760 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=ZW) — hard/official |
+| Geography & size | Population density | 43 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=ZW) — hard/official |
+| Geography & size | Urban population | 40% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=ZW) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://www.cia.gov/the-world-factbook/countries/zimbabwe/) — hard/official |
+| Geography & size | Highest point | Mount Nyangani (Inyangani) 2592 m | [source](https://en.wikipedia.org/wiki/Geography_of_Zimbabwe) — soft/estimate |
+| Geography & size | Type | landlocked | [source](https://www.cia.gov/the-world-factbook/countries/zimbabwe/) — hard/official |
+| Geography & size | Time zone | UTC+2 (CAT); -1h vs Moscow (UTC+3) | [source](https://www.timeanddate.com/time/zones/cat) — soft/estimate |
+| Climate | Avg precipitation | 657 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=ZW) — hard/official |
+| Climate | PM2.5 exposure | 15.0 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=ZW) — hard/official |
+| Climate | Climate zone | Cwa/Cwb (subtropical highland) in north/central; BSh (hot semi-arid) in south | [source](https://climateknowledgeportal.worldbank.org/country/zimbabwe) — hard/official |
+| Climate | Temp winter / summer | Harare: Jan ~21°C avg, Jul ~13°C avg | [source](https://en.wikipedia.org/wiki/Geography_of_Zimbabwe) — soft/estimate |
+| Climate | Rainy days | ~74 rainy days/year (Mutare, WMO); Nov-Mar rainy season | [source](https://en.wikipedia.org/wiki/Geography_of_Zimbabwe) — soft/estimate |
+| Climate | Humidity | ~60% annual avg relative humidity (Harare/Bulawayo) | [source](https://en.wikipedia.org/wiki/Geography_of_Zimbabwe) — soft/estimate |
+| Climate | Natural hazards | Drought, floods, tropical cyclones; INFORM Risk 2024: 5.3/10 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | ~13.0 µg/m³ annual mean PM2.5 (2023, IQAir estimate) | [source](https://www.iqair.com/world-air-quality-ranking) — soft/estimate |
+| Economy | GDP (nominal) | $51.2B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ZW) — hard/official |
+| Economy | GDP growth | 8.1% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=ZW) — hard/official |
+| Economy | Inflation (CPI) | 104.7% (2022) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=ZW) — hard/official |
+| Economy | Unemployment | 9.3% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=ZW) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 50.3 (2019) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=ZW) — hard/official |
+| Economy | Tourism receipts | 1% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=ZW) — hard/official |
+| Economy | Remittances | 8.5% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=ZW) — hard/official |
+| Economy | Credit rating | Not rated by S&P, Moody's, or Fitch | [source](https://www.fitchratings.com/entity/zimbabwe-90269062) — hard/official |
+| Economy | Currency | ZiG (Zimbabwe Gold) introduced Apr 2024; USD also legal tender | [source](https://www.rbz.co.zw/) — soft/estimate |
+| Economy | Top industries | Agriculture (~17% GDP), mining (~12%), services (~55%) | [source](https://www.cia.gov/the-world-factbook/countries/zimbabwe/) — hard/official |
+| Economy | Economic Complexity | ECI rank 107/130, score -0.93 (2024) | [source](https://oec.world/en/profile/country/zwe) — soft/estimate |
+| Technology | Internet users | 42% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=ZW) — hard/official |
+| Technology | Fixed broadband subs | 1.9 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=ZW) — hard/official |
+| Technology | High-tech exports | 2.8% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=ZW) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | WIPO GII rank 129/139 (2025) | [source](https://www.wipo.int/gii-ranking/en/zimbabwe) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.4481, rank 149/193 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/data-center) — hard/official |
+| Technology | Median broadband speed | ~15 Mbps median fixed broadband (2024, Ookla estimate) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | Limited 5G deployment; Econet launched 5G in Harare 2024 | [source](https://www.techzim.co.zw/) — soft/estimate |
+| Technology | Online payments | Stripe not available; PayPal limited availability | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank null (not in top 100+ countries, 2025) | [source](https://www.startupblink.com/startup-ecosystem/zimbabwe) — soft/estimate |
+| Human development & health | Life expectancy | 63.1 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=ZW) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | HDI 0.550, rank 159/193 (2022) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | GPI rank 114/163, score 2.223 (2025) | [source](https://www.visionofhumanity.org/wp-content/uploads/2025/06/Global-Peace-Index-2025-web.pdf) — hard/official |
+| Safety | US travel advisory | Level 2 - Exercise increased caution (due to crime and official harassment, 2025) | [source](https://zw.usembassy.gov/) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains tax at 20% for immovable property, nil for listed securities | [source](https://taxsummaries.pwc.com/zimbabwe) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (PwC Worldwide Tax Summaries) | [source](https://taxsummaries.pwc.com/zimbabwe) — soft/estimate |
+| Business | Company setup | ~27 days, cost ~76% of income per capita (World Bank Doing Business 2020) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/zimbabwe) — soft/estimate |
+| Business | Corporate tax | 24.72% standard CIT (2025) | [source](https://taxsummaries.pwc.com/zimbabwe) — soft/estimate |
+| Family & education | Top university | University of Zimbabwe (UZ), not ranked in QS top 1500 | [source](https://www.topuniversities.com/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa on arrival available for Russian citizens (30 days); eVisa also available | [source](https://www.evisa.gov.zw/) — soft/estimate |
+| For Russian citizens | Sanctions position | Zimbabwe does not impose sanctions on Russia; maintains normal diplomatic relations | [source](https://www.zimfa.gov.zw/) — soft/estimate |
+| Quality of life | World Happiness rank | UN World Happiness Report rank 143/147, score 3.4 (2025) | [source](https://www.visualcapitalist.com/mapped-countries-happiest-least-happy) — soft/estimate |
+| Quality of life | Expat friendliness | null | [source](null) — unsourced/unverified |
+| Quality of life | Local language need | English is an official language and widely spoken; EF EPI rank ~50 (high proficiency) | [source](https://www.ef.com/epi/) — soft/estimate |
 
 ## Country Card
 

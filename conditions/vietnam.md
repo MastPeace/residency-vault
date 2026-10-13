@@ -2,6 +2,7 @@
 title: Vietnam — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, golden-visa, investor-visa, popular_ru]
 category: popular_ru
@@ -148,6 +149,68 @@ Vietnam is a highly popular destination for Russian nationals (large Russian-spe
 | Average annual sunshine hours | ~1,700 h (Hanoi); ~2,500 h (Ho Chi Minh City); ~2,200 h (Da Nang) | [Current Results](https://www.currentresults.com/Weather/Vietnam/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | Hanoi ~14°C (Jan) to ~33°C (Jun); HCMC ~22°C to 35°C; tropical monsoon climate | [Vietnam Meteorological Administration](https://www.nchmf.gv.vn/) — hard/official |
 
+
+## Extended Snapshot
+
+_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 331 338 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=VN) — hard/official |
+| Geography & size | Population density | 322 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=VN) — hard/official |
+| Geography & size | Urban population | 39% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=VN) — hard/official |
+| Geography & size | Coastline | 3444 km (CIA World Factbook, excludes islands) | [source](https://www.cia.gov/the-world-factbook/countries/vietnam/) — hard/official |
+| Geography & size | Highest point | Fansipan 3147 m (2019 remeasurement) | [source](https://vietnamtourism.gov.vn/en/post/13974) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://www.cia.gov/the-world-factbook/countries/vietnam/) — hard/official |
+| Geography & size | Time zone | UTC+7 (ICT); +4h vs Moscow (UTC+3) | [source](https://www.timeanddate.com/time/zones/ict) — soft/estimate |
+| Climate | Avg precipitation | 1821 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=VN) — hard/official |
+| Climate | PM2.5 exposure | 24.8 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=VN) — hard/official |
+| Climate | Climate zone | Am (tropical monsoon) in south, Cwa (humid subtropical) in north | [source](https://en.wikipedia.org/wiki/Climate_of_Vietnam) — soft/estimate |
+| Climate | Temp winter / summer | Hanoi: Jan 16.4°C avg, Jul 28.9°C avg | [source](https://en.wikipedia.org/wiki/Climate_of_Vietnam) — soft/estimate |
+| Climate | Rainy days | ~150 rainy days/year (Hanoi, annual avg range 60-200 nationally) | [source](https://en.wikipedia.org/wiki/Climate_of_Vietnam) — soft/estimate |
+| Climate | Humidity | ~79% annual avg relative humidity (Hanoi) | [source](https://en.wikipedia.org/wiki/Hanoi) — soft/estimate |
+| Climate | Natural hazards | Typhoons, floods, droughts, landslides; INFORM Risk 2024: 3.8/10 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | ~22.0 µg/m³ annual mean PM2.5 (2023, IQAir) | [source](https://www.iqair.com/vietnam) — soft/estimate |
+| Economy | GDP (nominal) | $514.7B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=VN) — hard/official |
+| Economy | GDP growth | 8.0% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=VN) — hard/official |
+| Economy | Inflation (CPI) | 3.3% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=VN) — hard/official |
+| Economy | Unemployment | 1.5% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=VN) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 36.1 (2022) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=VN) — hard/official |
+| Economy | Tourism receipts | 1% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=VN) — hard/official |
+| Economy | Remittances | No reliable data | — |
+| Economy | Credit rating | S&P BB+, Moody's Ba2, Fitch BB+ (all stable, 2025) | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-vietnam-at-bb-outlook-stable-16-06-2026) — hard/official |
+| Economy | Currency | VND, managed float; ~-14% vs USD over 5yr (22,700→25,960, 2021-2026) | [source](https://wise.com/us/currency-converter/usd-to-vnd-rate/history) — soft/estimate |
+| Economy | Top industries | Manufacturing (25% GDP), services (42%), agriculture (12%) | [source](https://www.cia.gov/the-world-factbook/countries/vietnam/) — hard/official |
+| Economy | Economic Complexity | ECI rank 64/130, score -0.058 (2024) | [source](https://oec.world/en/profile/country/vnm) — soft/estimate |
+| Technology | Internet users | 84% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=VN) — hard/official |
+| Technology | Fixed broadband subs | 23.7 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=VN) — hard/official |
+| Technology | High-tech exports | 44.3% of manufactured exports (2023) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=VN) — hard/official |
+| Technology | R&D spend | 0.41% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=VN) — hard/official |
+| Technology | Global Innovation Index | WIPO GII rank 44/139 (2025) | [source](https://www.wipo.int/gii-ranking/en/viet-nam) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.7709, rank 71/193 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/189-Viet-Nam) — hard/official |
+| Technology | Median broadband speed | 203.89 Mbps median fixed broadband (Q2 2025, Ookla) | [source](https://vietnamnet.vn/en/vietnam-s-mobile-speeds-hit-global-top-20-2439253.html) — soft/estimate |
+| Technology | 5G | 5G coverage 26% of population (Q2 2025); 90.2% by end 2025 | [source](https://vietnamnet.vn/en/vietnam-s-digital-infrastructure-aims-for-global-leadership-by-2026-2481631.html) — soft/estimate |
+| Technology | Online payments | Stripe not available; PayPal available for receiving | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank 55/100+ (2025) | [source](https://en.vneconomy.vn/vietnams-startup-ecosystem-climbs-to-55th-in-global-rankings.htm) — soft/estimate |
+| Human development & health | Life expectancy | 74.7 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=VN) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | HDI 0.726, rank 107/193 (2022) | [source](https://www.undp.org/vietnam/press-releases/viet-nam-high-human-development-category-undp-new-report) — hard/official |
+| Safety | Global Peace Index | GPI rank 38/163, score 1.721 (2025) | [source](https://english.vov.vn/en/society/vietnam-moves-up-to-38th-position-in-2025-global-peace-index-post1210561.vov) — soft/estimate |
+| Safety | US travel advisory | Level 1 - Exercise normal precautions (Jun 2026) | [source](https://travel.state.gov/en/international-travel/travel-advisories/vietnam.html) — hard/official |
+| Money & tax | FATF status | On FATF grey list (increased monitoring) (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains taxed as income at 20% CIT or 0.1% on securities transfers | [source](https://taxsummaries.pwc.com/vietnam) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (PwC Worldwide Tax Summaries) | [source](https://taxsummaries.pwc.com/vietnam) — soft/estimate |
+| Business | Company setup | ~16 days, cost ~5.6% of income per capita (World Bank Doing Business 2020) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/vietnam) — soft/estimate |
+| Business | Corporate tax | 20% standard CIT (2025); 15-17% for qualifying SMEs | [source](https://taxsummaries.pwc.com/vietnam/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Vietnam National University Hanoi, QS rank 801-850 (2025) | [source](https://www.topuniversities.com/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | 45-day visa-free for Russian citizens (since Aug 2023) | [source](https://vietnam.travel/things-to-do/vietnam-visa-requirements) — soft/estimate |
+| For Russian citizens | Sanctions position | Vietnam does not impose sanctions on Russia; maintains normal trade relations | [source](https://www.reuters.com/world/asia-pacific/vietnam-russia-relations/) — soft/estimate |
+| Quality of life | World Happiness rank | UN World Happiness Report rank 45/147, score 6.428 (2025) | [source](https://data.worldhappiness.report/country/VNM) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider rank 14/53 (2023) | [source](https://www.internations.org/expat-insider/) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 64/123, score 500, moderate proficiency; English not widely spoken | [source](https://www.ef.com/assetscdn/WIBIwq6RdJvcD9bc8RMd/cefcom-epi-site/fact-sheets/2025/ef-epi-fact-sheet-vietnam-english.pdf) — soft/estimate |
 
 ## Country Card
 

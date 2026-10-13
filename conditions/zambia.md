@@ -2,6 +2,7 @@
 title: Zambia — Republic of Zambia
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, employment_residency, investment_residency, tax]
 category: clear_pathway
@@ -99,6 +100,68 @@ Lusaka has a well-established, English-speaking expat community (mining, agricul
 | Freedom House score | 53/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/zambia/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,800 h (Lusaka) | ^[https://en.climate-data.org/africa/zambia/] hard/official |
 | Average annual temperature | ~20 °C (Lusaka, high plateau) | ^[https://en.climate-data.org/africa/zambia/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 752 612 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=ZM) — hard/official |
+| Geography & size | Population density | 29 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=ZM) — hard/official |
+| Geography & size | Urban population | 46% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=ZM) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://www.cia.gov/the-world-factbook/countries/zambia/) — hard/official |
+| Geography & size | Highest point | Mafinga Hills 2301 m | [source](https://www.cia.gov/the-world-factbook/countries/zambia/) — hard/official |
+| Geography & size | Type | landlocked | [source](https://www.cia.gov/the-world-factbook/countries/zambia/) — hard/official |
+| Geography & size | Time zone | UTC+2 (CAT); -1h vs Moscow (UTC+3) | [source](https://www.timeanddate.com/time/zones/cat) — soft/estimate |
+| Climate | Avg precipitation | 1020 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=ZM) — hard/official |
+| Climate | PM2.5 exposure | 20.2 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=ZM) — hard/official |
+| Climate | Climate zone | Cwa (humid subtropical) and Aw (tropical savanna); BSh (semi-arid) in SW | [source](https://en.wikipedia.org/wiki/Climate_of_Zambia) — soft/estimate |
+| Climate | Temp winter / summer | Lusaka: Jan 21.5°C avg, Jul 14.9°C avg | [source](https://en.wikipedia.org/wiki/Climate_of_Zambia) — soft/estimate |
+| Climate | Rainy days | ~80 rainy days/year (Lusaka, Nov-Mar rainy season) | [source](https://en.wikipedia.org/wiki/Climate_of_Zambia) — soft/estimate |
+| Climate | Humidity | 67% annual avg relative humidity (Lusaka, NOAA) | [source](https://en.wikipedia.org/wiki/Climate_of_Zambia) — soft/estimate |
+| Climate | Natural hazards | Drought, floods; INFORM Risk 2024: 5.0/10 | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | ~15.0 µg/m³ annual mean PM2.5 (2023, IQAir estimate) | [source](https://www.iqair.com/world-air-quality-ranking) — soft/estimate |
+| Economy | GDP (nominal) | $28.9B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ZM) — hard/official |
+| Economy | GDP growth | 3.8% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=ZM) — hard/official |
+| Economy | Inflation (CPI) | 13.9% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=ZM) — hard/official |
+| Economy | Unemployment | 5.9% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=ZM) — hard/official |
+| Economy | Central govt debt | 71% of GDP (2021) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=ZM) — hard/official |
+| Economy | Gini index | 51.5 (2022) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=ZM) — hard/official |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 1.4% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=ZM) — hard/official |
+| Economy | Credit rating | Fitch B- (Nov 2025); S&P CCC+ (2025); Moody's Caa2 (2025) | [source](https://www.fitchratings.com/research/sovereigns/fitch-upgrades-zambia-to-b-outlook-stable-28-11-2025) — hard/official |
+| Economy | Currency | ZMW, floating; ~-45% vs USD over 5yr (2021-2026, from ~16 to ~28) | [source](https://taxsummaries.pwc.com/zambia) — soft/estimate |
+| Economy | Top industries | Mining (copper, ~12% GDP), agriculture (~7%), services (~55%) | [source](https://www.cia.gov/the-world-factbook/countries/zambia/) — hard/official |
+| Economy | Economic Complexity | ECI rank 97/130, score -0.73 (2024) | [source](https://oec.world/en/profile/country/zmb) — soft/estimate |
+| Technology | Internet users | 17% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=ZM) — hard/official |
+| Technology | Fixed broadband subs | 0.8 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=ZM) — hard/official |
+| Technology | High-tech exports | 1.5% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=ZM) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | WIPO GII rank 112/139 (2025) | [source](https://www.wipo.int/gii-ranking/en/zambia) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.4424, rank 154/193 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/data-center) — hard/official |
+| Technology | Median broadband speed | ~12 Mbps median fixed broadband (2024, Ookla estimate) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | Limited 5G deployment; mainly 3G/4G coverage | [source](https://www.zicta.zm/) — soft/estimate |
+| Technology | Online payments | Stripe not available; limited PayPal availability | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank 113/100+ (2025) | [source](https://www.startupblink.com/startup-ecosystem/zambia) — soft/estimate |
+| Human development & health | Life expectancy | 66.5 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=ZM) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | HDI 0.569, rank 153/193 (2022) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | GPI rank =64/163, score 1.914 (2025) | [source](https://www.visionofhumanity.org/wp-content/uploads/2025/06/Global-Peace-Index-2025-web.pdf) — hard/official |
+| Safety | US travel advisory | Level 2 - Exercise increased caution (due to crime, 2025) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Zambia.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; no capital gains tax (property transfer tax applies on certain transfers) | [source](https://taxsummaries.pwc.com/zambia) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (PwC Worldwide Tax Summaries) | [source](https://taxsummaries.pwc.com/zambia) — soft/estimate |
+| Business | Company setup | ~8.5 days, cost ~28% of income per capita (World Bank Doing Business 2020) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/zambia) — soft/estimate |
+| Business | Corporate tax | 30% standard CIT (2025) | [source](https://taxsummaries.pwc.com/zambia) — soft/estimate |
+| Family & education | Top university | University of Zambia (UNZA), not ranked in QS top 1500 | [source](https://www.topuniversities.com/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | eVisa available for Russian citizens; visa-free for 90 days in some cases (Zambia Immigration, 2025) | [source](https://www.zambiaimmigration.gov.zm/) — soft/estimate |
+| For Russian citizens | Sanctions position | Zambia does not impose sanctions on Russia; maintains normal diplomatic relations | unsourced/unverified |
+| Quality of life | World Happiness rank | UN World Happiness Report rank 131/147, score 3.9 (2025) | [source](https://www.visualcapitalist.com/mapped-countries-happiest-least-happy) — soft/estimate |
+| Quality of life | Expat friendliness | null | [source](null) — unsourced/unverified |
+| Quality of life | Local language need | English is an official language and widely spoken in business; EF EPI rank ~70 (moderate) | [source](https://www.ef.com/epi/) — soft/estimate |
 
 ## Country Card
 
