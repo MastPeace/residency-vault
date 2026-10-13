@@ -2,6 +2,7 @@
 title: Singapore — Residency & Citizenship Conditions
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, strong_passport, clear_pathway]
 category: strong_passport
@@ -126,6 +127,68 @@ PR approval is fully discretionary with no guaranteed criteria or appeal process
 | Freedom House score | 48/100 (Partly Free) | [Freedom House 2025](https://freedomhouse.org/country/singapore/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,000 h (tropical; consistent year-round with afternoon thunderstorms) | [Meteorological Service Singapore](http://www.weather.gv.sg/) — hard/official |
 | Average annual temperature | ~25°C to 32°C year-round (tropical; high humidity ~80%) — almost no seasonal variation | [Meteorological Service Singapore](http://www.weather.gv.sg/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 736 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=SG) — hard/official |
+| Geography & size | Population density | 8 329 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=SG) — hard/official |
+| Geography & size | Urban population | 100% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=SG) — hard/official |
+| Geography & size | Coastline | 193 km | [source](https://en.wikipedia.org/wiki/Geography_of_Singapore) — soft/estimate |
+| Geography & size | Highest point | Bukit Timah Hill, 164 m | [source](https://en.wikipedia.org/wiki/Geography_of_Singapore) — soft/estimate |
+| Geography & size | Type | island | [source](https://en.wikipedia.org/wiki/Singapore) — soft/estimate |
+| Geography & size | Time zone | UTC+8 (SGT), Moscow +5h | [source](https://en.wikipedia.org/wiki/Singapore) — soft/estimate |
+| Climate | Avg precipitation | 2497 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=SG) — hard/official |
+| Climate | PM2.5 exposure | 15.1 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=SG) — hard/official |
+| Climate | Climate zone | Af (tropical rainforest) | [source](https://en.wikipedia.org/wiki/Singapore) — soft/estimate |
+| Climate | Temp winter / summer | Singapore: Jan avg 26°C, Jul avg 28°C | [source](https://en.wikipedia.org/wiki/Climate_of_Singapore) — soft/estimate |
+| Climate | Rainy days | Singapore: ~167 rainy days/year | [source](https://en.wikipedia.org/wiki/Climate_of_Singapore) — soft/estimate |
+| Climate | Humidity | Singapore: ~84% avg annual humidity | [source](https://en.wikipedia.org/wiki/Climate_of_Singapore) — soft/estimate |
+| Climate | Natural hazards | Flash floods, haze; INFORM Risk Index 2025: very low risk | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | PM2.5: ~13.5 µg/m³ (2024, IQAir) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $603.9B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SG) — hard/official |
+| Economy | GDP growth | 5.0% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SG) — hard/official |
+| Economy | Inflation (CPI) | 0.9% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SG) — hard/official |
+| Economy | Unemployment | 2.8% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=SG) — hard/official |
+| Economy | Central govt debt | 168% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=SG) — hard/official |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 3% of exports (2018) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=SG) — hard/official |
+| Economy | Remittances | No reliable data | — |
+| Economy | Credit rating | S&P: AAA, Moody's: Aaa, Fitch: AAA (2025) | [source](https://www.mas.gov.sg/bonds-and-bills/singapore-government-credit-rating) — hard/official |
+| Economy | Currency | SGD, managed float (NEER band), ~+5% vs USD (2020-2025) | [source](https://en.wikipedia.org/wiki/Singapore_dollar) — soft/estimate |
+| Economy | Top industries | Financial services, manufacturing (electronics), wholesale trade | [source](https://en.wikipedia.org/wiki/Economy_of_Singapore) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 5 (2023, atlas.cid.harvard.edu) | [source](https://atlas.cid.harvard.edu/rankings) — hard/official |
+| Technology | Internet users | 94% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=SG) — hard/official |
+| Technology | Fixed broadband subs | 27.8 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=SG) — hard/official |
+| Technology | High-tech exports | 59.4% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=SG) — hard/official |
+| Technology | R&D spend | 1.81% of GDP (2022) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=SG) — hard/official |
+| Technology | Global Innovation Index | GII 2024 rank 4/133 | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 2024: 0.9292, rank 3 | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | fixed broadband: ~270 Mbps median (2025, Ookla) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G SA nationwide >95% coverage (2025) | unsourced/unverified |
+| Technology | Online payments | Stripe available; PayPal and Apple Pay available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink country rank ~17 (2025) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 83.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SG) — hard/official |
+| Human development & health | Hospital beds | 2.8 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=SG) — hard/official |
+| Human development & health | HDI | 0.949, rank 9/193 (2023, UNDP) | [source](https://hdr.undp.org/data-center/human-development-index) — hard/official |
+| Safety | Global Peace Index | rank 8, score 1.435 (2025) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 1: Exercise Normal Precautions (US State Dept, 2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/singapore-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth or inheritance tax; no capital gains tax | [source](https://taxsummaries.pwc.com/singapore) — soft/estimate |
+| Money & tax | CFC rules | CFC rules exist (Section 10H, Income Tax Act) | [source](https://taxsummaries.pwc.com/singapore/corporate/group-taxation) — soft/estimate |
+| Business | Company setup | ~1.5 days via BizFile+, cost S$315 (~$235) | [source](https://www.acra.gov.sg/how-to-guides/setting-up-a-local-company) — soft/estimate |
+| Business | Corporate tax | 17% headline rate (2025) | [source](https://taxsummaries.pwc.com/singapore/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | National University of Singapore (NUS), QS rank 8 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Visa-free for stays up to 30 days (Russian citizens, 2025) | unsourced/unverified |
+| For Russian citizens | Sanctions position | Imposes sanctions on Russia (financial/trade restrictions per UN & autonomous) | [source](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/03/20220305-Sanctions) — soft/estimate |
+| Quality of life | World Happiness rank | WHR 2025 rank 34 | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank 30/53 | [source](https://www.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | EF EPI 2025: rank ~25, score 609; English widely spoken (official language) | [source](https://www.ef.com/wwen/epi/) — soft/estimate |
 
 ## Country Card
 

@@ -2,6 +2,7 @@
 title: South Africa — Republic of South Africa
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, digital-nomad, tax, it_friendly, yacht_captain]
 category: multi
@@ -109,6 +110,68 @@ South Africa is visa-free for Russian citizens (90 days tourist). The Remote Wor
 | Freedom House score | 81/100 — Free (2025) | ^[https://freedomhouse.org/country/south-africa/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~3,100 (Cape Town) / ~3,200 (Johannesburg) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Cape-Town,South-Africa] hard/official |
 | Average annual temperature | ~17°C (Johannesburg, highveld) / ~16°C (Cape Town, Mediterranean) | ^[https://en.climate-data.org/africa/south-africa/gauteng/johannesburg-544/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 1 219 602 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=ZA) — hard/official |
+| Geography & size | Population density | 53 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=ZA) — hard/official |
+| Geography & size | Urban population | 64% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=ZA) — hard/official |
+| Geography & size | Coastline | 2,798 km | [source](https://geofactbook.com/fact/coastline/2023) — soft/estimate |
+| Geography & size | Highest point | Mafadi, 3,451 m | [source](https://en.wikipedia.org/wiki/Mafadi) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/South_Africa) — soft/estimate |
+| Geography & size | Time zone | UTC+2 (SAST), Moscow +1h | [source](https://en.wikipedia.org/wiki/South_Africa) — soft/estimate |
+| Climate | Avg precipitation | 495 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=ZA) — hard/official |
+| Climate | PM2.5 exposure | 27.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=ZA) — hard/official |
+| Climate | Climate zone | Varied: BSh (semi-arid), Cfb (oceanic), Csa (Mediterranean) | [source](https://en.wikipedia.org/wiki/South_Africa) — soft/estimate |
+| Climate | Temp winter / summer | Pretoria: Jan avg 23°C, Jul avg 12°C | [source](https://en.wikipedia.org/wiki/Pretoria) — soft/estimate |
+| Climate | Rainy days | Pretoria: ~77 rainy days/year | [source](https://en.climate-data.org/africa/south-africa/pretoria-4780/) — soft/estimate |
+| Climate | Humidity | Pretoria: ~55% avg annual humidity | [source](https://en.climate-data.org/africa/south-africa/pretoria-4780/) — soft/estimate |
+| Climate | Natural hazards | Drought, flooding; INFORM Risk Index 2025: medium risk | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | PM2.5: ~19.9 µg/m³ (2024, IQAir) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $427.2B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ZA) — hard/official |
+| Economy | GDP growth | 1.1% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=ZA) — hard/official |
+| Economy | Inflation (CPI) | 3.2% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=ZA) — hard/official |
+| Economy | Unemployment | 32.4% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=ZA) — hard/official |
+| Economy | Central govt debt | 83% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=ZA) — hard/official |
+| Economy | Gini index | 54.1 (2022) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=ZA) — hard/official |
+| Economy | Tourism receipts | 3% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=ZA) — hard/official |
+| Economy | Remittances | 0.2% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=ZA) — hard/official |
+| Economy | Credit rating | S&P: BB-, Moody's: Ba2, Fitch: BB- (2025) | [source](https://www.gov.za/news/media-statements/treasury-responds-rating-action-sp-global-ratings-14-nov-2025) — hard/official |
+| Economy | Currency | ZAR, float, ~-30% vs USD (2020-2025) | [source](https://en.wikipedia.org/wiki/South_African_rand) — soft/estimate |
+| Economy | Top industries | Finance/real estate, manufacturing, mining | [source](https://en.wikipedia.org/wiki/Economy_of_South_Africa) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 69 (2023, atlas.cid.harvard.edu) | [source](https://atlas.cid.harvard.edu/rankings) — hard/official |
+| Technology | Internet users | 78% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=ZA) — hard/official |
+| Technology | Fixed broadband subs | 5.3 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=ZA) — hard/official |
+| Technology | High-tech exports | 5.7% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=ZA) — hard/official |
+| Technology | R&D spend | 0.61% of GDP (2022) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=ZA) — hard/official |
+| Technology | Global Innovation Index | GII 2024 rank 69/133 | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 2024: 0.7418, rank 74 | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | fixed broadband: ~50 Mbps median (2025, Ookla) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G commercially available, ~25% population coverage (2025) | [source](https://www.gsma.com/somic/) — soft/estimate |
+| Technology | Online payments | Stripe available; PayPal available, Apple Pay limited | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink country rank ~52 (2025) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 66.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=ZA) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | 0.717, rank 110/193 (2023, UNDP) | [source](https://hdr.undp.org/data-center/human-development-index) — hard/official |
+| Safety | Global Peace Index | rank ~136, score ~2.55 (2025) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (US State Dept, 2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/south-africa-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; estate duty 20%/25%; capital gains tax effective ~18% (individuals) | [source](https://taxsummaries.pwc.com/south-africa/individual/other-taxes) — soft/estimate |
+| Money & tax | CFC rules | CFC rules exist (Section 9D, Income Tax Act) | [source](https://taxsummaries.pwc.com/south-africa/corporate/group-taxation) — soft/estimate |
+| Business | Company setup | ~7 days via CIPC, cost ~R175 (2025) | [source](https://www.cipc.co.za/) — soft/estimate |
+| Business | Corporate tax | 27% headline rate (2025) | [source](https://taxsummaries.pwc.com/south-africa/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | University of Cape Town, QS rank 171 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free for stays up to 90 days (Russian citizens, suspended per government review 2025) | [source](https://www.dha.gov.za/index.php/immigration-services/exempt-countries) — soft/estimate |
+| For Russian citizens | Sanctions position | No autonomous sanctions; calls for dialogue, maintains neutrality | [source](https://www.dirco.gov.za/south-africas-statement-on-the-situation-in-ukraine/) — soft/estimate |
+| Quality of life | World Happiness rank | WHR 2025 rank ~95 | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank 38/53 | [source](https://www.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | EF EPI 2025: rank 13, score 602; English widely spoken (official language) | [source](https://www.ef.com/wwen/epi/regions/africa/south-africa/) — soft/estimate |
 
 ## Country Card
 

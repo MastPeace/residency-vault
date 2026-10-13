@@ -2,6 +2,7 @@
 title: Solomon Islands — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-13
 last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, clear_pathway]
@@ -105,6 +106,68 @@ Very low expat volume. Practical reports emphasise the 5-year prior-stay require
 | Freedom House score | 74/100 Free (2026); 75/100 (2025) | [Freedom House](https://freedomhouse.org/country/solomon-islands) — hard/official |
 | Average annual sunshine hours | No reliable data | confidence low |
 | Average annual temperature | ~27 °C (Honiara, tropical) | confidence low |
+
+## Extended Snapshot
+
+_Coverage: 49/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 28 446 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=SB) — hard/official |
+| Geography & size | Population density | 29 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=SB) — hard/official |
+| Geography & size | Urban population | 31% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=SB) — hard/official |
+| Geography & size | Coastline | 5,313 km | [source](https://geofactbook.com/fact/coastline/2023) — soft/estimate |
+| Geography & size | Highest point | Mount Popomanaseu, 2,335 m | [source](https://en.wikipedia.org/wiki/Mount_Popomanaseu) — soft/estimate |
+| Geography & size | Type | archipelago | [source](https://en.wikipedia.org/wiki/Solomon_Islands) — soft/estimate |
+| Geography & size | Time zone | UTC+11, Moscow +8h | [source](https://en.wikipedia.org/wiki/Solomon_Islands) — soft/estimate |
+| Climate | Avg precipitation | 3028 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=SB) — hard/official |
+| Climate | PM2.5 exposure | 9.8 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=SB) — hard/official |
+| Climate | Climate zone | Af (tropical rainforest) | [source](https://en.wikipedia.org/wiki/Solomon_Islands) — soft/estimate |
+| Climate | Temp winter / summer | Honiara: Jan avg 27°C, Jul avg 26°C | [source](https://en.wikipedia.org/wiki/Honiara) — soft/estimate |
+| Climate | Rainy days | Honiara: ~190 rainy days/year | [source](https://en.climate-data.org/oceania/solomon-islands/honiara-4778/) — soft/estimate |
+| Climate | Humidity | Honiara: ~80% avg annual humidity | [source](https://en.climate-data.org/oceania/solomon-islands/honiara-4778/) — soft/estimate |
+| Climate | Natural hazards | Cyclones, earthquakes, tsunamis, flooding; INFORM Risk Index: high risk | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | No reliable data | — |
+| Economy | GDP (nominal) | $1.7B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SB) — hard/official |
+| Economy | GDP growth | 3.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SB) — hard/official |
+| Economy | Inflation (CPI) | 3.4% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SB) — hard/official |
+| Economy | Unemployment | 1.4% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=SB) — hard/official |
+| Economy | Central govt debt | 26% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=SB) — hard/official |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 2% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=SB) — hard/official |
+| Economy | Remittances | 6.0% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=SB) — hard/official |
+| Economy | Credit rating | not rated by S&P/Moody's/Fitch | [source](https://www.spglobal.com/ratings/en/) — hard/official |
+| Economy | Currency | SBD (Solomon Islands dollar), basket peg, ~-10% vs USD (2020-2025) | [source](https://en.wikipedia.org/wiki/Solomon_Islands_dollar) — soft/estimate |
+| Economy | Top industries | Agriculture (copra, palm oil), fishing, forestry | [source](https://en.wikipedia.org/wiki/Economy_of_Solomon_Islands) — soft/estimate |
+| Economy | Economic Complexity | ECI rank ~165 (2023, atlas.cid.harvard.edu) | [source](https://atlas.cid.harvard.edu/rankings) — hard/official |
+| Technology | Internet users | 29% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=SB) — hard/official |
+| Technology | Fixed broadband subs | 0.1 per 100 people (2022) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=SB) — hard/official |
+| Technology | High-tech exports | 1.4% of manufactured exports (2018) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=SB) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | not ranked in GII 2024 | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 2024: 0.3021, rank 178 | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | fixed broadband: not in Ookla Global Index (2025) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G not available (2025) | [source](https://www.gsma.com/somic/) — soft/estimate |
+| Technology | Online payments | Stripe not available; PayPal limited availability | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank not in top 100 (2025) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 70.7 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SB) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | 0.562, rank 156/193 (2023, UNDP) | [source](https://hdr.undp.org/data-center/human-development-index) — hard/official |
+| Safety | Global Peace Index | not ranked in GPI 2025 | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (US State Dept, 2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/solomon-islands-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth or inheritance tax; capital gains tax not specifically levied | [source](https://taxsummaries.pwc.com/solomon-islands) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (PwC) | [source](https://taxsummaries.pwc.com/solomon-islands) — soft/estimate |
+| Business | Company setup | ~9 days, cost ~SBD 5,000 (2020, World Bank) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/solomon-islands) — soft/estimate |
+| Business | Corporate tax | 30% resident, 35% non-resident (2025) | [source](https://taxsummaries.pwc.com/solomon-islands) — soft/estimate |
+| Family & education | Top university | University of the South Pacific (Solomon Islands campus), not in QS rankings | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa required for short stays (2025) | [source](https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens) — soft/estimate |
+| For Russian citizens | Sanctions position | No autonomous sanctions; supports UN resolutions condemning Russia's invasion | [source](https://en.wikipedia.org/wiki/Foreign_relations_of_Solomon_Islands) — soft/estimate |
+| Quality of life | World Happiness rank | WHR 2025 rank ~115 | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | not listed in InterNations Expat Insider 2024 | [source](https://www.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | EF EPI: not ranked; English is official language | [source](https://www.ef.com/wwen/epi/) — soft/estimate |
 
 ## Country Card
 

@@ -2,6 +2,7 @@
 title: Sierra Leone — Republic of Sierra Leone
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, employment_residency, investment_residency, tax]
 category: clear_pathway
@@ -98,6 +99,68 @@ Limited English-language expat forum data. The expat presence is small, concentr
 | Freedom House score | 59/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/sierra-leone/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,200 h | ^[https://en.climate-data.org/africa/sierra-leone/] hard/official |
 | Average annual temperature | ~27 °C (tropical) | ^[https://en.climate-data.org/africa/sierra-leone/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 72 300 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=SL) — hard/official |
+| Geography & size | Population density | 120 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=SL) — hard/official |
+| Geography & size | Urban population | 46% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=SL) — hard/official |
+| Geography & size | Coastline | 402 km | [source](https://en.wikipedia.org/wiki/Geography_of_Sierra_Leone) — soft/estimate |
+| Geography & size | Highest point | Mount Bintumani, 1,948 m | [source](https://en.wikipedia.org/wiki/Geography_of_Sierra_Leone) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Sierra_Leone) — soft/estimate |
+| Geography & size | Time zone | UTC+0 (GMT), Moscow +3h | [source](https://en.wikipedia.org/wiki/Sierra_Leone) — soft/estimate |
+| Climate | Avg precipitation | 2526 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=SL) — hard/official |
+| Climate | PM2.5 exposure | 22.5 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=SL) — hard/official |
+| Climate | Climate zone | Am (tropical monsoon) | [source](https://en.wikipedia.org/wiki/Sierra_Leone) — soft/estimate |
+| Climate | Temp winter / summer | Freetown: Jan avg 27°C, Jul avg 25°C | [source](https://en.wikipedia.org/wiki/Freetown) — soft/estimate |
+| Climate | Rainy days | Freetown: ~180 rainy days/year | [source](https://en.climate-data.org/africa/sierra-leone/freetown-4766/) — soft/estimate |
+| Climate | Humidity | Freetown: ~83% avg annual humidity | [source](https://en.climate-data.org/africa/sierra-leone/freetown-4766/) — soft/estimate |
+| Climate | Natural hazards | Flooding, landslides, coastal erosion; INFORM Risk Index 2025: high risk | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | PM2.5: ~18.5 µg/m³ (2024, IQAir) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $7.5B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SL) — hard/official |
+| Economy | GDP growth | 4.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SL) — hard/official |
+| Economy | Inflation (CPI) | 7.5% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SL) — hard/official |
+| Economy | Unemployment | 3.1% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=SL) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 35.7 (2018) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=SL) — hard/official |
+| Economy | Tourism receipts | 5% of exports (2018) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=SL) — hard/official |
+| Economy | Remittances | 4.6% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=SL) — hard/official |
+| Economy | Credit rating | not rated by S&P/Moody's/Fitch | [source](https://www.spglobal.com/ratings/en/) — hard/official |
+| Economy | Currency | SLL (Sierra Leonean leone), float, ~-40% vs USD (2020-2025) | [source](https://en.wikipedia.org/wiki/Sierra_Leonean_leone) — soft/estimate |
+| Economy | Top industries | Mining (diamonds, rutile), agriculture, services | [source](https://en.wikipedia.org/wiki/Economy_of_Sierra_Leone) — soft/estimate |
+| Economy | Economic Complexity | ECI rank ~135 (2023, atlas.cid.harvard.edu) | [source](https://atlas.cid.harvard.edu/rankings) — hard/official |
+| Technology | Internet users | 25% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=SL) — hard/official |
+| Technology | Fixed broadband subs | 0.0 per 100 people (2021) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=SL) — hard/official |
+| Technology | High-tech exports | 0.7% of manufactured exports (2018) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=SL) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | not ranked in GII 2024 | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 2024: 0.3123, rank 175 | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | fixed broadband: ~15 Mbps median (2025, Ookla) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G not commercially available (2025) | [source](https://www.gsma.com/somic/) — soft/estimate |
+| Technology | Online payments | Stripe not available; PayPal limited availability | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank not in top 100 (2025) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 62.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SL) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | 0.467, rank 185/193 (2023, UNDP) | [source](https://hdr.undp.org/data-center/human-development-index) — hard/official |
+| Safety | Global Peace Index | rank ~55, score ~1.81 (2025) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (US State Dept, 2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/sierra-leone-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth or inheritance tax; capital gains tax 25% | [source](https://taxsummaries.pwc.com/sierra-leone) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (PwC) | [source](https://taxsummaries.pwc.com/sierra-leone) — soft/estimate |
+| Business | Company setup | ~8 days, cost ~$300 (2020, World Bank) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/sierra-leone) — soft/estimate |
+| Business | Corporate tax | 30% headline rate (2025) | [source](https://taxsummaries.pwc.com/sierra-leone) — soft/estimate |
+| Family & education | Top university | Fourah Bay College, not in QS World Rankings | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa required for short stays (2025) | [source](https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens) — soft/estimate |
+| For Russian citizens | Sanctions position | No autonomous sanctions against Russia; complies with UN resolutions | [source](https://en.wikipedia.org/wiki/Foreign_relations_of_Sierra_Leone) — soft/estimate |
+| Quality of life | World Happiness rank | WHR 2025 rank ~129 | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | not listed in InterNations Expat Insider 2024 | [source](https://www.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | EF EPI: not ranked; English is official language, widely spoken in urban areas | [source](https://www.ef.com/wwen/epi/) — soft/estimate |
 
 ## Country Card
 

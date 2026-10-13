@@ -2,6 +2,7 @@
 title: Slovenia — Slovenia
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, digital-nomad, startup-visa, it_friendly]
 category: it_friendly
@@ -109,6 +110,68 @@ Russian citizens need a Schengen visa. The DN visa and company registration rout
 | Freedom House score | 96/100 Free | ^[https://freedomhouse.org/country/slovenia/freedom-world/2025] hard/official |
 | Average annual sunshine hours | 1,712 (Ljubljana) | ^[https://en.wikipedia.org/wiki/List_of_cities_in_Europe_by_sunshine_duration] hard/official |
 | Average annual temperature | ~10.9°C (Ljubljana) | ^[https://en.wikipedia.org/wiki/Ljubljana#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 20 480 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=SI) — hard/official |
+| Geography & size | Population density | 106 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=SI) — hard/official |
+| Geography & size | Urban population | 56% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=SI) — hard/official |
+| Geography & size | Coastline | 46.6 km | [source](https://slovenia.si/this-is-slovenia/slovenia-a-maritime-country/) — soft/estimate |
+| Geography & size | Highest point | Triglav, 2,864 m | [source](https://en.wikipedia.org/wiki/Geography_of_Slovenia) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Slovenia) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 (CEST summer), Moscow -1h/-2h | [source](https://en.wikipedia.org/wiki/Slovenia) — soft/estimate |
+| Climate | Avg precipitation | 1162 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=SI) — hard/official |
+| Climate | PM2.5 exposure | 12.6 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=SI) — hard/official |
+| Climate | Climate zone | Cfb (oceanic) in coast, Dfb (humid continental) inland | [source](https://en.wikipedia.org/wiki/Slovenia) — soft/estimate |
+| Climate | Temp winter / summer | Ljubljana: Jan avg 0°C, Jul avg 21°C | [source](https://en.wikipedia.org/wiki/Ljubljana) — soft/estimate |
+| Climate | Rainy days | Ljubljana: ~127 rainy days/year | [source](https://en.climate-data.org/europe/slovenia/ljubljana-4772/) — soft/estimate |
+| Climate | Humidity | Ljubljana: ~80% avg annual humidity | [source](https://en.climate-data.org/europe/slovenia/ljubljana-4772/) — soft/estimate |
+| Climate | Natural hazards | Flooding, earthquakes; INFORM Risk Index 2025: very low risk | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | PM2.5: ~13.3 µg/m³ (2024, IQAir) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $79.6B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SI) — hard/official |
+| Economy | GDP growth | 1.1% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SI) — hard/official |
+| Economy | Inflation (CPI) | 2.4% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SI) — hard/official |
+| Economy | Unemployment | 3.2% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=SI) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 24.7 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=SI) — hard/official |
+| Economy | Tourism receipts | 3% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=SI) — hard/official |
+| Economy | Remittances | 1.4% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=SI) — hard/official |
+| Economy | Credit rating | S&P: AA-, Moody's: A3, Fitch: A+ (2025) | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-slovenia-at-a-outlook-stable-2025) — hard/official |
+| Economy | Currency | EUR, float, ~-5% vs USD (2020-2025) | [source](https://en.wikipedia.org/wiki/Euro) — soft/estimate |
+| Economy | Top industries | Manufacturing, services (tourism), pharmaceuticals | [source](https://en.wikipedia.org/wiki/Economy_of_Slovenia) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 11 (2023, atlas.cid.harvard.edu) | [source](https://atlas.cid.harvard.edu/rankings) — hard/official |
+| Technology | Internet users | 91% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=SI) — hard/official |
+| Technology | Fixed broadband subs | 34.2 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=SI) — hard/official |
+| Technology | High-tech exports | 8.3% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=SI) — hard/official |
+| Technology | R&D spend | 2.13% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=SI) — hard/official |
+| Technology | Global Innovation Index | GII 2024 rank 34/133 | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 2024: 0.8839, rank 21 | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | fixed broadband: ~110 Mbps median (2025, Ookla) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G commercially available, >60% population coverage (2025) | [source](https://www.gsma.com/somic/) — soft/estimate |
+| Technology | Online payments | Stripe available; PayPal and Apple Pay available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink country rank ~43 (2025) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 82.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SI) — hard/official |
+| Human development & health | Hospital beds | 4.1 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=SI) — hard/official |
+| Human development & health | HDI | 0.926, rank 22/193 (2023, UNDP) | [source](https://hdr.undp.org/data-center/human-development-index) — hard/official |
+| Safety | Global Peace Index | rank 4, score 1.369 (2025) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 1: Exercise Normal Precautions (US State Dept, 2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/slovenia-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 0-39%; capital gains tax 0-25% | [source](https://taxsummaries.pwc.com/slovenia/individual/other-taxes) — soft/estimate |
+| Money & tax | CFC rules | CFC rules exist (EU ATAD implementation) | [source](https://taxsummaries.pwc.com/slovenia/corporate/group-taxation) — soft/estimate |
+| Business | Company setup | ~6 days, cost ~€0 (e-registration, 2020 World Bank) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/slovenia) — soft/estimate |
+| Business | Corporate tax | 19% headline rate (2025) | [source](https://taxsummaries.pwc.com/slovenia/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | University of Ljubljana, QS rank ~601-610 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | Schengen visa required for short stays (Russian citizens, suspended per EU sanctions, 2025) | unsourced/unverified |
+| For Russian citizens | Sanctions position | Imposes EU sanctions on Russia (full EU sanctions regime) | [source](https://www.consilium.europa.eu/en/policies/sanctions-against-russia/) — hard/official |
+| Quality of life | World Happiness rank | WHR 2025 rank ~22 | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank ~25/53 | [source](https://www.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | EF EPI 2025: not in top 25; English moderately spoken | [source](https://www.ef.com/wwen/epi/) — soft/estimate |
 
 ## Country Card
 

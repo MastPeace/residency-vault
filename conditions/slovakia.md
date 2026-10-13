@@ -2,6 +2,7 @@
 title: Slovakia — Slovakia
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, blue-card, work-visa, it_friendly]
 category: clear_pathway
@@ -110,6 +111,68 @@ Russian citizens need a Schengen visa. Blue Card and work permit routes are form
 | Freedom House score | 89/100 Free | ^[https://freedomhouse.org/country/slovakia/freedom-world/2025] hard/official |
 | Average annual sunshine hours | 2,056 (Bratislava) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Bratislava,Slovakia] hard/official |
 | Average annual temperature | ~10.5°C (Bratislava) | ^[https://en.wikipedia.org/wiki/Bratislava#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 49 030 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=SK) — hard/official |
+| Geography & size | Population density | 113 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=SK) — hard/official |
+| Geography & size | Urban population | 53% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=SK) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://en.wikipedia.org/wiki/Geography_of_Slovakia) — soft/estimate |
+| Geography & size | Highest point | Gerlachovský štít, 2,655 m | [source](https://en.wikipedia.org/wiki/Geography_of_Slovakia) — soft/estimate |
+| Geography & size | Type | landlocked | [source](https://en.wikipedia.org/wiki/Slovakia) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 (CEST summer), Moscow -1h/-2h | [source](https://en.wikipedia.org/wiki/Slovakia) — soft/estimate |
+| Climate | Avg precipitation | 824 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=SK) — hard/official |
+| Climate | PM2.5 exposure | 13.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=SK) — hard/official |
+| Climate | Climate zone | Dfb (warm-summer humid continental) | [source](https://en.wikipedia.org/wiki/Slovakia) — soft/estimate |
+| Climate | Temp winter / summer | Bratislava: Jan avg -1°C, Jul avg 21°C | [source](https://en.wikipedia.org/wiki/Bratislava) — soft/estimate |
+| Climate | Rainy days | Bratislava: ~109 rainy days/year | [source](https://en.climate-data.org/europe/slovakia/bratislava-4768/) — soft/estimate |
+| Climate | Humidity | Bratislava: ~75% avg annual humidity | [source](https://en.climate-data.org/europe/slovakia/bratislava-4768/) — soft/estimate |
+| Climate | Natural hazards | Flooding; INFORM Risk Index 2025: very low risk | [source](https://drmkc.jrc.ec.europa.eu/inform-index) — soft/estimate |
+| Climate | Air quality | PM2.5: ~15.5 µg/m³ (2024, IQAir) | [source](https://www.iqair.com/world-air-quality-report) — soft/estimate |
+| Economy | GDP (nominal) | $154.5B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SK) — hard/official |
+| Economy | GDP growth | 0.8% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SK) — hard/official |
+| Economy | Inflation (CPI) | 4.0% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SK) — hard/official |
+| Economy | Unemployment | 5.4% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=SK) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 23.8 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=SK) — hard/official |
+| Economy | Tourism receipts | 1% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=SK) — hard/official |
+| Economy | Remittances | 2.1% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=SK) — hard/official |
+| Economy | Credit rating | S&P: A+, Moody's: A2, Fitch: A- (2025) | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-slovakia-at-a-outlook-stable-2025) — hard/official |
+| Economy | Currency | EUR, float, ~-5% vs USD (2020-2025) | [source](https://en.wikipedia.org/wiki/Euro) — soft/estimate |
+| Economy | Top industries | Automotive, electronics manufacturing, services | [source](https://en.wikipedia.org/wiki/Economy_of_Slovakia) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 16 (2023, atlas.cid.harvard.edu) | [source](https://atlas.cid.harvard.edu/rankings) — hard/official |
+| Technology | Internet users | 90% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=SK) — hard/official |
+| Technology | Fixed broadband subs | 33.8 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=SK) — hard/official |
+| Technology | High-tech exports | 10.6% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=SK) — hard/official |
+| Technology | R&D spend | 1.03% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=SK) — hard/official |
+| Technology | Global Innovation Index | GII 2024 rank 45/133 | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 2024: 0.8342, rank 38 | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | fixed broadband: ~110 Mbps median (2025, Ookla) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G commercially available, ~50% population coverage (2025) | [source](https://www.gsma.com/somic/) — soft/estimate |
+| Technology | Online payments | Stripe available; PayPal and Apple Pay available | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink country rank ~55 (2025) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 78.4 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SK) — hard/official |
+| Human development & health | Hospital beds | 5.6 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=SK) — hard/official |
+| Human development & health | HDI | 0.855, rank 45/193 (2023, UNDP) | [source](https://hdr.undp.org/data-center/human-development-index) — hard/official |
+| Safety | Global Peace Index | rank ~25, score ~1.55 (2025) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 1: Exercise Normal Precautions (US State Dept, 2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/slovakia-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth or inheritance tax; capital gains tax 19%/25% | [source](https://taxsummaries.pwc.com/slovak-republic/individual/other-taxes) — soft/estimate |
+| Money & tax | CFC rules | CFC rules exist (EU ATAD implementation) | [source](https://taxsummaries.pwc.com/slovak-republic/corporate/group-taxation) — soft/estimate |
+| Business | Company setup | ~7 days, cost ~€150 (2020, World Bank) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/slovakia) — soft/estimate |
+| Business | Corporate tax | 21% headline rate (2025) | [source](https://taxsummaries.pwc.com/slovak-republic/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Comenius University Bratislava, QS rank ~661-670 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — soft/estimate |
+| Connectivity | Visa-free for Russians | Schengen visa required for short stays (Russian citizens, suspended per EU sanctions, 2025) | unsourced/unverified |
+| For Russian citizens | Sanctions position | Imposes EU sanctions on Russia (full EU sanctions regime) | [source](https://www.consilium.europa.eu/en/policies/sanctions-against-russia/) — hard/official |
+| Quality of life | World Happiness rank | WHR 2025 rank ~42 | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | InterNations Expat Insider 2024: rank 45/53 | [source](https://www.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | EF EPI 2025: rank 10, score 606; English moderately spoken | [source](https://www.ef.com/wwen/epi/regions/europe/slovakia/) — soft/estimate |
 
 ## Country Card
 
