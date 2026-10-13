@@ -2,6 +2,7 @@
 title: Romania — Romania
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, digital-nomad, blue-card, tax, it_friendly]
 category: it_friendly
@@ -110,6 +111,68 @@ The digital nomad visa is open to Russian nationals — one of the more accessib
 | Freedom House score | 82/100 Free | ^[https://freedomhouse.org/country/romania/freedom-world/2025] hard/official |
 | Average annual sunshine hours | 2,112 (Bucharest) | ^[https://en.wikipedia.org/wiki/List_of_cities_in_Europe_by_sunshine_duration] hard/official |
 | Average annual temperature | ~10.8°C (Bucharest) | ^[https://en.wikipedia.org/wiki/Bucharest#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 43/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 238 397 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=RO) — hard/official |
+| Geography & size | Population density | 83 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=RO) — hard/official |
+| Geography & size | Urban population | 52% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=RO) — hard/official |
+| Geography & size | Coastline | 225 km (Black Sea) | [source](https://www.cia.gov/the-world-factbook/countries/romania/) — hard/official |
+| Geography & size | Highest point | Moldoveanu, 2,544 m (Carpathian Mountains) | [source](https://en.wikipedia.org/wiki/Moldoveanu_Peak) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://www.worlddata.info/europe/romania/index.php) — soft/estimate |
+| Geography & size | Time zone | UTC+2 EET / UTC+3 EEST, 1 hour behind Moscow (UTC+3) | [source](https://www.timeanddate.com/worldclock/romania/bucharest) — soft/estimate |
+| Climate | Avg precipitation | 637 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=RO) — hard/official |
+| Climate | PM2.5 exposure | 16.0 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=RO) — hard/official |
+| Climate | Climate zone | Dfb (humid continental), Cfb (oceanic) in lowlands | [source](https://en.wikipedia.org/wiki/Climate_of_Romania) — soft/estimate |
+| Climate | Temp winter / summer | Bucharest: Jan avg -1°C, Jul avg 23°C | [source](https://www.worlddata.info/europe/romania/climate.php) — soft/estimate |
+| Climate | Rainy days | Bucharest: ~115 rainy days per year, 585 mm annually | [source](https://www.worlddata.info/europe/romania/climate.php) — soft/estimate |
+| Climate | Humidity | Bucharest: ~74% average annual relative humidity | [source](https://www.worlddata.info/europe/romania/climate.php) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, floods, landslides | [source](https://www.cia.gov/the-world-factbook/countries/romania/) — hard/official |
+| Climate | Air quality | No reliable data | — |
+| Economy | GDP (nominal) | $428.7B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=RO) — hard/official |
+| Economy | GDP growth | 0.7% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=RO) — hard/official |
+| Economy | Inflation (CPI) | 7.2% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=RO) — hard/official |
+| Economy | Unemployment | 6.0% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=RO) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 29.8 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=RO) — hard/official |
+| Economy | Tourism receipts | 2% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=RO) — hard/official |
+| Economy | Remittances | 2.5% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=RO) — hard/official |
+| Economy | Credit rating | S&P BBB- / Moody's Baa3 / Fitch BBB- (2025) | [source](https://tradingeconomics.com/romania/rating) — soft/estimate |
+| Economy | Currency | RON, managed float, ~-10% vs USD (2020–2025) | [source](https://www.xe.com/currencycharts/?from=RON&to=USD) — soft/estimate |
+| Economy | Top industries | Services (61%), industry (30%), agriculture (4%) — 2024 est. | [source](https://www.cia.gov/the-world-factbook/countries/romania/) — hard/official |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 91% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=RO) — hard/official |
+| Technology | Fixed broadband subs | 35.8 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=RO) — hard/official |
+| Technology | High-tech exports | 13.4% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=RO) — hard/official |
+| Technology | R&D spend | 0.52% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=RO) — hard/official |
+| Technology | Global Innovation Index | Rank 49 out of 139 (GII 2025) | [source](https://www.wipo.int/gii-ranking/en/romania) — hard/official |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | No reliable data | — |
+| Technology | Online payments | Stripe available for Romania-based businesses (2025) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 76.5 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=RO) — hard/official |
+| Human development & health | Hospital beds | 7.2 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=RO) — hard/official |
+| Human development & health | HDI | 0.827, rank 53 (2022) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | Rank 45, score 1.788 (GPI 2026) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 1 – Exercise Normal Precautions (2025) | [source](https://travel.state.gov/en/international-travel/travel-advisories/romania.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No reliable data | — |
+| Money & tax | CFC rules | Yes, CFC rules apply (EU member, Romanian Fiscal Code) | [source](https://taxsummaries.pwc.com/romania/corporate/group-taxation) — soft/estimate |
+| Business | Company setup | No reliable data | — |
+| Business | Corporate tax | 16% standard; 1% or 3% for micro-enterprises (2025) | [source](https://taxsummaries.pwc.com/romania/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Babeș-Bolyai University, QS rank #962 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Schengen visa required; EU suspended visa facilitation with Russia (2022) | [source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022D1500) — hard/official |
+| For Russian citizens | Sanctions position | Full EU sanctions against Russia, strongly supportive of Ukraine | [source](https://www.consilium.europa.eu/en/policies/sanctions-against-russia/) — hard/official |
+| Quality of life | World Happiness rank | Rank 34, score 6.60 (World Happiness Report 2025) | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI rank #11, score 605, very high English proficiency (2025) | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

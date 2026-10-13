@@ -2,6 +2,7 @@
 title: Peru — Residency & Citizenship Conditions
 created: 2026-09-14
 updated: 2026-09-14
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, tax, digital-nomad, rentista, investor]
 category: clear_pathway
@@ -166,6 +167,68 @@ Not a major yachting hub. No special yacht/captain residency program.
 | Freedom House score | 66/100 (Partly Free) | [Freedom House](https://freedomhouse.org/country/peru/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~1,200 h (Lima — coastal fog); 2,400+ h (Cusco, highlands) | [Current Results](https://www.currentresults.com/Weather/Peru/sunshine-annual-average.php) — hard/official |
 | Average annual temperature | ~19 °C (Lima, coastal); ~12 °C (Cusco, highlands); ~25 °C (Amazon lowlands) | [CIA World Factbook](https://www.cia.gov/the-world-factbook/countries/peru/) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 42/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 1 285 216 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=PE) — hard/official |
+| Geography & size | Population density | 27 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=PE) — hard/official |
+| Geography & size | Urban population | 86% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=PE) — hard/official |
+| Geography & size | Coastline | 2,414 km | [source](https://www.cia.gov/the-world-factbook/countries/peru/) — hard/official |
+| Geography & size | Highest point | Huascarán, 6,768 m | [source](https://en.wikipedia.org/wiki/Huascar%C3%A1n) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://www.worlddata.info/america/peru/index.php) — soft/estimate |
+| Geography & size | Time zone | UTC-5, 8 hours behind Moscow (UTC+3) | [source](https://www.timeanddate.com/worldclock/peru/lima) — soft/estimate |
+| Climate | Avg precipitation | 1738 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=PE) — hard/official |
+| Climate | PM2.5 exposure | 31.1 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=PE) — hard/official |
+| Climate | Climate zone | BWh (coastal desert), ETH (highland), Af (Amazon rainforest) | [source](https://en.wikipedia.org/wiki/Climate_of_Peru) — soft/estimate |
+| Climate | Temp winter / summer | Lima: Jan avg 26°C high, Jul avg 15°C low | [source](https://www.worlddata.info/america/peru/climate.php) — soft/estimate |
+| Climate | Rainy days | Lima: ~16 rainy days per year | [source](https://www.worlddata.info/america/peru/climate.php) — soft/estimate |
+| Climate | Humidity | Lima: ~80% average annual relative humidity | [source](https://www.worlddata.info/america/peru/climate.php) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, tsunamis, floods, landslides, volcanic activity | [source](https://www.cia.gov/the-world-factbook/countries/peru/) — hard/official |
+| Climate | Air quality | No reliable data | — |
+| Economy | GDP (nominal) | $334.9B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PE) — hard/official |
+| Economy | GDP growth | 3.4% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=PE) — hard/official |
+| Economy | Inflation (CPI) | 1.5% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=PE) — hard/official |
+| Economy | Unemployment | 5.1% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=PE) — hard/official |
+| Economy | Central govt debt | 35% of GDP (2021) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=PE) — hard/official |
+| Economy | Gini index | 40.1 (2024) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=PE) — hard/official |
+| Economy | Tourism receipts | 2% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=PE) — hard/official |
+| Economy | Remittances | 1.6% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=PE) — hard/official |
+| Economy | Credit rating | S&P BBB / Moody's Baa1 / Fitch BBB (2025) | [source](https://tradingeconomics.com/peru/rating) — soft/estimate |
+| Economy | Currency | PEN, managed float, ~-15% vs USD (2020–2025) | [source](https://www.xe.com/currencycharts/?from=PEN&to=USD) — soft/estimate |
+| Economy | Top industries | Services (56%), industry (33%), agriculture (7%) — 2024 est. | [source](https://www.cia.gov/the-world-factbook/countries/peru/) — hard/official |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 82% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=PE) — hard/official |
+| Technology | Fixed broadband subs | 11.7 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=PE) — hard/official |
+| Technology | High-tech exports | 5.2% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=PE) — hard/official |
+| Technology | R&D spend | 0.18% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=PE) — hard/official |
+| Technology | Global Innovation Index | Rank 80 out of 139 (GII 2025) | [source](https://www.wipo.int/gii-ranking/en/peru) — hard/official |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | No reliable data | — |
+| Technology | Online payments | Stripe not available for Peru-based businesses (2025) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 77.9 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=PE) — hard/official |
+| Human development & health | Hospital beds | 1.6 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=PE) — hard/official |
+| Human development & health | HDI | 0.762, rank 87 (2022) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | No reliable data | — |
+| Safety | US travel advisory | Level 2 – Exercise Increased Caution (2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/peru-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No reliable data | — |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | No reliable data | — |
+| Business | Corporate tax | 29.5% (2025) | [source](https://taxsummaries.pwc.com/peru/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Pontificia Universidad Católica del Perú (PUCP), QS rank #1127 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Visa-free entry up to 90 days for Russian citizens | [source](https://www.henleyglobal.com/passport-index/ranking) — hard/official |
+| For Russian citizens | Sanctions position | Peru has not imposed unilateral sanctions on Russia; complies with UN Charter | [source](https://www.gob.pe/en/institucion/rree/noticias) — soft/estimate |
+| Quality of life | World Happiness rank | Rank 72, score 5.974 (World Happiness Report 2025) | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI rank #52, score 529, moderate English proficiency (2025) | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

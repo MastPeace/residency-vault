@@ -2,6 +2,7 @@
 title: Rwanda — Republic of Rwanda
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, digital-nomad, it_friendly, investment_residency, startup_entrepreneur]
 category: it_friendly
@@ -102,6 +103,68 @@ Rwanda offers visa-free entry for 30 days (or eVisa). Russian citizens can apply
 | Freedom House score | 23/100 — Not Free (2025) | ^[https://freedomhouse.org/country/rwanda/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,200 (Kigali) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Kigali,Rwanda] hard/official |
 | Average annual temperature | ~21°C (Kigali, tropical highland) | ^[https://en.climate-data.org/africa/rwanda/kigali/kigali-1079/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 40/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 26 340 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=RW) — hard/official |
+| Geography & size | Population density | 600 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=RW) — hard/official |
+| Geography & size | Urban population | 31% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=RW) — hard/official |
+| Geography & size | Coastline | 0 (landlocked) | [source](https://www.cia.gov/the-world-factbook/countries/rwanda/) — hard/official |
+| Geography & size | Highest point | Mount Karisimbi, 4,507 m (Virunga Mountains) | [source](https://en.wikipedia.org/wiki/Mount_Karisimbi) — soft/estimate |
+| Geography & size | Type | landlocked | [source](https://www.worlddata.info/africa/rwanda/index.php) — soft/estimate |
+| Geography & size | Time zone | UTC+2 CAT, 1 hour behind Moscow (UTC+3) | [source](https://www.timeanddate.com/worldclock/rwanda/kigali) — soft/estimate |
+| Climate | Avg precipitation | 1212 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=RW) — hard/official |
+| Climate | PM2.5 exposure | 36.0 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=RW) — hard/official |
+| Climate | Climate zone | Aw (tropical savanna climate) | [source](https://en.wikipedia.org/wiki/Climate_of_Rwanda) — soft/estimate |
+| Climate | Temp winter / summer | Kigali: Jan avg 21°C, Jul avg 21°C (minimal seasonal variation) | [source](https://www.worlddata.info/africa/rwanda/climate.php) — soft/estimate |
+| Climate | Rainy days | Kigali: ~130 rainy days per year, 950 mm annually | [source](https://www.worlddata.info/africa/rwanda/climate.php) — soft/estimate |
+| Climate | Humidity | Kigali: ~71% average annual relative humidity | [source](https://www.worlddata.info/africa/rwanda/climate.php) — soft/estimate |
+| Climate | Natural hazards | Landslides, floods, droughts, occasional volcanic activity | [source](https://www.cia.gov/the-world-factbook/countries/rwanda/) — hard/official |
+| Climate | Air quality | No reliable data | — |
+| Economy | GDP (nominal) | $16.4B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=RW) — hard/official |
+| Economy | GDP growth | 9.4% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=RW) — hard/official |
+| Economy | Inflation (CPI) | 5.9% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=RW) — hard/official |
+| Economy | Unemployment | 11.4% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=RW) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 39.4 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=RW) — hard/official |
+| Economy | Tourism receipts | 11% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=RW) — hard/official |
+| Economy | Remittances | 3.4% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=RW) — hard/official |
+| Economy | Credit rating | S&P B+ / Moody's B2 / Fitch B+ (2025) | [source](https://tradingeconomics.com/rwanda/rating) — soft/estimate |
+| Economy | Currency | RWF, managed float, ~-20% vs USD (2020–2025) | [source](https://www.xe.com/currencycharts/?from=RWF&to=USD) — soft/estimate |
+| Economy | Top industries | Services 48%, agriculture 25%, industry 21% (2024) | [source](https://www.statistics.gov.rw/) — hard/official |
+| Economy | Economic Complexity | ECI rank 103 out of 138 (2023) | [source](https://oec.world/en/profile/country/rwa) — hard/official |
+| Technology | Internet users | 32% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=RW) — hard/official |
+| Technology | Fixed broadband subs | 0.6 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=RW) — hard/official |
+| Technology | High-tech exports | 4.8% of manufactured exports (2022) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=RW) — hard/official |
+| Technology | R&D spend | 0.78% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=RW) — hard/official |
+| Technology | Global Innovation Index | Rank 104 out of 139 (GII 2025) | [source](https://www.wipo.int/gii-ranking/en/rwanda) — hard/official |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | No reliable data | — |
+| Technology | 5G | No reliable data | — |
+| Technology | Online payments | Stripe not available for Rwanda-based businesses (2025) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 68.0 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=RW) — hard/official |
+| Human development & health | Hospital beds | 0.8 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=RW) — hard/official |
+| Human development & health | HDI | 0.548, rank 161 (2022) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | No reliable data | — |
+| Safety | US travel advisory | Level 3 – Reconsider Travel (crime, unrest, health risks, 2025) | [source](https://travel.state.gov/en/international-travel/travel-advisories/rwanda.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No reliable data | — |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | No reliable data | — |
+| Business | Corporate tax | 30% standard (2025) | [source](https://taxsummaries.pwc.com/rwanda/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | No reliable data | — |
+| Connectivity | Visa-free for Russians | Visa on arrival for all nationalities, 30 days single entry ($50), or e-visa online | [source](https://www.migration.gov.rw/visa) — hard/official |
+| For Russian citizens | Sanctions position | Rwanda has not imposed unilateral sanctions on Russia; maintains diplomatic relations | [source](https://www.minaffet.gov.rw/) — soft/estimate |
+| Quality of life | World Happiness rank | No reliable data | — |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI rank #107, score 417, very low English proficiency (2025) | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

@@ -2,6 +2,7 @@
 title: Qatar — State of Qatar
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, tax, it_friendly, popular_ru]
 category: multi
@@ -149,6 +150,68 @@ Qatar provides high quality of life, safety, and 0% tax. Residency pathways are 
 | Freedom House score | 25/100 — Not Free (2025) | ^[https://freedomhouse.org/country/qatar/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~3,450 | ^[https://weatherspark.com/countries/QA] hard/official |
 | Average annual temperature | ~29°C | ^[https://weatherspark.com/countries/QA] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 41/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 11 637 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=QA) — hard/official |
+| Geography & size | Population density | 249 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=QA) — hard/official |
+| Geography & size | Urban population | 99% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=QA) — hard/official |
+| Geography & size | Coastline | 563 km | [source](https://www.cia.gov/the-world-factbook/countries/qatar/) — hard/official |
+| Geography & size | Highest point | Qurayn Abu al Bawl, 103 m | [source](https://en.wikipedia.org/wiki/Geography_of_Qatar) — soft/estimate |
+| Geography & size | Type | mainland (peninsula) | [source](https://www.worlddata.info/asia/qatar/index.php) — soft/estimate |
+| Geography & size | Time zone | UTC+3, same as Moscow (UTC+3) | [source](https://www.timeanddate.com/worldclock/qatar/doha) — soft/estimate |
+| Climate | Avg precipitation | 74 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=QA) — hard/official |
+| Climate | PM2.5 exposure | 107.8 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=QA) — hard/official |
+| Climate | Climate zone | BWh (hot desert climate) | [source](https://en.wikipedia.org/wiki/Climate_of_Qatar) — soft/estimate |
+| Climate | Temp winter / summer | Doha: Jan avg 18°C, Jul avg 36°C | [source](https://www.worlddata.info/asia/qatar/climate.php) — soft/estimate |
+| Climate | Rainy days | Doha: ~9 rainy days per year, 75 mm annually | [source](https://www.worlddata.info/asia/qatar/climate.php) — soft/estimate |
+| Climate | Humidity | Doha: ~60% average annual relative humidity | [source](https://www.worlddata.info/asia/qatar/climate.php) — soft/estimate |
+| Climate | Natural hazards | Dust storms, sandstorms, occasional flash floods | [source](https://www.cia.gov/the-world-factbook/countries/qatar/) — hard/official |
+| Climate | Air quality | No reliable data | — |
+| Economy | GDP (nominal) | $215.6B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=QA) — hard/official |
+| Economy | GDP growth | 2.9% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=QA) — hard/official |
+| Economy | Inflation (CPI) | 1.3% (2024) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=QA) — hard/official |
+| Economy | Unemployment | 0.1% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=QA) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 20% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=QA) — hard/official |
+| Economy | Remittances | 0.6% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=QA) — hard/official |
+| Economy | Credit rating | S&P AA / Moody's Aa2 / Fitch AA- (2025) | [source](https://tradingeconomics.com/qatar/rating) — soft/estimate |
+| Economy | Currency | QAR, pegged to USD at 3.64, ~0% change (fixed peg since 2001) | [source](https://www.cia.gov/the-world-factbook/countries/qatar/) — hard/official |
+| Economy | Top industries | Oil & gas (40%+ of GDP), petrochemicals, financial services | [source](https://www.cia.gov/the-world-factbook/countries/qatar/) — hard/official |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 98% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=QA) — hard/official |
+| Technology | Fixed broadband subs | 11.8 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=QA) — hard/official |
+| Technology | High-tech exports | 2.8% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=QA) — hard/official |
+| Technology | R&D spend | 0.68% of GDP (2021) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=QA) — hard/official |
+| Technology | Global Innovation Index | Rank 48 out of 139 (GII 2025) | [source](https://www.wipo.int/gii-ranking/en/qatar) — hard/official |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | 604.22 Mbps median fixed broadband (Aug 2026, rank #2 globally) | [source](https://www.speedtest.net/global-index/qatar) — hard/official |
+| Technology | 5G | No reliable data | — |
+| Technology | Online payments | Stripe and PayPal not available for Qatar-based merchant accounts (2025) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 82.5 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=QA) — hard/official |
+| Human development & health | Hospital beds | 1.2 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=QA) — hard/official |
+| Human development & health | HDI | 0.875, rank 39 (2022) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | No reliable data | — |
+| Safety | US travel advisory | Level 3 – Reconsider Travel (armed conflict risk, 2025) | [source](https://travel.state.gov/en/international-travel/travel-advisories/qatar.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax, no inheritance tax, no capital gains tax (2025) | [source](https://taxsummaries.pwc.com/qatar/individual/other-taxes) — soft/estimate |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | No reliable data | — |
+| Business | Corporate tax | 10% on foreign-owned profits; 0% for Qatari/GCC-owned (2025) | [source](https://taxsummaries.pwc.com/qatar/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Qatar University, QS rank #201 (2026 THE) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Visa-free entry up to 90 days for Russian citizens | [source](https://www.henleyglobal.com/passport-index/ranking) — hard/official |
+| For Russian citizens | Sanctions position | Qatar has not imposed sanctions on Russia; maintains neutral mediation role | [source](https://mofa.gov.qa/en/foreign-policy) — soft/estimate |
+| Quality of life | World Happiness rank | No reliable data | — |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI rank #81, score 469, low English proficiency (2025) | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

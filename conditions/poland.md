@@ -2,6 +2,7 @@
 title: Poland — Poland
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, work-visa, blue-card, tax, rule_change]
 category: clear_pathway
@@ -130,6 +131,68 @@ Polish consulates in Russia have severely reduced operations. Visa issuance for 
 | Freedom House score | 80/100 (Free) | ^[https://freedomhouse.org/country/poland/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~1,598 (Warsaw) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,warsaw,Poland] hard/official |
 | Average annual temperature | ~8.5°C (Warsaw) | ^[https://www.imgw.pl/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 42/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 313 940 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=PL) — hard/official |
+| Geography & size | Population density | 119 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=PL) — hard/official |
+| Geography & size | Urban population | 60% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=PL) — hard/official |
+| Geography & size | Coastline | 440 km (Baltic Sea) | [source](https://www.worlddata.info/europe/poland/index.php) — soft/estimate |
+| Geography & size | Highest point | Rysy, 2,499 m (Tatra Mountains) | [source](https://en.wikipedia.org/wiki/Rysy) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://www.worlddata.info/europe/poland/index.php) — soft/estimate |
+| Geography & size | Time zone | UTC+1 CET / UTC+2 CEST, 1–2 hours behind Moscow (UTC+3) | [source](https://www.timeanddate.com/worldclock/poland/warsaw) — soft/estimate |
+| Climate | Avg precipitation | 600 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=PL) — hard/official |
+| Climate | PM2.5 exposure | 16.5 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=PL) — hard/official |
+| Climate | Climate zone | Dfb (humid continental), Cfb (oceanic) in west | [source](https://en.wikipedia.org/wiki/Climate_of_Poland) — soft/estimate |
+| Climate | Temp winter / summer | Warsaw: Jan avg -2°C, Jul avg 19°C (1991–2020) | [source](https://www.worlddata.info/europe/poland/climate.php) — soft/estimate |
+| Climate | Rainy days | Warsaw: ~159 rainy days per year, 714 mm annually | [source](https://www.worlddata.info/europe/poland/climate.php) — soft/estimate |
+| Climate | Humidity | Warsaw: ~79% average annual relative humidity | [source](https://www.worlddata.info/europe/poland/climate.php) — soft/estimate |
+| Climate | Natural hazards | Flooding, occasional landslides | [source](https://www.cia.gov/the-world-factbook/countries/poland/) — hard/official |
+| Climate | Air quality | No reliable data | — |
+| Economy | GDP (nominal) | $1.0T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PL) — hard/official |
+| Economy | GDP growth | 3.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=PL) — hard/official |
+| Economy | Inflation (CPI) | 3.8% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=PL) — hard/official |
+| Economy | Unemployment | 3.0% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=PL) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 28.5 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=PL) — hard/official |
+| Economy | Tourism receipts | 3% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=PL) — hard/official |
+| Economy | Remittances | 0.9% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=PL) — hard/official |
+| Economy | Credit rating | S&P A- / Moody's A2 / Fitch A- (2025) | [source](https://tradingeconomics.com/poland/rating) — soft/estimate |
+| Economy | Currency | PLN, floating, ~-12% vs USD (2020–2025) | [source](https://www.xe.com/currencycharts/?from=PLN&to=USD) — soft/estimate |
+| Economy | Top industries | Services (60%), industry (32%), agriculture (2.5%) — 2024 est. | [source](https://www.cia.gov/the-world-factbook/countries/poland/) — hard/official |
+| Economy | Economic Complexity | No reliable data | — |
+| Technology | Internet users | 89% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=PL) — hard/official |
+| Technology | Fixed broadband subs | 25.4 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=PL) — hard/official |
+| Technology | High-tech exports | 13.5% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=PL) — hard/official |
+| Technology | R&D spend | 1.56% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=PL) — hard/official |
+| Technology | Global Innovation Index | No reliable data | — |
+| Technology | E-Government (UN EGDI) | No reliable data | — |
+| Technology | Median broadband speed | 312.16 Mbps median fixed broadband (Aug 2026, rank #31) | [source](https://www.speedtest.net/global-index/poland) — hard/official |
+| Technology | 5G | No reliable data | — |
+| Technology | Online payments | Stripe available for Poland-based businesses (2025) | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 78.4 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=PL) — hard/official |
+| Human development & health | Hospital beds | 6.0 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=PL) — hard/official |
+| Human development & health | HDI | 0.881, rank 35 (2022) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | No reliable data | — |
+| Safety | US travel advisory | Level 1 – Exercise Normal Precautions (2025) | [source](https://travel.state.gov/en/international-travel/travel-advisories/poland.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No reliable data | — |
+| Money & tax | CFC rules | Yes, CFC rules apply (EU member, Polish CIT Act) | [source](https://taxsummaries.pwc.com/poland/corporate/group-taxation) — soft/estimate |
+| Business | Company setup | No reliable data | — |
+| Business | Corporate tax | 19% standard, 9% for small taxpayers (2025) | [source](https://taxsummaries.pwc.com/poland/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | University of Warsaw, QS rank #258 (2025) | [source](https://www.topuniversities.com/university-rankings/world-university-rankings/2025) — hard/official |
+| Connectivity | Visa-free for Russians | Schengen visa required; EU suspended visa facilitation with Russia (Council Decision 2022/1500, 2025) | [source](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022D1500) — hard/official |
+| For Russian citizens | Sanctions position | Full EU sanctions against Russia, strongly supportive of Ukraine | [source](https://www.consilium.europa.eu/en/policies/sanctions-against-russia/) — hard/official |
+| Quality of life | World Happiness rank | Rank 24, score 6.76 (World Happiness Report 2025) | [source](https://worldhappiness.report/ed/2025/) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI rank #15, score 600, very high English proficiency (2025) | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 
