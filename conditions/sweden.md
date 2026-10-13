@@ -2,6 +2,7 @@
 title: Sweden — Sweden
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, tax, it_friendly, clear_pathway]
 category: it_friendly
@@ -133,6 +134,68 @@ Sweden is among the stricter EU states for Russian applicants. Full EU sanctions
 | Freedom House score | 100/100 (Free) | ^[https://freedomhouse.org/country/sweden/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~1,821 (Stockholm) | ^[https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php] hard/official |
 | Average annual temperature | ~6.5°C (Stockholm) | ^[https://www.smhi.se/en] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 528 860 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=SE) — hard/official |
+| Geography & size | Population density | 26 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=SE) — hard/official |
+| Geography & size | Urban population | 89% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=SE) — hard/official |
+| Geography & size | Coastline | 3218 km | [source](https://en.wikipedia.org/wiki/Geography_of_Sweden) — soft/estimate |
+| Geography & size | Highest point | Kebnekaise, 2097 m | [source](https://en.wikipedia.org/wiki/Geography_of_Sweden) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Sweden) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 (CEST summer); 2h/1h behind Moscow | [source](https://en.wikipedia.org/wiki/Sweden) — soft/estimate |
+| Climate | Avg precipitation | 624 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=SE) — hard/official |
+| Climate | PM2.5 exposure | 5.3 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=SE) — hard/official |
+| Climate | Climate zone | Dfb — humid continental, warm summer | [source](https://weatherandclimate.com/sweden/stockholm) — soft/estimate |
+| Climate | Temp winter / summer | Stockholm: Jan −2°C, Jul 19°C avg | [source](https://weatherandclimate.com/sweden/stockholm) — soft/estimate |
+| Climate | Rainy days | ~138 days/year, Stockholm | [source](https://weatherandclimate.com/sweden/stockholm) — soft/estimate |
+| Climate | Humidity | ~80% annual avg | [source](https://weatherandclimate.com/sweden/stockholm) — soft/estimate |
+| Climate | Natural hazards | Ice storms, flooding; INFORM risk low | [source](https://en.wikipedia.org/wiki/Sweden) — soft/estimate |
+| Climate | Air quality | PM2.5 ~6 μg/m³ (2023), among world's cleanest | [source](https://www.iqair.com/world-air-quality) — soft/estimate |
+| Economy | GDP (nominal) | $669.0B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SE) — hard/official |
+| Economy | GDP growth | 1.5% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SE) — hard/official |
+| Economy | Inflation (CPI) | 0.7% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SE) — hard/official |
+| Economy | Unemployment | 8.7% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=SE) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 29.3 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=SE) — hard/official |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 0.8% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=SE) — hard/official |
+| Economy | Credit rating | S&P AAA, Moody's Aaa, Fitch AAA (2025) | [source](https://www.spglobal.com/ratings/en/research/articles/250710-sovereign-ratings-list-13349955) — hard/official |
+| Economy | Currency | SEK, free float; ~−15% vs USD in 5yr | [source](https://en.wikipedia.org/wiki/Swedish_krona) — soft/estimate |
+| Economy | Top industries | Manufacturing, services, forestry/mining | [source](https://en.wikipedia.org/wiki/Economy_of_Sweden) — soft/estimate |
+| Economy | Economic Complexity | ECI rank ~9 (2023) | [source](https://oec.world/en/profile/country/swe) — soft/estimate |
+| Technology | Internet users | 96% of population (2025) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=SE) — hard/official |
+| Technology | Fixed broadband subs | 40.6 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=SE) — hard/official |
+| Technology | High-tech exports | 17.7% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=SE) — hard/official |
+| Technology | R&D spend | 3.60% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=SE) — hard/official |
+| Technology | Global Innovation Index | 2nd (2025) | [source](https://www.wipo.int/gii-ranking/en/sweden) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.96, rank ~5 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/161-Sweden) — hard/official |
+| Technology | Median broadband speed | Fixed broadband 219.6 Mbps (Aug 2026, rank 23) | [source](https://www.speedtest.net/global-index/sweden) — hard/official |
+| Technology | 5G | 99.9% population coverage, 90% landmass (2025) | [source](https://www.tele2.com/media/news/2025/tele2-and-telenor-now-activate-5g-across-the-entire-mobile-network-covering-90-of-swedens-landmass-and-99-9-of-the-population) — soft/estimate |
+| Technology | Online payments | Stripe available; PayPal and Apple Pay widely supported | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank ~6 (2024) | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 84.1 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SE) — hard/official |
+| Human development & health | Hospital beds | 1.9 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=SE) — hard/official |
+| Human development & health | HDI | HDI 0.959, rank 6 (2023) | [source](https://worldpopulationreview.com/countries/hdi-by-country) — soft/estimate |
+| Safety | Global Peace Index | GPI rank 40, score 1.732 (2025) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 2: Exercise Increased Caution (terrorism) | [source](https://travel.state.gov/en/international-travel/travel-advisories/sweden.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax since 2007; no inheritance tax since 2005; capital gains 30% flat | [source](https://taxsummaries.pwc.com/sweden/individual/income-determination) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply | [source](https://taxsummaries.pwc.com/sweden/corporate/taxes-on-corporate-income) — soft/estimate |
+| Business | Company setup | ~7 days, cost ~SEK 1900 (~€170) | [source](https://www.verksamt.se/web/international/starting) — soft/estimate |
+| Business | Corporate tax | 20.6% (2025) | [source](https://taxsummaries.pwc.com/sweden/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Karolinska Institute, QS rank ~37 (2025) | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | Schengen visa required for Russian citizens; suspended facilitation (2025) | [source](https://www.government.se/government-policy/migration-and-asylum/information-on-visas) — hard/official |
+| For Russian citizens | Sanctions position | Full EU sanctions against Russia; strong supporter of Ukraine | [source](https://www.government.se/speeches/2025/02/statement-of-foreign-policy-2025) — hard/official |
+| Quality of life | World Happiness rank | Rank 5, score 7.255 (2025) | [source](https://data.worldhappiness.report/country/SWE) — hard/official |
+| Quality of life | Expat friendliness | InterNations rank ~24 (2024) | [source](https://www.internations.org/expat-insider/2024/best-and-worst-places-for-expats-40450) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 8, 609 score; English very widely spoken | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

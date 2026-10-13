@@ -2,6 +2,7 @@
 title: Suriname — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-13
 last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, employment_residency, tax]
@@ -88,6 +89,68 @@ Thin inbound expat community, mostly Dutch-diaspora (PSA) returnees and CARICOM 
 | Freedom House score | 80/100 — Free (2025) | [Freedom House](https://freedomhouse.org/country/suriname/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | ~2,200 h (Paramaribo) | [Weather & Climate](https://weather-and-climate.com/average-monthly-hours-Sunshine,Paramaribo,Suriname) — hard/official |
 | Average annual temperature | ~27 °C (tropical) | [Weather & Climate](https://weather-and-climate.com/average-monthly-hours-Sunshine,Paramaribo,Suriname) — hard/official |
+
+## Extended Snapshot
+
+_Coverage: 46/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 163 820 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=SR) — hard/official |
+| Geography & size | Population density | 4 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=SR) — hard/official |
+| Geography & size | Urban population | 66% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=SR) — hard/official |
+| Geography & size | Coastline | 386 km | [source](https://en.wikipedia.org/wiki/Geography_of_Suriname) — soft/estimate |
+| Geography & size | Highest point | Juliana Top, 1280 m | [source](https://en.wikipedia.org/wiki/Suriname) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Suriname) — soft/estimate |
+| Geography & size | Time zone | UTC−3 (SRT); 6h behind Moscow | [source](https://en.wikipedia.org/wiki/Suriname) — soft/estimate |
+| Climate | Avg precipitation | 2331 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=SR) — hard/official |
+| Climate | PM2.5 exposure | 15.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=SR) — hard/official |
+| Climate | Climate zone | Af — tropical rainforest | [source](https://climateknowledgeportal.worldbank.org/country/suriname) — soft/estimate |
+| Climate | Temp winter / summer | Paramaribo: Jan 26°C, Jul 27.5°C (year-round warm) | [source](https://weather-and-climate.com/Paramaribo-January-averages) — soft/estimate |
+| Climate | Rainy days | ~170 rainy days/year, Paramaribo | [source](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Paramaribo,Suriname) — soft/estimate |
+| Climate | Humidity | ~80% annual avg | [source](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Paramaribo,Suriname) — soft/estimate |
+| Climate | Natural hazards | Flooding, tropical storms | [source](https://climateknowledgeportal.worldbank.org/country/suriname) — soft/estimate |
+| Climate | Air quality | PM2.5 ~12 μg/m³ (2023) | [source](https://www.iqair.com/air-quality/suriname/paramaribo) — soft/estimate |
+| Economy | GDP (nominal) | $4.5B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SR) — hard/official |
+| Economy | GDP growth | 1.8% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SR) — hard/official |
+| Economy | Inflation (CPI) | 9.2% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SR) — hard/official |
+| Economy | Unemployment | 7.8% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=SR) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 39.2 (2022) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=SR) — hard/official |
+| Economy | Tourism receipts | 1% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=SR) — hard/official |
+| Economy | Remittances | 3.9% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=SR) — hard/official |
+| Economy | Credit rating | S&P CCC+, Moody's Caa1, Fitch not rated (2025) | [source](https://www.spglobal.com/ratings/en/research/articles/250710-sovereign-ratings-list-13349955) — hard/official |
+| Economy | Currency | SRD, managed float; ~−45% vs USD in 5yr | [source](https://en.wikipedia.org/wiki/Surinamese_dollar) — soft/estimate |
+| Economy | Top industries | Mining (gold, bauxite), oil & gas, agriculture | [source](https://en.wikipedia.org/wiki/Economy_of_Suriname) — soft/estimate |
+| Economy | Economic Complexity | ECI rank ~105 (2023) | [source](https://oec.world/en/profile/country/sur) — soft/estimate |
+| Technology | Internet users | 87% of population (2023) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=SR) — hard/official |
+| Technology | Fixed broadband subs | 18.8 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=SR) — hard/official |
+| Technology | High-tech exports | 10.4% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=SR) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | No reliable data | — |
+| Technology | E-Government (UN EGDI) | EGDI 0.48, rank ~120 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/156-Suriname) — hard/official |
+| Technology | Median broadband speed | Fixed broadband ~31 Mbps (2025) | [source](https://www.speedtest.net/global-index/suriname) — hard/official |
+| Technology | 5G | 5G not commercially available (2025) | [source](https://www.speedtest.net/global-index/suriname) — soft/estimate |
+| Technology | Online payments | Stripe not available; PayPal limited | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 73.8 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SR) — hard/official |
+| Human development & health | Hospital beds | 2.9 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=SR) — hard/official |
+| Human development & health | HDI | HDI 0.690, rank ~123 (2022) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | GPI rank ~86, score ~2.03 (2025) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 1: Exercise Normal Precautions | [source](https://travel.state.gov/en/international-travel/travel-advisories/suriname.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax for direct descendants | [source](https://taxsummaries.pwc.com/suriname) — soft/estimate |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | No reliable data | — |
+| Business | Corporate tax | 36% headline (2025) | [source](https://taxsummaries.pwc.com/suriname) — soft/estimate |
+| Family & education | Top university | Anton de Kom University, not QS-ranked | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa-free up to 90 days for Russian citizens (2025) | [source](https://visachecker.org/visa/suriname) — soft/estimate |
+| For Russian citizens | Sanctions position | Abstained on UN resolutions condemning Russia (2022-2024) | [source](https://en.wikipedia.org/wiki/Foreign_relations_of_Suriname) — soft/estimate |
+| Quality of life | World Happiness rank | Rank ~95, score ~5.1 (2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI not ranked; Dutch is official, English limited | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

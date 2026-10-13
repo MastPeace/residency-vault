@@ -2,6 +2,7 @@
 title: Tanzania — United Republic of Tanzania
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, employment_residency, investment_residency]
 category: clear_pathway
@@ -100,6 +101,68 @@ Visa on arrival or eVisa for Russian citizens (90 days tourist). Tanzania is a p
 | Freedom House score | 36/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/tanzania/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,800 (Dar es Salaam) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Dar-es-Salaam,Tanzania] hard/official |
 | Average annual temperature | ~26°C (Dar es Salaam, coastal) | ^[https://en.climate-data.org/africa/tanzania/dar-es-salaam/dar-es-salaam-522/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 48/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 945 500 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=TZ) — hard/official |
+| Geography & size | Population density | 78 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=TZ) — hard/official |
+| Geography & size | Urban population | 37% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=TZ) — hard/official |
+| Geography & size | Coastline | 1424 km | [source](https://en.wikipedia.org/wiki/Geography_of_Tanzania) — soft/estimate |
+| Geography & size | Highest point | Mount Kilimanjaro, 5895 m | [source](https://www.britannica.com/place/Kilimanjaro) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Tanzania) — soft/estimate |
+| Geography & size | Time zone | UTC+3 (EAT); same as Moscow | [source](https://en.wikipedia.org/wiki/Tanzania) — soft/estimate |
+| Climate | Avg precipitation | 1071 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=TZ) — hard/official |
+| Climate | PM2.5 exposure | 20.2 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=TZ) — hard/official |
+| Climate | Climate zone | Aw/As — tropical savanna, with coastal tropical | [source](https://en.wikipedia.org/wiki/Tanzania) — soft/estimate |
+| Climate | Temp winter / summer | Dar es Salaam: Jan 28.6°C avg, Jul 24.4°C avg | [source](https://www.climatestotravel.com/climate/tanzania/dar-es-salaam) — soft/estimate |
+| Climate | Rainy days | ~91 days/year, Dar es Salaam | [source](https://www.climatestotravel.com/climate/tanzania/dar-es-salaam) — soft/estimate |
+| Climate | Humidity | ~75% annual avg, Dar es Salaam | [source](https://www.climatestotravel.com/climate/tanzania/dar-es-salaam) — soft/estimate |
+| Climate | Natural hazards | Flooding, drought; INFORM risk medium-high | [source](https://en.wikipedia.org/wiki/Tanzania) — soft/estimate |
+| Climate | Air quality | PM2.5 ~12 μg/m³ (2023) | [source](https://www.iqair.com/world-air-quality) — soft/estimate |
+| Economy | GDP (nominal) | $90.1B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TZ) — hard/official |
+| Economy | GDP growth | 5.9% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=TZ) — hard/official |
+| Economy | Inflation (CPI) | 3.3% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=TZ) — hard/official |
+| Economy | Unemployment | 1.6% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=TZ) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 40.5 (2018) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=TZ) — hard/official |
+| Economy | Tourism receipts | 27% of exports (2019) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=TZ) — hard/official |
+| Economy | Remittances | 1.4% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=TZ) — hard/official |
+| Economy | Credit rating | S&P not rated, Moody's B1, Fitch not rated (2025) | [source](https://www.spglobal.com/ratings/en/research/articles/250710-sovereign-ratings-list-13349955) — hard/official |
+| Economy | Currency | TZS, managed float; ~−20% vs USD in 5yr | [source](https://en.wikipedia.org/wiki/Tanzanian_shilling) — soft/estimate |
+| Economy | Top industries | Agriculture, mining, tourism | [source](https://en.wikipedia.org/wiki/Economy_of_Tanzania) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 118 (2023) | [source](https://oec.world/en/country-rankings/hs17/2023/complexity) — soft/estimate |
+| Technology | Internet users | 31% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=TZ) — hard/official |
+| Technology | Fixed broadband subs | 0.2 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=TZ) — hard/official |
+| Technology | High-tech exports | 3.0% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=TZ) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | ~100 (2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.46, rank ~130 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/169-Tanzania) — hard/official |
+| Technology | Median broadband speed | Fixed broadband ~20 Mbps (2025) | [source](https://www.speedtest.net/global-index/tanzania) — hard/official |
+| Technology | 5G | Limited 5G rollout in major cities only (2025) | [source](https://www.tanzaniainvest.com/telecoms/tcra-telecom-stats-q1-2025) — soft/estimate |
+| Technology | Online payments | Stripe not available; PayPal limited | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | No reliable data | — |
+| Human development & health | Life expectancy | 67.2 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=TZ) — hard/official |
+| Human development & health | Hospital beds | 0.8 per 1000 (2022) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=TZ) — hard/official |
+| Human development & health | HDI | HDI 0.549, rank ~167 (2022) | [source](https://hdr.undp.org/data-center/country-insights) — hard/official |
+| Safety | Global Peace Index | GPI rank ~65, score ~1.95 (2025) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 2: Reconsider Travel (crime, terrorism, unrest) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tanzania-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax | [source](https://taxsummaries.pwc.com/tanzania) — soft/estimate |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | ~8 days, cost ~TZS 250,000 (~$100) | [source](https://www.brela.go.tz/) — soft/estimate |
+| Business | Corporate tax | 30% headline (2025) | [source](https://www.pwc.co.tz/publications/tax-data-card.html) — soft/estimate |
+| Family & education | Top university | University of Dar es Salaam, not QS-ranked | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa required; eVisa available online (2025) | [source](https://e-visatanzania.org/tanzania-evisa-russian-citizens) — soft/estimate |
+| For Russian citizens | Sanctions position | Abstained on key UN resolutions on Ukraine; no sanctions against Russia | [source](https://thecitizen.co.tz/tanzania/news/national/tanzania-abstains-as-un-body-votes-to-suspend-russia-from-rights-council-3775340) — soft/estimate |
+| Quality of life | World Happiness rank | Rank ~130, score ~3.9 (2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | No reliable data | — |
+| Quality of life | Local language need | EF EPI rank ~92, low proficiency; English used in business/government but Swahili predominant | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 

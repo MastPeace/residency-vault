@@ -2,6 +2,7 @@
 title: Switzerland — Switzerland
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, tax, strong_passport, it_friendly]
 category: strong_passport
@@ -148,6 +149,68 @@ Switzerland applies EU-equivalent sanctions against Russia. Non-EU quota applies
 | Freedom House score | 96/100 (Free) | ^[https://freedomhouse.org/country/switzerland/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~1,566 (Zurich) | ^[https://www.currentresults.com/Weather/Europe/Cities/sunshine-annual-average.php] hard/official |
 | Average annual temperature | ~9°C (Zurich) | ^[https://www.meteoswiss.admin.ch/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 41 291 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=CH) — hard/official |
+| Geography & size | Population density | 228 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=CH) — hard/official |
+| Geography & size | Urban population | 86% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=CH) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://en.wikipedia.org/wiki/Geography_of_Switzerland) — soft/estimate |
+| Geography & size | Highest point | Dufourspitze (Monte Rosa), 4634 m | [source](https://en.wikipedia.org/wiki/Geography_of_Switzerland) — soft/estimate |
+| Geography & size | Type | landlocked | [source](https://en.wikipedia.org/wiki/Geography_of_Switzerland) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), UTC+2 (CEST summer); 2h/1h behind Moscow | [source](https://en.wikipedia.org/wiki/Switzerland) — soft/estimate |
+| Climate | Avg precipitation | 1537 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=CH) — hard/official |
+| Climate | PM2.5 exposure | 8.3 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=CH) — hard/official |
+| Climate | Climate zone | Cfb — temperate oceanic, warm summer | [source](https://en.climate-data.org/europe/switzerland/zurich/zurich-2110/) — soft/estimate |
+| Climate | Temp winter / summer | Zurich: Jan 1°C, Jul 19°C avg | [source](https://en.climate-data.org/europe/switzerland/zurich/zurich-2110/) — soft/estimate |
+| Climate | Rainy days | ~127 days/year, Zurich | [source](https://en.climate-data.org/europe/switzerland/zurich/zurich-2110/) — soft/estimate |
+| Climate | Humidity | ~76% annual avg, Zurich | [source](https://en.climate-data.org/europe/switzerland/zurich/zurich-2110/) — soft/estimate |
+| Climate | Natural hazards | Avalanches, landslides, flooding; INFORM risk very low | [source](https://en.wikipedia.org/wiki/Switzerland) — soft/estimate |
+| Climate | Air quality | PM2.5 ~9 μg/m³ (2023) | [source](https://www.iqair.com/world-air-quality) — soft/estimate |
+| Economy | GDP (nominal) | $1.0T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CH) — hard/official |
+| Economy | GDP growth | 1.3% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CH) — hard/official |
+| Economy | Inflation (CPI) | 0.2% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=CH) — hard/official |
+| Economy | Unemployment | 4.9% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=CH) — hard/official |
+| Economy | Central govt debt | 22% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=CH) — hard/official |
+| Economy | Gini index | 33.5 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=CH) — hard/official |
+| Economy | Tourism receipts | 2% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=CH) — hard/official |
+| Economy | Remittances | 0.4% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=CH) — hard/official |
+| Economy | Credit rating | S&P AAA, Moody's Aaa, Fitch AAA (2025) | [source](https://www.fitchratings.com/entity/switzerland-80442208) — hard/official |
+| Economy | Currency | CHF, free float; ~+5% vs USD in 5yr | [source](https://en.wikipedia.org/wiki/Swiss_franc) — soft/estimate |
+| Economy | Top industries | Financial services, pharma/chemicals, machinery/precision instruments | [source](https://en.wikipedia.org/wiki/Economy_of_Switzerland) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 2 (2023) | [source](https://en.wikipedia.org/wiki/List_of_countries_by_economic_complexity) — soft/estimate |
+| Technology | Internet users | 97% of population (2025) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CH) — hard/official |
+| Technology | Fixed broadband subs | 47.0 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=CH) — hard/official |
+| Technology | High-tech exports | 29.6% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=CH) — hard/official |
+| Technology | R&D spend | 3.22% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=CH) — hard/official |
+| Technology | Global Innovation Index | 1st (2024, 2025) | [source](https://www.wipo.int/gii-ranking/en/switzerland) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.94, rank ~12 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/167-Switzerland) — hard/official |
+| Technology | Median broadband speed | Fixed broadband 194.6 Mbps (Aug 2026, rank 35) | [source](https://www.speedtest.net/global-index/switzerland) — hard/official |
+| Technology | 5G | 5G widely available; ~99% population coverage (2025) | [source](https://www.comcom.admin.ch/en/mobile-coverage) — soft/estimate |
+| Technology | Online payments | Stripe available; PayPal and Apple Pay widely supported | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank ~8 (2024) | [source](https://www.startupblink.com/startups) — soft/estimate |
+| Human development & health | Life expectancy | 84.4 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CH) — hard/official |
+| Human development & health | Hospital beds | 4.4 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=CH) — hard/official |
+| Human development & health | HDI | HDI 0.970, rank 2 (2023) | [source](https://worldpopulationreview.com/countries/hdi-by-country) — soft/estimate |
+| Safety | Global Peace Index | GPI rank 3, score 1.363 (2025) | [source](https://en.wikipedia.org/wiki/Global_Peace_Index) — soft/estimate |
+| Safety | US travel advisory | Level 1: Exercise Normal Precautions | [source](https://travel.state.gov/en/international-travel/travel-advisories/switzerland.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | Wealth tax at cantonal level; no federal inheritance tax for direct descendants; no capital gains on movable assets | [source](https://taxsummaries.pwc.com/switzerland/individual/income-determination) — soft/estimate |
+| Money & tax | CFC rules | No reliable data | — |
+| Business | Company setup | ~8 days, cost from CHF 0 (online) | unsourced/unverified |
+| Business | Corporate tax | Federal 8.5%; total effective 11.7–20.5% by canton (2025) | [source](https://taxsummaries.pwc.com/switzerland) — soft/estimate |
+| Family & education | Top university | ETH Zurich, QS rank 7 (2025) | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | Schengen visa required for Russian citizens (2025); suspended visa facilitation | [source](https://www.eda.admin.ch/countries/russia/en/home/visa/einreise-ch.html) — soft/estimate |
+| For Russian citizens | Sanctions position | Adopted all EU sanctions against Russia fully since Feb 2022 | [source](https://www.admin.ch/en/nsb?id=87386) — soft/estimate |
+| Quality of life | World Happiness rank | Rank ~10, score ~7.0 (2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | InterNations rank ~30 (2024) | [source](https://www.internations.org/expat-insider/2024/best-and-worst-places-for-expats-40450) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank ~29, high proficiency; English widely spoken in business | [source](https://www.ef.com/wwen/epi/) — hard/official |
 
 ## Country Card
 
