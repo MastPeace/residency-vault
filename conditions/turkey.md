@@ -2,6 +2,7 @@
 title: Turkey — Turkey
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, tax, citizenship-by-investment, popular_ru, strong_passport, yacht_captain]
 category: popular_ru
@@ -150,6 +151,68 @@ CBI program is well-established and fast. Main risk: fraud in the application ch
 | Freedom House score (2025) | 33/100 — Not Free | ^[https://freedomhouse.org/country/turkey/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,700 (Antalya); ~2,200 (Istanbul) | ^[https://en.wikipedia.org/wiki/Istanbul#Climate] hard/official |
 | Average annual temperature | ~18°C (Antalya); ~14°C (Istanbul) | ^[https://en.wikipedia.org/wiki/Istanbul#Climate] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 53/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 785 350 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=TR) — hard/official |
+| Geography & size | Population density | 111 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=TR) — hard/official |
+| Geography & size | Urban population | 89% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=TR) — hard/official |
+| Geography & size | Coastline | 7,200 km | [source](https://www.cia.gov/the-world-factbook/countries/turkey) — hard/official |
+| Geography & size | Highest point | Mount Ararat (Ağrı Dağı), 5,137 m | [source](https://www.cia.gov/the-world-factbook/countries/turkey) — hard/official |
+| Geography & size | Type | mainland | [source](https://www.cia.gov/the-world-factbook/countries/turkey) — hard/official |
+| Geography & size | Time zone | UTC+3 (TRT), Moscow+0h | [source](https://www.cia.gov/the-world-factbook/countries/turkey) — hard/official |
+| Climate | Avg precipitation | 593 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=TR) — hard/official |
+| Climate | PM2.5 exposure | 26.4 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=TR) — hard/official |
+| Climate | Climate zone | Csa (Mediterranean coast), Dsb/Dfb (continental interior), Cfb (Black Sea coast) | [source](https://en.wikipedia.org/wiki/Climate_of_Turkey) — soft/estimate |
+| Climate | Temp winter / summer | Ankara: Jan avg 0.5°C, Jul avg 23.5°C (2025) | [source](https://www.climatestotravel.com/climate/turkey/ankara) — soft/estimate |
+| Climate | Rainy days | ~65 days/year (Ankara) | [source](https://www.climatestotravel.com/climate/turkey/ankara) — soft/estimate |
+| Climate | Humidity | ~60% annual avg (Ankara) | [source](https://www.climatestotravel.com/climate/turkey/ankara) — soft/estimate |
+| Climate | Natural hazards | Earthquakes, flooding, landslides; World Risk Index rank ~87 (2024) | [source](https://www.cia.gov/the-world-factbook/countries/turkey) — hard/official |
+| Climate | Air quality | PM2.5 ~20 μg/m³ annual mean (IQAir 2024) | [source](https://www.iqair.com/world-air-quality) — soft/estimate |
+| Economy | GDP (nominal) | $1.6T (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TR) — hard/official |
+| Economy | GDP growth | 3.6% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=TR) — hard/official |
+| Economy | Inflation (CPI) | 34.9% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=TR) — hard/official |
+| Economy | Unemployment | 8.5% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=TR) — hard/official |
+| Economy | Central govt debt | 26% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=TR) — hard/official |
+| Economy | Gini index | 43.7 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=TR) — hard/official |
+| Economy | Tourism receipts | 7% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=TR) — hard/official |
+| Economy | Remittances | 0.0% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=TR) — hard/official |
+| Economy | Credit rating | Moody's Ba3, Fitch BB- (stable outlook, 2025-26) | [source](https://www.turkiyetoday.com/business/moodys-upgrades-turkiyes-credit-rating-citing-improved-monetary-policy-credibility-3204680) — soft/estimate |
+| Economy | Currency | TRY, floating, ~-80% vs USD over 5 years (2020-2025) | [source](https://www.tradingview.com/symbols/USDTRY/) — soft/estimate |
+| Economy | Top industries | Manufacturing; services; agriculture | [source](https://www.cia.gov/the-world-factbook/countries/turkey) — hard/official |
+| Economy | Economic Complexity | ECI rank 40 (2024) | [source](https://oec.world/en/country-rankings/hs17/2024/complexity) — hard/official |
+| Technology | Internet users | 90% of population (2025) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=TR) — hard/official |
+| Technology | Fixed broadband subs | 23.4 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=TR) — hard/official |
+| Technology | High-tech exports | 5.1% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=TR) — hard/official |
+| Technology | R&D spend | 1.42% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=TR) — hard/official |
+| Technology | Global Innovation Index | ~37th (GII 2025) | [source](https://www.wipo.int/gii-ranking/en/turkiye) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.8285, rank 48 (UN E-Government Survey 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | 66.91 Mbps fixed broadband median (Ookla, Dec 2025) | [source](https://www.ookla.com/articles/mea-global-index-2025) — hard/official |
+| Technology | 5G | Nationwide 5G launched 1 April 2026 across all 81 provinces | [source](https://www.turkiyetoday.com/business/all-you-need-to-know-about-turkiyes-nationwide-5g-rollout-starting-april-1-3216984) — soft/estimate |
+| Technology | Online payments | Stripe available for local businesses; PayPal not available in Turkey since 2016 | [source](https://stripe.com/en-ee/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink rank ~45 (Istanbul ecosystem, 2025) | [source](https://www.startupblink.com/istanbul-tr) — soft/estimate |
+| Human development & health | Life expectancy | 77.4 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=TR) — hard/official |
+| Human development & health | Hospital beds | 3.0 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=TR) — hard/official |
+| Human development & health | HDI | HDI 0.855, rank 45 (UNDP 2023/24 HDR, very high human development) | [source](https://www.undp.org/turkiye/press-releases/turkiye-ranks-45th-193-countries-human-development-new-undp-report-says) — hard/official |
+| Safety | Global Peace Index | rank 141, score 2.72 (Global Peace Index 2025) | [source](https://www.visionofhumanity.org/wp-content/uploads/2025/06/Global-Peace-Index-2025-web.pdf) — hard/official |
+| Safety | US travel advisory | Level 2 — Exercise increased caution (US State Dept, 2025) | [source](https://travel.state.gov/en/international-travel/travel-advisories/turkey.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance and gift tax applies (1-30%); capital gains tax applies | [source](https://taxsummaries.pwc.com/turkey) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply (2025) | [source](https://taxsummaries.pwc.com/turkey) — soft/estimate |
+| Business | Company setup | ~7 days, cost ~$500-800 (2025) | [source](https://mircare.com/en-gb/for-business/company-registration-in-turkey) — soft/estimate |
+| Business | Corporate tax | 25% standard (30% for financial sector, 2025) | [source](https://taxsummaries.pwc.com/turkey/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Middle East Technical University (METU), QS rank 285 (2025) | [source](https://www.metu.edu.tr/announcement/metu-ranked-1st-turkey-285th-world) — soft/estimate |
+| Connectivity | Visa-free for Russians | Visa not required, 60 days (2025-2026) | [source](https://evisas.io/visa-requirements/ru/tr) — soft/estimate |
+| For Russian citizens | Sanctions position | Does not impose sanctions on Russia; maintains trade relations; received US exemption for Gazprombank (2024) | [source](https://www.reuters.com/markets/turkish-russian-trade-hit-by-fresh-us-sanctions-threat-2024-02-19) — soft/estimate |
+| Quality of life | World Happiness rank | rank ~94 (World Happiness Report 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | rank ~50 out of 53 (InterNations Expat Insider 2025 est.) | [source](https://www.internations.org/expat-insider/2025) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 71, score 488 (low proficiency, 2025); English not widely spoken outside tourist areas | [source](https://www.ef.edu/epi/regions/europe/turkey) — soft/estimate |
 
 ## Country Card
 

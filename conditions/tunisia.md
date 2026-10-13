@@ -2,6 +2,7 @@
 title: Tunisia — Republic of Tunisia
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, tax, popular_ru]
 category: multi
@@ -151,6 +152,68 @@ Tunisia is an underrated option for lifestyle-oriented residency seekers. It off
 | Freedom House score | 44/100 — Partly Free (2025; declined from 51 in 2024) | ^[https://freedomhouse.org/country/tunisia/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,900 | ^[https://weatherspark.com/countries/TN] hard/official |
 | Average annual temperature | ~19°C (coastal); hotter inland | ^[https://weatherspark.com/countries/TN] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 163 610 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=TN) — hard/official |
+| Geography & size | Population density | 79 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=TN) — hard/official |
+| Geography & size | Urban population | 71% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=TN) — hard/official |
+| Geography & size | Coastline | 1,148 km | [source](https://en.wikipedia.org/wiki/Geography_of_Tunisia) — soft/estimate |
+| Geography & size | Highest point | Jebel ech Chambi, 1,544 m | [source](https://en.wikipedia.org/wiki/Geography_of_Tunisia) — soft/estimate |
+| Geography & size | Type | mainland | [source](https://en.wikipedia.org/wiki/Geography_of_Tunisia) — soft/estimate |
+| Geography & size | Time zone | UTC+1 (CET), Moscow-2h | [source](https://www.cia.gov/the-world-factbook/countries/tunisia) — hard/official |
+| Climate | Avg precipitation | 207 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=TN) — hard/official |
+| Climate | PM2.5 exposure | 18.9 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=TN) — hard/official |
+| Climate | Climate zone | Csa (Hot-summer Mediterranean) in north, BWh (Hot desert) in south | [source](https://en.wikipedia.org/wiki/Climate_of_Tunisia) — soft/estimate |
+| Climate | Temp winter / summer | Tunis: Jan avg 11.5°C, Aug avg 27.5°C (2025) | [source](https://en.climate-data.org/africa/tunisia/tunis-3216/) — soft/estimate |
+| Climate | Rainy days | ~65 days/year (Tunis) | [source](https://en.climate-data.org/africa/tunisia/tunis-3216/) — soft/estimate |
+| Climate | Humidity | ~68% annual avg (Tunis) | [source](https://en.climate-data.org/africa/tunisia/tunis-3216/) — soft/estimate |
+| Climate | Natural hazards | Drought, flooding, earthquakes; INFORM Risk rank ~80 (2024) | [source](https://www.cia.gov/the-world-factbook/countries/tunisia) — hard/official |
+| Climate | Air quality | PM2.5 ~22 μg/m³ annual mean (IQAir 2024) | [source](https://www.iqair.com/world-air-quality) — soft/estimate |
+| Economy | GDP (nominal) | $57.5B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TN) — hard/official |
+| Economy | GDP growth | 2.5% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=TN) — hard/official |
+| Economy | Inflation (CPI) | 5.2% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=TN) — hard/official |
+| Economy | Unemployment | 15.1% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=TN) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 33.7 (2021) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=TN) — hard/official |
+| Economy | Tourism receipts | 9% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=TN) — hard/official |
+| Economy | Remittances | 6.7% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=TN) — hard/official |
+| Economy | Credit rating | Moody's Caa1, Fitch B- (stable outlook, 2025-26) | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-tunisia-at-b-outlook-stable-08-09-2026) — hard/official |
+| Economy | Currency | TND, managed float, ~-28% vs USD over 5 years (2020-2025) | [source](https://www.exchange-rates.org/exchange-rate-history/usd-tnd-2025-12-31) — soft/estimate |
+| Economy | Top industries | Manufacturing; agriculture; tourism | [source](https://www.cia.gov/the-world-factbook/countries/tunisia) — hard/official |
+| Economy | Economic Complexity | ECI rank ~54 (2024) | [source](https://oec.world/en/country-rankings/hs17/2024/complexity) — hard/official |
+| Technology | Internet users | 76% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=TN) — hard/official |
+| Technology | Fixed broadband subs | 15.0 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=TN) — hard/official |
+| Technology | High-tech exports | 7.7% of manufactured exports (2023) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=TN) — hard/official |
+| Technology | R&D spend | 0.75% of GDP (2019) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=TN) — hard/official |
+| Technology | Global Innovation Index | ~79th (GII 2025) | [source](https://www.wipo.int/edocs/pubdocs/en/wipo_pub_gii_2021/tn.pdf) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.7168, rank 76 (UN E-Government Survey 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | ~18 Mbps fixed broadband median (Ookla, 2025 est.) | [source](https://www.ookla.com/articles/mea-global-index-2025) — hard/official |
+| Technology | 5G | 5G launched in 2025 (Tunisie Telecom, Ooredoo, Orange) | [source](https://www.ericsson.com/en/news/1/2025/tunisie-telecom-and-ericsson-successfully-launch-5g-in-tunisia) — soft/estimate |
+| Technology | Online payments | Stripe not available | [source](https://stripe.com/en-ee/global) — soft/estimate |
+| Technology | Startup ecosystem | not ranked in top 100 (StartupBlink, 2025) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 76.7 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=TN) — hard/official |
+| Human development & health | Hospital beds | 1.8 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=TN) — hard/official |
+| Human development & health | HDI | HDI 0.732, rank 101 (UNDP 2025 HDR, 2022 data) | [source](https://hdr.undp.org/data-center/specific-country-data) — hard/official |
+| Safety | Global Peace Index | rank 85, score 2.13 (Global Peace Index 2025) | [source](https://www.visionofhumanity.org/wp-content/uploads/2025/06/Global-Peace-Index-2025-web.pdf) — hard/official |
+| Safety | US travel advisory | Level 2 — Exercise increased caution (US State Dept, May 2026) | [source](https://travel.state.gov/en/international-travel/travel-advisories/tunisia.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance/gift tax applies; capital gains tax on securities | [source](https://taxsummaries.pwc.com/tunisia) — soft/estimate |
+| Money & tax | CFC rules | Yes, CFC rules apply (2025) | [source](https://taxsummaries.pwc.com/tunisia) — soft/estimate |
+| Business | Company setup | ~9 days, cost ~2.9% GNI per capita (World Bank Doing Business 2020) | [source](https://documents1.worldbank.org/curated/en/362551575375264805/pdf/Doing-Business-2020-Comparing-Business-Regulation-in-190-Economies-Economy-Profile-of-Tunisia.pdf) — hard/official |
+| Business | Corporate tax | 15-35% graduated (35% standard rate for industrial/commercial, 2025) | [source](https://taxsummaries.pwc.com/tunisia/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | University of Tunis El Manar, QS rank 1001-1200 band (2025) | [source](https://www.topuniversities.com/university-rankings) — hard/official |
+| Connectivity | Visa-free for Russians | Visa not required for tourism, 90 days/3 months (2025) | [source](https://embassies.net/tunisia-visa-for-russia-citizens) — soft/estimate |
+| For Russian citizens | Sanctions position | Abstained on key UNGA resolutions on Russia-Ukraine war (2022); neutral stance, no national sanctions | [source](https://www.congress.gov/crs_external_products/RS/PDF/RS21666/RS21666.76.pdf) — hard/official |
+| Quality of life | World Happiness rank | rank ~112 (World Happiness Report 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | not listed (InterNations Expat Insider 2025) | [source](https://www.internations.org/expat-insider/2025) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 66, score 498 (moderate proficiency, 2025); French widely spoken, English limited | [source](https://www.ef.edu/epi/regions/africa/tunisia) — soft/estimate |
 
 ## Country Card
 

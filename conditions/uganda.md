@@ -2,6 +2,7 @@
 title: Uganda — Republic of Uganda
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, employment_residency, investment_residency]
 category: clear_pathway
@@ -100,6 +101,68 @@ eVisa for Russian citizens (single entry, 90 days). Uganda maintains neutral rel
 | Freedom House score | 34/100 — Not Free (2025) | ^[https://freedomhouse.org/country/uganda/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,400 (Kampala) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Kampala,Uganda] hard/official |
 | Average annual temperature | ~22°C (Kampala, tropical highland) | ^[https://en.climate-data.org/africa/uganda/central-region/kampala-4506/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 52/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 241 551 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=UG) — hard/official |
+| Geography & size | Population density | 249 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=UG) — hard/official |
+| Geography & size | Urban population | 32% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=UG) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://www.cia.gov/the-world-factbook/countries/uganda) — hard/official |
+| Geography & size | Highest point | Mount Stanley (Margherita Peak), 5,109 m | [source](https://www.cia.gov/the-world-factbook/countries/uganda) — hard/official |
+| Geography & size | Type | landlocked | [source](https://www.cia.gov/the-world-factbook/countries/uganda) — hard/official |
+| Geography & size | Time zone | UTC+3 (EAT), Moscow+0h | [source](https://www.cia.gov/the-world-factbook/countries/uganda) — hard/official |
+| Climate | Avg precipitation | 1180 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=UG) — hard/official |
+| Climate | PM2.5 exposure | 31.2 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=UG) — hard/official |
+| Climate | Climate zone | Af/Am (Tropical rainforest/monsoon) | [source](https://en.wikipedia.org/wiki/Geography_of_Uganda) — soft/estimate |
+| Climate | Temp winter / summer | Kampala: Feb (warmest) 28°C avg, Jul (coolest) 26°C avg (2025) | [source](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,kampala,Uganda) — soft/estimate |
+| Climate | Rainy days | ~170 days/year (Kampala) | [source](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,kampala,Uganda) — soft/estimate |
+| Climate | Humidity | 65-81% range, ~73% annual avg (Kampala) | [source](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,kampala,Uganda) — soft/estimate |
+| Climate | Natural hazards | Drought, flooding, landslides, epidemics; INFORM Risk rank ~20 (high risk, 2024) | [source](https://www.cia.gov/the-world-factbook/countries/uganda) — hard/official |
+| Climate | Air quality | PM2.5 ~30 μg/m³ annual mean (IQAir 2024) | [source](https://www.iqair.com/world-air-quality) — soft/estimate |
+| Economy | GDP (nominal) | $62.0B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=UG) — hard/official |
+| Economy | GDP growth | 6.3% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=UG) — hard/official |
+| Economy | Inflation (CPI) | 3.6% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=UG) — hard/official |
+| Economy | Unemployment | 2.7% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=UG) — hard/official |
+| Economy | Central govt debt | 54% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=UG) — hard/official |
+| Economy | Gini index | 38.2 (2023) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=UG) — hard/official |
+| Economy | Tourism receipts | 9% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=UG) — hard/official |
+| Economy | Remittances | 4.5% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=UG) — hard/official |
+| Economy | Credit rating | Fitch B (stable outlook, 2025) | [source](https://www.fitchratings.com/research/sovereigns/fitch-affirms-uganda-at-b-outlook-stable-11-08-2025) — hard/official |
+| Economy | Currency | UGX, floating, ~-15% vs USD over 5 years (2020-2025) | [source](https://www.theglobaleconomy.com/Uganda/Dollar_exchange_rate) — soft/estimate |
+| Economy | Top industries | Agriculture; services; manufacturing | [source](https://www.cia.gov/the-world-factbook/countries/uganda) — hard/official |
+| Economy | Economic Complexity | ECI rank ~105 (2024) | [source](https://oec.world/en/country-rankings/hs17/2024/complexity) — hard/official |
+| Technology | Internet users | 9% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=UG) — hard/official |
+| Technology | Fixed broadband subs | 0.2 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=UG) — hard/official |
+| Technology | High-tech exports | 1.9% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=UG) — hard/official |
+| Technology | R&D spend | 0.44% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=UG) — hard/official |
+| Technology | Global Innovation Index | ~121st (GII 2024) | [source](https://www.wipo.int/edocs/gii-ranking/2025/ug.pdf) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.4467, rank 149 (UN E-Government Survey 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | ~15 Mbps fixed broadband median (Ookla, 2025 est.) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G available (MTN Uganda launched 5G in select areas, 2025) | [source](https://www.mtn.co.ug/mtn-uganda-goes-live-with-5g-network-services-in-uganda-ushering-in-a-new-era-of-connectivity) — soft/estimate |
+| Technology | Online payments | Stripe not available; PayPal limited | [source](https://stripe.com/en-ee/global) — soft/estimate |
+| Technology | Startup ecosystem | not ranked in top 100 (StartupBlink, 2025) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 68.5 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=UG) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | HDI 0.550, rank 159 (UNDP 2025 HDR, medium human development, 2022 data) | [source](https://hdr.undp.org/data-center/specific-country-data) — hard/official |
+| Safety | Global Peace Index | rank 105, score 2.31 (Global Peace Index 2025) | [source](https://www.visionofhumanity.org/wp-content/uploads/2025/06/Global-Peace-Index-2025-web.pdf) — hard/official |
+| Safety | US travel advisory | Level 4 — Do Not Travel (US State Dept, 2025) | [source](https://travel.state.gov/en/international-travel/travel-advisories/uganda.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; capital gains tax applies | [source](https://taxsummaries.pwc.com/uganda) — soft/estimate |
+| Money & tax | CFC rules | No specific CFC rules | [source](https://taxsummaries.pwc.com/uganda) — soft/estimate |
+| Business | Company setup | ~24 days, cost ~40% GNI per capita (World Bank Doing Business 2020) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/uganda) — soft/estimate |
+| Business | Corporate tax | 30% standard (2025) | [source](https://taxsummaries.pwc.com/uganda/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Makerere University, QS rank 1001-1200 band (2025) | [source](https://www.topuniversities.com/university-rankings) — hard/official |
+| Connectivity | Visa-free for Russians | eVisa required for Russian citizens (not on Uganda visa-exempt list, 2025) | [source](https://immigration.go.ug/services/visa-exempt-countries) — soft/estimate |
+| For Russian citizens | Sanctions position | Abstained on key UNGA resolutions on Russia-Ukraine war (2022); neutral position, no national sanctions | [source](https://www.congress.gov/crs_external_products/IF/PDF/IF10325/IF10325.9.pdf) — hard/official |
+| Quality of life | World Happiness rank | rank ~132 (World Happiness Report 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | not listed (InterNations Expat Insider 2025) | [source](https://www.internations.org/expat-insider/2025) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 53, score 518 (moderate proficiency, 2025); English is an official language, widely spoken in urban areas | [source](https://www.ef.edu/epi/regions/africa/uganda) — soft/estimate |
 
 ## Country Card
 

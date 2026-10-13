@@ -2,6 +2,7 @@
 title: Turks & Caicos Islands — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, tax, clear_pathway]
 category: clear_pathway
@@ -90,6 +91,68 @@ Turks and Caicos appears in expat forums mainly for luxury tourism and high-end 
 | Freedom House score | No reliable data (territory; not separately scored) | [Freedom House](https://freedomhouse.org/) low |
 | Average annual sunshine hours | ~3,000 h | [Wikipedia](https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands#Climate) hard/official |
 | Average annual temperature | ~27 °C | [Wikipedia](https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands#Climate) hard/official |
+
+## Extended Snapshot
+
+_Coverage: 41/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 948 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=TC) — hard/official |
+| Geography & size | Population density | 49 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=TC) — hard/official |
+| Geography & size | Urban population | 94% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=TC) — hard/official |
+| Geography & size | Coastline | 389 km | [source](https://www.cia.gov/the-world-factbook/countries/turks-and-caicos-islands) — hard/official |
+| Geography & size | Highest point | Blue Hills, 50 m (Providenciales) | [source](https://www.britannica.com/place/Turks-and-Caicos-Islands) — soft/estimate |
+| Geography & size | Type | archipelago | [source](https://www.britannica.com/place/Turks-and-Caicos-Islands) — soft/estimate |
+| Geography & size | Time zone | UTC-5 (EST), Moscow-8h | [source](https://www.cia.gov/the-world-factbook/countries/turks-and-caicos-islands) — hard/official |
+| Climate | Avg precipitation | No reliable data | — |
+| Climate | PM2.5 exposure | No reliable data | — |
+| Climate | Climate zone | Aw (Tropical savanna) | [source](https://www.britannica.com/place/Turks-and-Caicos-Islands) — soft/estimate |
+| Climate | Temp winter / summer | Grand Turk: winter avg 24-27°C, summer avg 29-32°C (2025) | [source](https://www.britannica.com/place/Turks-and-Caicos-Islands) — soft/estimate |
+| Climate | Rainy days | ~60-70 days/year (driest in Bahamas chain) | [source](https://www.britannica.com/place/Turks-and-Caicos-Islands) — soft/estimate |
+| Climate | Humidity | ~70% annual avg | [source](https://nomadseason.com/climate/turks-and-caicos-islands/index.html) — soft/estimate |
+| Climate | Natural hazards | Hurricanes; INFORM Risk not assessed (non-UN territory) | [source](https://www.britannica.com/place/Turks-and-Caicos-Islands) — soft/estimate |
+| Climate | Air quality | PM2.5 ~8 μg/m³ annual mean (good, small islands, IQAir 2024 est.) | [source](https://www.iqair.com/world-air-quality) — soft/estimate |
+| Economy | GDP (nominal) | $1.7B (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TC) — hard/official |
+| Economy | GDP growth | 5.6% (2024) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=TC) — hard/official |
+| Economy | Inflation (CPI) | No reliable data | — |
+| Economy | Unemployment | No reliable data | — |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 0.6% of GDP (2018) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=TC) — hard/official |
+| Economy | Credit rating | not rated (British Overseas Territory, no separate sovereign rating) | [source](https://www.theglobaleconomy.com) — soft/estimate |
+| Economy | Currency | USD, uses US dollar, 0% change vs USD | [source](https://www.cia.gov/the-world-factbook/countries/turks-and-caicos-islands) — hard/official |
+| Economy | Top industries | Tourism; offshore financial services; fishing | [source](https://www.britannica.com/place/Turks-and-Caicos-Islands) — soft/estimate |
+| Economy | Economic Complexity | not ranked (British Overseas Territory, not in OEC) | [source](https://oec.world/en/country-rankings/hs17/2024/complexity) — hard/official |
+| Technology | Internet users | No reliable data | — |
+| Technology | Fixed broadband subs | No reliable data | — |
+| Technology | High-tech exports | No reliable data | — |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | not ranked (not a UN member state, GII 2025) | [source](https://www.wipo.int/gii-ranking/en/rank) — hard/official |
+| Technology | E-Government (UN EGDI) | not ranked (not a UN member state, UN EGDI 2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data-Center) — hard/official |
+| Technology | Median broadband speed | ~30 Mbps fixed broadband median (Ookla, 2025 est.) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | Limited/not widely available (2025) | [source](https://www.cia.gov/the-world-factbook/countries/turks-and-caicos-islands) — hard/official |
+| Technology | Online payments | Stripe not available | [source](https://stripe.com/en-ee/global) — soft/estimate |
+| Technology | Startup ecosystem | not ranked (StartupBlink, 2025) | [source](https://www.startupblink.com/) — soft/estimate |
+| Human development & health | Life expectancy | 78.2 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=TC) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | not ranked (not a UN member state) | [source](https://hdr.undp.org/data-center/specific-country-data) — hard/official |
+| Safety | Global Peace Index | not ranked (Global Peace Index, 2025) | [source](https://www.visionofhumanity.org/wp-content/uploads/2025/06/Global-Peace-Index-2025-web.pdf) — hard/official |
+| Safety | US travel advisory | Level 2 — Exercise increased caution (US State Dept, 2025) | [source](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/turks-and-caicos-travel-advisory.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; no capital gains tax | [source](https://www.gov.tc/) — soft/estimate |
+| Money & tax | CFC rules | No CFC rules (British Overseas Territory) | [source](https://www.gov.tc/) — soft/estimate |
+| Business | Company setup | ~3-5 days, cost ~$300-500 (offshore company, 2025) | [source](https://www.gov.tc/) — soft/estimate |
+| Business | Corporate tax | 0% (no corporate income tax, 2025) | [source](https://www.gov.tc/) — soft/estimate |
+| Family & education | Top university | No local university; not in QS rankings | [source](https://www.topuniversities.com/university-rankings) — hard/official |
+| Connectivity | Visa-free for Russians | Visa required for Russian citizens (UK does not apply visa-free for Russians; TCI follows UK policy, 2025) | unsourced/unverified |
+| For Russian citizens | Sanctions position | Follows UK sanctions against Russia (Russia Sanctions O.T. Order 2020 applies to all British Overseas Territories) | [source](https://www.legislation.gov.uk/uksi/2020/1571/data.html) — hard/official |
+| Quality of life | World Happiness rank | not ranked (World Happiness Report, 2025) | [source](https://worldhappiness.report/ed/2025) — hard/official |
+| Quality of life | Expat friendliness | not listed (InterNations Expat Insider 2025) | [source](https://www.internations.org/expat-insider/2025) — soft/estimate |
+| Quality of life | Local language need | Not ranked in EF EPI; English is the official language, universally spoken | [source](https://www.ef.edu/epi/) — soft/estimate |
 
 ## Country Card
 
