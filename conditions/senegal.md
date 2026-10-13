@@ -2,6 +2,7 @@
 title: Senegal — Republic of Senegal
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, employment_residency]
 category: clear_pathway
@@ -93,6 +94,68 @@ Visa-free or visa on arrival (varies — check with embassy). French proficiency
 | Freedom House score | 68/100 — Partly Free (2025) | ^[https://freedomhouse.org/country/senegal/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,900 (Dakar) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Dakar,Senegal] hard/official |
 | Average annual temperature | ~25°C (Dakar, coastal Sahel) | ^[https://en.climate-data.org/africa/senegal/dakar/dakar-523/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 51/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 196 710 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=SN) — hard/official |
+| Geography & size | Population density | 96 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=SN) — hard/official |
+| Geography & size | Urban population | 56% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=SN) — hard/official |
+| Geography & size | Coastline | 531 km (CIA World Factbook) | [source](https://www.cia.gov/the-world-factbook/about/archives/2023/field/coastline) — hard/official |
+| Geography & size | Highest point | unnamed feature near Nepen Diakha, ~648 m | [source](https://en.wikipedia.org/wiki/Senegal) — soft/estimate |
+| Geography & size | Type | mainland (coastal West Africa) | [source](https://en.wikipedia.org/wiki/Senegal) — soft/estimate |
+| Geography & size | Time zone | UTC+0 (GMT), -3h from Moscow (UTC+3) | [source](https://en.wikipedia.org/wiki/Senegal) — soft/estimate |
+| Climate | Avg precipitation | 686 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=SN) — hard/official |
+| Climate | PM2.5 exposure | 41.6 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=SN) — hard/official |
+| Climate | Climate zone | BSh/Aw (hot semi-arid to tropical savanna) | [source](https://en.wikipedia.org/wiki/Senegal) — soft/estimate |
+| Climate | Temp winter / summer | Dakar: Jan avg 21°C, Jul avg 27°C | [source](https://en.wikipedia.org/wiki/Senegal) — soft/estimate |
+| Climate | Rainy days | ~55 rainy days per year (Dakar); rainy season Jul-Oct | [source](https://en.wikipedia.org/wiki/Senegal) — soft/estimate |
+| Climate | Humidity | ~73% avg annual relative humidity (Dakar) | [source](https://en.wikipedia.org/wiki/Senegal) — soft/estimate |
+| Climate | Natural hazards | drought, flooding, locusts; INFORM risk medium-high | [source](https://en.wikipedia.org/wiki/Senegal) — soft/estimate |
+| Climate | Air quality | PM2.5 ~18 µg/m³ annual mean (2023, WHO) | [source](https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database) — hard/official |
+| Economy | GDP (nominal) | $37.0B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SN) — hard/official |
+| Economy | GDP growth | 6.7% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SN) — hard/official |
+| Economy | Inflation (CPI) | 1.5% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SN) — hard/official |
+| Economy | Unemployment | 2.7% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=SN) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 36.2 (2021) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=SN) — hard/official |
+| Economy | Tourism receipts | 11% of exports (2018) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=SN) — hard/official |
+| Economy | Remittances | 10.6% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=SN) — hard/official |
+| Economy | Credit rating | Moody's Caa1, S&P CCC+ (2025, downgraded) | [source](https://ratings.moodys.com/ratings-news/452343) — hard/official |
+| Economy | Currency | XOF (West African CFA franc), pegged to EUR at 1 EUR = 655.957 XOF | [source](https://en.wikipedia.org/wiki/CFA_franc) — soft/estimate |
+| Economy | Top industries | agriculture (~17% GDP), fishing, mining (gold, phosphates), tourism | [source](https://data.worldbank.org/country/senegal) — hard/official |
+| Economy | Economic Complexity | ECI rank 108 (2023, OEC) | [source](https://oec.world/en/country-rankings/hs17/2023/complexity) — hard/official |
+| Technology | Internet users | 60% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=SN) — hard/official |
+| Technology | Fixed broadband subs | 4.0 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=SN) — hard/official |
+| Technology | High-tech exports | 3.0% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=SN) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | GII rank 108 (2024) | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/index.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI ~0.50 est., rank ~110 of 193 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/159-Senegal) — hard/official |
+| Technology | Median broadband speed | median fixed broadband ~28 Mbps (Dec 2024, Ookla) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G launched by Sonatel (2024), limited availability | [source](https://www.wearetech.africa/en/fils-uk/news/telecom/sonatel-launches-residential-and-business-5g-services-in-senegal) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses in Senegal | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | StartupBlink global rank ~95, 4th in Western Africa (2025) | [source](https://www.startupblink.com/startup-ecosystem/senegal) — soft/estimate |
+| Human development & health | Life expectancy | 68.9 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SN) — hard/official |
+| Human development & health | Hospital beds | 0.7 per 1000 (2019) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=SN) — hard/official |
+| Human development & health | HDI | HDI 0.517, rank 170 (2022), low | [source](https://hdr.undp.org/sites/default/files/2023-24_HDR/HDR23-24_Statistical_Annex_HDI_Table.xlsx) — hard/official |
+| Safety | Global Peace Index | GPI rank 69, score 1.936 (2025) | [source](https://www.visionofhumanity.org/wp-content/uploads/2025/06/Global-Peace-Index-2025-web.pdf) — hard/official |
+| Safety | US travel advisory | US State Dept Level 2 (Exercise increased caution, 2025) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Senegal.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | no wealth tax; capital gains taxed at 30% CIT or 10-15% CGT | [source](https://taxsummaries.pwc.com/senegal/corporate/income-determination) — soft/estimate |
+| Money & tax | CFC rules | Country-by-Country Reporting (CbCR) applicable; no standalone CFC rules | [source](https://www.pwc.com/gh/en/assets/pdf/2025-Senegal-Tax-Facts-and-Figures.pdf) — soft/estimate |
+| Business | Company setup | ~6 days, cost ~$500 (B-Ready 2024 est.) | [source](https://www.worldbank.org/en/businessready/economy/senegal) — hard/official |
+| Business | Corporate tax | 30% headline corporate tax rate (CIT) | [source](https://taxsummaries.pwc.com/senegal/corporate/taxes-on-corporate-income) — soft/estimate |
+| Family & education | Top university | Université Cheikh Anta Diop, QS rank 1001-1200 (2025) | [source](https://www.qs.com/rankings) — soft/estimate |
+| Connectivity | Visa-free for Russians | visa-free for up to 90 days for Russian citizens (2025) | [source](https://www.vinavisas.com/senegal-tourist-visa-exemption/rus-russian) — soft/estimate |
+| For Russian citizens | Sanctions position | no sanctions imposed on Russia; called for dialogue (2022) | [source](https://www.institutmontaigne.org/en/expressions/senegal-voice-africa-russian-ukrainian-crisis) — soft/estimate |
+| Quality of life | World Happiness rank | WHR rank 107, score 4.787 (2025) | [source](https://countryeconomy.com/demography/world-happiness-index/senegal) — soft/estimate |
+| Quality of life | Expat friendliness | not listed in InterNations Expat Insider 2024 | [source](https://content.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | EF EPI rank 102, score 442, low proficiency (2025); French is official language | [source](https://www.ef.com/assetscdn/WIBIwq6RdJvcD9bc8RMd/cefcom-epi-site/reports/2025/ef-epi-2025-english.pdf) — hard/official |
 
 ## Country Card
 

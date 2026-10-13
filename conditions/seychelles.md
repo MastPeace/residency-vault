@@ -2,6 +2,7 @@
 title: Seychelles — Republic of Seychelles
 created: 2026-09-13
 updated: 2026-09-13
+extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, digital-nomad, investment_residency, short-stay]
 category: it_friendly
@@ -102,6 +103,68 @@ Visa-free entry for 90 days for Russian citizens. Direct flights from Moscow res
 | Freedom House score | 79/100 — Free (2025) | ^[https://freedomhouse.org/country/seychelles/freedom-world/2025] hard/official |
 | Average annual sunshine hours | ~2,700 (Victoria, Mahé) | ^[https://weather-and-climate.com/average-monthly-hours-Sunshine,Victoria,Seychelles] hard/official |
 | Average annual temperature | ~27°C (Victoria, tropical equatorial) | ^[https://en.climate-data.org/africa/seychelles/port-glaud-33895/] hard/official |
+
+## Extended Snapshot
+
+_Coverage: 50/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 457 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=SC) — hard/official |
+| Geography & size | Population density | 266 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=SC) — hard/official |
+| Geography & size | Urban population | 45% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=SC) — hard/official |
+| Geography & size | Coastline | 491 km (CIA World Factbook) | [source](https://www.cia.gov/the-world-factbook/about/archives/2023/field/coastline) — hard/official |
+| Geography & size | Highest point | Morne Seychellois, 905 m | [source](https://en.wikipedia.org/wiki/Seychelles) — soft/estimate |
+| Geography & size | Type | archipelago (115 islands in Indian Ocean) | [source](https://en.wikipedia.org/wiki/Seychelles) — soft/estimate |
+| Geography & size | Time zone | UTC+4 (SCT), +1h from Moscow (UTC+3) | [source](https://en.wikipedia.org/wiki/Seychelles) — soft/estimate |
+| Climate | Avg precipitation | 2330 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=SC) — hard/official |
+| Climate | PM2.5 exposure | 9.3 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=SC) — hard/official |
+| Climate | Climate zone | Af (tropical rainforest) | [source](https://en.wikipedia.org/wiki/Seychelles) — soft/estimate |
+| Climate | Temp winter / summer | Victoria: Jan avg 27°C, Jul avg 25°C | [source](https://en.wikipedia.org/wiki/Seychelles) — soft/estimate |
+| Climate | Rainy days | ~140 rainy days per year (Victoria) | [source](https://en.wikipedia.org/wiki/Seychelles) — soft/estimate |
+| Climate | Humidity | ~80% avg annual relative humidity | [source](https://en.wikipedia.org/wiki/Seychelles) — soft/estimate |
+| Climate | Natural hazards | tropical cyclones (rare), coastal flooding; INFORM risk low | [source](https://en.wikipedia.org/wiki/Seychelles) — soft/estimate |
+| Climate | Air quality | PM2.5 ~12 µg/m³ annual mean (2023, WHO est.) | [source](https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database) — hard/official |
+| Economy | GDP (nominal) | $2.4B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SC) — hard/official |
+| Economy | GDP growth | 5.8% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SC) — hard/official |
+| Economy | Inflation (CPI) | 0.3% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SC) — hard/official |
+| Economy | Unemployment | No reliable data | — |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | 32.1 (2018) | [World Bank](https://data.worldbank.org/indicator/SI.POV.GINI?locations=SC) — hard/official |
+| Economy | Tourism receipts | 18% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=SC) — hard/official |
+| Economy | Remittances | 0.5% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=SC) — hard/official |
+| Economy | Credit rating | Fitch B+ (2025); not rated by S&P/Moody's | [source](https://www.fitchratings.com/entity/seychelles-88822462) — hard/official |
+| Economy | Currency | SCR (Seychellois rupee), floating; ~-20% vs USD over 5yr (2020-2025) | [source](https://www.cia.gov/the-world-factbook/about/archives/2023/countries/seychelles/summaries) — hard/official |
+| Economy | Top industries | tourism (~30% GDP), fishing (tuna), financial services | [source](https://data.worldbank.org/country/seychelles) — hard/official |
+| Economy | Economic Complexity | ECI rank 158 (2023, OEC) | [source](https://oec.world/en/country-rankings/hs17/2023/complexity) — hard/official |
+| Technology | Internet users | 88% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=SC) — hard/official |
+| Technology | Fixed broadband subs | 31.6 per 100 people (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=SC) — hard/official |
+| Technology | High-tech exports | 0.1% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=SC) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | GII rank 95 (2024) | [source](https://www.wipo.int/gii-ranking/en/seychelles) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI ~0.68 est., rank ~75 of 193 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/153-Seychelles) — hard/official |
+| Technology | Median broadband speed | median fixed broadband ~25 Mbps (Dec 2024, Ookla est.) | [source](https://www.speedtest.net/global-index) — hard/official |
+| Technology | 5G | 5G launched by Airtel Seychelles (2024) | [source](https://www.nation.sc/articles/31374/airtel-seychelles-launches-5g-network-and-partners-with-sbc-by-vidya-gappy) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses in Seychelles | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | not ranked in StartupBlink top 100 countries (2025) | [source](https://www.startupblink.com/startup-ecosystem/victoria-sc) — soft/estimate |
+| Human development & health | Life expectancy | 76.3 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SC) — hard/official |
+| Human development & health | Hospital beds | 2.6 per 1000 (2023) | [World Bank](https://data.worldbank.org/indicator/SH.MED.BEDS.ZS?locations=SC) — hard/official |
+| Human development & health | HDI | HDI 0.802, rank 67 (2022), very high | [source](https://hdr.undp.org/sites/default/files/2023-24_HDR/HDR23-24_Statistical_Annex_HDI_Table.xlsx) — hard/official |
+| Safety | Global Peace Index | not ranked in GPI 2025 (163 countries) | [source](https://www.visionofhumanity.org/wp-content/uploads/2025/06/Global-Peace-Index-2025-web.pdf) — hard/official |
+| Safety | US travel advisory | US State Dept Level 1 (Exercise normal precautions; Level 2 in some areas, Dec 2025) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Seychelles.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | no wealth tax; no inheritance tax; no capital gains tax | [source](https://seychellesinc.com/resources/seychelles-company-cost) — soft/estimate |
+| Money & tax | CFC rules | no CFC rules (offshore IBC regime) | [source](https://gsl.org/en/offshore/offshore-zones/seychelles) — soft/estimate |
+| Business | Company setup | ~3-5 days offshore; cost ~$800-1500 (2024) | [source](https://seychellesinc.com/resources/seychelles-company-cost) — soft/estimate |
+| Business | Corporate tax | 25% headline corporate tax rate (33% for telecom, insurance) | [source](https://seychellesinc.com/resources/seychelles-company-cost) — soft/estimate |
+| Family & education | Top university | University of Seychelles (UniSey), not QS ranked | [source](https://www.unirank.org/sc) — soft/estimate |
+| Connectivity | Visa-free for Russians | visa-free for Russian citizens (visitor's permit on arrival, 2025) | [source](https://www.entryconditions.com/russia/seychelles) — soft/estimate |
+| For Russian citizens | Sanctions position | has not imposed sanctions on Russia; neutral stance | [source](https://en.wikipedia.org/wiki/Seychelles) — soft/estimate |
+| Quality of life | World Happiness rank | not ranked in World Happiness Report 2025 | [source](https://worldhappiness.report) — hard/official |
+| Quality of life | Expat friendliness | not listed in InterNations Expat Insider 2024 | [source](https://content.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | not ranked in EF EPI 2025; English, French, and Seychellois Creole are official languages | [source](https://www.ef.com/assetscdn/WIBIwq6RdJvcD9bc8RMd/cefcom-epi-site/reports/2025/ef-epi-2025-english.pdf) — soft/estimate |
 
 ## Country Card
 

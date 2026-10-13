@@ -2,6 +2,7 @@
 title: San Marino — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-13
 last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, strong_passport]
@@ -113,6 +114,68 @@ San Marino is a niche relocation option, praised for its facilitated tax regime 
 | Freedom House score | 97/100 Free (2025) | [hard/official](https://freedomhouse.org/country/san-marino/freedom-world/2025) |
 | Average annual sunshine hours | ~2,400 h  [soft/estimate] | [soft/estimate](https://www.climatestotravel.com/climate/san-marino) |
 | Average annual temperature | ~12–13 °C  [soft/estimate] | [soft/estimate](https://www.climatestotravel.com/climate/san-marino) |
+
+## Extended Snapshot
+
+_Coverage: 46/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 61 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=SM) — hard/official |
+| Geography & size | Population density | 555 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=SM) — hard/official |
+| Geography & size | Urban population | 97% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=SM) — hard/official |
+| Geography & size | Coastline | 0 km (landlocked) | [source](https://www.cia.gov/the-world-factbook/about/archives/2023/field/coastline) — hard/official |
+| Geography & size | Highest point | Monte Titano, 739 m | [source](https://en.wikipedia.org/wiki/Monte_Titano) — soft/estimate |
+| Geography & size | Type | landlocked (enclave, surrounded by Italy) | [source](https://en.wikipedia.org/wiki/San_Marino) — soft/estimate |
+| Geography & size | Time zone | UTC+1/+2 (CET/CEST), -2h/-1h from Moscow (UTC+3) | [source](https://en.wikipedia.org/wiki/San_Marino) — soft/estimate |
+| Climate | Avg precipitation | No reliable data | — |
+| Climate | PM2.5 exposure | 12.7 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=SM) — hard/official |
+| Climate | Climate zone | Cfa (humid subtropical) | [source](https://nomadseason.com/climate/san-marino/index.html) — soft/estimate |
+| Climate | Temp winter / summer | San Marino city: Jan avg ~3°C, Jul avg ~23°C | [source](https://nomadseason.com/climate/san-marino/index.html) — soft/estimate |
+| Climate | Rainy days | ~80 rainy days per year | [source](https://nomadseason.com/climate/san-marino/index.html) — soft/estimate |
+| Climate | Humidity | ~73% avg annual relative humidity | [source](https://nomadseason.com/climate/san-marino/index.html) — soft/estimate |
+| Climate | Natural hazards | occasional earthquakes; not in INFORM risk index | [source](https://en.wikipedia.org/wiki/San_Marino) — soft/estimate |
+| Climate | Air quality | PM2.5 12.7 µg/m³ annual mean (2023) | [source](https://rankingcountries.com/country/SMR/world) — soft/estimate |
+| Economy | GDP (nominal) | $2.0B (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SM) — hard/official |
+| Economy | GDP growth | 0.4% (2023) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=SM) — hard/official |
+| Economy | Inflation (CPI) | 2.3% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=SM) — hard/official |
+| Economy | Unemployment | No reliable data | — |
+| Economy | Central govt debt | 100% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?locations=SM) — hard/official |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | No reliable data | — |
+| Economy | Remittances | 1.1% of GDP (2023) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=SM) — hard/official |
+| Economy | Credit rating | S&P BBB+/A-2, Fitch BBB- (positive outlook, 2025) | [source](https://www.fitchratings.com/research/sovereigns/fitch-upgrades-san-marino-to-bbb-outlook-positive-12-12-2025) — hard/official |
+| Economy | Currency | EUR (euro), monetary union with Italy | [source](https://www.bcsm.sm/en/) — soft/estimate |
+| Economy | Top industries | banking/finance, tourism, manufacturing (ceramics, electronics) | [source](https://en.wikipedia.org/wiki/Economy_of_San_Marino) — soft/estimate |
+| Economy | Economic Complexity | ECI rank 66 (2023, OEC) | [source](https://oec.world/en/profile/country/smr) — hard/official |
+| Technology | Internet users | 97% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=SM) — hard/official |
+| Technology | Fixed broadband subs | 35.8 per 100 people (2022) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=SM) — hard/official |
+| Technology | High-tech exports | No reliable data | — |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | not ranked in WIPO GII 2024 top 133 | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/index.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI ~0.75 est, rank ~60 of 193 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/163-San-Marino) — hard/official |
+| Technology | Median broadband speed | served by Italian infrastructure, ~50+ Mbps est. | [source](https://www.speedtest.net/global-index) — soft/estimate |
+| Technology | 5G | full 5G coverage by TIM since 2018 | [source](https://www.gruppotim.it/en/press-archive/market/2018/Nota-Stampa-TIM-Nokia-SanMarino-17122018.html) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses in San Marino | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | not ranked in StartupBlink top 100 (2025) | [source](https://www.startupblink.com/startup-ecosystem/san-marino) — soft/estimate |
+| Human development & health | Life expectancy | 85.8 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SM) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | HDI 0.867, very high (2022; not separately ranked by UNDP) | [source](https://hdr.undp.org/sites/default/files/2023-24_HDR/HDR23-24_Statistical_Annex_HDI_Table.xlsx) — hard/official |
+| Safety | Global Peace Index | not ranked in GPI 2025 (163 countries) | [source](https://www.visionofhumanity.org/wp-content/uploads/2025/06/Global-Peace-Index-2025-web.pdf) — hard/official |
+| Safety | US travel advisory | US State Dept covers under Italy: Level 2 (Exercise increased caution, 2025) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Italy.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | no wealth tax; inheritance tax 0-4% for close relatives | [source](https://taxglass.net/compare/poland-vs-san-marino) — soft/estimate |
+| Money & tax | CFC rules | no specific CFC rules (OECD Global Forum peer review, 2018) | [source](https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/07/global-forum-on-transparency-and-exchange-of-information-for-tax-purposes-san-marino-2018-second-round_g1g90a41/9789264302839-en.pdf) — hard/official |
+| Business | Company setup | ~30 days; notary and licensing required (2025) | [source](https://www.camcom.sm/wp-content/uploads/2025/03/Country-profileEN_2025.pdf) — soft/estimate |
+| Business | Corporate tax | 17% headline corporate tax rate | [source](https://www.startup.sm/en/taxation/corporation-tax) — soft/estimate |
+| Family & education | Top university | University of the Republic of San Marino, not QS ranked | [source](https://www.unirsm.sm/en) — soft/estimate |
+| Connectivity | Visa-free for Russians | Schengen visa required; San Marino has open border with Italy, Schengen rules apply | [source](https://canigo.world/en/travel/russia/san-marino) — soft/estimate |
+| For Russian citizens | Sanctions position | aligns with EU sanctions against Russia | [source](https://www.eeas.europa.eu/eeas/eu-foreign-policy-action-2026_en) — hard/official |
+| Quality of life | World Happiness rank | not ranked in World Happiness Report 2025 | [source](https://worldhappiness.report) — hard/official |
+| Quality of life | Expat friendliness | not listed in InterNations Expat Insider 2024 | [source](https://content.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | not separately ranked in EF EPI 2025; Italian is primary language | [source](https://www.ef.com/assetscdn/WIBIwq6RdJvcD9bc8RMd/cefcom-epi-site/reports/2025/ef-epi-2025-english.pdf) — soft/estimate |
 
 ## Country Card
 

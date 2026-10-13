@@ -2,6 +2,7 @@
 title: Samoa — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
+extended_snapshot: 2026-10-13
 last_checked: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, investment, clear_pathway]
@@ -97,6 +98,68 @@ Very low expat volume; no significant backlog or rejection reporting. The PR quo
 | Freedom House score | 84/100 Free (2025) | [Freedom House](https://freedomhouse.org/country/samoa/freedom-world/2025) — hard/official |
 | Average annual sunshine hours | No reliable data | confidence low |
 | Average annual temperature | ~27–28 °C (tropical) | confidence low |
+
+## Extended Snapshot
+
+_Coverage: 48/55 fields. Only facts verifiable against official sources or published indices; practice-dependent topics (bank attitudes, real-world acceptance of Russian applicants, flights, policy mood) are deliberately excluded until community-sourced data is collected._
+
+| Block | Field | Value | Source / Confidence |
+|---|---|---|---|
+| Geography & size | Area | 2 840 km² (2024) | [World Bank](https://data.worldbank.org/indicator/AG.SRF.TOTL.K2?locations=WS) — hard/official |
+| Geography & size | Population density | 78 /km² (2024) | [World Bank](https://data.worldbank.org/indicator/EN.POP.DNST?locations=WS) — hard/official |
+| Geography & size | Urban population | 18% (2025) | [World Bank](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=WS) — hard/official |
+| Geography & size | Coastline | 403 km (CIA World Factbook) | [source](https://www.cia.gov/the-world-factbook/countries/samoa) — hard/official |
+| Geography & size | Highest point | Mount Silisili, 1,857 m | [source](https://www.cia.gov/the-world-factbook/countries/samoa) — hard/official |
+| Geography & size | Type | archipelago (2 main islands, 8 islets) | [source](https://en.wikipedia.org/wiki/Samoa) — soft/estimate |
+| Geography & size | Time zone | UTC+13, +10h from Moscow (UTC+3) | [source](https://en.wikipedia.org/wiki/Samoa) — soft/estimate |
+| Climate | Avg precipitation | 2880 mm/yr (2022) | [World Bank](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?locations=WS) — hard/official |
+| Climate | PM2.5 exposure | 4.6 µg/m³ (2023) | [World Bank](https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3?locations=WS) — hard/official |
+| Climate | Climate zone | Af (tropical rainforest) | [source](https://en.wikipedia.org/wiki/Samoa) — soft/estimate |
+| Climate | Temp winter / summer | Apia: Jan avg 27°C, Jul avg 26°C, annual avg 26.5°C | [source](https://en.wikipedia.org/wiki/Samoa) — soft/estimate |
+| Climate | Rainy days | ~190 rainy days per year (Apia), rainy season Nov-Apr | [source](https://www.worlddata.info/oceania/samoa/climate.php) — soft/estimate |
+| Climate | Humidity | ~80% avg annual relative humidity | [source](https://www.worlddata.info/oceania/samoa/climate.php) — soft/estimate |
+| Climate | Natural hazards | tropical cyclones, tsunamis, earthquakes; INFORM risk: low | [source](https://www.usgs.gov/centers/pcmsc/science/preliminary-analysis-2009-samoa-tsunami) — soft/estimate |
+| Climate | Air quality | PM2.5 ~8 µg/m³ annual mean (2023, IQAir est.) | [source](https://www.iqair.com/air-quality/american-samoa) — soft/estimate |
+| Economy | GDP (nominal) | $1.3B (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=WS) — hard/official |
+| Economy | GDP growth | 4.2% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=WS) — hard/official |
+| Economy | Inflation (CPI) | 2.2% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=WS) — hard/official |
+| Economy | Unemployment | 5.0% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=WS) — hard/official |
+| Economy | Central govt debt | No reliable data | — |
+| Economy | Gini index | No reliable data | — |
+| Economy | Tourism receipts | 20% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=WS) — hard/official |
+| Economy | Remittances | 22.4% of GDP (2025) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=WS) — hard/official |
+| Economy | Credit rating | not rated by S&P/Moody's/Fitch | [source](https://tradingeconomics.com/samoa/indicators) — soft/estimate |
+| Economy | Currency | WST (Samoan tālā), managed float; ~-15% vs USD over 5yr (2020-2025) | [source](https://wise.com/us/currency-converter/usd-to-wst-rate) — soft/estimate |
+| Economy | Top industries | agriculture (~10% GDP), industry (~23%), services (~67%) | [source](https://data.worldbank.org/country/samoa) — hard/official |
+| Economy | Economic Complexity | ECI rank 145 (2023, OEC) | [source](https://oec.world/en/profile/country/wsm) — hard/official |
+| Technology | Internet users | No reliable data | — |
+| Technology | Fixed broadband subs | 0.9 per 100 people (2022) | [World Bank](https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=WS) — hard/official |
+| Technology | High-tech exports | 76.7% of manufactured exports (2024) | [World Bank](https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS?locations=WS) — hard/official |
+| Technology | R&D spend | No reliable data | — |
+| Technology | Global Innovation Index | not ranked in WIPO GII 2024 top 133 | [source](https://www.wipo.int/web-publications/global-innovation-index-2024/en/index.html) — hard/official |
+| Technology | E-Government (UN EGDI) | EGDI 0.5120, rank 121 of 193 (2024) | [source](https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/186-Samoa) — hard/official |
+| Technology | Median broadband speed | median fixed broadband ~15 Mbps (2024, Ookla est.) | [source](https://www.speedtest.net/global-index) — soft/estimate |
+| Technology | 5G | no 5G; 100% LTE coverage, no 5G plans (2020+) | [source](https://www.operatorwatch.com/2020/09/samoa-achieved-100-lte-coverage-but-not.html) — soft/estimate |
+| Technology | Online payments | Stripe not available for local businesses in Samoa | [source](https://stripe.com/global) — soft/estimate |
+| Technology | Startup ecosystem | not ranked in StartupBlink top 100 countries (2025) | [source](https://www.startupblink.com/startup-ecosystem/samoa) — soft/estimate |
+| Human development & health | Life expectancy | 71.8 years (2024) | [World Bank](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=WS) — hard/official |
+| Human development & health | Hospital beds | No reliable data | — |
+| Human development & health | HDI | HDI 0.702, rank 116 (2022) | [source](https://hdr.undp.org/sites/default/files/2023-24_HDR/HDR23-24_Statistical_Annex_HDI_Table.xlsx) — hard/official |
+| Safety | Global Peace Index | not ranked in GPI 2025 (163 countries) | [source](https://www.visionofhumanity.org/wp-content/uploads/2025/06/Global-Peace-Index-2025-web.pdf) — hard/official |
+| Safety | US travel advisory | US State Dept Level 1 (Exercise normal precautions, Jul 2026) | [source](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Samoa.html) — hard/official |
+| Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
+| Money & tax | CRS exchange | No reliable data | — |
+| Money & tax | Tax treaty with Russia | No reliable data | — |
+| Money & tax | Wealth / inheritance / CGT | no wealth tax; no inheritance tax | [source](https://fiscaworld.com/country/samoa) — soft/estimate |
+| Money & tax | CFC rules | no CFC rules | [source](https://www.state.gov/reports/2025-investment-climate-statements/samoa) — hard/official |
+| Business | Company setup | ~9 days, ~$150 to register (Business Registry 2024) | [source](https://www.businessregistries.gov.ws/companies/fees-help-support/fees-and-penalties) — soft/estimate |
+| Business | Corporate tax | 27% headline corporate tax rate | [source](https://revenue.gov.ws/rates) — soft/estimate |
+| Family & education | Top university | National University of Samoa, not QS ranked | [source](https://www.unirank.org/ws/uni/national-university-of-samoa) — soft/estimate |
+| Connectivity | Visa-free for Russians | visa-free for up to 60 days (Russian-Samoan agreement, 2017) | [source](https://www.mid.ru/en/foreign_policy/news/1549066) — soft/estimate |
+| For Russian citizens | Sanctions position | has not imposed sanctions against Russia | [source](https://2021-2025.state.gov/u-s-relations-with-samoa) — hard/official |
+| Quality of life | World Happiness rank | not ranked in World Happiness Report 2025 | [source](https://worldhappiness.report) — hard/official |
+| Quality of life | Expat friendliness | not listed in InterNations Expat Insider 2024 | [source](https://content.internations.org/expat-insider/2024) — soft/estimate |
+| Quality of life | Local language need | not ranked in EF English Proficiency Index 2025; English is official language | [source](https://www.ef.com/assetscdn/WIBIwq6RdJvcD9bc8RMd/cefcom-epi-site/reports/2025/ef-epi-2025-english.pdf) — soft/estimate |
 
 ## Country Card
 
