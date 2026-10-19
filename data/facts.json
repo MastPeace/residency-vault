@@ -235,10 +235,16 @@
   }
  },
  "belgium": {
-  "hash": "b91bfc3125cbe7a8",
-  "extracted": "2026-10-12",
+  "hash": "630c6bf528f3c333",
+  "extracted": "2026-10-19",
   "gv_min": null,
-  "remote_visa": null,
+  "remote_visa": {
+   "available": false,
+   "min_income": null,
+   "currency": null,
+   "period": null,
+   "evidence": "No dedicated digital nomad visa"
+  },
   "remote_tax": null
  },
  "belize": {
@@ -358,20 +364,20 @@
   }
  },
  "bulgaria": {
-  "hash": "374f6951c0e805fe",
-  "extracted": "2026-10-12",
+  "hash": "69c7ada9bd1ea056",
+  "extracted": "2026-10-19",
   "gv_min": {
    "amount": 312000,
    "currency": "EUR",
    "note": "real estate",
-   "evidence": "€312,000 property → TR"
+   "evidence": "€512,000 AIF/ETF fund → PR; €312,000 property → TR"
   },
   "remote_visa": {
    "available": true,
    "min_income": 27500,
    "currency": "EUR",
    "period": "year",
-   "evidence": "~€27,500/yr income"
+   "evidence": "~€27,500/yr income; remote work non-EU"
   },
   "remote_tax": {
    "low_pct": 10,
@@ -611,15 +617,15 @@
   }
  },
  "croatia": {
-  "hash": "a408275e9253906d",
-  "extracted": "2026-10-12",
+  "hash": "7fc017673fe98514",
+  "extracted": "2026-10-19",
   "gv_min": null,
   "remote_visa": {
    "available": true,
    "min_income": 3622.5,
    "currency": "EUR",
    "period": "month",
-   "evidence": "~€3,622.50/mo (2.5× average salary) or savings: €43,470/12mo"
+   "evidence": "Digital Nomad Residence Permit (since 2021) | ~€3,622.50/mo (2.5× average salary) or savings: €43,470/12mo"
   },
   "remote_tax": {
    "low_pct": 20,
@@ -641,12 +647,12 @@
   "remote_tax": null
  },
  "cyprus": {
-  "hash": "efea2c2b6209c0fc",
-  "extracted": "2026-10-12",
+  "hash": "008f128c9bebcbaf",
+  "extracted": "2026-10-19",
   "gv_min": {
    "amount": 300000,
    "currency": "EUR",
-   "note": "property or business investment",
+   "note": "€300,000 + VAT property/business",
    "evidence": "€300,000 + VAT property/business; income €9,568/yr (+€4,613/dep)"
   },
   "remote_visa": {
@@ -656,28 +662,20 @@
    "period": null,
    "evidence": "Not available as dedicated visa"
   },
-  "remote_tax": {
-   "low_pct": 0,
-   "high_pct": 35,
-   "evidence": "0–35% progressive on income"
-  }
+  "remote_tax": null
  },
  "czechia": {
-  "hash": "95141e21526627c3",
-  "extracted": "2026-10-12",
+  "hash": "8829315c6955decb",
+  "extracted": "2026-10-19",
   "gv_min": null,
   "remote_visa": {
    "available": true,
    "min_income": null,
    "currency": null,
    "period": null,
-   "evidence": "Digital Nomad Programme (IT specialists) | Remote work for foreign employer; IT/tech field"
+   "evidence": "Remote work for foreign employer; IT/tech field"
   },
-  "remote_tax": {
-   "low_pct": 15,
-   "high_pct": 23,
-   "evidence": "Flat income tax: 15% (23% above ~CZK 1,900,000/year — ~€76,000)"
-  }
+  "remote_tax": null
  },
  "democratic-republic-of-congo": {
   "hash": "f256839c80159bb1",
@@ -787,15 +785,15 @@
   }
  },
  "el-salvador": {
-  "hash": "428ac9b56770cf71",
-  "extracted": "2026-10-12",
+  "hash": "4c071162e3166855",
+  "extracted": "2026-10-19",
   "gv_min": null,
   "remote_visa": {
    "available": false,
    "min_income": null,
    "currency": null,
    "period": null,
-   "evidence": "Not available"
+   "evidence": "No dedicated DN visa"
   },
   "remote_tax": {
    "low_pct": 0,
@@ -817,8 +815,8 @@
   "remote_tax": null
  },
  "estonia": {
-  "hash": "9a392d7e75b9639d",
-  "extracted": "2026-10-12",
+  "hash": "162cb91a539cb2d5",
+  "extracted": "2026-10-19",
   "gv_min": null,
   "remote_visa": {
    "available": true,
@@ -827,7 +825,11 @@
    "period": "month",
    "evidence": "€4,500/mo income (6mo preceding)"
   },
-  "remote_tax": null
+  "remote_tax": {
+   "low_pct": 20,
+   "high_pct": 20,
+   "evidence": "flat 20%"
+  }
  },
  "eswatini": {
   "hash": "a160a718a27560d4",
@@ -1013,8 +1015,8 @@
   }
  },
  "greece": {
-  "hash": "8e7c8349bb899b50",
-  "extracted": "2026-10-12",
+  "hash": "8453904f3889bf08",
+  "extracted": "2026-10-19",
   "gv_min": {
    "amount": 250000,
    "currency": "EUR",
@@ -1052,15 +1054,15 @@
   }
  },
  "guatemala": {
-  "hash": "dd382fc69035ea72",
-  "extracted": "2026-10-12",
+  "hash": "b122f4330f3c0c21",
+  "extracted": "2026-10-19",
   "gv_min": null,
   "remote_visa": {
    "available": true,
    "min_income": null,
    "currency": null,
    "period": null,
-   "evidence": "Remote work for foreign employer; per IGM-016-2025 categories"
+   "evidence": "Temporary Residence (remote worker) — NEW Oct 2025"
   },
   "remote_tax": {
    "low_pct": 0,
@@ -1138,13 +1140,13 @@
   }
  },
  "hungary": {
-  "hash": "7d1c7b611df4d9ef",
-  "extracted": "2026-10-12",
+  "hash": "74d7609d988dda4c",
+  "extracted": "2026-10-19",
   "gv_min": {
    "amount": 250000,
    "currency": "EUR",
-   "note": "cheapest fund option",
-   "evidence": "€250,000 fund / €500,000 real estate / €1,000,000 donation"
+   "note": "fund",
+   "evidence": "€250,000 fund"
   },
   "remote_visa": {
    "available": true,
@@ -1156,7 +1158,7 @@
   "remote_tax": {
    "low_pct": 15,
    "high_pct": 15,
-   "evidence": "- Flat income tax: **15%** (one of EU's lowest)"
+   "evidence": "15% flat income tax (one of EU's lowest)"
   }
  },
  "iceland": {
@@ -1226,17 +1228,21 @@
   "remote_tax": null
  },
  "israel": {
-  "hash": "b4850acea57a8a88",
-  "extracted": "2026-10-12",
+  "hash": "8126314d020fb767",
+  "extracted": "2026-10-19",
   "gv_min": null,
   "remote_visa": {
-   "available": false,
+   "available": true,
    "min_income": 5000,
    "currency": "USD",
    "period": "month",
    "evidence": "$5,000/mo active income (foreign source)"
   },
-  "remote_tax": null
+  "remote_tax": {
+   "low_pct": 30,
+   "high_pct": 50,
+   "evidence": "~30–50% (progressive; top bracket 50% on income above ~$180,000)"
+  }
  },
  "italy": {
   "hash": "3218d53fc9e199e0",
@@ -1312,20 +1318,25 @@
   }
  },
  "kazakhstan": {
-  "hash": "f252c4faa9475cbe",
-  "extracted": "2026-10-12",
-  "gv_min": null,
+  "hash": "e085139d10404697",
+  "extracted": "2026-10-19",
+  "gv_min": {
+   "amount": 300000,
+   "currency": "USD",
+   "note": "investment in companies/securities",
+   "evidence": "≥ $300,000 investment in Kazakh companies/securities on local exchanges"
+  },
   "remote_visa": {
    "available": true,
-   "min_income": null,
-   "currency": null,
-   "period": null,
-   "evidence": "Digital Nomad Residency (10yr PR, no income threshold); Neo Nomad Visa ($3,000/mo); Investor Visa ($300,000)"
+   "min_income": 3000,
+   "currency": "USD",
+   "period": "month",
+   "evidence": "$3,000/month income requirement"
   },
   "remote_tax": {
    "low_pct": 10,
    "high_pct": 10,
-   "evidence": "Flat 10% income tax; corporate 20%; no social tax for self-employed on simplified regime"
+   "evidence": "Flat 10% income tax"
   }
  },
  "kenya": {
@@ -1385,8 +1396,8 @@
   }
  },
  "latvia": {
-  "hash": "db463902d04dcc97",
-  "extracted": "2026-10-12",
+  "hash": "df7dc9420b112a4c",
+  "extracted": "2026-10-19",
   "gv_min": {
    "amount": 50000,
    "currency": "EUR",
@@ -1401,9 +1412,9 @@
    "evidence": "Remote Work Visa (since 2022) | Employment by OECD-registered company; income threshold"
   },
   "remote_tax": {
-   "low_pct": 20,
-   "high_pct": 31,
-   "evidence": "Progressive income tax: 20% (up to €20,004) / 23% (€20,004–€78,100) / 31% above"
+   "low_pct": 25,
+   "high_pct": 30,
+   "evidence": "~25–30% (progressive 20%/23%/31% + social ~10.5% employee; micro-enterprise 25% of turnover option)"
   }
  },
  "lebanon": {
@@ -1464,15 +1475,15 @@
   "remote_tax": null
  },
  "lithuania": {
-  "hash": "8364a6f616c24c3d",
-  "extracted": "2026-10-12",
+  "hash": "cc8cfa5d6651af40",
+  "extracted": "2026-10-19",
   "gv_min": null,
   "remote_visa": {
    "available": false,
    "min_income": null,
    "currency": null,
    "period": null,
-   "evidence": "No dedicated DN visa; Startup Visa for founders; EU Blue Card for employed IT professionals"
+   "evidence": "Not available (see IT section)"
   },
   "remote_tax": {
    "low_pct": 25,
@@ -1481,13 +1492,13 @@
   }
  },
  "luxembourg": {
-  "hash": "c2840621903df693",
-  "extracted": "2026-10-12",
+  "hash": "802814d330f5433c",
+  "extracted": "2026-10-19",
   "gv_min": {
    "amount": 500000,
    "currency": "EUR",
-   "note": "existing or new company",
-   "evidence": "≥€500,000 in existing Luxembourg company; or ≥€500,000 in new company creating 5+ jobs"
+   "note": "company investment",
+   "evidence": "≥€500,000 in existing Luxembourg company"
   },
   "remote_visa": {
    "available": false,
@@ -1496,7 +1507,11 @@
    "period": null,
    "evidence": "No dedicated digital nomad visa"
   },
-  "remote_tax": null
+  "remote_tax": {
+   "low_pct": 8,
+   "high_pct": 42,
+   "evidence": "Progressive 8%–42%"
+  }
  },
  "madagascar": {
   "hash": "13253694fc0cfe0b",
@@ -1541,8 +1556,8 @@
   }
  },
  "malta": {
-  "hash": "8d236df8291f9ca7",
-  "extracted": "2026-10-12",
+  "hash": "5f6c07328d853d14",
+  "extracted": "2026-10-19",
   "gv_min": {
    "amount": 300000,
    "currency": "EUR",
@@ -1559,7 +1574,7 @@
   "remote_tax": {
    "low_pct": 0,
    "high_pct": 35,
-   "evidence": "0%–35%"
+   "evidence": "0–35% progressive; remittance-based for non-doms (0% on unremitted foreign income)"
   }
  },
  "marshall-islands": {
@@ -1649,8 +1664,8 @@
   }
  },
  "monaco": {
-  "hash": "17d6d66adaba2a6b",
-  "extracted": "2026-10-12",
+  "hash": "08a0299950892408",
+  "extracted": "2026-10-19",
   "gv_min": {
    "amount": 500000,
    "currency": "EUR",
@@ -1662,13 +1677,9 @@
    "min_income": null,
    "currency": null,
    "period": null,
-   "evidence": "Not available"
+   "evidence": "digital_nomad_visa | Not available"
   },
-  "remote_tax": {
-   "low_pct": 0,
-   "high_pct": 0,
-   "evidence": "0% (non-French residents)"
-  }
+  "remote_tax": null
  },
  "montenegro": {
   "hash": "8eb47e9a9ae46d72",
@@ -1774,20 +1785,20 @@
   }
  },
  "new-zealand": {
-  "hash": "4775178fcd206937",
-  "extracted": "2026-10-12",
+  "hash": "0112b54217339023",
+  "extracted": "2026-10-19",
   "gv_min": {
    "amount": 5000000,
    "currency": "NZD",
-   "note": "Growth category",
-   "evidence": "NZ $5,000,000 (Growth) / $10,000,000 (Balanced)"
+   "note": "Growth investment tier",
+   "evidence": "NZ $5,000,000 (Growth)"
   },
   "remote_visa": {
    "available": false,
    "min_income": null,
    "currency": null,
    "period": null,
-   "evidence": "No DN visa; visitor visa allows limited remote work"
+   "evidence": "No DN visa"
   },
   "remote_tax": {
    "low_pct": 10.5,
@@ -2046,20 +2057,20 @@
   "remote_tax": null
  },
  "romania": {
-  "hash": "a8791067975bdd7c",
-  "extracted": "2026-10-12",
+  "hash": "1889f7fe3f17fe9b",
+  "extracted": "2026-10-19",
   "gv_min": null,
   "remote_visa": {
    "available": true,
    "min_income": 3700,
    "currency": "EUR",
    "period": "month",
-   "evidence": "~€3,700/mo income (3× national avg); remote work non-RO"
+   "evidence": "~€3,700/mo income (3× national avg)"
   },
   "remote_tax": {
    "low_pct": 0,
    "high_pct": 10,
-   "evidence": "10% flat income tax (EU's lowest personal rate); 35% social (25% employer + 10% employee); 0% under 183 days for DN holders"
+   "evidence": "0% tax on foreign income under 183 days; 10% flat rate after tax residence established"
   }
  },
  "rwanda": {
@@ -2119,16 +2130,26 @@
   "remote_tax": null
  },
  "saudi-arabia": {
-  "hash": "c0d95b311e7c1591",
-  "extracted": "2026-10-12",
+  "hash": "137ff6b2913c5615",
+  "extracted": "2026-10-19",
   "gv_min": {
    "amount": 7000000,
    "currency": "SAR",
-   "note": "investment in approved activities",
+   "note": "investor track",
    "evidence": "SAR 7,000,000+ investment in approved activities"
   },
-  "remote_visa": null,
-  "remote_tax": null
+  "remote_visa": {
+   "available": false,
+   "min_income": null,
+   "currency": null,
+   "period": null,
+   "evidence": "Not available | No dedicated DN visa"
+  },
+  "remote_tax": {
+   "low_pct": 0,
+   "high_pct": 0,
+   "evidence": "0% personal income tax"
+  }
  },
  "senegal": {
   "hash": "63bcb0f69abd2b9a",
@@ -2187,9 +2208,14 @@
   "remote_tax": null
  },
  "singapore": {
-  "hash": "5e7cc41039f381c8",
-  "extracted": "2026-10-12",
-  "gv_min": null,
+  "hash": "337b0472d9a8bfc9",
+  "extracted": "2026-10-19",
+  "gv_min": {
+   "amount": 10000000,
+   "currency": "SGD",
+   "note": "new or existing business",
+   "evidence": "Minimum SGD 10,000,000 investment in a new or existing business, or SGD 25,000,000 in a GIP-approved fund."
+  },
   "remote_visa": {
    "available": false,
    "min_income": null,
@@ -2204,8 +2230,8 @@
   }
  },
  "slovakia": {
-  "hash": "7842991f638e04e6",
-  "extracted": "2026-10-12",
+  "hash": "7266a0a9292f2539",
+  "extracted": "2026-10-19",
   "gv_min": null,
   "remote_visa": {
    "available": false,
@@ -2221,15 +2247,15 @@
   }
  },
  "slovenia": {
-  "hash": "640e629220296c3e",
-  "extracted": "2026-10-12",
+  "hash": "8274cffed13235b8",
+  "extracted": "2026-10-19",
   "gv_min": null,
   "remote_visa": {
    "available": true,
    "min_income": 3377.1,
    "currency": "EUR",
    "period": "month",
-   "evidence": "€3,377.10/mo income (Apr 2026)"
+   "evidence": "€3,377.10/mo income (Apr 2026); remote work for non-SI employer"
   },
   "remote_tax": {
    "low_pct": 16,
@@ -2518,8 +2544,8 @@
   }
  },
  "tunisia": {
-  "hash": "eaaafb3e5b182844",
-  "extracted": "2026-10-12",
+  "hash": "3ae557ad76144f6c",
+  "extracted": "2026-10-19",
   "gv_min": null,
   "remote_visa": {
    "available": false,
@@ -2531,13 +2557,18 @@
   "remote_tax": {
    "low_pct": 0,
    "high_pct": 35,
-   "evidence": "- 0% up to TND 5,000\n  - 26% up to TND 20,000\n  - 28% up to TND 30,000\n  - 32% up to TND 50,000\n  - 35% above TND 50,000"
+   "evidence": "~0–35% (progressive; top bracket 35% above ~$16,000)"
   }
  },
  "turkey": {
-  "hash": "826e33b89ad284af",
-  "extracted": "2026-10-12",
-  "gv_min": null,
+  "hash": "dc4654266e8fcae9",
+  "extracted": "2026-10-19",
+  "gv_min": {
+   "amount": 200000,
+   "currency": "USD",
+   "note": "real estate",
+   "evidence": "Residential property worth ≥ $200,000 at purchase"
+  },
   "remote_visa": {
    "available": false,
    "min_income": null,
@@ -2574,12 +2605,12 @@
   }
  },
  "uae": {
-  "hash": "0df734b370c36be8",
-  "extracted": "2026-10-12",
+  "hash": "ceeb2aadb85bc737",
+  "extracted": "2026-10-19",
   "gv_min": {
    "amount": 2000000,
    "currency": "AED",
-   "note": "real estate or public investment",
+   "note": "public investment / real estate",
    "evidence": "AED 2,000,000+ public investment / real estate"
   },
   "remote_visa": {
@@ -2589,11 +2620,7 @@
    "period": "month",
    "evidence": "$3,500/mo income, foreign employer"
   },
-  "remote_tax": {
-   "low_pct": 0,
-   "high_pct": 0,
-   "evidence": "0% (no personal income tax)"
-  }
+  "remote_tax": null
  },
  "uganda": {
   "hash": "6a5f05271f653c4e",

@@ -3,7 +3,7 @@ title: São Tomé and Príncipe — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-13
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 type: entity
 tags: [citizenship, citizenship_by_investment, residence, tax]
 category: clear_pathway
@@ -118,7 +118,7 @@ _Coverage: 50/55 fields. Only facts verifiable against official sources or publi
 | Climate | Humidity | ~82% avg annual relative humidity | [source](https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe) — soft/estimate |
 | Climate | Natural hazards | flooding, landslides; INFORM risk medium | [source](https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe) — soft/estimate |
 | Climate | Air quality | PM2.5 ~12 µg/m³ est. (2023) | [source](https://www.who.int/data/gho/data/themes/air-pollution/who-air-quality-database) — hard/official |
-| Economy | GDP (nominal) | $981.3M (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ST) — hard/official |
+| Economy | GDP (nominal) | $981,300,000 (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ST) — hard/official |
 | Economy | GDP growth | 1.0% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=ST) — hard/official |
 | Economy | Inflation (CPI) | 11.0% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=ST) — hard/official |
 | Economy | Unemployment | 9.1% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=ST) — hard/official |
@@ -179,6 +179,6 @@ São Tomé and Príncipe is a small, stable, Portuguese-speaking island democrac
 - Limited infrastructure, internet and services
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: CBI programme launched 1 Aug 2025 (Decree-Law 07/2025), NTF donation $90,000/$95,000.
 - **Watch items**: First approval cohorts and processing times; any revision to donation thresholds.

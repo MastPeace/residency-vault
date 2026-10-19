@@ -1,7 +1,7 @@
 ---
 title: Australia — Residency & Citizenship Conditions
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-10-19
 extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, skilled-migration, investor-visa, strong_passport]
@@ -12,7 +12,7 @@ sources:
   - https://www.racc.net.au/single-post/189-190-or-491-visa-australia-which-skilled-migration-pathway-leads-to-permanent-residency
   - https://oneplanetmigrationlaw.com.au/immigration-blog/australian-citizenship-by-conferral-2026
 country_code: AU
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -124,9 +124,12 @@ Australia has a massive coastline with world-class marinas (Sydney, Gold Coast, 
 Australia maintains sanctions against Russia. Visa processing for Russian nationals continues but faces enhanced security screening and longer processing times. Skilled migration remains open in principle — nationality is not a bar — but obtaining police clearances and financial documents from Russia is logistically difficult. Small but established Russian-speaking community in Sydney and Melbourne. BIIP closure means investor route is no longer available.
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **[suspension]** Австралия окончательно закрыла программу Business Innovation and Investment Program (BIIP) для новых заявок с 31 июля 2024 года и перенаправляет квоты на визы для квалифицированных работников. ^[https://www.visaverge.com/news/australia-ends-biip-visa-program-focuses-on-skilled-worker-visas-reports/]
+- **[processing_update]** Департамент внутренних дел Австралии объявил следующий раунд приглашений SkillSelect для визы Skilled Independent (subclass 189) на 15 октября 2026 года. ^[https://www.noworriesmigration.com.au/news-skilled-independent-189-invitation-round-15-october-2026]
+- **Last monitored**: 2026-10-19
 - **Recent changes**: BIIP closed to new applications (July 2024); existing pathways remain operational. SID (subclass 482) replaced TSS 482. Points test revision under review.
 - **Watch items**: New National Innovation Visa (replaced Global Talent). Points test reform. State nomination allocation for 2026–2027.
+
 
 ## Country Snapshot
 

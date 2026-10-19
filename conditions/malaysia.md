@@ -12,7 +12,7 @@ sources:
   - https://www.mdec.my/
   - https://motac.gov.my/wp-content/uploads/2026/01/Terms-And-Regulations-For-New-Participants-Under-The-Malaysia-My-Second-Home-MM2H-.pdf
 country_code: MY
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -204,7 +204,7 @@ _Coverage: 52/55 fields. Only facts verifiable against official sources or publi
 | Money & tax | Wealth / inheritance / CGT | No wealth tax; no inheritance tax; RPGT on property gains (0-30%) | [source](https://www.pwc.com/my/en/publications/mtb/real-property-gains-tax.html) — soft/estimate |
 | Money & tax | CFC rules | Yes, CFC rules introduced (2022); effective from 2024 | [source](https://www.pwc.com/my/en/assets/publications/2022/pwc-my-doing-business-in-malaysia-2022.pdf) — soft/estimate |
 | Business | Company setup | ~1-3 days, cost ~MYR 1,000 (SSM, 2024) | [source](https://www.ssm.com.my/Pages/Services/Registration-of-Business-(ROB)/table-of-fees/Table-of-Fees.aspx) — soft/estimate |
-| Business | Corporate tax | 24% standard rate; 15-17% for SMEs on first MYR 600k (2024) | [source](https://www.pwc.com/my/en/assets/publications/2025/pwc-my-2024-2025-mtb.pdf) — soft/estimate |
+| Business | Corporate tax | 24% standard rate; 15-17% for SMEs on first MYR 600,000 (2024) | [source](https://www.pwc.com/my/en/assets/publications/2025/pwc-my-2024-2025-mtb.pdf) — soft/estimate |
 | Family & education | Top university | Universiti Malaya, QS World Rank #60 (2025) | [source](https://www.um.edu.my/news/universiti-malaya-rises-to-top-60-in-the-qs-world-university-rankings-2025) — soft/estimate |
 | Connectivity | Visa-free for Russians | Visa-free for Russian citizens, up to 30 days (2024) | [source](https://www.kln.gov.my/web/rus_moscow/requirement_foreigner) — hard/official |
 | For Russian citizens | Sanctions position | Does not condone unilateral sanctions; free trade policy; UN-aligned | [source](https://www.bernama.com/en/news.php?id=2337298) — soft/estimate |
@@ -232,6 +232,6 @@ Malaysia is a Southeast Asian federation straddling the Malay Peninsula and nort
 - Moderate political freedoms (Freedom House 52)
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes known**: MM2H three-tier restructure (Jun 2024); offshore income requirement dropped.
 - **Watch items**: MM2H uptake by tier; DE Rantau sponsor rules.

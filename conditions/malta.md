@@ -12,7 +12,7 @@ sources:
   - https://www.ccmalta.com/publications/malta-golden-visa
   - https://workvisa.guide/blog/malta-golden-visa
 country_code: MT
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -209,6 +209,6 @@ Malta is the smallest EU member state — a Mediterranean island nation with ful
 - Infrastructure strain and construction pressure from rapid population growth
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: ECJ struck down citizenship-by-investment (April 2025). MPRP (permanent residency) remains operational and unaffected by CBI ruling. No major 2026 changes to MPRP.
 - **Watch items**: Monitor ECJ ruling impact on existing CBI holders. Track any MPRP fee/investment threshold adjustments.

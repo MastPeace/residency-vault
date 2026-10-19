@@ -11,7 +11,7 @@ sources:
   - https://congenjamaica-ny.org/citizenship-by-naturalization-marriage
   - https://www.jamaicacgmiami.org/citizenship.html
 country_code: JM
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -198,7 +198,7 @@ Jamaica is the third-largest Caribbean island, known globally for its cultural i
 - Healthcare infrastructure limited outside Kingston and tourist zones
 - Permanent residence is discretionary with no published minimum income
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - Last change: No significant policy change in monitored period.
 - Last monitored: 2026-09-14.
 - No open watch items.

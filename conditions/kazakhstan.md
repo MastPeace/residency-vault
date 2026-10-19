@@ -12,7 +12,7 @@ sources:
   - https://astanatimes.com/2026/08/262-foreign-it-specialists-receive-digital-nomad-status-in-kazakhstan
   - https://timesca.com/tag/digital-nomads
 country_code: KZ
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -223,6 +223,6 @@ Kazakhstan is the largest Central Asian economy and an EAEU member, spanning fro
 - Harsh continental climate — Astana is the second-coldest capital in the world
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: 2026 pilot project severely restricted new residence permit applications (regional restrictions, financial requirements). Digital Nomad Residency programme growing rapidly (250+ permits issued).
 - **Watch items**: Pilot project expires Dec 31, 2026 — monitor extension or permanent adoption. Track Digital Nomad Residency application success rate.

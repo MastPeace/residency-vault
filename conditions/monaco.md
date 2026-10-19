@@ -3,7 +3,7 @@ title: Monaco — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-12
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 type: entity
 tags: [residence, citizenship, tax, strong_passport]
 category: strong_passport
@@ -183,6 +183,6 @@ Monaco is a 2 km² sovereign city-state on the Mediterranean coast, entirely sur
 - Only ~10 tax treaties — foreign-source withholding tax can offset the 0% headline rate
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: Sanctions-compliance review for Iranian/Russian/Belarusian applicants (2026). Corporate rate 33.33% → 25% (2022) confirmed stable.
 - **Watch items**: Any change to the €500,000 deposit norm; French-nationary treaty status; banking access for RU citizens.

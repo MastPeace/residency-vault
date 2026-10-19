@@ -3,7 +3,7 @@ title: Samoa — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-13
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 type: entity
 tags: [residence, citizenship, tax, investment, clear_pathway]
 category: clear_pathway
@@ -179,6 +179,6 @@ Samoa is a small, politically stable Pacific island state with a Christian herit
 - Very small economy and thin expat infrastructure
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: No known 2025–2026 program changes.
 - **Watch items**: PR quota availability; any revival of a direct Samoa CIP.

@@ -13,7 +13,7 @@ sources:
   - https://www.expatfy.es/en/blog/spain-digital-nomad-visa-income-requirements
   - https://www.immigrationspain.es/en/financial-requirements-non-lucrative-visa
 country_code: ES
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -243,6 +243,6 @@ Spain is a large southern European country occupying most of the Iberian Peninsu
 - Golden Visa permanently closed (April 2025), removing the investor pathway
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: Golden Visa permanently closed (3 Apr 2025). SMI raised to €1,424.50/mo (Royal Decree 126/2026), affecting DNV and other thresholds.
 - **Watch items**: Monitor NLV income threshold updates. Track DNV renewal processing times. Watch for any revival of investment residence proposals.

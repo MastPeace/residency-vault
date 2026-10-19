@@ -114,3 +114,9 @@
 - Unchanged (1): armenia.md — Nov 1, 2026 reform (quotas, financial thresholds, online submission) already in DB from prior week; anti-duplicate, no edit.
 - Discovery: 37 countries seen, 0 new (all in registry).
 - Alert written: alerts/2026-10-12.md
+## [2026-10-19] update | Weekly monitor — 17 countries updated
+- Screened 163 countries (v5 two-tier); 50 flagged, 113 no_change stamped
+- Analyzer: 24 news items across 17 countries (deepseek-v4-pro)
+- Updated: argentina, australia, belgium, canada, china, ecuador, gambia, greece, japan, latvia, new-zealand, singapore, sweden, thailand, tonga, united-kingdom, vanuatu
+- Types: 4 suspension, 1 new_program, 4 processing_update, 13 rule_change, 1 fee_change
+- Alert: alerts/2026-10-19.md

@@ -1,7 +1,7 @@
 ---
 title: Sweden — Sweden
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-10-19
 extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, tax, it_friendly, clear_pathway]
@@ -12,7 +12,7 @@ sources:
   - https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/self-employed-worker-sweden_en
   - https://www.bdo.se/sv-se/artiklar-insikter/sweden%E2%80%99s-expert-tax-regime-current-rules,-proposed-changes-and-practical-implications
 country_code: SE
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -107,9 +107,11 @@ Sweden has one of the world's longest coastlines with extensive archipelagos (St
 Sweden is among the stricter EU states for Russian applicants. Full EU sanctions apply. The June 2026 citizenship tightening (8 years, language, civic test, self-sufficiency) makes long-term planning difficult. The self-employed route is accessible in principle but SEK 200,000 capital and the "customer network in Sweden" requirement are substantial barriers. Swedish consulates in Russia operate at reduced capacity. No meaningful Russian-speaking community.
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **[rule_change]** Швеция вводит более строгие правила воссоединения семьи: с октября 2026 года сокращён круг членов семьи, имеющих право на получение вида на жительство для долгосрочных резидентов ЕС. ^[https://gh-en.news.netasgard.com/a/sweden-limits-family-residence-permits-from-2026-1cf6c239276cea7d?s=bluesky]
+- **Last monitored**: 2026-10-19
 - **Recent changes**: Stricter citizenship rules effective 6 June 2026 (residence 5→8 years; language + civics tests; self-sufficiency). Enhanced good-conduct rules from 13 July 2026. New family immigration rules from 1 October 2026. EU Migration Pact implementation July 2026.
 - **Watch items**: Track the exact language level requirement announcement. Monitor Migrationsverket processing backlog.
+
 
 ## Country Snapshot
 

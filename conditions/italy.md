@@ -13,7 +13,7 @@ sources:
   - https://getgoldenvisa.com/italy-golden-visa
   - https://consperth.esteri.it/wp-content/uploads/2026/07/Digital-Nomads.pdf
 country_code: IT
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -211,7 +211,7 @@ _Coverage: 52/55 fields. Only facts verifiable against official sources or publi
 | Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
 | Money & tax | CRS exchange | No reliable data | — |
 | Money & tax | Tax treaty with Russia | No reliable data | — |
-| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 4-8% (spouse/children exempt up to €1M); CGT 26% | [source](https://taxsummaries.pwc.com/italy) — soft/estimate |
+| Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 4-8% (spouse/children exempt up to €1,000,000); CGT 26% | [source](https://taxsummaries.pwc.com/italy) — soft/estimate |
 | Money & tax | CFC rules | Yes, CFC rules in force | [source](https://taxsummaries.pwc.com/italy) — soft/estimate |
 | Business | Company setup | ~6 days, cost ~13.8% of GNI per capita (DB 2020) | [source](https://archive.doingbusiness.org/en/data/exploreeconomies/italy) — soft/estimate |
 | Business | Corporate tax | 24% IRES + ~3.9% IRAP (regional); effective rate ~27.9% | [source](https://taxsummaries.pwc.com/italy) — soft/estimate |
@@ -244,6 +244,6 @@ Italy is a southern European country with a rich cultural heritage, the EU's thi
 - Citizenship processing backlog: 2–3 years wait common
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: Flat tax raised from €200,000 to €300,000 (2026 Budget Law). Digital Nomad Visa fully mature (since April 2024). No Decreto Flussi reform in 2026.
 - **Watch items**: Monitor DN visa renewal practice. Track any quota relaxation for employment permits. Watch for further flat-tax adjustments.

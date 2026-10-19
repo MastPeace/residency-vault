@@ -1,7 +1,7 @@
 ---
 title: Singapore — Residency & Citizenship Conditions
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-10-19
 extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, strong_passport, clear_pathway]
@@ -12,7 +12,7 @@ sources:
   - https://www.one-visa.com/singapore-visa-resources/singapore-permanent-resident-pr-application
   - https://tip.com.sg/resource/singapore-citizenship-guide
 country_code: SG
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -213,6 +213,8 @@ Singapore is a city-state and global financial hub with the world's strongest pa
 
 ## Status
 - **Fix**: content restored from git 949a1bd after SCHEMA v3 template corruption (2026-10-11)
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: PR grant target increased to ~40,000/year for 2026–2030. No major structural changes.
 - **Watch items**: Monitor PR approval rates by nationality. Track GIP investment thresholds.
+
+- **[processing_update]** С ноября 2026 года Сингапур обновляет портал myMOM: новые функции включают подачу заявлений на Temporary Permit, просмотр данных держателей Work Permit и продление In-Principle Approval онлайн. ^[https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/enhancements-to-work-permit-eservice-on-mymom-portal/from-november-2026-apply-for-a-tp-view-and-update-wp-holders-particulars-and-extend-ipa]

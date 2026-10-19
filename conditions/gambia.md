@@ -1,7 +1,7 @@
 ---
 title: Gambia - Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-19
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax]
@@ -12,7 +12,7 @@ sources:
   - https://freedomhouse.org/country/gambia/freedom-world/2025
   - https://worldjusticeproject.org/rule-of-law-index/country/2024/The%20Gambia
 country_code: GM
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -186,6 +186,8 @@ The Gambia is a small, English-speaking West African country straddling the Gamb
 - Rule of law challenges (FH 50/100, WJP rank 87/142)
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: No known recent changes. Democratic transition since 2017 (post-Jammeh era) ongoing.
 - **Watch items**: Constitutional reform process. Tourism recovery post-COVID. ECOWAS integration.
+
+- **[rule_change]** Национальная ассамблея Гамбии приняла новый Закон об иммиграции 2026 года (Immigration Bill 2026) — знаковая реформа иммиграционного законодательства страны. ^[https://gambiaj.com/society/the-gambia-national-assembly-passes-landmark-immigration-bill-2026/]

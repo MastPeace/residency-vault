@@ -3,7 +3,7 @@ title: Papua New Guinea — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-12
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 type: entity
 tags: [residence, citizenship, tax, employment, clear_pathway]
 category: clear_pathway
@@ -187,6 +187,6 @@ PNG is a large, resource-rich but poor and institutionally weak Melanesian state
 - Weak rule of law and widespread corruption (FH 61/100 Partly Free)
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: No known 2025–2026 program changes.
 - **Watch items**: PR category thresholds; dual-citizenship country list.

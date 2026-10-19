@@ -11,7 +11,7 @@ sources:
   - https://gis.gov.gh/service/work-and-residence-permit-missionaries-ngos-immigrant-quota-gipc-shareholders
   - https://gis.gov.gh/wp-content/uploads/2024/02/FREQUENTLY-ASKED-QUESTIONS.pdf
 country_code: GH
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -75,7 +75,7 @@ Ghana has an Atlantic coastline (Tema, Takoradi). Ghana Maritime Authority handl
 Visa on arrival or eVisa for Russian citizens. Ghana maintains cordial relations with Russia. Small Russian-speaking community in Accra. Banking: functional. The pending CBI legislation could be transformative if enacted.
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: GIPC Bill 2025 includes Clause 37 (Citizenship by Investment) — pending enactment. GIPC replaced GIPC Act 2013 with a new authority framework.
 - **Watch items**: MONITOR Clause 37 enactment closely. Track any DN visa introduction.
 

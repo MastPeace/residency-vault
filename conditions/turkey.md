@@ -13,7 +13,7 @@ sources:
   - https://en.wikipedia.org/wiki/Turkish_Citizenship_by_Investment
   - https://www.invest.gov.tr/en/news/news-from-turkey/pages/new-turkish-citizenship-rules-encourage-foreign-investment.aspx
 country_code: TR
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -64,7 +64,7 @@ Turkey operates one of the world's most popular **citizenship-by-investment** pr
 - **Duration / renewal**: Short-term permits are issued for up to 2 years in principle (the DGMM page cites up to 1 year for property owners in practice); renewable. ^[https://www.invest.gov.tr/en/investmentguide/pages/obtaining-a-residence-permit.aspx]
 - **Path to long-term residence / citizenship**: 8 years of continuous residence → long-term residence permit; the full duration counts. Standard naturalization needs 5 years (Turkish language required). ^[https://www.mondaq.com/turkey/general-immigration/1847374/residence-permits-through-property-ownership-in-t%C3%BCrkiye-2026]
 - **Official source**: [DGMM — Residence Permits](https://en.goc.gov.tr/) | [e-İkamet](https://e-ikamet.goc.gov.tr)
-- **Community verdict**: Works, but gate is higher than commonly assumed ($200k appraised value, closed districts). CBI ($400,000) is a separate route and needs no prior residence. [soft/estimate]
+- **Community verdict**: Works, but gate is higher than commonly assumed ($200,000 appraised value, closed districts). CBI ($400,000) is a separate route and needs no prior residence. [soft/estimate]
 
 ### Short-term Residence (Rental)
 
@@ -137,7 +137,7 @@ CBI program is well-established and fast. Main risk: fraud in the application ch
 
 ## Status
 
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: August 2026 — 6,134 fraudulently obtained citizenships revoked. 2026 tax reform: 20-year foreign income exemption for relocating individuals.
 - **Watch items**: Potential CBI threshold increase (rumored to $600,000). Post-revocation due diligence tightening. Impact of tax reform on relocant inflow.
 

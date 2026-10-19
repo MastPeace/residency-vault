@@ -11,7 +11,7 @@ sources:
   - https://cip.gov.ag/citizenship
   - https://nomad.gov.ag/ui/ndrVisa.php
 country_code: AG
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -191,7 +191,7 @@ Antigua & Barbuda is a twin-island eastern Caribbean nation and one of the five 
 - Small island economy; limited job market outside tourism/finance
 - Hurricane risk; infrastructure vulnerability
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - Last change: August 1, 2024 — investment thresholds raised (NDF $230,000, Real Estate $300,000); NDR programme ended.
 - Last monitored: 2026-09-14.
 - No open watch items.

@@ -1,7 +1,7 @@
 ---
 title: Ecuador — Residency & Citizenship Conditions
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-10-19
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, digital-nomad, rentista, investor, pensionado]
@@ -13,7 +13,7 @@ sources:
   - https://visa-digital-nomad.com/ecuador
   - https://www.expatfocus.com/ecuador/guide/ecuador-citizenship
 country_code: EC
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -144,9 +144,12 @@ Not a major yachting hub. Guayaquil and Manta have marinas. No special yacht/cap
 - **Rejection risk**: Low if documentation is complete.
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **[rule_change]** Эквадор изменил визовые правила в 2026 году: минимальная заработная плата SBU повышена до $482/месяц, реформа LOMH ужесточает eligibility, eVisa становится обязательной, медицинская страховка требуется на более раннем этапе. ^[https://myecuadorvisa.com/blog/ecuador-visa-updates-2026]
+- **Last monitored**: 2026-10-19
 - Last change: Digital nomad visa (Rentista Trabajador Nómada) introduced June 2022 under Human Mobility Law.
 - Last monitored: 2026-09-14.
+
+
 ## Country Snapshot
 
 | Field | Value | Source / Confidence |

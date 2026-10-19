@@ -11,7 +11,7 @@ sources:
   - https://wafir.ma/en/guide/moving-morocco-financial-guide-2026
   - https://klairarno.com/en/buying-property-in-morocco-as-a-foreigner
 country_code: MA
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -124,7 +124,7 @@ Morocco offers a welcoming environment for foreign residents but does NOT have a
 Morocco is not a "residency programme" country — it's a lifestyle destination with standard immigration processes. The 80% pension abatement makes it exceptionally attractive for retirees with foreign pensions. The lack of a formal investment residency or digital nomad visa is a gap. Bureaucracy is significant and French/Arabic proficiency is helpful. It remains genuinely welcoming to foreigners.
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: IGOC 2026 (convertibility regime) updated for foreign-currency property purchases. No major changes to residency framework.
 - **Watch items**: Potential digital nomad visa introduction (under discussion). Continued development of Tangier Tech City and other investment zones.
 

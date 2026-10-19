@@ -14,7 +14,7 @@ sources:
   - https://www.visaverge.com/digitalnomads/montenegro-launches-digital-nomad-visa-for-remote-workers
   - https://digitalnomads.gov.me/article/legal-status-for-nomads
 country_code: ME
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -124,7 +124,7 @@ Expats report Montenegro as a friendly, affordable destination. Property-based r
 
 ## Status
 
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: New Law on Foreigners effective Jan 17, 2026 — formalized €150,000 property route. DN visa operating since 2022 amendments. CBI remains closed.
 - **Watch items**: EU accession progress (will affect property values). Potential changes to DN visa thresholds as minimum wage rises.
 
@@ -206,7 +206,7 @@ _Coverage: 39/55 fields. Only facts verifiable against official sources or publi
 | Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 3-6% (real estate only); capital gains tax 15% | [source](https://taxsummaries.pwc.com/montenegro) — soft/estimate |
 | Money & tax | CFC rules | No reliable data | — |
 | Business | Company setup | No reliable data | — |
-| Business | Corporate tax | 9% up to €100k, 12% €100k-1.5M, 15% above €1.5M (PwC 2026) | [source](https://taxsummaries.pwc.com/montenegro/corporate/taxes-on-corporate-income) — soft/estimate |
+| Business | Corporate tax | 9% up to €100,000, 12% €100,000-1,500,000, 15% above €1,500,000 (PwC 2026) | [source](https://taxsummaries.pwc.com/montenegro/corporate/taxes-on-corporate-income) — soft/estimate |
 | Family & education | Top university | No reliable data | — |
 | Connectivity | Visa-free for Russians | Visa-free up to 30 days until Oct 31, 2026; visa required from Nov 1, 2026 | [source](https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/russian-federation) — hard/official |
 | For Russian citizens | Sanctions position | EU candidate country; aligned with EU sanctions on Russia; NATO member since 2017 | [source](https://en.wikipedia.org/wiki/Montenegro) — soft/estimate |

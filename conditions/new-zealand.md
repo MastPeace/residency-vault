@@ -1,7 +1,7 @@
 ---
 title: New Zealand — Residency & Citizenship Conditions
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-10-19
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, skilled-migrant, investor-visa, strong_passport]
@@ -12,7 +12,7 @@ sources:
   - https://www.immigration.govt.nz/about-us/news-centre/final-details-about-changes-to-the-skilled-migrant-category-resident-visa-and-work-to-residence-visa
   - https://nzimmigration.info/dual-citizenship-nz-complete-guide
 country_code: NZ
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -124,9 +124,13 @@ New Zealand is a world-renowned yachting destination (Bay of Islands, Auckland �
 New Zealand imposed sanctions on Russia in 2022. Visa processing for Russian nationals is possible but subject to enhanced scrutiny and longer timelines. The skilled migrant pathway remains formally open — nationality is not a statutory bar. Small Russian-speaking community in Auckland and Christchurch. Active Investor Plus is theoretically open but source-of-funds verification is stringent.
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **[rule_change]** Новая Зеландия завершила реформу категорий Skilled Migrant Category и Work to Residence: изменения вступили в силу с 1 июля 2026 года. ^[https://www.envoyglobal.com/news-alert/new-zealand-finalizes-skilled-migrant-category-and-work-to-residence-changes/]
+- **[processing_update]** Новая Зеландия вводит обязательную онлайн-подачу для отдельных категорий виз посетителей и транзитных виз с сентября 2026 года. ^[https://www.envoyglobal.com/news-alert/new-zealand-to-require-online-filing-for-selected-visitor-and-transit-visa-applications/]
+- **[rule_change]** Правительство Новой Зеландии объявило об изменениях в категории Parent Resident Visa: новый процесс отбора Expression of Interest (EOI) вступает в силу в 2026 году. ^[https://www.immigration.govt.nz/about-us/news-centre/changes-to-the-parent-resident-visa-category]
+- **Last monitored**: 2026-10-19
 - **Recent changes**: Major SMC reform efective August 24, 2026 — two new pathways (Skilled Work Experience, Trades & Technician), extra points for NZ qualifications, more points for overseas bachelor's degrees, wage threshold grace periods.
 - **Watch items**: SMC draw outcomes under the new system. Active Investor Plus uptake.
+
 
 ## Country Snapshot
 

@@ -13,7 +13,7 @@ sources:
   - https://www.deloitte.com/nl/en/services/tax/perspectives/highly-skilled-migrant-and-european-blue-card-2026-salary-thresholds.html
   - https://dutchreview.com/expat/daft-treaty-explainer
 country_code: NL
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -214,7 +214,7 @@ _Coverage: 44/55 fields. Only facts verifiable against official sources or publi
 | Money & tax | Wealth / inheritance / CGT | Net wealth tax (Box 3) ~2% on deemed return; inheritance tax 10-40% (PwC 2024) | [source](https://www.pwc.nl/en/insights-and-publications/services-and-industries/tax/doing-business-in-the-netherlands/taxation-in-the-netherlands.html) — soft/estimate |
 | Money & tax | CFC rules | Yes, CFC rules apply under Dutch implementation of EU ATAD | [source](https://taxsummaries.pwc.com/netherlands) — soft/estimate |
 | Business | Company setup | No reliable data | — |
-| Business | Corporate tax | 25.8% CIT rate (19% on first €200k profit), 2025 | [source](https://taxsummaries.pwc.com/netherlands/corporate/taxes-on-corporate-income) — soft/estimate |
+| Business | Corporate tax | 25.8% CIT rate (19% on first €200,000 profit), 2025 | [source](https://taxsummaries.pwc.com/netherlands/corporate/taxes-on-corporate-income) — soft/estimate |
 | Family & education | Top university | TU Delft, QS rank 49 (2025) | [source](https://delta.tudelft.nl/en/article/tu-delft-again-highest-ranked-dutch-university-in-qs-ranking) — soft/estimate |
 | Connectivity | Visa-free for Russians | Schengen visa required for Russians; Netherlands suspended visa facilitation (2025) | [source](https://www.netherlandsworldwide.nl/visa-the-netherlands/schengen-visa/apply-russian-federation) — soft/estimate |
 | For Russian citizens | Sanctions position | Strong supporter of EU sanctions on Russia; advocates for stricter enforcement | [source](https://www.government.nl/themes/international-cooperation/russia-and-ukraine/the-netherlands-position) — hard/official |
@@ -244,6 +244,6 @@ The Netherlands is a densely populated, highly developed Western European countr
 - Inburgering A2 Dutch requirement for citizenship/permanent residence
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: 30% ruling reduced to 5 years (from 8). HSM 2026 salary thresholds: €5,942 (30+), €4,357 (under 30). Proposed tighter HSM rules (July 2025 consultations) not yet implemented. EU Blue Card Directive 2021/1883 implementation ongoing.
 - **Watch items**: Monitor further HSM/30% ruling restrictions. Track Blue Card implementation progress. Watch for introduction of digital nomad or passive-income routes.

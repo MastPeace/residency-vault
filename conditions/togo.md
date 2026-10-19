@@ -11,7 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Togolese_nationality_law
   - https://makerwebstudios.github.io/nationalitylaws/countries/togo
 country_code: TG
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -182,6 +182,6 @@ Togo is a small Francophone West African country on the Gulf of Guinea, whose de
 - Low median incomes and small market
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: No major immigration-policy shifts known; 1978 Nationality Code remains the framework.
 - **Watch items**: Any dual-citizenship reform; digital-nomad visa in Francophone West Africa.

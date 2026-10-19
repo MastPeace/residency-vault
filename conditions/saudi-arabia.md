@@ -11,7 +11,7 @@ sources:
   - https://pr.gov.sa/en
   - https://misa.gov.sa/app/uploads/2024/11/Premium-Residency-Permit-Law-English.pdf
 country_code: SA
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -138,7 +138,7 @@ Two core tiers open to any qualified applicant regardless of profession:
 Mixed. Premium Residency is functioning but expensive (SAR 800,000 permanent or SAR 100,000/yr). The programme is still maturing. Standard Iqama remains the default for most expats but its employer-dependency and dependent levy are friction points. Cultural conservatism is decreasing but remains significant compared to UAE. Quality of life in Riyadh/Jeddah improving rapidly.
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: Permanent tier fee reduced from SAR 1,000,000 to SAR 800,000 (Jan 2026). Real Estate track expanded to SAR 4,000,000 with 7-year conversion path. Qiwa work permit requirement for Premium Residency holders (Jun 2026).
 - **Watch items**: Potential further Premium Residency fee adjustments. Introduction of digital nomad / remote work visa. Expat levy reforms.
 

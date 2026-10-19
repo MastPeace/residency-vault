@@ -11,7 +11,7 @@ sources:
   - https://www.expatincroatia.com/apply-citizenship-croatia
   - https://mvep.gov.hr/access-to-information-81869-84055-107264-260912/consular-informations-81874-84060-107269-260917/citizenship-81889-84075-107284-260932/260932
 country_code: HR
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -165,7 +165,7 @@ _Coverage: 45/55 fields. Only facts verifiable against official sources or publi
 | Money & tax | Wealth / inheritance / CGT | No reliable data | — |
 | Money & tax | CFC rules | No reliable data | — |
 | Business | Company setup | No reliable data | — |
-| Business | Corporate tax | 18% (10% for small businesses with revenue <€1M) | [source](https://taxfoundation.org/data/all/eu/corporate-tax-rates-europe-2024) — soft/estimate |
+| Business | Corporate tax | 18% (10% for small businesses with revenue <€1,000,000) | [source](https://taxfoundation.org/data/all/eu/corporate-tax-rates-europe-2024) — soft/estimate |
 | Family & education | Top university | University of Zagreb, QS rank 651-700 (2025) | [source](https://www.topuniversities.com/world-university-rankings/2025) — soft/estimate |
 | Connectivity | Visa-free for Russians | No reliable data | — |
 | For Russian citizens | Sanctions position | Aligns with EU sanctions against Russia (EU member) | [source](https://www.consilium.europa.eu/en/policies/sanctions-against-russia/) — hard/official |
@@ -194,6 +194,6 @@ Croatia joined the EU in 2013 and the Eurozone and Schengen in 2023. It has one 
 - No Golden Visa or investment residency programme available
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: Aliens Act amendments effective June 4, 2026 — Croatian language requirement for work permit extensions (A1.1 level, mandatory June 2027), 3–6 month job-search grace period after unemployment, residence+work permit extended to 3 years, EU Blue Card to 4 years, employer switching after 6 months, multi-year seasonal permits, 90-day decision deadline. Housing rules: 14 m²/person, rent ≤30% salary. DN visa-hopping crackdown: in-country status switching without exit no longer permitted.
 - **Watch items**: Language requirement becoming mandatory June 2027. Monitor DN income threshold adjustments.

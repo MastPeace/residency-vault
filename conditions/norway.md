@@ -12,7 +12,7 @@ sources:
   - https://www.udi.no/en
   - https://www.skatteetaten.no/en/person/taxes/tax-deduction-card-and-advance-tax/i-am-a-foreign-employee/paye
 country_code: NO
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -111,7 +111,7 @@ Norway has one of the world's longest and most dramatic coastlines (fjords, 50,0
 Norway applies EU-aligned sanctions via EEA membership. The land border with Russia (Storskog) is heavily controlled and crossing is restricted. Visa processing is severely restricted for Russian citizens. The skilled worker route is technically open but employer-side commitment and credential verification are significant barriers. Norway has no meaningful Russian-speaking immigration community. The 8-year citizenship path + language requirement is long.
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: New requirements for sponsor's language training and social studies for family reunification (2026). Non-EU tuition fees introduced 2023. Dual citizenship law implemented 2020.
 - **Watch items**: Monitor any increase in the skilled worker salary threshold. Track credential verification reforms for vocational applicants. Watch for citizenship residence period adjustments.
 
@@ -190,7 +190,7 @@ _Coverage: 52/55 fields. Only facts verifiable against official sources or publi
 | Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
 | Money & tax | CRS exchange | No reliable data | — |
 | Money & tax | Tax treaty with Russia | No reliable data | — |
-| Money & tax | Wealth / inheritance / CGT | Net wealth tax: 1.0% (>NOK 1.76M); no inheritance tax since 2014; capital gains: 22% (general rate, PIT shield for shares) | [source](https://taxsummaries.pwc.com/norway) — soft/estimate |
+| Money & tax | Wealth / inheritance / CGT | Net wealth tax: 1.0% (>NOK 1,760,000); no inheritance tax since 2014; capital gains: 22% (general rate, PIT shield for shares) | [source](https://taxsummaries.pwc.com/norway) — soft/estimate |
 | Money & tax | CFC rules | Yes, CFC rules apply (Norwegian-controlled foreign companies in low-tax jurisdictions) | [source](https://taxsummaries.pwc.com/norway) — soft/estimate |
 | Business | Company setup | ~4 days, ~NOK 5,570 registration (Brønnøysund) | [source](https://www.brreg.no/en/) — soft/estimate |
 | Business | Corporate tax | 22% CIT (25% for financial sector); petroleum tax 78% | [source](https://taxsummaries.pwc.com/norway/corporate/taxes-on-corporate-income) — soft/estimate |

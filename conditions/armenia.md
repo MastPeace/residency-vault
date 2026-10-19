@@ -12,7 +12,7 @@ sources:
   - http://diaspora.gov.am/en/pages/121
   - https://en.wikipedia.org/wiki/Armenian_citizenship
 country_code: AM
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -110,7 +110,7 @@ Expats report Armenia as welcoming and affordable. Yerevan has a growing interna
 
 ## Status
 
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: Comprehensive immigration reform from Nov 1, 2026 (delayed from original Aug 1, 2026 deadline) — work visas, labor market test abolished, digitalization, business VNZh thresholds AMD 2,000,000/1M, employer notification. Citizenship law amendment proposed (Sep 9, 2026) — residence requirement 3→5 years, fee increases (50K→250K AMD for application, 150K→1.5M AMD for renunciation), tightened physical presence requirements (549 days/3yr for spouses, 915 days/5yr general). Visa exemption for 111 countries extended through Jul 2027.
 - **Watch items**: Status of citizenship law amendments. Reform implementation and potential backlogs from Nov 1, 2026. CBI proposal ($150,000 investment → citizenship) — track government decree status.
 

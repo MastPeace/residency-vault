@@ -11,7 +11,7 @@ sources:
   - https://consortiumlegal.com/en/2025/07/29/work-permits-for-foreigners-in-el-salvador-requirements-and-legal-considerations
   - https://en.wikipedia.org/wiki/Salvadoran_nationality_law
 country_code: SV
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -175,7 +175,7 @@ _Coverage: 53/55 fields. Only facts verifiable against official sources or publi
 | Money & tax | Wealth / inheritance / CGT | No wealth tax; inheritance tax 0-25% (2024, PwC) | [source](https://taxsummaries.pwc.com/el-salvador) — soft/estimate |
 | Money & tax | CFC rules | No specific CFC rules (territorial tax system, PwC) | [source](https://taxsummaries.pwc.com/el-salvador) — soft/estimate |
 | Business | Company setup | ~16.5 days, cost ~43% GNI per capita (WB 2020) | [source](https://www.doingbusiness.org/en/data/exploreeconomies/el-salvador) — soft/estimate |
-| Business | Corporate tax | 30% (25% for income ≤USD 150k) (PwC 2024) | [source](https://taxsummaries.pwc.com/el-salvador/corporate/taxes-on-corporate-income) — soft/estimate |
+| Business | Corporate tax | 30% (25% for income ≤USD 150,000) (PwC 2024) | [source](https://taxsummaries.pwc.com/el-salvador/corporate/taxes-on-corporate-income) — soft/estimate |
 | Family & education | Top university | Universidad de El Salvador; no QS top-1000 rank | [source](https://www.topuniversities.com/university-rankings) — soft/estimate |
 | Connectivity | Visa-free for Russians | Visa-free for Russian citizens (up to 90 days, 2024) | [source](https://www.consilium.europa.eu/en/policies/visa-free-travel/) — soft/estimate |
 | For Russian citizens | Sanctions position | No independent sanctions against Russia; aligns with UN resolutions | [source](https://www.state.gov/reports/) — soft/estimate |
@@ -204,7 +204,7 @@ El Salvador is the smallest and most densely populated country in Central Americ
 - Spanish essential; very limited English outside tourist surf towns
 - No dedicated digital nomad visa despite crypto-friendly positioning
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - Last change: March 2026 — bill to amend Special Law on Migration and Foreigners submitted to Legislative Assembly; proposed changes to temporary residence and naturalization provisions pending.
 - Last monitored: 2026-09-14.
 - No open watch items.

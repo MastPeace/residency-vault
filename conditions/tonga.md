@@ -1,9 +1,9 @@
 ---
 title: Tonga — Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-19
 extended_snapshot: 2026-10-13
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 type: entity
 tags: [residence, citizenship, tax, investment, clear_pathway]
 category: clear_pathway
@@ -121,7 +121,7 @@ _Coverage: 50/55 fields. Only facts verifiable against official sources or publi
 | Climate | Humidity | 76% annual avg (Nuku'alofa) | [source](https://www.weather-atlas.com/en/tonga/nukualofa-climate) — soft/estimate |
 | Climate | Natural hazards | Cyclones, volcanic activity, earthquakes, tsunamis; INFORM Risk rank not found | [source](https://www.cia.gov/the-world-factbook/countries/tonga) — hard/official |
 | Climate | Air quality | PM2.5 ~10.5 μg/m³ annual mean (IQAir 2024, estimated) | [source](https://www.iqair.com/world-air-quality) — soft/estimate |
-| Economy | GDP (nominal) | $679.2M (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TO) — hard/official |
+| Economy | GDP (nominal) | $679,200,000 (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TO) — hard/official |
 | Economy | GDP growth | 2.8% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=TO) — hard/official |
 | Economy | Inflation (CPI) | 5.6% (2025) | [World Bank](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=TO) — hard/official |
 | Economy | Unemployment | 2.0% (2025) | [World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=TO) — hard/official |
@@ -180,6 +180,8 @@ Tonga is a small Polynesian constitutional monarchy whose king retains real powe
 - Land laws and monarchical powers raise governance concerns
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: No enacted changes; 2026 CBI relaunch proposal (Henley & Partners) under discussion.
 - **Watch items**: Whether Parliament/King approve the USD 190,000 CBI proposal.
+
+- **[processing_update]** Иммиграционная служба Новой Зеландии открыла новый Визовый центр (Visa Application Centre) в Тонга с 31 августа 2026 года. ^[https://www.immigration.govt.nz/about-us/news-centre/new-visa-application-centre-opening-in-tonga/]

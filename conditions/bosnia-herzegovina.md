@@ -12,7 +12,7 @@ sources:
   - https://www.goldenvisas.com/bosnia
   - https://msb.gov.ba/inf_za_strance/default.aspx?id=14555&langTag=en-US
 country_code: BA
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -110,7 +110,7 @@ BiH is not a popular expat destination. Those who relocate report slow bureaucra
 
 ## Status
 
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: No significant recent changes to residence/citizenship framework.
 - **Watch items**: EU accession progress (candidate status). Potential simplification of residence procedures as part of EU alignment.
 

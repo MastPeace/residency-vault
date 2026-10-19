@@ -3,7 +3,7 @@ title: Gabon — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-12
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 type: entity
 tags: [residence, citizenship, employment_residency, tax]
 category: clear_pathway
@@ -170,6 +170,6 @@ Gabon is a small-population, oil-rich Central African state on the Atlantic coas
 - Thin published immigration rules; French fluency required
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: Post-2023-coup transition continues; no immigration-policy changes confirmed.
 - **Watch items**: Any investor-residence or CBI introduction; stabilisation of the political transition.

@@ -11,7 +11,7 @@ sources:
   - https://www.bvi.gov.vg/
   - https://www.oecd.org/content/dam/oecd/en/topics/policy-issue-focus/aeoi/
 country_code: VG
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -172,6 +172,6 @@ The British Virgin Islands is a small, affluent Overseas Territory in the easter
 - Small population, limited non-tourism economy; hurricane exposure
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: No material change recorded in 2025–26.
 - **Watch items**: Any move to a BVI residence-by-investment scheme; belonger-status reform.

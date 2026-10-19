@@ -12,7 +12,7 @@ sources:
   - https://freedomhouse.org/country/democratic-republic-congo/freedom-world/2025
   - https://worldjusticeproject.org/rule-of-law-index/country/2024/Democratic%20Republic%20of%20Congo
 country_code: CD
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -186,6 +186,6 @@ The DRC is the largest country in sub-Saharan Africa, immensely rich in minerals
 - Dual citizenship not generally permitted; very weak passport (16 destinations)
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: No known recent changes. Political tensions around constitutional reform. Eastern conflict ongoing (M23).
 - **Watch items**: Nationality law reform. Dual citizenship resolution. Security situation in the east.

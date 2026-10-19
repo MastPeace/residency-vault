@@ -12,7 +12,7 @@ sources:
   - https://www.eb5investors.com/eb5-basics/eb-5-visa-requirements
   - https://cis.org/Jacobs/DHS-Proposes-New-Regulation-Revise-EB5-Investor-Visa-Program
 country_code: US
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -123,7 +123,7 @@ US is a major yachting jurisdiction with extensive marinas (Florida, California,
 US sanctions and deteriorating bilateral relations make visa processing for RU nationals very difficult. The US Consulate in Moscow has suspended most visa services; applicants must travel to third countries. H-1B and EB-5 remain legally open but face enhanced scrutiny. Russian-source funds for EB-5 face enhanced source-of-funds documentation requirements. Existing RU diaspora communities in NYC, Florida, and California, but new arrivals face significant obstacles.
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: H-1B FY2027 weighted lottery favoring higher-skilled/higher-paid implemented. DHS proposed EB-5 increase (TEA $800,000 → $1,400,000 in High Employment Areas). Sept 30, 2026 EB-5 grandfathering deadline.
 - **Watch items**: EB-5 RIA regulatory implementation. H-1B cap season outcomes. Potential IER changes.
 
@@ -202,7 +202,7 @@ _Coverage: 53/55 fields. Only facts verifiable against official sources or publi
 | Money & tax | FATF status | Not on FATF black or grey list (as of 2026-06-19) | [source](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html) — hard/official |
 | Money & tax | CRS exchange | No reliable data | — |
 | Money & tax | Tax treaty with Russia | No reliable data | — |
-| Money & tax | Wealth / inheritance / CGT | No federal wealth tax; federal estate tax exemption $13.99M (2025), rate up to 40%; capital gains 0-20% federal plus state tax (PwC 2025) | [source](https://taxsummaries.pwc.com/united-states) — soft/estimate |
+| Money & tax | Wealth / inheritance / CGT | No federal wealth tax; federal estate tax exemption $13,990,000 (2025), rate up to 40%; capital gains 0-20% federal plus state tax (PwC 2025) | [source](https://taxsummaries.pwc.com/united-states) — soft/estimate |
 | Money & tax | CFC rules | Yes, Subpart F and GILTI CFC rules apply (PwC US) | [source](https://taxsummaries.pwc.com/united-states) — soft/estimate |
 | Business | Company setup | ~4 days, cost varies by state (typically $100-800) | [source](https://www.sba.gov/) — hard/official |
 | Business | Corporate tax | 21% federal headline rate (plus state taxes averaging 0-12%) | [source](https://taxsummaries.pwc.com/united-states/corporate/taxes-on-corporate-income) — soft/estimate |

@@ -1,7 +1,7 @@
 ---
 title: Argentina — Residency & Citizenship Conditions
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-10-19
 extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, digital-nomad, rentista, investment, mercosur]
@@ -12,7 +12,7 @@ sources:
   - https://goldenharbors.com/articles/argentina-citizenship
   - https://goldenharbors.com/articles/argentina-digital-nomad-visa
 country_code: AR
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -136,8 +136,11 @@ Russian passport holders are visa-free for tourist entry (90 days). Rentista and
 Argentina's 2-year citizenship timeline is among the fastest globally and is the primary draw. Decree 366/2025's "no exits" rule is the biggest recent tightening — applicants must plan for 2 continuous years in-country. The DN visa is a useful short-term bridge but not a path to citizenship. Inflation and economic instability remain the main practical concerns. The pending CBI program, if launched at $500,000, would be a game-changer.
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **[new_program]** Аргентина объявила о запуске программы «гражданство за инвестиции» (CBI): два маршрута — безвозвратный взнос в казначейство $350 000 или инвестиция $800 000 в государственные ценные бумаги. Приём заявок ожидается в IV квартале 2026 года. ^[https://alybayat.com/journal/posts/argentina-citizenship-by-investment-2026]
+- **Last monitored**: 2026-10-19
 - **Recent changes**: Decree 366/2025 (May 2025) — tightened residency continuity, citizenship processing moved to DNM. Decree 524/2025 (July 2025) — CBI framework. SMVM minimum wage updates alter Rentista thresholds periodically.
+
+
 ## Country Snapshot
 
 | Field | Value | Source / Confidence |

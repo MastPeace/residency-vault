@@ -12,7 +12,7 @@ sources:
   - https://www.evisa.gov.et/information/residence-visa
   - https://ics.gov.et/services/renewal-of-residence-permit
 country_code: ET
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -75,7 +75,7 @@ Not applicable — landlocked country.
 eVisa available for Russian citizens. Ethiopia maintains historically close relations with Russia (dating to Soviet era). Addis Ababa has a notable Russian-speaking community. Banking: functional but FX restrictions apply. The dual citizenship prohibition is a critical consideration.
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: FX Directive 1011/2024 introduced changes. ICS services moving online. No major immigration reforms.
 - **Watch items**: Monitor telecom liberalisation (internet improvements). Track any citizenship law amendments.
 
@@ -133,7 +133,7 @@ _Coverage: 51/55 fields. Only facts verifiable against official sources or publi
 | Economy | Tourism receipts | 30% of exports (2020) | [World Bank](https://data.worldbank.org/indicator/ST.INT.RCPT.XP.ZS?locations=ET) — hard/official |
 | Economy | Remittances | 4.8% of GDP (2024) | [World Bank](https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=ET) — hard/official |
 | Economy | Credit rating | Fitch CCC+ (LTLC 2024); S&P CCC+ (LTLC 2024); Moody's not rated | [source](https://www.fitchratings.com/research/sovereigns/fitch-upgrades-ethiopia-ltlc-idr-to-ccc-25-10-2024) — hard/official |
-| Economy | Currency | ETB (birr), managed float since July 2024, ~100% depreciation vs USD 2020-2025 | [source](https://addisinsight.net/2026/08/01/two-years-of-the-float/) — soft/estimate |
+| Economy | Currency | ETB (birr), managed float since July 2024, ~100% depreciation vs USD 2020-2025 | [source](https://addisinsight.net/2026/08/01/2-years-of-the-float/) — soft/estimate |
 | Economy | Top industries | Agriculture (coffee, cereals), textiles, construction (2023) | [source](https://www.cia.gov/the-world-factbook/countries/ethiopia/) — hard/official |
 | Economy | Economic Complexity | ECI rank ~125 (OEC/Harvard Atlas 2022) | [source](https://atlas.hks.harvard.edu/countries/231) — soft/estimate |
 | Technology | Internet users | 22% of population (2024) | [World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=ET) — hard/official |

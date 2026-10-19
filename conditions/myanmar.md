@@ -12,7 +12,7 @@ sources:
   - https://mewashingtondc.org/all_page/pr
   - https://www.refworld.org/legal/legislation/natlegbod/1982/en/49622
 country_code: MM
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -203,6 +203,6 @@ Myanmar (Burma) is a Southeast Asian nation on the Bay of Bengal, rich in resour
 - Weak rule of law and weak passport
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes known**: No new residence programs; 2014 PR rules remain the only (restrictive) PR framework.
 - **Watch items**: Any post-conflict immigration reform; none expected in the near term.

@@ -12,7 +12,7 @@ sources:
   - https://www.mha.gov.in/sites/default/files/2022-08/OCIIntroduction_23072021%5B1%5D.pdf
   - https://indianvisaonline.gov.in/
 country_code: IN
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -203,6 +203,6 @@ India is the world's most populous country and fifth-largest economy, a rising t
 - Infrastructure and pollution challenges in major cities
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes known**: None material in 2025–2026; OCI and visa categories stable.
 - **Watch items**: Any introduction of a residency-by-investment scheme (periodically discussed).

@@ -1,7 +1,7 @@
 ---
 title: Belgium — Belgium
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-10-19
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, clear_pathway, it_friendly]
@@ -12,7 +12,7 @@ sources:
   - https://canada.diplomatie.belgium.be/en/visa/visa-belgium/long-stay-visa-d-visa
   - https://www.brusselstimes.com/2235048/how-to-apply-for-permanent-residency-in-belgium-tbtb
 country_code: BE
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -210,6 +210,8 @@ Belgium is a small, wealthy Western European country hosting the EU and NATO hea
 - Language barrier: Dutch/French/German requirements vary by region
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: New expat tax regime effective from 2025. No major immigration reform in 2026.
 - **Watch items**: Monitor implementation of EU Migration and Asylum Pact. Track professional card processing times.
+
+- **[fee_change]** С 1 сентября 2026 года регион Фландрия в Бельгии вводит новый региональный сбор в размере €180 за каждое заявление на единое разрешение (single permit) для работодателей. ^[https://www.envoyglobal.com/news-alert/belgium-flanders-introduces-new-fee-for-single-permit-applications/]

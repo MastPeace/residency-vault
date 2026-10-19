@@ -1,7 +1,7 @@
 ---
 title: Japan — Residency & Citizenship Conditions
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-10-19
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, highly-skilled-professional, strong_passport]
@@ -13,7 +13,7 @@ sources:
   - https://rumavi.com/en/property-guides/japan-residency-visas
   - https://www.japantimes.co.jp/news/2026/03/27/japan/politics/japan-new-naturalization-requirements
 country_code: JP
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -234,6 +234,9 @@ Japan is an East Asian island nation with the world's second-strongest passport 
 
 ## Status
 - **Fix**: content restored from git 949a1bd after SCHEMA v3 template corruption (2026-10-11)
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: Naturalization screening tightened to ~10 years (April 1, 2026). PR application fee rising to ¥200,000 (from Oct 1, 2026). Business Manager capital requirement raised to ¥30,000,000 (2025). Potential PR revocation for unpaid taxes from April 1, 2027.
 - **Watch items**: Digital Nomad visa extension under consideration. PR fee increase implementation.
+
+- **[rule_change]** Резкий рост числа иностранных держателей визы business manager, покидающих Японию без разрешения на повторный въезд (reentry permit), — по данным Kyodo News от 15 октября 2026 года. ^[https://www.ngj.jp/press_detail.php?article_id=5685]
+- **[rule_change]** С октября 2026 года меняются требования к доходу для постоянного residence (PR) в Японии: доход домохозяйства должен стабильно превышать средний доход японских домохозяйств аналогичного размера, вместо прежнего ориентира ¥3 000 000. ^[https://www.tkg-immigration-office.com/visa/visa-permanent-residence/]

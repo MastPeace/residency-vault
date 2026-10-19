@@ -11,7 +11,7 @@ sources:
   - https://pmoffice.gov.vc/pmoffice/index.php/37-citizenship-by-investment-programmes
   - https://www.lincolnglobalpartners.com/caribbean-citizenship-by-investment-the-ultimate-comparison-guide
 country_code: VC
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -164,6 +164,6 @@ St Vincent and the Grenadines is a Windward Islands state of 32 islands and cays
 - No digital-nomad or passive-income visa
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: CBI announced in Feb 2026 Budget Address (SVGIF vehicle, mid-2026 target).
 - **Watch items**: SVGIF launch and pricing; whether the "genuine-link" residency requirement survives; registration-fee changes.

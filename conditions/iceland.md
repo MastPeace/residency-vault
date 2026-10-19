@@ -12,7 +12,7 @@ sources:
   - https://island.is/en/permits-on-grounds-of-legitimate-and-special-purpose/requirements
   - https://www.skatturinn.is/english/individuals/foreign-experts
 country_code: IS
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -106,7 +106,7 @@ Iceland is an island nation with a strong maritime tradition and extensive coast
 Iceland applies EEA-aligned sanctions against Russia. The extremely small size of Iceland's immigration system (population ~390,000) means individual cases get significant scrutiny — there is no mass processing. The specialist worker route is open in principle but Icelandic employers are unlikely to recruit from Russia given the current political climate. No Russian-speaking community of note. Icelandic language requirement for citizenship is one of the hardest in Europe — a small, complex language with few learners. Banking for Russian nationals is severely restricted.
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: New residence and work permit rules took effect (announced 2026). Updated processing procedures. No major immigration reform.
 - **Watch items**: Monitor the "legitimate and special purpose" permit usage trends. Track any expansion of work permit categories. Watch for citizenship residence requirement changes.
 

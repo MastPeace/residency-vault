@@ -12,7 +12,7 @@ sources:
   - https://migracion.gob.do/en/servicio/renter-residence
   - https://www.ggi.com/news/global-mobility/residency-and-citizenship-options-in-the-dominican-republic
 country_code: DO
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -216,7 +216,7 @@ The Dominican Republic occupies the eastern two-thirds of Hispaniola in the Cari
 - Healthcare quality uneven outside major tourist/expat zones
 - Power grid instability (apagones/blackouts common outside resort areas)
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - Last change: April 2025 — hospital ID checks introduced for non-citizens (policy announcement).
 - Last monitored: 2026-09-14.
 - No open watch items.

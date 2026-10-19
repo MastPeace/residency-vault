@@ -3,7 +3,7 @@ title: Marshall Islands — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-12
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 type: entity
 tags: [residence, citizenship, tax, maritime, clear_pathway]
 category: clear_pathway
@@ -113,7 +113,7 @@ _Coverage: 47/55 fields. Only facts verifiable against official sources or publi
 | Climate | Humidity | 80% avg annual relative humidity (Majuro) | [source](https://www.timeanddate.com/weather/marshall-islands/majuro/climate) — soft/estimate |
 | Climate | Natural hazards | Typhoons (Jul–Nov), sea level rise, coastal flooding; INFORM risk: medium-high | [source](https://en.wikipedia.org/wiki/Geography_of_the_Marshall_Islands) — soft/estimate |
 | Climate | Air quality | PM2.5 ~8 μg/m³ (2023, good — remote Pacific) | [source](https://www.iqair.com/marshall-islands) — soft/estimate |
-| Economy | GDP (nominal) | $308.0M (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MH) — hard/official |
+| Economy | GDP (nominal) | $308,000,000 (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MH) — hard/official |
 | Economy | GDP growth | 2.3% (2025) | [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=MH) — hard/official |
 | Economy | Inflation (CPI) | No reliable data | — |
 | Economy | Unemployment | No reliable data | — |
@@ -172,6 +172,6 @@ The Marshall Islands is a small, low-lying Micronesian state closely tied to the
 - Limited connectivity and infrastructure
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: 2026 Constitutional Convention (Citizenship) Amendment Bill (Cabinet authority for registration) under consideration.
 - **Watch items**: Whether the citizenship-registration amendment passes; persistent "CBI relaunch" rumors (unsubstantiated).

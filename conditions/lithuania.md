@@ -12,7 +12,7 @@ sources:
   - https://nomadresidence.com/lithuania
   - https://www.goldenvisas.com/lithuania
 country_code: LT
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -88,7 +88,7 @@ Baltic Sea coastline (Klaipėda, Palanga). Small yachting infrastructure. Yacht 
 Lithuania has adopted a very restrictive stance toward Russian citizens since 2022. Visa issuance severely limited. Residence permits face enhanced scrutiny. Lithuanian language is demanding. Relatively small Russian-speaking community. The political environment is among the most unwelcoming in the EU for Russian applicants.
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - **Recent changes**: No major policy shifts in 2026. Startup Visa and Blue Card routes are stable.
 - **Watch items**: Monitor any further restrictions on third-country nationals.
 

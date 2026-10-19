@@ -14,7 +14,7 @@ sources:
   - https://legalclarity.org/costa-rica-dual-citizenship-requirements-and-process
   - https://studiopanamaitalia.com/en/residenze-e-cittadinanze/residenza-in-costarica/
 country_code: CR
-last_checked: 2026-10-12
+last_checked: 2026-10-19
 ---
 
 ## Overview
@@ -147,7 +147,7 @@ Pacific and Caribbean coastlines make Costa Rica a notable yachting destination 
 - **Cost**: Residency application fees ~USD 50; Caja contributions are the real ongoing cost.
 
 ## Status
-- **Last monitored**: 2026-10-12
+- **Last monitored**: 2026-10-19
 - Last change: Digital Nomad Visa (Law No. 10008) enacted 2021, fully operational.
 - Last monitored: 2026-09-14.
 ## Country Snapshot
