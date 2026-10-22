@@ -956,6 +956,11 @@ kbd { font: 11px var(--mono); padding: 1px 6px; border: 1px solid var(--line-str
 .facts div + div { padding-left: 16px; border-left: 1px solid var(--line); }
 .facts dt { font: 600 11px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin-bottom: 4px; }
 .facts dd { margin: 0; font: 500 17px/1.3 var(--serif); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.tg-cta { display: flex; align-items: center; justify-content: space-between; gap: 18px; flex-wrap: wrap; margin: 36px 0 0; padding: 16px 20px; border: 1px solid var(--line); border-left: 3px solid #c9953a; border-radius: 6px; }
+.tg-cta b { display: block; font: 600 16px var(--sans); }
+.tg-cta span { display: block; color: var(--muted); font-size: 14px; margin-top: 2px; }
+.tg-cta a { font: 600 14px var(--sans); white-space: nowrap; text-decoration: none; border: 1px solid #c9953a; border-radius: 999px; padding: 7px 16px; color: inherit; }
+.tg-cta a:hover { background: #c9953a; color: #0f0e0b; }
 .glance { margin: 22px 0 0; }
 .glance h2 { font: 600 11px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0 0 8px; border: 0; padding: 0; }
 .glance dl { display: grid; grid-template-columns: repeat(auto-fit, minmax(380px, 1fr)); gap: 0 32px; margin: 0; }
@@ -1983,6 +1988,13 @@ def seo_ld(kind, url, name, desc, page=None, crumbs=()):
     return '<script type="application/ld+json">' + json.dumps({"@context": "https://schema.org", "@graph": graph}, ensure_ascii=False).replace("</", "<\\/") + "</script>"
 
 
+def build_tg_cta():
+    """Subscribe block under every country/program page: the cheapest way to turn search traffic into channel readers."""
+    return (f'<aside class="tg-cta"><div><b>{T("Follow residency rule changes in Telegram")}</b>'
+            f'<span>{T("Short posts on what changed, country snapshots and comparisons.")}</span></div>'
+            f'<a href="{TG_URL}" rel="noopener">{T("Open the channel")} →</a></aside>')
+
+
 def related_html(page, region_meta, region_labels, is_entity):
     items = []
     if is_entity:
@@ -2226,7 +2238,7 @@ def render_page(page, region_meta, region_labels):
 
     untr = T("untranslated") if (LANG == "ru" and not page.get("translated")) else ""
     main = f"""<div class="wrap"><div class="page-grid">
-<main class="main"><article>{untr}{head}<div class="article">{body}</div>{history_html(page)}{related_html(page, region_meta, region_labels, is_entity)}{NOTICE_HTML}</article></main>
+<main class="main"><article>{untr}{head}<div class="article">{body}</div>{history_html(page)}{related_html(page, region_meta, region_labels, is_entity)}{build_tg_cta()}{NOTICE_HTML}</article></main>
 {build_toc(body)}
 </div></div>"""
     main = fix_inpage_anchors(main)
