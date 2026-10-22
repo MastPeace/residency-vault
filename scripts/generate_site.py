@@ -10,6 +10,7 @@ import re
 import urllib.parse
 import sys
 import html
+import itertools
 import json
 import shutil
 from pathlib import Path
@@ -955,6 +956,12 @@ kbd { font: 11px var(--mono); padding: 1px 6px; border: 1px solid var(--line-str
 .facts div + div { padding-left: 16px; border-left: 1px solid var(--line); }
 .facts dt { font: 600 11px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin-bottom: 4px; }
 .facts dd { margin: 0; font: 500 17px/1.3 var(--serif); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.glance { margin: 22px 0 0; }
+.glance h2 { font: 600 11px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0 0 8px; border: 0; padding: 0; }
+.glance dl { display: grid; grid-template-columns: repeat(auto-fit, minmax(380px, 1fr)); gap: 0 32px; margin: 0; }
+.glance dl div { display: flex; gap: 12px; padding: 7px 0; border-bottom: 1px solid var(--line); font-size: 15px; line-height: 1.4; }
+.glance dt { flex: 0 0 150px; color: var(--muted); }
+.glance dd { margin: 0; font-weight: 500; }
 .monitor { margin: 28px 0 0; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 18px 22px 8px; }
 .monitor h2 { font: 600 12px var(--sans) !important; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0 0 12px !important; padding: 0 !important; border: 0 !important; display: flex; justify-content: space-between; }
 .monitor h2 time { font: 12px var(--mono); letter-spacing: 0; text-transform: none; }
@@ -1603,6 +1610,76 @@ def build_facts(page):
     return f'<dl class="facts">{"".join(items)}</dl>' if len(items) >= 3 else ""
 
 
+GLANCE_ROWS = [("digital_nomad_visa", "Digital nomad visa"), ("investment_residency", "Investment residency"),
+               ("citizenship_by_investment", "Citizenship by investment"), ("passive_income_residency", "Passive income residency"),
+               ("retired_residency", "Retirement visa")]
+_GL_NA = re.compile(r"^\s*(?:not\s+(?:available|active|offered|applicable|operational)|no\b|none\b|closed|discontinued|suspended|n/?a\b|—|-)", re.I)
+_GL_MONEY = re.compile(r"(~|≈)?\s?((?:US\$|USD\s?|EUR\s?|[€$£])\s?\d[\d,.]*(?:\s?[–-]\s?\d[\d,.]*)?\s?(?:/|per\s)\s?(?:mo(?:nth)?|yr|year)\b)", re.I)
+
+
+def program_rows(page):
+    """{type_key: (program, conditions, duration)} for every row of the Residency Programs table (incl. 'Not available')."""
+    m = re.search(r"^## Residency Programs\s*\n(.*?)(?=^## )", page["body"], re.S | re.M)
+    out = {}
+    for ln in (m.group(1).splitlines() if m else []):
+        if not ln.startswith("|") or re.match(r"^\|[\s:|-]+\|?\s*$", ln) or ln.startswith("| Type"):
+            continue
+        ln = re.sub(r"\[\[([^\]|]+)\|[^\]]+\]\]", r"\1", ln)
+        cells = [c.strip() for c in ln.strip().strip("|").split("|")]
+        if len(cells) < 4:
+            continue
+        key = re.sub(r"[^a-z]+", "_", _qa_cell(cells[0]).lower()).strip("_")
+        out.setdefault(key, (_qa_cell(cells[1]), _qa_cell(cells[2]), _qa_cell(cells[3])))
+    return out
+
+
+def _row_na(row):
+    return not row or bool(_GL_NA.match(row[0])) or bool(_NA.search(row[0]))
+
+
+def dn_threshold(page):
+    """'€3,680/mo' from the digital-nomad row, only if the page states it as a per-month/year amount."""
+    row = program_rows(page).get("digital_nomad_visa")
+    if _row_na(row):
+        return ""
+    m = _GL_MONEY.search(row[1]) or _GL_MONEY.search(row[0])
+    if not m:
+        return ""
+    amt = re.sub(r"\s+", "", m.group(2)).replace("USD", "$").replace("US$", "$").replace("EUR", "€")
+    amt = re.sub(r"/(?:month|per.*?mo)", "/mo", amt, flags=re.I)
+    amt = re.sub(r"/(?:year|yr)", "/yr", amt, flags=re.I)
+    amt = re.sub(r"(?i)per(?:month|mo)", "/mo", amt)
+    amt = re.sub(r"(?i)per(?:year|yr)", "/yr", amt)
+    return (m.group(1) or "") + amt
+
+
+def build_glance(page):
+    """Visible 'At a glance': direct yes/no answers per program type (answers queries like 'X citizenship by investment')."""
+    if LANG == "ru":
+        return ""
+    rows = program_rows(page)
+    if len(rows) < 3:
+        return ""
+    items = []
+    y = quick_answer_citizenship(page)
+    if y:
+        items.append(("Citizenship by naturalisation", y))
+    for key, label in GLANCE_ROWS:
+        if key not in rows:
+            continue
+        prog, cond, dur = rows[key]
+        if _row_na(rows[key]):
+            val = "Not available" if not re.search(r"\(|closed|active", prog, re.I) else clip_words(prog, 70)
+        else:
+            val = clip_words(prog + (f": {cond}" if cond and cond not in ("—", "N/A") else ""), 95)
+        items.append((label, val))
+    if len(items) < 3:
+        return ""
+    lis = "".join(f"<div><dt>{html.escape(k)}</dt><dd>{html.escape(v)}</dd></div>" for k, v in items)
+    return f'<section class="glance"><h2>At a glance</h2><dl>{lis}</dl></section>'
+
+
+
 QA_ROWS = [("passive_income_residency", "Passive income / no work"), ("digital_nomad_visa", "Remote workers"),
            ("investment_residency", "Investment"), ("highly_skilled_employment", "Skilled workers"),
            ("startup_entrepreneur", "Founders"), ("retired_residency", "Retirees"),
@@ -1799,7 +1876,10 @@ def seo_country(page, name):
         if len(title) + 18 <= 62:
             title += " | Residency Radar"
         ov = re.search(r"^## Overview\s*\n(.*?)(?=^## )", page.get("body_ru") or page["body"], re.S | re.M)
-        return title, first_sentences(re.sub(r"\^\[[^\]]*\]", "", ov.group(1) if ov else ""), 158)
+        pre = f"{name}: ВНЖ (вид на жительство) и гражданство. "
+        ovt = re.sub(r"\[\[([^\]|#]+)(?:\|([^\]]+))?\]\]", lambda m: m.group(2) or m.group(1).replace("-", " "), ov.group(1) if ov else "")
+        rest = first_sentences(re.sub(r"\^\[[^\]]*\]", "", ovt).replace("**", ""), 158 - len(pre))
+        return title, clip_words(pre + rest, 158)
     year = seo_year(page)
     title = f"{name} Residency & Citizenship Requirements {year}"
     if len(title) > 65:  # Bing flags titles over ~70 chars
@@ -1817,12 +1897,28 @@ def seo_country(page, name):
     tx = f"remote-worker tax {tax}" if tax and len(tax) <= 22 and re.search(r"\d", tax) else ""
     checked = page.get("last_checked") or page.get("updated") or ""
     best = ""
-    for n in (4, 3, 2, 1):
-        for use_cit, use_tax in ((True, True), (True, False), (False, True), (False, False)):
-            bits = ([f"routes: {', '.join(progs[:n])}"] if progs else []) + ([cit] if use_cit and cit else []) + ([tx] if use_tax and tx else [])
-            cand = f"{name} residency — " + "; ".join(bits) + f". Sources cited, checked {checked}." if bits else ""
-            if cand and len(cand) <= 158:
-                best = cand
+    rows = program_rows(page)
+    dn = dn_threshold(page)
+    dn_bit = f"digital nomad visa from {dn}" if dn else ""
+    cbi_bit = "no citizenship by investment" if "citizenship_by_investment" in rows and _row_na(rows["citizenship_by_investment"]) else ""
+    opt = [b for b in (dn_bit, cit, cbi_bit) if b]
+    combos = [list(c) for r in range(len(opt), -1, -1) for c in itertools.combinations(opt, r)]
+    combos += [[tx]] if tx else []
+    rprogs = [x for x in progs if not (dn_bit and x == "digital nomad")]
+    for nmin in (2, 1):
+        for extra in combos:
+            for n in (3, 2, 1):
+                if n < nmin and len(rprogs) >= nmin:
+                    continue
+                for tail in (f". Sources cited, checked {checked}.", f". Checked {checked}."):
+                    bits = ([f"routes: {', '.join(rprogs[:n])}"] if rprogs else []) + extra
+                    cand = f"{name} residency — " + "; ".join(bits) + tail if bits else ""
+                    if cand and len(cand) <= 158:
+                        best = cand
+                        break
+                if best:
+                    break
+            if best:
                 break
         if best:
             break
@@ -1837,7 +1933,7 @@ def seo_concept(page, name):
         title = T("seo_concept_title").format(base=base)
         body = re.sub(r"^## .*$", "", page.get("body_ru") or page["body"], flags=re.M)
         first = strip_md(re.sub(r"\[\[([^\]|#]+)(?:\|([^\]]+))?\]\]", lambda m: m.group(2) or m.group(1).replace("-", " "), body.strip().split("\n\n")[0]))
-        return title, clip_words(first, 158)
+        return title, clip_words(first.replace("**", ""), 158)
     title = f"{base}: Requirements Compared Across Countries"
     if len(title) > 65:
         title = f"{base}: Requirements by Country"
@@ -1845,6 +1941,19 @@ def seo_concept(page, name):
         title += " | Residency Radar"
     body = re.sub(r"^## .*$", "", page["body"], flags=re.M)
     first = strip_md(re.sub(r"\[\[([^\]|#]+)(?:\|([^\]]+))?\]\]", lambda m: m.group(2) or m.group(1).replace("-", " "), body.strip().split("\n\n")[0]))
+    cm = re.search(r"^## Cross-Country Comparison\s*\n(.*?)(?=^## |\Z)", page["body"], re.S | re.M)
+    n = sum(1 for ln in (cm.group(1).splitlines() if cm else []) if ln.startswith("|") and not re.match(r"^\|[\s:|-]+\|?\s*$", ln)) - 1
+    if n >= 3:
+        tail = f" Compared across {n} countries."
+        first = first.replace("**", "")
+        sent = re.split(r"(?<=[a-z\)])\.\s", first, maxsplit=1)[0].rstrip(".")
+        if len(sent) + len(tail) + 1 > 158:
+            cut = sent[:158 - len(tail) - 1]
+            if cut.count("(") > cut.count(")"):
+                cut = cut[:cut.rfind("(")]
+            k = cut.rfind(", ")
+            sent = (cut[:k] if k > 60 else cut.rsplit(" ", 1)[0]).rstrip(",;:- ")
+        return title, sent + "." + tail
     desc = clip_words(f"{first}", 158)
     return title, desc
 
@@ -2112,6 +2221,7 @@ def render_page(page, region_meta, region_labels):
 <div class="page-head"><h1>{html.escape(name)}{f'<span class="h1-sub"> {html.escape(T("residency & citizenship"))}</span>' if is_entity else ''}</h1>
 <div class="sub">{"".join(sub)}</div>{f'<div class="chips">{chips}</div>' if chips else ''}</div>
 {build_facts(page) if is_entity else ''}
+{build_glance(page) if is_entity else ''}
 {monitor_html}"""
 
     untr = T("untranslated") if (LANG == "ru" and not page.get("translated")) else ""
