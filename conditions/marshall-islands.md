@@ -3,7 +3,7 @@ title: Marshall Islands — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-12
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 type: entity
 tags: [residence, citizenship, tax, maritime, clear_pathway]
 category: clear_pathway
@@ -172,6 +172,6 @@ The Marshall Islands is a small, low-lying Micronesian state closely tied to the
 - Limited connectivity and infrastructure
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: 2026 Constitutional Convention (Citizenship) Amendment Bill (Cabinet authority for registration) under consideration.
 - **Watch items**: Whether the citizenship-registration amendment passes; persistent "CBI relaunch" rumors (unsubstantiated).

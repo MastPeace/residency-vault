@@ -11,7 +11,7 @@ sources:
   - https://sn.usembassy.gov/how-to-obtain-a-residence-permit-in-senegal
   - https://remotepeople.com/countries/senegal/employer-of-record/work-visa-permit
 country_code: SN
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -67,7 +67,7 @@ Senegal has an Atlantic coastline (Dakar, Saly). Dakar is a major West African p
 Visa-free or visa on arrival (varies — check with embassy). French proficiency is important for daily life in Dakar. Senegal maintains neutral international relations. Small Russian-speaking community. Banking: functional, CFA franc zone provides currency stability. The reported development of a DN visa is worth monitoring.
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: EY Global Immigration Index (Nov 2025) lists Senegal among countries "actively preparing" to launch DN visa programs. No official launch date yet.
 - **Watch items**: MONITOR DN visa launch. Track any investment residency framework introduction.
 

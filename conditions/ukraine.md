@@ -3,7 +3,7 @@ title: Ukraine — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-13
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 type: entity
 tags: [residence, citizenship, tax, it_friendly, popular_ru, clear_pathway]
 category: popular_ru
@@ -182,6 +182,6 @@ Ukraine is a large Eastern European country with rich agricultural and IT sector
 - Economy contracted sharply; salary levels low by EU standards
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: Multiple citizenship legalised (June 2025). Military levy raised 1.5% → 5% (Jan 2025). Constitution/history exam mandatory since 2023; draft "Ukrainian IELTS" language-certification reform (law 15261) in progress (2026).
 - **Watch items**: Citizenship-test reform; martial-law extension; further tax changes (military levy).

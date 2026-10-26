@@ -120,3 +120,10 @@
 - Updated: argentina, australia, belgium, canada, china, ecuador, gambia, greece, japan, latvia, new-zealand, singapore, sweden, thailand, tonga, united-kingdom, vanuatu
 - Types: 4 suspension, 1 new_program, 4 processing_update, 13 rule_change, 1 fee_change
 - Alert: alerts/2026-10-19.md
+## [2026-10-26] update | Weekly monitor — 15 countries updated
+- Screened 163 countries (v5 two-tier); 41 flagged, 122 no_change stamped
+- Analyzer: 24 news items across 16 countries (deepseek-v4-pro)
+- Updated: albania, antigua, argentina, armenia, belarus, iceland, india, ireland, japan, kazakhstan, latvia, portugal, singapore, sweden, united-kingdom
+- Types: 2 new_program, 14 rule_change, 2 processing_update, 6 rumor
+- Alert: alerts/2026-10-26.md
+

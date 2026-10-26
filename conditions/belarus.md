@@ -1,9 +1,9 @@
 ---
 title: Belarus — Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-26
 extended_snapshot: 2026-10-12
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 type: entity
 tags: [residence, citizenship, tax, it_friendly, popular_ru]
 category: popular_ru
@@ -190,6 +190,8 @@ Belarus is a landlocked Eastern European country of ~9 million with a heavily st
 - Sanctions and capital controls; banking restrictions for foreigners
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
+- **Recent changes (26-10)**: From 1 Nov 2026 Lithuania stops accepting temporary-residence applications via external providers in Bosnia and Herzegovina, Kazakhstan, Kyrgyzstan and Uzbekistan — Belarusians can still file via provider offices in Armenia or Georgia. ^[https://reform.news/en/belarusians-offered-option-to-apply-for-lithuanian-work-residence-permits-in-armenia-and-georgia]
+- **Recent changes (26-10)**: Belarus–Montenegro visa requirement from 1 Nov 2026 ends visa-free travel for Belarusians (some 30-day exemptions). ^[https://reform.news/en/montenegro-to-end-visa-free-travel-for-belarusians-on-november-1-who-will-be-exempt]
 - **Recent changes**: Presidential election (Jan 2025) amid internet blocks; HTP regime unchanged (valid to 2049). Permanent-residence rules (Resolution 144) amended to 2026.
 - **Watch items**: Any tightening of exit controls; further HTP exodus; Union State immigration integration.

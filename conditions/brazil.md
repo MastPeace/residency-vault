@@ -12,7 +12,7 @@ sources:
   - https://www.gov.br/mj/pt-br/assuntos/noticias/2023
   - https://brasiltax.com/blog/en-digital-nomad-visa-brazil
 country_code: BR
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -130,7 +130,7 @@ Russian passport holders need a visa for Brazil (e-visa available since 2025). D
 VIPER is one of the most competitive investment residencies in Latin America with a clear path to permanent status and citizenship. VITEM XIV is cheap and increasingly popular. Bureaucracy remains the main friction: apostilles, certified translations, and processing times. Banking system accessible to residents.
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: MigranteWeb digital platform rollout (2026). VITEM XIV in-country conversion option. E-visa requirement for US/Canada/Australia travelers.
 ## Country Snapshot
 

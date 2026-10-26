@@ -1,7 +1,7 @@
 ---
 title: Japan — Residency & Citizenship Conditions
 created: 2026-09-14
-updated: 2026-10-19
+updated: 2026-10-26
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, highly-skilled-professional, strong_passport]
@@ -13,7 +13,7 @@ sources:
   - https://rumavi.com/en/property-guides/japan-residency-visas
   - https://www.japantimes.co.jp/news/2026/03/27/japan/politics/japan-new-naturalization-requirements
 country_code: JP
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -234,7 +234,9 @@ Japan is an East Asian island nation with the world's second-strongest passport 
 
 ## Status
 - **Fix**: content restored from git 949a1bd after SCHEMA v3 template corruption (2026-10-11)
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
+- **Recent changes (26-10)**: PR guidelines revised 1 Oct 2026; the new guidelines apply to applications filed on or after 1 April 2027. ^[https://office-ishinagi.com/en/2026/10/18/japan-permanent-residency-guideline-changes-april-2027]
+- **Recent changes (26-10)**: Immigration Services Agency plans to raise the minimum annual salary for Highly Skilled Professional status above the current ¥3,000,000. ^[http://mb.com.ph/2026/10/19/japan-to-raise-income-criteria-for-highly-skilled-foreigners]
 - **Recent changes**: Naturalization screening tightened to ~10 years (April 1, 2026). PR application fee rising to ¥200,000 (from Oct 1, 2026). Business Manager capital requirement raised to ¥30,000,000 (2025). Potential PR revocation for unpaid taxes from April 1, 2027.
 - **Watch items**: Digital Nomad visa extension under consideration. PR fee increase implementation.
 

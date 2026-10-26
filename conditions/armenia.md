@@ -1,7 +1,7 @@
 ---
 title: Armenia — Armenia
 created: 2026-09-13
-updated: 2026-10-05
+updated: 2026-10-26
 extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, tax, rule_change, popular_ru]
@@ -12,7 +12,7 @@ sources:
   - http://diaspora.gov.am/en/pages/121
   - https://en.wikipedia.org/wiki/Armenian_citizenship
 country_code: AM
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -78,7 +78,7 @@ Armenia offers accessible residence permits and a relatively short path to citiz
 - **Language**: Armenian language proficiency may be required.
 - **CBI proposal (rumor, Aug 2026)**: Draft government decree under discussion proposing citizenship by investment for foreigners at **≥ $150,000**. Not yet adopted; track status. ^[https://arka.am/en/news/society/russian_experts_say_armenia_a_promising_country_to_get_residence_permit]
 - **Status of amendment**: At public consultation stage on e-draft.am (as of Sep 2026). Proposed fee changes: citizenship application from 50,000 to 250,000 AMD; citizenship renunciation from 150,000 to 1,500,000 AMD. Residence requirements for citizenship: 549 days within 3 years for spouses of citizens; 915 days within 5 years under general procedure. ^[https://arka.am/en/news/politics/armenia-s-ministry-of-internal-affairs-proposes-increasing-citizenship-fees-and-tightening-residency]
-- **Permanent residence**: Available after temporary residence; Permanent residence card valid 5 years. Special residence status (10 years) for ethnic Armenians.
+- **Permanent residence**: Available after **3 years of temporary residence**; permanent residence card valid 5 years. The special 10-year residence status for ethnic Armenians is abolished from 1 Nov 2026 — ethnic Armenians instead apply for permanent status (valid 5 years). ^[https://iravaban.net/en/575455.html]
 
 ## Tax
 
@@ -110,7 +110,8 @@ Expats report Armenia as welcoming and affordable. Yerevan has a growing interna
 
 ## Status
 
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
+- **Recent changes (26-10)**: Nov 1, 2026 reform confirmed — applications online-only via the unified electronic platform; permanent residence requires 3 years of temporary status; annual quotas and biometric cards introduced; decision term stays 30 days. ^[https://onebusiness.am/en/armenia/vnzh/novye-pravila-2026]
 - **Recent changes**: Comprehensive immigration reform from Nov 1, 2026 (delayed from original Aug 1, 2026 deadline) — work visas, labor market test abolished, digitalization, business VNZh thresholds AMD 2,000,000/1M, employer notification. Citizenship law amendment proposed (Sep 9, 2026) — residence requirement 3→5 years, fee increases (50K→250K AMD for application, 150K→1.5M AMD for renunciation), tightened physical presence requirements (549 days/3yr for spouses, 915 days/5yr general). Visa exemption for 111 countries extended through Jul 2027.
 - **Watch items**: Status of citizenship law amendments. Reform implementation and potential backlogs from Nov 1, 2026. CBI proposal ($150,000 investment → citizenship) — track government decree status.
 

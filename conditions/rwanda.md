@@ -11,7 +11,7 @@ sources:
   - https://www.migration.gov.rw/visa
   - https://www.migration.gov.rw/our-services/citizenshipss
 country_code: RW
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -76,7 +76,7 @@ Not applicable — landlocked country.
 Rwanda offers visa-free entry for 30 days (or eVisa). Russian citizens can apply for the DN visa. Banking and immigration are accessible. Rwanda maintains neutral international relations. Small Russian-speaking community. Kigali is safe and welcoming to foreigners generally.
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: DN visa reported on Irembo as of 2026; some aggregator sites dispute formal existence — check migration.gov.rw directly. 15-year citizenship clock confirmed under Organic Law.
 - **Watch items**: Verify DN visa remains on Irembo portal directly. Track any citizenship law amendments.
 

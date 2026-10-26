@@ -3,7 +3,7 @@ title: Moldova — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-12
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 type: entity
 tags: [residence, citizenship, tax, it_friendly, popular_ru, clear_pathway]
 category: popular_ru
@@ -183,6 +183,6 @@ Moldova is a landlocked Eastern European country of ~2.5 million, an EU accessio
 - 10-year citizenship path
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: MITP surpassed 3,000 resident companies (Sep 2026). CBI programme remains suspended since 2019–2020. Romania-linked dual citizenship continues informally.
 - **Watch items**: EU accession progress; any CBI reactivation; MITP regime extension beyond 2035.

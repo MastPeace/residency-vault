@@ -1180,15 +1180,15 @@
   }
  },
  "india": {
-  "hash": "7d0db78d7c284b0e",
-  "extracted": "2026-10-12",
+  "hash": "e917f6a31e999a0e",
+  "extracted": "2026-10-26",
   "gv_min": null,
   "remote_visa": {
    "available": false,
    "min_income": null,
    "currency": null,
    "period": null,
-   "evidence": "digital_nomad_visa | Not available"
+   "evidence": "Not available"
   },
   "remote_tax": null
  },

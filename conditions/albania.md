@@ -1,7 +1,7 @@
 ---
 title: Albania — Albania
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-10-26
 extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, tax, digital-nomad]
@@ -12,7 +12,7 @@ sources:
   - https://wise.com/gb/blog/albania-digital-nomad-visa
   - https://www.euronews.com/travel/2026/01/10/want-to-move-to-europe-here-are-all-the-digital-nomads-visas-available-for-remote-workers
 country_code: AL
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -125,7 +125,8 @@ Albania is an up-and-coming destination, particularly among digital nomads attra
 
 ## Status
 
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
+- **Recent changes (26-10)**: Unique Permit application merged into a single online application; eligibility extended to au pairs and retirees (remote workers up to 1 year, renewable). ^[https://www.fragomen.com/insights/albania-combined-visa-work-and-residence-permit-now-available.html]
 - **Recent changes**: Unique Permit framework in place. Albania's EU accession negotiations formally opened.
 - **Watch items**: EU accession progress. Potential formalization of a standalone digital nomad visa category separate from the Unique Permit.
 

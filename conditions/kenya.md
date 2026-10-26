@@ -12,7 +12,7 @@ sources:
   - https://www.bieastafrica.com/Kenya-class-n-permit.html
   - https://kenyalaw.org/akn/ke/act/2011/12/eng@2022-12-31
 country_code: KE
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -78,7 +78,7 @@ Kenya has a coastline on the Indian Ocean (Mombasa, Malindi, Lamu). Limited yach
 Kenya offers eTA for Russian citizens (tourist, up to 90 days). The Class N permit is accessible. Banking for Russian nationals: available but enhanced due diligence. Nairobi has a small but established Russian-speaking community. Direct flights limited; typically via Dubai/Istanbul/Addis Ababa.
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: Class N Digital Nomad Permit launched (announced Oct 2024, operational by mid-2025). eTA system replaced eVisa for short stays. 90-day regularisation window opened Sept 2026 for those without proper permits.
 - **Watch items**: Monitor Class N permit experiences and any published income thresholds. Track citizenship path clarification for DN permit holders.
 

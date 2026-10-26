@@ -11,7 +11,7 @@ sources:
   - https://www.gov.bw/residency-and-work/work-permit-application
   - https://www.gov.bw/taxonomy/term/115
 country_code: BW
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -76,7 +76,7 @@ Not applicable — landlocked country.
 Visa-free for 30 days for Russian citizens. Work and investor permits accessible. Small Russian-speaking community. Botswana maintains cordial relations with Russia. Banking: functional but limited in scope.
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: No significant immigration policy changes reported. System remains strict and employer-driven.
 - **Watch items**: Monitor any introduction of DN visa or investment residency scheme.
 

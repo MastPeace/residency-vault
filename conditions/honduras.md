@@ -11,7 +11,7 @@ sources:
   - https://mylatinlife.com/honduras-rentista-pensionado-visas/
   - https://consortiumlegal.com/en/2026/01/16/permanent-residence-as-a-rentier-or-pensioner-in-central-america
 country_code: HN
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -205,7 +205,7 @@ Honduras is a Central American nation with Caribbean and Pacific coastlines, bes
 - No digital nomad visa; remote-work framework underdeveloped
 - Bureaucratic inconsistency; lawyer strongly recommended
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - Last change: October 2025 — Ministerial Agreement No. 374-2025 introducing special immigration category; November 2024 reform affects long-term residence pathways.
 - Last monitored: 2026-09-14.
 - No open watch items.

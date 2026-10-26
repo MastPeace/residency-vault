@@ -12,7 +12,7 @@ sources:
   - https://freedomhouse.org/country/mauritania/freedom-world/2025
   - https://worldjusticeproject.org/rule-of-law-index/country/2024/Mauritania
 country_code: MR
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -186,6 +186,6 @@ Mauritania is a large, sparsely populated Saharan/Sahelian country on West Afric
 - No formal residency programs; restrictive social environment
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: No known recent changes. Political stability under President Ghazouani.
 - **Watch items**: Nationality-law reforms. Security situation (Sahel spillover). Slavery eradication progress.

@@ -12,7 +12,7 @@ sources:
   - https://www.riotimesonline.com/peru-digital-nomad-visa-not-available-2026
   - https://legalclarity.org/how-to-get-peruvian-citizenship-requirements-and-steps
 country_code: PE
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -140,7 +140,7 @@ Not a major yachting hub. No special yacht/captain residency program.
 - **Cost**: Change of status fee ~PEN 163 (~USD 45).
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - Last major change: Law 32421 (August 2025) — citizenship residency requirement raised 2→5 years, income threshold added.
 - Digital nomad visa: law exists (Nov 2023) but never implemented.
 - Last monitored: 2026-09-14.

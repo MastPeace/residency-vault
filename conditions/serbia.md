@@ -13,7 +13,7 @@ sources:
   - https://legalclarity.org/serbia-citizenship-requirements-descent-and-naturalization
   - https://www.globalcitizensolutions.com/serbia-residence-permit
 country_code: RS
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -118,7 +118,7 @@ Expats report generally smooth processes. Main complaints: bureaucratic delays, 
 
 ## Status
 
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: Single Permit system operational. Online application portal (Foreign Nationals' Portal) functioning.
 - **Watch items**: EU accession progress. Potential changes to 3-year temporary residence requirement.
 

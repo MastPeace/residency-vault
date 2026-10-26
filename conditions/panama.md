@@ -14,7 +14,7 @@ sources:
   - https://startabroad.com/resource/panama-visa-residency-and-citizenship-options
   - https://theglobalwealth.com/residency/panama-friendly-nations-visa
 country_code: PA
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -154,7 +154,7 @@ Panama is one of the world's largest vessel registries (Panama Ship Registry). Y
 - **Red flag**: USD 300,000 real estate threshold RISES to USD 500,000 on 15 October 2026 — a confirmed deadline.
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - Last major change: Qualified Investor real estate threshold increase from USD 300,000 to USD 500,000 — effective 15 October 2026. ^[https://startabroad.com/resource/panama-visa-residency-and-citizenship-options]
 - Friendly Nations tightened August 2021 (provisional not direct PR; genuine economic connection required).
 - Last monitored: 2026-09-14.

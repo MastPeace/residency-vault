@@ -12,7 +12,7 @@ sources:
   - https://martingeorge.net/v2/index.php/2023/07/15/article-51-obtaining-permanent-resident-status-in-trinidad-and-tobago-the-five-year-continuous-residence-route
   - https://en.wikipedia.org/wiki/Trinidadian_and_Tobagonian_nationality_law
 country_code: TT
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -173,6 +173,6 @@ Trinidad and Tobago is the industrial and financial hub of the Anglophone Caribb
 - No digital-nomad or passive-income visa
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: No material immigration-law change recorded in 2025–26.
 - **Watch items**: Any move toward a retiree or investment residence; crime-driven expat sentiment.

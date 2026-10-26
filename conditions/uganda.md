@@ -11,7 +11,7 @@ sources:
   - https://www.immigration.go.ug/permit/entry-permit
   - https://visas.immigration.go.ug
 country_code: UG
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -74,7 +74,7 @@ Landlocked country. Lake Victoria offers inland water activities (Entebbe, Jinja
 eVisa for Russian citizens (single entry, 90 days). Uganda maintains neutral relations with Russia. Small Russian-speaking community. Kampala is safe by regional standards. Banking: functional.
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: Online e-visa/permit system fully operational. No dedicated DN visa introduced. EAC fee exemptions for Kenya/Rwanda nationals.
 - **Watch items**: Monitor for DN visa introduction (East African trend).
 

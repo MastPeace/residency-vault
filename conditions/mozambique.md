@@ -12,7 +12,7 @@ sources:
   - http://multiplecitizenship.com/wscl/ws_MOZAMBIQUE.html
   - https://evisa.gov.mz/investment-visa.html
 country_code: MZ
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -184,6 +184,6 @@ Mozambique is a long Lusophone country on the Indian Ocean coast of Southeast Af
 - Low median incomes and limited infrastructure outside Maputo
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: eVisa rollout (evisa.gov.mz) simplified entry for many nationalities.
 - **Watch items**: Any DIRE/foreigner-law reform; Cabo Delgado security impact on permits.

@@ -12,7 +12,7 @@ sources:
   - https://www.mdec.my/
   - https://motac.gov.my/wp-content/uploads/2026/01/Terms-And-Regulations-For-New-Participants-Under-The-Malaysia-My-Second-Home-MM2H-.pdf
 country_code: MY
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -232,6 +232,6 @@ Malaysia is a Southeast Asian federation straddling the Malay Peninsula and nort
 - Moderate political freedoms (Freedom House 52)
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes known**: MM2H three-tier restructure (Jun 2024); offshore income requirement dropped.
 - **Watch items**: MM2H uptake by tier; DE Rantau sponsor rules.

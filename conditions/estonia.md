@@ -12,7 +12,7 @@ sources:
   - https://www.e-resident.gov.ee/nomadvisa
   - https://www.e-resident.gov.ee/es/blog/posts/estonian-startup-visa-vs-e-residency
 country_code: EE
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -91,7 +91,7 @@ Baltic Sea coastline (Tallinn, Paldiski). Small yachting infrastructure. Yacht r
 Estonia has one of the most restrictive stances toward Russian citizens since 2022. Visa issuance severely limited. Residence permit applications face enhanced scrutiny. Estonian language (Finno-Ugric, unrelated to Russian) is one of Europe's hardest. However, ~25% of the population is Russian-speaking, providing cultural familiarity. The political environment is unwelcoming for new Russian applicants.
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: Corporate tax rate on distributions increased to 22% from 2025. DN visa and Startup Visa programmes are mature and stable. **e-Residency**: fee fixed at €165 from Jan 1, 2027 (replacing tiered pricing); record growth — 8/10 new Estonian companies created by recent e-residents in 2026.
 - **Watch items**: Monitor any further restrictions on Russian citizens. Track Startup Visa policy. e-Residency fee change effective date.
 

@@ -1,7 +1,7 @@
 ---
 title: India — Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-26
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, it_friendly, clear_pathway]
@@ -12,7 +12,7 @@ sources:
   - https://www.mha.gov.in/sites/default/files/2022-08/OCIIntroduction_23072021%5B1%5D.pdf
   - https://indianvisaonline.gov.in/
 country_code: IN
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -25,7 +25,7 @@ India's immigration system offers short-stay visas (e-visa, business, employment
 | investment_residency | Not available | — | — | — |
 | passive_income_residency | Not available (OCI for PIOs) | — | — | — |
 | digital_nomad_visa | Not available | — | — | — |
-| highly_skilled_employment | Employment Visa (E) | Job offer; salary ≥ US$25,000/yr for most foreigners | 1–5 yr | [[#highly-skilled-employment]] |
+| highly_skilled_employment | Employment Visa (E) | Job offer; salary ≥ INR 2,400,000 (~US$28,600)/yr for most foreigners | 1–5 yr | [[#highly-skilled-employment]] |
 | startup_entrepreneur | Business Visa (B) | Business purpose; income ≥ US$25,000 | Up to 5 yr | [[#startup-entrepreneur]] |
 | employment_residency | Employment Visa (E) | Employer-sponsored job | 1–5 yr | [[#employment-residency]] |
 | student_residency | Student Visa (S) | Admission to recognized institution | Course duration | [[#student-residency]] |
@@ -37,7 +37,7 @@ India's immigration system offers short-stay visas (e-visa, business, employment
 
 ### highly_skilled_employment
 - **Official name**: Employment Visa (E visa)
-- **Conditions**: Job offer from an Indian employer; minimum annual salary US$25,000 for most foreign nationals (lower for ethnic cooks, language teachers, embassy staff). ^[https://indianvisaonline.gov.in/]
+- **Conditions**: Job offer from an Indian employer; minimum annual salary INR 2,400,000 (~US$28,600) for most foreign nationals (raised from INR 1,625,000 in Oct 2026) (lower for ethnic cooks, language teachers, embassy staff). ^[https://indianvisaonline.gov.in/]
 - **Duration / renewal**: 1 year initial, renewable up to 5 years.
 - **Path to citizenship**: 12 years residence (11 of 14 years + 12 continuous months).
 - **Official source**: https://indianvisaonline.gov.in/
@@ -95,7 +95,7 @@ Long coastline (~7,500 km); major ports: Mumbai, Chennai, Kochi, Visakhapatnam. 
 Visa required (e-visa available). No visa-free entry. Employment visa requires a sponsoring employer; OCI not available to RU nationals without Indian origin. Banking for non-residents is possible but compliance-heavy. Some RU nationals use Goa as a seasonal base on tourist/e-visa (30-day tourist eVisa, extendable only in limited cases).
 
 ## Community Pulse
-India is not a residence-by-investment market; the only true long-stay vehicle is OCI (for those of Indian origin). Foreigners typically stay on employment or business visas. There is consistent expat frustration with FRRO bureaucracy and the US$25,000 employment salary floor.
+India is not a residence-by-investment market; the only true long-stay vehicle is OCI (for those of Indian origin). Foreigners typically stay on employment or business visas. There is consistent expat frustration with FRRO bureaucracy and the INR 2,400,000 (~US$28,600) employment salary floor.
 
 ## Country Snapshot
 
@@ -199,10 +199,11 @@ India is the world's most populous country and fifth-largest economy, a rising t
 - No golden visa, DN visa, or self-sponsored residence route
 - 12-year naturalization and no dual citizenship
 - FRRO/bureaucratic friction for foreign residents
-- US$25,000 employment-visa salary floor
+- INR 2,400,000 (~US$28,600) employment-visa salary floor
 - Infrastructure and pollution challenges in major cities
 
 ## Status
-- **Last monitored**: 2026-10-19
-- **Recent changes known**: None material in 2025–2026; OCI and visa categories stable.
+- **Last monitored**: 2026-10-26
+- **Recent changes (26-10)**: Employment Visa minimum salary raised from INR 1,625,000 to INR 2,400,000 (~+47.7%, first change since 2018), effective immediately. ^[https://www.fragomen.com/insights/india-minimum-salary-level-for-employment-visas-significantly-increased.html]
+- **Recent changes known**: Employment Visa minimum salary raised to INR 2,400,000 (Oct 2026); OCI and visa categories otherwise stable.
 - **Watch items**: Any introduction of a residency-by-investment scheme (periodically discussed).

@@ -11,7 +11,7 @@ sources:
   - https://kuwaittimes.com/article/44928/kuwait/new-regulations-for-foreign-investor-residency-permits-up-to-15-years
   - https://gulfnews.com/story/world/gulf/kuwait/kuwait-launches-15-year-residency-programme-for-investors-1.500573812
 country_code: KW
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -109,7 +109,7 @@ Kuwait launched a new 15-year investor residency programme in June 2026 (Cabinet
 Kuwait has the smallest expat appeal among GCC states for lifestyle/residency seekers. The new 15-year investor visa is a step forward but the KD 5M threshold makes it accessible only to major corporate investors. For individual HNWI/residency seekers, UAE, Qatar, and Bahrain are far more practical. Quality of life is lower than neighbours; bureaucratic inertia and restrictive social environment are common complaints. Cost of living is moderate.
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: Cabinet Resolution No. 651/2026 (Jun 2026) — new 15-year investor residency programme with KDIPA. KD 5M investment threshold.
 - **Watch items**: Implementation of new investor residency. Potential VAT introduction. Further residency reforms.
 

@@ -12,7 +12,7 @@ sources:
   - https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden/ordentlich.html
   - https://steuern.lu.ch/natuerlichepersonen/Wissenswertes_NP/besteuerung_aufwand/lump_sum_taxation
 country_code: CH
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -122,7 +122,7 @@ Switzerland is landlocked. No maritime registry. Swiss yacht owners typically re
 Switzerland applies EU-equivalent sanctions against Russia. Non-EU quota applies to Russian nationals (no special carve-out). The lump-sum taxation route is technically accessible but Swiss banks are extremely cautious with Russian-source wealth (freezing orders, compliance burdens). For skilled workers: Swiss employer must justify hiring a non-EU candidate over 500M+ EU/EEA workers. Communal citizenship approval is the most unpredictable — some communes have a reputation for rejecting applicants perceived as insufficiently integrated. The 10-year path is long. Switzerland has a small but established Russian-speaking community (Geneva, Zurich, Zug).
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: Non-EU/EFTA permit quotas for 2026 maintained at 8,500. New biometric residence permits fully rolled out. No major citizenship reform.
 - **Watch items**: Monitor cantonal lump-sum taxation minimum increases (some cantons are raising thresholds). Track naturalisation reform proposals (federal government may reduce commune-level discretion).
 

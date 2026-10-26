@@ -12,7 +12,7 @@ sources:
   - https://uglobal.com/immigration/qatar-investor-residency-overview
   - https://portal.moi.gov.qa
 country_code: QA
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -123,7 +123,7 @@ Qatar offers several residency pathways: property-linked residence (temporary or
 Qatar provides high quality of life, safety, and 0% tax. Residency pathways are expanding (Jusour programme, property ownership) but remain more limited than UAE. The main friction points: limited permanent residency quota, no citizenship path, hot climate, and high cost of living. The Jusour programme has been well-received by the startup community.
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: Jusour Entrepreneur/Executive Residency fully operational. Property residency pathways stable.
 - **Watch items**: Expansion of permanent residency quota. Potential introduction of remote work / DN visa.
 

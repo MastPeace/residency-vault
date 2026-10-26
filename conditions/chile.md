@@ -12,7 +12,7 @@ sources:
   - https://www.expat.cl/residency/temporary-residency-chile
   - https://goldenharbors.com/articles/chile-citizenship-by-naturalization
 country_code: CL
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -138,7 +138,7 @@ Not a major yachting hub. Standard foreign-flag vessel rules apply. No special y
 - **Overall**: Chile is a mid-difficulty destination. Strong passport reward (ESTA, ~175 visa-free) justifies the 5-year wait.
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - Last change: Law 21.325 (2022) restructured all visa categories into 16 subcategories under Residencia Temporal.
 - Planned: civics/culture exam for naturalization (announced 2024, not yet implemented).
 - Last monitored: 2026-09-14.

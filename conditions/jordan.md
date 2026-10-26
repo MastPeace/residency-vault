@@ -12,7 +12,7 @@ sources:
   - https://jordantimes.com/news/local/cabinet-approves-new-investor-residency-citizenship-rules
   - https://imidaily.com/jordan-investor-residency
 country_code: JO
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -138,7 +138,7 @@ Jordan is one of the few countries in the Middle East that offers BOTH residency
 Jordan's investment residency and citizenship programmes are functional and well-established. The 5-year property residency with no physical presence requirement is unique in the region and practical for investors seeking parallel residence bases. The citizenship-by-investment programme is the most accessible in the Middle East (JD 500K outside Amman). Main drawbacks: weaker passport (~55 visa-free), limited job market, and political tensions in the broader region. For those prioritizing MENA second citizenship, Jordan is a credible option.
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: Cabinet amended investor citizenship/residency bylaws (Jul 2026). New routes: JD 500K project outside Amman; JD 700K in Amman. Property residency thresholds adjusted. 681 total naturalizations since 2018 programme launch.
 - **Watch items**: Continued reform of investment thresholds. Potential introduction of digital nomad or retirement visa.
 

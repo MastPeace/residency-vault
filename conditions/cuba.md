@@ -11,7 +11,7 @@ sources:
   - https://www.periodico26.cu/index.php/en/cuba-news-2/25548-new-immigration-foreigners-and-citizenship-laws-transform-cuba-s-migration-system
   - https://www.expatfocus.com/cuba/guide/cuba-citizenship
 country_code: CU
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -172,6 +172,6 @@ Cuba is the largest Caribbean island, a one-party communist state with a state-c
 - 2026 reform tightened the 180-day presence requirement
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: New Immigration, Foreigners, and Citizenship Laws (reported May 2026; most provisions effective 180 days later). 180-day presence rule for effective residency.
 - **Watch items**: Implementation of the 2026 reform; any liberalisation of foreign-investor residence.

@@ -11,7 +11,7 @@ sources:
   - https://www.nipdb.com/digital-nomad-visa
   - https://www.ensafrica.com/news/detail/6394/a-look-at-the-digital-nomad-visa-namibian-per
 country_code: NA
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -75,7 +75,7 @@ Namibia has an Atlantic coastline (Walvis Bay, Lüderitz). Limited yacht facilit
 Visa-free entry for 30 days for Russian citizens. DN visa accessible. Namibia maintains neutral relations with Russia. Small expat community. Banking: available but limited compared to South Africa or Mauritius.
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: DN visa operational since 2023. No major changes reported.
 - **Watch items**: Monitor any extension of DN visa duration or removal of non-renewable restriction.
 

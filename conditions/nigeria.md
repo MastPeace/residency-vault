@@ -11,7 +11,7 @@ sources:
   - https://immigration.gov.ng/info-center/investor-visa-large-scale-corporations-n3c
   - https://immigration.gov.ng/info-center/employment-visa-expatriate-r2a
 country_code: NG
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -76,7 +76,7 @@ Nigeria has an Atlantic coastline (Lagos, Port Harcourt, Calabar). Nigerian Mari
 Visa required for Russian citizens (e-visa or embassy). Nigeria maintains cordial relations with Russia. Small Russian-speaking community in Lagos and Abuja. Banking: functional but cash-based economy presents challenges. The NIS framework is well-documented. Security: situational awareness essential in certain areas.
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: NIS fully online knowledge base with all visa classes documented. No major policy shifts.
 - **Watch items**: Track any citizenship timeline reduction or DN visa introduction.
 

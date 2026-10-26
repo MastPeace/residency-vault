@@ -1,7 +1,7 @@
 ---
 title: Argentina — Residency & Citizenship Conditions
 created: 2026-09-13
-updated: 2026-10-19
+updated: 2026-10-26
 extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, digital-nomad, rentista, investment, mercosur]
@@ -12,11 +12,11 @@ sources:
   - https://goldenharbors.com/articles/argentina-citizenship
   - https://goldenharbors.com/articles/argentina-digital-nomad-visa
 country_code: AR
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
-Argentina's immigration is managed by the Dirección Nacional de Migraciones (DNM). Argentina offers one of the fastest citizenship paths in the Americas — 2 continuous years of legal residence. The main residency routes are the Rentista (passive income), Pensionado (retiree), Investor, and the Digital Nomad Visa (180 + 180 days). A Citizenship by Investment program (USD 500,000) is expected to launch in late 2026 under Decree 524/2025. Decree 366/2025 (May 2025) tightened residency requirements significantly. ^[https://www.argentina.gob.ar/migraciones]
+Argentina's immigration is managed by the Dirección Nacional de Migraciones (DNM). Argentina offers one of the fastest citizenship paths in the Americas — 2 continuous years of legal residence. The main residency routes are the Rentista (passive income), Pensionado (retiree), Investor, and the Digital Nomad Visa (180 + 180 days). A Citizenship by Investment program (US$350,000 Treasury contribution / US$800,000 public bonds, per Oct 2026 clarification) is expected to launch in late 2026 under Decree 524/2025. Decree 366/2025 (May 2025) tightened residency requirements significantly. ^[https://www.argentina.gob.ar/migraciones]
 
 ## Residency Programs
 
@@ -105,7 +105,7 @@ Subsumed under the Inversionista category. Business plan + qualifying investment
 ### citizenship_by_investment
 - **Official name**: CBI — Citizenship by Investment (Decree 524/2025, July 2025)
 - **Status**: Legal framework published; NOT YET OPERATIONAL pending secondary regulations from Ministry of Economy. Expected launch late 2026.
-- **Expected conditions**: USD 500,000 in productive business investment, OR USD 1,000,000 in government bonds. Direct citizenship without 2-year residency requirement. Processing: 30 business days expected.
+- **Expected conditions**: US$350,000 non-refundable contribution to the National Treasury, OR US$800,000 subscription to public government bonds (announced at Argentina Week in Paris, Oct 2026; earlier reports cited US$500,000 / US$1,000,000). Direct citizenship without 2-year residency requirement. Processing: 30 business days expected.
 - **Official source**: https://www.argentina.gob.ar
 - **Community verdict**: Pending launch; do not commit funds until regulations are published.
 
@@ -137,7 +137,8 @@ Argentina's 2-year citizenship timeline is among the fastest globally and is the
 
 ## Status
 - **[new_program]** Аргентина объявила о запуске программы «гражданство за инвестиции» (CBI): два маршрута — безвозвратный взнос в казначейство $350 000 или инвестиция $800 000 в государственные ценные бумаги. Приём заявок ожидается в IV квартале 2026 года. ^[https://alybayat.com/journal/posts/argentina-citizenship-by-investment-2026]
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
+- **Recent changes (26-10)**: CBI thresholds clarified at US$350,000 (Treasury contribution) or US$800,000 (public bonds); opposition introduced bills to repeal the CBI regime (rumor). ^[https://www.lt10.com.ar/noticia/510872--ciudadania-por-inversion-como-funcionara-en-argentina&seccion=nacionales] ^[https://www.parlamentario.com/2026/10/07/otro-proyecto-para-derogar-el-regimen-de-ciudadania-por-inversion-impulsado-por-el-gobierno/]
 - **Recent changes**: Decree 366/2025 (May 2025) — tightened residency continuity, citizenship processing moved to DNM. Decree 524/2025 (July 2025) — CBI framework. SMVM minimum wage updates alter Rentista thresholds periodically.
 
 

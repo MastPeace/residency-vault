@@ -11,7 +11,7 @@ sources:
   - https://www.refworld.org/legal/legislation/natlegbod/1968/en/13868
   - https://en.wikipedia.org/wiki/Cameroonian_nationality_law
 country_code: CM
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -183,6 +183,6 @@ Cameroon is a bilingual Central African country on the Gulf of Guinea, often cal
 - Low median incomes and limited consumer market
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: No major immigration-policy shifts known; 1968 Nationality Code remains in force.
 - **Watch items**: Any nationality-law reform on dual citizenship; Anglophone-region stability impact on permits.

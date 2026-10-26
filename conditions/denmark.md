@@ -12,7 +12,7 @@ sources:
   - https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Start-up-Denmark
   - https://skat.dk/en-us/businesses/employees-and-pay/non-danish-labour/tax-scheme-for-researchers
 country_code: DK
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -111,7 +111,7 @@ Denmark has an extensive coastline and a strong maritime tradition. Yacht regist
 Denmark applies full EU sanctions. Visa processing severely restricted. The "totality of ties" requirement in family reunification practically bars spouses where both partners' ties to Denmark are weak. The "24-year rule" disproportionately affects younger applicants. The Danish language requirement (Prøve i Dansk 3) is challenging. No meaningful Russian-speaking community.
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: SIRI's processing times updated Q2 2026. Start-up Denmark cap (75/year) remains.
 - **Watch items**: Track any relaxation of the 24-year rule or bank guarantee requirement. Monitor EU Migration Pact implementation effects.
 

@@ -11,7 +11,7 @@ sources:
   - http://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa
   - https://www.investindubai.gov.ae/en/live-and-work/visas-and-entry/work-remotely-from-dubai
 country_code: AE
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -144,7 +144,7 @@ The UAE is the #1 destination for Russian HNWI, entrepreneurs, and IT profession
 Largely positive. Golden Visa is well-established and functional. Processing times are fast (5–10 working days for most categories). Main friction points: bank account opening for new residents, rental price inflation in Dubai, and 90-day tourist visa overstay enforcement for those between residence permits.
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: Property Golden Visa no longer requires 50% paid-up threshold (Feb 2026). Virtual Work programme bank statement requirement increased to 6 months (Jan 2026). Blue Residency (10-year sustainability visa) operational. Dubai extended 10-year Golden Visas to outstanding private-school teachers (World Teachers' Day, ~835 applications since the Oct 2024 launch). ^[https://iranianuae.ae/en/uae/education/Dubai-grants-Golden-Visas-to-outstanding-private-school-teachers/]
 - **Watch items**: Potential Golden Visa tightening. Corporate tax compliance expansion. Russian KYC landscape.
 

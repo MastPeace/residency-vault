@@ -12,7 +12,7 @@ sources:
   - https://www.racc.net.au/single-post/189-190-or-491-visa-australia-which-skilled-migration-pathway-leads-to-permanent-residency
   - https://oneplanetmigrationlaw.com.au/immigration-blog/australian-citizenship-by-conferral-2026
 country_code: AU
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -126,7 +126,7 @@ Australia maintains sanctions against Russia. Visa processing for Russian nation
 ## Status
 - **[suspension]** Австралия окончательно закрыла программу Business Innovation and Investment Program (BIIP) для новых заявок с 31 июля 2024 года и перенаправляет квоты на визы для квалифицированных работников. ^[https://www.visaverge.com/news/australia-ends-biip-visa-program-focuses-on-skilled-worker-visas-reports/]
 - **[processing_update]** Департамент внутренних дел Австралии объявил следующий раунд приглашений SkillSelect для визы Skilled Independent (subclass 189) на 15 октября 2026 года. ^[https://www.noworriesmigration.com.au/news-skilled-independent-189-invitation-round-15-october-2026]
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: BIIP closed to new applications (July 2024); existing pathways remain operational. SID (subclass 482) replaced TSS 482. Points test revision under review.
 - **Watch items**: New National Innovation Visa (replaced Global Talent). Points test reform. State nomination allocation for 2026–2027.
 

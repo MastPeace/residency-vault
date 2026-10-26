@@ -12,7 +12,7 @@ sources:
   - https://www.cnbc.com/2026/01/09/bulgaria-digital-nomad-visa.html
   - https://etias.com/articles/bulgaria-launches-digital-nomad-visa-for-remote-workers
 country_code: BG
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -198,6 +198,6 @@ Bulgaria is an EU member (since 2007) and full Schengen member since January 202
 - Golden Visa fund route (€512,000) is more expensive than comparable programs
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: Digital Nomad Visa launched Dec 2025. Full Schengen membership Jan 2025. Golden Visa thresholds unchanged.
 - **Watch items**: Monitor DN visa uptake and any processing practice developments. Track Golden Visa policy stability.

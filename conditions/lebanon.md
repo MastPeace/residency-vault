@@ -3,7 +3,7 @@ title: Lebanon — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-12
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 type: entity
 tags: [residence, citizenship, tax, clear_pathway]
 category: multi
@@ -181,6 +181,6 @@ Lebanon is a small Mediterranean country with a multi-confessional political sys
 - Political deadlock and regional instability (FH 39/100 Partly Free)
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: No residence-program changes; economy stabilising at a low level with partial dollarisation. Data reliability remains poor post-crisis.
 - **Watch items**: Any banking-sector reform or deposit recovery law; naturalisation policy; security situation (Hezbollah–Israel conflict, 2024–2025).

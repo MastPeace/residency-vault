@@ -1,7 +1,7 @@
 ---
 title: Kazakhstan — Residency & Citizenship Conditions
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-10-26
 extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, digital-nomad, popular_ru, rule_change]
@@ -12,7 +12,7 @@ sources:
   - https://astanatimes.com/2026/08/262-foreign-it-specialists-receive-digital-nomad-status-in-kazakhstan
   - https://timesca.com/tag/digital-nomads
 country_code: KZ
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -223,6 +223,8 @@ Kazakhstan is the largest Central Asian economy and an EAEU member, spanning fro
 - Harsh continental climate — Astana is the second-coldest capital in the world
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
+- **Recent changes (26-10)**: QazETA electronic entry authorization rolls out in phases — 1 Nov 2026 (Aktau airport + some road checkpoints), 1 Jan 2027 (Astana/Almaty airports), 1 Mar 2027 (all checkpoints), mandatory 1 Jul 2027. ^[https://en.tengrinews.kz/my-country/no-entry-to-kazakhstan-without-qazeta-what-will-change-for-274237]
+- **Watch items**: Draft digital 'golden visa' for investors (special digital certificate) as part of migration-law reform (rumor). ^[https://kz.kursiv.media/en/2026-10-16/engk-nknk-kazakhstan-moves-to-introduce-digital-golden-visas-for-investors]
 - **Recent changes**: 2026 pilot project severely restricted new residence permit applications (regional restrictions, financial requirements). Digital Nomad Residency programme growing rapidly (250+ permits issued).
 - **Watch items**: Pilot project expires Dec 31, 2026 — monitor extension or permanent adoption. Track Digital Nomad Residency application success rate.

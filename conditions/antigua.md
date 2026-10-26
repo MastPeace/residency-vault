@@ -1,7 +1,7 @@
 ---
 title: Antigua & Barbuda — Residency & Citizenship Conditions
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-10-26
 extended_snapshot: 2026-10-11
 type: entity
 tags: [citizenship, citizenship_by_investment, cbi, digital_nomad, strong_passport, tax]
@@ -11,7 +11,7 @@ sources:
   - https://cip.gov.ag/citizenship
   - https://nomad.gov.ag/ui/ndrVisa.php
 country_code: AG
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -44,6 +44,7 @@ A Nomad Digital Residence (NDR) visa was previously available but has ended. ^[h
   - **Business Investment**: US$1,500,000 sole investor, or joint investment of US$5,000,000+ with each investor contributing minimum US$400,000. ^[https://cip.gov.ag/citizenship]
   - **UWI Fund** (University of the West Indies): US$260,000 minimum (family of 6+); includes 1-year tuition scholarship. ^[https://cip.gov.ag/citizenship]
   - Processing fee: US$30,000 for family of 4; due diligence: ~US$7,500 main applicant.
+  - **New (Oct 2026)**: CIP amendments require annual independent financial audits, biennial operational audits, and a 30-day physical residency requirement for applicants. ^[https://antiguaobserver.com/annual-audits-30-day-residency-among-cip-amendments/]
 - **Duration / renewal**: Citizenship is permanent and irrevocable. Passport renewal every 5 years (now biometric). 5-day physical presence required within first 5 years of citizenship.
 - **Path to citizenship**: Direct citizenship upon investment completion. No prior residence needed. No language exam. Mandatory interview (virtual or in-person) per 2024 OECS MoA.
 - **Official source**: https://cip.gov.ag/citizenship
@@ -191,7 +192,9 @@ Antigua & Barbuda is a twin-island eastern Caribbean nation and one of the five 
 - Small island economy; limited job market outside tourism/finance
 - Hurricane risk; infrastructure vulnerability
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
+- **Recent changes (26-10)**: CIP amendments — annual financial audits, biennial operational audits, 30-day physical residency for applicants. ^[https://antiguaobserver.com/annual-audits-30-day-residency-among-cip-amendments/]
+- **Watch items**: Possible CIP suspension ahead of the EU's 12 Nov 2026 deadline (rumor). ^[https://www.imidaily.com/caribbean/antigua-cip-suspension-november-12/]
 - Last change: August 1, 2024 — investment thresholds raised (NDF $230,000, Real Estate $300,000); NDR programme ended.
 - Last monitored: 2026-09-14.
-- No open watch items.
+- Open watch item: possible CIP suspension ahead of the EU's 12 Nov 2026 deadline (rumor).

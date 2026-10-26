@@ -12,7 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Angolan_nationality_law
   - https://www.ibn.co.za/angola
 country_code: AO
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -184,6 +184,6 @@ Angola is a large, oil-rich Lusophone country on the Atlantic coast of Southern 
 - Median incomes very low outside the oil sector
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: No major immigration-policy shifts known; Law No. 13/2019 remains the framework.
 - **Watch items**: Any introduction of a digital-nomad or retirement visa; AIPEX investor-facilitation updates.

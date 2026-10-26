@@ -11,7 +11,7 @@ sources:
   - https://livinginguatemala.com/tramites/igm-residencia-rentista
   - https://livinginguatemala.com/retire-in-guatemala
 country_code: GT
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -198,7 +198,7 @@ Guatemala is the most populous country in Central America, with a diverse geogra
 - Infrastructure challenges: roads, power, water outside urban areas
 - Bureaucratic processes can be slow and inconsistent; lawyer recommended
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - Last change: October 8, 2025 — new residency regulation IGM-016-2025 effective, including digital nomad/remote worker categories.
 - Last monitored: 2026-09-14.
 - No open watch items.

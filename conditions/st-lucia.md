@@ -12,7 +12,7 @@ sources:
   - https://slu.lc/floissacfleming/pdf/CBI%20Regulations%20Sch%202.pdf
   - https://www.globalcitizensolutions.com/saint-lucia-citizenship-by-investment
 country_code: LC
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -166,6 +166,6 @@ Saint Lucia is a Windward Islands nation known for the Pitons, volcanic beaches,
 - Small economy, tourism-dependent
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: NEF floor raised to $240,000 under the 2024 Caribbean MoU; Citizenship Act amended Jun 2024 (descent for diaspora).
 - **Watch items**: Processing-time reduction; further regional CBI price harmonisation.

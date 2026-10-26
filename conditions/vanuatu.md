@@ -12,7 +12,7 @@ sources:
   - https://vanuatucitizenshipbyinvestment.com/investment-options
   - https://www.vanuatupassport.vu/vanuatu-citizenship-program/vanuatu-passport-cost
 country_code: VU
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -166,7 +166,7 @@ Vanuatu is a South Pacific archipelago nation east of Australia, economically sm
 - Small, low-income economy (GDP PPP ~$3,200)
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: CIIP reopened May 2025 (investment + donation model); EU visa-waiver suspension discussions ongoing.
 - **Watch items**: EU reinstatement of Vanuatu's visa-waiver; DSP pricing changes; FIU due-diligence tightening.
 

@@ -3,7 +3,7 @@ title: Fiji — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-11
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 type: entity
 tags: [residence, citizenship, tax, retired, investment, clear_pathway]
 category: clear_pathway
@@ -193,6 +193,6 @@ Fiji is a tropical South Pacific archipelago of ~330 islands and the region's se
 - Deposit requirements for retirees (F$100,000) can be a hurdle
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes**: Citizenship of Fiji (Amendment) Act 2026 — naturalisation residence rising to 8-of-10 years, PR requirement from 2035.
 - **Watch items**: Transitional naturalisation window (to 2035); possible permanent-residence requirement formalisation.

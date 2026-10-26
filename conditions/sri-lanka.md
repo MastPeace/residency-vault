@@ -12,7 +12,7 @@ sources:
   - https://eservices.immigration.gov.lk/golden-paradise-visa.html
   - https://www.immigration.gov.lk/pages_e.php?id=4
 country_code: LK
-last_checked: 2026-10-19
+last_checked: 2026-10-26
 ---
 
 ## Overview
@@ -203,6 +203,6 @@ Sri Lanka is an island nation south of India known for its beaches, tea, and Bud
 - Limited yachting and IT infrastructure
 
 ## Status
-- **Last monitored**: 2026-10-19
+- **Last monitored**: 2026-10-26
 - **Recent changes known**: Golden Paradise Visa promotion ongoing; Investor Visa tiers (US$100,000/5yr, US$200,000/10yr).
 - **Watch items**: Golden Paradise uptake; dual-citizenship fee/investment criteria.
