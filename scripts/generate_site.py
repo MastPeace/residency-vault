@@ -1079,7 +1079,7 @@ sup.footnote-ref { font-size: 11px; } sup.footnote-ref a { text-decoration: none
 .ctable thead th { position: sticky; top: 56px; z-index: 6; background: var(--bg); box-shadow: 0 1px 0 var(--line-strong); }
 .ctable thead th:first-child { z-index: 8; }
 .tscroll { overflow: visible; }
-@media (max-width: 1240px) { .tscroll { overflow-x: auto; } .ctable thead th { position: static; } }
+@media (max-width: 1240px) { .tscroll { overflow-x: auto; } .ctable thead th { position: static; top: auto; } .ctable thead th:first-child { position: sticky; top: auto; left: 0; } }
 .ctable th:first-child, .ctable td:first-child { position: sticky; left: 0; z-index: 2; background: var(--bg); box-shadow: 1px 0 0 var(--line); }
 .ctable tbody tr:hover td:first-child { background: var(--accent-soft); }
 .ctable th, .ctable td { padding-left: 6px; padding-right: 6px; }

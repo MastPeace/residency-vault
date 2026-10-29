@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [Unreleased]
 
 ### Fixed
+- **Mobile country table:** the COUNTRY header cell was pushed ~56px down onto the first row at widths up to 1240px (its sticky `top` offset survived the `position: static` override of the other header cells). The first header cell now keeps only the horizontal sticky.
 - **Turkey (user feedback via bot):** property-owner short-term residence corrected (≥ $200,000 appraised value since Oct 2023, own-use only, 25% foreigner-density closed neighborhoods, income proof, 1–2 year term); added the rental/tourist short-term residence route; removed duplicate `retired_residency` row. RU translation will refresh via `translate_ru.py --stale`.
 
 ### Fixed
