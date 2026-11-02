@@ -12,7 +12,7 @@ sources:
   - https://adamfayed.com/blog/immigration-citizenship/egypt-residence-by-investment
   - https://uglobal.com/immigration/egypt
 country_code: EG
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -140,7 +140,7 @@ Egypt is one of the few MENA countries with BOTH a residency-by-investment frame
 Egypt is the most accessible residency/CBI destination in MENA for Russian nationals. The CBI programme (from $250,000) is the cheapest in the region and includes routes that work for many profiles. The real estate residence route is accessible from ~$50,000. Quality of life in expat areas of Cairo, Hurghada, and El Gouna is good at low cost. Main drawbacks: weak passport (~49 visa-free), currency instability (EGP devaluation), bureaucracy, and infrastructure challenges outside premium zones. For those prioritizing affordability and access over passport strength, Egypt is a genuine contender.
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: CBI programme amended under March 2023 decree — formalized real estate and bank deposit routes for residency. CBI thresholds unchanged since 2019. Currency devaluation (EGP float) continued through 2024–2026.
 - **Watch items**: Potential CBI threshold adjustment (inflation erosion). Currency regime developments. EGP trajectory.
 

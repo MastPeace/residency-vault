@@ -11,7 +11,7 @@ sources:
   - https://data.worldbank.org/country/MW
   - https://freedomhouse.org/country/malawi/freedom-world/2025
 country_code: MW
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -185,6 +185,6 @@ Malawi is a landlocked southeastern African country with a densely populated agr
 - Reliance on single agricultural exports (tobacco, tea); cyclical food insecurity
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: Immigration (Amendment) Regulations 2025 (published Jan 2026) introduced updated permit categories.
 - **Watch items**: Immigration regulations implementation. Citizenship Act amendments. Economic stability.

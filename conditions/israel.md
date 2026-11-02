@@ -12,7 +12,7 @@ sources:
   - https://welcome-israel.com/israeli-citizenship/israeli-citizenship-by-investment
   - https://rewireabroad.com/visas/israel-digital-nomad-visa
 country_code: IL
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -131,7 +131,7 @@ Israel offers citizenship through four main routes:
 Israel is fundamentally a Jewish immigration country (Law of Return). For eligible individuals, the Aliyah pathway is unmatched: automatic citizenship, dual nationality, 10-year tax holiday, strong passport. For non-Jewish immigrants, it's a standard developed-country system: work visas, naturalization after 3+ years, high tax, high cost of living. The announced DN visa may improve access for non-Jewish remote workers. Israeli bureaucracy is notoriously complex. The security situation and regional tensions are a consideration for potential residents.
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: Digital Nomad Visa announced (2026, pending full implementation). Innovation visa ecosystem expanding. Citizenship Law stable.
 - **Watch items**: Full implementation of Digital Nomad Visa. Potential changes to Law of Return eligibility criteria (periodic political debate).
 

@@ -12,7 +12,7 @@ sources:
   - https://www.mha.gov.in/sites/default/files/2022-08/OCIIntroduction_23072021%5B1%5D.pdf
   - https://indianvisaonline.gov.in/
 country_code: IN
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -203,7 +203,7 @@ India is the world's most populous country and fifth-largest economy, a rising t
 - Infrastructure and pollution challenges in major cities
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes (26-10)**: Employment Visa minimum salary raised from INR 1,625,000 to INR 2,400,000 (~+47.7%, first change since 2018), effective immediately. ^[https://www.fragomen.com/insights/india-minimum-salary-level-for-employment-visas-significantly-increased.html]
 - **Recent changes known**: Employment Visa minimum salary raised to INR 2,400,000 (Oct 2026); OCI and visa categories otherwise stable.
 - **Watch items**: Any introduction of a residency-by-investment scheme (periodically discussed).

@@ -1,7 +1,7 @@
 ---
 title: Malaysia — Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-02
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, it_friendly, clear_pathway, digital-nomad, retirement]
@@ -12,7 +12,7 @@ sources:
   - https://www.mdec.my/
   - https://motac.gov.my/wp-content/uploads/2026/01/Terms-And-Regulations-For-New-Participants-Under-The-Malaysia-My-Second-Home-MM2H-.pdf
 country_code: MY
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -24,7 +24,7 @@ Malaysia's flagship residence program is Malaysia My Second Home (MM2H), restruc
 |------|-----------------|----------------|----------|--------|
 | investment_residency | MM2H (Platinum/Gold/Silver) | Fixed deposit US$1,000,000 / $500,000 / $150,000 | 20/15/5 yr | [[#investment-residency]] |
 | passive_income_residency | MM2H (residence on fixed deposit) | FD held in Malaysian bank; 50% withdrawable | 5–20 yr | [[#passive-income-residency]] |
-| digital_nomad_visa | DE Rantau Nomad Pass | Remote IT/digital work; ≥ US$24,000/yr income | 3–12 mo, renewable | [[#digital-nomad-visa]] |
+| digital_nomad_visa | DE Rantau Nomad Pass | Remote IT/digital work; ≥ US$24,000/yr income | 3–12 mo, renewable; 2-year extension available per Budget 2027 | [[#digital-nomad-visa]] |
 | highly_skilled_employment | Employment Pass I/II/III | Job offer; salary tiers (min RM5,000–30,000) | 1–5 yr | [[#highly-skilled-employment]] |
 | startup_entrepreneur | MTEP (Malaysia Tech Entrepreneur Programme) | Tech startup; 1-year pass | 1 yr, renewable | [[#startup-entrepreneur]] |
 | employment_residency | Employment Pass (PVP) | Job offer; employer-sponsored | 1–5 yr | [[#employment-residency]] |
@@ -232,6 +232,7 @@ Malaysia is a Southeast Asian federation straddling the Malay Peninsula and nort
 - Moderate political freedoms (Freedom House 52)
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes known**: MM2H three-tier restructure (Jun 2024); offshore income requirement dropped.
+- [2026-11-02] DE Rantau Nomad Pass extended to 2 years for holders reaching the stay limit, per Budget 2027 (announced 9 October 2026); new 5% special tax rate for global service hubs. ^[https://world.medianama.com/malaysia-plans-2-year-extension-for-digital-nomad-pass-holders-reaching-stay-limit]
 - **Watch items**: MM2H uptake by tier; DE Rantau sponsor rules.

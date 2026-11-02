@@ -12,7 +12,7 @@ sources:
   - https://www.visitbarbados.org/barbados-welcome-stamp
   - https://barbadoswelcomestamp.bb/applynow
 country_code: BB
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -204,7 +204,7 @@ Barbados is a high-income eastern Caribbean island nation and a stable parliamen
 - Long naturalization timeline (5–7 years) compared to CBI jurisdictions
 - Hurricane risk (though historically less exposed than northern Caribbean)
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - Last change: October 2025 — CARICOM free movement extended (Belize, Dominica, St Vincent).
 - Last monitored: 2026-09-14.
 - No open watch items.

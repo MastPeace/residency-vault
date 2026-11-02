@@ -14,7 +14,7 @@ sources:
   - https://www.visaverge.com/digitalnomads/montenegro-launches-digital-nomad-visa-for-remote-workers
   - https://digitalnomads.gov.me/article/legal-status-for-nomads
 country_code: ME
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -124,7 +124,7 @@ Expats report Montenegro as a friendly, affordable destination. Property-based r
 
 ## Status
 
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: New Law on Foreigners effective Jan 17, 2026 — formalized €150,000 property route. DN visa operating since 2022 amendments. CBI remains closed.
 - **Watch items**: EU accession progress (will affect property values). Potential changes to DN visa thresholds as minimum wage rises.
 

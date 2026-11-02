@@ -12,7 +12,7 @@ sources:
   - https://www.zambiaimmigration.gov.zm/the-citizenship-of-zambia-act-no-33-2016
   - https://media.zambialii.org/media/legislation/20802/source_file/a0318ed730b542f4/2016-33.pdf
 country_code: ZM
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -184,6 +184,6 @@ Zambia is a landlocked, English-speaking Southern African country whose economy 
 - Rule of law middling (WJP rank 103/142)
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: Visa waiver for 53 nationalities announced Dec 2024 to boost tourism; citizenship framework unchanged (Act 33/2016).
 - **Watch items**: Any digital-nomad visa introduction; investor-permit threshold changes.

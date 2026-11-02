@@ -13,7 +13,7 @@ sources:
   - https://www.deloitte.com/nl/en/services/tax/perspectives/highly-skilled-migrant-and-european-blue-card-2026-salary-thresholds.html
   - https://dutchreview.com/expat/daft-treaty-explainer
 country_code: NL
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -244,6 +244,6 @@ The Netherlands is a densely populated, highly developed Western European countr
 - Inburgering A2 Dutch requirement for citizenship/permanent residence
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: 30% ruling reduced to 5 years (from 8). HSM 2026 salary thresholds: €5,942 (30+), €4,357 (under 30). Proposed tighter HSM rules (July 2025 consultations) not yet implemented. EU Blue Card Directive 2021/1883 implementation ongoing.
 - **Watch items**: Monitor further HSM/30% ruling restrictions. Track Blue Card implementation progress. Watch for introduction of digital nomad or passive-income routes.

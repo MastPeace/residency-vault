@@ -11,7 +11,7 @@ sources:
   - https://freedomhouse.org/country/haiti/freedom-world/2025
   - https://www.passportindex.org/passport/haiti
 country_code: HT
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -156,6 +156,6 @@ Haiti occupies the western third of the island of Hispaniola. It is the poorest 
 - No residency-by-investment, no CBI, no structured programmes
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: FH declined from 30 to 24/100 (2025). No meaningful immigration liberalisation.
 - **Watch items**: Prospects for a transitional government to hold elections and restore order; resumption of deportations.

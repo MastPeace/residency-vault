@@ -1,7 +1,7 @@
 ---
 title: New Zealand — Residency & Citizenship Conditions
 created: 2026-09-14
-updated: 2026-10-19
+updated: 2026-11-02
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, skilled-migrant, investor-visa, strong_passport]
@@ -12,7 +12,7 @@ sources:
   - https://www.immigration.govt.nz/about-us/news-centre/final-details-about-changes-to-the-skilled-migrant-category-resident-visa-and-work-to-residence-visa
   - https://nzimmigration.info/dual-citizenship-nz-complete-guide
 country_code: NZ
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -127,8 +127,9 @@ New Zealand imposed sanctions on Russia in 2022. Visa processing for Russian nat
 - **[rule_change]** Новая Зеландия завершила реформу категорий Skilled Migrant Category и Work to Residence: изменения вступили в силу с 1 июля 2026 года. ^[https://www.envoyglobal.com/news-alert/new-zealand-finalizes-skilled-migrant-category-and-work-to-residence-changes/]
 - **[processing_update]** Новая Зеландия вводит обязательную онлайн-подачу для отдельных категорий виз посетителей и транзитных виз с сентября 2026 года. ^[https://www.envoyglobal.com/news-alert/new-zealand-to-require-online-filing-for-selected-visitor-and-transit-visa-applications/]
 - **[rule_change]** Правительство Новой Зеландии объявило об изменениях в категории Parent Resident Visa: новый процесс отбора Expression of Interest (EOI) вступает в силу в 2026 году. ^[https://www.immigration.govt.nz/about-us/news-centre/changes-to-the-parent-resident-visa-category]
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: Major SMC reform efective August 24, 2026 — two new pathways (Skilled Work Experience, Trades & Technician), extra points for NZ qualifications, more points for overseas bachelor's degrees, wage threshold grace periods.
+- [2026-11-02] From 16 November 2026, 4 partner and child visa categories migrate to Immigration Online platform; maximum guest visa for children of citizens/residents increased from 9 to 12 months. ^[https://www.legit.ng/people/1738124-new-zealand-lists-4-visa-categories-affected-by-immigration-rule]
 - **Watch items**: SMC draw outcomes under the new system. Active Investor Plus uptake.
 
 

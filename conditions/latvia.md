@@ -12,7 +12,7 @@ sources:
   - https://www.pmlp.gov.lv/en/naturalisation
   - https://www.pmlp.gov.lv/en/article/government-approves-regulation-remote-work-visas
 country_code: LV
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -89,7 +89,7 @@ Latvia has adopted a highly restrictive stance toward Russian citizens since 202
 ## Status
 - **[suspension]** Латвия официально закрыла 16-летнюю программу «золотой визы» (residence-by-investment) с 15 сентября 2026 года с вступлением в силу нового Иммиграционного закона. ^[https://www.visasupdate.com/post/latvia-ends-golden-visa-program-2026]
 - **[rule_change]** Новый Иммиграционный закон Латвии, принятый Сеймом 20 августа 2026 года, вступил в силу 15 сентября: заявители на визы и ВНЖ обязаны подавать документы лично, введены новые требования. ^[https://www.pmlp.gov.lv/en/article/new-immigration-law-takes-effect-key-changes-and-regulations]
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes (26-10)**: New Immigration Law ends the golden visa property route for new temporary-residence applications; the state alternative-investment fund required for the route has not yet been created. ^[https://getgoldenvisa.com/latvia-reshapes-its-golden-visa-property-route-ends-under-new-immigration-law]
 - **Recent changes**: September 2026 — Latvian President signed law restricting Golden Visa issuance (details still emerging). Golden Visa core framework under political pressure.
 - **Watch items**: Monitor Golden Visa restriction law implementation. Track any DN visa policy changes.

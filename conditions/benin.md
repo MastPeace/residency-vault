@@ -12,7 +12,7 @@ sources:
   - https://www.dualcitizenship.com/countries/benin
   - https://citizenshiprightsafrica.org/en/benin-government-proposes-bill-to-recognize-afro-descendants-as-nationals
 country_code: BJ
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -184,6 +184,6 @@ Benin is a Francophone West African country on the Gulf of Guinea, cradle of the
 - Limited infrastructure and leisure-yacht facilities
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: Afro-descendant nationality recognition law (2024/25) — first recipients granted citizenship.
 - **Watch items**: Implementation of Afro-descendant recognition; any digital-nomad visa in Francophone West Africa.

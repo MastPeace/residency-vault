@@ -11,7 +11,7 @@ sources:
   - http://zimparis.gov.zw/index.php/consular/registration/zimbabwean-citizenship
   - https://en.wikipedia.org/wiki/Zimbabwean_nationality_law
 country_code: ZW
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -183,6 +183,6 @@ Zimbabwe is a landlocked Southern African country with a well-educated, English-
 - Emigration (brain drain) and limited consumer market
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: No major immigration-policy shifts known; 2013 Constitution dual-citizenship framework in force.
 - **Watch items**: Any permit/visa liberalisation; economic stabilisation impact on expat attractiveness.

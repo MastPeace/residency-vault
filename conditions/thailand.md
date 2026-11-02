@@ -12,7 +12,7 @@ sources:
   - https://thaievisa.go.th/
   - https://image.mfa.go.th/mfa/0/91fPdh6NtO/VISA_Information/DTV_Revised_16_July_2024.pdf
 country_code: TH
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -234,7 +234,7 @@ Thailand is a Southeast Asian constitutional monarchy known for its tourism econ
 - Seasonal air-quality (Bangkok/Chiang Mai) and monsoon/heat
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes known**: DTV launched Jul 2024; 2024 foreign-income remittance taxation; LTR ongoing.
 - **Watch items**: Implementation/clarification of the 2024 tax change; DTV conversion rules.
 

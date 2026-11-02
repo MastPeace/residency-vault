@@ -3,7 +3,7 @@ title: Eswatini — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-12
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 type: entity
 tags: [residence, citizenship, employment_residency, tax]
 category: clear_pathway
@@ -170,6 +170,6 @@ Eswatini is a small, landlocked absolute monarchy in Southern Africa within the 
 - Discretionary, monarchy-controlled naturalisation
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: No immigration-policy changes confirmed.
 - **Watch items**: Any liberalisation of dual-nationality rules; investor-residence proposals (none active).

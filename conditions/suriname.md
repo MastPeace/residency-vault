@@ -3,7 +3,7 @@ title: Suriname — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-13
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 type: entity
 tags: [residence, citizenship, employment_residency, tax]
 category: clear_pathway
@@ -172,6 +172,6 @@ Suriname is a small, culturally diverse, Dutch-speaking country on South America
 - Debt burden and past macroeconomic instability
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: No immigration-policy changes confirmed; president floated a CBI idea in a 2024 annual speech (not enacted).
 - **Watch items**: Possible CBI legislation; dual-nationality reform; PSA programme updates.

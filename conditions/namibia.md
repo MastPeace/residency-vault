@@ -1,7 +1,7 @@
 ---
 title: Namibia — Republic of Namibia
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-11-02
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, digital-nomad, it_friendly]
@@ -11,7 +11,7 @@ sources:
   - https://www.nipdb.com/digital-nomad-visa
   - https://www.ensafrica.com/news/detail/6394/a-look-at-the-digital-nomad-visa-namibian-per
 country_code: NA
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -21,7 +21,7 @@ Namibia launched its Digital Nomad Visa in 2023, offering a 6-month stay for rem
 
 | Type | Official Program | Key Conditions | Duration | Citizenship Path |
 |------|-----------------|----------------|----------|------------------|
-| investment_residency | Business Investment Permit | Business registration; capital investment; local employment | 1–2 years, renewable | PR after 5+ years; citizenship long and restrictive |
+| investment_residency | Employment Permit to Conduct Business | NIPDB application; economic contribution; fee 2,600 NAD | Up to 5 years (from Sep 2026) | PR after 5+ years; citizenship long and restrictive |
 | passive_income_residency | Not available | — | — | — |
 | digital_nomad_visa | Digital Nomad Visa | USD 2,000/mo income; +1,000 spouse; +500 child; foreign employer/clients; NAD 3,300 fee ^[https://www.nipdb.com/digital-nomad-visa] | 6 months, NON-RENEWABLE (reapply after 12-month gap) ^[https://www.nipdb.com/digital-nomad-visa] | None — does NOT count toward PR or citizenship |
 | highly_skilled_employment | Long-Term Work Permit | Job offer; employer sponsorship; rare skills | 1–2 years, renewable | PR after 5+ years |
@@ -75,8 +75,9 @@ Namibia has an Atlantic coastline (Walvis Bay, Lüderitz). Limited yacht facilit
 Visa-free entry for 30 days for Russian citizens. DN visa accessible. Namibia maintains neutral relations with Russia. Small expat community. Banking: available but limited compared to South Africa or Mauritius.
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: DN visa operational since 2023. No major changes reported.
+- [2026-11-02] New "Employment Permit to Conduct Business" introduced 1 September 2026 for foreign investors via NIPDB: valid up to 5 years (previously investment residence was 2 years); fee 2,600 NAD; replaces/supplements the Business Investment Permit. ^[https://www.fragomen.com/insights/namibia-new-investor-and-business-owner-permit-introduced.html]
 - **Watch items**: Monitor any extension of DN visa duration or removal of non-renewable restriction.
 
 ## Country Snapshot

@@ -12,7 +12,7 @@ sources:
   - https://kemlu.go.id/files-service/storage/childmenu/additional_file/1729524087671671775b15a_Indonesian_Golden_Visa.pdf
   - https://evisa.imigrasi.go.id/
 country_code: ID
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -231,6 +231,6 @@ Indonesia is the world's fourth-most-populous country and largest archipelago, s
 - Infrastructure gaps (traffic, flood risk in Jakarta)
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes known**: Golden Visa launched Jul 2024 (5–10 yr tiers); Remote Worker E33G and Second Home E33 visas active.
 - **Watch items**: Golden Visa uptake; possible dual-citizenship reform for diaspora (discussed since 2024).

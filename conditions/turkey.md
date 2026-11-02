@@ -1,7 +1,7 @@
 ---
 title: Turkey — Turkey
 created: 2026-09-13
-updated: 2026-10-13
+updated: 2026-11-02
 extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, tax, citizenship-by-investment, popular_ru, strong_passport, yacht_captain]
@@ -13,7 +13,7 @@ sources:
   - https://en.wikipedia.org/wiki/Turkish_Citizenship_by_Investment
   - https://www.invest.gov.tr/en/news/news-from-turkey/pages/new-turkish-citizenship-rules-encourage-foreign-investment.aspx
 country_code: TR
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -137,8 +137,9 @@ CBI program is well-established and fast. Main risk: fraud in the application ch
 
 ## Status
 
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: August 2026 — 6,134 fraudulently obtained citizenships revoked. 2026 tax reform: 20-year foreign income exemption for relocating individuals.
+- [2026-11-02] Updated CBI regulation published 27 October 2026: real estate threshold remains $400,000; property valuation rules changed 28 September 2026; Council of Ministers may adjust thresholds by presidential decree. ^[https://www.delilavukatlik.com/en/post/turkish-citizenship-by-investment]
 - **Watch items**: Potential CBI threshold increase (rumored to $600,000). Post-revocation due diligence tightening. Impact of tax reform on relocant inflow.
 
 ## Country Snapshot

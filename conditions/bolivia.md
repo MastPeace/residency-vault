@@ -12,7 +12,7 @@ sources:
   - https://consulados.cancilleria.gob.bo/washington-dc/visas
   - https://bo.usembassy.gov/information-on-entry-exit-and-visa-requirements
 country_code: BO
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -125,7 +125,7 @@ Landlocked country. No maritime/yacht residency relevance.
 - **Confidence note**: Official English documentation is sparse; several program details could not be verified against a single authoritative source. Medium confidence.
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - Last change: US citizens granted visa-free tourism/business entry (December 2025). ^[https://bo.usembassy.gov/message-to-u-s-citizens-visitor-visas-no-longer-required-december-3-2025]
 - Last monitored: 2026-09-14.
 ## Country Snapshot

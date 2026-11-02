@@ -12,7 +12,7 @@ sources:
   - https://goldenharbors.com/articles/argentina-citizenship
   - https://goldenharbors.com/articles/argentina-digital-nomad-visa
 country_code: AR
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -137,7 +137,7 @@ Argentina's 2-year citizenship timeline is among the fastest globally and is the
 
 ## Status
 - **[new_program]** Аргентина объявила о запуске программы «гражданство за инвестиции» (CBI): два маршрута — безвозвратный взнос в казначейство $350 000 или инвестиция $800 000 в государственные ценные бумаги. Приём заявок ожидается в IV квартале 2026 года. ^[https://alybayat.com/journal/posts/argentina-citizenship-by-investment-2026]
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes (26-10)**: CBI thresholds clarified at US$350,000 (Treasury contribution) or US$800,000 (public bonds); opposition introduced bills to repeal the CBI regime (rumor). ^[https://www.lt10.com.ar/noticia/510872--ciudadania-por-inversion-como-funcionara-en-argentina&seccion=nacionales] ^[https://www.parlamentario.com/2026/10/07/otro-proyecto-para-derogar-el-regimen-de-ciudadania-por-inversion-impulsado-por-el-gobierno/]
 - **Recent changes**: Decree 366/2025 (May 2025) — tightened residency continuity, citizenship processing moved to DNM. Decree 524/2025 (July 2025) — CBI framework. SMVM minimum wage updates alter Rentista thresholds periodically.
 

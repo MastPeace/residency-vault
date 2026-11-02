@@ -1,7 +1,7 @@
 ---
 title: Armenia — Armenia
 created: 2026-09-13
-updated: 2026-10-26
+updated: 2026-11-02
 extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, tax, rule_change, popular_ru]
@@ -12,7 +12,7 @@ sources:
   - http://diaspora.gov.am/en/pages/121
   - https://en.wikipedia.org/wiki/Armenian_citizenship
 country_code: AM
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -110,8 +110,9 @@ Expats report Armenia as welcoming and affordable. Yerevan has a growing interna
 
 ## Status
 
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes (26-10)**: Nov 1, 2026 reform confirmed — applications online-only via the unified electronic platform; permanent residence requires 3 years of temporary status; annual quotas and biometric cards introduced; decision term stays 30 days. ^[https://onebusiness.am/en/armenia/vnzh/novye-pravila-2026]
+- [2026-11-02] State duty for temporary residence set at 150,000 dram ($414), permanent residence at 250,000 dram ($690); applications via new electronic system; 30-day processing. ^[https://internationalinvestment.biz/en/migration/8907-how-to-get-a-residence-permit-in-armenia-in-2026-what-changes-from]
 - **Recent changes**: Comprehensive immigration reform from Nov 1, 2026 (delayed from original Aug 1, 2026 deadline) — work visas, labor market test abolished, digitalization, business VNZh thresholds AMD 2,000,000/1M, employer notification. Citizenship law amendment proposed (Sep 9, 2026) — residence requirement 3→5 years, fee increases (50K→250K AMD for application, 150K→1.5M AMD for renunciation), tightened physical presence requirements (549 days/3yr for spouses, 915 days/5yr general). Visa exemption for 111 countries extended through Jul 2027.
 - **Watch items**: Status of citizenship law amendments. Reform implementation and potential backlogs from Nov 1, 2026. CBI proposal ($150,000 investment → citizenship) — track government decree status.
 

@@ -11,7 +11,7 @@ sources:
   - https://www.gob.mx/inm
   - https://consulmex.sre.gob.mx/washington/images/2026/visas/eng/Temporary_resident.pdf
 country_code: MX
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -112,7 +112,7 @@ Mexico grants 180-day visa-free entry to Russian passport holders. Temporary Res
 The dominant complaints are consulate-to-consulate variance in financial thresholds and INM processing delays. The July 2025 tightening of direct permanent residency to retirees-only was significant. The Temporary Residency route remains the standard on-ramp. Mexico's 5-year citizenship timeline is average for the region.
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: July 2025 — direct permanent residency restricted to retirees/pensioners only. 2026 fee increases — government fees for residency roughly doubled.
 ## Country Snapshot
 

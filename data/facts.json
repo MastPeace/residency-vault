@@ -634,15 +634,15 @@
   }
  },
  "cuba": {
-  "hash": "f9154437c329d074",
-  "extracted": "2026-10-12",
+  "hash": "97febcbdbb1c69f2",
+  "extracted": "2026-11-02",
   "gv_min": null,
   "remote_visa": {
    "available": false,
    "min_income": null,
    "currency": null,
    "period": null,
-   "evidence": "digital_nomad_visa | Not available"
+   "evidence": "Not available"
   },
   "remote_tax": null
  },
@@ -1084,15 +1084,15 @@
   "remote_tax": null
  },
  "guyana": {
-  "hash": "64238b2844db6922",
-  "extracted": "2026-10-12",
+  "hash": "d15cb9a1914b64b1",
+  "extracted": "2026-11-02",
   "gv_min": null,
   "remote_visa": {
    "available": false,
    "min_income": null,
    "currency": null,
    "period": null,
-   "evidence": "digital_nomad_visa | Not available"
+   "evidence": "Not available"
   },
   "remote_tax": null
  },
@@ -1534,8 +1534,8 @@
   "remote_tax": null
  },
  "malaysia": {
-  "hash": "73b9c1140a4aeef1",
-  "extracted": "2026-10-12",
+  "hash": "166755720c5c0957",
+  "extracted": "2026-11-02",
   "gv_min": {
    "amount": 150000,
    "currency": "USD",
@@ -1751,8 +1751,8 @@
   }
  },
  "namibia": {
-  "hash": "9a21f097b778912f",
-  "extracted": "2026-10-12",
+  "hash": "0b1390e0fb71c8bb",
+  "extracted": "2026-11-02",
   "gv_min": null,
   "remote_visa": {
    "available": true,
@@ -1764,7 +1764,7 @@
   "remote_tax": {
    "low_pct": 0,
    "high_pct": 37,
-   "evidence": "0%–37% progressive (top rate on NAD 1,500,000+/yr); 6-month DN visa unlikely to trigger residence"
+   "evidence": "progressive 0%–37% (top rate on NAD 1,500,000+/yr, ~USD 80,000)"
   }
  },
  "netherlands": {

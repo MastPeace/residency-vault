@@ -12,7 +12,7 @@ sources:
   - https://www.udi.no/en
   - https://www.skatteetaten.no/en/person/taxes/tax-deduction-card-and-advance-tax/i-am-a-foreign-employee/paye
 country_code: NO
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -111,7 +111,7 @@ Norway has one of the world's longest and most dramatic coastlines (fjords, 50,0
 Norway applies EU-aligned sanctions via EEA membership. The land border with Russia (Storskog) is heavily controlled and crossing is restricted. Visa processing is severely restricted for Russian citizens. The skilled worker route is technically open but employer-side commitment and credential verification are significant barriers. Norway has no meaningful Russian-speaking immigration community. The 8-year citizenship path + language requirement is long.
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: New requirements for sponsor's language training and social studies for family reunification (2026). Non-EU tuition fees introduced 2023. Dual citizenship law implemented 2020.
 - **Watch items**: Monitor any increase in the skilled worker salary threshold. Track credential verification reforms for vocational applicants. Watch for citizenship residence period adjustments.
 

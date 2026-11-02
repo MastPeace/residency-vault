@@ -12,7 +12,7 @@ sources:
   - https://www.evisa.gov.et/information/residence-visa
   - https://ics.gov.et/services/renewal-of-residence-permit
 country_code: ET
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -75,7 +75,7 @@ Not applicable — landlocked country.
 eVisa available for Russian citizens. Ethiopia maintains historically close relations with Russia (dating to Soviet era). Addis Ababa has a notable Russian-speaking community. Banking: functional but FX restrictions apply. The dual citizenship prohibition is a critical consideration.
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: FX Directive 1011/2024 introduced changes. ICS services moving online. No major immigration reforms.
 - **Watch items**: Monitor telecom liberalisation (internet improvements). Track any citizenship law amendments.
 

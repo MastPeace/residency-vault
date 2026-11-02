@@ -3,7 +3,7 @@ title: San Marino — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-13
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 type: entity
 tags: [residence, citizenship, tax, strong_passport]
 category: strong_passport
@@ -197,6 +197,6 @@ San Marino is a 61 km² landlocked republic entirely surrounded by Italy, claimi
 - Italian language required for citizenship
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: IGR ordinary rate set at 18% for 2026–2030; MONEYVAL AML framework reforms (2023) largely satisfied.
 - **Watch items**: Any change to atypical/facilitated residence thresholds; citizenship reform.

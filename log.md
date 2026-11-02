@@ -127,3 +127,17 @@
 - Types: 2 new_program, 14 rule_change, 2 processing_update, 6 rumor
 - Alert: alerts/2026-10-26.md
 
+## [2026-11-02] update | Weekly monitor — 10 pages updated, 3 skipped
+- japan.md: PR changes additional details (income ~5.75M yen, pension 30 years, Japanese B1, spouse 5+3). ^[https://vialtopartners.com/regional-alerts/japan-immigration-significant-changes-to-permanent-residence-rules]
+- armenia.md: State duty confirmed — 150,000 dram ($414) temporary, 250,000 dram ($690) permanent. ^[https://internationalinvestment.biz/en/migration/8907-how-to-get-a-residence-permit-in-armenia-in-2026-what-changes-from]
+- turkey.md: CBI regulation updated 27 Oct 2026; valuation rules changed 28 Sep 2026; presidential decree power. ^[https://www.delilavukatlik.com/en/post/turkish-citizenship-by-investment]
+- guyana.md: Work entry permit validity reduced 6→3 months; extensions 3+1 months; work permits now simultaneous with entry. ^[https://www.fragomen.com/insights/guyana-approval-validity-reduced-work-authorization-timelines-tightened.html]
+- namibia.md: New Employment Permit to Conduct Business (NIPDB) up to 5 years, fee 2,600 NAD. ^[https://www.fragomen.com/insights/namibia-new-investor-and-business-owner-permit-introduced.html]
+- malaysia.md: DE Rantau Nomad Pass 2-year extension (Budget 2027); 5% tax for global service hubs. ^[https://world.medianama.com/malaysia-plans-two-year-extension-for-digital-nomad-pass-holders-reaching-stay-limit]
+- morocco.md: Short-Term Work Authorization (STWA) introduced — no labor market test, all professions. ^[https://www.fragomen.com/insights/morocco-new-short-term-work-authorization-available.html]
+- new-zealand.md: 4 partner/child visa categories → Immigration Online from 16 Nov 2026; guest visa 9→12 months. ^[https://www.legit.ng/people/1738124-new-zealand-lists-4-visa-categories-affected-by-immigration-rule]
+- cuba.md: New migration law Nov 2026: 120-day presence (not 180); investor and entrepreneur status introduced; two citizen categories. ^[https://en.cibercuba.com/noticias/2026-10-06-u1-e13-s27061-nid342057-cuba-cambia-sus-reglas-migratorias-1-noviembre-deben]
+- hong-kong.md: First five-year plan: "30,000 Youth Employment and Internship", Tier 2 vetting expansion, MPF portability. ^[https://www.humanresourcesonline.net/hong-kong-unveils-first-five-year-plan-and-policy-address-prioritising-ai-talent-and-population-development]
+- Skipped (already present): albania (Unique Permit), kuwait (15-year investor residency), qatar (Executive/Entrepreneur residency).
+
+

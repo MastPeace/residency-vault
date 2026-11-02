@@ -11,7 +11,7 @@ sources:
   - https://www.omanobserver.om/article/1191803/oman/rop/oman-updates-property-linked-visas-residency-rules-for-foreign-investors
   - https://gulfnews.com/story/world/gulf/oman/oman-eases-residency-rules-grants-sponsor-free-visas-for-foreign-property-owners-2-1.500583051
 country_code: OM
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -112,7 +112,7 @@ Oman has recently reformed its residency framework for foreign property owners a
 Oman is quiet, safe, and culturally more relaxed than Saudi Arabia. The 2026 residency reforms are a significant liberalization, making property-linked residence sponsor-free. The expat community is smaller and more low-key than UAE/Qatar. Quality of life is high, cost of living moderate. Main limitation: narrow residency pathway options, no citizenship path, small job market.
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: Decision No. 87/2026 (Jun 2026) — major reform: sponsor-free property visas, expanded family sponsorship, unregistered property visas, investor residency without sponsor.
 - **Watch items**: Implementation of 2026 reforms in practice. Potential expansion to digital nomad or retirement visas.
 

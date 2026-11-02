@@ -1,7 +1,7 @@
 ---
 title: Morocco — Kingdom of Morocco
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-11-02
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, tax, popular_ru]
@@ -11,7 +11,7 @@ sources:
   - https://wafir.ma/en/guide/moving-morocco-financial-guide-2026
   - https://klairarno.com/en/buying-property-in-morocco-as-a-foreigner
 country_code: MA
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -124,8 +124,9 @@ Morocco offers a welcoming environment for foreign residents but does NOT have a
 Morocco is not a "residency programme" country — it's a lifestyle destination with standard immigration processes. The 80% pension abatement makes it exceptionally attractive for retirees with foreign pensions. The lack of a formal investment residency or digital nomad visa is a gap. Bureaucracy is significant and French/Arabic proficiency is helpful. It remains genuinely welcoming to foreigners.
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: IGOC 2026 (convertibility regime) updated for foreign-currency property purchases. No major changes to residency framework.
+- [2026-11-02] Short-Term Work Authorization (STWA) introduced for urgent tasks without labor market test, available for all professions; requires social security and tax registration. ^[https://www.fragomen.com/insights/morocco-new-short-term-work-authorization-available.html]
 - **Watch items**: Potential digital nomad visa introduction (under discussion). Continued development of Tangier Tech City and other investment zones.
 
 ## Country Snapshot

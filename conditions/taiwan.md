@@ -12,7 +12,7 @@ sources:
   - https://www.ris.gov.tw/
   - https://www.immigration.gov.tw/
 country_code: TW
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -212,6 +212,6 @@ Taiwan is a high-income island democracy with a world-leading semiconductor and 
 - Not measured in some global indices (WJP) due to non-UN-member status
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes known**: None material to Gold Card or naturalization in 2025–2026.
 - **Watch items**: Any Gold Card threshold changes; high-level professional naturalization usage.

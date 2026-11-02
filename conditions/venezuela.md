@@ -3,7 +3,7 @@ title: Venezuela — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-10-11
 extended_snapshot: 2026-10-13
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 type: entity
 tags: [residence, citizenship, tax]
 category: clear_pathway
@@ -178,6 +178,6 @@ Venezuela is a South American country with the world's largest proven oil reserv
 - No investment-residence or nomad visa
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: No immigration-policy changes confirmed; political crisis post-2024 election continues.
 - **Watch items**: Any normalisation/opening of residence policy; passport-strength changes as relations shift.

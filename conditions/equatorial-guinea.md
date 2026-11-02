@@ -11,7 +11,7 @@ sources:
   - https://data.worldbank.org/country/GQ
   - https://freedomhouse.org/country/equatorial-guinea/freedom-world/2025
 country_code: GQ
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -185,6 +185,6 @@ Equatorial Guinea is a small, oil-rich Central African nation and one of the wor
 - Weak passport; one of Africa's least open
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: No known recent changes. Longstanding rule by President Teodoro Obiang (since 1979).
 - **Watch items**: Political succession. Oil depletion timeline. Human rights situation.

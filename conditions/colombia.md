@@ -12,7 +12,7 @@ sources:
   - https://migraciones.co/en
   - https://goldenharbors.com/articles/colombian-citizenship
 country_code: CO
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -138,7 +138,7 @@ Not a major yachting hub. Cartagena has marina facilities. No special yacht/capt
 - **Costs**: V visa ~USD 393–607 total (govt fees + issuance); M visa ~USD 427–642; R visa ~USD 863.
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - Last change: Resolution 5477 of 2022 restructured visa categories. Digital nomad visa introduced.
 - Last monitored: 2026-09-14.
 ## Country Snapshot

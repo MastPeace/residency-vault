@@ -11,7 +11,7 @@ sources:
   - https://www.oecd.org/content/dam/oecd/en/topics/policy-issue-focus/aeoi/turks-caicosislands-residency.pdf
   - https://www.gov.tc/
 country_code: TC
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -172,6 +172,6 @@ The Turks and Caicos Islands is a small, affluent British Overseas Territory sou
 - Small, tourism-concentrated job market; hurricane exposure
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: No material change recorded in 2025–26.
 - **Watch items**: PRC threshold publication; any move toward a formal investor-residence scheme.

@@ -1,7 +1,7 @@
 ---
 title: Cuba — Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-02
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, clear_pathway]
@@ -11,21 +11,21 @@ sources:
   - https://www.periodico26.cu/index.php/en/cuba-news-2/25548-new-immigration-foreigners-and-citizenship-laws-transform-cuba-s-migration-system
   - https://www.expatfocus.com/cuba/guide/cuba-citizenship
 country_code: CU
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
-Cuba's migration system is controlled by the state (DIIE, Dirección de Identificación, Inmigración y Extranjería). There is no residence or citizenship by investment. A major reform (new Immigration, Foreigners, and Citizenship Laws, reported May 2026) resets residency and citizenship rules — including a 180-days-per-year physical-presence test to maintain effective residency. Naturalisation needs 5 years' continuous permanent residence (two for spouses/parents of Cubans). ^[https://www.periodico26.cu/index.php/en/cuba-news-2/25548-new-immigration-foreigners-and-citizenship-laws-transform-cuba-s-migration-system]
+Cuba's migration system is controlled by the state (DIIE, Dirección de Identificación, Inmigración y Extranjería). There is no residence or citizenship by investment. A major reform (new Immigration, Foreigners, and Citizenship Laws, reported May 2026) resets residency and citizenship rules — including a 120-days-per-year physical-presence test to maintain effective residency. Naturalisation needs 5 years' continuous permanent residence (two for spouses/parents of Cubans). ^[https://www.periodico26.cu/index.php/en/cuba-news-2/25548-new-immigration-foreigners-and-citizenship-laws-transform-cuba-s-migration-system]
 
 ## Residency Programs
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Not available | — | — | — |
+| investment_residency | Investor residence (new, Nov 2026) | Investment under new migration law; DIIE approval | To be confirmed | — |
 | passive_income_residency | Not available | — | — | — |
 | digital_nomad_visa | Not available | — | — | — |
 | highly_skilled_employment | Work contract residence | Employment contract; state-approved | Up to 5 yr | [[#employment-residency]] |
-| startup_entrepreneur | Not available | — | — | — |
+| startup_entrepreneur | Entrepreneur residence (new, Nov 2026) | Business activity under new migration law; DIIE approval | To be confirmed | — |
 | employment_residency | Temporary residence (work) | Job contract; DIIE approval | Up to 5 yr | [[#employment-residency]] |
 | student_residency | Student residence | Enrollment at Cuban institution | Course duration | — |
 | family_reunification | Family residence | Cuban relative (spouse/parent/child) | Renewable | [[#family-reunification]] |
@@ -66,7 +66,7 @@ Marina Hemingway (Havana) is the main yacht facility; recreational boating is ti
 Cuba is a long-standing Russian ally; Russian nationals historically face fewer obstacles than Westerners, but the process remains bureaucratic and residence does not open a route to a stronger passport. Note the US context: Cubans enjoy the US Cuban Adjustment Act (CAA) — a fast track to a US Green Card — which is relevant to Cuban citizens, not foreign residents.
 
 ## Community Pulse
-Expat discussion emphasises that Cuban residency is slow, discretionary, and offers little mobility benefit — the Cuban passport is weak (Henley 57) and dual citizenship is effectively unavailable. The 2026 reform (180-day presence rule) tightened maintenance of residency further.
+Expat discussion emphasises that Cuban residency is slow, discretionary, and offers little mobility benefit — the Cuban passport is weak (Henley 57) and dual citizenship is effectively unavailable. The 2026 reform (120-day presence rule) tightened maintenance of residency further.
 
 ## Country Snapshot
 
@@ -85,7 +85,7 @@ Expat discussion emphasises that Cuban residency is slow, discretionary, and off
 | Effective personal tax rate for remote workers | Progressive to ~50% | See [[#tax]] [soft/estimate] |
 | Remote-work / self-employment residence available? | No (no DNV) | See [[#it--digital-nomad]] |
 | Years to citizenship | 5 yrs (2 yrs spouse/parent) | See [[#citizenship]] |
-| Maximum permitted absence during residence | 180 days/yr presence to maintain residency (2026 law) | See [[#overview]] |
+| Maximum permitted absence during residence | 120 days/yr presence to maintain residency (2026 law) | See [[#overview]] |
 | Passport strength after citizenship | 57 visa-free destinations (Henley 2026) | [Henley & Partners](https://cdn.henleyglobal.com/storage/app/media/HPI/Henley%20Passport%20Index%202026%20October%20Global%20Ranking.pdf) hard/official |
 | Rule of Law Index | No reliable data (not covered by WJP) | [WJP](https://worldjusticeproject.org/rule-of-law-index/) low |
 | Freedom House score | 10/100 (Not Free) | [Freedom House](https://freedomhouse.org/country/cuba/freedom-world/2025) hard/official |
@@ -169,9 +169,10 @@ Cuba is the largest Caribbean island, a one-party communist state with a state-c
 - Not Free (FH 10/100); one-party state, restricted civil liberties
 - Weak passport (Henley 57); dual citizenship effectively unavailable
 - No residence or citizenship by investment; slow discretionary process
-- 2026 reform tightened the 180-day presence requirement
+- 2026 reform tightened the 120-day presence requirement
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes**: New Immigration, Foreigners, and Citizenship Laws (reported May 2026; most provisions effective 180 days later). 180-day presence rule for effective residency.
+- [2026-11-02] New migration law effective November 2026: two citizen categories — "resident on national territory" and "resident abroad"; "effective migration residency" requires minimum 120 days of presence (corrected from earlier 180-day reports); new investor and entrepreneur residency status introduced. ^[https://en.cibercuba.com/noticias/2026-10-06-u1-e13-s27061-nid342057-cuba-cambia-sus-reglas-migratorias-1-noviembre-deben]
 - **Watch items**: Implementation of the 2026 reform; any liberalisation of foreign-investor residence.

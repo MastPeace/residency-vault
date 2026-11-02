@@ -1,7 +1,7 @@
 ---
 title: Hong Kong — Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-02
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, it_friendly, clear_pathway, investment-residency]
@@ -12,7 +12,7 @@ sources:
   - https://www.newcies.gov.hk/en/index.html
   - https://www.info.gov.hk/gia/general/202403/01/P2024022900797.htm
 country_code: HK
-last_checked: 2026-10-26
+last_checked: 2026-11-02
 ---
 
 ## Overview
@@ -214,6 +214,7 @@ Hong Kong is a densely built global financial centre and free port on China's so
 - TTPS extension requires actual employment or a business
 
 ## Status
-- **Last monitored**: 2026-10-26
+- **Last monitored**: 2026-11-02
 - **Recent changes known**: CIES real-estate threshold reduced (HK$50,000,000→HK$30,000,000, 2025 Policy Address); TTPS extension rules require employment.
+- [2026-11-02] First 5-year plan and 2026 Policy Address: "30,000 Youth Employment and Internship" programme launched; Tier 2 vetting mechanism expanding to new industries; MPF pension portability introduced; strengthened enforcement against illegal employment. ^[https://www.humanresourcesonline.net/hong-kong-unveils-first-5-year-plan-and-policy-address-prioritising-ai-talent-and-population-development]
 - **Watch items**: TTPS quota/extension policy review; any QMAS re-scoping.
