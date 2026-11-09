@@ -13,7 +13,7 @@ sources:
   - https://rumavi.com/en/property-guides/japan-residency-visas
   - https://www.japantimes.co.jp/news/2026/03/27/japan/politics/japan-new-naturalization-requirements
 country_code: JP
-last_checked: 2026-11-02
+last_checked: 2026-11-09
 ---
 
 ## Overview
@@ -234,7 +234,7 @@ Japan is an East Asian island nation with the world's second-strongest passport 
 
 ## Status
 - **Fix**: content restored from git 949a1bd after SCHEMA v3 template corruption (2026-10-11)
-- **Last monitored**: 2026-11-02
+- **Last monitored**: 2026-11-09
 - **Recent changes (26-10)**: PR guidelines revised 1 Oct 2026; the new guidelines apply to applications filed on or after 1 April 2027. ^[https://office-ishinagi.com/en/2026/10/18/japan-permanent-residency-guideline-changes-april-2027]
 - [2026-11-02] PR changes additional details: income must exceed household average (~5,750,000 yen/year counted from April 2026); 30 years of pension contributions required; Japanese language B1 level; spouses require 5 years of marriage and 3 years of residence in Japan. ^[https://vialtopartners.com/regional-alerts/japan-immigration-significant-changes-to-permanent-residence-rules]
 - **Recent changes (26-10)**: Immigration Services Agency plans to raise the minimum annual salary for Highly Skilled Professional status above the current ¥3,000,000. ^[http://mb.com.ph/2026/10/19/japan-to-raise-income-criteria-for-highly-skilled-foreigners]

@@ -1,7 +1,8 @@
 ---
 title: Cuba — Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-11-02
+updated: 2026-11-09
+old_updated: 2026-11-02
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, clear_pathway]
@@ -11,7 +12,7 @@ sources:
   - https://www.periodico26.cu/index.php/en/cuba-news-2/25548-new-immigration-foreigners-and-citizenship-laws-transform-cuba-s-migration-system
   - https://www.expatfocus.com/cuba/guide/cuba-citizenship
 country_code: CU
-last_checked: 2026-11-02
+last_checked: 2026-11-09
 ---
 
 ## Overview
@@ -67,6 +68,8 @@ Cuba is a long-standing Russian ally; Russian nationals historically face fewer 
 
 ## Community Pulse
 Expat discussion emphasises that Cuban residency is slow, discretionary, and offers little mobility benefit — the Cuban passport is weak (Henley 57) and dual citizenship is effectively unavailable. The 2026 reform (120-day presence rule) tightened maintenance of residency further.
+
+- **[rule_change]** Cuba introduced a new migration system: minimum stay reduced to 180 days/year; 24-month absence limit abolished for resident status retention. ^[https://www.riotimesonline.com/cuba-migration-laws-take-effect-24-month-limit-2026]
 
 ## Country Snapshot
 
@@ -172,7 +175,7 @@ Cuba is the largest Caribbean island, a one-party communist state with a state-c
 - 2026 reform tightened the 120-day presence requirement
 
 ## Status
-- **Last monitored**: 2026-11-02
+- **Last monitored**: 2026-11-09
 - **Recent changes**: New Immigration, Foreigners, and Citizenship Laws (reported May 2026; most provisions effective 180 days later). 180-day presence rule for effective residency.
 - [2026-11-02] New migration law effective November 2026: two citizen categories — "resident on national territory" and "resident abroad"; "effective migration residency" requires minimum 120 days of presence (corrected from earlier 180-day reports); new investor and entrepreneur residency status introduced. ^[https://en.cibercuba.com/noticias/2026-10-06-u1-e13-s27061-nid342057-cuba-cambia-sus-reglas-migratorias-1-noviembre-deben]
 - **Watch items**: Implementation of the 2026 reform; any liberalisation of foreign-investor residence.

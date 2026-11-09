@@ -1,7 +1,8 @@
 ---
 title: China — Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-10-19
+updated: 2026-11-09
+old_updated: 2026-10-19
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, work-permit, clear_pathway]
@@ -12,7 +13,7 @@ sources:
   - https://us.china-embassy.gov.cn/eng/lsfw/zj/notice/202509/t20250920_11712385.htm
   - https://www.mohrss.gov.cn/
 country_code: CN
-last_checked: 2026-11-02
+last_checked: 2026-11-09
 ---
 
 ## Overview
@@ -93,6 +94,8 @@ Visa required for Russian passport holders; no visa-free entry. Work and study v
 
 ## Community Pulse
 China is rarely a target for independent relocants or digital nomads because there is no self-sponsored residence route — everything routes through an employer, university, or family. The green card remains a prestige item, not a mainstream program. Main expat hubs: Shanghai, Beijing, Shenzhen.
+
+- **[rule_change]** China increased maximum stay for APEC Business Travel Card holders from 60 to 90 days, effective 1 November 2026. ^[http://english.shanghai.gov.cn/en-Latest-WhatsNew/20261103/5046b8abff1043dfa6546daf277ab451.html]
 
 ## Country Snapshot
 
@@ -200,7 +203,7 @@ China is the world's most populous country and second-largest economy, a manufac
 - Heavy bureaucratic compliance for residence permits and tax
 
 ## Status
-- **Last monitored**: 2026-11-02
+- **Last monitored**: 2026-11-09
 - **Recent changes known**: None material for foreign residence since 2025; visa categories stable.
 - **Watch items**: Any reform to permanent residence criteria; expansion of visa-free lists.
 

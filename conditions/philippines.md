@@ -1,7 +1,8 @@
 ---
 title: Philippines — Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-09
+old_updated: 2026-10-11
 extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, tax, clear_pathway, retirement, investment-residency]
@@ -11,7 +12,7 @@ sources:
   - https://www.pra.gov.ph/
   - https://www.immigration.gov.ph/
 country_code: PH
-last_checked: 2026-11-02
+last_checked: 2026-11-09
 ---
 
 ## Overview
@@ -102,6 +103,8 @@ Visa-free entry for Russian nationals (up to 30 days, extendable). SRRV/SIRV ope
 
 ## Community Pulse
 The SRRV is the flagship — cheap, indefinite, and popular with Western and Asian retirees. SIRV is less used. Main complaints: BI bureaucracy, slow judicial naturalization, and variable internet. The Philippines is seen as an affordable, English-speaking, friendly base rather than a citizenship play.
+
+- **[processing_update]** Philippines simplifies AEP process from 11 November 2026: standard processing reduced from 15 to 10 working days; mandatory newspaper publication for Labor Market Test abolished. ^[https://www.fragomen.com/insights/philippines-amendments-to-simplify-and-streamline-labor-market-test-other-alien-employment-permit-processes.html]
 
 ## Country Snapshot
 
@@ -209,6 +212,6 @@ The Philippines is a Southeast Asian archipelago of ~7,600 islands with a young,
 - Typhoons and seismic risk
 
 ## Status
-- **Last monitored**: 2026-11-02
+- **Last monitored**: 2026-11-09
 - **Recent changes known**: SRRV age floor adjusted to 40 (Classic 50+) with Smile option; no material 2025–2026 changes.
 - **Watch items**: SRRV deposit/age rules; any DN visa introduction.

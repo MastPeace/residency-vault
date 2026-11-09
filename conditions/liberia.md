@@ -1,7 +1,8 @@
 ---
 title: Liberia — Republic of Liberia
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-09
+old_updated: 2026-10-11
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, employment_residency, investment_residency, tax]
@@ -11,7 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Liberian_nationality_law
   - https://www.loc.gov/item/global-legal-monitor/2022-10-12/liberia-law-authorizing-dual-citizenship-and-allowing-women-to-pass-citizenship-to-their-children-enacted
 country_code: LR
-last_checked: 2026-11-02
+last_checked: 2026-11-09
 ---
 
 ## Overview
@@ -75,6 +76,8 @@ Visa required. Liberia maintains neutral relations with Russia. English is the w
 
 ## Community pulse
 Limited English-language expat forum data. The expat presence is small, concentrated in Monrovia (mining, NGOs, UN). No significant digital-nomad base. The Negro-descent citizenship restriction is a defining, frequently noted limitation.
+
+- **[processing_update]** Liberia work permit portal now requires invoice payment within 48 hours of approval — unpaid applications are cancelled. ^[https://visawand.com/news/liberia-work-permit-forty-eight-hour-invoice-reentry-deadline]
 
 ## Country Snapshot
 
@@ -182,6 +185,6 @@ Liberia is an English-speaking West African country on the Atlantic coast, Afric
 - Limited banking and financial services
 
 ## Status
-- **Last monitored**: 2026-11-02
+- **Last monitored**: 2026-11-09
 - **Recent changes**: July 2022 Aliens and Nationality Law amendment (dual citizenship; women may pass citizenship to children).
 - **Watch items**: Any expansion of the Negro-descent restriction; digital-nomad visa.

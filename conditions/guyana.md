@@ -3,7 +3,7 @@ title: Guyana — Residency & Citizenship Conditions
 created: 2026-10-11
 updated: 2026-11-02
 extended_snapshot: 2026-10-12
-last_checked: 2026-11-02
+last_checked: 2026-11-09
 type: entity
 tags: [residence, citizenship, employment_residency, tax]
 category: clear_pathway
@@ -172,7 +172,7 @@ Guyana is a small, English-speaking South American nation and CARICOM member on 
 - Under-developed infrastructure
 
 ## Status
-- **Last monitored**: 2026-11-02
+- **Last monitored**: 2026-11-09
 - **Recent changes**: No immigration-policy changes confirmed; CBI discussed but not legislated.
 - [2026-11-02] Work entry permit validity reduced from 6 to 3 months (PTL, EVOA, Work Permit Approval Letters); work permits now issued simultaneously with entry right, not after arrival; two extensions possible (3 months + 1 month), then full reapplication required. ^[https://www.fragomen.com/insights/guyana-approval-validity-reduced-work-authorization-timelines-tightened.html]
 - **Watch items**: Possible CBI introduction; work-permit capacity; border-tension spillover.

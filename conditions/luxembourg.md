@@ -1,7 +1,8 @@
 ---
 title: Luxembourg — Luxembourg
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-11-09
+old_updated: 2026-09-13
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, investment, it_friendly, strong_passport]
@@ -12,7 +13,7 @@ sources:
   - https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/investisseur/investisseur-pays-tiers.html
   - https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/hautement-qualifie/salarie-hautement-qualifie.html
 country_code: LU
-last_checked: 2026-11-02
+last_checked: 2026-11-09
 ---
 
 ## Overview
@@ -131,6 +132,8 @@ Luxembourg is landlocked. No maritime register. Yacht registration is handled vi
 ## Notes for RU citizens
 EU sanctions apply. The investor residence route is accessible in principle but requires source-of-funds verification and banking access, both currently difficult for Russian nationals. The Luxembourgish language requirement for citizenship is unique — A2 spoken + B1 comprehension of a small national language. No large Russian-speaking community. Third-country consulates handle applications.
 
+- **[rule_change]** Luxembourg is reforming first-time residence permits: a Type D visa replaces the temporary stay permit (autorisation de séjour temporaire), potentially increasing processing times. ^[https://www.luxtimes.lu/luxembourg/visa-replaces-temporary-stay-permit-in-luxembourg-immigration-shake-up]
+
 ## Country Snapshot
 
 | Field | Value | Source / Confidence |
@@ -239,6 +242,6 @@ Luxembourg is a tiny, exceptionally wealthy EU founding member with the world's 
 - High salary thresholds for work permits (Blue Card ~€78,000) reflect high-wage economy
 
 ## Status
-- **Last monitored**: 2026-11-02
+- **Last monitored**: 2026-11-09
 - **Recent changes**: Impatriate tax regime maintained. No major immigration reform in 2026.
 - **Watch items**: EU Blue Card salary threshold adjustments. Track investor residence approval statistics.

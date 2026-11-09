@@ -1,7 +1,8 @@
 ---
 title: Grenada — Residency & Citizenship Conditions
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-11-09
+old_updated: 2026-09-14
 extended_snapshot: 2026-10-12
 type: entity
 tags: [citizenship, citizenship_by_investment, cbi, strong_passport, tax]
@@ -11,7 +12,7 @@ sources:
   - https://imagrenada.gd/citizenship-by-investment
   - https://ntlinternational.com/press/grenada-cbi-regulations-2024
 country_code: GD
-last_checked: 2026-11-02
+last_checked: 2026-11-09
 ---
 
 ## Overview
@@ -70,6 +71,8 @@ Grenada operates an international ship registry. Yacht registration available. S
 - Work permits: US investors pay US$1,111 (XCD 3,000) annually — small, inexpensive work permit. ^[https://www.state.gov/wp-content/uploads/2025/09/638719_2025-Grenada-Investment-Climate-Statement.pdf]
 
 
+
+- **[suspension]** Grenada deferred the 30-day residence requirement for CBI applicants, days before its 31 August 2026 effective date. ^[https://www.imidaily.com/caribbean/grenada-defers-residence-requirement-days-before-its-august-31-commencement]
 
 ## Country Snapshot
 
@@ -178,7 +181,7 @@ Grenada is a tri-island eastern Caribbean nation (Grenada, Carriacou, Petite Mar
 - Small population and economy; limited infrastructure
 - Hurricane risk; climate vulnerability
 ## Status
-- **Last monitored**: 2026-11-02
+- **Last monitored**: 2026-11-09
 - Last change: July 1, 2024 — investment thresholds raised (NTF $235,000, Real Estate $270,000) per OECS MoA.
 - Last monitored: 2026-09-14.
 - No open watch items.

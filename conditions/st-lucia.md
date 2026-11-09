@@ -1,7 +1,8 @@
 ---
 title: St Lucia — Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-09
+old_updated: 2026-10-11
 extended_snapshot: 2026-10-13
 type: entity
 tags: [citizenship, citizenship-by-investment, tax, strong_passport]
@@ -12,7 +13,7 @@ sources:
   - https://slu.lc/floissacfleming/pdf/CBI%20Regulations%20Sch%202.pdf
   - https://www.globalcitizensolutions.com/saint-lucia-citizenship-by-investment
 country_code: LC
-last_checked: 2026-11-02
+last_checked: 2026-11-09
 ---
 
 ## Overview
@@ -60,6 +61,8 @@ Open to Russian applicants subject to enhanced due diligence. No Schengen access
 
 ## Community Pulse
 St Lucia's CIP is respected but slower and pricier than peers. The 2024 Caribbean MoU pushed the NEF floor to $240,000. Complaints centre on processing time (15–16 months) and stricter due-diligence scrutiny.
+
+- **[rule_change]** St Lucia amended the Citizenship Act: second and third generation descendants born abroad are now eligible for St Lucian citizenship. ^[https://associatestimes.com/news/saint-lucia-amends-citizenship-act-now-second-third-generation-eligible-for-citizenship]
 
 ## Country Snapshot
 
@@ -166,6 +169,6 @@ Saint Lucia is a Windward Islands nation known for the Pitons, volcanic beaches,
 - Small economy, tourism-dependent
 
 ## Status
-- **Last monitored**: 2026-11-02
+- **Last monitored**: 2026-11-09
 - **Recent changes**: NEF floor raised to $240,000 under the 2024 Caribbean MoU; Citizenship Act amended Jun 2024 (descent for diaspora).
 - **Watch items**: Processing-time reduction; further regional CBI price harmonisation.

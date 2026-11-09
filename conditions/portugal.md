@@ -1,7 +1,8 @@
 ---
 title: Portugal — Residency & Citizenship Conditions
 created: 2026-09-13
-updated: 2026-10-26
+updated: 2026-11-09
+old_updated: 2026-10-26
 extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, golden-visa, digital-nomad, tax, passive-income, it_friendly]
@@ -13,7 +14,7 @@ sources:
   - https://getgoldenvisa.com/portugal-golden-visa-program
   - https://www.globalcitizensolutions.com/portugal-golden-visa-changes
 country_code: PT
-last_checked: 2026-11-02
+last_checked: 2026-11-09
 ---
 
 ## Overview
@@ -135,6 +136,8 @@ Consulates in Russia may have reduced operations — apply via third-country con
 ## Community Pulse
 AIMA backlogs are the dominant complaint across forums: 6–9 months for initial D7/D8 processing, renewal queues. The 10-year citizenship reform (May 2026) was a shock but still among the shortest in Western Europe. Golden Visa fund route is smooth and well-established. D7 income threshold (€920/mo) is the lowest in Western Europe — heavily used by retirees and passive-income holders.
 
+- **[rule_change]** Portugal's 10-year citizenship wait (Lei Orgânica 1/2026) confirmed for applicants from Nigeria, India, Pakistan, and Bangladesh; 7 years for EU/CPLP nationals. ^[https://www.vanguardngr.com/2026/11/portugal-raises-citizenship-wait-to-10-years-for-nigerians-indians-pakistanis]
+
 ## Country Snapshot
 
 | Field | Value | Source / Confidence |
@@ -246,7 +249,7 @@ Portugal is a southern European country on the Iberian Peninsula, bordered by Sp
 - NHR tax regime closed to new applicants (replaced by narrower IFICI)
 
 ## Status
-- **Last monitored**: 2026-11-02
+- **Last monitored**: 2026-11-09
 - **Recent changes (26-10)**: In-country route to a study permit without a prior residence visa revoked for higher-education students, vocational students and interns under the new immigration law. ^[https://www.growinportugal.com/news/portugal-quietly-closes-the-professional-course-residency-ro-2026-10-18]
 - **Processing (26-10)**: AIMA ~30,000 biometric appointments scheduled; 6,000 of ~46,000 pending Golden Visa applications processed as of Oct 2026. ^[https://getgoldenvisa.com/portugal-golden-visa-processing-update-where-aimas-backlog-stands-in-october-2026]
 - **Recent changes**: Nationality law 10-year clock (Lei Orgânica 1/2026, 19 May 2026). AIMA Portal de Renovações operational (Jul 2026). NHR closed, IFICI active. Golden Visa real estate closed since Oct 2023.

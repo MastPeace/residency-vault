@@ -1,9 +1,10 @@
 ---
 title: Venezuela — Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-09
+old_updated: 2026-10-11
 extended_snapshot: 2026-10-13
-last_checked: 2026-11-02
+last_checked: 2026-11-09
 type: entity
 tags: [residence, citizenship, tax]
 category: clear_pathway
@@ -72,6 +73,8 @@ Extensive Caribbean coastline; islands of Isla Margarita, Los Roques, and Mochim
 
 ## Community Pulse
 The dominant narrative is emigration (~7–8 million Venezuelans abroad). There is no meaningful inbound expat or investor community. The 2024 election and continued political crisis have further deterred any residence interest.
+
+- **[new_program]** Venezuela launched the PRO V 90 electronic multi-entry visa for foreign professionals arriving for temporary specialised work. ^[https://www.businesstoday.in/nri/visa/story/venezuela-introduces-new-pro-v-90-visa-for-foreign-professionals-key-details-for-indians-556305-2026-09-18]
 
 ## Country Snapshot
 
@@ -178,6 +181,6 @@ Venezuela is a South American country with the world's largest proven oil reserv
 - No investment-residence or nomad visa
 
 ## Status
-- **Last monitored**: 2026-11-02
+- **Last monitored**: 2026-11-09
 - **Recent changes**: No immigration-policy changes confirmed; political crisis post-2024 election continues.
 - **Watch items**: Any normalisation/opening of residence policy; passport-strength changes as relations shift.
