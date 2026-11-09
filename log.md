@@ -140,4 +140,19 @@
 - hong-kong.md: First five-year plan: "30,000 Youth Employment and Internship", Tier 2 vetting expansion, MPF portability. ^[https://www.humanresourcesonline.net/hong-kong-unveils-first-five-year-plan-and-policy-address-prioritising-ai-talent-and-population-development]
 - Skipped (already present): albania (Unique Permit), kuwait (15-year investor residency), qatar (Executive/Entrepreneur residency).
 
+## [2026-11-09] update | Weekly monitor — 12 country pages
+- united-kingdom.md: Earned Settlement confirmed (ILR 5→10 years; 3-year fast track at £125,141/year). Old rumor watch item removed. ^[https://www.bbc.co.uk/news/articles/c6ly052pdx4no]
+- cuba.md: New migration system — 180 days/year min stay, 24-month absence limit abolished. ^[https://www.riotimesonline.com/cuba-migration-laws-take-effect-24-month-limit-2026]
+- costa-rica.md: Investor incentive window closed 14 Jul 2026. ^[https://thelegationtimes.com/en/costa-rica-investor-residency-incentive-window-20261102-4637]
+- grenada.md: 30-day CBI residence requirement deferred. ^[https://www.imidaily.com/caribbean/grenada-defers-residence-requirement-days-before-its-august-31-commencement]
+- liberia.md: Work permit invoice must be paid within 48 hours. ^[https://visawand.com/news/liberia-work-permit-forty-eight-hour-invoice-reentry-deadline]
+- luxembourg.md: Type D visa replacing temporary stay permit. ^[https://www.luxtimes.lu/luxembourg/visa-replaces-temporary-stay-permit-in-luxembourg-immigration-shake-up]
+- philippines.md: AEP processing simplified (15→10 days, newspaper publication abolished). ^[https://www.fragomen.com/insights/philippines-amendments-to-simplify-and-streamline-labor-market-test-other-alien-employment-permit-processes.html]
+- south-africa.md: Medical report requirement abolished (Jul 2026); revised White Paper on citizenship approved. ^[https://www.workpermitsouthafrica.co.za/major-relief-for-certain-visa-applicants-as-home-affairs-drops-medical-report-requirement]
+- st-lucia.md: Citizenship by descent extended to 2nd/3rd generation. ^[https://associatestimes.com/news/saint-lucia-amends-citizenship-act-now-second-third-generation-eligible-for-citizenship]
+- venezuela.md: PRO V 90 multi-entry visa for foreign professionals launched. ^[https://www.businesstoday.in/nri/visa/story/venezuela-introduces-new-pro-v-90-visa-for-foreign-professionals-key-details-for-indians-556305-2026-09-18]
+- china.md: APEC card extended to 90 days; Shanghai work permit salary thresholds raised. ^[http://english.shanghai.gov.cn/en-Latest-WhatsNew/20261103/5046b8abff1043dfa6546daf277ab451.html]
+- portugal.md: 10-year citizenship confirmed for Nigeria/India/Pakistan/Bangladesh applicants. ^[https://www.vanguardngr.com/2026/11/portugal-raises-citizenship-wait-to-10-years-for-nigerians-indians-pakistanis]
+- Unchanged (already in DB): antigua (CBI suspension threat, 30-day rule), argentina (immigration decree/CBI), canada (Express Entry CRS changes), guyana, hong-kong, japan (PR revocation), new-zealand (3 items), nigeria, singapore, sweden, south-africa (White Paper), UK (investor visa shelved, scale-up reimbursement).
+
 
