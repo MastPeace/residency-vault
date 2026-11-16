@@ -1,7 +1,7 @@
 ---
 title: Grenada — Residency & Citizenship Conditions
 created: 2026-09-14
-updated: 2026-11-09
+updated: 2026-11-16
 old_updated: 2026-09-14
 extended_snapshot: 2026-10-12
 type: entity
@@ -12,7 +12,7 @@ sources:
   - https://imagrenada.gd/citizenship-by-investment
   - https://ntlinternational.com/press/grenada-cbi-regulations-2024
 country_code: GD
-last_checked: 2026-11-09
+last_checked: 2026-11-16
 ---
 
 ## Overview
@@ -181,7 +181,8 @@ Grenada is a tri-island eastern Caribbean nation (Grenada, Carriacou, Petite Mar
 - Small population and economy; limited infrastructure
 - Hurricane risk; climate vulnerability
 ## Status
-- **Last monitored**: 2026-11-09
+- **Last monitored**: 2026-11-16
 - Last change: July 1, 2024 — investment thresholds raised (NTF $235,000, Real Estate $270,000) per OECS MoA.
 - Last monitored: 2026-09-14.
 - No open watch items.
+- 2026-11-16: rule_change: Grenada proposed CBI program changes including physical presence requirement; also under EU pressure to end CBI by 2028. ^[https://adamfayed.com/blog/citizenship-and-residency-by-investment-changes]

@@ -12,7 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Liberian_nationality_law
   - https://www.loc.gov/item/global-legal-monitor/2022-10-12/liberia-law-authorizing-dual-citizenship-and-allowing-women-to-pass-citizenship-to-their-children-enacted
 country_code: LR
-last_checked: 2026-11-09
+last_checked: 2026-11-16
 ---
 
 ## Overview
@@ -185,6 +185,6 @@ Liberia is an English-speaking West African country on the Atlantic coast, Afric
 - Limited banking and financial services
 
 ## Status
-- **Last monitored**: 2026-11-09
+- **Last monitored**: 2026-11-16
 - **Recent changes**: July 2022 Aliens and Nationality Law amendment (dual citizenship; women may pass citizenship to children).
 - **Watch items**: Any expansion of the Negro-descent restriction; digital-nomad visa.

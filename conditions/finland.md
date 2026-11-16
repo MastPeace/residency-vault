@@ -1,7 +1,7 @@
 ---
 title: Finland — Finland
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-11-16
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, it_friendly, clear_pathway]
@@ -12,7 +12,7 @@ sources:
   - https://migri.fi/en/residence-permit-types
   - https://migri.fi/en/start-up-entrepreneur
 country_code: FI
-last_checked: 2026-11-09
+last_checked: 2026-11-16
 ---
 
 ## Overview
@@ -110,9 +110,10 @@ Finland has the world's largest archipelago (Archipelago Sea, 40,000+ islands). 
 Finland fully closed its land border with Russia in late 2023 (remaining closed as of 2026). Visa processing severely restricted. Residence permit applications possible via third-country consulates but face enhanced scrutiny. Finland has a historical Russian-speaking minority (~1.5% of population) and proximity to St Petersburg, but current political climate is hostile to new Russian immigration. The start-up route is accessible in principle but the Business Finland eligibility statement adds a gate.
 
 ## Status
-- **Last monitored**: 2026-11-09
+- **Last monitored**: 2026-11-16
 - **Recent changes**: 2026 tax changes for foreign companies. EU Migration Pact implementation. No major immigration law changes in 2026.
 - **Watch items**: Monitor any reopening of Finland-Russia border (unlikely in 2026). Track citizenship processing times.
+- 2026-11-16: rule_change: Government proposed changes to residence permit procedures to combat labour exploitation — stricter sanctions for non-compliant employers. (proposal stage) ^[https://tem.fi/en/-/government-proposes-changes-to-residence-permit-procedure-to-combat-labour-exploitation]
 
 ## Country Snapshot
 

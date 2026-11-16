@@ -1,7 +1,7 @@
 ---
 title: St Kitts & Nevis — Residency & Citizenship Conditions
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-11-16
 extended_snapshot: 2026-10-13
 type: entity
 tags: [citizenship, citizenship_by_investment, cbi, strong_passport, tax]
@@ -11,7 +11,7 @@ sources:
   - https://ciu.gov.kn/cbi-options
   - https://ciu.gov.kn/news-why-choose-st-kitts-and-nevis-for-second-citizenship/
 country_code: KN
-last_checked: 2026-11-09
+last_checked: 2026-11-16
 ---
 
 ## Overview
@@ -181,7 +181,8 @@ St Kitts & Nevis is the smallest sovereign state in the Western Hemisphere and o
 - Mandatory virtual/consular interview introduced per 2024 OECS MoA
 - Naturalization without CBI takes 14 years — impractical for most
 ## Status
-- **Last monitored**: 2026-11-09
+- **Last monitored**: 2026-11-16
 - Last change: July 2024 — investment thresholds raised per OECS Memorandum of Agreement (SISC $250,000, Real Estate $325,000, Private RE $600,000).
 - Last monitored: 2026-09-14.
 - No open watch items.
+- 2026-11-16: deadline: St Kitts and Nevis is one of five Caribbean countries given EU ultimatum to terminate CBI programs by June 2028 under threat of losing Schengen visa-free access; response deadline 12 November 2026. ^[https://ceoworld.biz/2026/11/14/caribbean-citizenship-by-investment-is-on-a-clock-where-investors-go-next/]

@@ -1,7 +1,7 @@
 ---
 title: South Africa — Republic of South Africa
 created: 2026-09-13
-updated: 2026-11-09
+updated: 2026-11-16
 old_updated: 2026-09-13
 extended_snapshot: 2026-10-13
 type: entity
@@ -13,7 +13,7 @@ sources:
   - https://www.sanews.gov.za/south-africa/department-announces-gazetting-remote-work-visitor-visa
   - https://www.saembassy.org/visas/civic_immigration/citizenship
 country_code: ZA
-last_checked: 2026-11-09
+last_checked: 2026-11-16
 ---
 
 ## Overview
@@ -84,11 +84,12 @@ South Africa is a world-class yachting destination:
 South Africa is visa-free for Russian citizens (90 days tourist). The Remote Work Visa pathway is accessible. Banking is available but has become more stringent for Russian nationals since 2022 (enhanced KYC). Cape Town and Johannesburg have notable Russian-speaking communities. South Africa's non-aligned BRICS membership is a positive. Direct flights are limited; typically via Dubai/Doha/Istanbul.
 
 ## Status
-- **Last monitored**: 2026-11-09
+- **Last monitored**: 2026-11-16
 - **Recent changes**: Remote Work Visitor Visa gazetted October 2024, fully operational. New points-based work visa system launched. Trusted Employer Scheme operational.
 - **Watch items**: Track DHA processing times. Monitor load-shedding improvements. Watch for changes to digital nomad tax treatment.
 
 - **[rule_change]** South Africa's Minister of Home Affairs abolished the medical report requirement for temporary and permanent residence applicants (8 July 2026) — significant cost and time savings. ^[https://www.workpermitsouthafrica.co.za/major-relief-for-certain-visa-applicants-as-home-affairs-drops-medical-report-requirement]
+- 2026-11-16: processing_update: Court ordered DHA to reconsider a business visa refusal (Schinker case, German citizen) — precedent for challenging entrepreneurial visa denials. ^[https://www.craigsmith.co.za/business-visa-refused-what-the-schinker-ruling-means/]
 
 ## Country Snapshot
 

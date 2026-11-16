@@ -1,7 +1,7 @@
 ---
 title: Colombia — Residency & Citizenship Conditions
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-11-16
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, digital-nomad, tax, investor, type-m, type-r]
@@ -12,7 +12,7 @@ sources:
   - https://migraciones.co/en
   - https://goldenharbors.com/articles/colombian-citizenship
 country_code: CO
-last_checked: 2026-11-09
+last_checked: 2026-11-16
 ---
 
 ## Overview
@@ -22,7 +22,7 @@ Colombia's immigration is managed by the Cancillería (Ministry of Foreign Affai
 
 | Type | Official Program | Key Conditions | Duration | Detail |
 |------|-----------------|----------------|----------|--------|
-| investment_residency | Type M — Inversionista | Real estate ≥ ~350× minimum wage (~COP 497,000,000 / ~USD 120,000) or business investment | Up to 3 yr (M) → R after 5 yr | [[#investment-residency]] |
+| investment_residency | Type M — Inversionista | Real estate ≥ 350 SMMLV (COP 612,816,750, ~USD 192,000) or direct investment ≥ 650 SMMLV (COP 1,138,088,250, ~USD 356,000) | Up to 3 yr (M) → R after 5 yr | [[#investment-residency]] |
 | passive_income_residency | Type M — Rentista | Not available as a distinct category; subsumed under investment/pension routes | — | [[#passive-income-residency]] |
 | digital_nomad_visa | Type V — Nómada Digital (Visa V) | Income ≥ 3× minimum wage (~COP 4,270,500 / ~USD 1,042/mo); only for visa-exempt nationalities | Up to 2 yr (renewable); does NOT count toward residency | [[#digital-nomad-visa]] |
 | highly_skilled_employment | Type M — Trabajador | Employment contract with Colombian entity; open work permit on M visa | Up to 3 yr, renewable → R after 5 yr | [[#highly-skilled-employment]] |
@@ -37,7 +37,7 @@ Colombia's immigration is managed by the Cancillería (Ministry of Foreign Affai
 
 ### investment_residency
 - **Official name**: Type M — Inversionista (Resolución 5477 de 2022)
-- **Conditions**: Foreign direct investment minimum ~350× Colombian minimum wage, approximately COP 497 million (~USD 120,000 at 2025 rates) in real estate or a Colombian business. ^[https://nexo.legal/colombian-visa-guide-2025]
+- **Conditions**: Foreign direct investment minimum 350 SMMLV, approximately COP 612,816,750 (~USD 192,000 at 2026 rates) in real estate, or direct investment minimum 650 SMMLV, approximately COP 1,138,088,250 (~USD 356,000). ^[https://www.colombiadesk.com/visas/types-of-visas-in-colombia]
 - **Duration / renewal**: Type M up to 3 years. Convert to Type R (Resident) after 5 years of accumulated M time.
 - **Path to citizenship**: 5 years on R visa (standard), 2 years if married to Colombian / have Colombian child, 1 year for LATAM/Caribbean nationals.
 - **Official source**: https://www.cancilleria.gov.co
@@ -138,9 +138,10 @@ Not a major yachting hub. Cartagena has marina facilities. No special yacht/capt
 - **Costs**: V visa ~USD 393–607 total (govt fees + issuance); M visa ~USD 427–642; R visa ~USD 863.
 
 ## Status
-- **Last monitored**: 2026-11-09
+- **Last monitored**: 2026-11-16
 - Last change: Resolution 5477 of 2022 restructured visa categories. Digital nomad visa introduced.
 - Last monitored: 2026-09-14.
+- 2026-11-16: rule_change: Investment thresholds updated — real estate minimum 350 SMMLV (COP 612,816,750, ~USD 192,000) or direct investment 650 SMMLV (COP 1,138,088,250, ~USD 356,000); visa issued for up to 3 years, PR after 5 years. ^[https://www.colombiadesk.com/visas/types-of-visas-in-colombia]
 ## Country Snapshot
 
 | Field | Value | Source / Confidence |

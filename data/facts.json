@@ -530,18 +530,18 @@
   }
  },
  "colombia": {
-  "hash": "8c838d9e6fc5f6e4",
-  "extracted": "2026-10-12",
+  "hash": "f5b659f79ec81ec3",
+  "extracted": "2026-11-16",
   "gv_min": {
-   "amount": 497000000,
+   "amount": 612816750,
    "currency": "COP",
    "note": "real estate",
-   "evidence": "Real estate ≥ ~350× minimum wage (~COP 497,000,000 / ~USD 120,000) or business investment"
+   "evidence": "Real estate ≥ 350 SMMLV (COP 612,816,750, ~USD 192,000)"
   },
   "remote_visa": {
    "available": true,
-   "min_income": 1042,
-   "currency": "USD",
+   "min_income": 4270500,
+   "currency": "COP",
    "period": "month",
    "evidence": "Income ≥ 3× minimum wage (~COP 4,270,500 / ~USD 1,042/mo)"
   },

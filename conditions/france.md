@@ -1,7 +1,7 @@
 ---
 title: France — Residency & Citizenship Conditions
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-11-16
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, talent-passport, tech-visa, tax, strong_passport]
@@ -13,7 +13,7 @@ sources:
   - https://goldenharbors.com/articles/talent-passport-france
   - https://goldenharbors.com/articles/french-citizenship
 country_code: FR
-last_checked: 2026-11-09
+last_checked: 2026-11-16
 ---
 
 ## Overview
@@ -247,6 +247,7 @@ France is Western Europe's largest country by area and the EU's second-largest e
 - Labor market rigidities and high social charges on employment
 
 ## Status
-- **Last monitored**: 2026-11-09
+- **Last monitored**: 2026-11-16
 - **Recent changes**: Remote work ban under VLS-TS Visiteur confirmed (April 2026). Citizenship language bar raised to B1 (Jan 2026). ANEF digital platform fully operational for online applications.
 - **Watch items**: Monitor any introduction of a dedicated digital nomad visa. Track Talent Passport policy changes. Watch for reform of impatriate tax regime.
+- 2026-11-16: rule_change: Wide-ranging immigration reforms effective 30 October 2026 — simplified job change rules for residence permit holders, updated minimum salary requirements for EU Blue Card, decisions reduced to 90-day deadline. ^[https://www.fragomen.com/insights/france-wide-ranging-immigration-reforms-adoption-of-certain-revised-eu-blue-card-and-single-permit-directive-rules]

@@ -1,7 +1,7 @@
 ---
 title: Vanuatu — Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-10-19
+updated: 2026-11-16
 extended_snapshot: 2026-10-13
 type: entity
 tags: [citizenship, citizenship-by-investment, tax, strong_passport]
@@ -12,7 +12,7 @@ sources:
   - https://vanuatucitizenshipbyinvestment.com/investment-options
   - https://www.vanuatupassport.vu/vanuatu-citizenship-program/vanuatu-passport-cost
 country_code: VU
-last_checked: 2026-11-09
+last_checked: 2026-11-16
 ---
 
 ## Overview
@@ -166,8 +166,9 @@ Vanuatu is a South Pacific archipelago nation east of Australia, economically sm
 - Small, low-income economy (GDP PPP ~$3,200)
 
 ## Status
-- **Last monitored**: 2026-11-09
+- **Last monitored**: 2026-11-16
 - **Recent changes**: CIIP reopened May 2025 (investment + donation model); EU visa-waiver suspension discussions ongoing.
 - **Watch items**: EU reinstatement of Vanuatu's visa-waiver; DSP pricing changes; FIU due-diligence tightening.
 
 - **[suspension]** Правительство Вануату сняло приостановку с программ «гражданство за инвестиции»: Vanuatu Contribution Program (VCP), Development Support Program (DSP) и CIIP возобновляют работу. ^[https://vancitizenship.gov.vu/index.php/news-and-updates/98-vanuatu-contribution-program-vcp-vanuatu-development-support-program-dsp-ciip-suspension-removed]
+- 2026-11-16: rule_change: MPs demand release of secret CBI inquiry reports; EU previously suspended visa-waiver with Vanuatu over due-diligence concerns. ^[https://www.rnz.co.nz/international/pacific-news/546701/vanuatu-mps-demand-release-of-secret-citizenship-inquiry-reports]

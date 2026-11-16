@@ -1,7 +1,7 @@
 ---
 title: Antigua & Barbuda — Residency & Citizenship Conditions
 created: 2026-09-14
-updated: 2026-10-26
+updated: 2026-11-16
 extended_snapshot: 2026-10-11
 type: entity
 tags: [citizenship, citizenship_by_investment, cbi, digital_nomad, strong_passport, tax]
@@ -11,7 +11,7 @@ sources:
   - https://cip.gov.ag/citizenship
   - https://nomad.gov.ag/ui/ndrVisa.php
 country_code: AG
-last_checked: 2026-11-09
+last_checked: 2026-11-16
 ---
 
 ## Overview
@@ -192,9 +192,10 @@ Antigua & Barbuda is a twin-island eastern Caribbean nation and one of the five 
 - Small island economy; limited job market outside tourism/finance
 - Hurricane risk; infrastructure vulnerability
 ## Status
-- **Last monitored**: 2026-11-09
+- **Last monitored**: 2026-11-16
 - **Recent changes (26-10)**: CIP amendments — annual financial audits, biennial operational audits, 30-day physical residency for applicants. ^[https://antiguaobserver.com/annual-audits-30-day-residency-among-cip-amendments/]
 - **Watch items**: Possible CIP suspension ahead of the EU's 12 Nov 2026 deadline (rumor). ^[https://www.imidaily.com/caribbean/antigua-cip-suspension-november-12/]
 - Last change: August 1, 2024 — investment thresholds raised (NDF $230,000, Real Estate $300,000); NDR programme ended.
 - Last monitored: 2026-09-14.
 - Open watch item: possible CIP suspension ahead of the EU's 12 Nov 2026 deadline (rumor).
+- 2026-11-16: deadline: Antigua and Barbuda proposed to EU to extend CBI transition period to 2030 instead of the required June 2028 closure. ^[https://www.artoncapital.com/industry-news/antigua-seeks-a-2030-transition-for-its-citizenship-program]

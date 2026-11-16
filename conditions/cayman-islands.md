@@ -1,7 +1,7 @@
 ---
 title: Cayman Islands — Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-16
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, tax, clear_pathway]
@@ -12,7 +12,7 @@ sources:
   - https://www.bedellcristin.com/imported-media/2886/guide-to-residency-options-in-ci-for-persons-of-independent-means-sept-2020.pdf
   - https://www.oecd.org/content/dam/oecd/en/topics/policy-issue-focus/aeoi/cayman_tax_residency.pdf
 country_code: KY
-last_checked: 2026-11-09
+last_checked: 2026-11-16
 ---
 
 ## Overview
@@ -189,6 +189,7 @@ The Cayman Islands is a wealthy British Overseas Territory and a top-five global
 - Hurricane exposure
 
 ## Status
-- **Last monitored**: 2026-11-09
+- **Last monitored**: 2026-11-16
 - **Recent changes**: No material change to the Independent Means thresholds in 2025–26.
 - **Watch items**: Any Pillar Two/QDMTT shift away from zero corporate tax; Global Citizen Concierge renewal.
+- 2026-11-16: rule_change: New immigration regime effective 1 May 2026 — raised income threshold for dependents, first-time work permit holders must remain with original employer minimum 2 years, new fees introduced. ^[https://daily.ky/guides/moving-to-grand-cayman]

@@ -14,7 +14,7 @@ sources:
   - https://getgoldenvisa.com/portugal-golden-visa-program
   - https://www.globalcitizensolutions.com/portugal-golden-visa-changes
 country_code: PT
-last_checked: 2026-11-09
+last_checked: 2026-11-16
 ---
 
 ## Overview
@@ -249,8 +249,10 @@ Portugal is a southern European country on the Iberian Peninsula, bordered by Sp
 - NHR tax regime closed to new applicants (replaced by narrower IFICI)
 
 ## Status
-- **Last monitored**: 2026-11-09
+- 2026-11-16: Governing parties proposed stricter Golden Visa fund rules (Nov 6): higher domestic investment requirements, new €250,000 social care route, research contribution threshold halved. ^[https://getgoldenvisa.com/portugals-governing-parties-propose-stricter-golden-visa-fund-rules-new-e250k-route]
+- **Last monitored**: 2026-11-16
 - **Recent changes (26-10)**: In-country route to a study permit without a prior residence visa revoked for higher-education students, vocational students and interns under the new immigration law. ^[https://www.growinportugal.com/news/portugal-quietly-closes-the-professional-course-residency-ro-2026-10-18]
 - **Processing (26-10)**: AIMA ~30,000 biometric appointments scheduled; 6,000 of ~46,000 pending Golden Visa applications processed as of Oct 2026. ^[https://getgoldenvisa.com/portugal-golden-visa-processing-update-where-aimas-backlog-stands-in-october-2026]
 - **Recent changes**: Nationality law 10-year clock (Lei Orgânica 1/2026, 19 May 2026). AIMA Portal de Renovações operational (Jul 2026). NHR closed, IFICI active. Golden Visa real estate closed since Oct 2023.
 - **Watch items**: AIMA backlog clearance. Judicial challenges to 10-year citizenship. IFICI eligibility expansion.
+- 2026-11-16: rule_change: Governing parties proposed amendment (6 November) tightening Golden Visa fund rules — higher internal investment requirements, new €250,000 social care route, research contribution minimum halved. ^[https://getgoldenvisa.com/portugals-governing-parties-propose-stricter-golden-visa-fund-rules-new-e250k-route]

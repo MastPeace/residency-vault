@@ -1,7 +1,7 @@
 ---
 title: Spain — Residency & Citizenship Conditions
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-11-16
 extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, digital-nomad, passive-income, popular_ru, clear_pathway]
@@ -13,7 +13,7 @@ sources:
   - https://www.expatfy.es/en/blog/spain-digital-nomad-visa-income-requirements
   - https://www.immigrationspain.es/en/financial-requirements-non-lucrative-visa
 country_code: ES
-last_checked: 2026-11-09
+last_checked: 2026-11-16
 ---
 
 ## Overview
@@ -243,6 +243,7 @@ Spain is a large southern European country occupying most of the Iberian Peninsu
 - Golden Visa permanently closed (April 2025), removing the investor pathway
 
 ## Status
-- **Last monitored**: 2026-11-09
+- **Last monitored**: 2026-11-16
 - **Recent changes**: Golden Visa permanently closed (3 Apr 2025). SMI raised to €1,424.50/mo (Royal Decree 126/2026), affecting DNV and other thresholds.
 - **Watch items**: Monitor NLV income threshold updates. Track DNV renewal processing times. Watch for any revival of investment residence proposals.
+- 2026-11-16: rule_change: Director of UGE announced changes to Digital Nomad Visa (DNV) rules — new income requirements, updated renewal process, strengthened fraud controls. ^[https://remotefromspain.com/spains-digital-nomad-permit-2026-update]

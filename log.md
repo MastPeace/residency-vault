@@ -156,3 +156,30 @@
 - Unchanged (already in DB): antigua (CBI suspension threat, 30-day rule), argentina (immigration decree/CBI), canada (Express Entry CRS changes), guyana, hong-kong, japan (PR revocation), new-zealand (3 items), nigeria, singapore, sweden, south-africa (White Paper), UK (investor visa shelved, scale-up reimbursement).
 
 
+
+## 2026-11-16 update | bosnia-herzegovina: Added visa suspension for India, Bangladesh, Nepal, Sri Lanka nationals
+## 2026-11-16 update | colombia: Updated investment thresholds with 2026 SMMLV values (350 SMMLV real estate, 650 SMMLV direct investment)
+## 2026-11-16 update | costa-rica: Noted USD 150,000 investment threshold unconfirmed after Law 9996 expiry
+## 2026-11-16 update | mozambique: Added golden visa program announcement (details pending)
+## 2026-11-16 update | south-africa: Added Schinker court precedent for business visa refusal appeals
+## 2026-11-16 update | finland: Added proposed employer sanction tightening for labour exploitation
+## 2026-11-16 update | france: Added Oct 30, 2026 immigration reforms (job change, Blue Card salary, 90-day decisions)
+## 2026-11-16 update | georgia: Added updated residence permit fees (300-600 GEL, 10-30 day processing)
+## 2026-11-16 update | ireland: Added Critical Skills Employment Permit and sponsorship rule updates for 2026
+## 2026-11-16 update | uae: Added Golden Visa category and document requirement updates by GDRFA
+## 2026-11-16 update | azerbaijan: Added rumor of digital nomad visa changes from Jan 2027
+## 2026-11-16 update | belarus: Added proposed labor migration reform (regional binding, criminal record requirements)
+## 2026-11-16 update | kazakhstan: Added draft accelerated PR for 174 professions
+## 2026-11-16 update | andorra: Added Catalan language requirement for residence permit renewals starting 2027
+## 2026-11-16 update | canada: Added IRCC processing efficiency for Ukrainians/Hong Kongers, 2027-2029 plan
+## 2026-11-16 update | cyprus: Added review of 12,000 previously issued Golden Visas ahead of Schengen
+## 2026-11-16 update | hungary: Added golden visa program closure planned from January 2027
+## 2026-11-16 update | portugal: Added Nov 6 amendment tightening Golden Visa fund rules, new €250,000 social care route
+## 2026-11-16 update | spain: Added DNV rule changes (income, renewal process, fraud controls)
+## 2026-11-16 update | antigua: Added proposal to extend CBI transition to 2030
+## 2026-11-16 update | cayman-islands: Added new immigration regime (May 2026) — dependent income, 2-year employer lock, fees
+## 2026-11-16 update | dominica: Added EU ultimatum to end CBI by June 2028
+## 2026-11-16 update | grenada: Added CBI changes proposal including physical presence requirement, EU pressure
+## 2026-11-16 update | st-kitts: Added EU ultimatum to end CBI by June 2028
+## 2026-11-16 update | st-lucia: Added EU response on CBI, June 2028 deadline
+## 2026-11-16 update | vanuatu: Added MPs demand for secret CBI inquiry reports release

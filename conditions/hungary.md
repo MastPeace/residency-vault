@@ -1,7 +1,7 @@
 ---
 title: Hungary — Hungary
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-11-16
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, golden-visa, digital-nomad, tax, strong_passport]
@@ -12,7 +12,7 @@ sources:
   - https://imigrant-hungary.com/en/hungary-digital-nomad-visa
   - https://imigrant-hungary.com/en/blog/citizenship-hungary
 country_code: HU
-last_checked: 2026-11-09
+last_checked: 2026-11-16
 ---
 
 ## Overview
@@ -197,6 +197,7 @@ Hungary is an EU/Schengen/NATO member in Central Europe, with Budapest as a majo
 - Landlocked — no coastline
 
 ## Status
-- **Last monitored**: 2026-11-09
+- **Last monitored**: 2026-11-16
 - **Recent changes**: Guest Investor Programme launched July 2024; direct real estate option cancelled before 2025. White Card rules stable.
 - **Watch items**: Monitor any further changes to Golden Visa investment options. Track White Card renewal practice.
+- 2026-11-16: suspension: Hungary plans to close its golden visa program from January 2027; investors advised to apply before end of 2026. ^[https://ukraineopenforbusiness.com/2026/10/22/hungary-plans-to-end-its-golden-visa-program-in-2027/]

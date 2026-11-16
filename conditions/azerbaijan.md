@@ -1,7 +1,7 @@
 ---
 title: Azerbaijan — Azerbaijan
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-11-16
 extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, tax]
@@ -12,7 +12,7 @@ sources:
   - https://www.caspianlegalcenter.az/insights/more/residency-investment-azerbaijan
   - https://oktamam.com/en/residence-permit-in-azerbaijan
 country_code: AZ
-last_checked: 2026-11-09
+last_checked: 2026-11-16
 ---
 
 ## Overview
@@ -121,9 +121,10 @@ Azerbaijan is not a popular expat destination outside the oil/gas sector. Those 
 
 ## Status
 
-- **Last monitored**: 2026-11-09
+- **Last monitored**: 2026-11-16
 - **Recent changes**: New requirements for residence permits introduced; digitalization of migration services ongoing.
 - **Watch items**: Potential changes to investment thresholds. Geopolitical developments with Armenia. Caspian Sea legal status resolution.
+- 2026-11-16: rumor: Digital nomad visa program status to change from 1 January 2027; details pending. (unconfirmed) ^[https://www.stampednomad.com/digital-nomad-visa-changes/feed.xml]
 
 ## Country Snapshot
 
