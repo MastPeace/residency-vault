@@ -44,6 +44,17 @@ Ordered by speed. Ranges are rough assumptions, not market data.
 
 - **Open dataset (parked idea)** — publish country x program-type matrix + `facts.json` as CSV/JSON on `/data/`, GitHub, Hugging Face/Kaggle for backlinks and AI-citation signals. Audit 2026-10-12: matrix 163x10 complete; numeric fields partial (gv_min 55, remote_tax 106, DN min income 31 of 48 programs; no years-to-citizenship, mixed currencies/periods). Option A: ship as-is with a "numeric fields partial" note; option B: first extract years-to-citizenship and normalise currency. Revisit once Search Console shows indexing/links.
 
+## Working process — design review before building (applies to every stage)
+Origin: notes from an interview with an Anthropic developer (secondhand summary, original not verified). Applies to any new feature, data field, pipeline change or product decision, not to checking published posts.
+1. **Practitioner research first.** Before designing, find how professionals solve this exact problem (tools, methods, step order) using web search and primary sources, not model memory. Write 5-10 lines into the task notes. Do not use "act as a senior X" personas.
+2. **Draft the design** in a short note: goal as an outcome/metric, inputs, approach, cost, what could go wrong.
+3. **Parallel critics (3-5), each in a separate session with one angle:** data accuracy / legal risk, cost and maintenance, simpler alternative, edge cases and failure modes, fit with existing architecture. Critics only look for flaws. Use a different model than the author where possible.
+4. **Judge session:** gets the design plus all critiques, accepts or rejects each point with a reason, returns the list of approved changes. The author applies them. The owner makes the final call.
+5. **Scale to the stakes.** Full cycle only for new products, schema changes, paid/B2B features, monetization and anything legal-adjacent. Small fixes skip it. Interactive work: subagents (see delegation config). Cron/pipelines: OpenRouter only.
+6. **Pilot, then decide.** Run the cycle on 2-3 upcoming decisions (candidates: country-fit quiz, "Other / special programs" schema, community channels per country). Record per decision: critiques raised, how many were accepted, cost, whether it changed the design. If it changes nothing, drop it.
+- [ ] Write the reusable critic and judge prompts (`references/design_review.md` in the immigration-monitor skill)
+- [ ] Pilot on the country-fit quiz design
+
 ## Risks to keep in view
 - **Legal:** information only; no individual advice, no promises of outcomes; disclose partnerships; check local rules for lead generation.
 - **Quality:** one wrong threshold costs more reputation than many right facts gain. Every number carries a source and a check date; add human verification before any paid/B2B offer.
