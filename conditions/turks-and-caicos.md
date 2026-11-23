@@ -1,7 +1,7 @@
 ---
 title: Turks & Caicos Islands — Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-11-23
 extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, tax, clear_pathway]
@@ -11,7 +11,7 @@ sources:
   - https://www.oecd.org/content/dam/oecd/en/topics/policy-issue-focus/aeoi/turks-caicosislands-residency.pdf
   - https://www.gov.tc/
 country_code: TC
-last_checked: 2026-11-16
+last_checked: 2026-11-23
 ---
 
 ## Overview
@@ -37,6 +37,7 @@ The Turks and Caicos Islands (TCI) is a British Overseas Territory and a luxury 
 ### investment_residency
 - **Official name**: Permanent Residence Certificate (PRC)
 - **Conditions**: TCI offers a Permanent Residence Certificate to persons of independent means / investors, historically requiring an investment (commonly cited ~US$300,000 in real estate, with a higher-value "fast-track" route). Conditions are set by the TCI government and subject to change; verify current thresholds. ^[https://www.gov.tc/]
+- **Immigration Bill 2026 (effective 1 Dec 2026)**: Parliament passed a bill replacing investment-based permanent residence with a renewable 25-year investor permit; the path to permanent residence lengthens to 20 years. ^[https://bridges.global/news/turks-caicos-investor-permit-25-years]
 - **Duration / renewal**: Indefinite (some classes permit work).
 - **Path to citizenship**: BOTC naturalisation after ~5 years' residence.
 - **Official source**: https://www.gov.tc/
@@ -172,6 +173,7 @@ The Turks and Caicos Islands is a small, affluent British Overseas Territory sou
 - Small, tourism-concentrated job market; hurricane exposure
 
 ## Status
-- **Last monitored**: 2026-11-16
+- **Last monitored**: 2026-11-23
+- 2026-11-23: rule_change: Parliament passed the Immigration Bill 2026: investment-based permanent residence is replaced by a renewable 25-year permit, and the path to permanent residence lengthens to 20 years; effective 1 Dec 2026. ^[https://bridges.global/news/turks-caicos-investor-permit-25-years]
 - **Recent changes**: No material change recorded in 2025–26.
 - **Watch items**: PRC threshold publication; any move toward a formal investor-residence scheme.

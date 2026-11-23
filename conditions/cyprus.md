@@ -1,7 +1,7 @@
 ---
 title: Cyprus — Cyprus
 created: 2026-09-13
-updated: 2026-10-05
+updated: 2026-11-23
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, golden-visa, tax, popular_ru, strong_passport, non-schengen]
@@ -12,7 +12,7 @@ sources:
   - https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127
   - https://philippoulaw.com/articles/how-to-obtain-a-cyprus-citizenship
 country_code: CY
-last_checked: 2026-11-16
+last_checked: 2026-11-23
 ---
 
 ## Overview
@@ -190,7 +190,8 @@ Cyprus is an EU member state with a strong passport but outside Schengen — a s
 
 ## Status
 - 2026-11-16: Cyprus to review 12,000 previously issued Golden Visas ahead of Schengen accession push; possible tightening of permanent residency program. ^[https://uglobal.com/blog/cyprus-to-review-12000-golden-visa-permits-ahead-of-schengen-push/]
-- **Last monitored**: 2026-11-16
+- **Last monitored**: 2026-11-23
+- 2026-11-23: processing_update: Residence permit renewals for five categories become online-only via gov.cy from 1 Jan 2027; paper filings end by late 2026. ^[https://www.visahq.news/2026-11-19/cy/cyprus-makes-residence-permit-renewals-online-only-from-1-january-2027]
 - **Recent changes**: Non-dom dual tax residency permitted from Jan 1, 2026. Citizenship bill for foreign spouses (Sep 12, 2026) proposing reduced residence requirement from 3 years to 6 months for spouses abroad (marriage ≥5 years). Biometric card mandate from Aug 2026. **Schengen**: EC approved Cyprus's technical readiness August 2026; Council vote pending. **Medical exams**: mandatory for Immigration Permit A-F from Sep 1, 2026 (blood tests + chest X-ray, documents require legalization). **Golden Visa tightening (Oct 2026)**: Government notified parliament of plans to tighten Category F PR criteria ahead of Schengen accession — details pending.
 - **Watch items**: Track citizenship bill for foreign spouses (public consultation). Monitor biometric card transition deadlines. **Schengen accession**: European Commission approved Cyprus's technical readiness in August 2026; Council of the EU vote (unanimity required). **Golden Visa**: pending tightening — apply before new rules published. **Medical exams**: From September 1, 2026, Immigration Permit (Categories A–F) applicants must provide blood tests for Hepatitis B, C, HIV, syphilis and a chest X-ray for TB. ^[https://www.visasupdate.com/post/cyprus-medical-examinations-immigration-permits-categories-a-f-2026]
 - 2026-11-16: rule_change: Cyprus to review 12,000 previously issued Golden Visas as part of Schengen accession preparation; possible tightening of permanent residence program. ^[https://uglobal.com/blog/cyprus-to-review-12000-golden-visa-permits-ahead-of-schengen-push/]

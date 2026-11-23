@@ -15,7 +15,7 @@ sources:
   - https://legalclarity.org/costa-rica-dual-citizenship-requirements-and-process
   - https://studiopanamaitalia.com/en/residenze-e-cittadinanze/residenza-in-costarica/
 country_code: CR
-last_checked: 2026-11-16
+last_checked: 2026-11-23
 ---
 
 ## Overview
@@ -148,7 +148,7 @@ Pacific and Caribbean coastlines make Costa Rica a notable yachting destination 
 - **Cost**: Residency application fees ~USD 50; Caja contributions are the real ongoing cost.
 
 ## Status
-- **Last monitored**: 2026-11-16
+- **Last monitored**: 2026-11-23
 - Last change: Digital Nomad Visa (Law No. 10008) enacted 2021, fully operational.
 - Last monitored: 2026-09-14.
 - **[suspension]** Costa Rica's tax and import incentive window for investor residency under Law 9996 closed on 14 July 2026 — the 5-year incentive period expired, no longer available to new applicants. ^[https://thelegationtimes.com/en/costa-rica-investor-residency-incentive-window-20261102-4637]

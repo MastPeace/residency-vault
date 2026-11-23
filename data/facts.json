@@ -1556,8 +1556,8 @@
   }
  },
  "malta": {
-  "hash": "5f6c07328d853d14",
-  "extracted": "2026-10-19",
+  "hash": "ecbcf6e5206689d9",
+  "extracted": "2026-11-23",
   "gv_min": {
    "amount": 300000,
    "currency": "EUR",
@@ -1571,11 +1571,7 @@
    "period": "month",
    "evidence": "€2,700/mo gross income"
   },
-  "remote_tax": {
-   "low_pct": 0,
-   "high_pct": 35,
-   "evidence": "0–35% progressive; remittance-based for non-doms (0% on unremitted foreign income)"
-  }
+  "remote_tax": null
  },
  "marshall-islands": {
   "hash": "5095cd1fd2276b0e",

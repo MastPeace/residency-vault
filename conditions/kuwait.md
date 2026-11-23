@@ -1,7 +1,7 @@
 ---
 title: Kuwait — State of Kuwait
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-11-23
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, tax]
@@ -11,7 +11,7 @@ sources:
   - https://kuwaittimes.com/article/44928/kuwait/new-regulations-for-foreign-investor-residency-permits-up-to-15-years
   - https://gulfnews.com/story/world/gulf/kuwait/kuwait-launches-15-year-residency-programme-for-investors-1.500573812
 country_code: KW
-last_checked: 2026-11-16
+last_checked: 2026-11-23
 ---
 
 ## Overview
@@ -74,7 +74,7 @@ Kuwait launched a new 15-year investor residency programme in June 2026 (Cabinet
 - **Community verdict**: Standard, salary threshold may exclude lower-income workers.
 
 ## Citizenship
-**Not available for expatriates.** Kuwaiti citizenship is by descent (Kuwaiti father). Naturalization is limited to: Arab nationals with 15+ years residence (reduced from 20 years), Arabic fluency, and Muslim faith; or women married to Kuwaiti citizens (after 5–15 years, discretionary). Approvals are rare — typically a few dozen per year. No citizenship-by-investment programme. Stateless Bidoon population remains a major unresolved issue.
+**Not available for expatriates.** Kuwaiti citizenship is by descent (Kuwaiti father). Naturalization is limited to: Arab nationals with 15+ years residence (reduced from 20 years), Arabic fluency, and Muslim faith; or women married to Kuwaiti citizens (after 5–15 years, discretionary). Approvals are rare — typically a few dozen per year. No citizenship-by-investment programme. Stateless Bidoon population remains a major unresolved issue. Naturalised citizens were previously granted voting rights 30 years after naturalisation; an Emiri decree (Nov 2026) strips them of the right to vote and stand for office. ^[https://thedailystar.net/news/world/news/kuwait-strips-naturalised-citizens-voting-rights-4255366]
 
 ## Tax
 - **0% personal income tax** — no tax on salary, dividends, or capital gains.
@@ -109,7 +109,8 @@ Kuwait launched a new 15-year investor residency programme in June 2026 (Cabinet
 Kuwait has the smallest expat appeal among GCC states for lifestyle/residency seekers. The new 15-year investor visa is a step forward but the KD 5M threshold makes it accessible only to major corporate investors. For individual HNWI/residency seekers, UAE, Qatar, and Bahrain are far more practical. Quality of life is lower than neighbours; bureaucratic inertia and restrictive social environment are common complaints. Cost of living is moderate.
 
 ## Status
-- **Last monitored**: 2026-11-16
+- **Last monitored**: 2026-11-23
+- 2026-11-23: rule_change: Emiri decree strips naturalised citizens of the right to vote and stand for office; voting rights previously arose 30 years after naturalisation. ^[https://thedailystar.net/news/world/news/kuwait-strips-naturalised-citizens-voting-rights-4255366]
 - **Recent changes**: Cabinet Resolution No. 651/2026 (Jun 2026) — new 15-year investor residency programme with KDIPA. KD 5M investment threshold.
 - **Watch items**: Implementation of new investor residency. Potential VAT introduction. Further residency reforms.
 

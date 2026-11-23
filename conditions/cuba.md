@@ -1,7 +1,7 @@
 ---
 title: Cuba — Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-11-09
+updated: 2026-11-23
 old_updated: 2026-11-02
 extended_snapshot: 2026-10-12
 type: entity
@@ -12,7 +12,7 @@ sources:
   - https://www.periodico26.cu/index.php/en/cuba-news-2/25548-new-immigration-foreigners-and-citizenship-laws-transform-cuba-s-migration-system
   - https://www.expatfocus.com/cuba/guide/cuba-citizenship
 country_code: CU
-last_checked: 2026-11-16
+last_checked: 2026-11-23
 ---
 
 ## Overview
@@ -175,7 +175,8 @@ Cuba is the largest Caribbean island, a one-party communist state with a state-c
 - 2026 reform tightened the 120-day presence requirement
 
 ## Status
-- **Last monitored**: 2026-11-16
+- **Last monitored**: 2026-11-23
+- 2026-11-23: rule_change: Migration Laws 171, 172 and 173 in force from 1 Nov 2026: the 24-month-abroad rule abolished; 'effective migration residency' introduced. ^[https://guiacubana.com/en/guias/ley-migracion-cuba-2026.html]
 - **Recent changes**: New Immigration, Foreigners, and Citizenship Laws (reported May 2026; most provisions effective 180 days later). 180-day presence rule for effective residency.
 - [2026-11-02] New migration law effective November 2026: two citizen categories — "resident on national territory" and "resident abroad"; "effective migration residency" requires minimum 120 days of presence (corrected from earlier 180-day reports); new investor and entrepreneur residency status introduced. ^[https://en.cibercuba.com/noticias/2026-10-06-u1-e13-s27061-nid342057-cuba-cambia-sus-reglas-migratorias-1-noviembre-deben]
 - **Watch items**: Implementation of the 2026 reform; any liberalisation of foreign-investor residence.

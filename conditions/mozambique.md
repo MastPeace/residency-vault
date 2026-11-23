@@ -1,7 +1,7 @@
 ---
 title: Mozambique — Republic of Mozambique
 created: 2026-10-11
-updated: 2026-11-16
+updated: 2026-11-23
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, employment_residency, investment_residency, tax]
@@ -12,7 +12,7 @@ sources:
   - http://multiplecitizenship.com/wscl/ws_MOZAMBIQUE.html
   - https://evisa.gov.mz/investment-visa.html
 country_code: MZ
-last_checked: 2026-11-16
+last_checked: 2026-11-23
 ---
 
 ## Overview
@@ -184,7 +184,9 @@ Mozambique is a long Lusophone country on the Indian Ocean coast of Southeast Af
 - Low median incomes and limited infrastructure outside Maputo
 
 ## Status
-- **Last monitored**: 2026-11-16
+- **Last monitored**: 2026-11-23
+- 2026-11-23: rule_change: Residence permits are now issued only until the work-permit expiry date; renewing a work permit requires leaving Mozambique. ^[https://fragomen.com/insights/departure-now-required-for-work-permit-renewals-after-government-changes-how-residence-permit-expiries-are-calculated.html]
+- 2026-11-23: rumor: President announced a golden-visa law amendment on 10 Nov 2026; thresholds and details not yet published. ^[https://frederick-capital.com/news/programme-news/mozambique-golden-visa-law-amended-no-thresholds-yet]
 - **Recent changes**: eVisa rollout (evisa.gov.mz) simplified entry for many nationalities.
 - **Watch items**: Any DIRE/foreigner-law reform; Cabo Delgado security impact on permits.
 - 2026-11-16: new_program: Mozambique announced launch of a "golden visa" program to attract foreign investment; program details under approval. ^[https://clubofmozambique.com/news/mozambique-says-a-golden-visa-is-being-put-into-operation-275958/]

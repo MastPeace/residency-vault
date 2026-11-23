@@ -1,7 +1,7 @@
 ---
 title: Czechia — Czech Republic
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-11-23
 extended_snapshot: 2026-10-12
 type: entity
 tags: [residence, citizenship, work-visa, blue-card, digital-nomad, it_friendly]
@@ -11,7 +11,7 @@ sources:
   - https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card/eu-blue-card-czechia_en
   - https://www.mvcr.cz/mvcren/
 country_code: CZ
-last_checked: 2026-11-16
+last_checked: 2026-11-23
 ---
 
 ## Overview
@@ -89,7 +89,9 @@ Not applicable — Czechia is landlocked.
 Russian citizens need a Schengen visa. Employee Card and Blue Card routes open but processing at Czech consulates in Russia may face delays. Czech language requirement (B1) for citizenship is a significant hurdle. Russian-speaking community exists in Prague and Karlovy Vary. Czech public sentiment toward Russia is generally negative since 2022.
 
 ## Status
-- **Last monitored**: 2026-11-16
+- **Last monitored**: 2026-11-23
+- 2026-11-23: rule_change: From 10 Nov 2026 Ukrainian citizens can apply for short-stay work visas at Czech embassies; employee-card rules change from 1 Jan 2027. ^[https://workmarket.eu/thebluebee/cz-ukrainians-embassy-short-stay-work-visa-regulation-216-2026-jobseekers]
+- 2026-11-23: new_program: Czechia launched the Qualified Worker Programme on 20 Nov 2026 for citizens of 13 non-EU countries (incl. Ukraine, Belarus, Armenia, Georgia), issuing a 2-year employee card. ^[https://www.visahq.news/2026-11-20/cz/czechia-opens-qualified-worker-programme-to-citizens-of-13-non-eu-countries/]
 - **Recent changes**: Digital nomad programme launched for IT specialists. Employee Card and Blue Card processes stable.
 - **Watch items**: Monitor Digital Nomad Programme uptake and any processing time trends.
 

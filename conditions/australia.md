@@ -1,7 +1,7 @@
 ---
 title: Australia — Residency & Citizenship Conditions
 created: 2026-09-14
-updated: 2026-10-19
+updated: 2026-11-23
 extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, skilled-migration, investor-visa, strong_passport]
@@ -12,7 +12,7 @@ sources:
   - https://www.racc.net.au/single-post/189-190-or-491-visa-australia-which-skilled-migration-pathway-leads-to-permanent-residency
   - https://oneplanetmigrationlaw.com.au/immigration-blog/australian-citizenship-by-conferral-2026
 country_code: AU
-last_checked: 2026-11-16
+last_checked: 2026-11-23
 ---
 
 ## Overview
@@ -126,7 +126,10 @@ Australia maintains sanctions against Russia. Visa processing for Russian nation
 ## Status
 - **[suspension]** Австралия окончательно закрыла программу Business Innovation and Investment Program (BIIP) для новых заявок с 31 июля 2024 года и перенаправляет квоты на визы для квалифицированных работников. ^[https://www.visaverge.com/news/australia-ends-biip-visa-program-focuses-on-skilled-worker-visas-reports/]
 - **[processing_update]** Департамент внутренних дел Австралии объявил следующий раунд приглашений SkillSelect для визы Skilled Independent (subclass 189) на 15 октября 2026 года. ^[https://www.noworriesmigration.com.au/news-skilled-independent-189-invitation-round-15-october-2026]
-- **Last monitored**: 2026-11-16
+- **Last monitored**: 2026-11-23
+- 2026-11-23: rule_change: Tasmania nomination rules change from 1 Dec 2026: motor-mechanic work counts only in repair businesses, massage therapy only in medical facilities. ^[https://visaenvoy.com/tasmania-nomination-changes-1-december]
+- 2026-11-23: processing_update: South Australia reopened Registrations of Interest (ROI) to all on-shore skilled migrants from 20 Nov 2026, lifting the October restriction. ^[https://visahq.news/2026-11-20/au/south-australia-re-opens-skilled-migration-registrations-to-all-on-shore-candidates]
+- 2026-11-23: processing_update: EOI access and new EOI submissions for visas 189/190/491 move to the SkillSelect portal inside ImmiAccount from 28 Nov 2026. ^[https://immi.homeaffairs.gov.au/news-media/archive/article?itemId=1460]
 - **Recent changes**: BIIP closed to new applications (July 2024); existing pathways remain operational. SID (subclass 482) replaced TSS 482. Points test revision under review.
 - **Watch items**: New National Innovation Visa (replaced Global Talent). Points test reform. State nomination allocation for 2026–2027.
 

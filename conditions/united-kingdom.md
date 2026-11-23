@@ -1,7 +1,7 @@
 ---
 title: United Kingdom — United Kingdom
 created: 2026-09-13
-updated: 2026-11-09
+updated: 2026-11-23
 old_updated: 2026-10-26
 extended_snapshot: 2026-10-13
 type: entity
@@ -14,7 +14,7 @@ sources:
   - https://www.gov.uk/indefinite-leave-to-remain
   - https://www.gov.uk/government/publications/changes-to-the-taxation-of-non-uk-domiciled-individuals
 country_code: GB
-last_checked: 2026-11-16
+last_checked: 2026-11-23
 ---
 
 ## Overview
@@ -117,7 +117,8 @@ UK sanctions are among the world's strictest against Russian nationals. Visa pro
 
 ## Status
 - **[rule_change]** Великобритания объявила об изменениях иммиграционных правил, вступающих в силу с октября 2026 года. ^[https://www.envoyglobal.com/news-alert/united-kingdom-announces-immigration-rule-changes-effective-october-2026/]
-- **Last monitored**: 2026-11-16
+- **Last monitored**: 2026-11-23
+- 2026-11-23: rumor: MAC recommended on 17 Nov 2026 scrapping the Innovator Founder visa in its current form; the Global Talent visa was deemed broadly successful. ^[https://ein.org.uk/node/812842]
 - **Recent changes (26-10)**: From 26 March 2027 settlement (ILR) applications on many routes will require English at B2 level (citizenship stays at B1). ^[https://lifeinukexam.co.uk/en/british-citizenship/rule-changes/]
 - **Watch items**: Monitor ILR qualifying period changes. Track FIG regime implementation details. Watch for any replacement for the closed Tier 1 Investor.
 - **Recent changes**: Tier 1 Investor closed (Feb 2022). Skilled Worker salary threshold raised to £38,700 (April 2024). Non-dom regime replaced by 4-year FIG regime (April 2025). Student dependant restrictions in force (Jan 2024). Family visa income threshold at £29,000, proposed increase to £38,700 under review.

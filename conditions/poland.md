@@ -1,7 +1,7 @@
 ---
 title: Poland — Poland
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-11-23
 extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, work-visa, blue-card, tax, rule_change]
@@ -12,7 +12,7 @@ sources:
   - https://migrant.poznan.uw.gov.pl/en/procedury/temporary-residence-permit-high-qualified-workers-eu-blue-card
   - https://www.gov.pl/web/mswia-en/entry-and-residence-conditions-for-foreign-nationals-in-poland
 country_code: PL
-last_checked: 2026-11-16
+last_checked: 2026-11-23
 ---
 
 ## Overview
@@ -104,7 +104,8 @@ Baltic Sea coastline (Gdańsk, Gdynia, Szczecin). Yacht registration under Polis
 Polish consulates in Russia have severely reduced operations. Visa issuance for Russian citizens is among the most restricted in the EU. Residence permit applications face highest scrutiny of any EU country. B1/C1 Polish language is demanding. Pole's Card route viable for those with documented Polish ancestry. Some Russian nationals have successfully used JDG self-employment route.
 
 ## Status
-- **Last monitored**: 2026-11-16
+- **Last monitored**: 2026-11-23
+- 2026-11-23: deadline: The Polish embassy in Minsk will not accept Karta Polaka applications from 1 Dec 2026 to 17 Jan 2027. ^[https://syn.by/en/politics/international-relations/polish-embassy-minsk-stop-accepting]
 - **Recent changes**: Citizenship tightened to 10 years + civic exam (May 2026). Language may rise from B1 to C1. MOS online-only applications mandatory from April 27, 2026.
 - **Watch items**: Monitor C1 language requirement implementation. Track citizenship reform full details.
 

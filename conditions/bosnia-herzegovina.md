@@ -12,7 +12,7 @@ sources:
   - https://www.goldenvisas.com/bosnia
   - https://msb.gov.ba/inf_za_strance/default.aspx?id=14555&langTag=en-US
 country_code: BA
-last_checked: 2026-11-16
+last_checked: 2026-11-23
 ---
 
 ## Overview
@@ -110,7 +110,7 @@ BiH is not a popular expat destination. Those who relocate report slow bureaucra
 
 ## Status
 
-- **Last monitored**: 2026-11-16
+- **Last monitored**: 2026-11-23
 - **Recent changes**: No significant recent changes to residence/citizenship framework.
 - **Watch items**: EU accession progress (candidate status). Potential simplification of residence procedures as part of EU alignment.
 - 2026-11-16: suspension: Embassy suspended work and temporary visa issuance for nationals of India, Bangladesh, Nepal, and Sri Lanka until at least 6 January 2027 due to quota verification issues. ^[https://sarajevotimes.com/ambassador-hrle-issuance-of-visas-for-foreign-workers-from-india-bangladesh-nepal-has-been-suspended/]

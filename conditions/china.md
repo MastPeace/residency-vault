@@ -1,7 +1,7 @@
 ---
 title: China — Residency & Citizenship Conditions
 created: 2026-10-11
-updated: 2026-11-09
+updated: 2026-11-23
 old_updated: 2026-10-19
 extended_snapshot: 2026-10-12
 type: entity
@@ -13,7 +13,7 @@ sources:
   - https://us.china-embassy.gov.cn/eng/lsfw/zj/notice/202509/t20250920_11712385.htm
   - https://www.mohrss.gov.cn/
 country_code: CN
-last_checked: 2026-11-16
+last_checked: 2026-11-23
 ---
 
 ## Overview
@@ -203,7 +203,8 @@ China is the world's most populous country and second-largest economy, a manufac
 - Heavy bureaucratic compliance for residence permits and tax
 
 ## Status
-- **Last monitored**: 2026-11-16
+- **Last monitored**: 2026-11-23
+- 2026-11-23: rule_change: Shanghai raised work-permit salary thresholds (Nov 2026): Category B from 400,000 to 600,000 yuan and Category A from 600,000 to 900,000 yuan; Nanjing simplified permanent residence. ^[https://www.referchina.com/2026/11/china-visa-policy-updates-november-work.html]
 - **Recent changes known**: None material for foreign residence since 2025; visa categories stable.
 - **Watch items**: Any reform to permanent residence criteria; expansion of visa-free lists.
 

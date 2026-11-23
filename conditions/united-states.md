@@ -1,7 +1,7 @@
 ---
 title: United States — Residency & Citizenship Conditions
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-11-23
 extended_snapshot: 2026-10-13
 type: entity
 tags: [residence, citizenship, h-1b, eb-5, strong_passport]
@@ -12,7 +12,7 @@ sources:
   - https://www.eb5investors.com/eb5-basics/eb-5-visa-requirements
   - https://cis.org/Jacobs/DHS-Proposes-New-Regulation-Revise-EB5-Investor-Visa-Program
 country_code: US
-last_checked: 2026-11-16
+last_checked: 2026-11-23
 ---
 
 ## Overview
@@ -123,7 +123,10 @@ US is a major yachting jurisdiction with extensive marinas (Florida, California,
 US sanctions and deteriorating bilateral relations make visa processing for RU nationals very difficult. The US Consulate in Moscow has suspended most visa services; applicants must travel to third countries. H-1B and EB-5 remain legally open but face enhanced scrutiny. Russian-source funds for EB-5 face enhanced source-of-funds documentation requirements. Existing RU diaspora communities in NYC, Florida, and California, but new arrivals face significant obstacles.
 
 ## Status
-- **Last monitored**: 2026-11-16
+- **Last monitored**: 2026-11-23
+- 2026-11-23: rumor: DHS proposed removing the 60-day grace period for H-1B, L-1, O-1 and TN holders after job loss; not yet in force. ^[https://allaboutlawyer.com/h1b-60-day-grace-period-ending-2026]
+- 2026-11-23: rumor: DOL proposed a PERM overhaul on 16 Nov 2026: job ads from 90 days, no certification after layoffs, and ending the Schedule A exemption. ^[https://business-standard.com/amp/immigration/us-proposes-overhaul-of-green-card-sponsorship-rules-for-foreign-workers-126111700619_1.html]
+- 2026-11-23: fee_change: EB-5 petition fees (I-526, I-526E, I-829) roughly double from 30 Nov 2026. ^[https://legalservicesincorporated.com/immigration-law/investor-visas/eb5-visa/eb5-fee-increase-effective-date]
 - **Recent changes**: H-1B FY2027 weighted lottery favoring higher-skilled/higher-paid implemented. DHS proposed EB-5 increase (TEA $800,000 → $1,400,000 in High Employment Areas). Sept 30, 2026 EB-5 grandfathering deadline.
 - **Watch items**: EB-5 RIA regulatory implementation. H-1B cap season outcomes. Potential IER changes.
 

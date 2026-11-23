@@ -12,7 +12,7 @@ sources:
   - https://ircc.com/business-immigration
   - https://immigration.ca/canada-start-up-visa-2026-irccs-strict-active-management-rules
 country_code: CA
-last_checked: 2026-11-16
+last_checked: 2026-11-23
 ---
 
 ## Overview
@@ -125,7 +125,7 @@ Canada maintains sanctions against Russia. Visitor visa and study permit process
 - 2026-11-16: Canada announced measures to efficiently process existing PR applications for Ukrainians and Hong Kong residents; new immigration levels plan for 2027-2029 will return to sustainable levels. ^[https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/canada-takes-action-to-efficiently-process-existing-permanent-residence-applications-for-ukrainians-and-hong-kongers.html]
 - **[rule_change]** Северо-Западные территории Канады увеличили квоту Провинциальной номинационной программы (NTNP) до 300 мест на 2026 год. ^[https://www.gov.nt.ca/en/newsroom/northwest-territories-nominee-program-allocations-increased-300]
 - **[rule_change]** Канада объявила об изменениях в системе Express Entry: с 3 ноября 2026 года вводятся новые правила начисления баллов CRS за канадский опыт работы и предложения о работе. ^[https://immigrationnewscanada.ca/new-express-entry-changes-november-2026/]
-- **Last monitored**: 2026-11-16
+- **Last monitored**: 2026-11-23
 - **Recent changes**: Start-Up Visa suspended (Dec 2025). Express Entry record ITAs in 2026. Bill C-3 extended citizenship by descent. IRCC stabilized admissions at 380,000/year for 2026–2028.
 - **Watch items**: New entrepreneur pilot launch date pending. CRS cutoff trends. CEC draw frequency.
 - 2026-11-16: processing_update: IRCC taking measures to efficiently process existing PR applications for Ukrainians and Hong Kongers; 2027–2029 immigration levels plan signals return to sustainable levels. ^[https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/canada-takes-action-to-efficiently-process-existing-permanent-residence-applications-for-ukrainians-and-hong-kongers.html]

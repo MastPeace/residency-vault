@@ -1,7 +1,7 @@
 ---
 title: Malta — Malta
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-11-23
 extended_snapshot: 2026-10-11
 type: entity
 tags: [residence, citizenship, golden-visa, digital-nomad, tax, strong_passport, rule_change]
@@ -12,7 +12,7 @@ sources:
   - https://www.ccmalta.com/publications/malta-golden-visa
   - https://workvisa.guide/blog/malta-golden-visa
 country_code: MT
-last_checked: 2026-11-16
+last_checked: 2026-11-23
 ---
 
 ## Overview
@@ -81,6 +81,7 @@ Malta is the smallest EU member state with a strong passport and full Schengen m
 
 ## Tax
 Malta's tax system is **remittance-based** for non-domiciled residents:
+- **From 1 January 2027**: the four individual tax-residence programmes (Residence Programme, Global Residence Programme, Highly Qualified Persons, and Key Employee) are consolidated into a single regime; the minimum annual tax rises from €15,000 to €35,000, with tighter property/asset thresholds. ^[https://chambers.com/articles/maltas-individual-tax-programmes-the-final-opportunity-to-benefit-from-the-existing-tax-rules-befo]
 - Foreign income taxed **only if remitted to Malta**
 - Non-domiciled residents: 0% tax on foreign-source income not remitted
 - Personal income tax: progressive **0%–35%**
@@ -209,6 +210,7 @@ Malta is the smallest EU member state — a Mediterranean island nation with ful
 - Infrastructure strain and construction pressure from rapid population growth
 
 ## Status
-- **Last monitored**: 2026-11-16
+- **Last monitored**: 2026-11-23
+- 2026-11-23: rule_change: From 1 Jan 2027 Malta's four individual tax-residence programmes merge into one; the minimum annual tax rises from €15,000 to €35,000, with tighter asset thresholds. ^[https://chambers.com/articles/maltas-individual-tax-programmes-the-final-opportunity-to-benefit-from-the-existing-tax-rules-befo]
 - **Recent changes**: ECJ struck down citizenship-by-investment (April 2025). MPRP (permanent residency) remains operational and unaffected by CBI ruling. No major 2026 changes to MPRP.
 - **Watch items**: Monitor ECJ ruling impact on existing CBI holders. Track any MPRP fee/investment threshold adjustments.
