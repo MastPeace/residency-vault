@@ -183,3 +183,10 @@
 ## 2026-11-16 update | st-kitts: Added EU ultimatum to end CBI by June 2028
 ## 2026-11-16 update | st-lucia: Added EU response on CBI, June 2028 deadline
 ## 2026-11-16 update | vanuatu: Added MPs demand for secret CBI inquiry reports release
+
+## 2026-11-23 update | weekly monitor run
+- Screened 163 countries (45 flagged, 118 no_change), analyzer produced 30 items from 20 countries.
+- Updated 18 country pages: armenia, australia, belarus, bulgaria, china, cuba, cyprus, czechia, dominica, kuwait, malta, mozambique, new-zealand, poland, st-lucia, turks-and-caicos, united-kingdom, united-states.
+- 3 items unchanged (bosnia-herzegovina suspension, croatia 18-month DN rule, united-kingdom earned-settlement already on page).
+- Content-section edits: malta (tax programmes consolidation), turks-and-caicos (Immigration Bill 2026 25-yr permit), bulgaria (PR revocation rule), kuwait (naturalised citizens voting rights).
+- Stamped last_checked 2026-11-23 on all 163 pages; numbers normalized (1 file); facts extracted (1 page); RU translations refreshed (18 stale).
